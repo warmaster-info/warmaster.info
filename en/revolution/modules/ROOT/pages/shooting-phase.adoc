@@ -1,0 +1,193 @@
+= The Shooting Phase
+
+The effect of missile weapons is worked out in the Shooting phase. This includes missile fire from troops armed with bows, crossbows and similar weapons as well as long ranged artillery bombardment from weapons such as cannons and stone throwing engines. All magic attacks also happen in this phase, such as _Balls of Flame_ or _Death Bolts_ hurled by sorcerers.
+
+== Attack Value
+
+Troops that carry missile weapons such as bows, crossbows and handguns have a separate Attack value. This is expressed as a number following a slash, thus: 3/1, where 3 is the Attack value in close combat and 1 is the Attack value for shooting.
+
+image:
+
+diagram:
+Attacks
+3/1
+Close Combat Attack value
+Shooting Attack value
+
+== Targets
+
+Units equipped with missile weapons can shoot once in their turn if they are in range of a suitable target they can
+see. Units engaged in combat cannot shoot other than to shoot at units that have charged them, as described later.
+A unit automatically shoots at the closest enemy unit it can see. All stands shoot at the same target unit where possible. If two visible enemy units are equally close, the player may choose which to shoot at. If it’s impossible
+for every stand to shoot at the same enemy unit then shooting can be divided stand by stand, though this tends
+to be ineffective.
+
+A stand must be able to see its target to shoot at it. It is assumed to be able to see if an unobscured line of sight
+can be drawn from its front base edge to the target’s base. However to have enough space to shoot, at least 1cm of the shooting stand should have clear visibility to the target unit. Sight is obscured by interposing terrain (other than low terrain features such as low obstacles, streams/rivers, marshes), other units, other stands from the shooting unit or any features that, in reality, would make it impractical to see or shoot. See Diagram 27.1.
+
+Stands inside a wood are assumed to be able to see up to 2cm. Stands within 2cm of a wood’s edge are assumed to be able to see outside the wood. Likewise, stands outside the wood can see stands positioned up to 2cm within it. This makes it possible for archers to line up at the edge of the wood and shoot out without exposing themselves to a charge from cavalry, chariots or other enemy for whom the wood is impassable.
+
+diagram:
+Diagram 27.1
+TARGETS IN SIGHT
+TARGETS OUT OF SIGHT
+A stand can see if it is possible to draw a line of sight from its front edge to the target (shaded area).
+
+Enemy units in combat are judged to be intermingled with their opponents and don’t therefore present a clear visible target to missile fire. They are consequently ignored as potential targets.
+
+Some units can see all round - they have 360 degree vision - and you will find this indicated in the unit‘s description (for example, Wolf Riders). This means when shooting at the enemy a line of sight can be drawn from any free edge of any stand in the unit. However, note that even a unit that can see all round cannot charge an enemy unless a line of sight can be drawn form a stand‘s front edge.
+
+== Range
+
+Most troops have a range of 30cm with their weapons regardless of whether they carry bows, crossbows or whatever. The range represents the tactical area over which the unit operates rather than the literal distance a weapon can shoot and most missile weapons are comparable in this respect. Of course, many artillery pieces can shoot a large boulder, cannon ball or some such missile quite a good distance because their tactical role is to provide long ranged bombardment. In these cases, special rules apply as we shall see later. Various rules for specific weapons are also noted in the Army Lists section.
+
+The distance between units is measured stand by stand. An individual stand must be in range in order to shoot. This may result in some stands being within range whilst others are out, even though they are in the same unit.
+
+== How to calculate casualties
+
+To work out the effect of missile fire, begin by adding up the unit’s total shooting Attack value. For example, a
+unit of three stands, each with a shooting Attack value of 1, will have a total value of 3. The total value is the number of dice rolled to determine how many hits are scored on the target. The minimum dice roll required for a hit is normally 4 or more. So, three dice rolls of 1, 4 and 6 equals two hits on the target.
+
+In practice, players may find it convenient to resolve shooting attacks from several units at once if they are firing  at the same target. This is perfectly acceptable and saves time rolling several batches of dice. Just add up the total number of dice rolls from all the units shooting and roll all the dice at once.
+
+It is harder to score a hit on a target if it is in a defended or fortified position. In cases where some stands from
+a unit are protected whilst others are not, shooters will always target the least protected stands so long as they are able to see them and are within range, even though other stands may be closer. Unprotected stands must be removed as casualties first. In cases where casualties are likely to result in the removal of whole stands, it will be necessary to break the dice rolling into batches so that the appropriate penalty can be applied once all exposed stands are destroyed. The full definitions and further rules for troops in defended and fortified positions are discussed in the Combat phase section (p.53).
+
+The chart below shows the scores needed to hit.
+
+.Scores to hit
+[cols="4,1"]
+|===
+|All targets, except as noted below
+|4, 5 or 6
+
+|Infantry/artillery target in defended position
+|5 or 6
+
+|Infantry/artillery target in fortified position
+|6
+|===
+
+=== Armour
+
+If a target unit has armour then the number of hits scored by shooters may be potentially reduced. The target’s
+Armour value is expressed as a number 6+, 5+, 4+ or 3+, indicating the minimum dice score required to nullify a
+hit. Roll one dice for each hit scored on the unit. Any dice that scores equal to or more than the Armour value
+of the unit will nullify or ‘save’ one hit. Hits nullified in this way are ignored –they are not struck on the target
+and no further account is taken of them. For example, a unit of Empire Knights (Armour 4+) is shot at by two
+units of archers which score four hits. Four dice are rolled for Armour (one dice per hit) scoring 2, 4, 5 and
+6. As any score of 4 or more equals a ‘save’, 3 hits are nullified and the Knights suffer only one hit.
+
+=== Removing casualties
+
+Units can sustain a number of hits before a stand is destroyed and this number varies depending upon how
+tough and how determined the target is. Men have a value of 3, for example, whilst dour, stubborn-minded
+Dwarfs have a value of 4. Once a unit has taken a number of hits equal to its Hits value, remove a stand
+immediately. If the unit takes insufficient hits to destroy a stand, or if it suffers enough to remove a stand with
+some remaining, record any hits left over. This is most easily done by placing a distinctively coloured dice
+directly behind the unit so that it shows the number of hits the unit has taken.
+
+If a unit is shot at by several enemies during the Shooting phase it may take further hits and the total may mount
+up. Remove stands as casualties occur and record any hits left over as appropriate. Once the Shooting phase is
+over, any odd hits are discounted. Hits are not recorded from one phase to another or from one turn to the next.
+We assume that the regiment regroups while lightly wounded or disaffected warriors are brought back into
+the fighting ranks. Although this means that it is quite difficult to inflict casualties by shooting, missile fire can
+be used to drive back enemy units, as follows.
+
+== Driving back enemies
+
+At the end of the Shooting phase, units that have taken hits during the phase are driven back by the hail of
+missiles. This can be thought of as an orderly retreat under fire or as an out-and-out flight followed by a swift
+rally, depending on the distance involved. The more hits a unit suffers, the further it is likely to be driven back.
+Work out how far units are driven back once all shooting is complete but before disregarding odd hits at the end
+of the Shooting phase. The player whose units are being driven back can decide the order in which drive backs
+are resolved.
+
+To determine how far units are driven back, the opposing player rolls one dice for each hit suffered. Don’t forget
+to include hits from any stands that have been removed during the phase. Add up the total of all the dice to find
+how far the unit is driven back. For example, a unit taking two hits rolls two dice scoring 3 and 4, resulting
+in the unit being driven back 7cm.
+
+image::wmr-sword.png[width=60%,pdfwidth=80%,align=center]
+
+A unit that has one or more stands in a defended position disregards the first hit suffered when working out drive
+backs. This means one hit cannot cause a drive back, two hits roll one dice, three hits roll two dice and so on.
+A unit that has 1 or more stands in a fortified position disregards the first two hits suffered when working out
+drive backs. This means one or two hits cannot cause a drive back, three hits roll 1 dice, four hits roll 2 dice and
+so on.
+
+Units that are driven back move directly away from the closest enemy stand that shot at them regardless of
+whether that enemy inflicted any hits – this is called the driving unit. Note that driving units will normally be
+units of troops – but can also be enemy wizards if the unit has been affected by an appropriate spell (such as
+Ball of Flame).
+
+When a unit is driven back, it is moved directly away from the enemy without changing its formation or
+orientation. The direction of the drive back is established by placing a ruler or other straight edge
+between the closest enemy stand and the closest part of the unit as shown in the diagram above. This is similar
+to an evade move as described in the Movement section (see p.24), but note that in the case of an evade, the unit
+can change its formation and stands can change their orientation as they move, in the case of a drive back, a unit can do neither of these things but must move back as a block. See Diagram 29.1.
+
+diagram:
+Diagram 29.1
+DRIVING UNIT
+TARGET UNIT
+The infantry unit suffers
+three hits - enough to
+remove a stand and drive
+the unit back 3D6 cm.
+Rolls of 3, 4 and 5 give
+a 12 cm drive back as
+shown.
+
+=== Units confused during drive backs
+
+Units that have been driven back may become confused amidst the turmoil of a disorderly recoil. This is a marked
+disadvantage because it means that units will be unable to move in their following turn.
+
+When you roll for drive back distances, any dice roll of a 6 means that the unit becomes *confused*.
+
+Units may also become confused if they are driven back into terrain which they can’t enter or if they are driven
+back into other units, whether they are friend or foe. See the section on Confusion (p.55) for full rules.
+
+=== Units routed by drive backs
+
+If the Drive back dice roll is greater than the unit’s full pace movement distance, then the unit is automatically
+deemed to have fled from the battle in rout. The unit is not moved – instead the entire unit is removed as a
+casualty.
+
+This happens rarely because units taking many hits are usually destroyed as a result. Large monsters with many hits are more likely to be destroyed in this fashion than infantry or cavalry units.
+
+== Shooting at charging enemy
+
+Stands capable of shooting (including artillery, appropriate monsters and some machines) and which are not already engaged in combat, can shoot at enemy units charging their own unit. Remember, a unit is ‘charged’ so long as it is contacted by a charging stand – it does not matter if the unit was not the original target of the charge.
+
+These shots represent the unit pelting the enemy with missiles as they approach, perhaps at the very last moment but possibly as part of a fighting withdrawal by parties posted ahead of the unit’s main body. Shooting in this way is an exception to the normal turn sequence because it happens in the enemy’s turn. Shots are worked out as soon as the charging unit has finished its move. Shooting stands must be able to draw a line of sight to the enemy unit at some point during the charge move whilst it is within their weapon range. This can be at any moment during the charge: either at the start of the move, once it is complete or at any point in between. Note that some troops are allowed to shoot all round (e.g., Wolf Riders) and they can therefore shoot by drawing a line of sight from any edge – other troops must draw a line of sight from their front edge as usual.
+
+Calculate the effect of shots and remove any whole stand casualties straight away before moving any further units. Bear in mind that because casualties are removed at once, this can potentially create a line of sight for another unit to charge into a space vacated by the casualty.
+
+Note that shots from bolt throwers can penetrate enemy stands and affect other stands or units behind the target. Shots are always calculated from the position of the chargers at the beginning or at the end of their move – so penetration can be easily calculated from the starting or the final position of the charging unit.
+
+Hits inflicted on the charging enemy unit are carried over into the combat. When it comes to working out combat results, these hits count as having been struck in the first combat round. If enough shooting hits are caused to destroy one or more charging stands, then casualties are removed immediately and do not therefore fight in the Combat phase. Remember – the total number of shooting hits count as having been struck in the first combat round even where whole stands have been removed, as shown in diagrams 31.1 and 31.2.
+
+_For example, if an Archer unit inflicts two hits on a unit of charging Knights, the Knights start the combat with two hits outstanding and these will count towards the combat result for the first round. If three hits were inflicted, then one stand is removed and will not fight in the combat – the three hits still count as having been struck in the first combat round._
+
+Hits on charging units don’t cause drive backs. This is partly for convenience, as the game would quickly become very cluttered otherwise, but it also reflects the ability of troops to stoically advance under fire once they have the enemy in sight. Any loss of enthusiasm is taken into account by including any hits inflicted in the result for the first round of fighting (see Combat results p.43).
+
+diagram:
+Diagram 31.1
+The Archers shoot as the Knights charge.
+
+If a missile-armed unit is charged by two or more enemy units, one after the other, then it can potentially shoot more than once. When shooting at a second or subsequent charger only those stands that are not already engaged can fire. Remember that stands touching corner-to-corner are engaged and so are not free to shoot at charging enemy.
+
+Diagram 31.2
+2 hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round.
+
+== Special situations
+
+When a unit is hit by shooting or magic being already engaged in combat or if a unit that has been shot at is engaged in combat at the end of shooting phase then it cannot be driven back. Any hits scored count as having been struck in the first round of combat that turn. Note that this will only occur in some very special situations mostly due to magic.
+
+== The role of missile troops
+
+You may have realised by now that missile fire isn’t a terribly effective way of destroying enemy units. The number of hits inflicted will probably be insufficient to remove a stand and any odd hits are always discounted at the end of the phase. The most effective way to employ missile fire is to coordinate attacks from several units at once.
+
+However, shooting is a very effective way of pinning down enemy troops and driving them from strongly defended positions. Good generals will recognise these qualities immediately, for they are an important means of controlling the battlefield and frustrating your enemy’s plans.

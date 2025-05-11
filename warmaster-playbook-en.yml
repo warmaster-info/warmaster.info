@@ -1,0 +1,39 @@
+site:
+  title: Warmaster Revolution
+  start_page: ROOT::index.adoc
+  keys:
+    language: en
+content:
+  sources:
+    - url: .
+      start_path: ./en/home
+      branches: HEAD
+    - url: .
+      start_path: ./en/revolution
+      branches: HEAD
+output:
+  clean: false
+  dir: ./output/en
+runtime:
+  fetch: true
+  cache_dir: ./cache
+ui:
+  supplemental_files: ./supplemental_ui
+#urls:
+#  html_extension_style: drop
+#  latest_version_segment_strategy: redirect:to
+#  latest_version_segment: latest
+#  redirect_facility: httpd
+asciidoc:
+  attributes:
+    idprefix: ''
+    idseparator: '-'
+    page-pagination: yes
+    page-toctitle: 'Page contents'
+    language: en
+    null: ␀
+#antora:
+#  extensions:
+#  - require: '@antora/lunr-extension'
+#    index_latest_only: true
+#    languages: [en]
