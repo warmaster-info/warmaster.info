@@ -1,0 +1,372 @@
+= The Command Phase
+
+Units usually moved in the Command phase. A unit
+usually requires orders before it will move but if
+the enemy is very close, a unit is able to react directly
+to its presence. Otherwise, if a unit receives no orders it
+remains where it is and awaits further instructions.
+
+The Command phase proceeds in the following sequence:
+
+. *Initiative Movement*
++
+Any units moving by initiative do so.
+. *Ordered Movement*
++
+Orders are given to other units to move.
+
+== Initiative movement
+
+Units within 20cm of the enemy at the start of the
+Command phase can use their initiative to move without
+orders. They do not have to do so – it is up to the player
+to decide whether to use initiative or to issue an order. If
+the player requires any of his units to use their initiative,
+they must do so *before* any orders are issued.
+
+Before we concern ourselves further with initiative
+movement, we need to understand how ordered
+movement works. For this reason, an explanation of
+initiative movement and further rules for it are given in
+the Movement section of the rulebook.
+
+== Ordered movement
+
+Issuing orders is one of the most important features
+of Warmaster. An order is given to a unit to enable it
+to move. Once a unit has moved, another unit may be
+given an order and moved and so on. This represents the
+process of relaying instructions by messenger, or a local
+commander’s interpretation of orders either given by
+signal or arranged before the battle.
+
+Orders are issued by Generals, Wizards and Heroes,
+collectively known as characters. Specific rules for
+Generals, Wizards and Heroes are given in the Generals,
+Wizards & Heroes section of the rulebook (p.59).
+
+image::the-command-phase/giant.png[]
+
+== Giving an order
+
+The player begins giving an order by choosing a unit
+which he wishes to move. He must then take a dice test
+to determine if the order is received and acted upon. This
+works in the following way:
+
+Roll 2D6 (ie, roll two dice and add the results to get a
+score of between 2 and 12). If the score is equal to or less
+than the character’s Command value then the unit has
+received its order and can move full pace. If the score
+is more than the character’s Command value then the
+unit has not received its order and can move only half
+pace (see Movement section p.19). This represents unit‘s
+commanders being able to act on their own to some
+limited extent.
+
+Once a character has begun to issue orders, he must
+finish issuing all of his orders before another character
+can start to do so. It is not permitted for a character to
+issue an order, then a different character to issue one,
+then the first character again.
+
+.Command values
+****
+This table shows the Command values for different
+Generals. As you can see, there are three basic
+values and some are better than others.
+
+[cols="<,>"]
+|===
+|High Elf  |10
+|Dwarf     |10
+|Empire    |9
+|Tomb King |9
+|Chaos     |9
+|Orc       |8
+|===
+****
+
+Once a character has failed to give an order, he cannot
+issue any more orders in that Command phase. Once the
+General has failed to give an order, no further orders
+can be issued by any other characters in that Command
+phase even if they have not done so already.
+The character has run out of time, the distance
+between him and the unit he is issuing orders
+to is too great for his signals to be
+discerned, or the message may have been
+lost or confused (perhaps the
+messenger has been caught up in
+nearby enemy action and killed).
+
+=== Giving further orders
+
+When a unit is given an order, it moves to a new position.
+Usually this enables the unit to move 20cm if it is infantry
+or 30cm if cavalry, but some troops move at different
+speeds as we shall see later.
+
+image::the-command-phase/skinks.png[]
+
+Once a unit has moved, the character can give it a further
+order to move again or he can attempt to give an order to
+a different unit. However, he is not permitted to go back
+to a previously moved unit once he has moved another
+unit. Nor is a different character permitted to give a unit
+an order if that unit has already been given an order that
+turn, even if the order was failed. This is an important
+rule so it is worth remembering right from the start. If
+you want to move a unit several times, the character must
+finish ordering it to move completely before he can try to
+issue an order to a different unit. Note that a unit can be
+given up to a maximum of *three* orders in succession. A
+unit failing to receive a *further* order *cannot* move at all.
+
+The player continues issuing orders and moving his units
+until he no longer wishes to move or until he can issue no
+more orders. It is possible to fail to issue any orders at all
+during a Command phase, although this happens rarely.
+More commonly, a player might manage to move only
+one or two units before a dice roll ends movement. This
+represents the confusion of battle, the indecisiveness
+of unit leaders, occasional stupidity and all those other
+annoying things that bedevil the process of waging war.
+
+image::the-command-phase/goblins.png[]
+
+== Command penalties
+
+Circumstances can sometimes make it harder to issue an
+order. For example, a unit might be a far distant speck on
+the horizon or it might be obscured within dense terrain.
+All of these things make it harder for the character to
+identify what is going on and less likely that an effective
+order will be formulated or received. To represent this,
+we apply the following penalties:
+
+. If the distance between the character and the unit you
+  wish to move is more than 20cm, the character suffers a
+  Command penalty of -1 per full 20cm of distance. When
+  measuring distances between characters and units in this
+  way, measure the shortest distance between them.
++
+[cols="^,^"]
+|===
+|Distance to Unit |Command Penalty
+
+|Up to 20cm  |none
+|Up to 40cm  |-1
+|Up to 60cm  |-2
+|Up to 80cm  |-3
+|per +20cm   |minus a further 1
+|===
+
+. If a unit has already been issued an order during the
+  Command phase then there is a Command penalty of
+  -1 each time the character gives it a further order. This
+  accounts for fatigue and the limits of time, so a unit
+  which has already moved several times is harder to move
+  again. This penalty is cumulative, so a unit’s second order
+  is at -1, its third order is at -2.
++
+[cols="^,^"]
+|===
+|Order  |Command Penalty
+|First  |none
+|Second |-1
+|Third  |-2
+|===
+
+. If the distance between the unit you wish to move
+and the closest enemy unit is 20cm or less, there is a
+Command penalty of -1. Units close to the enemy are
+naturally inclined to use their initiative to react, so it is
+harder to give them a specific order.
++
+[cols="^,^"]
+|===
+|Closest Enemy  |Command Penalty
+|Up to 20cm     |-1
+|More than 20cm |none
+|===
+
+. If the unit you want to move is in dense terrain then
+  there is a Command penalty of -1. The penalty applies if
+  at least one stand is even partially within dense terrain.
+  Typical dense terrain features are woods, in and around
+  buildings, ruins and similar. See the Movement section
+  for more about dense terrain (p.22) as well as Advanced
+  Terrain Rules for more examples (p.80).
++
+[cols="^,^"]
+|===
+|Dense Terrain  |Command Penalty
+|Within feature |-1
+|===
++
+_For example, a General (Command value 9) wishes to
+order a unit of infantry to move forward. The unit is
+25cm distant (-1 distance penalty) and within a wood (-1
+dense terrain penalty). The player therefore requires a
+dice roll of 7 or less to successfully issue an order._
+
+. If the unit has lost one or more stands as casualties
+  then there is a Command penalty of -1 per stand lost.
+  Units which have suffered casualties are harder to
+  motivate than fresh units.
++
+[cols="^,^"]
+|===
+|Casualties  |Command Penalty
+|Each Stand  |-1
+|===
+
+image::the-command-phase/triskelion.png[]
+
+.Optional rule
+****
+All Characters have +1 bonus to their Command
+value for their first command of the first turn.
+This represents a better state of organisation and
+communication before the battle commences. Note
+that the Command value can never exceed 10.
+****
+
+image::the-command-phase/bretonnian-knights.png[]
+
+.A unit of cavalry charging into combat with a unit of infantry
+image::the-command-phase/cavalry-charge.png[]
+
+== Charge!
+
+A move which brings a unit into contact with the enemy
+is called a charge. A charge does not imply that the unit
+concerned covers the whole distance at a mad gallop but,
+nonetheless, we will use this word as a convenient and
+dramatic term to describe a move into confrontation.
+Units that failed to receive an order cannot charge.
+
+Once it has charged, a unit cannot receive any further
+orders that turn. It is committed to battle and must fight
+in the ensuing Combat phase. See the Combat phase
+section for further explanation (p.33).
+
+== Brigades
+
+In order to save time, it is permitted for an order to be
+issued to up to four adjacent units simultaneously. This
+means that fewer tests need to be taken to issue orders to
+the entire army and ensures that units move at the same
+time, maintaining a coherent battle plan. If you find this
+a bit confusing, don’t worry. You can safely ignore the
+Brigade rules for your first few games. Later on, once
+you’ve got the hang of other aspects of the game, you can
+have a go at giving orders in this way.
+
+A brigade consists of up to four units arranged so that
+they touch, forming a single body. Units comprising
+a brigade at the start of the ordered movement part of
+the Command phase can be given a single order and are
+moved together as a body. Once it has moved, the brigade
+can be given further orders if required, potentially
+moving several times in just the same way as individual
+units.
+
+Bear in mind that it is not obligatory to move units as
+a brigade simply because they happen to be touching
+at the start of the Command phase. A brigade is not a
+formal division of the army but a convenient ad hoc
+formation that can be changed from one turn to the next.
+Units formed up together can be given separate orders
+if you prefer, or two or three units can be divided from
+a larger formation and treated as a completely separate
+brigade. It is really up to you whether you choose to
+move touching units as a brigade or not.
+
+****
+.These three units can be formed into a brigade.
+image::the-command-phase/brigade-of-three.png[]
+
+.These four units can also be formed into a brigade. Each unit is arranged into a column that is three stands deep.
+image::the-command-phase/brigade-of-four.png[]
+****
+
+To give orders to a brigade, measure to the most distant
+unit in the brigade and take one test. Remember to apply
+the -1 penalty if any units in the brigade are within
+20cm of the enemy, in dense terrain, if the brigade has
+moved before or if any units have lost casualties. Don’t
+apply any penalties more than once (if two units are in
+dense terrain for example) and in the case of casualties
+apply the penalty for the unit which has lost the most
+stands. If your test is successful, the entire brigade is in
+receipt of an order, whereas if you fail, it is not and the
+whole brigade moves at half pace or doesn‘t move at all
+depending on whether it is a first or subsequent order
+(see p.14).
+
+Assuming an order is successfully issued, the brigade can
+move. Except when units wish to charge, brigades move
+as a body, with each unit remaining in touch with the
+brigade as a whole.
+
+Individual units in the brigade can change their relative
+positions but must still form a brigade once its move is
+complete. Individual units in the brigade can change
+formation as they move. No stand in any unit in the
+brigade may move further than its permitted move
+distance.
+
+// DIAGRAMS
+
+Conceivably, some units in a brigade might wish to charge
+the enemy whilst others do not, as shown in #Diagrams
+17.1 to 17.4#. Any units in a brigade that wish to charge do
+not have to remain in touch with the rest of the brigade
+as a whole. Even though a single brigade order has been
+issued, individual units can always charge. They do so
+individually, one at a time, exactly as if they had been
+issued separate orders. Units which do not charge still
+have to end their move touching.
+
+#TODO: Better annotation of diagrams#
+
+.Brigade received an order
+image::the-command-phase/charge-from-brigade-1.png[]
+
+image::the-command-phase/charge-from-brigade-2.png[]
+
+.Units C & B can see enemy 2.  Unit B can no longer see enemy 1.  Unit D can see nothing.
+image::the-command-phase/charge-from-brigade-3.png[]
+
+.Units B & D can now move, no other charges are possible.  If they do so they must finish their moves touching – as they are moving under brigade orders.
+image::the-command-phase/charge-from-brigade-4.png[]
+
+
+Once a brigade has moved, the player may not want to
+move the whole brigade again but might wish to move an
+individual unit or subset of touching units. Alternatively,
+he may wish to divide the brigade into two and move it
+in two different directions. To do this, the player must
+issue a separate order to each unit or sub-brigade. The
+individual units or sub-sets will carry over any Command
+penalty for a second or subsequent move.
+
+Once a brigade has moved, the player must finish moving
+all the units in the original brigade before he moves other
+units. If he divides a brigade into two (say A and B), he
+must complete the movement of each subset in turn
+before moving anything else (so he must finish moving
+group A, then group B and then he can move other units
+in the army).
+
+Brigades cannot use initiative as a body. Units using
+initiative must be moved at the start of the Command
+phase in the usual way.
+
+During a battle, units may be moved into touch to form a
+new brigade. However, a brigade cannot be formed and
+subsequently moved in the same Command phase. Units
+must be in a brigade at the start of the ordered movement
+part of the Command phase to move as a brigade.

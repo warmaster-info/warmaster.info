@@ -1,0 +1,512 @@
+= Movement
+
+Units move when given an order as explained in the
+Command section or by using their initiative as
+explained later in this section. The distance a unit can
+move depends upon its troop type and formation. Some
+troops are naturally faster than others, cavalry are faster
+than infantry for example. Also, troops arranged in a
+regular formation are able to move more quickly than
+units in an irregular formation.
+
+== Movement distances
+
+Broadly speaking, infantry units and monsters move
+up to 20cm at a time, cavalry and chariots move 30cm
+and artillery, such as stone throwers and cannons, move
+10cm. Flying troops can move up to 100cm but their
+movement is governed by special rules, as described
+later. The chart below gives the full pace move distances
+for each troop type plus the half pace movement. In each
+case, distances are maximums and the player can move
+the unit a shorter distance if he wishes.
+
+.Movement Chart
+****
+[cols="<,^,^"]
+|===
+|Types |Full Pace |Half Pace
+
+|Infantry     |20cm  |10cm
+|Cavalry      |30cm  |15cm
+|Chariots     |30cm  |15cm
+|Artillery    |10cm  |5cm
+|Monsters     |20cm  |10cm
+|Machines   2+|Varies – See the Artillery & Machines section
+|Flying Units |100cm |10cm
+|Characters   |60cm  |60cm
+|===
+
+You’ll find a few exceptions to these moves in the army lists later in the book but for now we
+don’t need to worry about these oddities.
+****
+
+image::movement/daemon.png[]
+
+== Formation & Movement
+
+Units must be arranged in formation, by which we mean
+that all stands in the unit must touch at least one other
+stand in the unit. Players can arrange the stands as they
+want so long as they touch either along an edge or at a
+point.
+
+. Units charging or evading can move up to full pace
+  regardless of their formation. Charging is discussed
+  in detail in the Combat phase section and evading is
+  described later in this section under Moving By Initiative.
+
+. All units wholly or partially in a fortified position at
+  the start of their movement can only move at half pace
+  regardless of their formation unless they are charging or
+  evading, in which case they move at full pace as noted
+  above. We’ll be introducing further rules for fortified
+  troops in the Combat phase section.
+
+. Units arranged in a column with stands placed one
+  behind the other (as shown in picture below), either
+  edge-to-edge or corner-to-corner, can move at full pace
+  unless in a fortified position as noted above. Units in a
+  column are said to be in a *regular* formation.
++
+.In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement.
+image::movement/column-formation.png[]
++
+image::movement/helm.png[]
+
+. Units arranged in a straight line with all their stands
+  facing in the same direction and butted edge-to-edge move
+  at full pace unless in a fortified position, as noted earlier.
+  Units in a line are said to be in a *regular* formation.
++
+.Infantry and cavalry arranged into a straight line. This is the most effective fighting formation.
+image::movement/cavalry-line-formation.png[]
++
+image::movement/infantry-line-formation.png[]
+
+. All units in other formations or circumstances move at
+  half pace. For example, infantry are able to move up to
+  10cm, cavalry up to 15cm and so on. This represents the
+  fact that the unit is out of regular formation and that it is
+  necessary to regroup in order to move. For convenience,
+  we refer to all these formations as *irregular*. Note that
+  the only situation where an irregular formation moves
+  at full pace is when it charges or evades.
++
+.Units in irregular formations move at half pace to represent the fact that their ranks are disrupted.
+image::movement/irregular-formation-1.png[]
++
+image::movement/irregular-formation-2.png[]
+
+. In some circumstances, units move a distance
+  determined by rolling dice or by the results of combat
+  (such as drive backs, retreat moves and advances). These
+  distances are not affected by the unit’s formation.
+
+include::partial$divider-axe.adoc[]
+
+=== Moving the stands
+
+When moving a unit, move each stand one at a time.
+Experienced players usually find it convenient and
+quicker to move whole units at once but in principle,
+stands always move one at a time to ensure a path can be
+traced. Select one stand from the unit and move it. Then
+move the second stand into formation with it. Then move
+the third to complete the formation (assuming a unit of
+three stands). Note there is no need for the unit to retain
+its original formation - the stands are simply re-arranged
+as needed when the unit moves.
+
+All stands must be able to trace a clear path to their
+position in the unit‘s final formation. Stands do not have
+to move to their front - they can move backwards, to the
+side, at an angle or in any orientation or direction.
+
+.Stands in the same unit must touch but can be arranged into any formation you like.
+image::movement/infantry-line-formation.png[]
+
+image::movement/formation-touch-2.png[]
+
+image::movement/formation-touch-3.png[]
+
+No part of a stand can move further than its permitted
+maximum movement distance. Always measure from
+the part of the stand that moves the greatest distance
+- this will often be one of the corners. A stand cannot
+move through the base area of a stand from *another* unit
+whether friend or foe either wholly or in part. A stand
+can move through other stands of the *same* unit if they
+have not yet moved and are not engaged in combat. This
+allows stands to move out of their own unit‘s formation
+without jamming each other. Even where they belong to
+the same unit. A stand cannot move through other stands
+who have already moved or are engaged in combat.
+
+There is an exception to the rule that prevents stands
+moving through other units – this happens when a unit
+bursts through another during an evade and is described
+later (p.24). Stands can always move through characters
+as described in the Generals & Heroes section (p.59).
+
+=== The gap rule
+
+When a stand moves it can be oriented to pass through
+any gap so long as the gap is at least as wide as the stand’s
+shortest edge, usually this will be 20mm. For example,
+an infantry stand might be turned to its side to move
+through a gap between impassable walls and a river.
+
+The exception to this rule is that a stand cannot pass
+through a gap between two enemy stands, or between
+an enemy stand and any feature or friendly stand, unless
+the gap is wider than the stand’s own frontage, as shown
+in diagrams 21.1. and 21.2. For example, there must be
+a gap of more than 40mm for an infantry stand to pass
+between two enemy stands, between an enemy stand
+and a friendly stand, or between an enemy stand and the
+edge of a river.
+
+This rule prevents units moving through gaps whilst
+close to enemy units and where there is little room for
+effective manoeuvring. Note that although stands are not
+permitted to pass between enemy stands as described,
+this does not prevent them moving between such stands
+to charge them, assuming there is room to do so (See
+Moving Chargers p.34).
+
+.Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile.
+image::movement/move-through-gap.png[]
+
+.This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through.
+image::movement/cannot-move-through-gap.png[]
+
+=== Terrain
+
+It is well known fact that terrain features radically affect
+strategy, providing strong points to defend as well as
+obstructions to movement.
+
+*Infantry* can move into or over terrain features with no
+reduction to their movement distance.
+
+*Cavalry* and monsters can’t move into or over terrain
+features on the battlefield except for hills, bridges,
+shallow fordable rivers, grown fields and low obstacles
+(hedges, walls, fences or ditches, for example).
+
+*Chariots and artillery* cannot move into or over terrain
+features on the battlefield except for hills and bridges.
+
+*Machines* have special rules but in general treat terrain
+in the same way as chariots.
+
+There are rules in the rulebook and army lists referring
+to some terrain features as a *dense terrain*. A *dense
+terrain* imposes -1 Command penalty as described in the
+Command phase section (p.15). Typical dense terrain
+features are woods, built-up areas and broken or marshy
+ground (for more detail see Advanced Terrain Rules p.80)
+
+Any other feature large enough to warrant representation
+on the tabletop is considered to form a barrier to cavalry,
+chariot, monster, machine and artillery movement
+(unless players choose to agree otherwise before the
+game).
+
+Hills can be moved over by all troops if they are
+essentially open and quite shallow but steep, rock strewn
+or wooded hills are considered impenetrable to all units
+except infantry.
+
+In some exceptional cases, terrain might be considered
+a barrier to all troops, including infantry as well as
+cavalry, etc. Obvious examples include a huge canyon,
+a lake of molten lava, the ocean or an especially large
+river. These are unusual and entertaining features but
+don’t really enter into the majority of games, so we won’t
+concern ourselves with them any further. If you refer to
+the Advanced Terrain Rules section you’ll find further
+examples of rules for unusual terrain.
+
+Rules occasionally oblige units to move into terrain they
+cannot cross. If units attempt to move into terrain they
+cannot cross they will halt at the edge. If they are *driven
+back* into impassable terrain as a result of shooting or
+magic, they may become *confused* (see the Shooting
+phase section (p.27) and the Confusion section). If a
+unit is forced to retreat into impassable terrain during
+combat, then stands may be destroyed as a result (see the
+Combat phase section p.45-46).
+
+=== Fortifications and buildings
+
+High walls, tall towers and large buildings block
+movement as you might reasonably expect. In these
+cases, troops must move through gateways or gaps. The
+exception to this is flying troops and this is covered in
+detail in the section on Flying Units.
+
+The only time when ground troops can move across
+an intact curtain wall, tower or similar fortification is
+when infantry are making an assault as described in the
+chapter Siege & Fortresses on p.87. Assaulting troops
+come prepared with scaling ladders, grappling hooks,
+siege towers and a hefty dose of grim determination.
+
+image::movement/knights.png[]
+
+== Moving by initative
+
+The Initiative rule represents the ability of a unit’s
+commanding officer to lead his troops to the attack or
+guide them away from danger. Once the enemy is close,
+a regiment’s training and natural instincts pretty much
+determine what happens next, regardless of what the
+General might prefer.
+
+During the Initiative Movement section of the Command
+phase, a unit can use its own initiative to either charge or
+evade from the closest visible enemy unit within 20cm.
+It does not have to do so, and can instead wait until the
+Ordered Movement section of the Command phase
+and attempt to move by means of an order as usual.
+The choice is the player’s in most cases; exceptions are
+covered in the army lists.
+
+A unit is assumed to be able to see another if it is possible
+to draw an uninterrupted line of sight between the *front*
+edge of any stand and any stand in the other unit. It is
+not possible to see through unit stands from either side,
+or terrain other than low features such as low obstacles,
+rivers/streams etc. Characters never block line of sight
+(see the Generals, Wizards and Heroes section).
+
+Individual units that wish to move by initiative must
+move *before* any orders are issued. Once an order has
+been given by a character, no more units can move using
+initiative. A unit that used initiative to move *can’t* be
+given orders that turn.
+
+A unit moving by initiative can move in one of two ways.
+It can *charge* the closest enemy unit that it can see within
+20cm or it can *evade* away from the closest enemy unit
+that it can see within 20cm. If you want a unit to do
+something else, such as move around a flank or attack an
+enemy other than the closest, then you will have to issue
+an order instead.
+
+Units moving by initiative do so during the Initiative
+Movement section of the Command phase as already
+explained (above and see p.13). Units are moved one at a
+time, the movement of each is completed before moving
+the next, but the player can move the units in whatever
+order he wishes. Because units are moved one at a time,
+it is possible for a unit to move so that it blocks the line of
+sight of another friendly unit, making it either impossible
+for that unit to use initiative or changing which visible
+enemy unit is closest. Conversely, a unit’s move could
+open a line of sight, allowing another friendly unit to
+use its own initiative or changing which enemy unit is
+closest. See diagrams 23.1 and 23.2.
+
+If two or more enemy units are equally close a player
+may choose which to charge or evade. Refer to the
+Combat phase section (p.34- 38) for rules for charges.
+
+Some units can see all round – they have 360 degree
+vision – and you will find this indicated in the unit’s
+description (for example, Wolf Riders in the Orc army).
+
+.Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position.
+image::movement/initiative-charge-1.png[]
+
+.Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
+image::movement/initiative-charge-2.png[]
+
+This simply means a line of sight can be drawn from any
+free edge of any stand in the unit to any stand of another
+unit. This can potentially enable such a unit to use its
+initiative to evade from an enemy positioned to its side
+or rear. However, note that even a unit that can see all
+round cannot charge an enemy unless a line of sight can
+be drawn from a stand’s front edge.
+
+Artillery cannot use their initiative to charge, although
+they can use it to evade. The crews of artillery, such as
+cannons or stone throwers have no natural inclination
+and little ability to fight in close combat.
+
+Enemy infantry or artillery in fortified positions can be
+ignored when it comes to using initiative – these units
+are considered either unable to move or unlikely to do
+so. A player can choose to ignore such enemy units if he
+wishes, in which case his own unit can use initiative to
+charge or evade the closest non-fortified enemy within
+20cm.
+
+A unit can also ignore the presence of enemy units if
+they are divided by a mutually impassable barrier so long
+as neither the unit itself nor the enemy unit(s) can move
+round the barrier within a full pace move. For example,
+cavalry cannot cross rivers, so two cavalry units divided
+by a river can ignore each other for purposes of initiative.
+A player can choose to ignore such enemy units if he
+wishes, in which case his own unit can use initiative to
+charge or evade the closest visible enemy unit within
+20cm that is not divided by the impassable barrier.
+
+=== The path of evaders
+
+When troops evade, they move directly away from the
+closest enemy they can see up to their full pace move,
+by at least 1 cm. When we say ‘directly away’ or, for that
+matter, ‘directly towards’, the direction is established by
+placing a tape measure between the closest points of the
+closest two opposing stands. Where stands are equally
+close, the evading player may choose between them. The
+resulting line indicates the exact direction in which the
+evaders move. See Diagram 24.1.
+
+image::movement/anvil.png[]
+
+Move the evading unit one stand at a time. First, move
+the evading stand that is closest to the enemy. This stand
+must move in a straight line in the indicated direction
+directly away from the evaded enemy. The stand can be
+oriented to face any direction during its move allowing
+the evaders to move through gaps, turn to face their
+enemy, or change the stand‘s final facing. Move the
+rest of the stands one stand at a time and arrange them
+into the unit‘s new formation. Remember to take into
+account any necessary distance required to reorient
+stands as they move.
+
+.The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B.
+image::movement/evade-direction.png[]
+
+.Optional rule
+****
+*Light Cavalry:* a Cavalry unit with 6+ Armour can
+evade in any direction, not just directly away from
+the enemy. Note that it is still obliged to move in a
+straight line when evading.
+****
+
+Evading units cannot move through terrain they could
+not normally enter, nor through enemy units or combat
+engagements. An evading unit must end its move at least
+5cm from any enemy unit or any unit engaged in combat.
+If unable to comply, units cannot evade.
+
+An evading unit can move through a friendly unengaged
+unit if the player wishes assuming the evaders have
+sufficient move to pass completely through. This is called
+a *burst through* and is an exception to the normal rule that
+units can’t move through each other. The burst through
+represents a situation where trained troops in good order
+manoeuvre through each other, one unit opening up its
+ranks to allow the other to pass. See Diagram 24.2. This
+obviously takes time, so a unit which is burst through is
+automatically *confused*! See the Confusion section (p.55).
+
+#TODO: fix diagram#
+
+.The path of the evading unit takes it through an unengaged friendly unit. The unit that has been burst through becomes confused. This happens if the stands overlap as the evader moves, even if they do so only partially. Friendly unit is burst through and confused. Unit evades along path in line with closest stand. The two remaining stands are positioned as required to complete the evasion.
+image::movement/evade-burst-through.png[]
+
+image::movement/treemen.png[]
+
+=== Character movement
+
+Characters move at the end of the Command phase after
+unit movement has been completed. Characters never
+move with units during the Command phase, not even
+if a character joined a unit in a previous turn or if such
+a unit charges or evades using initiative. When units are
+repositioned during other phases, during pursuit combat
+for example, characters which have joined units are
+moved with them.
+
+Each character can move once and up to 60cm, or 100cm
+if flying. Characters can always move at full pace and,
+unless mounted on a monstrous mount or riding a
+chariot, always treat terrain as if they were infantry. No
+Command test is required for a character to move. Any
+failed Order rolls made in the Command phase do not
+affect his ability to move.
+
+Due to their unique role in Warmaster, characters are
+treated differently to other types of units. Character
+stands are essentially ‘tokens’ that are considered to
+be ‘transparent’ on the battlefield. In other words, this
+means they can move through units from their own
+side, and similarly, a unit can move through its own
+side’s characters. All stands from either side can see past
+and, if they are appropriately armed, can shoot through
+characters as if they were not there.
+
+See the Generals, Wizards and Heroes section (p.59).
+
+image::movement/sun.png[]
+
+== Units which move off the table
+
+Sometimes units or characters are obliged to move
+off the table. This can happen when a unit receives a
+‘blundered’ order but can also happen to units that are
+defeated in combat or troops driven back by missile fire
+or magic.
+
+If one or more stands in a unit leaves the table edge,
+whether wholly or partially, the whole unit leaves the
+table. Units that leave the table as a result of retreating
+from combat are deemed destroyed. In any other
+situation roll a D6 and then consult the table below to
+see what happens. Deduct -1 from the roll for each of the
+unit’s stands that has already been removed as a casualty
+and apply the result immediately.
+
+[cols="^,<"]
+|===
+|D6 |Result
+
+|0 or less
+|The unit/character leaves the battlefield and
+does not return. The unit/character is
+considered to have been destroyed.
+
+|1-2
+|The unit/character leaves the battlefield and
+may or may not reappear. At the start of its
+side’s next turn, before initiative moves are
+made, roll again on this chart.
+
+|3-4
+|The unit/character reappears at the table edge
+at the same point it left. The unit/character
+cannot move further that turn.
+
+|5-6
+|The unit/character reappears at the same
+point on the table edge it left from. If it is
+reappearing at the beginning of a turn, it may
+move as normal.
+|===
+
+When a unit reappears on the table it must retain the
+same formation and face the same direction as when it
+left the table.
+
+Characters who move off the table with units they have
+joined suffer the same fate as the unit. Characters who
+are on their own must roll in the unlikely event that they
+leave the table.
+
+If a General leaves the table (for whatever reason) and
+does not return immediately then the battle is over and
+his army withdraws. He abandons his army and heads
+for the hills and is considered to be a casualty. See the
+End of the Battle section.
+
+image::movement/griffon.png[]

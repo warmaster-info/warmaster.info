@@ -1,0 +1,44 @@
+= Movement at a Glance
+
+== Distance
+
+. Units move in the Command phase either by initiative or if they receive orders.
+. Units receiving one order after another are able to move several times during the
+  Command phase.
++
+[cols="<,^,^"]
+|===
+|Types |Full Pace |Half Pace
+
+|Infantry |20cm |10cm
+|Cavalry |30cm |15cm
+|Chariots |30cm |15cm
+|Artillery |10cm |5cm
+|Monsters |20cm |10cm
+|Machines 2+| Movement distances vary
+|Flying Units |100cm |10cm
+|Characters |60cm |60cm
+|===
+
+. Charging units and evading units move at up to full pace. Regular formations
+  of columns and units in a straight line move at up to full pace unless fortified.
+  Fortified units and units in an irregular formation move at up to half pace.
+
+== Terrain
+. Infantry can move into any terrain.
+. Cavalry and monsters cannot move into or over terrain features other than hills,
+  bridges, shallow fordable rivers and low obstacles.
+. Chariots, artillery and machines (in general) cannot move into or over terrain
+  features other than hills and bridges.
+
+== Initiative
+. A unit within 20cm of the enemy can use its initiative to move.
+. A unit using its initiative must either *charge* or *evade *the closest visible enemy
+  unit.
+. A unit cannot use its initiative and be given orders in the same turn.
+
+== Generals, Wizards & Heroes
+
+. Characters move once after the Command phase and can move up to 60cm.
+. Characters do not need an order to move.
+. Characters treat terrain in the same way as infantry.

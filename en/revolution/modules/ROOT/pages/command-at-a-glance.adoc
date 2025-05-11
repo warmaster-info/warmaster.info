@@ -1,0 +1,41 @@
+= Command at a Glance
+
+== Orders
+
+. Units move by initiative or by orders.
+. Units using initiative are moved first.
+. Other units require orders to move.
+. You must finish giving orders from one character before giving orders from
+  another character.
+. A unit can be given up to three orders by the same commander.
+. You must finish giving orders to one unit before giving an order to another.
+
+== Command
+. A character must roll equal to or less than his Command value on 2D6 to issue
+  an order.
+. If a roll is failed, the order is not given and no further orders can be issued by
+  that character.
+. If the General fails to give an order, no further orders can be given by
+  any other characters.
+
+== Command penalties
+
+|===
+|Per full 20cm distance            | -1
+|Each successive order to the unit | -1
+|Enemy within 20cm of unit         | -1
+|Within dense terrain              | -1
+|Per casualty                      | -1
+|===
+
+== Issuing orders to brigades
+
+. Up to four touching units may be brigaded together and issued a single order.
+. Units moving as a brigade complete their entire move as a brigade unless one
+  or more units are charging.
+
+== Charge
+. A unit that moves into an enemy is said to have charged.
+. Once units are touching an enemy unit or supporting friendly units they are
+  engaged in combat.
+. Units in combat cannot be issued further orders.
