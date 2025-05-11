@@ -1,1 +1,325 @@
-= artillery-and-machines
+= Artillery & machines
+
+This section covers cannons, stone and bolt throwing
+war engines. Both artillery and machines share
+some rules in common, so we’ve included them together
+to avoid taking up more space than necessary. Special
+artillery units and machines will be described in
+particular armylists.
+
+*Artillery* describes crewed weapons such as cannons,
+Stone Throwers, Flame Cannons, etc. In most cases,
+these are arranged into units called *batteries*; a typical
+battery consisting of two individual weapons.
+
+*Machines* describes unusual devices such as Steam Tanks
+and Gyrocopters. Each model is invariably a single unit
+in its own right.
+
+== Stands
+
+Artillery pieces are mounted on stands which include
+the weapon itself plus any necessary crew. For our
+purposes, the two are inseparable. After all, an artillery
+piece without its crew is useless and crewmen without a
+weapon are an embarrassment.
+
+Machine models are based on a single stand.
+
+== Artillery in combat
+
+Artillery cannot use initiative to charge. The role of
+artillery is to shoot at the enemy from a distance, not to
+fight. A player can order artillery to charge into combat
+if he wants, although this is rather a desperate thing to
+do! See the Command phase p.13-17.
+
+Artillery is vulnerable in combat. An artillery unit that
+wins a round of combat never pursues and if it retreats it
+is automatically destroyed.
+
+Machines are more complex then artillery and some
+have their own rules for fighting in combat, as described
+in particular army lists.
+
+== Terrain
+
+As discussed in Movement (p.22), artillery cannot move
+into or over terrain features on the battlefield except for
+hills and bridges. Any other type of terrain is impassable
+to artillery.
+
+Except where noted, machines treat terrain in the same
+way as chariots. Some machines have special rules of
+their own, as described in individual army lists.
+
+== Shooting overhead
+
+As we described in the Shooting section, stands cannot
+see through other stands. Consequently, missile-armed
+troops cannot shoot through or over a friendly stand to
+attack an enemy. Technically speaking, the stand’s ‘line
+of sight’ is blocked and it is unable to fire.
+
+Whilst this is perfectly true and satisfactory for the
+majority of troops, when it comes to artillery fire it is
+felt that an exception is called for. After all, is it not
+appropriate that cannons, stone throwing engines
+and the like should lob their missiles over the heads
+of intervening troops onto the enemy? Obviously, it
+is of great benefit to crew if they can see where their
+missiles land but we can conveniently assume that there
+are forward observers placed in strategic positions to
+observe the fall of shot and somehow communicate any
+targeting information back to the crew.
+
+Artillery stands that are positioned on high ground can
+shoot over the top of intervening troops on a lower level.
+Artillery stands can shoot over the top of intervening
+troops on the same or higher level if the target is on a
+higher level still. In both cases intervening troops includes
+all friendly units and any enemy units that are ineligible
+as targets – for example, because they are engaged in
+combat. Enemy units that are eligible as targets cannot
+be shot over because they have to be shot at – artillery
+being obliged to shoot at the closest viable target in
+the same way as other shooters. Eg, artillery placed on
+top of a hill can shoot over friendly stands and combat
+engagements on lower ground. However, it cannot shoot
+over intervening terrain such as woods, build-up areas
+and similar terrain features that block line of sight.
+
+Artillery placed on the ramparts of a castle or upper
+storey of a watch tower is assumed to be higher than the
+corresponding ground level of the fortress wall or tower.
+
+image::artillery-and-machines/trolls.png[]
+
+== Cannons
+
+These are large calibre guns that fire a heavy cannon
+ball. Gunpowder weapons like these are primitive and
+unreliable compared to the tried and trusted technology
+of stone throwers and the like. Only Dwarf smiths and
+a few weapon makers in the Empire can build these
+devices. These wild and determined individuals can be
+recognised by their dense covering of soot and lack of
+eyebrows.
+
+[cols="3*^"]
+|===
+|Range
+2+|Attack
+
+.3+|60cm
+2+| 1/2 + bounce
+
+^|↙
+^|↘
+
+<|Close Combat
+>|Shooting
+|===
+
+Cannons ignore a target’s Armour because no armour
+can nullify a hit caused by a cannon ball. No Armour roll
+is made. In addition, fortified targets only count as being
+defended (5+ to hit) and defended targets count as being
+in the open (4+ to hit).
+
+Cannon balls can bounce through densely packed ranks
+causing immense destruction. To represent this, a shot
+is deemed to strike the closest point of the target stand,
+pass all the way through it and bounce a further 5cm in
+the same direction. If more than one cannon from the
+same unit is shooting then both cannon balls are assumed
+to bounce the same distance through the path between
+the closest cannon and closest target stand. The target
+unit suffers two attacks plus +1 for each additional stand
+from the same unit that is bounced through.
+
+// TODO diagram text
+.The shot bounces from the closest Cannon stand through the closest target stand.
+image::artillery-and-machines/cannon-shot.png[]
+
+A shot that bounces into a different unit inflicts one
+attack on that unit for each stand bounced through. This
+can result in units normally ineligible as targets being
+hit, such as friendly units or units in combat. Total up
+the number of attacks struck and roll for all the attacks
+against each unit at a time.
+
+If a cannon is charged it can shoot at the enemy by firing
+‘grapeshot’. Like cannon balls, grapeshot has an Attack
+value of 2 but it doesn’t bounce and targets shot at by
+grapeshot count their full Armour value – armour is not
+discounted as it is with a cannon ball.
+
+Although grapeshot is pretty effective compared to,
+say, a shot from a single archer stand, it is actually less
+effective than ordinary cannon fire. At first glance
+this may seem wrong. After all, shouldn’t grapeshot
+be devastating compared to normal cannon fire? The
+reason for this is not that we’ve made grapeshot weak
+but that normal cannon fire represents not a single shot
+but a continuous bombardment in which dozens of balls
+are fired by each cannon. Grapeshot, on the other hand,
+represents just one hurried blast at close quarters, far
+more deadly than a single cannon ball which could easily
+sail over the enemy formation or pass between the ranks
+but not as deadly as a rain of well aimed cannon balls
+over a longer period.
+
+image::artillery-and-machines/cannon.png[]
+
+Because cannons can cause additional damage by
+bouncing shots, it is possible to inflict hits upon friends or
+upon units from either side that are engaged in combat.
+Both of these are normally ineligible targets, but in the
+case of bouncing cannon shots they can suffer hits as a
+result of fire directed nearby. Any friendly unengaged
+units that take hits from cannons are driven back as if
+taking enemy fire. Where friendly units are driven back
+in this way wait until all drive backs for enemy units
+have been completed, and then work out drive backs
+for friendly units. Any engaged units taking hits from
+cannons will carry hits forward into the combat round
+and hits count as having been struck during that round
+for purposes of working out which side wins. Units
+engaged in combat are not driven back by any hits taken
+– carrying hits forward takes this into account.
+
+== Elven bolt thrower
+
+This elegant device was devised many years ago by the
+High Elves for use onboard their ships. Since then it has
+become a feature of many Elven armies and is sometimes
+known as the ‘Reaper’ because of its deadly effect. The
+machine throws a hail of light weight bolts, ideal for
+raking the decks of enemy ships or the ranks of enemy
+regiments.
+
+[cols="3*^"]
+|===
+|Range
+2+|Attack
+
+.3+|40cm
+2+| 1/3
+
+^|↙
+^|↘
+
+<|Close Combat
+>|Shooting
+|===
+
+The Elven Bolt Thrower can shoot at a charging
+enemy in the same way as a missile-armed infantry or
+cavalry unit. Unlike many artillery pieces, the Elven
+Bolt Thrower does not automatically pierce its target’s
+armour. Enemies take their Armour rolls as normal. The
+Elven Bolt Thrower’s darts are relatively small and light
+compared to say, the Undead Bone Thrower’s.
+
+image::artillery-and-machines/elven-bolt-thrower.png[]
+
+== Stone throwers
+
+Stone Throwers are big machines which employ a system
+of counterweights or torsion power to chuck either one
+big rock, several small rocks or what (or whoever) takes
+your fancy. These stone throwing machines are favoured
+by greenskins because they are
+simple to build from readily available materials. Because
+Stone Throwers lob rocks of such immense size no
+armour can protect against them. Even the most heavily
+armoured knight would be instantly pulped if a boulder
+the size of a horse were to land on him. To represent
+this, targets always ignore their armour when shot at by
+a Stone Thrower. No Armour roll is made.
+
+[cols="3*^"]
+|===
+|Range
+2+|Attack
+
+.3+|60cm
+2+| 1/3
+
+^|↙
+^|↘
+
+<|Close Combat
+>|Shooting
+|===
+
+Stone Throwers shoot with such a high trajectory that
+they cannot shoot at charging enemies.
+
+Because of the high trajectory Stone Throwers can shoot
+blind at targets they cannot see. The targets are assumed
+to be reported by scouts or messengers from other units.
+If there is no target in sight a Stone Thrower may instead
+shoot at the nearest enemy unit in range it cannot see.
+When shooting blind it always hits on 6+ no matter if the
+target is in the open, defended or even fortified.
+
+== Bolt thrower
+
+A Bolt Thrower is a device fashioned to hurl large missiles
+upon the enemy. It is essentially a big crossbow... a very
+big crossbow indeed! The missiles it fires are as long as
+spears and can skewer a whole line of troops.
+
+[cols="3*^"]
+|===
+|Range
+2+|Attack
+
+.3+|40cm
+2+| 1/2 + skewer
+
+^|↙
+^|↘
+
+<|Close Combat
+>|Shooting
+|===
+
+Targets always ignore their armour when shot at by a Bolt
+Thrower. No Armour roll is made. The Bolt Thrower’s
+heavy dart can pierce even the thickest armour.
+
+When you shoot with a Bolt Thrower it will strike up to
+two touching stands within the missile’s line of flight.
+These can be stands from the same or a different unit
+– the missile will automatically pass through and strike
+up to two stands so long as they are touching along the
+missile‘s path.
+
+The target unit suffers two attacks plus +1 for additional
+stand from the same unit within the missile‘s path. A
+shot that skewer into a different unit inflicts one attack
+on that unit. All attacks against the same unit are rolled
+at once - for example, an infantry unit in column takes
+three attacks so roll three dice.
+
+Because a bolt thrower can cause hits on different units by
+skewering shots, it is possible to inflict hits upon enemy
+units that are engaged in combat. These are normally
+ineligible targets, but in the case of skewering shots
+they can suffer hits as a result of fire directed at a unit
+touching another enemy unit. Any engaged units from
+either side taking hits from Bolt Throwers will carry hits
+forward into the combat round and hits count as having
+been struck during that round for purposes of working
+out which side wins. Units engaged in combat are not
+driven back by any hits taken – carrying hits forward
+takes this into account. Units that are not engaged are
+driven back in the usual way.
+
+Bolt Throwers can shoot at a charging enemy and can do
+so at any point as the enemy charges, including the start
+of the move or when the charger has reached its final
+position.

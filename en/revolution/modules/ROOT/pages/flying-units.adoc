@@ -1,1 +1,195 @@
-= flying-units
+= Flying units
+
+Troops and monsters who are able to fly can move
+long distances very quickly. However, once airborne
+they are almost impossible to direct, so such troops must
+be deployed and committed to battle with care.
+
+== Initiative
+
+A flying unit can use its initiative to charge an enemy
+within 20cm. In this respect it’s like any other unit.
+
+Flying troops don’t evade as ground based troops do.
+This is because they are allowed to home back instead.
+Homing back is explained below.
+
+== Orders
+
+A flying unit can only be issued orders by a character
+within 20cm. This restricted range reflects the difficulty
+of issuing orders to troops that are airborne.
+
+== Home back
+
+Flying units more than 20cm from a character at the
+start of the Command phase can choose to move up to
+1D6×10 cm towards any character after initiative moves
+have been made but *before* any orders are issued. This is
+called a home back move. The player can roll for distance
+before deciding whether or where to home back to.
+
+A unit can home back and be given orders in the same
+Command phase if it homes back to within 20cm of a
+character.
+
+A unit can home back even if confused and therefore
+normally barred from moving, although such a unit
+cannot be given an order in that Command phase.
+
+Unless affected by a spell that prevents movement,
+flyers can always home back if the player wishes. This
+is because airborne units are isolated from broader
+events and their natural reaction to not knowing what
+is going on is to home back rather than stand around in
+confusion. Once the player has decided where to home
+back, move the unit towards the nominated character.
+If the dice roll is greater than the distance between the
+unit and character move the unit directly towards the
+character stand and into touch.
+
+Otherwise, move the unit the full distance rolled towards
+the character. If this isn’t possible due to the presence of
+other units or restrictive terrain, move the flyers as far
+as possible. The nearest stand is placed first - the other
+stands are placed around the first. No stand may be
+placed nearer to the character than the first. No stand
+may change orientation along their way. Flyers cannot
+be placed into touch with enemy stands when they home
+back.
+
+== Moving
+
+When flying units move in the Command phase they can
+move over other units, including other units of flyers,
+whether friend or foe. They can also move over terrain
+as noted below. Flying units cannot end their move
+touching enemy units unless they have charged, nor can
+they end their move on top of other friendly stands –
+stands must have room to be positioned in the same way
+as units on the ground.
+
+Flying units move up to 100cm when moving under
+orders. However when charging, flyers can move only
+up to 60cm. Once a flying unit has moved, it is treated
+exactly like a ground based unit and can therefore be
+shot at, charged or attacked with magic in the normal
+way. However, certain special rules apply regarding
+terrain as noted below. Also note, that flying units can
+only move *half pace* (up to 10cm) when charging from
+irregular formation which is an exception to the normal
+rules.
+
+image::flying-units/carpet.png[]
+
+== What can flying units see?
+
+When working out if a flying unit can see an enemy, for
+shooting or charging for example, treat the flying unit
+exactly as you would a unit on the ground. Even though
+a flying unit can fly over another unit, or over terrain
+such as a wood, flying stands still can’t see through other
+stands or obstructive terrain. This forces flying units to
+move towards their targets rather than simply bouncing
+enemy units out of the blue, and it enables enemy units
+to avoid aerial attack if they have screening units or if
+there is plenty of terrain.
+
+image::flying-units/sorceress.png[]
+
+== Terrain
+
+When flyers move in the Command phase they ignore
+terrain altogether because they fly right over it. This
+means they can move over terrain that is impassable
+to other troops such as sheer cliffs, wide rivers, and so
+forth.
+
+Although flyers can move over all kinds of terrain
+they cannot end their move in any kind of terrain
+that would be impassable to infantry, or over woods.
+The restriction for woods is because we imagine it is
+practically impossible for flyers to operate effectively
+amongst trees. The general restriction for other kinds
+of impassable terrain is because we have chosen to
+treat flyers as ‘hopping’ from position to position rather
+than remaining airborne from move to move. Although
+this may seem a little arbitrary, it is necessary to avoid
+complexity and ambiguity in other aspects of the game,
+and it is a very practical way of representing flyers.
+
+=== Moving in the shooting and combat phases
+
+Flyers that are driven back by shooting will move over
+interposing stands and terrain in the same way as in the
+Command phase. Driven back flyers that end their move
+positioned over impassable terrain will stop in front of
+it in the same way as ground troops. Driven back flyers
+that end their move positioned over friendly units are
+treated exactly like ground troops – i.e.; friends can
+make way or, if they do not do so, the flyers halt as they
+touch. Driven back flyers that end their move positioned
+over enemy will come to a stop 1cm in front of them in
+the same way as ground troops. In all cases appropriate
+tests must be made for confusion (see p.55).
+
+In the Combat phase flying units that are retreating or
+pursuing make all moves along the ground, and their
+moves will be blocked by other stands, terrain that is
+impassable to infantry, or woods. This represents the
+fact that flyers are operating at ground level and that in
+reality these moves are progressive and can be thought of
+as occurring during the fighting. In cases where flyers are
+destroyed because they retreat into enemy or impassable
+terrain it may be more convincing to think of the unit as
+routed or dispersed rather than actually slain. For our
+purposes this amounts to the same thing so the unit can
+be removed from the game.
+
+Flying units that are advancing or falling back in the
+Combat phase are treated as during the Command phase
+and can therefore fly over terrain and stands.
+
+== Fortified troops
+
+Flying units can attack fortified units as well as units
+within castle courtyards and similar places. Fortified
+units still count as fortified to attack from the air. It
+is assumed that ramparts have hoardings and other
+fortifications which offer sufficient shelter to protect
+them from aerial attack.
+
+== Characters
+
+If a General, Wizard or Hero rides a flying Monstrous
+Mount, such as a Dragon or Griffon, his fighting ability
+is vastly improved. The stand’s maximum movement is
+increased to 100cm and the Attack bonus of the monster
+is added to the character’s.
+
+A character riding a flying monster is bound by the
+terrain movement restrictions that apply for flying
+monsters. See Generals, Wizards and Heroes (p.59-63).
+
+If a lone flying character has to move to a friendly unit
+as a result of enemy contact he can move 30cm to reach
+safety in time. In this case, his move is not increased
+because he rides a flying creature. If there is no friendly
+unit he can join within 30cm, he is slain.
+
+If a flying character joins a unit in combat, he must
+remain with it as it fights but if the unit retreats, falls
+back, pursues or advances into terrain which the
+character cannot enter then he must move to another
+unit in the same way as a lone character contacted by the
+enemy. He can move up to 30cm and if he is unable to
+reach a friendly unit he is slain.
+
+.Optional rule
+****
+In the Command phase, flying units must end their
+movement more than 1cm away from enemy units
+unless charging.
+****
+
+image::flying-units/elf.png[]

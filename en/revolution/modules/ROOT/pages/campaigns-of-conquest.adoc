@@ -1,1 +1,646 @@
-= campaigns-of-conquest
+= Campaigns of Conquest
+
+== Introduction
+
+These campaign rules are based on the rules written by
+Rick Priestly and Jervis Johnson for Mighty Empires
+campaign supplement designed for 8th edition of
+Warhammer. The supplement included a map consisting
+of hexagonal map tiles and variety of markers. Here
+the rules are adjusted for the Warmaster environment.
+Though the rules were designed primarily for the original
+map supplement, it can be used for any map system as
+long as it is segmented into a sufficient number of fields.
+
+In our experience complex campaign systems tend
+to stumble and die out rather quickly. Philosophy of
+this system is to keep it as simple as possible yet still
+motivating to fight and contest over new territory.
+In the current digital age it is possible, and even more
+convenient to control the whole campaign on-line rather
+than have to arrange for all the players to meet together
+for the campaign to progress.
+
+== Warmaster campaign
+
+You will need at least two – and preferably three or more
+- rival players compete for territory until one player
+conquers the others or establishes an empire of such size
+and power he is declared the victor. During each round
+of the campaign the participating players play a game of
+Warmaster and, depending upon their degree of success,
+they can expand their territories into their neighbours.
+
+// Spelling territory
+The map is used to show the territory that each player
+controls. Each player begins with one tile marked with a
+banner in his chosen colour. When games of Warmaster
+are fought, players are awarded ‘Empire Points‘ that are
+used to take over adjoining tiles as explained below. As a
+player’s empire expands he places banners on the tiles to
+mark his territory.
+
+The winner is the first player to carve out an empire of
+ten tiles – this is a simple way of working out who has
+won and you can set this target higher or lower as you
+wish.
+
+== Starting a campaign
+
+In case you don’t have the original supplement with
+plastic tiles and markers, you will need to create a map
+divided into sufficient number of fields (tiles). The map
+needs to have at least seven tiles for every player taking
+part. There are various tile types. The rules distinguish
+common wood/countryside tiles, river tiles, mountain
+tiles and shore tiles. You will also need banner markers
+in a distinctive colour for each player. Further markers
+used in the rules are mines, ports, castles, cities and
+objectives.
+
+// Spelling available (twice)
+Once you have a map, each player must now choose a
+capital city from amongst the cities on the campaign
+map. Choose an order in which players pick a capital
+city available on the map. A capital cannot be chosen
+next to another capital - there must be a gap at least 1
+tile between them. If there are no available capital cities
+left on the map then the player may add a new city to
+the map to claim as their capital. Once each player has
+selected his capital you are ready to play. Note that no
+others tiles are claimed at this stage – players will get to
+do that as the game progresses.
+
+It is good idea to put few objectives on a map to motivate
+players to fight over them (see Objectives). They should
+be placed and spread in neutral area so all players have
+similar chance to reach them.
+
+== The largest empire
+
+During the campaign players will often need to do things
+in a certain order depending on the size of their empires.
+This is determined by counting the number of tiles each
+player controls. Tiles that contain a city count as two
+tiles when working out the size of a player’s empire. At
+the start of the turn, count how many tiles each player
+controls. The player with the most tiles has the largest
+empire, the player with the second most tiles has the
+second largest empire, and so on. If players are tied for
+the number of tiles, use the number of cities as tiebreak,
+then the number of castles, and finally a dice roll if they
+are otherwise identical. This order is for the whole turn,
+even if circumstances change.
+
+== Sequence of play
+
+// Extra paragraph removed
+The campaign is fought over a number of rounds.
+Ideally – all players must be present for each round or
+alternatively (and most likely) it can be organised online
+through internet forums. There are also many online
+dice roll rooms on the internet these days, which are
+ideal to solve all the required
+rolls online. A typical group of players will usually
+work through one round every week, but it all depends
+on how often you can get together. It is even possible
+to play a whole campaign over a single weekend. At
+the end of each round, players must organise and play
+any Warmaster games that are required the before next
+round can proceed. In each round all players work their
+way through the following sequence of play. All the
+players carry out the event phase, then all carry out the
+revenue phase, and so on.
+
+. Events
+. Revenue
+. Challenge
+. Battle
+. Conquest & Build
+
+=== Events phase
+
+Each player picks one event from the event chart,
+starting with the player with the smallest Empire. You
+cannot pick an event that has already been chosen by
+another player, unless all the events have already been
+chosen at least once.
+
+// Spelling receive (4)
+. *Fool’s Gold* – Pick a Player. That player cannot
+collect any revenue during this round.
+
+. *Building Boom* – You may place a castle, mine or
+port in any tile that you control, or replace a castle
+you control with a city.
+
+. *Disaster* – Pick one player. They must roll a D6 for
+each castle, city, port or Mine. On a roll of 1 the
+place is destroyed.
+
+. *All or Nothing* – You receive an extra 2 empire
+points this round as long as you don’t lose or draw
+any battles. If you lose or draw then you receive no
+empire points at all this round.
+
+. *Scouts* – In any battles you fight in this round, your
+opponent must deploy their whole army before you
+deploy your army, and you decide who gets the first
+turn.
+
+. *Diplomacy* – Pick one player. They may not issue a
+challenge against you this round.
+
+. *Land Grab* – The first tile you claim this turn only
+cost 1 empire point rather than the normal 2.
+
+. *Elite Army* – In any battles you fight this round, you
+may take one unit over Min/Max value.
+
+=== Revenue phase
+
+Each player collects revenue from any mines they
+control. The gold is added to the player‘s treasury each
+round and can be spent or saved up and spent in future
+rounds. Players must keep track of how much gold they
+have.
+
+Mines generate 2D6 × 10 gold pieces to a player‘s treasury
+each round if they are on a river tile, and 3D6 x 10 gold
+pieces each round if they are on a mountain tile.
+
+image::campaigns-of-conquest/artillery-column.png[]
+
+==== Exhausting a mine
+
+// Spelling e.g.
+If all of the dice rolls are the same (e.g. you roll two 1’s
+on a river, or three 5’s on a mountain) then the mine is
+exhausted. Collect revenue as normal and then remove
+the mine from the map, but leave the banner behind
+to show who controls the tile. A new marker may be
+created on the tile latter in the game if desired.
+
+=== Challenge phase
+
+Each player must issue a challenge to another player,
+starting with the player with the smallest empire. The
+challenger and the player they challenged must fight a
+Warmaster battle in the battle phase. A player who has
+been challenged cannot issue a challenge that round – his
+army is already committed to battle!
+
+==== Forming a team
+
+A player can challenge a player who has already
+been challenged to a battle. The player who has been
+challenged can choose to either fight one battle against
+all his challengers (see team battles), or he can choose
+to fight a series of individual one–on-one battles against
+each of his challengers in turn (see multiple battles). Any
+number of players can form a team in this way.
+
+==== Breaking up a team
+
+A player can challenge a player who is already part of a
+team – this will break the team up. For example, if Andy
+and Phil had formed a team against Bob, then Max could
+challenge one of them in order to break up the team.
+
+// Spelling leaving
+If you do this then the player you have
+challenged fights a battle with you,
+leaving the remaining team
+member(s) to fight their opponent.
+So, carrying on our example,
+if Max challenges Phil,
+then Max and Phil fight
+a battle, leaving Andy to
+fight against Bob.
+
+=== Battle phase
+
+// Spelling preferred
+Players can agree to fight battles of whatever size they
+find convenient – there is no need for all battles to be
+fought at a preset size or with a pre-selected army list.
+Just play Warmaster games as you normally would at
+1000pts, 2000pts, 3000pts or whatever is your preferred
+size.
+
+==== Army bonuses
+
+// Spelling receives
+Each player receives a bonus to use when they select
+their army.
+
+* The player who has the largest empire receives
+  a bonus of 1/40 of the total army points. So in
+  2000pts battle he may field 2050pts, in 1000pts
+  he may field 1025pts.
+
+* Any player may spend up to 200 gold pieces
+  from his treasury to add extra points to his
+  army. For those 200 gold pieces he may add
+  1/10 of total army points. So in 2000pts he may
+  add 200 points, in 1000pts battle he may add 100
+  points. If the player spends less then 200 gold
+  pieces, the number of points is proportional.
+  So if he spends 50 gold pieces in 2000pts battle,
+  he may add 50 points, in 1000pts battle he may
+  add 25 points.
+
+==== Multiple battles
+
+Sometimes a player will have to fight more than one
+battle in a round (see challenges). A player can use all
+bonuses they are entitled to in each and every battle they
+fight that round. However, gold spent in one battle is
+used up, and may not be used again in a later battle.
+
+image::campaigns-of-conquest/dwarf-helmet.png[]
+
+=== Team battles
+
+Sometimes players will fight together as a team (see
+challenge). When this happens the team must split the
+total points value of their force between all the players in
+the team in a mutually agreeable manner. For example in
+2000pts game a two player team might take 1000 points
+each, or one might take 1500 and the other 500 and so
+on. Each player is then allowed to add bonuses to their
+individual total as described above.
+
+// Extra paragraph break removed
+* Each player in a team controls his own army.
+  Both players move their units in the movement
+  phase, both
+  players shoot in the shooting phase etc.
+
+* Units may not charge, shoot or cast magic
+  spells against units controlled by another
+  player in the team.
+
+* Characters form one army may not join units
+  belonging to another team member’s army.
+
+* Commanders can only command units from
+  their army.
+
+// Quote fixed
+* Only units that belong to the same army
+  count as “friendly units“ for the purpose of
+  the rules. Units belonging to another team
+  member’s army do not count as friendly units.
+
+* In team battles the break point of each team
+  army counts together, so both armies withdraw
+  only when total break point is reached.
+
+// Spelling its
+* Each army has its own general. If one general
+  is killed, his army doesn’t withdraw, however
+  the team can no longer win the battle. It can
+  only lose or draw. Commanders can only
+  command their own armies and wizards can
+  only cast bonus spells on their own troops.
+
+=== Conquest and building phase
+
+When you play a game of Warmaster you earn empire
+points as shown on the chart below. Empire points are
+used to take territory, to build cities, castles, ports or
+mines or to remove territory from a rival player. Players
+take it in turns to spend their empire points,
+starting with the player with the
+smallest empire and
+working up.
+
+==== Earning Empire Points
+
+The number of empire points a player has to spend
+depends on how well he did in the battle phase. Players
+who lose earn 1 point, drawing players earn 2 points, and
+winners earn 3, 4 or 5 depending upon level of victory.
+Results of a battle are determined as follows:
+
+* *Lose – 1 Empire Point.* Army is forced to
+  withdraw while earning less victory points
+  than the opponent OR army earns less victory
+  points when no side withdraws. A player also
+  loses when he willingly surrenders.
+
+* *Draw – 2 Empire Points.* In case one army
+  is forced to withdraw but gains more victory
+  points than its opponent the battle is a draw
+  and both armies get 2 EP. A player also gets
+  2 EP when no side withdraws but they have
+  more victory points than the opponent.
+
+* *Minor victory – 3 Empire Points.* Army
+  is victorious when it forces the enemy to
+  withdraw and earns more victory points at the
+  same time.
+
+// Extra paragraph break removed
+* *Major Victory – 4 Empire Points.* Army
+  breaks the enemy while not losing more units
+  than half of its
+  break point.
+
+* *Massacre – 5 Empire Points.* Army massacres
+  an enemy when forcing him to withdraw
+  while not losing more than 25% of its break
+  point.
+
+In a team game all players in a team earn one less empire
+point (so if their side wins a victory each player earns 2
+Empire points).
+
+// 2,5 changed to 2½ to avoid decimal symbol
+If a player fights more than one battle in a turn then he
+must average out the empire points for the battles they
+fought, rounding any fractions down. For example if a
+player fights two battles, loses one and scores a major
+victory in the other, then he would score (1+4)/2 = 2½,
+rounded down to 2 empire points.
+
+image::campaigns-of-conquest/territory-tiles.png[]
+
+==== Spending Empire Points
+
+// Spelling points
+Empire Points can be spent as follows. Only one unused
+empire point can be carried over to the next campaign
+round.
+
+* *Claim Tile (2 EP)* – place a banner on a tile
+  without a banner that is adjacent to one of
+  your own tiles.
+
+* *Conquer Tile (3 EP)* – Remove another
+  player’s banner from a tile that is adjacent to
+  one of your own tiles and replace with your
+  own. You must have fought and won a battle
+  against the player in the preceding battle
+  phase.
+
+* *Build (1 EP)* – Add a castle, city, mine or port
+  to a tile you already control (see Buildings).
+
+* *Raids (1 EP)* – Player can raid a free territory
+  in which case he gains 3D6 x 10 gold pieces.
+  Alternatively he can raid territory of another
+  player. He gains 2D6 x 10 gold pieces that are
+  taken from the treasury of the player who’s
+  territory was raided. You cannot get more gold
+  pieces than the raided player actually has. You
+  also cannot get the gold guarded in castles and
+  cities (see Castles and Cities).
+
+* *Plunder (2 EP)* - If you win a battle against
+  another player, you can plunder one of his tiles.
+  You don’t need to be bordering their territory.
+  Choose one opponent’s tile. If there is a mine
+  or port, remove them. If there is no building
+  on the tile, remove opponent’s flag. Tiles with
+  castles or cities cannot be plundered.
+
+_Mountains_ – It costs 1 extra empire point to Claim or
+Conquer a Mountain tile.
+
+_Castles or Cities_ – It cost 1 extra empire point to Conquer
+a tile that contains a castle or city.
+
+_Buildings_ - You can spend empire points to add a castle,
+city, mine or port to a tile that you control. Alternatively,
+you may instead replace a marker on a tile you control
+with another one. There can be only one building on
+each tile.
+
+==== Castle
+
+Makes it more difficult for players to conquer the tile
+(see above). Castles can also hold 25 gold pieces against
+enemy raiders. Cannot be built on marsh tiles.
+
+==== City
+
+To build a city there must already be a castle on the tile.
+You may upgrade a castle in the same turn that you build
+it, and the city replaces the castle. The tile counts as
+having a castle and in addition counts as two tiles when
+working out who has the largest empire. Cities cannot
+be built on mountain or marsh tiles.
+
+==== Mine
+
+Generates gold pieces in the revenue phase. Can only be
+built on river or mountain tiles. You can spend gold from
+your treasury to increase the point size of your army
+in a battle (see Revenue phase). Gold mines on a river
+generate 2D6 x 10 gold pieces, gold mines in a mountain
+generate 3D6 x 10 gold pieces. Mines on tiles that were
+conquered are destroyed.
+
+==== Port
+
+Can be built on river or shore tile (if you have any on
+your map). Player with a port can claim and and conquer
+river or shore tiles which are not adjacent to the player’s
+own tiles.
+
+==== *Objectives*
+
+===== Mage Tower
+
+Player who owns a tile with Mage Tower may add +1 to
+the spell casting roll once per battle.
+
+===== Dwarf Brewery
+
+Player who owns a tile with Dwarf Brewery may once
+per battle re-roll one save roll each round of a single
+combat phase.
+
+===== Orc Idol
+
+Player who owns a tile with Orc Idol may once per battle
+add D3 attack dice to a single unit during one combat
+phase.
+
+image::campaigns-of-conquest/territory-tile.png[]
+
+== How to win
+
+A player wins instantly when he claims his tenth tile
+or if he knocks any other player out of the game by
+conquering the last tile that player controls. Tiles that
+contain a city count as two tiles for determining when a
+player wins the game.
+
+== Siege
+
+A big advantage with Warmaster is that it has a well
+written siege system. Because there are fortified places
+such as castles and cities in the campaign system it would
+be shame not to include a the possibility of siege battles.
+To play a siege battle requires lots of special terrain
+and models are needed (eg. fortress walls, siege towers,
+ladders etc.). It may also slightly break the flow of the
+campaign. For these reasons siege battles are considered
+only as an option for players who want to play it. There
+is no need to play siege battles in your campaign if you
+don’t want to. Siege battles are played only when both
+players agree to do so.
+
+=== Into the breach!
+
+When a player wins a battle and decides to conquer a
+loser’s tile with a castle or city, he can do it either in the
+standard way or, if both players agree, they can start
+a siege. When players decide to start a siege, the tile is
+conquered for 2 EP as usual, however the
+castle or city
+remains in the defender‘s hands. This tile counts as a half
+of a tile for both players for the purpose of determining
+the largest empire.
+
+// Spelling conquer
+The situation remains the same until the castle/city is
+conquered or the whole map tile is conquered back. To
+conquer the castle/city both players must play a siege
+battle (Into the breach! scenario in Siege and fortresses
+section). In this scenario the conquering player is the
+attacker of course. If the besieger wins the siege battle,
+he conquers the whole tile. If he fails, the siege goes on.
+One such attempt to conquer the castle/city can be made
+per campaign round.
+
+// Spelling conquer
+Until the castle/city is conquered the defender has
+a chance to conquer the map tile back in the usual
+manner. No extra 1 EP is needed to pay for conquering
+a tile with a castle or city on it as it is being held by own
+troops.
+
+image::campaigns-of-conquest/fortress-gate.png[]
+
+image::campaigns-of-conquest/dwarf-axes-left.png[]
+
+== Naval operations
+
+Another option to spice a campaign up is to add ship
+battles on sea. Main task of fleets in a campaign is to
+support ground operation on shores. Of course this
+is only possible when your map includes a sea. The
+main problem is that ship battles are not included in
+Warmaster rules and so you would need to play them
+using some stand-alone rule system with its own models
+(eg. old Man O’War game or Armada). For this reason
+the naval operation rules are optional and can be used
+only when at least two players agree on that.
+
+=== Set sails!
+
+Naval operations can only take place at sea, not on
+rivers. Players who agreed on involving naval operations
+can challenge each other to fight sea battles in the same
+manner as in ordinary ground battles. Sea battles are
+fought in Battle sequence no matter the order.
+
+// Spelling conquer
+A player who wins a sea battle gets a Naval Advantage
+over the defeated player. Naval Advantage means you
+can conquer a shore tile of the player defeated at sea
+for 1 EP less (usually 2) while it costs 1 EP more for the
+defeated player to conquer a shore tile (usually 4) of the
+player who has Naval Advantage over him. Note that a
+player still has to defeat another player in a Warmaster
+battle in order to conquer his shore tiles.
+
+The Naval Advantage only makes it easier or more
+difficult depending on the situation at sea.
+
+The Naval Advantage is carried over into subsequent
+campaign rounds and lasts until the player with the
+advantage is defeated in naval battle by any involved
+player. Involved players with no shore ports can still
+fight sea battles for Naval Advantage, however they
+cannot conquer another player’s shore tiles until a sea
+port is built.
+
+image::campaigns-of-conquest/sea-battle.png[]
+
+image::campaigns-of-conquest/dwarf-axes-right.png[]
+
+.Optional rules
+****
+These rules are designed to give a player an additional tool to turn the probability of success in their favour at critical
+moments of the battle.
+
+[discrete]
+==== General’s abilities
+
+// Spelling situations
+In the most critical of situations, a General can try to focus all his efforts to avert some dire event, or the mishaps of
+his subordinates. There are two abilities a General can use in such situations. Each of these Abilities can be used once
+per game.
+
+*Reliable Courier:* One Hero or Wizard within 30cm of the General can re-roll a failed order.
+
+*Inspection of Arms:* One friendly unit within 30cm of the General can re-roll all dice for either one to-hit roll or armour
+roll.
+****
+
+.Abstract battle resolution
+****
+// Change to "whatever the reason"
+To keep a campaign going players must be active.
+However there are situations when even the most
+enthusiastic players cannot find free time to play a battle,
+whatever the reason.
+
+In case a player cannot fight a battle against his
+opponent(s) he can either find a volunteer to fight it for
+him (no matter what army he uses) or he can use the
+Abstract Battle Resolution system. This system is
+designed to decide the battle with just simple dice roll.
+This can happen online in a virtual dice room.
+
+In this roll-off the challenger is considered the attacker
+and the challenged player is the defender. First find out a
+strategy bonuses your army has:
+
+|===
+|Strategy Bonus |Attacker |Defender
+
+|Elite army     |+1       |-1
+|Scouts         |+1       |-1
+|Largest empire |+1       |-1
+|Each 100 GP +
+spent (max 200) |+1       |-1
+|===
+
+[discrete]
+==== Roll for the outcome
+
+// "A" added
+A third person who is not involved in the battle rolls 2D6
+and applies any strategy bonuses. High result favours the
+attacker, low result favours the defender.
+
+|===
+|Adjusted die roll |Result
+
+|2 or less         |Defender major victory
+|3-5               |Defender minor victory
+|6-8               |Draw
+|9-11              |Attacker minor victory
+|12 or more        |Attacker major victory
+|===
+****
+
+image::campaigns-of-conquest/ogre-gunners.png[]
+
+image::campaigns-of-conquest/mounted-archer.png[]

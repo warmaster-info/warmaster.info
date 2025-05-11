@@ -1,1 +1,482 @@
-= generals-wizards-and-heroes
+= Generals, Wizards & Heroes
+
+Generals, Wizards and Heroes are represented by a
+single stand which includes the great man himself
+plus his bodyguard, standard bearer, familiars, servants,
+messengers, observers, courtiers, pets, jesters, toadies
+and other such hangers-on as make up his immediate
+entourage. For the sake of convenience, Generals,
+Wizards and Heroes are referred to as characters.
+
+****
+[cols="^,^"]
+|===
+|image:generals-wizards-and-heroes/general.png[]
+|image:generals-wizards-and-heroes/wizard-1.png[]
+
+|General |Wizard
+
+|image:generals-wizards-and-heroes/hero.png[]
+|image:generals-wizards-and-heroes/wizard-2.png[]
+
+|Hero | Wizard
+|===
+
+Generals, Wizards and Heroes are immediately recognisable pieces.
+****
+
+== Game values
+
+In some armies, Generals, Wizards and Heroes have
+different names such as Liche priests in the Undead
+army and Shamans in the Orc army. Names apart, they
+amount to the same thing and each is either a General,
+Wizard or Hero as indicated in the Army Lists section of
+the rulebook.
+
+Unlike troop stands Character stands don’t
+have a value for Hits or Armour. Instead they
+have a Command value. They have no Hits
+value at all. They have an Attack value which
+is expressed as a bonus, for example +1, +2, +3,
+etc. The picture below shows an Empire Hero
+stand with its game values. Full game values
+for all characters can be found in the Army
+List section.
+
+image::generals-wizards-and-heroes/character.png[]
+
+[cols="4*^"]
+|===
+|↙ |⤸ |⤹ |↘
+
+<|Attacks +1
+^|Hits*
+^|Armour*
+>|Command 8
+|===
+
+image::generals-wizards-and-heroes/dryads.png[]
+
+== Characters as game pieces
+
+Characters are different from other pieces in the game.
+Most stands of infantry or other warriors represent a
+substantial body of troops defined by the stand’s area.
+Characters represent a comparatively tiny number
+of actual individuals, some of whom may be scattered
+across the battlefield in the role of messengers, scouts
+and observers.
+
+The character stand’s prime function is to provide a
+fixed point from which orders are issued. In addition
+a character stand can bolster a unit’s combat ability by
+joining it. In the case of Wizards they can also cast spells,
+some of which are directly offensive in nature.
+
+Because of their unique place in the game, character
+stands are treated differently to units of troops. A
+character stand is used much more in the manner of
+a token or marker. The stand itself is ignored on the
+battlefield by units from both sides.
+
+Units from their own side can move through characters
+without penalty and they, in turn, can move through
+units from their own side. If friendly units are moved
+in such a way that they displace a character then the
+player must immediately move the character by the
+minimum distance required to allow the unit to take
+up its position. This may result in a character moving
+several times during the Command phase to get out of
+the way of troop movement.
+
+If moved through by enemies, characters are repositioned
+as described below.
+
+Characters can also be seen through and, where
+appropriate, shot through by troops from both sides.
+Their presence is not considered to block a unit’s line
+of sight.
+
+It follows that characters cannot be specifically shot at,
+targeted with spells or attacked in combat. Characters
+don’t suffer hits from shooting or combat, although
+they can be slain if a unit they are with is destroyed,
+as described later. A character stand on its own cannot
+charge or fight an enemy unit.
+
+include::partial$divider-axe.adoc[]
+
+It is worth bearing in mind that character stands are
+always ignored when considering which enemy target is
+the closest and when measuring between units. Similarly,
+an enemy unit cannot act on its initiative with regard to a
+character and the presence of an enemy character within
+20cm does not impose a -1 Command penalty.
+
+== Characters & terrain
+
+// Spelling i.e.
+Unless riding monsters or chariots, character stands
+ignore terrain in the same way as infantry. Only terrain
+which is impossible for infantry to cross is impossible
+for characters (i.e, a character cannot move across the
+open ocean, into a volcanic lake and so forth). If riding
+monsters or chariots, characters are restricted by terrain
+in the same way as these troops. See Monstrous and
+Chariot Mounts (p.63).
+
+image::generals-wizards-and-heroes/dark-knight.png[]
+
+== Orders from wizards & heroes
+
+We have already described how characters give orders in
+the Command phase.
+
+Any character can issue an order to any unit or brigade
+within his command range. The General’s command
+range extends over the whole battlefield but a Hero can
+only issue orders to units within 60cm of the character
+stand and a Wizard can only issue an order to a unit
+within 20cm of the character stand.
+
+|===
+|Character |Command Range
+
+|General   |Battlefield
+|Hero      |60cm
+|Wizard    |20cm
+|===
+
+A player can issue orders from his characters in any
+sequence he wishes but must finish issuing orders from
+each character before moving to the next. For example,
+you can’t issue orders from the General then from a
+Hero and then from the General again.
+
+Once a Hero or Wizard has failed to issue an order, that
+character can issue no more orders in that Command
+phase. However, other characters can continue issuing
+orders until they too fail to issue an order. Once the
+General has failed to give an order, *no further orders* can
+be issued in that Command phase by *any* characters even
+if they have issued no orders previously. This makes it
+preferable for Heroes and Wizards to issue orders first
+and the General last, although this is not mandatory. A
+player may occasionally prefer to await the outcome of
+his General’s attempts to issue orders before committing
+a Wizard or Hero.
+
+== Blunders
+
+Wizards and Heroes are not always reliable. We presume
+that the General has briefed them concerning his battle
+plan, carefully instructed them in their duties and taken
+pains to make everything as clear as possible. In a perfect
+world this should be sufficient but, alas, this is rarely so.
+Some underlings are plain dim and so misunderstand
+their orders. Others get carried away and charge off in
+pursuit of a new and exciting goal. A few are quick to
+ignore their General’s orders in favour of their own plan.
+
+This wayward inclination is taken into account whenever
+a Wizard or Hero fails to issue an order as a result of
+rolling a 12. If the player rolls a 12 then not only is the
+order not issued but something has gone wrong. Someone
+has blundered. The Wizard or Hero has got carried away
+or ignored the instructions he has been given or taken a
+wrong turning or mistaken a wandering group of locals
+for the enemy. The player rolls a dice and consults the
+Blunder table. The result applies to the unit which has
+failed to receive its order and to all units in the case of
+a brigade, except where noted otherwise. If it is the first
+order to the unit/brigade then the half pace move is not
+allowed. Follow the result of the Blunder table instead.
+
+General doesn’t blunder. However, if the General rolls
+a 12 the unit/brigade cannot move even if it was its first
+order and therefore it was eligible for a half pace move.
+
+image::generals-wizards-and-heroes/wolf-rider.png[]
+
+==== D6 Blunder
+
+*1 You must be crazy!*::
++
+--
+The unit’s officers are seriously bewildered by their
+orders and insist on disputing their interpretation.
+This takes a long time during which tempers fray,
+fists fly and some officers storm off determined to
+spend the rest of the battle undermining the efforts
+of their rivals. The unit suffers a -1 Command
+penalty for the rest of the battle. If a brigade has
+blundered then this penalty applies to one unit and
+the player can choose which is affected. The penalty
+will apply to the whole brigade if an order is given
+to the brigade that includes the affected unit. This
+penalty is cumulative so it’s theoretically possible
+for a unit’s effectiveness to plummet to a seriously
+incompetent level. The unit/brigade may not move
+further that Command phase.
+--
+
+*2-3 Blimey Sir! There’s thousands of ’em!*::
++
+--
+The unit’s officers mistake a shabby group of curious
+locals for a huge enemy force. If there are no visible
+enemy units within a full pace move of the unit or
+brigade then the unit/brigade halts and in this case
+there is no further penalty. If there are visible enemy
+units within a full pace move of the blundering unit
+or brigade then the unit or each unit in a brigade
+must move the shortest route to get outside a full
+pace move from all enemy units. Where units have
+different moves, the brigade moves at the speed of
+the slowest. Once it has moved, the unit/brigade
+halts. If unable to comply, the unit/brigade moves
+as far away from all enemy units as possible instead.
+--
+
+*4-5 No sense in getting killed sir!*::
++
+--
+The unit’s officers are timorous and hesitant,
+convinced that the unit is surrounded by enemy and
+unseen dangers. The unit/brigade may not move and
+cannot receive any further orders that Command
+phase.
+--
+
+*6 Up and ’at ’em, men!*::
+--
+The troops are overcome by a sudden and
+uncontrollable lust for glory and surge forwards
+out of control. The unit must move at its maximum
+full pace towards the nearest visible enemy unit and
+will charge the nearest enemy unit if it is possible to
+do so. If a whole brigade goes ‘up and ’at ’em!’ then
+move each unit one at a time as the movement of one
+may affect the ability of subsequent units to charge
+because it blocks sight or access to base edges. Once
+units have moved, they halt as for a normal failed
+order. Once units have moved, or there is no visible
+enemy, they halt. The unit/brigade cannot receive
+any further orders that Command phase.
+--
+
+image::generals-wizards-and-heroes/night-goblins.png[]
+
+== Character movement
+
+We have already covered the essentials of character
+movement in the Movement section. To summarise:
+
+. Characters move at the end of the Command phase
+  and never move in company with units during the
+  Command phase.
+
+. A character can move once up to 60cm (100cm if
+  flying). No Command test is required for a character
+  to move.
+
+. Characters move in company with units they have
+  joined in other phases. For example, if they are
+  driven back by missile fire, move to make way for
+  other units, and throughout the Combat phase
+  during pursuit, fall backs, retreats and advances
+
+image::generals-wizards-and-heroes/tusks.png[]
+
+== Joining a unit
+
+A character may join a unit by moving into touch with
+it at the end of the Command phase. The player declares
+that the character is now with the unit. A character can
+join a unit which is in combat if you wish. Players should
+be careful not to place characters touching units if they
+are not intended to be joined and should always leave a
+discernible gap where this makes the position clear.
+
+A character must also join a unit if he is obliged to move
+as a result of enemy troop movement. In this case, he
+must move into touch with a friendly unit within a 30cm
+move as described opposite.
+
+If a character is joined with a unit which is confused, this
+does not prevent the character from moving at the end
+of the Command phase. Nor does it prevent him issuing
+orders to other units during the Command phase itself.
+
+The precise position of the character stand relative to
+a unit he has joined is not critical. Once he has joined
+a unit, the character himself is assumed to be within
+the unit’s formation. Once a character has joined a
+unit, his stand may be moved to any point around the
+unit as required, for example so that another unit can
+charge into position or move alongside. The character
+stand must remain in touch with the unit at some point
+if possible. If this is impossible, if the unit is in combat
+and completely surrounded for example, the player can
+temporarily balance the character stand in the middle
+of the unit or say that he is doing so whilst placing the
+stand safely aside. A character joined with a unit that is
+locked in unresolved combat can still issue orders in the
+Command phase. Nominate a stand in the unit and work
+out the measuring of the distance to the commanded
+unit from that stand.
+
+== Enemy moving through characters
+
+If a lone character gets in the way of enemy units as
+they move then the character stand must be moved up
+to 30cm to join a friendly unit. Flying units fly over the
+battlefield as they move and so only displace characters
+if their move ends on top of them. Character stands
+cannot be moved so that they displace enemy characters.
+Note that a displaced character does not have to join the
+closest unit, the player can decide which unit to join.
+
+If a character cannot move to a friendly unit, he is
+considered to have been slain and is removed from
+the battle. If the General is slain, the battle is over as
+described in The End of The Battle (p.69).
+
+This is an important rule because it obliges characters to
+remain fairly close to their own troops, especially Wizards
+who might otherwise exploit their invulnerability to
+launch unsupported magical attacks deep behind enemy
+lines.
+
+include::partial$divider-sword.adoc[]
+
+If a character is with a unit when it makes contact with
+a moving enemy then the character can be repositioned
+out of the way as convenient, so long as he stays in touch
+with the unit he is with. If this is impossible (if the unit
+is surrounded, for example) then the character can be
+precariously balanced on top of the unit or removed but
+assumed to be included within the unit’s formation.
+
+== Characters & shooting
+
+Characters cannot be shot at but may have joined a unit
+which is shot at and either been driven back or destroyed
+as a result. If a character is with a unit that has been
+driven back by shooting, he automatically moves with it.
+
+If a character has joined a unit that is subsequently
+destroyed by shooting or which is routed and destroyed
+as a result of a drive back then the character is slain.
+
+Monster mounted characters or other characters that
+have a shooting attack when joined to units are assumed
+to be within the unit’s formation regardless of the
+actual position of the character stand. When shooting
+in the Shooting phase, or during the Command phase if
+shooting at chargers, the player chooses one of the unit’s
+stands and works out the character’s shooting from that
+stand. All shots taken at the same enemy unit have to
+be worked out from the same stand, but otherwise the
+character can ‘move’ from stand to stand during the
+turn as required (this can happen during the opposing
+player’s Command phase if the unit is charged by more
+than one enemy for example). The same principle applies
+to characters casting spells.
+
+== Characters in combat
+
+When one or more characters join a unit in combat, the
+character with the highest Attack value can add this as a
+bonus to the Attack value of any one stand in the unit. A
+unit may be joined by any number of characters but only
+one character can ever add his Attack value bonus to a
+unit per round of combat.
+
+Character stands which have joined a unit in combat
+must remain with it whilst the combat lasts and must
+fall back, stand their ground, retreat, pursue or advance
+with the unit.
+
+A General, Wizard or Hero is slain if the unit he is with
+is destroyed. This is of particular importance as it makes
+combat an extremely risky business for characters and
+certainly not something to be indulged in lightly.
+
+== Character mounts
+
+// Spelling modelled
+If you read the Army Lists section you’ll see that
+Generals, Wizards and Heroes are often allowed to ride
+on some sort of monster or in a chariot. In the case of
+monsters these are referred to as *Monstrous Mounts* and
+chariots are *Chariot Mounts*. Sometimes characters are
+allowed to ride on some *Special Mounts* that have their
+own special description in appropriate army lists. In
+all other cases where characters are modelled riding on
+common mounts (or simply *mounts*) like horses, wolves
+and similar creatures, they do so for free.
+
+If a character rides either a Monstrous or Chariot Mount
+this does not affect the rules described above. The stand
+is still a General, Wizard or Hero stand for our purposes.
+However, the mount will usually increase the character’s
+Attack value bonus in combat. Chariot and Monster
+Mount bonuses are added to the character’s normal
+Combat bonus. In addition, there may be special rules
+that apply. For example, a General riding a Monstrous
+Mount may cause terror. These rules are noted in the
+Army Lists.
+
+It is quite common for characters to ride some sort
+of flying creature such as a Griffon or a Dragon. This
+increases the rider’s maximum movement to 100cm.
+
+A flying character is not affected by normally impassable
+terrain because it can fly right over it in the same way as
+other flying stands.
+
+A character riding a chariot or a monster cannot move
+into terrain that his mount could not enter. He cannot
+enter a wood for example. He cannot join a unit if all
+of its stands are in a wood. If a unit he is with retreats,
+falls back, pursues, is driven back, advances or is
+otherwise obliged to move into a wood he must move
+up to 30cm to another unit in the same way as a lone
+character contacted by the enemy. If he cannot do so, he
+is slain. However, so long as at least one stand in a unit is
+positioned in unrestricted terrain, the character can join
+the unit.
+
+Note that common mounts such as horses, wolves, boars
+and similar creatures are not accorded any special rules,
+and characters riding these are simply treated the same
+way as characters on foot.
+
+== Odd size character bases
+
+Characters are mounted on standard sized bases in the
+same way as troop stands – however many players prefer
+to mount their characters on round bases as this makes
+them easier to spot. In addition, some of the special
+character models, such as the Grand Theogonist, are too
+large to fit onto the standard sized base.
+
+Character stands can be mounted onto round bases up
+to 25mm in diameter using the normal rules. Simply
+measure distances to the stand’s edge as you would for
+a rectangular base. This confers no significant advantage
+over a standard base.
+
+Character stands can be mounted onto larger bases,
+whether rectangular, round or whatever, but in these
+cases all distances must be measured either to the centre
+of the base or to a specific point on the base such as a
+particular model. Players must point out where they
+will measure from before the game. Oversized bases are
+slightly inconvenient in play, but allow for some very
+nice decorative models or more complex scenes and do
+look very attractive.
+
+image::generals-wizards-and-heroes/ogres.png[]
