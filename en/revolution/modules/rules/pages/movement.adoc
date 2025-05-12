@@ -1,5 +1,7 @@
 = Movement
 
+include::partial$diagrams-incomplete.adoc[]
+
 Units move when given an order as explained in the
 Command section or by using their initiative as
 explained later in this section. The distance a unit can
@@ -161,7 +163,7 @@ The exception to this rule is that a stand cannot pass
 through a gap between two enemy stands, or between
 an enemy stand and any feature or friendly stand, unless
 the gap is wider than the stand’s own frontage, as shown
-in diagrams 21.1. and 21.2. For example, there must be
+in <<move-through-gap>> and <<cannot-move-through-gap>>. For example, there must be
 a gap of more than 40mm for an infantry stand to pass
 between two enemy stands, between an enemy stand
 and a friendly stand, or between an enemy stand and the
@@ -173,13 +175,15 @@ effective manoeuvring. Note that although stands are not
 permitted to pass between enemy stands as described,
 this does not prevent them moving between such stands
 to charge them, assuming there is room to do so (See
-Moving Chargers p.34).
+xref::combat-phase.adoc#moving-chargers[Moving Chargers]).
 
+// TODO: Low-priority diagram text
 .Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile.
-image::movement/move-through-gap.png[]
+image::movement/move-through-gap.png[id=move-through-gap]
 
+// TODO: Low-priority diagram text
 .This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through.
-image::movement/cannot-move-through-gap.png[]
+image::movement/cannot-move-through-gap.png[id=cannot-move-through-gap]
 
 === Terrain
 
@@ -308,7 +312,7 @@ for that unit to use initiative or changing which visible
 enemy unit is closest. Conversely, a unit’s move could
 open a line of sight, allowing another friendly unit to
 use its own initiative or changing which enemy unit is
-closest. See diagrams 23.1 and 23.2.
+closest. See <<initiative-charge-1>> and <<initiative-charge-2>>.
 
 If two or more enemy units are equally close a player
 may choose which to charge or evade. Refer to the
@@ -318,11 +322,13 @@ Some units can see all round – they have 360 degree
 vision – and you will find this indicated in the unit’s
 description (for example, Wolf Riders in the Orc army).
 
+// TODO: Low-priority diagram text
 .Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position.
-image::movement/initiative-charge-1.png[]
+image::movement/initiative-charge-1.png[id=initiative-charge-1]
 
+// TODO: Low-priority diagram text
 .Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
-image::movement/initiative-charge-2.png[]
+image::movement/initiative-charge-2.png[id=initiative-charge-2]
 
 This simply means a line of sight can be drawn from any
 free edge of any stand in the unit to any stand of another
@@ -366,7 +372,7 @@ placing a tape measure between the closest points of the
 closest two opposing stands. Where stands are equally
 close, the evading player may choose between them. The
 resulting line indicates the exact direction in which the
-evaders move. See Diagram 24.1.
+evaders move. See <<evade-direction>>.
 
 image::movement/anvil.png[]
 
@@ -382,8 +388,9 @@ into the unit‘s new formation. Remember to take into
 account any necessary distance required to reorient
 stands as they move.
 
+// TODO: Low-priority diagram text
 .The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B.
-image::movement/evade-direction.png[]
+image::movement/evade-direction.png[id="evade-direction"]
 
 .Optional rule
 ****
@@ -406,14 +413,14 @@ a *burst through* and is an exception to the normal rule that
 units can’t move through each other. The burst through
 represents a situation where trained troops in good order
 manoeuvre through each other, one unit opening up its
-ranks to allow the other to pass. See Diagram 24.2. This
+ranks to allow the other to pass. See <<evade-burst-through>>. This
 obviously takes time, so a unit which is burst through is
 automatically *confused*! See the Confusion section (p.55).
 
 #TODO: fix diagram#
 
 .The path of the evading unit takes it through an unengaged friendly unit. The unit that has been burst through becomes confused. This happens if the stands overlap as the evader moves, even if they do so only partially. Friendly unit is burst through and confused. Unit evades along path in line with closest stand. The two remaining stands are positioned as required to complete the evasion.
-image::movement/evade-burst-through.png[]
+image::movement/evade-burst-through.png[id=evade-burst-through]
 
 image::movement/treemen.png[]
 

@@ -30,6 +30,7 @@ asciidoc:
   attributes:
     idprefix: ''
     idseparator: '-'
+    xrefstyle: short
     page-pagination: yes
     page-toctitle: 'Page contents'
     language: en

@@ -318,11 +318,10 @@ formation as they move. No stand in any unit in the
 brigade may move further than its permitted move
 distance.
 
-// DIAGRAMS
-
 Conceivably, some units in a brigade might wish to charge
-the enemy whilst others do not, as shown in #Diagrams
-17.1 to 17.4#. Any units in a brigade that wish to charge do
+the enemy whilst others do not, as shown in
+<<brigade-orders,the following diagrams>>.
+Any units in a brigade that wish to charge do
 not have to remain in touch with the rest of the brigade
 as a whole. Even though a single brigade order has been
 issued, individual units can always charge. They do so
@@ -330,19 +329,14 @@ individually, one at a time, exactly as if they had been
 issued separate orders. Units which do not charge still
 have to end their move touching.
 
-#TODO: Better annotation of diagrams#
-
-.Brigade received an order
-image::the-command-phase/charge-from-brigade-1.png[]
+[#brigade-orders]
+image::the-command-phase/charge-from-brigade-1.svg[]
 
 image::the-command-phase/charge-from-brigade-2.png[]
 
-.Units C & B can see enemy 2.  Unit B can no longer see enemy 1.  Unit D can see nothing.
-image::the-command-phase/charge-from-brigade-3.png[]
+image::the-command-phase/charge-from-brigade-3.svg[]
 
-.Units B & D can now move, no other charges are possible.  If they do so they must finish their moves touching – as they are moving under brigade orders.
-image::the-command-phase/charge-from-brigade-4.png[]
-
+image::the-command-phase/charge-from-brigade-4.svg[]
 
 Once a brigade has moved, the player may not want to
 move the whole brigade again but might wish to move an
