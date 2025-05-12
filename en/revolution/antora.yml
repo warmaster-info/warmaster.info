@@ -1,5 +1,6 @@
 name: revolution
 title: Warmaster Revolution
 version: ~
+start_page: rules:index.adoc
 nav:
-- modules/ROOT/nav.adoc
+- modules/rules/nav.adoc
