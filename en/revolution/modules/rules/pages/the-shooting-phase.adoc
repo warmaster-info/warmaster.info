@@ -1,7 +1,5 @@
 = The Shooting Phase
 
-include::partial$diagrams-incomplete.adoc[]
-
 The effect of missile weapons is worked out in the
 Shooting phase. This includes missile fire from
 troops armed with bows, crossbows and similar weapons
@@ -44,7 +42,7 @@ the target unit. Sight is obscured by interposing terrain
 (other than low terrain features such as low obstacles,
 streams/rivers, marshes), other units, other stands from
 the shooting unit or any features that, in reality, would
-make it impractical to see or shoot. See Diagram 27.1.
+make it impractical to see or shoot. See <<sight>>.
 
 Stands inside a wood are assumed to be able to see up to
 2cm. Stands within 2cm of a wood’s edge are assumed to
@@ -55,10 +53,9 @@ of the wood and shoot out without exposing themselves
 to a charge from cavalry, chariots or other enemy for
 whom the wood is impassable.
 
-#TODO diagram#
-
-.Targets in sight | Targets out of sight | A stand can see if it is possible to draw a line of sight from its front edge to the target (shaded area).
-image::the-shooting-phase/sight.png[]
+// Caption added
+.Targets in and out of sight.
+image::the-shooting-phase/sight.svg[id=sight]
 
 Enemy units in combat are judged to be intermingled
 with their opponents and don’t therefore present a
@@ -133,7 +130,7 @@ image:::the-shooting-phase/wizard.png[]
 
 The chart below shows the scores needed to hit.
 
-#TODO Table consistency#
+// TODO Table consistency
 
 .Scores to hit
 [cols="4,1"]
@@ -248,12 +245,11 @@ to an evade move as described in the Movement section
 can change its formation and stands can change their
 orientation as they move, in the case of a drive back, a
 unit can do neither of these things but must move back
-as a block. See Diagram 29.1.
+as a block. See <<drive-back>>.
 
-#TODO diagram#
-
-.Driving unit | Target unit | The infantry unit suffers three hits - enough to remove a stand and drive the unit back 3D6 cm. Rolls of 3, 4 and 5 give a 12 cm drive back as shown.
-image:::the-shooting-phase/drive-back.png[]
+// Caption added.
+.Driving back enemies
+image:::the-shooting-phase/drive-back.svg[id=drive-back]
 
 === Units confused during drive backs
 
@@ -336,7 +332,7 @@ casualties are removed immediately and do not therefore
 fight in the Combat phase. Remember – the total number
 of shooting hits count as having been struck in the first
 combat round even where whole stands have been
-removed, as shown in diagrams 31.1 and 31.2.
+removed, as shown in diagrams <<shooting-at-chargers>> and <<shooting-hits-carried-over>>.
 
 _For example, if an Archer unit inflicts two hits on a
 unit of charging Knights, the Knights start the combat
@@ -355,7 +351,7 @@ into account by including any hits inflicted in the result
 for the first round of fighting (see Combat results p.43).
 
 .The Archers shoot as the Knights charge.
-image:::the-shooting-phase/shooting-at-chargers.png[]
+image::the-shooting-phase/shooting-at-chargers.png[id=shooting-at-chargers]
 
 If a missile-armed unit is charged by two or more
 enemy units, one after the other, then it can potentially
@@ -365,8 +361,10 @@ already engaged can fire. Remember that stands touching
 corner-to-corner are engaged and so are not free to shoot
 at charging enemy.
 
-.2 hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round.
-image:::the-shooting-phase/shooting-hits-carried-over.png[]
+// TODO: Low-priority diagram.
+// 2 changed to Two to avoid adjacent figure number.
+.Two hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round.
+image::the-shooting-phase/shooting-hits-carried-over.png[id=shooting-hits-carried-over]
 
 == Special situations
 

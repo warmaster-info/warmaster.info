@@ -1,7 +1,5 @@
 = Movement
 
-include::partial$diagrams-incomplete.adoc[]
-
 Units move when given an order as explained in the
 Command section or by using their initiative as
 explained later in this section. The distance a unit can
@@ -417,10 +415,9 @@ ranks to allow the other to pass. See <<evade-burst-through>>. This
 obviously takes time, so a unit which is burst through is
 automatically *confused*! See the Confusion section (p.55).
 
-#TODO: fix diagram#
-
-.The path of the evading unit takes it through an unengaged friendly unit. The unit that has been burst through becomes confused. This happens if the stands overlap as the evader moves, even if they do so only partially. Friendly unit is burst through and confused. Unit evades along path in line with closest stand. The two remaining stands are positioned as required to complete the evasion.
-image::movement/evade-burst-through.png[id=evade-burst-through]
+// New caption added, diagram text altered slightly for grammar.
+.Evaders bursting through a friendly unit
+image::movement/evade-burst-through.svg[id=evade-burst-through]
 
 image::movement/treemen.png[]
 
