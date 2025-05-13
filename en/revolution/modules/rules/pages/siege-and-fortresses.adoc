@@ -1,7 +1,5 @@
 = Siege & Fortresses
 
-include::partial$diagrams-incomplete.adoc[]
-
 == Introduction
 
 In the game of Warmaster it is possible to represent
@@ -466,19 +464,10 @@ higher position they have). Still they may only do that
 for the adjacent wall section that was attacked first. If
 the tower itself is being assaulted afterwards, units in
 it may stand and shoot as normal again. Have a look at
-Illustration 1.
+<<f-tower-support>>.
 
-image::siege-and-fortresses/tower-support.png[]
-
-_When unit 1 attacks B, the Cannons A on the tower, and
-units B and C may Stand and Shoot. Cannons D may not
-Stand and Shoot as it is not the nearest unit on the wall
-section (and it will not be in combat contact of course). B
-and C will be in combat contact with 1._
-
-_If unit 2 would have attacked first, Cannons A would
-have had their Stand and Shoot against them but not
-against unit 1 afterwards._
+.When unit 1 attacks B, the Cannons A on the tower, and units B and C, may Stand and Shoot. Cannons D may not Stand and Shoot as it is not the nearest unit on the wall section (and it will not be in combat contact of course). B and C will be in combat contact with 1. pass:[<br>] If unit 2 would have attacked first, Cannons A would have had their Stand and Shoot against them but not against unit 1 afterwards.
+image::siege-and-fortresses/tower-support.png[id=f-tower-support]
 
 Towers may also use their special “Stand and Shoot”
 ability against attackers with Sows, Siege Towers or
@@ -859,9 +848,7 @@ Siege Tower must be assigned to a unit of infantry. To
 represent the fact that they are really inside the Siege
 Tower, the unit is arranged directly behind in column.
 
-// TODO text
-.A unit with a Siege Tower | The unit is arranged in column behind the Siege Tower
-image::siege-and-fortresses/siege-tower-unit.png[]
+image::siege-and-fortresses/siege-tower-unit.svg[id=f-siege-tower-unit]
 
 As Siege Towers are such huge constructions the same
 shooting rules apply to them as to wall sections. All
@@ -1005,9 +992,7 @@ least one stand in order for it to batter (they provide the
 muscle). A unit may not batter and assault at the same
 time.
 
-// TODO text
-.A unit with a Battering Ram | The unit is arranged in column behind the Battering Ram
-image::siege-and-fortresses/battering-ram-unit.png[]
+image::siege-and-fortresses/battering-ram-unit.svg[id=fbattering-ram-unit]
 
 === Sows
 
@@ -1498,9 +1483,7 @@ wins.
 
 image::siege-and-fortresses/elephant-rider.png[]
 
-// TODO text
-.TODO text
-image::siege-and-fortresses/into-the-breach.png[]
+image::siege-and-fortresses/into-the-breach.svg[id=f-into-the-breach]
 
 === The watchtower
 
@@ -1583,6 +1566,4 @@ If the defender breaks the attacking force he wins. If
 there is still one stand defending the watchtower at the
 end of the game the defender wins.
 
-// TODO text
-.TODO text
-image::siege-and-fortresses/the-watchtower.png[]
+image::siege-and-fortresses/the-watchtower.svg[id=f-the-watchtower]

@@ -1,7 +1,5 @@
 = Confusion
 
-include::partial$diagrams-incomplete.adoc[]
-
 As astute readers will have gathered, there are several situations where units become confused.
 Confusion often happens in the Combat phase when a unit is forced to move into other troops or
 impassable terrain or in the Shooting phase when a unit is driven back by missile fire. For convenience,
@@ -151,11 +149,10 @@ distance out of the path of its friends without changing
 its orientation. The remaining stands are then rearranged
 into formation around the first. Note that units that are
 moving aside can change their formation as they do so.
-See diagram 57.1.
+See <<f-moving-aside>>.
 
-// TODO huge text
-.TODO huge text
-image::confusion/moving-aside.png[]
+.{empty}
+image::confusion/moving-aside.svg[id=f-moving-aside]
 
 image::confusion/troll.png[]
 
@@ -168,11 +165,10 @@ infantry units that are making way for other infantry
 units when all the stands of the unit that is making way
 lie in the path of the friendly unit, it can be moved behind
 its friends and stands can be arranged into support. See
-Diagram 57.2.
+<<f-move-back>>.
 
-// TODO text
-.Infantry unit A retreats. Infantry unit B is entirely in the path of unit A. | Unit B makes way for unit A moving back. All stands of unit B may be rearranged and placed to support the stands of unit A.
-image::confusion/make-way.png[]
+.{empty}
+image::confusion/move-back.svg[id=f-move-back]
 
 Making way for friendly troops may result in several
 units shifting, each moving aside to allow room for

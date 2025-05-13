@@ -138,9 +138,7 @@ the closest cannon and closest target stand. The target
 unit suffers two attacks plus +1 for each additional stand
 from the same unit that is bounced through.
 
-// TODO diagram text
-.The shot bounces from the closest Cannon stand through the closest target stand.
-image::artillery-and-machines/cannon-shot.png[]
+image::artillery-and-machines/cannon-shot.svg[id=cannon-shot]
 
 A shot that bounces into a different unit inflicts one
 attack on that unit for each stand bounced through. This

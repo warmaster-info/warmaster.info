@@ -1,7 +1,5 @@
 = Battlefields
 
-include::partial$diagrams-incomplete.adoc[]
-
 == Setting up armies
 
 There are several different but equally acceptable
@@ -78,9 +76,7 @@ using suitably sized forces. Armies need about 20cm of
 depth hence the standard game rule is that armies deploy
 along opposite table edges 80cm apart.
 
-// TODO text
-.TODO text
-image::battlefields/battlefield.png[]
+image::battlefields/battlefield.svg[id=f-battlefield]
 
 .Scouting
 ****
@@ -256,9 +252,7 @@ long does the Battle last? p.82).
 An army that withdrew cannot win but draw at best
 even when it has more Victory Points than the enemy.
 
-// TODO text
-.TODO text
-image::battlefields/take-and-hold.png[]
+image::battlefields/take-and-hold.svg[id=f-take-and-hold]
 
 image::battlefields/swordsmen.png[]
 
@@ -310,9 +304,7 @@ long does the Battle last? p.82).
 An army that withdrew cannot win but draw at best
 even when it has more Victory Points than the enemy.
 
-// TODO text
-.TODO text
-image::battlefields/battle-for-the-tower.png[]
+image::battlefields/battle-for-the-tower.svg[id=f-battle-for-the-tower]
 
 image::battlefields/dwarf-gunners.png[]
 
@@ -377,11 +369,10 @@ the line A.
 A broken army cannot win the game. It can either lose
 or draw.
 
-image::battlefields/chaos-axe.png[]
+// Order of images switched
+image::battlefields/defending-the-village.svg[id=f-defending-the-village]
 
-// TODO text
-.TODO text
-image::battlefields/defending-the-village.png[]
+image::battlefields/chaos-axe.png[]
 
 == Wagon train
 
@@ -444,8 +435,6 @@ the battle to yield the points.
 Broken army cannot win the game. It can either lose or
 draw.
 
-// TODO text
-.TODO text
-image::battlefields/wagon-train.png[]
+image::battlefields/wagon-train.svg[id=f-wagon-train]
 
 image::battlefields/wagons.png[]
