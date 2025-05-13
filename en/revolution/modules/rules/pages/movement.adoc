@@ -23,7 +23,7 @@ the unit a shorter distance if he wishes.
 
 .Movement Chart
 ****
-[cols="<,^,^"]
+[cols="<,^,^",frame=none,grid=rows]
 |===
 |Types |Full Pace |Half Pace
 
@@ -471,7 +471,7 @@ see what happens. Deduct -1 from the roll for each of the
 unit’s stands that has already been removed as a casualty
 and apply the result immediately.
 
-[cols="^,<"]
+[cols="^1,<3",frame=none]
 |===
 |D6 |Result
 

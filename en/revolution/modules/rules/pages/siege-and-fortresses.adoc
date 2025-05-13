@@ -827,7 +827,7 @@ image::siege-and-fortresses/siege.png[]
 
 === Siege towers
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max
 
@@ -942,7 +942,7 @@ as being fortified.
 
 === Battering rams
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max
 
@@ -996,7 +996,7 @@ image::siege-and-fortresses/battering-ram-unit.svg[id=fbattering-ram-unit]
 
 === Sows
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max
 
@@ -1093,7 +1093,7 @@ carried over into the combat and count as having been
 struck in the first round. Roll a dice and consult the chart
 below.
 
-[cols="^1,3"]
+[cols="^1,4",frame=none,grid=rows]
 |===
 |D6 |Result
 
@@ -1119,7 +1119,7 @@ image::siege-and-fortresses/projectiles.png[]
 
 === Tribock
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max
 
@@ -1160,7 +1160,7 @@ image::siege-and-fortresses/tribock.png[]
 
 == Bombard
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max
 
@@ -1198,7 +1198,7 @@ image::siege-and-fortresses/bombard.png[]
 
 === Mangonel
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max
 
@@ -1326,7 +1326,7 @@ and rock lobbers count as wall breaching!
 
 == Fortification
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Structure points |Armour |Command |Unit size |Points |Min/max |Special
 
@@ -1372,7 +1372,7 @@ image::siege-and-fortresses/cannon-hill.png[]
 
 == Siege equipment list
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Structure points |Armour |Command |Unit size |Points |Min/max |Special
 
@@ -1403,7 +1403,7 @@ charging or are driven back more than half their move.
 
 == Siege artillery list
 
-[.unit]
+[.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max |Special
 

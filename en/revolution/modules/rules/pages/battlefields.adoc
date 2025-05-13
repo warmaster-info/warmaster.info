@@ -90,7 +90,7 @@ army lists which units and/or characters they wish to
 commit to scouting. Using the table below count the
 total number of committed scouting points.
 
-[cols="1,^2,4"]
+[cols="1,^2,4",frame=none,grid=rows]
 |===
 |Role |Scouting Points |Troop Types
 
@@ -149,6 +149,7 @@ number of turns before the game begins.
 consult the table below to see how long the battle will
 last.
 
+[cols="^1,^2",frame=none,grid=rows]
 |===
 |D6  |Game Length
 
@@ -195,6 +196,7 @@ As usual, the player with the most Victory Points is the
 winner. To see how decisive the victory was, consult the
 Victory Points difference with the following table:
 
+[cols="^,^",frame=ends,grid=rows]
 |===
 |1-2 Victory Points |Minor victory
 |3-5 Victory Points |Major victory

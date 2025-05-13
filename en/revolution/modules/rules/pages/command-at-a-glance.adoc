@@ -1,4 +1,5 @@
 = Command at a Glance
+:page-role: -toc at-a-glance
 
 == Orders
 
@@ -20,6 +21,7 @@
 
 == Command penalties
 
+[cols="<,^",frame=none,grid=rows]
 |===
 |Per full 20cm distance            | -1
 |Each successive order to the unit | -1

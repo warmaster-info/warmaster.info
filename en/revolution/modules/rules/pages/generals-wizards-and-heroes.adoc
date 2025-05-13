@@ -9,7 +9,7 @@ entourage. For the sake of convenience, Generals,
 Wizards and Heroes are referred to as characters.
 
 ****
-[cols="^,^"]
+[cols="^,^",frame=none,grid=none]
 |===
 |image:generals-wizards-and-heroes/general.png[]
 |image:generals-wizards-and-heroes/wizard-1.png[]
@@ -51,8 +51,8 @@ image::generals-wizards-and-heroes/character.png[]
 |↙ |⤸ |⤹ |↘
 
 <|Attacks +1
-^|Hits*
-^|Armour*
+^|[.line-through]## Hits ##
+^|[.line-through]## Armour ##
 >|Command 8
 |===
 
@@ -140,6 +140,7 @@ only issue orders to units within 60cm of the character
 stand and a Wizard can only issue an order to a unit
 within 20cm of the character stand.
 
+[frame=none,grid=rows]
 |===
 |Character |Command Range
 

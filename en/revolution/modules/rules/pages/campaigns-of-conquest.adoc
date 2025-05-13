@@ -612,13 +612,14 @@ In this roll-off the challenger is considered the attacker
 and the challenged player is the defender. First find out a
 strategy bonuses your army has:
 
+[cols="5,^2,^2",frame=none,grid=rows]
 |===
 |Strategy Bonus |Attacker |Defender
 
 |Elite army     |+1       |-1
 |Scouts         |+1       |-1
 |Largest empire |+1       |-1
-|Each 100 GP +
+|Each 100 GP
 spent (max 200) |+1       |-1
 |===
 
@@ -630,6 +631,7 @@ A third person who is not involved in the battle rolls 2D6
 and applies any strategy bonuses. High result favours the
 attacker, low result favours the defender.
 
+[cols="2,^2",frame=none,grid=rows]
 |===
 |Adjusted die roll |Result
 

@@ -4,11 +4,24 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Brawler:wght@400;700&family=Metamorphous&display=swap" rel="stylesheet">
 <style>
+body,
 body .doc {
-  hyphens: manual;
   font-family: "Brawler", serif;
+  font-variant-emoji: text;
   font-weight: 400;
   font-size: 18px;
+}
+
+body .doc {
+  hyphens: manual;
+}
+
+.doc a {
+  color: maroon;
+}
+
+.doc a:hover {
+  color: red;
 }
 
 .doc .sidebarblock {
@@ -35,4 +48,85 @@ body .doc {
 .center {
   text-align: center;
 }
+
+.at-a-glance > .body > .article > .content {
+  background-image: image-set(url("../rules/_images/parchment-page.jpg") 1x, url("../rules/_images/parchment-page.jpg") 2x);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 20px 30px;
+  font-weight: 500;
+}
+
+.at-a-glance .doc table.tableblock {
+  font-size: inherit;
+}
+
+.at-a-glance h2,
+.at-a-glance h3,
+.at-a-glance h4
+{
+  font-weight: bold;
+}
+
+.doc .imageblock .title {
+  font-weight: inherit;
+}
+
+body:not(.-toc) #preamble .paragraph:first-child p::first-letter {
+  initial-letter: 2;
+  font-family: Metamorphous, serif;
+}
+
+nav.pagination a {
+  font-variant: small-caps;
+}
+
+/* Start of definitions for leader dots */
+.paragraph:has(.cost) {
+  margin: 0.2rem 0;
+}
+
+p:has(.cost) {
+  display: grid;
+  grid-template-columns: auto max-content;
+  grid-template-areas: "chapter page";
+  font-weight: bold;
+}
+
+.cost {
+  text-align: left;
+  display: block;
+  grid-area: chapter;
+  position: relative;
+  overflow: hidden;
+  }
+
+.cost::after {
+  content: " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+  ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+  ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
+  position: absolute;
+  }
+
+.points {
+  text-align: right;
+  display: block;
+  grid-area: page;
+  align-items: end;
+  gap: 0 0.3rem;
+}
+/* End leader dots */
+
+/* Start siege units */
+.doc table.unit th,
+.doc table.unit td {
+  text-align: center;
+  padding: 0.25rem;
+}
+
+.doc table.unit th {
+  writing-mode: sideways-lr;
+  vertical-align: bottom;
+}
+/* End siege units */
 </style>

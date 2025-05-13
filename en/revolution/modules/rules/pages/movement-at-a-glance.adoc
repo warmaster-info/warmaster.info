@@ -1,4 +1,5 @@
 = Movement at a Glance
+:page-role: -toc at-a-glance
 
 == Distance
 
@@ -6,7 +7,7 @@
 . Units receiving one order after another are able to move several times during the
   Command phase.
 +
-[cols="<,^,^"]
+[cols="<,^,^",frame=none,grid=rows]
 |===
 |Types |Full Pace |Half Pace
 

@@ -151,7 +151,7 @@ we apply the following penalties:
   measuring distances between characters and units in this
   way, measure the shortest distance between them.
 +
-[cols="^,^"]
+[cols="^,^",frame=none,grid=rows]
 |===
 |Distance to Unit |Command Penalty
 
@@ -170,9 +170,10 @@ we apply the following penalties:
   again. This penalty is cumulative, so a unit’s second order
   is at -1, its third order is at -2.
 +
-[cols="^,^"]
+[cols="^,^",frame=none,grid=rows]
 |===
 |Order  |Command Penalty
+
 |First  |none
 |Second |-1
 |Third  |-2
@@ -184,9 +185,10 @@ Command penalty of -1. Units close to the enemy are
 naturally inclined to use their initiative to react, so it is
 harder to give them a specific order.
 +
-[cols="^,^"]
+[cols="^,^",frame=none,grid=rows]
 |===
 |Closest Enemy  |Command Penalty
+
 |Up to 20cm     |-1
 |More than 20cm |none
 |===
@@ -199,9 +201,10 @@ harder to give them a specific order.
   for more about dense terrain (p.22) as well as Advanced
   Terrain Rules for more examples (p.80).
 +
-[cols="^,^"]
+[cols="^,^",frame=none,grid=rows]
 |===
 |Dense Terrain  |Command Penalty
+
 |Within feature |-1
 |===
 +
@@ -216,9 +219,10 @@ dice roll of 7 or less to successfully issue an order._
   Units which have suffered casualties are harder to
   motivate than fresh units.
 +
-[cols="^,^"]
+[cols="^,^",frame=none,grid=rows]
 |===
 |Casualties  |Command Penalty
+
 |Each Stand  |-1
 |===
 

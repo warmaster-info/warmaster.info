@@ -1,4 +1,5 @@
 = Combat Phase at a Glance
+:page-role: -toc at-a-glance
 
 == Combat engagement
 
@@ -23,21 +24,27 @@ Rolls of 6+ are needed to score hits on a fortified target.
 . Compare the hits scored by each side.
 . Add +1 per supporting stand.
 
-[cols="<,<3"]
+[cols="<,<3",frame=none,grid=rows]
 |===
-.2+^|*Draw!*
+.2+^a|
+[discrete]
+=== Draw!
 |Both sides score the same hits.
 |Both sides fall back from zero cm (but at least 1cm from the enemy) to
 3D6cm except for defended or fortified units. Combat ends.
 
-.4+^|*Win!*
+.4+^a|
+[discrete]
+=== Win!
 |One side scores more hits.
 |Losers retreat by the difference (divided by number of units in
 multiple combats rounded up).
 |Winners fall back, stand or pursue/advance.
 |If winners fall back or stand, the combat ends.
 
-.2+^|*Aftermath!*
+.2+^a|
+[discrete]
+=== Aftermath!
 |If winner pursues in the first round, fight a second round.
 |If winner pursues in the second round, leave the combat
 unresolved.

@@ -4,7 +4,7 @@ In the Combat phase, work out the fighting for each combat engagement. You must 
 before going on to the next. Work out each in the following combat sequence.
 
 ****
-[cols="1,^2,2,6"]
+[cols="1,^2,2,6",frame=none,grid=rows]
 |===
 |1
 |*Attacks*
@@ -652,6 +652,7 @@ won by the survivor, otherwise compare the number of hits inflicted by both side
 struck with more hits than it can actually take (for example a unit with a total of nine hits might suffer twelve) then
 only count actual hits taken. Excess hits are ignored for purposes of working out combat results.
 
+[discrete]
 == Hits Equal – Draw!
 
 If both sides score the same number of hits, the result is a draw and both sides must *fall back.*
@@ -1428,7 +1429,7 @@ stands to be either defended or fortified. In both cases
 the score required to hit will increase as shown on the
 chart below.
 
-[cols="2,>1"]
+[cols="2,^1",frame=none,grid=rows]
 |===
 |Target |D6 result required
 
