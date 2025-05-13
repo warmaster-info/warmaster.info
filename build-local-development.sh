@@ -2,6 +2,8 @@
 
 set -e
 
+[[ -d node_modules ]] || docker run --rm -t -u $(id -u) --volume $PWD:/antora:Z --env HOME=/antora antora/antora:3.1.10 npm i @antora/lunr-extension
+
 # Only generating English
 for lang in en; do
   echo "======= Generating $lang ======="

@@ -35,8 +35,8 @@ asciidoc:
     page-toctitle: 'Page contents'
     language: en
     null: ␀
-#antora:
-#  extensions:
-#  - require: '@antora/lunr-extension'
-#    index_latest_only: true
-#    languages: [en]
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'
+    index_latest_only: true
+    languages: [en]
