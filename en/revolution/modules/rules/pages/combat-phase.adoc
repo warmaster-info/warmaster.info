@@ -1,7 +1,5 @@
 = Combat Phase
 
-include::partial$diagrams-incomplete.adoc[]
-
 In the Combat phase, work out the fighting for each combat engagement. You must work out the result for each engagement
 before going on to the next. Work out each in the following combat sequence.
 
@@ -60,18 +58,18 @@ move is referred to as a charge. Once units are touching
 an enemy unit they are said to be engaged in combat.
 
 Once units have engaged in combat they might typically
-be arranged as shown in Diagram 34.1.
+be arranged as shown in <<f-combat-engagement>>.
 
-.Top: Two infantry units in combat | Bottom: A unit of cavalry in combat with a unit of infantry.
-image::combat-phase/combat-engagement.png[]
+.{empty}
+image::combat-phase/combat-engagement.svg[id=f-combat-engagement]
 
 A combat engagement can sometimes involve several
 units on one or both sides. All interlinked units are
 considered to be fighting in the same engagement. See
-Diagram 34.2.
+<<f-interlinked-engagement>>.
 
-.Top: Two infantry units in combat | Bottom: A unit of cavalry in combat with a unit of infantry.
-image::combat-phase/interlinked-engagement.png[]
+.Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other.
+image::combat-phase/interlinked-engagement.png[id=f-interlinked-engagement]
 
 == Moving chargers
 
@@ -132,13 +130,14 @@ into four zones as shown on the accompanying diagrams.
 The division between each zone bisect the corners of the
 stand at the angle of 135 degrees relative to the edge.
 Zones are self evident in most situations and can be
-checked using a simple guide if necessary. See Diagrams
-35.1 and 35.2.
+checked using a simple guide if necessary. See <<zone-infantry>>
+and <<zone-cavalry>>.
 
-// TODO: diagram text
-image::combat-phase/zone-infantry.png[]
+.{empty}
+image::combat-phase/zone-infantry.svg[id=zone-infantry]
 
-image::combat-phase/zone-cavalry.png[]
+.{empty}
+image::combat-phase/zone-cavalry.svg[id=zone-cavalry]
 
 Once a unit‘s intention to charge has been declared,
 begin by considering the position of the entire charging
@@ -146,16 +145,17 @@ unit relative to the *closest visible stand* in the target
 unit. If the charging unit begins its move in the stand‘s
 front zone then it charges to the front, if it begins to the
 stand‘s flank it charges in the side, and if it begins to the
-rear it charges in the rear. See Diagram 36.1.
+rear it charges in the rear. See <<charge-move-1>>.
 
+// Spelling front, e.g.
 If the charging unit is not entirely within a single
 zone then it counts as being in the zone that it mostly
 occupies. So, if a unit is between the front and flank but
 the greater proportion is to the front, the unit counts as
-in the fornt. If a unit is positioned in such a way that it
+in the front. If a unit is positioned in such a way that it
 is exactly divided between two zones then roll a dice
-to decide - eg. 1, 2, or 3 the front; 4, 5, or 6 the side. See
-Diagram 36.2.
+to decide - e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
+<<charge-move-2>>.
 
 image::combat-phase/chaos-knights.png[]
 
@@ -182,9 +182,11 @@ the appropriate edge of the enemy stand. If the unit is
 charging from the front zone, place the charger against
 the enemy stand’s front edge.
 
-image::combat-phase/charge-move-1.png[]
+.{empty}
+image::combat-phase/charge-move-1.svg[id=charge-move-1]
 
-image::combat-phase/charge-move-2.png[]
+.{empty}
+image::combat-phase/charge-move-2.svg[id=charge-move-2]
 
 When placing the first charging stand, position it exactly
 centre-to-centre against the indicated edge of the target
@@ -209,8 +211,7 @@ line if they can do so.
 
 // Moved slightly earlier
 // Spelling against
-.The charging stand is placed against the closest enemy.
-image::combat-phase/maximise-frontage-1.png[]
+image::combat-phase/maximise-frontage-1.svg[id=maximise-frontage-1]
 
 Stands are placed into a coherent formation as they move.
 Place a second stand beside the first, and place the third
@@ -221,8 +222,7 @@ make sure each stand has an accessible route to its final
 place in the battle line.
 
 // Moved slightly earlier
-.Remaining stands are placed one at a time to make a battle line - the stands must be placed as shown because this is the only way they can maximise their frontage.
-image::combat-phase/maximise-frontage-2.png[]
+image::combat-phase/maximise-frontage-2.svg[id=maximise-frontage-2]
 
 Each stand must be placed in the battle line in such a way
 that as much of its front edge as possible makes contact
@@ -278,9 +278,7 @@ If there is less than 1 cm of exposed edge then the stand
 is not an eligible target because it is ‘blocked‘. See below
 for how to deal with blocked stands.
 
-// TODO diagram
-.There must be at least 1cm of edge for the charging stand to contact.
-image::combat-phase/charge-blocked.png[]
+image::combat-phase/charge-blocked.svg[id=charge-blocked]
 
 === Unable to form a battle line
 
@@ -295,7 +293,7 @@ the player wishes, but must contact with a fellow stand
 at least corner to corner. Either way the unit must retain
 a coherent formation with all stands touching. If a unit
 is unable to both charge *and* retain a coherent formation
-then the move is not allowed. See Diagram 38.1.
+then the move is not allowed. See <<f-unable-to-form-a-battle-line>>.
 
 Any additional enemy units contacted as a result of the
 placement of these stands also count as being charged
@@ -305,12 +303,12 @@ If armed with appropriate shooting weapons they are
 entitled to shoot at the charging unit as described in the
 Shooting section.
 
-// TODO diagram
-.If a unit has insufficient move to form a battle line stands can be placed behind or staggered back.
-image::combat-phase/unable-to-form-a-battle-line.png[]
+.{empty}
+image::combat-phase/unable-to-form-a-battle-line.svg[id=f-unable-to-form-a-battle-line]
 
 === Blocked edges
 
+// Spelling available
 In some situations a charging unit will be unable to
 charge because, although it can see the enemy unit,
 the indicated edge of the closest stand is blocked.
@@ -319,7 +317,7 @@ impassable terrain, by other enemy stands, or by stands
 from other friendly units that have already engaged the
 enemy unit in combat. Remember, an edge is blocked not
 only if it is completely covered, but also if there is less
-than 1cm of exposed edge avilable to contact.
+than 1cm of exposed edge available to contact.
 
 In all these situations the charger moves the charging
 stand against the next closest stand in the target unit,
@@ -327,8 +325,7 @@ assuming this stand is an accessible visible stand within
 the same zone. If this stand edge is also blocked then the
 charger can move to the third closest stand, and so on.
 
-.If the closest visible stand’s indicated edge is covered consider the next closest stand. | This cavalry stand cannot charge to the front of the closest visible enemy stand because of a friendly infantry stand engaged in combat. | The charger is placed against the next closest stand.
-image::combat-phase/closest-visible-stand.png[]
+image::combat-phase/closest-visible-stand.svg[id=closest-visible-stand]
 
 If no accessible edge is presented by any stand in the
 target unit then the charge is not normally allowed - for
@@ -346,9 +343,10 @@ of a pinned target, the first charging unit can move into
 corner-to-corner contact with the closest enemy stand
 assuming the charger can see it and has a clear path.
 This is an exception to the normal rule that stands must
-charge edge-to-edge. See Diagram 38.3.
+charge edge-to-edge. See <<f-pinned-target>>.
 
-image::combat-phase/pinned-target.png[]
+.{empty}
+image::combat-phase/pinned-target.png[id=f-pinned-target]
 
 === Irregular formations
 
@@ -369,8 +367,7 @@ are considered to be maximising frontage so long as they
 have the maximum portion of enemy stand directly to
 their front.
 
-.The first stand is positioned as usual. Note that the remaining stands maximise contact because they have enemy stands to their front.
-image::combat-phase/irregular-formations.png[]
+image::combat-phase/irregular-formations.svg[id=f-irregular-formations]
 
 === Enveloping charge
 
@@ -411,10 +408,9 @@ move both the charging and supporting units and work
 out any shooting first. Supporting units remain in their
 battle line and do not envelope.
 
-.1. Unit charges enemy infantry in the side. Form a battle line as usual. | 2. Charging unit overlaps using stands that are not touching. | Note that an envelopment can potentially bring charging stands into the firing arc of enemy stands that have not already shot at the charger.
-image::combat-phase/enveloping-charge.png[]
+image::combat-phase/enveloping-charge.svg[id=f-enveloping-charge]
 
-image::combat-phase/battle-view.png[]
+image::combat-phase/battle-view.png[id=battle-view]
 
 == Attacks
 
@@ -447,8 +443,7 @@ it makes no difference who goes first as stands which
 fall casualty are allowed to fight back before they are
 removed.
 
-.Where a stand is touching two or more enemy units (as with Stand B) the player can decide which to attack.
-image::combat-phase/stands-touching.png[]
+image::combat-phase/stands-touching.svg[id=stands-touching]
 
 Every stand touching an enemy stand can fight - even if
 it is only touching corner-to-corner or at a side or rear
@@ -498,10 +493,11 @@ include::partial$combat-attack-modifiers.adoc[]
 
 === Charging against enemy in the open
 
+// Extra space e.g.
 This bonus applies to all stands where a unit charges
 into combat. The bonus only applies in the first combat
 round of an engagement. The bonus does not apply if the
-enemy are not in the open, e. g., when a stand is fighting
+enemy are not in the open, e.g., when a stand is fighting
 against infantry or artillery in a defended or fortified
 position as described later.
 
@@ -715,11 +711,10 @@ enemy to its front and sides or rear during the combat
 round can be supported, but a stand touched by enemy
 only to its sides or rear cannot. A supporting stand can
 be from the same unit as the fighting stand it supports or
-from a completely different unit. See Diagram 44.1.
+from a completely different unit. See <<f-supporting-troops>>.
 
-// TODO lots of text on this diagram
-.TODO In this example, all supporting stands are marked with an asterisk. Notice how unit A has both a stand fighting and a stand supporting.
-image::combat-phase/supporting-troops.png[]
+.{empty}
+image::combat-phase/supporting-troops.svg[id=f-supporting-troops]
 
 // spelling corrected
 For each supporting stand in the combat engagement
@@ -816,8 +811,7 @@ engagement then move the units one at a time. The
 retreating player can decide which order to move the
 units in.
 
-.The two stands are both touching the enemy - the player who has lost the combat can decide which of the stands to use to determine the retreat.
-image::combat-phase/retreat-1.png[]
+image::combat-phase/retreat-1.svg[id=retreat-1]
 
 A retreating unit moves away from the enemy without
 changing formation or the direction it is facing. It will
@@ -826,9 +820,7 @@ cases, all enemy stands will be aligned solely against the
 unit’s front, side or rear and the retreating unit simply
 moves in the opposite direction.
 
-// TODO diagram
-.In the two examples, the defeated units retreat directly away from their enemy - in straghtforward cases such as these, the direction of retreat is easily determined.
-image::combat-phase/retreat-2.png[]
+image::combat-phase/retreat-2.svg[id=retreat-2]
 
 The direction of the retreat may be less clear if the unit is
 fighting enemy from several directions at the same time.
@@ -880,9 +872,7 @@ Stands that are destroyed are removed immediately
 without reducing the number of outstanding hits on
 their unit.
 
-// TODO lots of text diagram
-.Here is a blocked retreat in two stages. On the left, the position before retreats with the retreat paths indicated for each retreating unit. The right hand example shows a retreat of 4cm. The rear defeated unit moves to the side and away from its contacted edge - creating space for one stand to move back. In practice, a retreat of such a large distance would result in causalities that would complicate things - but we‘ve left all stands in place to illustrate the process.
-image::combat-phase/retreat-blocked.png[]
+image::combat-phase/retreat-blocked.svg[id=retreat-blocked]
 
 If unengaged friendly units lie in the way of a unit’s
 retreat then these can be moved. The unengaged unit
@@ -926,8 +916,7 @@ another. In such a case the retreat is not blocked and the
 stand is not destroyed. What happens next will depend
 on what the winner decides to do.
 
-.These stands slide along the enemy line, contacting the uppermost edge.
-image::combat-phase/retreat-incidental-contact.png[]
+image::combat-phase/retreat-incidental-contact.svg[id=retreat-incidental-contact]
 
 === Retreating artillery
 
@@ -1062,9 +1051,7 @@ to be positioned to fight from a corner, to support, or to
 extend a unit‘s position to meet a charge in a subsequent
 turn.
 
-// TODO text
-.This diagram shows a typical direct pursuit move where two stands have pursued straight forward and the third has been placed back into formation. Note that the third pursuing stand could be placed anywhere the player wants - the position shown is merely one option.
-image::combat-phase/pursuit-direct.png[]
+image::combat-phase/pursuit-direct.svg[id=pursuit-direct]
 
 === Indirect pursuit
 
@@ -1081,9 +1068,7 @@ charge. Having placed the first stand, remaining stands
 are positioned as the player wishes, as already described
 for basic pursuits.
 
-// TODO text
-.An indirect pursuit. No pursuer can move ‚straight forward‘ so the first pursuing stand is moved as for a charge. In this case, the pursuing unit lies to the defeated unit‘s side so the first pursuer moves to the flank as shown. The second pursuer can then move into formation as the player wishes - the position shown is merely one example.
-image::combat-phase/pursuit-indirect.png[]
+image::combat-phase/pursuit-indirect.svg[id=pursuit-indirect]
 
 === Supporting pursuits
 
@@ -1101,8 +1086,7 @@ into contact cannot choose to make a supporting pursuit
 instead.
 
 // Spelling of victorious fixed
-.Supporting pursuit. The second victorious unit cannot see an enemy but can pursue into support. Notice that the right victorious stand touch a losing unit corner-to-corner and therefore fights in the following round.
-image::combat-phase/pursuit-supporting.png[]
+image::combat-phase/pursuit-supporting.svg[id=pursuit-supporting]
 
 To make a supporting pursuit at least one stand must
 be moved straight ahead so that it is directly behind or
@@ -1134,9 +1118,7 @@ enemies, it is possible for stands to come into contact
 with enemy units that were not previously engaged in
 the same combat. This is called *incidental contact*.
 
-// TODO diagram
-.In this example, the victorious unit pursues directly forward with the two right enemy stands - the right most of which ‘slides‘ against the right enemy cavalry unit. The left most victorious stand could be placed in formation anywhere - it has been positioned as shown to demonstrate how incidental contact can be used to deliberately bring other units into an engagement.
-image::combat-phase/incidental-contact.png[]
+image::combat-phase/incidental-contact.svg[id=f-incidental-contact]
 
 Incidental contact is sometimes unavoidable. It will
 depend on the order in which pursuers are moved and,
@@ -1182,9 +1164,7 @@ attacks are struck against retreating cavalry/chariots the
 usual pursuit bonuses apply. Same principle applies on
 non-flying units pursuing flyers.
 
-// TODO diagram
-.In this situation, the pursuing infantry maintain contact with the enemy cavalry because they are touching corner-to-corner.
-image::combat-phase/pursuit-maintain-contact.png[]
+image::combat-phase/pursuit-maintain-contact.svg[id=pursuit-maintain-contact]
 
 === Impossible to pursue
 
@@ -1378,7 +1358,7 @@ dint of being within 1cm of enemy.
 When a unit falls back, the player selects any one stand
 from the unit and moves it back. In this case, ‚back‘ is
 defined as behind the line drawn across the line of contact
-with the enemy units. See Diagram 52.1 and 52.2. Other
+with the enemy units. See <<fall-back-line>> and <<fall-back-corner>>. Other
 stands can then be moved into formation as convenient
 so long as they do not exceed their permitted move.
 They can be positioned forward of the line established
@@ -1387,11 +1367,11 @@ necessarily fall back towards its own base edge or its
 own friends - the ‚back‘ position is worked out relative
 to the first stand moved.
 
-.The unit can fall back anywhere behind the line shown.
-image::combat-phase/fall-back-line.png[]
+.{empty}
+image::combat-phase/fall-back-line.svg[id=fall-back-line]
 
-.The unit can fall back any where behind the position shown.
-image::combat-phase/fall-back-corner.png[]
+.{empty}
+image::combat-phase/fall-back-corner.svg[id=fall-back-corner]
 
 == Unresolved combats
 

@@ -72,7 +72,7 @@ unless a line of sight can be drawn form a stand‘s front
 edge.
 
 // Moved to end of section
-image:::the-shooting-phase/empire-infantry.png[]
+image::the-shooting-phase/empire-infantry.png[]
 
 == Range
 
@@ -126,7 +126,7 @@ stands are destroyed. The full definitions and further
 rules for troops in defended and fortified positions are
 discussed in the Combat phase section (p.53).
 
-image:::the-shooting-phase/wizard.png[]
+image::the-shooting-phase/wizard.png[]
 
 The chart below shows the scores needed to hit.
 
@@ -145,7 +145,7 @@ The chart below shows the scores needed to hit.
 |6
 |===
 
-image:::the-shooting-phase/boar-riders.png[]
+image::the-shooting-phase/boar-riders.png[]
 
 === Armour
 
@@ -249,7 +249,7 @@ as a block. See <<drive-back>>.
 
 // Caption added.
 .Driving back enemies
-image:::the-shooting-phase/drive-back.svg[id=drive-back]
+image::the-shooting-phase/drive-back.svg[id=drive-back]
 
 === Units confused during drive backs
 
@@ -279,7 +279,7 @@ usually destroyed as a result. Large monsters with many
 hits are more likely to be destroyed in this fashion than
 infantry or cavalry units.
 
-image:::the-shooting-phase/chariot.png[]
+image::the-shooting-phase/chariot.png[]
 
 == Shooting at charging enemy
 
@@ -291,7 +291,7 @@ units charging their own unit. Remember, a unit is
 it does not matter if the unit was not the original target
 of the charge.
 
-image:::the-shooting-phase/skull.png[]
+image::the-shooting-phase/skull.png[]
 
 These shots represent the unit pelting the enemy with
 missiles as they approach, perhaps at the very last
