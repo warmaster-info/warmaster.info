@@ -117,14 +117,14 @@ character and the presence of an enemy character within
 == Characters & terrain
 
 // Spelling i.e.
+// "Monstrous and Chariot Mounts" is "Character Mounts".
 Unless riding monsters or chariots, character stands
 ignore terrain in the same way as infantry. Only terrain
 which is impossible for infantry to cross is impossible
 for characters (i.e, a character cannot move across the
 open ocean, into a volcanic lake and so forth). If riding
 monsters or chariots, characters are restricted by terrain
-in the same way as these troops. See Monstrous and
-Chariot Mounts (p.63).
+in the same way as these troops. See <<character-mounts>>.
 
 image::generals-wizards-and-heroes/dark-knight.png[]
 
@@ -343,7 +343,7 @@ closest unit, the player can decide which unit to join.
 If a character cannot move to a friendly unit, he is
 considered to have been slain and is removed from
 the battle. If the General is slain, the battle is over as
-described in The End of The Battle (p.69).
+described in the xref:end-of-the-battle.adoc[End of The Battle].
 
 This is an important rule because it obliges characters to
 remain fairly close to their own troops, especially Wizards

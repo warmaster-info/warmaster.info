@@ -112,15 +112,15 @@ in what sequence.
 A stand can ‘see‘ if it is able to draw an
 uninterrupted line of sight from its front
 edge to any part of the enemy unit as
-described in the Shooting section (p.27).
+described in the xref:the-shooting-phase.adoc[Shooting section].
 All intervening stands, friend or foe, block
 a stand‘s line of sight. All intervening
 terrain also blocks the line of sight with the
 exception of low obstacles, rivers/streams,
 marshes, and similarly low features.
 Character stands never block a unit‘s line of
-sight, as explained in the Generals, Wizards
-and Heroes section (p.59).
+sight, as explained in the xref:generals-wizards-and-heroes.adoc[Generals, Wizards
+and Heroes section].
 
 === Zones
 
@@ -423,7 +423,7 @@ If at the end of an engagement a victorious unit *advances*
 into another engagement or initiates a new engagement
 by advancing into a fresh enemy then work out that
 engagement next and include the advancing unit amongst
-those fighting (see Advance, p.50).
+those fighting (see <<advance>>).
 
 === Attack value
 
@@ -553,7 +553,7 @@ mutual penalty for example.
 This penalty applies to all stands in a confused unit.
 Units can become confused as a result of missile fire
 or by moving into other friendly units or impassable
-terrain. See the section on Confusion, p.55.
+terrain. See the section on xref:confusion.adoc[Confusion].
 
 === The Last Ditch Dice
 
@@ -575,8 +575,7 @@ eight dice rolls of 1, 2, 2, 3, 4, 4, 6 and 6 equal four hits on
 the enemy.
 
 If enemies are in defended or fortified positions, the roll
-needed to hit will be 5+ and 6 respectively. See Defended
-& Fortified Troops (p.53).
+needed to hit will be 5+ and 6 respectively. See <<defended-fortified-troops>>.
 
 === Armour
 
@@ -596,7 +595,7 @@ include::partial$divider-axe.adoc[]
 === Casualties
 
 A stand can take a number of hits before it is destroyed,
-as described in the Shooting phase section (p.28). This
+as described in the xref:the-shooting-phase.adoc#removing-casualties[Shooting phase section]. This
 varies depending upon how tough and determined
 the unit is. Men have a value of 3, for example, whilst
 Dwarfs, an infuriatingly hardy folk, have a value of 4.
@@ -644,6 +643,7 @@ forward into the next.
 
 image::combat-phase/wolf-rider.png[]
 
+[#combat-results]
 .Combat results
 ****
 --
@@ -660,18 +660,18 @@ If both sides score the same number of hits, the result is a draw and both sides
 To find out how far a unit falls back, roll three dice. The unit can fall back up to the total score of the
 dice. For example, on a roll of 2, 4 and 6 the unit falls back between 0cm and 12cm but must end up
 at least 1cm from enemy units or any units engaged in combat. Once the combatants have disengaged
-the combat is over. See Fall Backs (p.51) for more details.
+the combat is over. See <<fall-backs>> for more details.
 
 The exception to the fall back rule is that defended or fortified units can stand their ground instead of
-falling back. Players may decide to fall back with such units if they prefer. See Defended and Fortified
-Troops (p.53) for rules about fighting in defended and fortified positions.
+falling back. Players may decide to fall back with such units if they prefer. See <<defended-fortified-troops>>
+for rules about fighting in defended and fortified positions.
 
 [discrete]
 == One Side Scores More Hits – Win!
 
 If one side scores more hits than the other, it wins the combat round. The loser must retreat 1cm for
 each hit taken in excess of hits inflicted. So if one side scores three hits and the other scores one hit,
-the second side loses by two and must retreat 2cm. See Retreats (p.45) for further details about how
+the second side loses by two and must retreat 2cm. See <<retreats>> for further details about how
 to move retreating units.
 
 If a unit wins, the player has a choice of what to do next. The victorious unit can fall back, stand its
@@ -682,15 +682,16 @@ ground or pursue. If a unit destroys its enemy, it cannot pursue but can advance
 *Stand its Ground.* The victorious unit remains where it is. The combat is over.
 
 *Pursue.* The victorious unit is moved back into contact and a further round of pursuit combat is fought
-in the same way as before. See Pursuit (p.47). Any hits already scored are carried over into the next
+in the same way as before. See <<pursuit>>. Any hits already scored are carried over into the next
 pursuit round. Hits carried over don’t count towards working out who wins the next round but they
 might result in the loss of stands due to cumulative damage. No charge bonus is awarded during a
 pursuit but there is a +1 bonus for pursuit itself and further bonuses for pursuing enemy that have
 retreated 3cm or more. If a defeated enemy infantry unit has been forced to retreat from a defended
 or fortified position then it is no longer defended or fortified.
 
+// "See Enemy Destroyed" is actually "Pursuit and destroyed enemy"
 *Advance.* The victorious unit can advance up to 20cm either initiating a new engagement or joining an
-existing one. See Enemy Destroyed (p.50).
+existing one. See <<pursuit-and-destroyed-enemy>>.
 --
 ****
 
@@ -882,8 +883,7 @@ is said to *make way*. It is up to the player whether the
 blocking unit makes way or not. Units which make way
 and retreating units forcing others to make way can
 become confused as a result. See the Confusion section
-for further rules for confused units and making way
-(p.56).
+for further xref:confusion.adoc#confused-units[rules for confused units] and xref:confusion.adoc#making-way[making way].
 
 A stand‘s retreat can potentially bring it into contact
 with an enemy stand without intersecting with it. For
@@ -969,8 +969,7 @@ allowed in the following circumstances:
   formation or charges it in the flank or rear, the
   infantry unit is permitted to pursue the retreating
   cavalry or chariot unit in the round it charged.
-  For further exceptions see Infantry contact with
-  cavalry on p.49.
+  For further exceptions see <<infantry-contact-with-cavalry>>.
 . Artillery never pursue retreating enemies of any
   kind and must stand or fall back instead.
 . Fortified units never pursue. If they win a combat
@@ -985,8 +984,7 @@ allowed in the following circumstances:
   a flying unit can be pursued by a non-flying unit
   when charged in the flank or rear or when in
   irregular formation in the round it charged. For
-  further exceptions see Infantry contact with
-  cavalry on p.49.
+  further exceptions see <<infantry-contact-with-cavalry>>.
 ****
 
 === Moving pursuers
@@ -1003,15 +1001,14 @@ If pursuing unit cannot see a retreating enemy unit (for
 example, because other pursuers have obscured their
 view), then pursuers cannot move into edge contact.
 Note that units unable to see an enemy may still be able
-to move into support as described under Supporting
-Pursuits p.48.
+to move into support as described under <<supporting-pursuits>>.
 
 Occasionally, it will be impossible for a unit to pursue
 into edge contact even though it can see an enemy. For
 example, terrain or other units may block the unit‘s path.
 In such a case, and only in such a case, a unit that can
 see an enemy is allowed to make a supporting pursuit
-instead (See Supporting Pursuits p.48).
+instead (See <<supporting-pursuits>>).
 
 Pursuing stands can move up to a normal full pace move
 to close the gap between themselves and either the
@@ -1489,7 +1486,7 @@ of an advance. Cavalry, chariots, artillery and non-
 flying monsters and machines cannot do so. In the case
 of castle walls, towers and similarly tall fortifications,
 specialist equipment may be needed to mount an assault
-as described in the chapter Siege & Fortresses on p.87.
+as described in the chapter xref:siege-and-fortresses.adoc[Siege & Fortresses].
 
 Defended or fortified stands are harder to hit as
 described above. Hence a score of 5+ or 6 respectively is

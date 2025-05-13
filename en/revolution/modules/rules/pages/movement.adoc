@@ -145,9 +145,9 @@ who have already moved or are engaged in combat.
 
 There is an exception to the rule that prevents stands
 moving through other units – this happens when a unit
-bursts through another during an evade and is described
-later (p.24). Stands can always move through characters
-as described in the Generals & Heroes section (p.59).
+bursts through another during an evade and is <<the-path-of-evaders,described
+later>>. Stands can always move through characters
+as described in the xref:generals-wizards-and-heroes.adoc[Generals & Heroes section].
 
 === The gap rule
 
@@ -205,10 +205,10 @@ in the same way as chariots.
 
 There are rules in the rulebook and army lists referring
 to some terrain features as a *dense terrain*. A *dense
-terrain* imposes -1 Command penalty as described in the
-Command phase section (p.15). Typical dense terrain
+terrain* imposes -1 Command penalty as described in
+xref::movement.adoc#terrain[Command phase – Terrain]. Typical dense terrain
 features are woods, built-up areas and broken or marshy
-ground (for more detail see Advanced Terrain Rules p.80)
+ground (for more detail see xref::advanced-terrain-rules.adoc[Advanced Terrain Rules]).
 
 Any other feature large enough to warrant representation
 on the tabletop is considered to form a barrier to cavalry,
@@ -235,11 +235,11 @@ Rules occasionally oblige units to move into terrain they
 cannot cross. If units attempt to move into terrain they
 cannot cross they will halt at the edge. If they are *driven
 back* into impassable terrain as a result of shooting or
-magic, they may become *confused* (see the Shooting
-phase section (p.27) and the Confusion section). If a
+magic, they may become *confused* (see the xref::the-shooting-phase.adoc[Shooting
+Phase] section and the xref::confusion.adoc[Confusion section]). If a
 unit is forced to retreat into impassable terrain during
-combat, then stands may be destroyed as a result (see the
-Combat phase section p.45-46).
+combat, then stands may be destroyed as a result (see
+xref::combat-phase.adoc#retreats[Combat phase – Retreats]).
 
 === Fortifications and buildings
 
@@ -252,7 +252,7 @@ detail in the section on Flying Units.
 The only time when ground troops can move across
 an intact curtain wall, tower or similar fortification is
 when infantry are making an assault as described in the
-chapter Siege & Fortresses on p.87. Assaulting troops
+chapter xref::siege-and-fortresses.adoc[Siege & Fortresses]. Assaulting troops
 come prepared with scaling ladders, grappling hooks,
 siege towers and a hefty dose of grim determination.
 
@@ -298,9 +298,10 @@ something else, such as move around a flank or attack an
 enemy other than the closest, then you will have to issue
 an order instead.
 
-Units moving by initiative do so during the Initiative
-Movement section of the Command phase as already
-explained (above and see p.13). Units are moved one at a
+// Wording tweaked with crossreference.
+Units moving by initiative do so during the xref::the-command-phase.adoc#initiative-movement[Initiative
+Movement section of the Command phase] as
+explained above. Units are moved one at a
 time, the movement of each is completed before moving
 the next, but the player can move the units in whatever
 order he wishes. Because units are moved one at a time,
@@ -314,7 +315,7 @@ closest. See <<initiative-charge-1>> and <<initiative-charge-2>>.
 
 If two or more enemy units are equally close a player
 may choose which to charge or evade. Refer to the
-Combat phase section (p.34- 38) for rules for charges.
+xref::combat-phase.adoc#combat-engagement[Combat phase section] for rules for charges.
 
 Some units can see all round – they have 360 degree
 vision – and you will find this indicated in the unit’s
@@ -413,7 +414,7 @@ represents a situation where trained troops in good order
 manoeuvre through each other, one unit opening up its
 ranks to allow the other to pass. See <<evade-burst-through>>. This
 obviously takes time, so a unit which is burst through is
-automatically *confused*! See the Confusion section (p.55).
+automatically *confused*! See the xref::confusion.adoc[Confusion section].
 
 // New caption added, diagram text altered slightly for grammar.
 .Evaders bursting through a friendly unit
@@ -450,7 +451,7 @@ side’s characters. All stands from either side can see past
 and, if they are appropriately armed, can shoot through
 characters as if they were not there.
 
-See the Generals, Wizards and Heroes section (p.59).
+See the xref::generals-wizards-and-heroes.adoc[Generals, Wizards and Heroes section].
 
 image::movement/sun.png[]
 

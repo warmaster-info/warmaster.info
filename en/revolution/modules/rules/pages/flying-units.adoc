@@ -131,7 +131,7 @@ make way or, if they do not do so, the flyers halt as they
 touch. Driven back flyers that end their move positioned
 over enemy will come to a stop 1cm in front of them in
 the same way as ground troops. In all cases appropriate
-tests must be made for confusion (see p.55).
+tests must be made for confusion (see xref:confusion.adoc[Confusion]).
 
 In the Combat phase flying units that are retreating or
 pursuing make all moves along the ground, and their
@@ -169,7 +169,7 @@ is added to the character’s.
 
 A character riding a flying monster is bound by the
 terrain movement restrictions that apply for flying
-monsters. See Generals, Wizards and Heroes (p.59-63).
+monsters. See xref:generals-wizards-and-heroes.adoc[Generals, Wizards and Heroes].
 
 If a lone flying character has to move to a friendly unit
 as a result of enemy contact he can move 30cm to reach

@@ -42,8 +42,8 @@ signal or arranged before the battle.
 
 Orders are issued by Generals, Wizards and Heroes,
 collectively known as characters. Specific rules for
-Generals, Wizards and Heroes are given in the Generals,
-Wizards & Heroes section of the rulebook (p.59).
+Generals, Wizards and Heroes are given in the xref::generals-wizards-and-heroes.adoc[Generals,
+Wizards & Heroes section of the rulebook].
 
 image::the-command-phase/giant.png[]
 
@@ -61,7 +61,7 @@ than the character’s Command value then the unit has
 received its order and can move full pace. If the score
 is more than the character’s Command value then the
 unit has not received its order and can move only half
-pace (see Movement section p.19). This represents unit‘s
+pace (see xref::movement[Movement]). This represents unit‘s
 commanders being able to act on their own to some
 limited extent.
 
@@ -77,7 +77,7 @@ This table shows the Command values for different
 Generals. As you can see, there are three basic
 values and some are better than others.
 
-[cols="<,>"]
+[cols="<,>",frame=none,grid=rows]
 |===
 |High Elf  |10
 |Dwarf     |10
@@ -198,9 +198,9 @@ harder to give them a specific order.
   there is a Command penalty of -1. The penalty applies if
   at least one stand is even partially within dense terrain.
   Typical dense terrain features are woods, in and around
-  buildings, ruins and similar. See the Movement section
-  for more about dense terrain (p.22) as well as Advanced
-  Terrain Rules for more examples (p.80).
+  buildings, ruins and similar. See the xref::movement.adoc#terrain[Movement section
+  for more about dense terrain] as well as xref::advanced-terrain-rules.adoc[Advanced
+  Terrain Rules] for more examples.
 +
 [cols="^,^",frame=none,grid=rows]
 |===
@@ -254,8 +254,8 @@ Units that failed to receive an order cannot charge.
 
 Once it has charged, a unit cannot receive any further
 orders that turn. It is committed to battle and must fight
-in the ensuing Combat phase. See the Combat phase
-section for further explanation (p.33).
+in the ensuing Combat phase. See the xref::combat-phase.adoc[Combat phase
+section] for further explanation.
 
 == Brigades
 
@@ -309,7 +309,7 @@ stands. If your test is successful, the entire brigade is in
 receipt of an order, whereas if you fail, it is not and the
 whole brigade moves at half pace or doesn‘t move at all
 depending on whether it is a first or subsequent order
-(see p.14).
+(see xref::the-command-phase.adoc#giving-an-order[Giving an order]).
 
 Assuming an order is successfully issued, the brigade can
 move. Except when units wish to charge, brigades move

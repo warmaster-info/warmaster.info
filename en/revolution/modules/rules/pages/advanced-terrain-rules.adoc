@@ -9,21 +9,21 @@ they are not especially steep, rugged, or otherwise difficult
 - such features must be stated before the game. Overall
 footprint of the hill models, including slopes block line
 of sight. Infantry and artillery stands positioned on a hill
-are defended against any units charging or shooting from
-lower positions (see p.53).
+are xref:combat-phase.adoc#defended[defended] against any units charging or shooting from
+lower positions.
 
 *Shallow rivers/Streams.* This terrain only blocks the
 movement of Chariots and Artillery/Machines. Infantry
-can be defended along the river’s edge against enemy
+can be xref:combat-phase.adoc#defended[defended] along the river’s edge against enemy
 charging from within or across a stream. Streams and
-shallow rivers don’t block line of sight (see p.53).
+shallow rivers don’t block line of sight.
 
 *Broken/Marshy Ground.* This includes areas that are
 hard going for whatever reason; for example: treacherous
 ruins, entangling scrub, irrigated or excessively muddy
 fields, soft marshy ground. This terrain type counts as
 dense and doesn’t block line of sight. Infantry stands are
-defended in broken/marshy ground (see p.53).
+xref:combat-phase.adoc#defended[defended] in broken/marshy ground.
 
 *Loose Terrain.* Cultivated fields to sand dunes. Rocky
 ground to fully grown corn fields. This terrain doesn’t
@@ -36,7 +36,7 @@ block line of sight.
 
 *Woods and Tall Scrub.* These consist of substantial
 areas of growing trees or tall vegetation. Only Infantry
-can enter it and stands count as defended when within.
+can enter it and stands count as xref:combat-phase.adoc#defended[defended] when within.
 Woods and Tall Scrub are dense terrain with visibility
 of 2 cm.
 
@@ -47,7 +47,7 @@ areas of garden, pasture, orchards and so forth. The
 entire built-up area is considered to be a broad terrain
 type: no account is taken of individual buildings, gardens,
 and so forth. All units can enter it, infantry and artillery
-units count as defended when within (see p.53). All units
+units count as xref:combat-phase.adoc#defended[defended] when within. All units
 can be pursued when starting their retreat in this terrain
 type. Villages/Cities are dense terrain with visibility of
 2 cm.
@@ -74,7 +74,7 @@ column formation as for open ground regardless of the
 type of terrain traversed. A base placed centrally across
 or along a road is conveniently assumed to be travelling
 along it despite the road’s width. Infantry placed on a
-road through dense terrain still count as ‘defended’
+road through dense terrain still count as ‘xref:combat-phase.adoc#defended[defended]’
 stands – other troop types count as ‘in the open’ as usual.
 If a unit moves its entire distance along a road then the
 next order will be issued with a +1 to command. Roads
@@ -102,7 +102,7 @@ Low linear obstacles impose no restriction or penalties
 on the movement of Infantry, Cavalry or Monsters, but
 cannot be crossed by Chariots or Artillery/ Machines.
 Infantry and artillery stands placed behind a low linear
-obstacle count as defended. Low linear obstacles don’t
+obstacle count as xref:combat-phase.adoc#defended[defended]. Low linear obstacles don’t
 block line of sight.
 
 // Spelling defence
@@ -116,4 +116,4 @@ a high linear obstacle count as ‘fortified’. High linear
 obstacles block line of sight.
 
 *City and Fortress Walls.* These can be found in detail in
-the chapter Siege & Fortresses on p.87.
+the chapter xref:siege-and-fortresses.adoc[Siege & Fortresses].

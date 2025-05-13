@@ -124,7 +124,7 @@ necessary to break the dice rolling into batches so that
 the appropriate penalty can be applied once all exposed
 stands are destroyed. The full definitions and further
 rules for troops in defended and fortified positions are
-discussed in the Combat phase section (p.53).
+discussed in the xref::combat-phase.adoc[Combat phase section].
 
 image::the-shooting-phase/wizard.png[]
 
@@ -240,8 +240,8 @@ orientation. The direction of the drive back is
 established by placing a ruler or other straight edge
 between the closest enemy stand and the closest part of
 the unit as shown in the diagram above. This is similar
-to an evade move as described in the Movement section
-(see p.24), but note that in the case of an evade, the unit
+to an evade move as described in the xref::movement.adoc#the-path-of-evaders[Movement section],
+but note that in the case of an evade, the unit
 can change its formation and stands can change their
 orientation as they move, in the case of a drive back, a
 unit can do neither of these things but must move back
@@ -264,7 +264,7 @@ When you roll for drive back distances, any dice roll of a
 Units may also become confused if they are driven back
 into terrain which they can’t enter or if they are driven
 back into other units, whether they are friend or foe. See
-the section on Confusion (p.55) for full rules.
+the section on xref::confusion.adoc[Confusion] for full rules.
 
 === Units routed by drive backs
 
@@ -348,7 +348,7 @@ become very cluttered otherwise, but it also reflects the
 ability of troops to stoically advance under fire once they
 have the enemy in sight. Any loss of enthusiasm is taken
 into account by including any hits inflicted in the result
-for the first round of fighting (see Combat results p.43).
+for the first round of fighting (see xref::combat-phase.adoc#combat-results[Combat results].
 
 .The Archers shoot as the Knights charge.
 image::the-shooting-phase/shooting-at-chargers.png[id=shooting-at-chargers]

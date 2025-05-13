@@ -28,11 +28,12 @@ Machine models are based on a single stand.
 
 == Artillery in combat
 
+// See the Command phase p.13-17. removed as there's nothing particular to artillery here
 Artillery cannot use initiative to charge. The role of
 artillery is to shoot at the enemy from a distance, not to
 fight. A player can order artillery to charge into combat
 if he wants, although this is rather a desperate thing to
-do! See the Command phase p.13-17.
+do!
 
 Artillery is vulnerable in combat. An artillery unit that
 wins a round of combat never pursues and if it retreats it
@@ -44,7 +45,7 @@ in particular army lists.
 
 == Terrain
 
-As discussed in Movement (p.22), artillery cannot move
+As discussed in xref:movement.adoc#terrain[Movement – Terrain], artillery cannot move
 into or over terrain features on the battlefield except for
 hills and bridges. Any other type of terrain is impassable
 to artillery.
