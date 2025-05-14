@@ -61,7 +61,7 @@ than the character’s Command value then the unit has
 received its order and can move full pace. If the score
 is more than the character’s Command value then the
 unit has not received its order and can move only half
-pace (see xref::movement[Movement]). This represents unit‘s
+pace (see xref::movement[Movement]). This represents unit’s
 commanders being able to act on their own to some
 limited extent.
 
@@ -148,7 +148,7 @@ we apply the following penalties:
 
 . If the distance between the character and the unit you
   wish to move is more than 20cm, the character suffers a
-  Command penalty of -1 per full 20cm of distance. When
+  Command penalty of −1 per full 20cm of distance. When
   measuring distances between characters and units in this
   way, measure the shortest distance between them.
 +
@@ -157,32 +157,32 @@ we apply the following penalties:
 |Distance to Unit |Command Penalty
 
 |Up to 20cm  |none
-|Up to 40cm  |-1
-|Up to 60cm  |-2
-|Up to 80cm  |-3
+|Up to 40cm  |−1
+|Up to 60cm  |−2
+|Up to 80cm  |−3
 |per +20cm   |minus a further 1
 |===
 
 . If a unit has already been issued an order during the
   Command phase then there is a Command penalty of
-  -1 each time the character gives it a further order. This
+  −1 each time the character gives it a further order. This
   accounts for fatigue and the limits of time, so a unit
   which has already moved several times is harder to move
   again. This penalty is cumulative, so a unit’s second order
-  is at -1, its third order is at -2.
+  is at −1, its third order is at −2.
 +
 [cols="^,^",frame=none,grid=rows]
 |===
 |Order  |Command Penalty
 
 |First  |none
-|Second |-1
-|Third  |-2
+|Second |−1
+|Third  |−2
 |===
 
 . If the distance between the unit you wish to move
 and the closest enemy unit is 20cm or less, there is a
-Command penalty of -1. Units close to the enemy are
+Command penalty of −1. Units close to the enemy are
 naturally inclined to use their initiative to react, so it is
 harder to give them a specific order.
 +
@@ -190,12 +190,12 @@ harder to give them a specific order.
 |===
 |Closest Enemy  |Command Penalty
 
-|Up to 20cm     |-1
+|Up to 20cm     |−1
 |More than 20cm |none
 |===
 
 . If the unit you want to move is in dense terrain then
-  there is a Command penalty of -1. The penalty applies if
+  there is a Command penalty of −1. The penalty applies if
   at least one stand is even partially within dense terrain.
   Typical dense terrain features are woods, in and around
   buildings, ruins and similar. See the xref::movement.adoc#terrain[Movement section
@@ -206,17 +206,17 @@ harder to give them a specific order.
 |===
 |Dense Terrain  |Command Penalty
 
-|Within feature |-1
+|Within feature |−1
 |===
 +
 _For example, a General (Command value 9) wishes to
 order a unit of infantry to move forward. The unit is
-25cm distant (-1 distance penalty) and within a wood (-1
+25cm distant (−1 distance penalty) and within a wood (−1
 dense terrain penalty). The player therefore requires a
 dice roll of 7 or less to successfully issue an order._
 
 . If the unit has lost one or more stands as casualties
-  then there is a Command penalty of -1 per stand lost.
+  then there is a Command penalty of −1 per stand lost.
   Units which have suffered casualties are harder to
   motivate than fresh units.
 +
@@ -224,7 +224,7 @@ dice roll of 7 or less to successfully issue an order._
 |===
 |Casualties  |Command Penalty
 
-|Each Stand  |-1
+|Each Stand  |−1
 |===
 
 image::the-command-phase/triskelion.png[]
@@ -299,7 +299,7 @@ image::the-command-phase/brigade-of-four.png[]
 
 To give orders to a brigade, measure to the most distant
 unit in the brigade and take one test. Remember to apply
-the -1 penalty if any units in the brigade are within
+the −1 penalty if any units in the brigade are within
 20cm of the enemy, in dense terrain, if the brigade has
 moved before or if any units have lost casualties. Don’t
 apply any penalties more than once (if two units are in
@@ -307,7 +307,7 @@ dense terrain for example) and in the case of casualties
 apply the penalty for the unit which has lost the most
 stands. If your test is successful, the entire brigade is in
 receipt of an order, whereas if you fail, it is not and the
-whole brigade moves at half pace or doesn‘t move at all
+whole brigade moves at half pace or doesn’t move at all
 depending on whether it is a first or subsequent order
 (see xref::the-command-phase.adoc#giving-an-order[Giving an order]).
 

@@ -102,7 +102,7 @@ automatically recovers.
   able to move in other phases and must do so where
   the rules require it.
 
-. Whilst it is confused, a unit suffers a -1 Attack
+. Whilst it is confused, a unit suffers a −1 Attack
   modifier in combat. Units commonly become
   confused during combat if retreating units are
   forced back into unengaged friends. See the xref:combat-phase.adoc#retreats[Combat
@@ -158,8 +158,8 @@ image::confusion/troll.png[]
 === Moving back
 
 When moving back, a unit simply keeps pace with its
-friend and moves in the same direction. The move doesn‘t
-necessarily need to be to the unit‘s ‘back‘. In the case of
+friend and moves in the same direction. The move doesn’t
+necessarily need to be to the unit’s ‘back’. In the case of
 infantry units that are making way for other infantry
 units when all the stands of the unit that is making way
 lie in the path of the friendly unit, it can be moved behind

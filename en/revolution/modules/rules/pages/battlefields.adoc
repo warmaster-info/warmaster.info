@@ -60,17 +60,18 @@ battlefield that is reasonably balanced.
 edge to fight from.* One player sets up the terrain and
 the other decides which of the opposing edges he will
 fight from. This is a good method when one player is
-travelling to another‘s house as it enables the host to set
+travelling to another’s house as it enables the host to set
 up the scenery beforehand.
 
 *Symmetrical set up.* The scenery is laid out perfectly
 symmetrically so that no advantage is conferred to either
 side. This is a bit mechanical and rather unrealistic but
-it‘s certainly fair in principle.
+it’s certainly fair in principle.
 
 == Table size and deployment areas
 
-Warmaster has been developed for 6‘x4‘ gaming tables. It
+// Metric dimensions added
+Warmaster has been developed for 1.8×1.2m (6′×4′) gaming tables. It
 can be played on a slightly smaller or much larger table
 using suitably sized forces. Armies need about 20cm of
 depth hence the standard game rule is that armies deploy
@@ -83,7 +84,7 @@ image::battlefields/battlefield.svg[id=f-battlefield]
 ****
 Scouting rules are an alternative way deploying
 your armies. It represents the pre-battle struggle for
-information between opposing armies‘ scouts, and their
+information between opposing armies’ scouts, and their
 commanders carrying out personal reconnaissance.
 
 Before the game starts, players must indicate on their
@@ -126,7 +127,7 @@ Next the player with the lower total must place all of
 his units and characters within his deployment zone.
 
 // Paragraph break added
-Finally, the player who ‘won‘ the scouting roll then
+Finally, the player who ‘won’ the scouting roll then
 places the remainder of his units in his deployment zone
 and must move second in the first turn.
 ****
@@ -154,9 +155,9 @@ last.
 |===
 |D6  |Game Length
 
-|1-2 |5 turns
-|3-4 |6 turns
-|5-6 |7 turns
+|1–2 |5 turns
+|3–4 |6 turns
+|5–6 |7 turns
 |===
 
 *Random length.* At the end of the 5th turn, roll a dice. On
@@ -181,7 +182,7 @@ with its own story. So why not have a go. The following
 scenarios present examples of how battles can be fought.
 You can play these exactly as they are, or you can change
 the objectives and other details to suit yourselves. There
-are no rules when it comes to creating a battle. It‘s up to
+are no rules when it comes to creating a battle. It’s up to
 you to invent an entertaining plot or spin a fantastic yarn
 to underpin the game.
 
@@ -199,8 +200,8 @@ Victory Points difference with the following table:
 
 [cols="^,^",frame=ends,grid=rows]
 |===
-|1-2 Victory Points |Minor victory
-|3-5 Victory Points |Major victory
+|1–2 Victory Points |Minor victory
+|3–5 Victory Points |Major victory
 |6+ Victory Points  |Massacre
 |===
 
@@ -237,7 +238,7 @@ opponent but for holding the objectives during the game.
 Victory Points for holding an objective are scored if a
 non-confused unit is within 5cm of the objective while
 there is no enemy unit within 5cm of the same objective
-at the end of player‘s turn from 3rd turn on. Flyers cannot
+at the end of player’s turn from 3rd turn on. Flyers cannot
 hold objectives however, they can contest them. Number
 of awarded points depends on where the objective lies
 
@@ -312,8 +313,8 @@ image::battlefields/dwarf-gunners.png[]
 == Defending the village
 
 In this scenario one player is the defender defending
-a village and farmsteads against the attacker‘s army
-raiding the country. The attacker‘s aim is to burn down
+a village and farmsteads against the attacker’s army
+raiding the country. The attacker’s aim is to burn down
 as many of the buildings as possible, while the defender
 is trying to prevent this from happening. The scenario is
 designed for 2000 point armies.
@@ -321,19 +322,19 @@ designed for 2000 point armies.
 === Special Rules
 
 Along with the other terrain, place a village in the
-defender‘s corner. The village should be approximately
+defender’s corner. The village should be approximately
 20cm×20cm. Next players take turns in placing four
 buildings starting with the attacker. Two buildings are
-placed 10cm from the diagonal axis on the attacker‘s half
+placed 10cm from the diagonal axis on the attacker’s half
 of the table (line A on the diagram). Two other buildings
-are placed 20cm from the axis on the defender‘s side (line
+are placed 20cm from the axis on the defender’s side (line
 B on the diagram).
 
 The attacker deploys first in his deployment zone (see
 the diagram below). The defender then deploys, and goes
 first.
 
-Any stand from an attacker‘s unit of infantry (non-
+Any stand from an attacker’s unit of infantry (non-
 flying), cavalry or chariots that is not in combat or
 confused, and is touching a building can try and set it on
 fire by rolling a 6 in the combat phase. Once the building
@@ -378,9 +379,9 @@ image::battlefields/chaos-axe.png[]
 == Wagon train
 
 A supply wagon train escorted by a patrol force is
-suddenly ambushed by the enemy. The defenter‘s task is
+suddenly ambushed by the enemy. The defenter’s task is
 to protect and get to safety as many wagons as possible.
-The attacker‘s aim is to destroy the wagons and loot
+The attacker’s aim is to destroy the wagons and loot
 them for bounty. The scenario is designed for 2000 point
 armies.
 
@@ -390,17 +391,17 @@ Along with the other terrain place a road running
 through the middle of the table. The defender places 6
 wagons on the road so that no wagon is more than half
 the way across the table and no closer than 40cm to the
-defender‘s side of the table (see diagram). Then the rest of
-the defender‘s army is deployed within their deployment
+defender’s side of the table (see diagram). Then the rest of
+the defender’s army is deployed within their deployment
 zone. Then the attacker deploys. The defender goes first.
 
 Wagons can move 20cm once in the Command phase,
-heading in the direction leading away from the defender‘s
-side of the table. They don‘t need to be given orders to do
+heading in the direction leading away from the defender’s
+side of the table. They don’t need to be given orders to do
 this. Alternatively they can be given individual orders, in
 which case they can move once 20cm along the road in
 whatever direction you wish, or 10cm cross country. A
-wagon can‘t be given two or more orders in a turn. Any
+wagon can’t be given two or more orders in a turn. Any
 that leave the table by any edge are counted as having
 been saved. Wagons cannot be driven back by missile
 fire.
