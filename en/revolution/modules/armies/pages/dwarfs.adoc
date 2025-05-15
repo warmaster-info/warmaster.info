@@ -1,0 +1,256 @@
+= Dwarfs
+:page-role: -toc
+
+image:dwarfs/logo.webp[float="right"]
+The Dwarfs live in fortified subterranean strongholds in the
+mountainous regions of the Old World. Beneath these near
+impregnable fortresses they have dug thousands of miles of
+tunnels, shafts, mines and galleries. The Worlds Edge Mountains
+are riddled with Dwarf delvings and constitute a hidden
+underground realm as large in extent as any human kingdom.
+The adjoining Grey Mountains and Dragonback ranges are also
+home to Dwarfs and there are scattered settlements in most of
+the mountainous regions of the Old World.
+
+Dwarfs are attracted to these bleak places by hidden mineral
+wealth and especially gold. Dwarfs are utterly besotted with
+gold. They are also quite enthusiastic about gemstones and
+other rare and precious metals - but most of all they love gold!
+Dwarfs sing songs about gold, dig through solid rock to find
+gold, and spend endless happy hours counting the gold they
+possess. There are hundreds of different Dwarfish words for
+gold and new ones are being coined all the time. A Dwarf who
+finds himself in the presence of large amounts of the yellow
+shiny stuff can easily go ‘gold crazy‘. Such an individual may
+become insanely violent, even going so far as to attack his
+friends and family who he believes to be “after me gold”. Given
+this strong materialistic streak it is not surprising that Dwarfs
+are such keen traders and merchants. They are always willing
+to do business with other races - though only on cash terms -
+gold always acceptable.
+
+Dwarfs are shorter and far stouter than men or elves. They are
+also much stronger and more resilient. They consider humans
+and elves to be gangling weaklings liable to be blown over
+in a decent breeze. Dwarfs are expert craftsmen, especially
+when it comes to metal work, smithying, gemcutting and
+jewellery making. Despite their cumbersome appearance they
+are astonishingly skilful at making fine, intricate mechanisms
+such as locks, concealed drawers, and hidden doorways. They
+are adept stonemasons and take great pride in their ability to
+build to last. Indeed, the phrase ‘Dwarf-built‘ is a byword for
+indestructible, whilst the Dwarfish word for ‘shoddy‘ translates
+quite literally as ‘manmade‘. Even the Elves consider Dwarf
+metalcraft the finest in the world. Elves are less appreciative of
+Dwarf taste, which they consider to be extra-ordinarily gaudy
+and vulgar.
+
+Before the coming of men the Elves established colonies in
+the Old World so that they could trade with the Dwarfs. For
+many years the two races benefited from this arrangement and
+both peoples flourished. However, differences in temperament
+doomed the relationship to inevitable failure. The Dwarfs saw
+the Elves as arrogant and effeminate. The Elves thought the
+Dwarfs brutish and vulgar. If Elves had been more tactful and
+Dwarfs less prickly things might have turned out differently.
+But it was not to be. Once war began both sides were too proud
+to concede defeat.
+
+// was reduced
+After hundreds of years of continuous warfare both races were
+exhausted. The Elves returned to Ulthuan and abandoned the
+Old World. The Dwarfs considered themselves the victors but
+their numbers were so depleted that their empire could barely
+defend itself. It was at this point that hordes of greenskins
+and ratmen attacked the Dwarf realm from above and below.
+Many strongholds were destroyed and others damaged. The
+once sprawling underground empire was reduced to embattled
+enclaves in the mountains.
+
+Today the Dwarf realm is much reduced in size and population.
+Men have established themselves on the lands once fought
+over by Dwarfs and Elves. The Dwarfs have learned to trade
+with men and the two races have forged a mostly peaceful
+relationship. It was a combined force of Dwarfs and men that
+finally drove the greenskins form from the lands now known
+as the Empire. It was Dwarf craftsmanship that raised the first
+human cities. Relations with the Elves remain embittered.
+Dwarfs never forget injustices against their own kind and
+can bear a grudge practically forever. They reserve their most
+heartfelt hatred for the greenskins and ratmen who have taken
+over the ruins of many strongholds that are rightful property
+of the Dwarfs.
+
+image::dwarfs/anvil.webp[]
+
+== Dwarf army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$dwarfs.tsv[]
+|===
+
+== Special rules
+
+{empty}1. 1. Handgunners:: A handgun shot can pierce armour far more
+easily than an arrow or a crossbow bolt. Therefore, count
+enemy Armour values as one worse than normal when shot by
+a handgun. One unit of Handgunners per full 1000 points can
+replace a unit of Warriors while still counting for the Warrior
+min/max value. Note that this unit still counts for max value of
+Handgunners.
+
+2. Rangers:: One unit of Rangers per full 1000 points does not
+have to be deployed before the game if the player does not wish
+to do so. Instead the unit can be infiltrated onto the battlefield
+once the game has begun. To infiltrate a unit, the Dwarf player
+nominates the point where he wants the Rangers to appear and
+issues an ‘infiltration‘ order from any character. The character
+does not have to be within his normal command range to
+issue an infiltration order - the character‘s command range is
+considered to extend over the entire tabletop when issuing an
+infiltration order. Treat the order as issued to the nominated
+point, and apply any modifiers for distance and proximity of
+enemy, but ignore penalties for dense terrain. The nominated
+point must lie either on the table within dense terrain or on
+any base edge other than the enemy player‘s own table edge. If
+successful, place one stand on the nominated spot and arrange
+the rest of the unit into formation around it. The infiltrated
+unit cannot be placed so that it touches an enemy unit. Once
+deployed, orders can be given to the unit by the same character
+that gave the infiltration order if he is within his normal
+command range, the infiltrating unit is considered to have used
+its first order to deploy. If the infiltration order is failed the unit
+is not deployed and cannot infiltrate that turn, it can attempt to
+infiltrate in a subsequent turn at the same or a different place.
++
+Although they are infantry, Rangers can pursue any type of
+retreating enemy.
+
+3. Troll Slayers:: A Troll Slayer unit will always use its initiative
+to charge an enemy if possible and cannot be given orders
+instead. They will never use their initiative to evade. Troll
+Slayers cannot be driven back by shooting and never roll for
+drive backs. Troll Slayers must pursue or advance if victorious
+in combat where they are permitted to do so. Troll Slayers are
+unaffected by enemy that cause terror in combat - they don‘t
+suffer the -1 Attack modifier. Troll Slayers positively enjoy
+fighting monsters - the bigger the better in fact! Slayers add +1
+Attack when fighting against a Monster stand.
++
+Troll Slayer units earn victory points differently to other units
+as follows:
++
+. If a Troll Slayer unit has any stands remaining at the end of
+  the battle then the full points value of the unit is awarded to the
+  opposing side as victory points. It doesn‘t matter if the unit has
+  3, 2 or 1 stand remaining - if there are any stands left at all the
+  enemy gets the full victory points.
+
+. If a Troll Slayer unit is destroyed no victory points are scored
+  by either side.
+  +
+Slayer units that have been destroyed still count towards the
+Dwarf army‘s losses for purposes of calculating withdrawal.
+
+4. Cannons:: Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are in the main Rulebook.
+
+5. Flame Cannon:: The Flame Cannon is an infernal device that
+shoots a gout of flame. It has range of 30cm and its attacks are
+slightly unusual. Rather than having a fixed number of attacks it
+has 2D6 Attacks instead - roll 2 dice and add the scores together.
+But if the Flame Cannon rolls a double then it does not shoot as
+expected! Depending on the double rolled something has gone
+horribly wrong.
++
+.Flame Cannon Misfire Chart
+[cols="1,6",frame=none,grid=none]
+|===
+|Double Rolled |What‘s that gurgling noise?!
+
+|1.
+|The Flame Cannon explodes and is destroyed. No attacks are
+caused.
+
+// 2D6+4 is the clearer way round
+|2.
+|The Flame Cannon emits an enormous belch of fire inflicting
+a total of 2D6+4 attacks on the target before it explodes and
+destroys itself.
+
+|3.
+|The Flame Cannon makes a worrying wheezing noise
+before spewing out an unusually smoky flame. Six attacks
+are inflicted this turn but the number of attacks caused by all
+further shooting is reduced from 2D6 to 1D6.
+
+|4.
+|The Flame Cannon splutters and its boiler goes out. The crew
+scramble around to re-light it. The Flame Cannon does not
+shoot this turn but it is otherwise unaffected.
+
+// - replaced by but
+|5.
+|The Flame Cannon chuffs out a great gout of soot, covering the
+|target in black smoke and hot coals. Ten attacks are inflicted
+|this turn but otherwise the Flame cannon is unaffected.
+
+// 12+D6 changed to D6+12
+|6.
+|The Flame Cannon lurches in its mountings and heaves forth
+|an especially huge flame inflicting D6+12 attacks on the target.
+The Flame Cannon is otherwise unaffected
+|===
++
+A Flame Cannon can shoot at charging enemy in the usual way.
+
+6. Gyrocopter:: The Gyrocopter is a flying machine, so all the
+usual flying rules apply. The model always forms a single
+unit on its own, must be given orders individually, cannot be
+brigaded with other units and cannot be joined by a character
+in combat.
++
+The Gyrocopter’s fast-firing gun is light in weight and fires a
+small calibre shot. It counts Armour values as one worse than
+normal. The Gyrocopter has 360° vision - the unit can draw line
+of sight from all edges of its stand for the purpose of evading
+and shooting, including shooting at charging enemies. Note that
+this unit still needs Line of Sight from it‘s front edge to charge
+an enemy.
+
+7. Hero:: One Hero in the army may be upgraded to carry
+an Oathstone for +15 pts. Once per game, the Hero may use
+the Oathstone to inspire one unit that he has joined (except
+Trollslayers). Both the Hero, and the unit he has joined, gain
++1 attack per stand, and are immune to Terror, until the end of
+the combat phase.
+
+8. Runesmith: Although they are not wizards and cannot
+therefore cast spells, Dwarf Runesmiths can combat the magic
+of their enemies. If an enemy Wizard who is within 50cm of
+the Runesmith casts a spell the Runesmith can attempt to ‘anti-
+magic‘ it. Note that it does not matter what the spell is or where
+it is cast, the Runesmith can ‘anti-magic‘ it so long as the caster
+is with 50cm. To determine if this works roll a D6 - on the score
+of 4, 5 or 6 the Runesmith has succeeded and the spell doesn‘t
+work, it is dispelled by the Runesmith‘s defiant efforts. If he
+fails then the Runesmith‘s efforts come to nothing and the spell
+works as normal. A Runesmith can attempt to anti-magic any
+number of spells in a turn, but only one attempt can be made to
+anti-magic any individual spell - even if the army includes more
+than one Runesmith and several are in range of the enemy
+Wizard.
+
+9. Anvil. The army can only include a single anvil and it is
+incorporated onto the stand of a Runesmith. If a Runesmith
+stand includes the Anvil, once per battle he can add +1 to his
+dice roll when he attempts to dispel enemy magic spells using
+the Dwarf anti-magic ability (see Runesmith). In addition the
+Runesmith can strike the Anvil during the Shooting phase of
+his own turn. The anvil‘s plangent rune-song fills the Dwarfs
+with even greater resolve! Roll a D6. On the score of a 4, 5 or 6
+all Dwarf units within 20cm of the Runesmith are unaffected
+by Terror until the start of the Dwarf player‘s next turn. On a
+roll of less than 4 there is no effect.
+
+image::dwarfs/miner.webp[]

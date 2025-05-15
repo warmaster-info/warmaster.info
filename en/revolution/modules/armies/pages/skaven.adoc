@@ -1,0 +1,282 @@
+= Skaven
+:page-role: -toc
+
+image:skaven/logo.webp[float="right"]
+Skaven are neither rats nor human but a vile combination of
+the two races. The origins of the Skaven are not known for
+certain. It is likely they were mutated at the dawn of the Age
+of Chaos when powerful waves of magic swamped the world.
+Millions of tons of magically energised material were hurled
+over the planet in the form of meteorites. Some of these were
+huge boulders as big as a house but most were much smaller
+down to the finest particles of dust that fell to earth and polluted
+the ground with magical energy. Creatures that breathed the
+dust or strayed within the radiating power of the larger stones
+became mutated into the most horrible monsters. The Skaven
+may well have mutated from ordinary vermin as a result of
+consuming this corrupting material - or ‘warpstone‘ as they call
+it. Even today the Skaven crave warpstone. Even minute traces
+of warpstone would kill most creatures but for Skaven it is a
+potent stimulant and one that confers great powers upon their
+sorcerers. It also destroys and mutates Skaven and drives them
+insane - but such is its hold over the whole race that they delve
+for it beneath the earth wherever it may be found.
+
+Like ordinary rats Skaven abhor the daylight and avoid open
+places. They dig tunnels beneath the earth, often taking over
+old Dwarf mines and Goblin burrows. Though few suspect
+their presence they live below the cities of men in the sewers
+and cellars and amongst ruins, emerging only at night to prey
+upon vagrants and other unfortunates. Over the centuries the
+Skaven have constructed thousands of miles of tunnels and
+huge city-sized nests so that the whole planet is riddled with
+their workings. Even the mines of the Dwarfs are undermined
+by the underworld of the Skaven and the two races have fought
+many battles beneath the earth.
+
+The Skaven thrive upon decay and corruption but their society
+is highly stratified from the highest Lords of Decay to the most
+lowly Skaven slaves. They live as large extended groups called
+Clans of which there are a great many. The most powerful Clans
+rule the rest and they in turn are ruled over by the Council of
+Thirteen whose members are the dreaded Lords of Decay. It
+is this council that directs the Skaven‘s attempts to overthrow
+the races of the Overworld. The ordinary Clans are made up
+of many thousands of Skaven warriors and slaves and very
+little else but some Clans have developed special skills. These
+include Clan Pestilens whose rulers have developed a form of
+germ warfare, spreading pestilence and corruption by means of
+noxious vapours and poisons.
+
+Clan Eshin is the master of subterfuge whose agents scuttle
+over the rooftops of human cities on their secret missions of
+sabotage and intelligence gathering. Clan Moulder‘s sorcerers
+have become the masters of mutating magic and have created
+many vile monsters by feeding them warpstone - their most
+successful creations are the Rat Ogres - gigantic Skaven
+monstrosities many times the size of an ordinary Skaven. Clan
+Skryre is famed for its machineries that blend sorcery and
+an advanced science far beyond the understanding of mere
+humans. Most powerful of all are the Grey Seers the supreme
+sorcerers of the Skaven Race.
+
+image::skaven/skaven.webp[]
+
+== Skaven army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$skaven.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+Strength in Numbers:: Brigades may be of any size and are not
+restricted to the normal four unit maximum.
+
+Vermintide:: Skaven units that win a round of combat can
+choose to pursue retreating enemy units regardless of troop
+type. Any Skaven units (including artillery) can pursue any
+enemy units (including flyers, cavalry and chariots). Although
+allowed to pursue regardless of enemy troop type, Skaven are
+still constrained by terrain and fortified status the same as other
+armies – e.g. they cannot pursue if fortified.
+
+Under the Lash:: All Skaven characters have a Command range
+of 20cm whether General, Heroes or Wizards. Even Skaven
+Generals have a Command range of 20cm. Skaven are very
+good at directing their underlings - but only so long as they
+remain close at hand. We call it ‘under the lash‘.
+
+=== Special rules
+
+{empty}1. Jezzails:: Count enemy armour values as one worse than
+normal when shot by a jezzail. So, for example, an armour
+value of 3+ counts as 4+, 5+ counts as 6+, and 6+ can‘t save
+against a jezzail.
+
+2. Plague Monks:: A unit of Plague Monks will always use its
+initiative to charge an enemy if possible and can‘t be given
+orders instead. They will never use their initiative to evade.
+They can‘t be driven back by shooting and never roll for drive
+backs. If victorious in combat they must pursue or advance
+where possible.
++
+Plague Monks are unaffected by enemies that cause terror in
+combat, they do not suffer the usual -1 Attack modifier.
+
+3. Rat Swarms:: Rat Swarms cannot be driven back by shooting
+and do not roll for drive backs. A Rat Swarm stand cannot be
+supported by other kinds of infantry - only by other Ratswarm
+stands. Note, however, that Rat Swarms can support other
+kinds of infantry as normal. A Rat Swarm cannot be given
+magic items.
+
+// Paragraph breaks added
+4. Gutter Runners:: Gutter Runners are armed with throwing
+stars and darts, and are therefore allowed to shoot as if they had
+bows, but their range is reduced to 15cm and have 360° vision -
+stands in this unit can draw line of sight from all edges for the
+purpose of evading and shooting, including shooting at charging
+enemies. Note that this unit still needs Line of Sight from it‘s
+front edge to charge an enemy.
++
+In addition, Gutter Runners
+do not have to be deployed before the game if the player does
+not wish to do so. Instead individual units can be infiltrated
+onto the battlefield once the game has begun. To infiltrate a
+unit, the Skaven player nominates the point where he wants
+the Gutter Runners to appear and issues an ‘infiltration‘ order
+from any character. The character does not have to be within
+his normal command range to issue an infiltration order - the
+character‘s command range is considered to extend over the
+entire tabletop when issuing an infiltration order. Treat the
+order as issued to the nominated point, and apply any modifiers
+for distance and proximity of enemy, but ignore penalties for
+dense terrain. The nominated point must lie either on the table
+within dense terrain or on any base edge other than the enemy
+player‘s own table edge. If successful, place one stand on the
+nominated spot and arrange the rest of the unit into formation
+around it. The infiltrated unit cannot be placed so that it
+touches an enemy unit. Once deployed, orders can be given to
+the unit by the same character that gave the infiltration order.
++
+Skaven characters may ignore the Under the Lash rule when
+issuing orders to Gutter Runners. Treat the character as having
+the normal command range for their type. The infiltrating
+unit is considered to have used its first order to deploy. If the
+infiltration order is failed the unit is not deployed and cannot
+infiltrate that turn, it can attempt to infiltrate in a subsequent
+turn at the same or a different place.
++
+Gutter Runners don‘t
+suffer -1 Command penalty for Dense Terrain.
+
+5. Warp Lightning Cannon:: The Warp Lightning Cannon has
+a range of 40cm and follows all the normal rules for artillery,
+but they can move up to 20cm. Half pace move is 10cm. When
+making a shooting attack, any roll of double 1s to hit will cause
+the Warp Lightning Cannon unit to become confused. This
+includes stand and shoot attacks.
+
+6. Doom Wheel:: When the Doom Wheel charges against targets
+in the open it receives D6 bonus Attacks in addition to the
+normal +1 Attack for charging. Note that this bonus applies
+only when charging - not during pursuits, advances and not
+when the Doom Wheel is charged itself. Doom Wheel has a
+move of 20cm and causes terror.
+
+7. Grey Seer:: The Grey Seer is the army‘s General and can use
+Skaven magic in the same manner as a Warlock and can be
+given a magic item restricted to either a General or a Wizard.
+
+8. Screaming Bell:: A Screaming Bell is a gargantuan device and
+therefore it uses a 40 x 60mm base, with the short edge being
+the front. It cannot move of its own accord - but relies upon the
+great mass of Skaven to push it forward. The Screaming Bell
+can therefore only move in the Command phase if it forms a
+brigade with one or more infantry units. It can then move 20cm
+at infantry pace. It cannot move using initiative and cannot be
+driven back by shooting and does not roll for drive backs. In
+combat it is automatically destroyed if forced to retreat but will
+pursue, advance and fall back so long as it is touching a Skaven
+infantry unit at the start and end of its move: otherwise it
+cannot pursue, advance or fall back as it is unable to move of its
+own accord. All Skaven units touching the Screaming Bell are
+unaffected by the usual penalty for Terror whilst they remain
+so. In addition, any Skaven Hero or Warlock within 30cm of the
+Screaming Bell adds +1 to their Command value. Any enemy
+character within 30cm of the Screaming Bell deducts -1 from
+their Command value. A Skaven army can only ever include a
+maximum of 1 Screaming Bell no matter how large.
+
+9. Rat Ogre Bodyguard:: The Grey Seer, Heroes and Warlocks
+can have a Rat Ogre Bodyguard.A character with a bodyguard
+adds +1 to his Attacks.
+
+image::skaven/hero.webp[]
+
+=== Skaven spells
+
+==== Wither
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_Chanting a vile curse, the caster inflicts a wasting, shrinking
+sickness on the enemy._
+
+This spell can be cast upon an enemy unit that is engaged in
+combat and which is within range. The Wizard does not have
+to be able to see the target to cast the spell. The spell lasts for
+the duration of the following Combat phase. Every stand in the
+unit, including characters that have joined the unit, deducts -1
+from its Attacks value.
+
+==== Warp Lightning
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_An arc of pure warp energy strikes the foe wreaking strange
+changes, melting flesh and twisting bone into monstrous forms._
+
+This spell can be cast on an enemy unit. The Wizard must
+be able to see his target to use this spell. The spell cannot be
+directed at a unit engaged in combat.
+
+Warp Lightning is treated like three ordinary shooting attacks
+except that armour has no effect (all targets count as having no
+armour). A unit can be driven back by Warp Lightning as with
+ordinary shooting.
+
+==== Death Frenzy
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Skaven screams a blasphemous litany to the Horned Rat
+driving the Skaven masses into a frenzy of warpdust fuelled
+destruction._
+
+This spell can be cast upon a friendly unit that is engaged in
+combat and which is within range. The Wizard does not have
+to be able to see the target to cast the spell.
+
+The effect lasts for the duration of the following combat phase
+and the indicated bonus attacks are added to the unit‘s total
+attacks each round.
+
+The unit gains bonus Death Frenzy attacks for the following
+combat phase. To determine the number of bonus attacks roll
+one D6 at a time and add the results together. The player can
+roll as many D6 as he wishes up to a maximum of 1 per stand
+in the unit. The player always rolls one dice at a time and
+can decide to stop at any point. However - if the player rolls
+a second or subsequent dice and scores the same value as any
+previously rolled dice, then the total Death Frenzy attacks are
+directed against the targeted unit instead of its enemy. Death
+Frenzy attacks that rebound in this way are struck only once in
+the first round of combat: they are not struck each round.
+
+Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each
+round. 1+4+1 = 6 Attacks upon the Skaven unit in the first
+round.
+
+==== Plague
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_A swirling could of virulence envelopes the enemy troops
+causing their bodies to erupt in pustules, their skins to split
+apart with running sores, their joints to swell with buboes and
+their hair to crawl with lice and fleas._
+
+This spell can be cast on any unengaged enemy unit within
+range regardless of whether the Wizard can see it or not. The
+spell cannot be cast on a unit engaged in combat.
+
+The unit suffers six attacks worked out in the usual way. A unit
+cannot be driven back by Plague (the vile Plague erupts from
+within!).
+
+image::skaven/infantry.webp[]

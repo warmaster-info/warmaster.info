@@ -1,0 +1,209 @@
+= High Elves
+:page-role: -toc
+
+image:high-elves/logo.webp[float="right"]
+The Elven Kingdoms are the most ancient and cultured of
+all the world’s realms aside from those of the cold-blooded
+Lizardmen races. Long before the crude townships of men took
+shape the Elves were building glittering cities in the island-
+continent of Ulthuan. Soon more cities arose in their colonies
+throughout the world. After millennia of habitation many of
+these cities still exist. They are graced by fantastical towers,
+sweeping arches, and a thousand other wonders undreamed of
+by mankind. Within soaring spires the High Elves pursue their
+age-long studies of art, sorcery and the world both natural and
+otherwise.
+
+The Elven mind is not only keen but is matched by a near
+perfect physique and extraordinary longevity. Elves resemble
+men but are taller and more elegantly proportioned with long
+athletic limbs. They have lean, intelligent and handsome faces
+with delicately pointed ears and entrancing almond shaped
+eyes. It has been said that their swift precise movements make
+the most graceful human seem oafish in comparison. These
+qualities make them dangerous warriors as well as unparalleled
+craftsmen and sorcerers.
+
+Elves are not warlike by nature as are, for example, Orcs and
+even Dwarfs and men to some extent. However they are proud
+-some say arrogant - and ultimately confident in their purpose.
+Thousands of years ago the Elves and Dwarfs fought a long and
+bitter war over possession of the Old World - a war fuelled by
+pride and suspicion on both sides.
+
+This war weakened the two races to such an extent that both
+were nearly destroyed as a result. Much of the Dwarf realm
+was subsequently overrun by greenskins, the Elves were driven
+from their cities in the Old World, and the Elven homelands
+were plunged into the devastating civil war known as The
+Sundering. Elves and Dwarfs have never forgotten that war and
+it remains a source of recrimination and antagonism between
+them to this day.
+
+Although their strength is less than it once was the Elven
+Kingdoms constitute the greatest bastion against Chaos in the
+world. Millennia ago - when the Age of Chaos began - the most
+adept of the High Elf Mages constructed a gigantic vortex of
+power at the centre of the island-continent of Ulthuan at the
+heart of the Elven Kingdoms. The purpose of this vortex was to
+draw magical energy out of the world, which was at that time
+overrun with daemons and other wholly sorcerous creatures.
+By means of a system of magical standing stones arranged
+around the circular island like a spider‘s web, the power of
+Chaos was gradually drawn away and stability restored. The
+Daemon armies were destroyed or banished back to the Realms
+of Chaos from which they had come. This is a burden that the
+High Elves carry to this day. Were Ulthuan and its vortex to
+fall the world would be quickly consumed in magic and mortal
+creatures would cease to exist - at least in any form recognisable
+as such.
+
+The Elven Kingdoms remain eternally alert to the threat of
+Chaos. They are the undisputed masters of the seas and have
+fortresses situated all over the globe at strategic positions.
+There they wait and watch the lights of magic playing upon
+the northern skies, and prepare for the next battle against the
+forces of Chaos. However, their numbers are fewer now than
+ever, and the burden of defence grows ever more heavy. For
+this reason the Elves regard the human realms as vital to the
+eternal battle against Chaos, for if the human realms fell it
+would be only a question of time before Ulthuan itself would
+be overwhelmed by the tides of Chaos.
+
+image::high-elves/high-elves.webp[]
+
+== High Elf army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$high-elves.tsv[]
+|===
+
+== Special rules
+
+////
+
+////
+
+{empty}1. Archers:: High Elf archers add +1 to their dice roll when
+making Shooting attacks. They will therefore score a hit
+against targets in the open on a 3 or more, against targets that
+are defended on a 4 or more, and against fortified targets on a
+5 or more.
+
+2. Giant Eagles:: Giant Eagles can fly.
+
+3. Dragons:: Dragons can fly. Dragon rider units and any other
+units that include a Dragon riding character cause terror in
+their enemies.
+
+Because Dragon Riders have a great many hits (6) which are
+difficult to inflict even during a lengthy combat engagement,
+we must consider the possibility of hurting the Dragon and
+reducing its effectiveness in subsequent turns. Therefore,
+if a Dragon Rider has accumulated 4-5 hits by the end of the
+Shooting phase or Combat phase and is no longer engaged in
+combat it is deemed to have been badly hurt. Once a Dragon
+has been badly hurt all accumulated hits are discounted and its
+maximum hits value and Attacks are halved for the rest of the
+battle (to 3 Hits and 3/2 Attacks).
+
+Generals, Wizards and Heroes can ride Dragons. A Dragon can
+fly increasing its rider‘s move from 60 to 100cm. An extra +3
+Attacks are added to those of its rider. A Dragon can breathe
+fire if the character has joined a unit that isn‘t engaged in
+combat. A Dragon ridden by a character can‘t breathe fire if it
+is not part of a unit.
+
+Dragons can make a fiery breath. This applies both to a unit of
+Dragon Riders and to Dragons ridden by characters that have
+joined a unit of troops. Fire Breath works as follows. The fire
+breath has a range of 20cm. Breath can be directed against one
+target as for normal shooting and has 3 Attacks that are worked
+out in the usual way at 4+ to hit.
+
+4. Elven Bolt Thrower:: Rules for the Elven Bolt Thrower are
+described in the xref:rules:artillery-and-machines.adoc#elven-bolt-thrower[Artillery and Machines] section in the Rulebook.
+
+5. Wizard:: High Elf Mages are especially powerful wizards
+and to represent this can re-roll a failed spell on any dice result
+except a 1. If a spell is failed because a 1 is rolled then no re-roll
+is permitted.
+
+6. Giant Eagle Mount:: Generals, Wizards and Heroes can ride
+a Giant Eagle. An Eagle can fly increasing its rider‘s move from
+60 to 100cm. An extra +2 Attacks are added to those of its rider.
+
+7. Chariot Mount:: Generals, Wizards and Heroes can ride
+Chariots. An extra +1 Attack is added to those of its rider.
+
+image::high-elves/giant-eagles.webp[]
+
+=== High Elf spells
+
+==== Storm of Stone
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_The ground erupts around the Mage, and a hail of stones, rocks
+and dirt hurls itself upon his foes._
+
+This spell affects every enemy unit within range.
+
+Every enemy unit within range takes 3 Attacks worked out in
+the normal way. Unengaged units are not driven back by the
+Storm of Stone (the assault comes from the ground beneath
+their feet). Engaged units carry over any hits scored into the
+first round of combat; any hits scored count as having been
+struck in the combat itself.
+
+==== Light of Battle
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A radiant light shines forth upon the Mage‘s companions filling
+them with magical vigour._
+
+This spell affects every friendly unit within range.
+
+The spell lasts for the duration of the following Combat phase.
+Every unit and every character that has joined a unit gains a
+bonus +1 attack. These attacks can be allocated to any stand in
+the unit and can be allocated to a different stand in each combat
+round.
+
+==== Heaven’s Fire
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The mage imbues the Elven archers with an unearthly swiftness
+enabling them to rain death upon the enemy._
+
+This spell can be cast upon a friendly unit of unengaged missile
+armed infantry or cavalry within range. It cannot be cast on
+artillery. The Mage does not need to be able to see the friendly
+unit nor their intended target.
+
+When the Heaven‘s Fire spell is cast on a unit, it can shoot
+twice that turn instead of once. If it has already shot that turn
+it can therefore shoot again immediately. If it has yet to shoot it
+can shoot twice. When a unit shoots twice due to Heaven‘s Fire
+the second shot is always at a -1 penalty to hit.
+
+==== Hail of Destruction
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A hail of fiery arrows flies from the Mage‘s outstretched finger
+tips and strikes an enemy unit._
+
+This spell can be cast on an enemy unit. The Mage must be able
+to see his target to use this spell. The spell cannot be directed at
+a unit engaged in combat.
+
+The Hail of Destruction is treated like three ordinary shooting
+attacks (4+ to hit) except that armour has no effect (all targets
+count as having no armour). A unit can be driven back by a Hail
+of Destruction as with ordinary shooting.
+
+image::high-elves/silver-helms.webp[]

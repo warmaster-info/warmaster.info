@@ -1,0 +1,248 @@
+= Bretonnia
+:page-role: -toc
+
+image:bretonnia/logo.webp[float="right"]
+Bretonnia has grown into a powerful and influential nation
+under the leadership of its proud King Leoncour. At the
+capital of Couronne the greatest knights gather to attend their
+king and to accept from him such heroic quests as he chooses
+to set them. To the knights of Bretonnia honour is everything
+and it is an undoubted fact that a knight would sooner die than
+bring dishonour upon himself or his lord.
+
+The realm of Bretonnia is not as ancient as that of the Empire.
+For many hundreds of years the various tribes that inhabited
+this region fought amongst themselves. Many were little more
+than brigands who roamed the land pillaging and looting at
+will. Implacable rivals vied for power whilst raids and wars
+despoiled the land. This long period of anarchic conflict ended
+with the founding of the nation under the visionary warlord
+Gilles Le Breton. Not only did this great warrior subjugate
+all the other powers in the land but he instigated the laws of
+chivalry that were to bind them to a common purpose. The
+wars of internal strife were ended with a blow of the sword
+and a new nation and a new vision arose from the battle‘s mire.
+
+The laws of chivalry govern Bretonnian society to this day
+informing alike the high ideals of the knights and the simple
+coda of the peasants. Because these laws are now so old -
+and because they have been re-interpreted and occasionally
+misconstrued over the years - many now appear quite bizarre
+or pointless. However, the Bretonnians make a great thing
+of enforcing these laws nonetheless. For the most part they
+describe the feudal status of different classes, rights attaining to
+the ownership of property, definitions and distinctions within
+the strict social order, and the duties and responsibilities due to
+each class from the others.
+
+Much heed paid to proper modes of address between the
+classes, to the means of settling petty priorities between folk
+of comparable standing, and to the many special forms of
+respect owed to superiors of distinct ranks. All this serves to
+keep everyone in their place especially the peasantry – who are
+inferior to everybody and quite right too.
+
+The nobles of Bretonnia aspire to the high ideals of knighthood
+and train from early youth in the arts of war. They are skilled
+and hardy warriors who live to fight. They frequently engage
+in fiercely competitive mock battles and tourneys between
+themselves. Knighthood is an honour and one that can only
+be earned by the performance of heroic deeds - such matters
+usually involve slaying troublesome monsters, destroying
+roving bands of Orcs, and suchlike. During their lives Knights
+will often undertake further adventures and may be compelled
+to fight powerful enemies as a form of penance or spiritual
+journey. Knights acquire honour and rise in status as a mark of
+their heroism, talking priority over lesser Knights and earning
+certain privileged titles and badges of honour.
+
+The most renowned of all Knights are those who quest for
+the Grail of the Lady of Bretonnia. The Lady is the protective
+deity of the nation and its rulers. She is said to have aided
+Gilles le Breton by appearing before him on the eve of a great
+battle. The Lady bade Gilles drink from her grail which he did
+unhesitatingly. As he drank the Lady vanished and Gilles, now
+suddenly sure of what he needed to do, went on to destroy his
+enemies and become king. Since that time the Bretonnians have
+built many shrines to The Lady. The greatest deed a Knight can
+undertake is to search for the Grail of The Lady - the damsels
+of The Lady grant this quest only to the bravest and most strong
+hearted for few who begin the quest are ever fated to succeed.
+
+image::bretonnia/bretonnia.webp[]
+
+== Bretonnian army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$bretonnia.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+Feudal Society:: The Bretonnian army is essentially an army of
+Knights and it is the Knights’ contribution to the battle that
+counts - never mind the pot-washers and clod-breakers. To
+represent this, the Bretonnian army calculates when it must
+withdraw from the battle in a different way to other armies.
+Instead of counting all of its units at the start of the game, count
+only the number of units of Knights, Grail Knights and Pegasus
+Knights. Once the army has lost half or more of its units of
+Knights/Grail Knights/Pegasus Knights it must withdraw.
+
+=== Special rules
+
+{empty}1. Peasants:: A unit of Peasants suffers an additional -1 Command
+penalty when given an order. However, this penalty is waived
+if the Peasant unit is part of a brigade that includes at least
+one non-Peasant unit. Peasants cannot use initiative to charge -
+though they can use initiative to evade as usual. Peasants
+are able to make supporting charges. When they charge they
+receive no bonus attack modifier for doing so.
+
+2. Knights:: A Knight unit will always use its initiative to charge
+an enemy if possible and cannot be given orders instead. They
+will never use their initiative to evade. Knights are unaffected
+by enemy that cause terror in combat and they don’t suffer the
+usual -1 Attack modifier.
+
+3. Grail Knights:: If the unit of Grail Knights is charging against
+an enemy in the open it receives an additional +1 Attack
+modifier in the same way as chariots and monsters.
+
+4. Pegasus Knights:: Pegasus Knights can fly.
+
+5. Trebuchet:: The Bretonnian Trebuchet is one of the mightiest
+and most excellent stone throwers that are built in the Old
+World. At first it was designed to help the noble knights with
+the sometimes coming up and messy sieges that had to be done
+but later was adjusted to be used in field battles too. As the
+Trebuchet is so gargantuan, it uses a 40 x 60mm base, with the
+short edge being the front.
++
+To represent that the Trebuchet is such a bulky warmachine,
+which takes time to assemble and disassemble, the Trebuchets
+can move but cannot shoot in the turn it moved.
++
+If a Trebuchet is driven back more than 10cm by shooting it is
+destroyed (drive backs of less than 10cm are simply ignored). If
+it is forced to retreat from combat it is also destroyed like any
+other artillery. A Trebuchet is not affected by Gerroff!!! spell.
++
+The Trebuchet has a shooting range of 80cm. Fortified units
+count as defended and defended targets count as in the open.
+No armour roll is made when shot at by a Trebuchet.
++
+The Trebuchet may not shoot at charging enemies.
++
+The Trebuchet can shoot at targets that it can see as for all
+other artillery, and it can shoot over the heads of friends and
+obstacles on lower ground just as can other artillery.
++
+Shooting Blind: If there is no target in sight a Trebuchet may
+instead shoot at the nearest enemy unit in range it cannot see.
+When Shooting Blind it always hits on 6+ no matter if the target
+is in the open, defended or even fortified.
+
+6. Unicorn:: Only an Enchantress can ride a Unicorn. The
+Unicorn adds +1 to the Enchantress’s Attacks. Once per battle
+the Unicorn’s magical power adds +1 to the dice roll when
+casting a spell. The player must announce that he is using the
+Unicorn’s magic before rolling to see if the spell works.
+
+7. Pegasus:: The Pegasus can be ridden by a General, Hero or
+Enchantress and adds +1 Attack to the rider as well as allowing
+the character to fly.
+
+8. Hippogriff:: Only a General can ride a Hippogriff. The
+Hippogriff can fly. A unit joined by the General on Hippogriff
+causes terror.
+
+9. Grail Reliquae:: This sacred item can be given to one unit
+of Peasants only in a whole army. This unit and all Peasant
+units touching it become Grail Pilgrims (for as long as they
+keep contact). Grail Pilgrims are immune to terror, don’t get
+the -1 Command penalty and get +1 Attack (they still keep the
+restriction that they don‘t get +1 Attacks for charging in the
+open), they have to attack by initiative if possible and cannot be
+driven back or confused. Before taking any specific action with
+a Peasant unit check if they are still touching the unit carrying
+the Grail Reliquae. If they do so they count as Grail Pilgrims - if
+not they are simple Peasants.
+
+image::bretonnia/green-knight.webp[]
+
+=== Bretonnian spells
+
+==== Shield of Combat
+
+[.cost]#4+ to cast# [.points]#Range N/A#
+
+_The enemy’s blows are magically deflected by unseen forces
+and cause no harm._
+
+An Enchantress can cast this spell upon a unit that she has
+joined. The spell lasts until the end of the opposing player’s
+following turn.
+
+The unit can re-roll any failed armour rolls during the Combat
+phase. This does not include hits suffered from enemy missile
+fire during a charge, as these are deemed to be shooting hits and
+are encompassed by the Aerial Shield spell.
+
+Note that only a single re-roll is permitted regardless of what
+other factors apply. It is never permitted to re-roll a re-roll in
+any circumstances.
+
+==== Eerie Mist
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_An eerie mist rises about the enemy unit stifling the sights and
+sounds of battle._
+
+This spell can be cast on any enemy unit within range regardless
+of whether the Enchantress can see it or not. The spell lasts
+until the end of the opposing player’s following turn.
+
+The unit cannot use its initiative. Any order given to the unit,
+or to any brigade of which it is a part, suffers a -1 Command
+penalty.
+
+== Aerial Shield
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The enemy’s missiles sparkle in the sunlight and vanish
+magically in mid-air causing no harm to their target._
+
+This spell can be cast on a friendly unit whether the Enchantress
+can see it or not.
+
+The spell lasts until the beginning of the next Bretonnian
+Shooting phase.
+
+All enemies that shoot at the enchanted unit get -1 on
+shooting rolls. But keep in mind that regardless of all other
+circumstances the shooting may never get worse than 6+. So
+even if the enchanted unit is fortified all enemies still hit on 6+.
+
+==== Lady's Favour
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A vision of The Lady appears to lead the Bretonnians into the
+midst of battle or away from danger._
+
+The spell can be cast on any unengaged friendly unit within
+range regardless of whether the Enchantress can see it or not.
+The spell affects only a single unit, never a brigade and there is
+no supporting charge possible..
+
+The unit can be moved just as if it had received an order in the
+Command phase. Character stands that have joined the unit
+will not move with it: they remain where they are.
+
+image::bretonnia/knights.jpg[]
