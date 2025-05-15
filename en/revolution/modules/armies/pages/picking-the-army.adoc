@@ -1,0 +1,189 @@
+= Picking the Army
+
+This section of the Warmaster Armies book explains how
+to choose equally matched armies to take part in a battle
+and updates the original section in the main rulebook.
+
+In theory there is no reason why forces have to be equal,
+but most players prefer to fight battles between armies
+that are, notionally at least, the same fighting value. To
+facilitate this, all units are allocated a points value that
+reflects their worth in a typical battle.
+
+As a matter of principle the points values of individual
+units are considered in proportion to the army as a whole
+so that troops of comparable fighting value may be a few
+points more or a few points less in some armies. This
+is intentional. In these cases the marginal difference in
+points is done to restrict or increase the choices available
+to the player.
+
+== The Army
+
+Army lists and rules are provided for 25 Warmaster
+armies. All armies are chosen in the same fashion using
+the appropriate list. The army lists are included on the
+following pages and you may wish to skip forward to
+your favoured army as you read through the rest of this
+section.
+
+== Army size
+
+Both sides select troops and characters up to the same
+maximum points value. Three ‘standard‘ sized battles are
+considered here. Smaller and larger battles, or battles
+with intermediate points values, can also be arranged as
+discussed later.
+
+[cols="<,^",frame=none,grid=none]
+|===
+|Small battle   |1000 points per side
+|Medium battle  |2000 points per side
+|Large battle   |3000 points per side
+|===
+
+A small battle is ideal for beginners or for demonstrating
+the game but the tactical possibilities are limited. Small
+battles are more susceptible to the fortunes of dice rolling
+than are large battles. Medium sized battles are
+considered the usual kind and will typically
+last for a whole evening‘s play - although
+experienced players have been
+known to cram four or
+more such battles into
+a single day.
+
+Large battles require more leisure but offer a varied game
+that better reflects the subtleties of the command system.
+Substantially bigger battles can be fought with even
+more points per side if players wish. Beware that a very
+large game can take an entire day or even several days
+to complete. There is no real maximum limit beyond
+the number of models and the size of the gaming area
+available. 10,000 points or more is certainly feasible.
+With very large armies it helps to have additional players
+to help move troops and roll dice.
+
+Note that the army size indicates the maximum points
+value that can be spent. Armies can have fewer points
+than this value but cannot have more. Often it is
+impossible to spend the odd few points so a medium
+sized ‘2000 point‘ army might have only 1995 points of
+models. Such an army is still a 2000 point army as far
+as we are concerned. It is the maximum permitted value
+that determines the army size not the actual points spent.
+
+The army lists are designed to work with armies of round
+thousands of points (1000, 2000, 3000, etc). However, it is
+also possible to choose armies of other sizes - say 1500 or
+750. This is slightly less convenient but useful if players
+are still building their armies and want to use units as
+they are purchased. This is explained under Selecting the
+Army.
+
+== Army lists
+
+Begin with the army list for your chosen army. The
+different lists include all the units available for each side
+together with their game stats, points values and special
+rules where appropriate. Most of this information is
+condensed into a single stat line for each unit. Any
+additional information is noted as special rules after the
+army list itself. Stat lines are presented as follows:
+
+image::picking-the-army/battle-line.webp[]
+
+[.unit,frame=none]
+|===
+|Troop |Type |Attacks |Hits |Armour |Command |Unit size |Points |Min/max |Special
+
+|Halberdiers |Infantry |3 |3 |6+ |– |3 |45 |2/– |–
+|===
+
+Type:: This describes the type of troop unit or character
+stand: Infantry, Cavalry, Monster, Artillery, Machine,
+Chariot, General, Wizard or Hero. Mounts for characters
+are sometimes optional and are included as a separate
+line as Monstrous Mount or Chariot Mount.
+
+Attack:: The basic number of dice rolled in combat by
+each stand in the unit.
+
+Hits:: The number of hits the unit can suffer before one
+stand is removed.
+
+Armour:: The score required to nullify a hit struck on the
+unit if it has armour (3+, 4+, 5+ or 6+). A unit with no
+armour has a value of 0.
+
+Command:: The Command value of a character.
+Unit Size. The number of stands in a unit.
+Points per Unit. The points value of a unit or character
+of that type.
+
+Min/Max:: This defines the minimum and maximum
+number of units of that type which an army must include
+per 1000 points of army size. A dash indicates there is no
+restriction.
+
+== Selecting the army
+
+Choose units and characters to make up the army. You
+can choose up to a maximum total value appropriate to
+the size of game. For example, High Elf Spearmen are 60
+points per unit so 5 such units are worth 300 points.
+
+Players are not entirely free to select forces as they want.
+Some units must always be included and some other
+units can only be included in limited numbers. These
+restrictions are indicated by the minimum/maximum
+column (min/max) in the army lists. The min/max
+value consists of two numbers separated by a slash – for
+example 1/2. The first number shows the minimum
+number of that unit/character the army must include
+for every 1000 points of army size. The second number
+shows the maximum number of that unit/character the
+army can include for every 1000 points of army size.
+
+For example, in a Bretonnian army, Squires are min/max
+1/4. This means that in a 1000 point army the player must
+include at least 1 unit but cannot include more than 4. In
+a 2000 point army the minimum is therefore 2 and the
+maximum 8, in a 3000 point army minimum 3 maximum
+12, and so on.
+
+If an entry includes a dash instead of a number this
+means no minimum or maximum applies. The player
+can chose as few or as many of this troop types as he
+wishes within the limitations of the points available. For
+example, –/2 means that in a 1000 points army there is no
+minimum and the maximum is 2, while 1/– means there
+is a minimum of 1 and no maximum.
+
+All armies must include a single General. An army can
+never include more than one General no matter what its
+size. The Min/Max column is given as 1 to show this.
+You may have decided your armies will be chosen to 1500
+points or some other odd number. In this case determine
+min/max values by rounding your actual army size down
+to the next full 1000‘s. So, a 1500 point army is selected
+using the minimums and maximums for a 1000 point
+army, a 2250 point army is the same as a 2000 and so on.
+
+If your chosen army size is less than 1000 points then
+use the 1000 point maximums but ignore the minimums.
+Very small games can be a useful exercise for learning
+the rules but be warned that the game does not work
+particularly well with extremely small forces and battles
+may feel bewilderingly rapid.
+
+The value of any permitted magic items is added to that
+of the unit or character that carries them. Magic items
+must be allocated to specific characters and a separate
+note made. This will increase the points value of the unit
+or character appropriately, and the total cost must be
+taken into account when working out victory points. See
+Magic in the rulebook p.76 or a Magic Items Overview
+on p.88 in this book.
+
+image::picking-the-army/undead.webp[]

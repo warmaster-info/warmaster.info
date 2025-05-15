@@ -1,0 +1,231 @@
+= Wood Elves
+:page-role: -toc
+
+image:wood-elves/logo.webp[float="right"]
+Elves first settled in the forest of Loren long before the
+civilised realms of man came int being in the Old World,
+during the great period of war between the Elves and the
+Dwarfs known as the War of the Beard. The first Elven settlers
+of Loren sought to protect this beautiful forest realm from the
+ravages of the Dwarfs, who would have felled the mighty trees
+to fuel their furnaces and provide timber to build their war
+machines. After many years of fighting, the War of the Beard
+finally ended with the Dwarfs retreating to their mountain
+halls and the Elven colonists abandoning the Old World to
+protect their homeland of Ulthuan.
+
+However, not all of the Elves returned home with the armies
+and ships. Some could not bear to leave their newly founded
+homes, whilst others were unwilling to return to the decadence
+and intrigue of the noble courts of their homeland. Whatever
+their reasons, a small number of the Elven settlers remained
+in the Old World, and without the Phoenix King’s armies to
+protect them, they soon took refuge with the guardians of
+Loren, and made the forest their new home. The descendants
+of these first colonists are the race of Wood Elves, and they
+continue to protect their forested home to this very day.
+
+It is safe to say that the Wood Elves are not the most active
+campaigners in the Warhammer world; rather the vast majority
+of their battles are fought in the defence of Loren – a cause
+to which they are dedicated with single-minded determination.
+Due mainly to their small numbers, the Wood Elves prefer to
+deal with their enemies using deception and guile rather than
+attacking head-on. Death through traps, ambushes and the
+unseen arrow all await the unwary intruder into the enchanted
+forest kingdom of the Wood Elves. Indeed, a large Wood Elf host
+will only be assembled to fight an open, pitched battle under
+the direst of circumstances, most often to repel a determined
+invading army. In such times as these, the Wood Elf warriors
+will fall upon their opponents with all the savagery of the Wild
+
+Hunt, slaying all who would seek to despoil their beloved forest.
+Often all that remains of the invaders are several large cairns,
+beneath which lie the bodies of fallen enemies. These serve as
+a grim warning to all who trespass beyond the boundary stones
+marking the edge of the realm – you are not welcome here,
+death awaits.
+
+image::wood-elves/wood-elves.webp[]
+
+== Wood Elf army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$wood-elves.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+Woodland Folk:: Due to living amongst the forests of Loren
+all Wood Elf infantry does not suffer the usual -1 Command
+penalty when within woodland.
+
+=== Special rules
+
+////
+2: "2" missing
+
+3: Spelling Armour, Spelling Waywatchers, infiltration
+
+6: Spelling its
+
+7: Spelling penalty
+////
+
+{empty}1. Glade Guard:: Wood Elves are just as famed for their bow as
+their High Elf cousins, and as such Glade Guard units add +1 to
+their dice roll when making shooting attacks. Therefore these
+units score a hit against targets in the open on a 3+, against
+defended targets on a 4+, and against fortified targets on a 5+.
+
+2. Wardancers:: Wardancer stands are not deployed as independent
+units. Instead, any Glade Guard or Eternal Guard unit may add
+one stand of Wardancers. This brings the size of the unit to 4
+stands - 3 regular stands plus the Wardancers stand.
++
+Wardancers always have the same Armour value as the rest of
+their unit. They fight as part of their unit and can be removed
+as a unit casualty if the player wishes.
++
+Wardancers casualties never count for Command penalties.
+Wardancers stands never cause the parent unit to be in Irregular
+Formation no matter how they are placed.
+
+3. Waywatchers:: Famous for their bow skills even by a Wood
+Elf standards, Waywatchers shoot the enemy with terrifying
+accuracy. The add +1 to their dice roll when making shooting
+attacks and these attacks are resolved at -1 Armour value of the
+enemy.
++
+Waywatchers can also ambush. Individual units can be
+infiltrated onto the battlefield once the game has begun. To
+infiltrate a unit, the Wood Elf player nominates the point
+where he wants the Waywatchers to appear and issues an
+‘infiltration‘ order from any character. The character does
+not have to be within his normal command range to issue an
+infiltration order - the character‘s command range is considered
+to extend over the entire tabletop when issuing an infiltration
+order. Treat the order as issued to the nominated point, and
+apply any modifiers for distance and proximity of enemy, but
+ignore penalties of dense terrain. The nominated point must lie
+either on the table within dense terrain or on any base edge
+other than the enemy player‘s own table edge. If successful,
+place one stand on the nominated spot and arrange the rest
+of the unit around it. The infiltrated unit cannot be placed so
+that it touches an enemy unit. Once deployed, orders can be
+given to the unit by the same character that gave the infiltration
+order if he is within his normal command range, the infiltrating
+unit is considered to have used its first order to deploy. If the
+infiltration order is failed the unit is not deployed and cannot
+infiltrate that turn, it can attempt to infiltrate in a subsequent
+turn at the same of a different place.
+
+4. Forest Spirits:: Forest Spirits are woodland creatures. They
+are immune to terror and suffer -1 Command penalty when
+being ordered by General or Noble.
+
+5. Wild Riders:: Wild Riders receive +1 Attack in the first round
+of every combat when fighting to the front.
+
+6. Warhawk Riders:: Warhawk Riders can fly. They have a
+shooting range of only 15cm and 360° vision - stands in this unit
+can draw line of sight from all edges for the purpose of evading
+and shooting, including shooting at charging enemies. Note that
+this unit still needs Line of Sight from its front edge to charge
+an enemy.
+
+7. Treeman:: Treeman can enter woods and suffers no command
+penalty for being within the woods but cannot get defended
+status there. Treeman causes terror.
+
+8. Treeman Ancient:: Treeman Ancient has -1 Command
+penalty when issuing orders to other than Forest Spirit units.
+Can join only Forest Spirit units and is able to cast Tree Singing
+spell. Units joined by Treeman Ancient cause terror. There
+can ever be only one Treeman Ancient in any Wood Elf army.
+Cannot be given any magic items.
+
+9. Branchwraith:: Branchwraith has -1 Command penalty when
+issuing orders to other than Forest Spirit units. Can join only
+Forest Spirit units and is able to cast Tree Singing spell. Cannot
+be given any magic items.
+
+10. Giant Stag:: General, Nobles and Spell Weavers may ride a
+Giant Stag. The Stag adds +1 Attack to those of its rider.
+
+11. Unicorn:: This mount can be ridden by Spell Weaver only.
+The Unicorn adds +1 Attack to those of its rider. Once per
+battle the Unicorn’s magical power adds +1 to the dice when
+casting a spell. The player must announce that the Unicorn’s
+magic before rolling to see if the spell works. There can be only
+one Unicorn in the army.
+
+12. Warhawk:: General, Nobles and Spell Weavers may ride a
+Warhawk. The Warhawk can fly, increasing its rider’s move
+from 60cm to 100cm, and it adds +1 Attack to those of its rider.
+
+13. Forest Dragon:: Generals, Nobles and Spell Weavers may
+ride Forest Dragons. A Forest Dragon can fly, increasing its
+rider’s move to 100cm, and adds +3 Attacks to those of its rider.
+Any unit joined by a character riding a Forest Dragon cause
+terror in their enemies and so long as the Dragon is attached to
+a unit, it can use its Corrosive Breath attack. This is a shooting
+attack with a range of 20cm, which can be directed against one
+target as normal. The breath has 3 Attacks, which are worked
+out in the usual way.
+
+image::wood-elves/infantry.webp[]
+
+=== Wood Elf spells
+
+==== Tree Singing
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+// Spelling their
+_The Spell Weaver calls force a mass of tangling branches to
+surround their troops, protecting them form harm._
+
+This spell may be cast upon a single unengaged friendly
+Infantry unit within range, regardless of whether the caster
+can see them or not. The spell lasts until the start of the caster‘s
+next turn, or until the target unit moves in any way. The target
+Infantry unit counts as Defended, even if it is in open terrain.
+
+==== Twilight Host
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A weird enchantment forms around the target unit._
+
+The target unit causes terror until Wood Elf next magic phase.
+
+==== Call of the Hunt
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Spell Weaver‘s voice sings out across the battlefield
+directing troops above the tumult of combat with the magical
+Call of the Hunt._
+
+Unit may make a charge move into contact with the nearest
+visible enemy unit in the same way as when charging. Enemy
+may not shoot at chargers.
+
+==== Fury of the Forest
+
+[.cost]#6+ to cast# [.points]#Range 60cm#
+
+_The spell makes three shooting attacks on all enemy units
+within 10cm of chosen wooded terrain piece. Units get no
+armour save if within wooded terrain._
+
+Unengaged units are not driven back by this spell (the assault
+comes form the ground beneath their feet). Engaged units carry
+over any hits scored into the first round of combat; any hits
+scored count as having been struck in the combat itself.
+
+image::wood-elves/wild-riders.webp[]

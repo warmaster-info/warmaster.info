@@ -1,0 +1,232 @@
+= Tomb Kings
+:page-role: -toc
+
+image:tomb-kings/logo.webp[float="right"]
+In ages past the land of Khemri was fertile, populous and
+prosperous thanks to the waters of the Great River of Life
+whose annual floods irrigated the fields and guaranteed a
+bountiful harvest. Each city was ruled by a Priest King and
+for many centuries these omnipotent monarchs lived and died
+and were buried in tombs constructed by their faithful Liche
+Priests. The bodies of the Priest Kings, and those of their most
+faithful troops and retainers, were carefully embalmed and
+interred with holy spells of immortality to prepare them for
+the far off day of re-awakening.
+
+Unfortunately for the Priest Kings of Khemri their dreams of
+eternal life were to be realised only in the most horrific way.
+A rebellious Liche Priest called Nagash overthrew the cities of
+Khemri and made himself ruler of the entire land. Consequently
+he was driven into exile and eventually murdered. However -
+this was not the end of Nagash - for he was the greatest Sorcerer
+of his day if not all of all time - and whilst the Black Pyramid
+endured Nagash‘s spirit could always find refuge there. His evil
+was gradually absorbed into the Black Pyramid and his body
+reborn in the sorcerous sarcophagus that lay deep within.
+
+Nagash‘s vengeance upon his enemies was absolute. From deep
+within the Black Pyramid he worked upon a great spell of
+death that he eventually cast upon the whole land of Khemri.
+Consequently a pestilence fell upon the nation and all living
+things sickened and died so that soon there were none to bury
+the dead and the cities became nothing but empty tombs. What
+was alive was now dead, and what was dead was revivified as
+undead. On that terrible day the rulers of old awoke to the
+horror that had befallen them. The golden immortality in which
+they had believed had proven a false dream. The Tomb Kings
+were mightily angered to discover that they had been treated
+in this way - and there were a great many of them. Whole
+dynasties rose as one, ancient rivals and bitter enemies side by
+side. But most of all their anger was reserved for Nagash. They
+saw the Black Pyramid and felt the dark winds of sorcery that
+blew about its shining black walls and understood that they had
+been betrayed.
+
+From their tombs the Tomb Kings have re-ordered their
+kingdoms. Their peoples, mostly interred without the benefit
+of royal magic, are little more than automatons. Undead
+armies wheel and manoeuvre with ingrained military instinct,
+continually re-fighting old wars or pursuing new ones amidst
+the dry deserts. The terrible spell that created them binds
+them to their land but offers no succour. Those that perish
+in battle rise each dawn whilst even those that are destroyed
+entirely, burned to smoke or vaporised by sorcery, live on as
+spiteful spirits that can be heard in the wailing of the wind and
+groaning of great stones in the mountains. If the Tomb Kings
+take any comfort it is only in the recreation of their ancient
+empires - a shadow of former existence that evokes memories
+of the lives that they once led.
+
+image::tomb-kings/tomb-kings.webp[]
+
+== Tomb kings army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$tomb-kings.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+Undead:: Undead units never act on initiative. An Undead unit
+only moves in the Command phase if given orders (except
+Carrion who can also home back as noted below).
++
+Undead units are unaffected by the -1 Command penalty for
+enemy within 20cm.
++
+Undead units are unaffected by the -1 Combat penalty for
+fighting terrifying troops.
++
+Undead units are unaffected by the Confusion rule - they
+cannot become confused for any reason.
+
+=== Special rules
+
+////
+6: Space before +1
+////
+
+{empty}1. Carrion:: Carrion can fly. Note that Carrion can always return
+to a character by homing back at the start of the Command
+phase.
+
+2. Bone Giant:: Bone Giants cause terror. When a Tomb King
+gives an order to a Bone Giant or a brigade that contains a Bone
+Giant there is a -1 Command penalty. There is no penalty when
+a Liche-Priest gives an order.
+
+3. Sphinx:: Because the Sphinx has so many hits (6) we must
+consider the possibility of hurting the Sphinx and reducing
+its effectiveness in subsequent turns. Therefore, if a Sphinx
+has accumulated 4-5 hits by the end of the Shooting phase
+or Combat phase and is no longer engaged in combat it is
+deemed to have been badly hurt. Once a Sphinx is badly hurt
+all accumulated hits are discounted and its maximum Hits and
+Attacks are halved for the rest of the battle (to 3 Hits and 2
+Attacks). The Sphinx causes terror.
+
+4. Skull Chukka:: The Skull Chukka is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower]
+but with the following additional rule.
+When a unit is driven back as a result of hits scored by a Skull
+Chukka, then any dice rolled in respect to those hits will cause
+Confusion on the roll of 4, 5 or 6 (rather than 6 as normal). Note
+that if a unit has taken other hits as well it will be necessary
+to roll the Skull Chukka dice separately. See the Artillery and
+Machines section of the rulebook for the Stone Thrower rules.
+
+5. Bone Thrower:: The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower] as
+described in the Rulebook.
+
+6. Tomb King:: The Tomb King is empowered by the spells cast
+upon him when buried. He can use this power to increase the
+Combat Attacks value of all the stands in one unit within 20cm
+by +1 for the duration of one Combat phase. This ability can
+only be used once per battle.
+
+7. Zombie Dragon:: A Tomb King or Liche Priest can ride a
+Zombie Dragon. A Dragon can fly increasing its rider‘s move
+from 60 to 100cm and it adds +3 Attacks to those of its rider.
+Zombie Dragons have a special shooting attack - they can belch
+corrosive breath! This attack can only be used if the Dragon
+riding character has joined a unit but is not engaged in combat.
+A character that has not joined a unit cannot use the Breath
+attack. The corrosive breath has a range of 20cm. It can be
+directed against one target as normal and has 3 Attacks worked
+out in the usual way. The Zombie Dragon is a terrifying creature -
+a unit that has been joined by a Dragon riding character causes
+terror in its enemies.
+
+8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
+A character riding a chariot adds +1 to his Attacks.
+
+image::tomb-kings/tomb-king.webp[]
+
+=== Tomb King spells
+
+==== Raise Dead
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_At the Wizard‘s beckoning the mangled corpses that litter the
+battleground rise from the dead to continue the slaughter._
+
+This spell can be cast upon a combat engagement taking place
+within 30cm of the Wizard. The spell can be cast regardless
+of whether the Wizard can see any units in the combat
+engagement or not. A single combat engagement can only be
+affected once by this spell in any turn regardless of how many
+units are involved in the combat. For purposes of deciding
+whether a combat is eligible as a target, combat engagements
+are as they appear when the die to cast the spell is rolled: so it
+is possible for pursuit or advances to bring two units of raised
+dead into the same engagement later on.
+
+A Skeleton unit of three stands is created. Each stand in the
+raised unit must be placed so that its front edge contacts an
+enemy stand from the targeted engagement, or that it supports
+a friendly stand from the same engagement, including raised
+stands. The placement of stands may not split up the engagement
+into multiple smaller engagements. If raised stands come into
+contact with unengaged enemy units, those units will join the
+engagement after the raised unit is placed, similar to incidental
+contact during pursuit. If it is impossible to position all stands
+in combat or support then the unit is not deployed and the spell
+fails. Raised dead do not count as charging in the first round of
+combat. Raised dead are ignored for working out break point
+and victory points at the end of the game.
+
+==== Touch of Death
+
+[.cost]#4+ to cast# [.points]#Range N/A#
+
+_The Wizard‘s enemies crumble to dust as he smites them with
+the corrupting Touch of Death._
+
+The Wizard can cast this spell if he has joined a unit in combat.
+The spell can be cast on any single enemy unit that it is touching
+the unit the Wizard has joined.
+
+The target unit takes three attacks worked out in the usual way.
+Any hits scored are carried over into the first round of combat
+and count as having been struck in the first round for purposes
+of working out combat results.
+
+==== Doom and Despair
+
+[.cost]#4+ to cast# [.points]#Range 60cm#
+
+_A dark cloud of doom and despair settles over the enemy,
+sapping their courage and dampening their warlike spirit._
+
+This spell can be cast on any enemy unit within range regardless
+of whether the Wizard can see it or not.
+
+The spell takes effect until the end of the opposing player‘s next
+turn.
+
+Whilst the spell lasts the unit cannot charge and if engaged
+in combat will not pursue or advance. Even units that are
+otherwise obliged to charge, pursue, or advance will not do so
+if affected by Doom and Despair. Note that even other Undead
+are not immune - they are overcome by the ennui of the tomb!
+
+==== Death Bolt
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A fearsome bolt of sorcerous lightning flies from the Wizard‘s
+outstretched finger tips and strikes an enemy unit._
+
+This spell can be cast on an enemy unit. The Wizard must
+be able to see his target to use this spell. The spell cannot be
+directed at a unit engaged in combat.
+
+The Death Bolt is treated like three ordinary shooting attacks
+except that armour has no effect (all targets count as having
+no armour). A unit can be driven back by a Death Bolt as with
+ordinary shooting.
+
+image::tomb-kings/tomb-king-battle-line.jpg[]

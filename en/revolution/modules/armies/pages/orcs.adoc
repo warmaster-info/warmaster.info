@@ -1,0 +1,217 @@
+= Orcs
+:page-role: -toc
+
+image:orcs/logo.webp[float="right"]
+Once Orcs ruled the whole of the Old World as well as the
+lands far to the east and south. The various tribes fought,
+conquered and absorbed each other in one huge glorious battle
+that lasted for countless centuries. ‘Countless‘ because Orcs
+were and remain in a state of uncompromising savagery having
+mastered neither writing nor counting beyond three. This
+happily blood-thirsty state of affairs lasted until the human
+tribes united together with the Dwarfs to drive the Orcs from
+the lands west of the Worlds Edge Mountains. Subsequently,
+Orc tribes are mostly to be found in the Bad Lands to the south
+of the Old World and the Dark Lands to the east. There the
+great business of fighting amongst themselves continues to this
+day.
+
+Orcs are the largest and most ferocious of the greenskinned
+races and they dominate the smaller Goblins and Snotlings
+almost completely. Despite this many independent Goblin
+tribes continue to live deep in the forests and mountains of
+the Old World as well as in the Worlds Edge Mountains and
+beyond. These smaller greenskins are far better adapted to life
+below ground and in the dense forests because they are smarter
+and more nimble-fingered than Orcs. This is why Orc tribes
+always include Goblin slaves to make armour and weapons, and
+do such practical stuff as Orcs either can‘t be bothered with or
+just don‘t understand. The smallest of these creatures are called
+Snotlings, tiny sub-goblins that live amongst and alongside their
+larger relatives. They are occasionally pressed to simple tasks
+but for the most part they are regarded as pests, treated like
+pets, or enthusiastically eaten - for all greenskins are cannibals
+though they prefer human flesh when they can get it.
+
+The Orc way of life is war. Every Orc measures his worth by
+the number of enemies he has slain - and also the number of
+friends, for Orcs fight each other all the time. By fighting they
+establish which of them is best and this is reflected in their
+curious metabolism. The more dominant an Orc becomes the
+bigger he grows so it is always easy to see which Orcs are in
+charge and who is boss - just look for the big guy.
+
+All Orcs want to be biggest and best, and the surest way to
+achieve this is to follow the biggest Orc and share in his success.
+Because the top chieftains are continuously fighting off rivals
+their reign does not usually last for very long. Nor is there
+any shortage of strong, young Orcs waiting to take a fallen
+chieftain‘s place. Thus Orc society is a genuine meritocracy
+where the best always rise to the top and stay there only so long
+as they can fight off the opposition.
+
+There are an untold number of Orc tribes in the world and most
+are itinerant, surviving by a process of raiding and despoliation.
+If one chieftain proves very successful in this respect other
+chieftains will quickly throw in their lot with this up and
+coming warlord. A successful warlord‘s forces will therefore
+grow and will continue to grow until there are so many Orcs in
+one place they will either self-destruct in a mighty inter-tribal
+war or go on the warpath and invade one of the human lands to
+the west. A great invasion of this kind is known as a Waaagh.
+The great number of Orcs that make up the Waaagh generates a
+kind of unstoppable enthusiasm that sends the greenskins into
+a spree of killing and looting that only ends once the leader of
+the Waaagh has been slain. Because Orcs understand little or
+nothing of concepts such as retreat, consolidation, or holding
+territory, it is inevitable that a Waaagh will run out of steam
+eventually; the only question is how much destruction can it
+cause first.
+
+image::orcs/orcs.webp[]
+
+== Orcs army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$orcs.tsv[]
+|===
+
+== Special rules
+
+{empty}1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
+but its range is reduced to 15cm.
+
+2. Trolls:: When trying to issue an order to a unit of Trolls or to
+a brigade that contains a unit of Trolls, any Command penalty
+applied for distance between the character and the Troll unit
+is always doubled. So at 20cm no penalty applies, at 40cm -2,
+at 60cm -4, and so on. Trolls can regenerate wounds - in each
+round of combat after whole stands have been removed Trolls
+automatically regenerate one outstanding hit. If no hits are left
+over after removing whole stands then regeneration has no
+effect. Regenerated hits still count towards the combat result
+for the round.
+
+3. Ogres:: If an Ogre unit can use its initiative to charge an enemy
+unit of humans at the start of the Command phase then it must
+do so. This happens automatically and their commander can
+do nothing about it. ‘Humans‘ encompasses all ‘men‘ including
+Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
+
+4. Wolf Riders:: The Wolf Rider‘s range is restricted to 15cm.
+Wolf Riders have 360° vision - stands in this unit can draw line
+of sight from all edges for the purpose of evading and shooting,
+including shooting at charging enemies. Note that this unit still
+needs Line of Sight from it‘s front edge to charge an enemy.
+
+5. Giants:: Giants must always be given a separate order. They
+cannot be brigaded with other troops, although several Giants
+can be brigaded together if you so wish. If you attempt to give
+an order to a Giant and fail then you must take a test to see
+what it does. Ignore potential blunders - these are taken into
+account by the following rules. Roll a dice and consult the
+Giant Goes Wild chart. Where Giants are brigaded together
+roll for each separately. Giants have a great many hits, 8 in
+fact, which are almost impossible to inflict during even a fairly
+lengthy combat engagement. Because Giants have so many
+hits we must consider the possibility of hurting the Giant and
+reducing its effectiveness in subsequent turns. Therefore, if
+a Giant has accumulated 5-7 hits by the end of the Shooting
+phase or Combat phase and is no longer engaged in combat it is
+deemed to have been badly hurt. Once a Giant is badly hurt all
+accumulated hits are discounted and its maximum Hits value
+and Attacks are halved for the rest of the battle (to 4 Hits and 4
+Attacks). A Giant causes terror in its enemies.
++
+include::partial$giant-goes-wild.adoc[]
+
+6. Rock Lobber:: Rock Lobber is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower] as described
+in the Rulebook.
+
+7. Wyverns:: Generals, Wizards and Heroes can ride Wyverns.
+A Wyvern can fly, increasing its rider‘s move from 60 to 100cm,
+and it adds +2 Attacks to those of its rider. A unit that includes
+a Wyvern rider causes terror in its enemies.
+
+8. Chariots:: A General, Wizard or Hero can ride a Chariot. A
+character in a chariot adds +1 to his Attacks.
+
+image::orcs/hero.webp[]
+
+=== Orc spells
+
+==== Foot of Gork
+
+[.cost]#6+ to cast# [.points]#Range 50cm#
+
+_A gigantic spectral green foot descends from the heavens with
+a mighty thunk, crushing the enemy to pulp and grinding their
+bones into the dirt._
+
+This spell can be cast on any unengaged enemy unit within
+range regardless of whether the Shaman can see it or not. The
+spell cannot be cast on a unit engaged in combat.
+
+The unit suffers six attacks worked out in the usual way. A unit
+cannot be driven back by the Foot of Gork because Gork‘s foot
+descends from above!.
+
+==== Gotcha
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_With a mighty heave a huge green fist erupts from the Shaman‘s
+gaping mouth and strikes all within its path._
+
+Draw an imaginary line 30cm long from the Shaman‘s stand
+in any direction you wish. The line will pass through any
+intervening units but not beyond terrain that would normally
+stop a missile shot, e.g. over the crest of a hill, more than 2cm of
+woodland, and so forth.
+
+Each unit under the line takes three shooting attacks worked
+out in the usual way. Note that this spell can easily affect
+several units and will affect all units that fall beneath the line
+(including your own). Unengaged units can be driven back by
+a Gotcha as with ordinary shooting (even including friends).
+Engaged units cannot be driven back by the Gotcha but carry
+over any hits scored into the first round of combat; any hits
+scored count as having been struck in the combat itself.
+
+==== Gerroff!!!
+
+[.cost]#5+ to cast# [.points]#Range 60cm#
+
+_The voice of Gork booms out across the battlefield driving back
+his foes with a rancid gale force yell._
+
+This spell can be cast on any unengaged enemy unit within
+range regardless of whether the Shaman can see it or not. The
+spell cannot be cast on a unit engaged in combat.
+
+The enemy unit is driven back 1D6 x 5cm towards its own
+table edge. This is treated in the same way as a drive back from
+shooting, except that the direction is established by determining
+the shortest route to the table edge. A unit cannot be routed by
+a drive back from a Gerroff spell. If the unit leaves the table
+edge it must roll as described in the main Warmaster rules.
+
+==== Waagh!
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The shaman summons the power of the mighty Waaagh! to
+invigorate the greenskins._
+
+This spell can be cast on a friendly unit of Orc or Goblins
+engaged in combat; including Black Orcs, Wolf Riders, Boar
+Boyz and any type of Orc or Goblin troops but not Trolls,
+Ogres, Giants or other non-greenskins. The spell can be cast
+regardless of whether the Shaman can see the target or not.
+
+The spell lasts for the duration of the following Combat phase.
+Every stand in the unit, including characters that have joined
+the unit, adds +1 to its Attacks value.
+
+image::orcs/wolf-riders.webp[]
