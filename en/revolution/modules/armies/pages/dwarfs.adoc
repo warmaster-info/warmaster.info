@@ -92,7 +92,7 @@ include::partial$dwarfs.tsv[]
 
 == Special rules
 
-{empty}1. 1. Handgunners:: A handgun shot can pierce armour far more
+{empty}1. Handgunners:: A handgun shot can pierce armour far more
 easily than an arrow or a crossbow bolt. Therefore, count
 enemy Armour values as one worse than normal when shot by
 a handgun. One unit of Handgunners per full 1000 points can
@@ -168,37 +168,37 @@ horribly wrong.
 |===
 |Double Rolled |What‘s that gurgling noise?!
 
-|1.
+h|1.
 |The Flame Cannon explodes and is destroyed. No attacks are
 caused.
 
 // 2D6+4 is the clearer way round
-|2.
+h|2.
 |The Flame Cannon emits an enormous belch of fire inflicting
 a total of 2D6+4 attacks on the target before it explodes and
 destroys itself.
 
-|3.
+h|3.
 |The Flame Cannon makes a worrying wheezing noise
 before spewing out an unusually smoky flame. Six attacks
 are inflicted this turn but the number of attacks caused by all
 further shooting is reduced from 2D6 to 1D6.
 
-|4.
+h|4.
 |The Flame Cannon splutters and its boiler goes out. The crew
 scramble around to re-light it. The Flame Cannon does not
 shoot this turn but it is otherwise unaffected.
 
 // - replaced by but
-|5.
+h|5.
 |The Flame Cannon chuffs out a great gout of soot, covering the
-|target in black smoke and hot coals. Ten attacks are inflicted
-|this turn but otherwise the Flame cannon is unaffected.
+target in black smoke and hot coals. Ten attacks are inflicted
+this turn but otherwise the Flame cannon is unaffected.
 
 // 12+D6 changed to D6+12
-|6.
+h|6.
 |The Flame Cannon lurches in its mountings and heaves forth
-|an especially huge flame inflicting D6+12 attacks on the target.
+an especially huge flame inflicting D6+12 attacks on the target.
 The Flame Cannon is otherwise unaffected
 |===
 +
@@ -225,7 +225,7 @@ Trollslayers). Both the Hero, and the unit he has joined, gain
 +1 attack per stand, and are immune to Terror, until the end of
 the combat phase.
 
-8. Runesmith: Although they are not wizards and cannot
+8. Runesmith:: Although they are not wizards and cannot
 therefore cast spells, Dwarf Runesmiths can combat the magic
 of their enemies. If an enemy Wizard who is within 50cm of
 the Runesmith casts a spell the Runesmith can attempt to ‘anti-
@@ -241,7 +241,7 @@ anti-magic any individual spell - even if the army includes more
 than one Runesmith and several are in range of the enemy
 Wizard.
 
-9. Anvil. The army can only include a single anvil and it is
+9. Anvil:: The army can only include a single anvil and it is
 incorporated onto the stand of a Runesmith. If a Runesmith
 stand includes the Anvil, once per battle he can add +1 to his
 dice roll when he attempts to dispel enemy magic spells using
@@ -253,4 +253,4 @@ all Dwarf units within 20cm of the Runesmith are unaffected
 by Terror until the start of the Dwarf player‘s next turn. On a
 roll of less than 4 there is no effect.
 
-image::dwarfs/miner.webp[]
+image::dwarfs/miner.jpg[]

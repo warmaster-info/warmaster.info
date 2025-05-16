@@ -1,0 +1,203 @@
+= Ogre Kingdoms
+:page-role: -toc
+
+
+image:ogre-kingdoms/logo.webp[width=141,height=116,float="right"]
+Far to the east of the Old World lie the savage Ogre Kingdoms.
+Among the frozen and desolate mountains of this realm live
+the Ogres – ugly, violent monsters who kill and eat anything
+they can catch.
+
+An Ogre Kingdoms army is a massive, blunt instrument that
+smashes into enemy lines with the force of a ton of bricks. It is
+a hard-hitting army that will normally be vastly outnumbered
+on the battlefield. Nevertheless, with the right combination of
+Ogre units led by a fearsome Tyrant an opponent’s lines can
+be ripped asunder by a devastating bull charge even before a
+single ironbound club is swung. A single Ogre has enough brute
+strength to destroy a farmstead or village. Thus, the ramshackle
+armies that march west from the Ogre homelands are powerful
+enough to destroy empires.
+
+// machinerys → machines
+Ogres have been described by scholars as ‘thick as two short
+planks‘. They have also been described as having enough
+intelligence to nail the planks together and beat the observer to
+a bloody pulp. There is some truth to this, for although the race
+is unable to create anything of lasting worth, they do have a
+knack for cobbling together crude weaponry out of whatever is
+to hand, and even using the machines of war they take, trade
+or earn from other races.
+
+// add 'use'
+That said, the Mountains of Mourn are so inhospitable that
+nothing that makes its way into the Ogre Kingdoms is wasted -
+if an object is not immediately edible it will invariably find
+another use within a few hours of its discovery.
+
+// . → , after food, tor → for, comers → corners
+Ogres have an insatiable appetite for destruction as well as for
+food, and even in times of relative peace they will hunt and
+kill the vicious cave-beasts that dwell in the mountains, as well
+as war constantly amongst themselves. Ogres are well known
+for their tendency to brawl, and can be found across the four
+corners of the world, fighting in small mercenary groups that
+ultimately leave comparatively little evidence of their passing.
+In contrast, a full migration of Ogres can be devastating,
+stripping all life from the lands they come across and devouring
+entire populations in a matter of days. It may take decades
+before the desolation left in their wake begins to recover, but
+full-scale Ogre migrations are mercifully rare.
+
+// Capital Kingdoms
+Ogres, being completely illiterate, rely on crude cave paintings
+and a tradition of storytelling (or just plain old boasting) to
+convey the folk tales and legends of their civilisation. One
+of their earliest myths concerns Old Stoneguts, an Ogre that
+caught and ate the sun one evening but, due to the heartburn
+it was causing him, threw it back up the very next morning.
+Ogres place great stock in feats of strength, and the mythology
+of the Ogre Kingdoms is continually fuelled by the Herculean
+(and often extremely exaggerated) tasks undertaken by its
+inhabitants.
+
+image::ogre-kingdoms/ogre-kingdoms.webp[]
+
+== Ogre Kingdoms army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$ogre-kingdoms.tsv[]
+|===
+
+== Special rules
+
+////
+2: Remove duplicative The unit has 2 shooting attacks.
+4: This unit
+5: standard -1 command penalty, the usual
+6: Paragraph break moved
+////
+{empty}1. Bull Ogres:: If an Ogre unit can use its initiative to charge an
+enemy unit of humans at the start of the Command phase then
+it must do so. This happens automatically and their commander
+can do nothing about it. ‘Humans’ encompasses all men
+including Chaos Warriors and Marauders, but not Dwarfs,
+Elves etc.
+
+2. Leadbelchers:: Leadbelchers‘ cannons have a range of 15cm.
+Leadbelchers’ shooting attacks
+impose a -1 penalty to armour rolls.
+
+3. Yhetees:: If the unit of Yhetees is charging against an enemy
+in the open it receives an additional +1 Attack modifier in the
+same way as chariots and monsters. A Yhetee unit can only
+give support and be supported by other Yhetee units and must
+pursue retreating enemies where possible and must advance
+into a combat if they are able to do so.
+
+4. Gnoblars:: This unit is allowed to shoot as if it had bows but its
+range is reduced to 15cm. A Gnoblar stand cannot be supported
+by other kinds of infantry - only by other Gnoblar stands. Note,
+however, that Gnoblars can support other kinds of infantry
+as normal. Gnoblars cannot be given magic items. Characters
+cannot join Gnoblar units.
+
+5. Gorgers:: When trying to issue an order to a unit of Gorgers or
+to a brigade that contains a unit of Gorgers, there is always a -1
+Command penalty due their beastly and unruly nature. Gorgers
+always ignore distance modifiers when receiving orders and can
+pursue any type of retreating enemy.
++
+Gorgers do not have to be
+deployed before the game if the player does not wish to do so.
+Instead individual units can be infiltrated onto the battlefield
+once the game has begun. To infiltrate a unit, the Ogre player
+nominates the point where he wants the Gorgers to appear and
+issues an ‘infiltration‘ order from any character. The character
+does not have to be within his normal command range to
+issue an infiltration order - the character‘s command range is
+considered to extend over the entire tabletop when issuing an
+infiltration order. Treat the order as issued to the nominated
+point, and apply the Gorgers‘ standard -1 command penalty and any modifiers for
+proximity of enemy. The nominated point must lie either on the
+table within dense terrain or on any base edge other than the
+enemy player‘s own table edge. If successful, place one stand
+on the nominated spot and arrange the rest of the unit into
+formation around it. The infiltrated unit cannot be placed so
+that it touches an enemy unit. Once deployed, orders can be
+given to the unit by the same character that gave the infiltration
+order. The infiltrating unit is considered to have used its first
+order to deploy. If the infiltration order is failed the unit is
+not deployed and cannot infiltrate that turn, it can attempt to
+infiltrate in a subsequent turn at the same or a different place.
++
+Gorgers don‘t suffer the usual -1 Command penalty for Dense Terrain.
+
+6. Rhinox Riders:: Units of Rhinox Riders are unaffected by
+terror. Rhinox Riders receive +1 Attack when charging against
+an enemy in open in the same way as chariots and monsters.
+
+5. Slave Giant::
+include::partial$giant.adoc[]
+
+8. Scrap Launcher:: Scrap Launcher is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower] as
+described in the Warmaster Rulebook.
+
+9. Bull Rhinox:: Tyrants, Bruisers and Butchers may ride the Bull
+Rhinox. A unit that is joined with a character mounted on this
+huge beast causes terror in enemies.
+
+image::ogre-kingdoms/infantry.webp[]
+
+=== Ogre Kingdoms spells
+
+==== Tooth Cracker
+
+[.cost]#3+ to cast# [.points]#Range 30cm#
+
+_The Butcher grinds his way through a lump of earth encrusted
+bedrock taken from the peak of a mountain, imbuing himself
+and his fellows with supernatural resilience. This often costs
+the Butcher more than a couple of teeth._
+
+Target friendly unit can’t be driven back or confused until your
+next turn.
+
+==== Bone Cruncher
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_Shovelling dry bones into his mouth, the Butcher painfully
+crunches his way through femurs, ribs and skulls. As he points
+at his foes and spits his bloody curse, the enemy find their own
+bones breaking within their bodies._
+
+Counts as three shooting attacks with no armour save. The spell
+causes drive back as for normal shooting. The Wizard must be
+able to see the target and can’t cast the spell into a combat.
+
+==== Bull Gorger
+
+[.cost]#4+ to cast# [.points]#Range N/A#
+
+_The Butcher greedily devours the heart of a Bull Rhinox, no
+doubt enjoying the feast of healthy blood and muscle whilst he
+imbues himself and his charges with the strength of a charging
+Rhinox._
+
+The spell adds +1 Attack for each stand in a unit the Butcher
+has joined, including his own stand. The spell lasts for the
+duration of the following Combat phase.
+
+==== Troll Guts
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Ogre Butcher forces down the toxic guts of a Stone Troll,
+great quantities of acid and bile ravaging his much abused gut as
+he transfers the supernatural abilities of the troll onto himself
+and his companions._
+
+This spell can be cast on friendly unit in combat. Each stand in
+affected unit gain +1 Hit during the following Combat phase.

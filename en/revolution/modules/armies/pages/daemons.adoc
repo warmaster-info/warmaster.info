@@ -1,0 +1,217 @@
+= Daemons
+:page-role: -toc
+
+image:daemons/logo.webp[width=128,height=117,float="right"]
+The world is awash with unseen magic that comes from the
+dark dimensions between time and space.  It was introduced
+into the world when the great intra-spatial gateways of
+the Old Ones collapsed, creating a rift in space and spewing
+magically volatile warp-matter over the whole planet. Magic
+is a malleable energy that can be harnessed and wielded, but
+the very act of doing so reshapes and changes everyone and
+everything it comes into contact with. Whether used for good
+or ill, magic is ultimately corrupting and dangerous.
+
+The ancient gateways continue to leak raw magic from the dark
+dimension to this day. The dark dimension is home to things
+of an altogether different order to mortal creatures. These are
+not living creatures of flesh but a network of ethereal forces
+whose consciousnesses continually flow and interchange.
+Individuality and linear thought are meaningless concepts in
+the dark dimension. In that timeless, spaceless, nothingness
+there is only endless being: a single moment extending through
+all eternity.
+
+Just as magic pollutes and disfigures the material world so the
+dark dimension is reshaped by the world of mortals. Thought,
+ambition, emotion and other gross forms of individual
+consciousness leak from the material universe. This focused
+consciousness overwhelms and transforms the naturally
+guileless intelligence of the dark dimension. It becomes aware.
+It coalesces into a kind of distinct consciousness. Things stir
+in the dark dimension. Gods, daemons and spirits are made
+manifest in the stuff of the warp. Reshaped in turn by these
+newly created consciousnesses other lesser beings are created,
+and so it goes on.
+
+Thus are the gods of the Old World, and the bitterest agents of
+man‘s own destruction, self-created from the terror of mankind
+itself. There may be a thousand gods or a million aspects of a
+single deity - it matters little. The daemon armies of Chaos
+constantly reshape and reform in the face of man‘s ever shifting
+fears. Most of all men dread the elemental horrors of life, and
+these are represented by the four great gods of the Marauder
+tribes of the north. They are worshipped under many names
+and in many guises but in the lands of the south they are
+recognised (by those who dare pursue such studies) as the great
+powers of Khorne the Blood God, Tzeentch the Changer of
+the Ways, Nurgle the Plague Lord, and Slaanesh the Lord of
+Pleasure. These are the Great Gods of Chaos of which all other
+gods are but parts or conjunctions. In the lands of the Empire
+many a theologist has been burned for saying as much.
+
+image::daemons/daemons.webp[]
+
+== Daemon army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$daemons.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+Ignore Terror:: All units ignore the -1 Attack penalty in combat
+for fighting terrifying troops – you cannot frighten them at all.
+
+Daemonic Instability:: At the start of the player’s own Command
+phase, before making any initiatives moves, all friendly Daemon
+units that have taken at least 1 casualty (i.e. lost at least 1 stand
+out of 3) must make a ‘Daemonic Instability’ test. Roll a D6. If
+the unit has lost 2 stands (i.e. has only 1 stand remaining from 3)
+and is further away than 20cm from a friendly Daemon Wizard
+deduct 1 from the roll.
++
+[cols="^1,6",frame=none,grid=none]
+|===
+h|0-1
+|One stand is destroyed – the daemons fade away and
+are absorbed back into the Realm of Chaos from
+which they came. Remove one stand from play. If
+a character is with the unit and the last stand is
+removed the character is destroyed too.
+
+h|2-3
+|The unit becomes confused - if not already confused
+the stand becomes confused as it is torn between this
+world and the next.
+
+h|4-5
+|No effect – unless the unit is confused in which case
+it ceases to be confused as it is favoured with the
+invigorating power of Chaos.
+
+h|6
+|The unit regains one stand. The regained stand is
+placed directly behind, in front or beside another
+stand from the same unit, and facing the same
+direction. If it is impossible to position the stand in
+in this manner then the stand cannot be added.
+|===
+
+=== Special rules
+
+{empty}1. Daemon Swarms:: These cannot be driven back by shooting
+and do not roll for drive backs. A Daemon Swarm cannot be
+given a magic item.
+
+2. Daemon Flyers:: These can fly. Daemon flyers are an exception
+to the normal conventions for basing monsters in that they face
+the long edge of the stand in the same way as infantry rather
+than the short edge as most other monsters.
+
+3. Greater Daemons:: Greater Daemons can fly regardless of
+whether the actual model has wings – aerial propulsion is
+deemed feasible by sheer effort of will.
++
+Greater Daemons cause terror in their enemies. A Greater
+Daemon that has accumulated 4-5 hits at the end of the Shooting
+or Combat phase and is no longer engaged in combat is deemed
+to have been badly hurt. Once a Greater Daemon is badly hurt
+accumulated hits are discounted and its Hits and Attacks values
+are halved for the rest of the battle (to 3 Hits and 4 Attacks).
+
+4. Daemon Overlord:: The Daemon Overlord is the army’s
+General and has the option of having the powers of a Wizard
+for additional 25 points. If given magical powers the Daemon
+Overlord can be given a magic item restricted to either a General
+or a Wizard. Note that the Daemon Overlord is still a General
+and his command range extends over the whole battlefield as
+for other Generals.
+
+5. Daemonic Wings:: Some of the creatures of the deep vaults
+of hell may have wings, some of them fly on hovering discs and
+some even have the ability of disappearing and reappearing
+wherever they want on the battlefield. Daemon characters may
+be given the ability of flying.
+
+6. Favour of the Gods:: Demon Overlord, Lords or Sorcerers can
+be given the Favour of the Gods. The character gains then +1
+extra Attack and causes terror in its enemies as described in the
+Warmaster rulebook.
+
+image::daemons/infantry.webp[]
+
+=== Daemonic spells
+
+==== Summon Daemons
+
+[.cost]#4+ to cast# [.points]#Range 60cm#
+
+_With a sulphurous blast of elemental power fresh Daemons
+emerge from the warp to reinforce their beleaguered kindred._
+
+This spell can be cast on any friendly Daemon unit of three
+stands that has lost one or two stands as casualties. It does not
+matter whether the Wizard can see the unit or not.
+
+The unit regains one stand. The regained stand is placed directly
+behind, in front or beside another stand from the same unit,
+and facing the same direction. If the unit is already in combat
+the additional stand can be placed so that it touches the enemy
+and will count as charging if the unit charged. If it is impossible
+to position the stand in this manner, the spell cannot be cast
+and will not work.
+
+==== Daemonic Rage
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A keening cry of pure power rises upon daemonic lips as
+magical energy surges through their eldritch bodies._
+
+This spell affects every friendly unit within range.
+
+The spell lasts during the following Combat phase.
+
+Every unit gains a bonus +1 attack. This attack can be allocated
+to any stand in the unit and can be allocated to a different stand
+in each combat round.
+
+==== Sorcerous Blast
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_With a single gesture a bolt of black lightning leaps from
+fingertip to the foe, searing the enemy with a blast of dark
+power._
+
+This spell can be cast on an enemy unit. The Wizard must
+be able to see his target to use this spell. The spell cannot be
+directed at a unit engaged in combat.
+
+The Sorcerous Blast is treated like three ordinary shooting
+attacks except that armour has no effect (all targets count as
+having no armour). A unit can be driven back by a Sorcerous
+Blast as with ordinary shooting.
+
+==== Frenzy of Chaos
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_Rumbling thunderous power surges through the daemonic
+ranks driving all into a frenzied thirst for blood._
+
+This spell can be cast upon a friendly unit which is engaged in
+combat and that is within range. The Sorcerer does not have to
+be able to see the target to cast the spell.
+
+The effect lasts until the end of the following Combat phase.
+The unit can re-roll any failed attacks in combat: take any dice
+that fail to score hits and roll them again. Note that you cannot
+re-roll a dice that has already been re-rolled either because of a
+spell, magic item or any other reason.
+
+image::daemons/greater-daemon.webp[]

@@ -1,0 +1,16 @@
+Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
+Bull Ogres	Infantry	4	4	5+	-	3	105	2/-	*1
+Leadbelchers	Infantry	3/2	4	6+	-	3	90	-/2	*2
+Ironguts	Infantry	4	4	4+	-	3	140	-/2	-
+Yhetees	Infantry	5	4	-	-	3	90	-/2	*3
+Gnoblars	Infantry	2/1	3	-	-	3	30	-/4	*4
+Rhinox Riders	Cavalry	5	4	5+	-	3	200	-/1	*5
+Gorgers	Infantry	5	3	5+	-	3	110	-/1	*6
+Sabretusks	Cavalry	3	3	-	-	3	40	-/1	-
+Slave Giant	Monster	8	8	5+	-	1	135	-/1	*7
+Scrap Launcher	Artillery	1/3	3	-	-	1	75	-/1	*8
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
+Tyrant	General	+2	-	-	9	1	125	1	-
+Bruiser	Hero	+1	-	-	8	1	80	-/1	-
+Butcher	Wizard	+1	-	-	8	1	90	-/1	-
+Bull Rhinox	Monstrous Mount	+2	-	-	-	-	+65	-/1	*9

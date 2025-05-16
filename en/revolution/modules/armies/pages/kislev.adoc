@@ -1,0 +1,233 @@
+= Kislev
+:page-role: -toc
+
+image:kislev/logo.webp[width=100,height=113,float="right"]
+The land of Kislev lies in the north-eastern portion of the Old
+World between towering mountains to the east, the barren
+wastes of the Troll Country to the west and the borders of the
+Empire to the south. Dense pine forests give way to scattered
+birch forests and desolate tundra to the north. It is an old saying
+that in Kislev the winters are long, the snow lies deep, and
+enemies are never far away.
+
+Kislev shares its southern border with the Empire but in
+every other direction it is surrounded by deadly foes. The
+eastern mountains are full of goblins and other greenskins
+whilst beyond the lands are home to savage marauder tribes.
+To the north-west is the land of Norsca - barbarians in thrall
+to the Dark Gods. When the armies of Chaos gather Kislev
+lies directly in their path between the forces of darkness and
+the lands to the south. With typically grim humour Kislevites
+describe their land as lying between the hammer and the anvil
+(meaning Chaos and the Empire).
+
+Kislev is reckoned a backward and barbarous country by the
+people of the southlands. Some even go as far as to say that
+the Kislevites are little better than the savage marauder tribes
+themselves. There is some truth in this - because the people
+of Kislev are an admixture of native Old Worlders like the
+people of the Empire and a marauding Kurgan tribe called the
+Gospodars. As with the tribes of Chaos there are those amongst
+the Kislevites who possess the gift of prophecy and other
+sorcerous abilities. The ruling family of the Tzars is descended
+directly from the Sorceress Khan-Queens of the Gospodars.
+Female members of the family often possess great powers. This
+mixture of southern and northern blood makes the Kislevites
+seem exotic and dangerous to the people of the Empire.
+
+Many of the Tzar‘s subjects are fierce nomadic horsemen and
+hunters rather than settled farmers and town-dwelling traders.
+These nomads are the most savage of the Kislevites retaining
+both the ancient traditions and pure blood of the Gospodars of
+old. The townships of Kislev are built mainly of huge timbers.
+Good building stone is rare whilst tall pine trees are plentiful.
+Only the largest cities have stone walls and imposing civic
+buildings constructed from masonry. Gilded domes distinguish
+the temples of the strange Kislevite gods from those of the
+Empire.
+
+For many years the Tzars of Kislev have enjoyed the friendship
+of the Emperor and the goodwill of the Dwarfs. The present
+ruler is the Tzarina Katarina - a great sorceress known
+throughout the Old World as the Ice Queen of Kislev. In her the
+old powers of the Khan-Queens have resurfaced and she is both
+abhorred and feared by her people, especially by the nomadic
+tribes who believe her to be favoured by the ancient gods of the
+Gospodars.
+
+image::kislev/kislev.webp[]
+
+== Kislev army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$kislev.tsv[]
+|===
+
+== Special rules
+
+{empty}1. Winged Lancers:: Winged Lancers receive +1 Attack in the
+first round of every combat when fighting to the front and are
+Immune to Terror.
+
+2. Horse Archers, Cossacks:: Kislevite Horsemen have a shooting
+range of 15 cm and 360° vision - stands in this unit can draw line
+of sight from all edges for the purpose of evading and shooting,
+including shooting at charging enemies. Note that this unit still
+needs Line of Sight from it‘s front edge to charge an enemy.
+
+3. Bowmen:: One unit of Bowmen per full 1000 points can
+replace a unit of Axemen while still counting for Axemen min/
+max value.
+
+4. Red Guard:: In addition to traditional Kislevite long axes Red
+Guard is armed with handguns. Count enemy armour values as
+one worse than normal when shot by a handgun. So an armour
+value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an armour
+value of 6+ can’t save against a handgun.
+
+5. Bears:: Bears are defined as infantry for rules purposes as
+this gives them the appropriate mobility for such creatures, but
+they add +1 Attack when they charge an enemy in the open in
+the same way as monsters and chariots.
++
+A Bear unit can only give support and be supported by other
+Bear units and must pursue retreating enemy where possible
+and must advance if they are able to do so. Also, Bears never
+count as defended outside a dense terrain.
++
+Note that these rules apply only to Bear units - not to characters
+riding a Bear or Shaman that have transformed in Monster
+Bear.
+
+6. War Wagon:: image:kislev/wagon-laagered.webp[width=250,height=253,float="right"]
+The War Wagon consists of a wagon stand and
+a horse team stand. The wagon cannot charge and moves 20cm
+at full pace. The unit moving up to 5 cm after a successful order
+can end its move in a laager formation. A unit moving more
+than 5 cm must end its move in a column formation. Terrain
+restrictions are the same as Artillery. Either stand can be
+removed as causality. The War Wagon can move only when the
+team stand remains.
++
+The War Wagon has 4+ Armour and total of 4 shooting and 4
+close combat Attacks as long as the wagon stand remains. If the
+wagon stand is removed the team stand has no Armour and no
+Attacks. The War wagon can shoot all round and can draw a
+line of sight from any exposed edge. The wagon has a range of
+30cm. The target‘s armour value counts one worse than usual.
+The wagon is permitted to shoot over the heads of friendly
+troops on lower ground in the same way as other Artillery.
++
+A laagered wagon counts as a defended
+unit. A wagon column counts as in the
+open. A laagered wagon has no sides or
+rear. A laagered wagon cannot be driven
+back or routed by shooting. But roll for
+(defended) drive backs to see if it becomes
+confused. For Gerroff, roll the dice as nor-
+mal and if it would normally have left the
+table then roll 1 D6 and it is confused on
+a 6.
++
+image:kislev/wagon-column.webp[width=132,height=499,float="right"]
+Although it is an artillery unit, a wagon column cannot pursue
+but it is not destroyed if forced to retreat. Also, a wagon laager
+will neither pursue nor retreat but is not destroyed if forced to
+retreat. It also continues to count as defended in subsequent
+rounds. The enemy can continue to fight by ‘pursuing‘, but
+there are no pursuit bonuses. A laagered wagon cannot make
+way.
++
+Any Kislev infantry unit with a side edge of one stand touching
+wholly the short edge of a laagered wagon stand counts as
+defended for shooting and combat. This advantage applies only
+in the first round of combat.
+
+7. Bear Mount:: Generals, Heroes and Shamans can ride a Bear
+mount. The Bear adds +1 Attack to that of its rider.
+
+8. Yozhin:: This creature lives in swamps near the Praag since
+the great incursion of Chaos. Yozhin strongly hates any kind
+of Chaos, being (possibly) chaos-twisted creature itself. Only
+powerful Shamans may summon a Yozhin and make it to fight
+on their side. A single Shaman in the army can be assisted by
+Yozhin. There is no restriction for going into any water/boggy/
+swamp terrain for him. A unit that has been joined by a Yozhin
+riding Shaman causes terror in its enemies. Yozhin adds +1
+Attack to Shaman’s attacks value.
+
+9. Tzarina:: The General may be a Tzarina of the royal blood -
+perhaps Tzarina Katrina herself. The Tzarina rides a horse-
+drawn sled - note this is not a chariot! The Tzarina can cast
+spells like a Wizard and can carry a magic item restricted to a
+Wizard if desired. Once during the battle the Tzarina can add
++1 to the dice when attempting to cast a spell. The player must
+announce that the Tzarina’s special spell casting bonus is being
+used before rolling for the spell.
+
+image::kislev/general.webp[]
+
+=== Kislev spells
+
+==== Monster Bear!
+
+[.cost]#5+ to cast# [.points]#Range N/A#
+
+_The wizard transforms himself into a gigantic ferocious
+supernatural bear and hurls himself into the enemy’s ranks._
+
+The wizard can cast this spell on himself if he has joined a unit
+that is engaged in combat. The spell lasts for the duration of the
+following Combat phase.
+
+The unit causes terror and the wizard gains a further +2 Attack
+bonus that he adds to the unit in the regular way. Note that if
+the Tzarina uses this spell she adds +4 Attacks: +2 as General
+and +2 from Monster Bear.
+
+==== Icy Blast
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_An icy blast shoots from the wizard’s outstretched arm and
+strikes his foes._
+
+This spell can be cast on an enemy unit. The Wizard must
+be able to see his target to use this spell. The spell cannot be
+directed at a unit engaged in combat. The Icy Blast is treated
+like three ordinary shooting attacks except that armour has no
+effect (all targets count as having no armour). A unit can be
+driven back by an Icy Blast as with ordinary shooting.
+
+==== Chill
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_A fierce chill envelops the unit, freezing its warriors and
+hindering its ability to fight._
+
+This spell can be cast upon an enemy unit that is engaged in
+combat and which is within range. The Wizard does not have
+to be able to see the target to cast the spell. The spell lasts for
+the duration of the following Combat phase. Every stand in the
+unit, including characters that have joined the unit, deducts -1
+from its Attacks value.
+
+==== Freeze
+
+[.cost]#6+ to cast# [.points]#Range 60cm#
+
+_An ill wind turns the enemy so brittle that wood, flesh and even
+iron shatters and falls to the ground in splinters._
+
+This spell can be cast at an enemy unit within range regardless
+of whether the wizard can see it or not. The spell cannot be
+directed at a unit engaged in combat.
+
+Roll a D6. If the score exceeds the number of hits that the target
+troop type has then one stand is destroyed. If not then the target
+is unscathed. If a stand is destroyed it is removed as a casualty.
+A unit cannot be driven back by Freeze.
+
+image::kislev/war-wagon.webp[]

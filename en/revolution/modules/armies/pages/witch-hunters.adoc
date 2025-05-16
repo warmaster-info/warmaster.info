@@ -1,0 +1,187 @@
+= Witch Hunters
+:page-role: -toc
+
+image:witch-hunters/logo.webp[width=109,height=108,float="right"]
+Witch Hunters are some of the most characterful and
+interesting aspects of the Empire. While it's true to say
+they invariably fight for the greater good of humanity, their
+methods are often brutal and arguably little better than those
+of their enemies. A Witch Hunter knows that evil doesn’t play
+by the rules however, and that to beat it, he must be just as
+underhand. If a few innocents get killed in the process, then
+it’s regrettable but better than allowing a heretic or warlock to
+escape punishment.
+
+Often, Witch Hunters prefer to work alone or in small
+groups, such as during the scouring of Mordheim years ago.
+Occasionally though there will be need to gather together
+under one banner to drive out some great, dark army. Probably
+the two most famous times were during the last Great Chaos
+Incursion, when a Witch Hunter army was lead by Magnus
+the Pious; and during the Wars of the Vampire Counts, when
+the whole Empire united to defend itself against the armies of
+Vlad and Mannfred Von Carstein. At times like these, Witch
+Hunters stir up support from the mobs, and priests take up
+the hammer, leading their congregation to defend the lands.
+Flagellants seem drawn to these gatherings like flies, preaching
+damnation and hellfire almost as loudly as the Witch Hunters
+themselves.
+
+Of course, it does not take a desperate situation such as a Chaos
+incursion to cause this. Quite often, a Witch Hunter will find
+need to gather a force to eradicate a tribe of beastmen in a
+surrounding forest, or cast out a Necrarch from a dark tower
+in the mountains. If the local noble has not the time, or more
+likely the inclination, it calls to a Witch Hunter to deal with
+it. He may have some aid in the form of the town watch or
+soldiers of the merchants guild, or even a detachment of one of
+the Knightly Orders, but often this is not the case.
+A Witch Hunter’s army is a rag-tag sight. The black garbed
+Zealots of the Witch Hunters’ guild stand shoulder-to-
+shoulder with peasants and hastily gathered watchmen. Packs
+of Warhounds, equally trained to seek out the scent of the
+Undead or a heretic, follow baying and howling. Occasionally
+a regiment of Knights marches ahead, their bright armour
+contrasts to the rags of the army’s bulk. Priests continue their
+sermons on the battlefield, encouraging their followers to acts
+of insane bravery, while frothing Flagellants whip themselves
+for the sins they may have committed.
+
+image::witch-hunters/witch-hunters.webp[]
+
+== Witch Hunter army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$witch-hunters.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+// Add the, the
+Some unit’s abilities from Witch Hunter army will affect ‘Chaos
+and/or Undead’. ‘Chaos’ means the Chaos army, Daemons army,
+Beastmen army, Chaos Dwarf army and Skaven army. ‘Undead’
+means the Tomb Kings army and Vampire Counts army
+(including units of Ghouls!).
+
+=== Special rules
+
+////
+2: + moved
+3: they'll → Flagellants
+////
+{empty}1. Zealots:: Zealots form the main part of a Witch Hunter army,
+and are drawn from mobs whipped up by priest’s sermons.
+These troops gain +1 Attack in the first round of combat
+against Undead or Chaos (regardless of who charged) and will
+always use their initiative to charge these enemies if possible. If
+victorious in combat with Undead or Chaos like enemies they
+must pursue or advance where possible.
+
+2. Handgunners:: Count enemy Armour values as one worse
+than normal when shot by a handgun. So an armour value of 3+
+counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an Armour value of
+6+ can‘t save against a handgun.
+
+3. Flagellants:: So keen are they to meet their maker that a unit
+of Flagellants will always use its initiative to charge an enemy
+if possible and can‘t be given orders instead. Flagellants never use
+their initiative to evade. They can‘t be driven back by shooting
+and do not roll for drive backs. If victorious in combat they must
+pursue or advance where possible. Flagellants are unaffected
+by enemies that cause terror in combat, so they do not suffer
+the usual -1 Attack modifier.
+
+4. Warhounds:: Warhound stands are not deployed as
+independent units. Instead, any infantry unit may add one
+stand of Warhounds. This brings the size of the unit to 4 stands;
+3 regular stands plus the Warhound stand. Warhounds always
+have the same Armour value as the rest of their unit. They fight
+as part of their unit and can be removed as a unit casualty if the
+player wishes.
++
+Warhound casualties never count for Command penalties.
++
+Warhound stands never cause the parent unit to be in Irregular
+Formation no matter how they are placed. An Infantry unit
+containing a Warhound stand gains the ability to pursue
+Cavalry and Chariots.
+
+5. Pistoliers:: Pistoliers have a shooting range of only 15cm and
+360° vision - stands in this unit can draw line of sight from
+all edges for the purpose of evading and shooting, including
+shooting at charging enemies. Note that this unit still needs
+Line of Sight from it‘s front edge to charge an enemy.
+
+6. Cannons:: See the rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons]
+in the Warmaster Rulebook.
+
+image::witch-hunters/pistoliers.webp[]
+
+=== Witch Hunter spells
+
+==== Sanctuary
+
+[.cost]#5+ to cast# [.points]#Range N/A#
+
+_The Warrior Priest consecrates the ground before the troops,
+warding off evil._
+
+The Wizard must be with the unit to affect it. The unit counts
+as being defended, even if in the open. If the unit is already
+defended, it counts as fortified. Note that this also affects
+Cavalry units, even though they are not normally able to receive
+this bonus. The effect lasts until the unit moves or Priest leaves
+it or he casts another spell.
+
+==== Doctrine of Sigmar
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_Through the rousting speech of Sigmar’s chosen, troops are
+directed across the field of battle._
+
+The spell can be cast on any unengaged friendly unit within
+range regardless of whether the Priest can see it or not. The
+spell affects only a single unit, never a brigade and there is no
+supporting charge possible.
+
+The unit can be moved just as if it had received an order in the
+Command phase. Character stands that have joined the unit
+will not move with it: they remain where they are.
+
+==== Holy Fervour
+
+[.cost]#4+ to cast# [.points]#Range N/A#
+
+_Enraged by their blasphemous enemies the troops rush forward
+thirsty for blood._
+
+The Wizard must be with the unit to affect it. If successfully
+cast on a friendly unit, each stand including character stands
+gains +1 Attack during the following Combat phase.
+
+==== Divine Curse
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_Speaking the words of Magnus the Pious himself, the Warrior
+Priest smites his foes._
+
+This spell can be cast on any enemy unit within range regardless
+of whether the Priest can see it or not. The spell lasts until the
+end of the opposing player‘s following turn.
+
+The unit moves at half pace in all situations: even when charging
+for example. The unit counts all enemies as terrifying (-1 Attack
+penalty) even when it is otherwise immune to terror. If the unit
+would normally cause terror then it ceases to do so and counts
+all enemies as terrifying just like everyone else. However,
+if the target is Undead or Daemon it will not count enemies
+as terrifying although all other penalties apply as described
+(Undead and Daemons are hard to spook).
+
+image::witch-hunters/witch-hunters-battle.jpg[]

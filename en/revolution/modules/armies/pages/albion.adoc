@@ -1,0 +1,203 @@
+= Albion
+:page-role: -toc
+
+// Aeon is the British spelling
+image:albion/logo.webp[width=118,height=117,float="right"]
+Aeons ago, the Isle of Albion was the site of a sprawling
+techo-arcane complex created by an unspeakably ancient
+spacefaring race called the Slann. Their carefully aligned stone
+circles and thousands of miles of impressively taut laylines once
+served to harness the mysterious psychomagical power of the
+warp. This power was used to control the gigantic interspatial
+portals through which Slann craft traversed the galaxy. At some
+time there was an unfortunate accident; the portals became
+unstable, opening a rift into the void and creating the zone
+of contamination and temporal instability that is now known
+as the Chaos Wastes. In order to stop their damaged portals
+running out of control and engulfing the entire world, the
+Slann destroyed or disabled their control complex on Albion.
+A vast quantity of dangerous psycho-active energy was released
+as a result.
+
+// Removed "the isle of"
+This catastrophe turned Albion into a warped
+land that was ever afterwards shrouded by chilling mists
+and ceaseless drizzle. The explosive release of warp energy
+had the effect of distorting local time and space in surprising
+ways. As a result, the island proved almost impossible to find
+afterwards and many Old Worlders came to doubt its very
+existence. Isolated from the world and from reality, the island’s
+inhabitants degenerated physically and culturally, coming
+to live an ape-like existence alongside the other malformed
+monsters of their devastated land.
+
+// Moved "centre of the"
+Despite this, they still retain some vestigial memory of a time
+of greatness when their ancestors helped build the
+stone circles and other wonders that once formed the nerve
+centre of the
+Slanns’ techo-arcane warp mechanism.
+
+// mist-wreathed, remove "of Albion", extra .
+The mist-wreathed isle has seen as much bloodshed
+and warfare as the rest of the known world. Albion is seen as
+a damp, bog-ridden backwater and reports of recent incursions
+have concentrated on the clashes between the supposedly
+more advanced invaders. However, a closer examination of the
+campaigns in Albion show that its native armies are every bit
+as lethal as those of any of the more so called ‘civilised’ nations.
+
+The core of any Albion army comprises nobles in chariots and
+warbands of warriors on foot, screened by youths armed with
+slings and javelins led by the local chieftain. Poorer nobles and
+richer warriors are mounted on hardy native ponies and form
+the cavalry used to both scout and to support the noble chariot
+warriors.
+
+Albion is famed for the great wolfhounds the natives breed.
+They are exported widely, but most especially to Bretonnia and
+the Empire where their size, strength and ferocity are much
+prized by noble huntsmen. In times of war these wolfhounds are
+gathered into huge slavering packs and are used to supplement
+the cavalry, screening attacks and harassing vulnerable enemy
+flanks.
+
+In time of war some Chieftains can also call on the giant eagles
+whose eyries dot the highest peaks of the land. Few of Albion’s
+chieftains will pass up the chance to recruit some of their
+island’s largest inhabitants – the famed giants of Albion. Just
+like those giants that accompany Orc armies, these massive
+warriors make up for in brawn what they lack in brains!
+
+Not quite so strong, but then again not quite so dim, are the
+bands of ogres which flock to join the armies of Albion – for a
+share of the loot and the chance to turn a former enemy into a
+quick snack! In addition to the warrior chieftains who lead the
+armies, there are heroic warriors who help to marshal the army
+and the enigmatic druids who are not only the army’s wizards
+but also its law makers, judges and soothsayers.
+
+image::albion/albion.webp[]
+
+== Albion army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$albion.tsv[]
+|===
+
+== Special rules
+
+////
+4: Minor rewording.
+6: cannot.  Reworded to favour singular as it's an individual monster
+6: Unclear, that specific druid or all druids?  Changed to "that Druid" as I think that's the intention
+////
+{empty}1. Ogres:: If an Ogre unit can use its initiative to charge an enemy
+unit of humans at the start of the Command phase then it must
+do so. This happens automatically and their commander can
+do nothing about it. ‘Humans‘ encompasses all ‘men‘ including
+Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
+
+2. Giant::
+include::partial$giant.adoc[]
+
+3. Giant Eagle:: Giant Eagles can fly.
+
+4. Giant Eagle Mount:: Giant Eagles can be ridden only by Druids
+An Eagle can fly, increasing its rider’s move from 60 to
+100cm, and it adds +2 Attacks to those of its rider.
+
+5. Chariot Mount:: Generals, Druids and Heroes can ride
+Chariots. An extra +1 Attack is added to those of its rider.
+
+6. Fenbeast:: A Fenbeast is an individual troop unit, but it is not
+fielded in the standard way. Fenbeasts
+appear on the battlefield only after a Druid casts the Summon
+Fenbeast spell.
++
+A Fenbeast cannot be brigaded with other troop units, not even
+other Fenbeasts. Fenbeasts never use their initiative to move in
+the Command phase. Because they are completely dominated
+by the will of the Druid who summoned them, that Druid
+counts as having a Command value of +1 when commanding
+the Fenbeast – that is 8 rather than 7.
++
+Fenbeast can move through
+bogs as though they were open terrain. Unlike the wild Bog
+Beasts from the ‘Dark Shadows’ campaign, Fenbeast will make
+way for friendly troops.
++
+A Fenbeast causes terror in its enemies.
+
+image::albion/general.webp[]
+
+=== Albion spells
+
+==== Downpour
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The Druid brings down a localised shower of fine, freezing rain
+upon his foes._
+
+Until the start of the Druid player’s next turn all enemy units
+within 30cms of the casting Druid suffer -1 to their command.
+
+==== Storm of Hail
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Druid harnesses the power of the weather to attack his
+enemies with enormous hailstones._
+
+The Druid targets a single enemy unit within range and that he
+can see. This has the effect of three shooting attacks except that
+it ignores any armour save the target may have. The target unit
+may be driven back in the same way as for shooting.
+
+==== Mists of Albion
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Druid breathes out some of the mystical mist that surrounds
+his enigmatic homeland and envelopes his compatriots, making
+them hard to target by enemy troops._
+
+This spell may be cast upon a single unengaged friendly
+Infantry unit within range, regardless of whether the caster
+can see them or not. The spell lasts until the start of the caster‘s
+next turn, or until the target unit moves in any way. The target
+Infantry unit counts as Defended, even if in the open terrain.
+
+==== Summon Fenbeast
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_The Druid performs one of the most arcane rituals known to
+his order, using his power over the elements to bind together
+the horrific creature known as the Fenbeast._
+
+The Druid summons forth a Fenbeast. Once summoned, the
+Fenbeast is under the control of the summoning player.
+
+Since it is summoned in the Shooting phase it cannot be given
+orders until the following turn. It may be summoned into contact
+with an enemy unit only if that unit is already in combat. It may
+be removed from play if destroyed (like any other unit) or if the
+loss of a Druid character reduces the number of Druids to less
+than the number of Fenbeasts – the owning player chooses a
+Fenbeast and removes it from play.
+
+// Summoned
+Summoned Fenbeast units
+do not influence army withdrawal calculations in any way
+and do not have a points value.
+
+// Paragraphs added.
+Fenbeasts may only be given
+orders by Druids. Fenbeasts may not be brigaded with other
+troops, not even other Fenbeasts. An army cannot have more
+summoned Fenbeasts in play than it has Druids.
+
+image::albion/druid.webp[]

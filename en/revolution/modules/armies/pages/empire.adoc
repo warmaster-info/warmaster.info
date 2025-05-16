@@ -122,20 +122,20 @@ ignored. When shooting with a Helblaster roll to hit as normal
 but if any 1s are rolled count them up and resolve the effect
 before counting.
 +
-[cols="1,6",frame=none,grid=none]
+[cols="^1,6",frame=none,grid=none]
 |===
 |№ of 1s |Result
 
-|1, 2
-|Fizzle. Despite scary noises the weapon is still
+h|1, 2
+|*Fizzle.* Despite scary noises the weapon is still
 functional. Work out the attacks as usual.
 
-|3
-|Misfire. The gun fails to go off - no shots at all hit this
+h|3
+|*Misfire.* The gun fails to go off - no shots at all hit this
 turn. Disregard all hits this turn.
 
-|4
-|Ka-boom! The weapon explodes destroying itself and
+h|4
+|*Ka-boom!* The weapon explodes destroying itself and
 mortally surprising its crew. The Helblaster stand is
 removed as a casualty. No hits are struck against the
 enemy unless the exploding Helblaster is shooting at
@@ -174,26 +174,26 @@ and wizards. Roll on the following Malfunction chart. Note
 that although a General cannot blunder he must still roll for
 malfunctions.
 +
-[cols="1,6",frame=none,grid=none]
+[cols="^1,6",frame=none,grid=none]
 |===
-|1
+h|1
 |*Destroyed.* The Steam Tank grinds to a halt rupturing
 steam and noxious gasses. Remove the Steam Tank as
 a casualty.
 
-|2
+h|2
 |*Broken Down.* The Steam Tank‘s drive has broken. It
 does not move further this turn and cannot move in
 future turns. Should it be obliged to move for any
 reason it is destroyed. Otherwise, the Steam Tank can
 continue to shoot and fight as normal.
 
-|3
+h|3
 |*Stuck.* The Steam tank does not move further this
 turn. It cannot shoot this turn. Otherwise it is
 unaffected and can move in future turns as normal.
 
-|4
+h|4
 |*Commander Slain.* The Steam Tank does not move
 further this turn. It can move in future turns but
 suffers a command penalty of -1 for the remainder of

@@ -1,0 +1,16 @@
+Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
+Goblins	Infantry	2/1	3	-	-	3	30	4/-	*1
+Squig Herd	Infantry	3	3	-	-	3	30	-/-	-
+Trolls	Infantry	5	3	5+	-	3	110	-/4	*2
+Wolf Riders	Cavalry	2/1	3	6+	-	3	60	2/-	*3
+Wolf Chariots	Chariot	3	3	6+	-	3	80	-/4	-
+Pump Wagon	Chariot	D6	3	5+	-	1	50	-/2	*4
+Giant	Monster	8	8	5+	-	1	135	-/1	*5
+Doom Diver	Artillery	1/3	2	-	-	2	80	-/1	*6
+Spear Chukka	Artillery	1/2 per stand	2	-	-	2	65	-/2	*7
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
+Goblin Warboss	General	+1	-	-	8	1	80	1	-
+Goblin Hero	Hero	+1	-	-	7	1	45	-/4	-
+Goblin Shaman	Wizard	+0	-	-	6	1	30	-/2	-
+Wolf Chariot	Chariot Mount	+1	-	-	-	-	+10	-/1	-
+Wyvern	Monstrous Mount	+2	-	-	-	-	+80	-/1	*8

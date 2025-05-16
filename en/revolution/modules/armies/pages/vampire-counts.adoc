@@ -1,0 +1,217 @@
+= Vampire Counts
+:page-role: -toc
+
+image:vampire-counts/logo.webp[width=116,height=84,float="right"]
+Upon the eastern marches of the Empire lies the blighted
+land of Sylvania. It is a region dominated by dark forests
+and bleak mountains. For the most part its inhabitants are
+poor, for the soil is thin and unprofitable to work, whilst the
+mountains are devoid of the mineral wealth found in abundance
+to the south and north. Moreover the land has an unfortunate
+reputation. Its forests are said to be haunted and the ground
+itself is thought to carry the contagion of Chaos so that even the
+dead that are buried in it do not rest easily. Those who live there
+are few in number, impoverished, malnourished, and utterly
+lacking in ambition and vigour. The ordinary folk of the land
+are broken in spirit and live in harsh servitude under callous
+and uncaring masters.
+
+Although part of the Empire from its inception, Sylvania
+developed quite separately during the long period of anarchy
+known as the Age of Three Emperor‘s when all centralised
+government broke down. In these years a new power arose in
+Sylvania taking the form of the Counts Carstein. The Carsteins
+quickly gained a reputation for cruelty that surpassed anything
+that had ever happened before in the Empire. Throughout the
+adjoining lands, stories were whispered of ghastly tortures and
+wanton cruelty, of necromancy and dark magic, and of the
+haunting of the land by restless spirits. People feared to walk
+abroad after nightfall for strange creatures stalked the night -
+creatures that feasted on the blood and flesh of men.
+
+The true nature of the Carsteins emerged during the years that
+followed the coming of the comet and destruction of the city of
+Mordheim. It was a time of great contagion when the power
+of magic waxed strongly throughout the Empire. Harnessing
+much of that magic the great Vlad Von Carstein raised an army
+of dead from the poisoned soil and made his bid for the throne
+of the Empire.
+
+Thus began the Wars of the Vampire Counts in which the dead
+sought to overthrow the living and the Carsteins sought to rule
+the whole of the Empire. Had they succeeded the Empire would
+have become a dead land where the living would exist only as
+cattle to feed a Vampiric nobility. Vlad almost did succeed but
+was slain as his undead hordes besieged Altdorf.
+
+Vlad‘s successors were to continue the war at first led by
+the insane Konrad Von Carstein and then by Mannfred Von
+Carstein. The armies of the dead ranged over the lands of the
+Empire until Mannfred was eventually driven back to Sylvania
+and defeated at the battle of Hel Fenn. After that battle
+Mannfred disappeared, presumed destroyed, but his body was
+never found and rumours of his return haunt the Empire to this
+day. Following this defeat Sylvania was scoured by the priests
+of Sigmar and many vampires were hunted out and destroyed.
+Syvlania itself was claimed by the Count of Stirland and now
+forms part of that province.
+
+It remains a land of dread where the downtrodden peasantry
+still live in terror of the night and the things that walk beneath
+the moon.
+
+image::vampire-counts/vampire-counts.webp[]
+
+== Vampire Counts army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$vampire-counts.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+The following rules for Undead apply to all units except for
+Ghouls. Ghouls are considered to be ordinary mortal troops
+and the following rules do not apply to them.
+
+Undead:: Undead units never act on initiative. An Undead unit
+only moves in the Command phase if given orders (aside from
+Fell Bats which can ‘homeback‘ as noted below). Including an
+Undead unit cannot make a supporting charge to support an
+unit of Ghouls charging on initiative.
++
+Undead units are unaffected by the -1 Command penalty for
+enemy within 20cm.
++
+Undead units are unaffected by the -1 Combat penalty for
+fighting terrifying troops.
++
+Undead units are unaffected by the Confusion rule - they
+cannot become confused for any reason.
+
+=== Special rules
+
+{empty}1. Ethereal Host:: Ethereal Host Attacks always inflict a hit on
+a score of 4+ regardless of whether the enemy is in the open,
+defended, or fortified. Enemy otherwise count as in the open,
+defended, or fortified in all respects (i.e. charge bonuses count
+or don‘t count depending on status). Ethereal hosts cannot be
+driven back by shooting and do not roll for drive backs. They
+cause terror as described in the Warmaster rulebook. Ethereal
+Hosts cannot have magic items.
+
+2. Dire Wolves:: If the unit charges against an enemy in the open
+it receives an additional +1 Attack modifier in the same way as
+chariots and monsters. Dire Wolves cannot have magic items.
+
+3. Fell Bats:: Fell Bats can fly. Although they cannot use initiative
+they are allowed to home back as described in the Warmaster
+rulebook. No order is required to home back. Fell Bats are an
+exception to the normal rules for basing monsters, in that they
+are based along the long base edge in the same way as infantry,
+rather than the short edge like other monsters.
+
+4. Vampire Lords:: These are powerful sorcerers as well as the
+army‘s general. They can cast spells in the same way as a wizard
+and can be given a magic item restricted to either a General or
+a Wizard. Note that the Vampire Lord is still a General and his
+command range extends over the whole battlefield as for other
+Generals.
+
+5. Winged Nightmare:: Any character can ride a Winged
+Nightmare. A winged Nightmare can fly increasing its rider‘s
+move to 100cm and adding +2 to its rider‘s attacks. A unit joined
+by a character riding a Nightmare causes terror in its enemies.
+
+6. Black Coach:: A Vampire Lord or Vampire can be mounted
+within a Black Coach adding +1 to its occupant‘s attacks. A unit
+joined by a character riding in the Black Coach causes terror in
+its enemies.
+
+image::vampire-counts/nightmare.webp[]
+
+=== Vampire Counts spells
+
+==== Raise Dead
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_At the Wizard‘s beckoning the mangled corpses that litter the
+battleground rise from the dead to continue the slaughter._
+
+This spell can be cast upon a combat engagement taking place
+within 30cm of the Wizard. The spell can be cast regardless
+of whether the Wizard can see any units in the combat
+engagement or not. A single combat engagement can only be
+affected once by this spell in any turn regardless of how many
+units are involved in the combat. For purposes of deciding
+whether a combat is eligible as a target, combat engagements
+are as they appear when the die to cast the spell is rolled: so it
+is possible for pursuit or advances to bring two units of raised
+dead into the same engagement later on.
+
+A Skeleton unit of three stands is created. Each stand in the
+raised unit must be placed so that its front edge contacts an
+enemy stand from the targeted engagement, or that it supports
+a friendly stand from the same engagement, including raised
+stands. The placement of stands may not split up the engagement
+into multiple smaller engagements. If raised stands come into
+contact with unengaged enemy units, those units will join the
+engagement after the raised unit is placed, similar to incidental
+contact during pursuit. If it is impossible to position all stands
+in combat or support then the unit is not deployed and the spell
+fails. Raised dead do not count as charging in the first round of
+combat. Raised dead are ignored for working out break point
+and victory points at the end of the game.
+
+==== Vanhel’s Danse Macabre
+
+[.cost]#5+ to cast# [.points]#Range 40cm#
+
+_The bodies of the dead move under the powerful influence of
+necromantic magic renewing their vigour once more._
+
+This spell can be cast on any friendly unit apart from Ghouls.
+The spell can be cast on a unit within range regardless of
+whether the Wizard can see it or not. The spell affects only a
+single unit, never a brigade and there is no supporting charge
+possible.
+
+The unit can be moved just as if it had received an order in the
+Command phase. Character stands that have joined the unit
+will not move with it: they remain where they are.
+
+==== Death Bolt
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A fearsome bolt of sorcerous lightning flies from the Wizard‘s
+outstretched finger tips and strikes an enemy unit._
+
+The Necromancer must be able to see his target to cast this
+spell and it cannot be directed against a unit in combat. The
+Deathbolt is treated like three ordinary shooting attacks
+except that armour has no effect (all targets count as having
+no armour). A unit can be driven back by Deathbolt as with
+ordinary shooting.
+
+==== Curse of Years
+
+[.cost]#6+ to cast# [.points]#Range N/A#
+
+_The Wizard‘s enemies crumble to dust as he smites them with
+the corrupting Curse of Years._
+
+The Wizard can cast this spell if he has joined a unit in combat.
+The spell can be cast on any single enemy unit that is touching
+the unit the Wizard has joined.
+
+The target unit takes six attacks worked out in the usual way.
+Any hits scored are carried over into the first round of combat
+and count as having been struck in the first round for purposes
+of working out combat results.
+
+image::vampire-counts/skeletons.webp[]

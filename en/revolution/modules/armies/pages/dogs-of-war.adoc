@@ -1,0 +1,259 @@
+= Dogs of War
+:page-role: -toc
+
+image:dogs-of-war/logo.webp[width=84,height=102,float="right"]
+Unlike other Warmaster armies, the Dogs of War do not
+come from a particular place, nor do they comprise
+a particular race, although men do feature very strongly
+amongst their number. They are bands of warriors who live
+by fighting - fighting for pay, fighting for adventure and, most
+importantly of all, fighting for the chance to win fabulous
+wealth. Some are merely bandits, pirates and cut-throats of the
+most untrustworthy kind, but others are gallant Princes and
+buccaneers who lead bold warriors to adventure and conquest
+in far away lands.
+
+As already explained, not all mercenaries are human, although
+many are. Amongst the Dogs of War, freebooters from the
+frozen wastes of Norsca rub shoulders with Corsairs from Araby
+and mysterious warrior monks from the east. Mercenaries
+commonly form into itinerant bands under the leadership of
+a charismatic or especially brutal leader. The most famous of
+these bands are, more often than not, known by the name of
+their leader, such as Hagar Whitefang’s Were-Marauders,
+Khalag’s Sure Shots, and the renowned Golgfag’s Ogres. An
+entire army of Dogs of War is made up of many of these bands
+under the overall leadership of a roguish mercenary general.
+
+Mercenary armies of Dogs of War fight all over the world.
+They are drawn to places where fortunes can be won by
+ruthless adventurers. The treasure-houses of the Lizardmen
+in Lustria are a major prize and have attracted many a would-
+be conqueror, such as the crazed Piaza Pizzaro and the near-
+legendary Sven Hasselfriesian. Further east the mysterious
+Dragon Isles and the shadowy lands of Cathay have tempted
+soldiers of fortune such as Count Egmund Baernhof and the
+infamous Thorson Grint. South to the Southlands and the
+legendary treasures of Karak Zorn, eastwards to Cathay, and
+west to the treasure-houses of Lustria, the world is truly awash
+with rag-tag armies of sell-swords who nurture wishful dreams
+of empire!
+
+Although Dogs of War ply their bloody trade to every point
+of the compass, the most notorious breeding-ground of
+mercenaries is the land of Tilea in the Old World. From all the
+kingdoms of the Old World and many lands beyond, sell-swords
+come to Tilea where they can be assured of ready and profitable
+employment. The reasons for this are quite obvious. Tilea is an
+anarchic and largely ungovernable country, where selfserving
+individuals rule precariously over proudly independent cities.
+The real power lies with wealthy Merchant Princes who plot
+and scheme against the tax-gathering authorities and each other
+with almost equal enthusiasm. Indeed, such is the tradition in
+Tilea that all armies of any size are mercenary armies - paid for
+and deployed by a wealthy Prince, a devious merchant or some
+ambitious tyrant.
+
+Tilea is also a melting-pot to which all kinds of mercenaries
+come with the notion of joining whatever overseas adventure
+is flavour of the month. Such ventures are sometimes funded
+by wealthy merchants keen to open up new trade routes east
+and south, but often the whole thing is down to some crazed
+adventurer with a theory that the world is round, cubed, the
+shape of a very tall floppy hat, or some other such nonsense.
+No matter what the motivation, bold armies of Dogs of War
+depart every few weeks from the ports of Tilea and sail off into
+the sunset. On the whole they are never heard of again, but
+just occasionally a ship sails back stuffed to the gunnels with
+treasure, bearing a few jewel-encrusted survivors back to a new
+life of ease and luxury.
+
+image::dogs-of-war/dogs-of-war.webp[]
+
+== Dogs of War army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$dogs-of-war.tsv[]
+|===
+
+== Special rules
+
+////
+1: Minor rewording of description, reworded diagram description
+2: Spelling handgun, more easily.
+4: its
+5: Minor rewording
+6: Paragraph break moved
+9: adding
+////
+{empty}1. Pikemen:: The pike is the traditional weapon of the
+mercenaries of Tilea. Twice as long as a spear and even longer
+than a cavalryman’s lance this is a truly fearsome although
+rather unwieldy weapon. Due to this Pikemen never benefit
+from defended or fortified status when in dense terrain (even
+partially) or on fortress walls etc. They still count as defended
+on higher ground or behind low obstacles as usual.
+Pikemen count as defended against cavalry or chariots charging
+to their front, except when the Pikemen are in dense terrain.
+This bonus only applies in the first combat round
+of an engagement.
++
+Pikemen stands may only give or
+receive support by other infantry or Pikemen stands that are
+facing the same direction and touching their flank with the whole
+of their own flank. Any support behind or in front of Pikemen
+stand is not allowed. In all other respects they count as infantry
+(movement/pursuit etc.).
++
+Pikemen are based as cavalry - i.e. the models are orientated towards the
+narrow edge of the base.
++
+image::dogs-of-war/pikemen-support.svg[]
+
+2. Handgunners:: A handgun shot can pierce armour far
+more easily than an arrow or a crossbow bolt. Therefore, count
+enemy Armour values as one worse (-1) than normal. One
+unit of Crossbowmen per full 1000 points can be replaced by
+Handgunners (including the 10 points extra in price) while still
+counting for the Crossbowmen min/max value. Note that this
+unit still counts for min/max value of Handgunners.
+
+3. Ogres:: Ogres flock to Dogs of War armies for the chance of
+a good fight and as much as they can eat. These creatures are
+notoriously fond of fresh human meat, although they will eat
+practically anything that was once alive (or still is). To represent
+this an Ogre unit must use its initiative to charge an enemy unit
+of humans (humans: men, not dwarfs, elves etc.) if it is within
+20cm at the start of the Command phase and the Ogres can
+reach it.
+
+4. Light Cavalry:: Dogs of War armies make great use of expert
+light cavalry from all around the world. Empire Pistoliers,
+Arabian Desert Riders, Hobgoblin Wolf Riders and Kislev
+Horse Archers are particularly adept at outmanoeuvring an
+enemy and harrying his flanks. Light cavalry have a shooting
+range of 15cm and 360° vision - stands in this unit can draw line
+of sight from all edges for the purpose of evading and shooting,
+including shooting at charging enemies. Note that this unit still
+needs Line of Sight from its front edge to charge an enemy.
+
+5. Galloper Guns:: These are lighter artillery than Dwarf or
+Empire cannons; due to this they are shorter ranged, but can
+make up for their lighter shot by producing a higher volume
+of fire. Galloper Guns move 20cm (10cm half-pace). All the
+normal rules for artillery apply as well as the xref:rules:artillery-and-machines.adoc#cannons[cannon’s rules] for
+shooting (bounce through, no saves and reduction of cover
+values). Because they are light guns they
+have a range of only 40cm. They still may shoot at the charging
+enemy by firing ‘grapeshot’ as normal.
+
+6. Giants::
+include::partial$giant.adoc[]
+
+7. Birdmen:: Only half-mad nutters like Tileans would try to fly!
+The Birdmen wear insane contraptions of light wood covered
+in canvas that are shaped like wings and allow them to glide
+on the air currents. These ‘wings’ allow the Birdmen to fly and
+still use their crossbows as normal. Because they are awkward
+flyers, they can be pursued by any type of enemy troops.
++
+Birdmen are based facing the long edge of the base in the same
+way as other infantry.
+
+8. Paymaster, Pay Wagon:: There may only ever be one Paymaster
+in the army. Only the Paymaster may use the Wagon. If the Pay
+Wagon is used the Paymaster may bribe the units around him
+to fight harder. He may add +1 to all of his Command checks
+for a single turn only.
+
+9. Griffon:: Generals, Wizards and Heroes may ride Griffons.
+The Griffon combines the appearance of a lion and an eagle.
+These creatures are hatched from stolen eggs and hand reared
+to serve as mounts for favoured individuals. The Griffon can
+fly, increasing the rider’s movement to 100cm and it adding +2
+Attacks to those of the rider. A unit which includes a Griffon
+causes terror in its enemies.
+
+image::dogs-of-war/infantry.webp[]
+
+=== Dogs of War spells
+
+==== Ball of Flame
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A ball of flame shoots form the Wizard‘s outstretched arm
+burning all in its path._
+
+Draw an imaginary line 30cm long from the Wizard‘s stand
+in any direction you wish. The line will pass through any
+intervening units but not beyond terrain that would normally
+stop a missile shot, e.g. over the crest of a hill, more than 2cm of
+woodland, and so forth.
+
+Each unit under the line takes three shooting attacks worked
+out in the usual way. Note that this spell can easily affect
+several units and will affect all units that fall beneath the line
+(including your own). Unengaged units can be driven back
+by a Ball of Flame as with ordinary shooting (even including
+friends). Engaged units cannot be driven back by the Ball of
+Flame but carry over any hits scored into the first round of
+combat; any hits scored count as having been struck in the
+combat itself.
+
+==== Voice of Command
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Wizard‘s voice booms out across the battlefield directing
+troops above the tumult of combat with the magical Voice of
+Command._
+
+The spell can be cast on any unengaged friendly unit within
+range regardless of whether the Wizard can see it or not. The
+spell affects only a single unit, never a brigade and there is no
+supporting charge possible.
+
+The unit can be moved just as if it had received an order in the
+Command phase. Character stands that have joined the unit
+will not move with it: they remain where they are.
+
+==== Weird Enchantment
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_A weird enchantment forms around the target unit and engulfs
+it in strange lights, scary nightmares and disorientating special
+effects._
+
+This spell can be cast on any enemy unit within range regardless
+of whether the Wizard can see it or not. The spell lasts until the
+end of the opposing player‘s following turn.
+
+The unit moves at half pace in all situations: even when charging
+for example. The unit counts all enemies as terrifying (-1 Attack
+penalty) even when it is otherwise immune to terror. If the unit
+would normally cause terror then it ceases to do so and counts
+all enemies as terrifying just like everyone else. However,
+if the target is Undead or Daemon it will not count enemies
+as terrifying although all other penalties apply as described
+(Undead and Daemons are hard to spook).
+
+==== Teleport
+
+[.cost]#2+ to cast# [.points]#Range N/A#
+
+_With a swirl of his cloak, a crack of thunder and just a hint of
+maniacal laughter the Wizard vanishes to reappear anywhere
+on the battlefield._
+
+The Wizard is moved to a new position anywhere on the table.
+He can leave or join a unit if he wishes, enabling a Wizard
+to move into or out of combat for example. Once the Wizard
+has moved he can cast a second spell, but note this must be
+a different spell and not a further Teleport! Roll to cast the
+second spell as normal. A Wizard that Teleports successfully
+can therefore potentially cast two spells that turn.
+
+image::dogs-of-war/soldiers.webp[]

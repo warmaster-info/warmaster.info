@@ -1,0 +1,16 @@
+Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
+Skinks	Infantry	2/1	3	-	-	3	35	2/-	*1
+Saurus	Infantry	4	3	5+	-	3	75	2/-	*2
+Temple Guard	Infantry	4	4	5+	-	3	110	-/1	*2
+Salamanders	Infantry	2/2	3	-	-	1	25	-/2	*3
+Kroxigor	Infantry	5	3	4+	-	3	135	-/2	*2
+Cold One Riders	Cavalry	4	3	4+	-	3	140	-/2	*2
+Terradons	Monster	2/1	3	6+	-	3	85	-/1	*4
+Stegadon	Monster	10/3	10	4+	-	1	225	-/1	*5
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
+Slann Mage Palanquin	General	+2	-	-	-	1	95	1	*6
+Saurus Hero	Hero	+2	-	-	6	1	45	-/1	-
+Skink Hero	Hero	+0	-	-	8	1	70	-/3	-
+Skink Shaman	Wizard	+0	-	-	6	1	30	-/1	-
+Stegadon Mount	Monstrous Mount	+5	-	-	-	-	+90	-/1	*7
+Carnosaur	Monstrous Mount	+2	-	-	-	-	+65	-/1	*8
