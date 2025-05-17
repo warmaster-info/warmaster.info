@@ -1,17 +1,17 @@
 Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Gor	Infantry	4	3	6+	-	3	60	2/-	*1
-Ungor	Infantry	3/1	3	-	-	3	45	2/-	*1
-Bestigors	Infantry	4	3	5+	-	3	75	-/2	-
-Minotaurs	Infantry	5	4	-	-	3	80	-/2	*2
-Centigors	Cavalry	3/1	3	6+	-	3	75	-/2	*3
-Chaos Hounds	Cavalry	3	3	-	-	3	40	-/6	-
-Tuskgor Chariots	Chariot	3	3	5+	-	3	95	-/4	-
-Dragon Ogres	Monster	6	4	5+	-	3	230	-/1	*4
-Chaos Spawn	Monster	3/3	4	3+	-	1	110	-/2	*5
-Dragon Ogre Shaggoth	Monster	8	8	5+	-	1	160	-/1	*6
+Gor	Infantry	4	3	6+	–	3	60	2/–	*1
+Ungor	Infantry	3/1	3	–	–	3	45	2/–	*1
+Bestigors	Infantry	4	3	5+	–	3	75	–/2	–
+Minotaurs	Infantry	5	4	–	–	3	80	–/2	*2
+Centigors	Cavalry	3/1	3	6+	–	3	75	–/2	*3
+Chaos Hounds	Cavalry	3	3	–	–	3	40	–/6	–
+Tuskgor Chariots	Chariot	3	3	5+	–	3	95	–/4	–
+Dragon Ogres	Monster	6	4	5+	–	3	230	–/1	*4
+Chaos Spawn	Monster	3/3	4	3+	–	1	110	–/2	*5
+Dragon Ogre Shaggoth	Monster	8	8	5+	–	1	160	–/1	*6
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-Beastlord	General	+2	-	-	9	1	125	1	-
-Doombull	Hero	+2	-	-	6	1	80	0–1	*7
-Wargor	Hero	+1	-	-	8	1	80	-/1	-
-Bray Shaman	Wizard	+0	-	-	8	1	80	-/1	-
-Tuskgor Chariot	Chariot Mount	+1	-	-	-	-	+10	-/1	*8
+Beastlord	General	+2	–	–	9	1	125	1	–
+Doombull	Hero	+2	–	–	6	1	80	0–1	*7
+Wargor	Hero	+1	–	–	8	1	80	–/1	–
+Bray Shaman	Wizard	+0	–	–	8	1	80	–/1	–
+Tuskgor Chariot	Chariot Mount	+1	–	–	–	–	+10	–/1	*8

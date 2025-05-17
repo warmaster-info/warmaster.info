@@ -1,17 +1,17 @@
 Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Ashigaru	Infantry	3	3	6+	-	3	45	1/-	-
-Ashigaru Bowmen	Infantry	3/1	3	-	-	3	55	-/-	-
-Ashigaru Teppo	Infantry	3/1	3	-	-	3	65	-/-	*1
-Samurai	Infantry	4	3	5+	-	3	80	2/4	*2
-Mikata (Ronin & Monks)	Infantry	5	3	-	-	3	70	-/2	*3
-Ninja	Infantry	3/1	3	6+	-	3	60	-/2	*4
-Oni	Infantry	4	4	5+	-	3	110	-/1	*5
-Samurai Cavalry	Cavalry	4	3	5+	-	3	110	-/3	*2
-Komainu	Cavalry	2	3	-	-	3	40	-/3	*5, *6
-Tengu	Monster	2	3	5+	-	3	80	-/1	*5, *7
+Ashigaru	Infantry	3	3	6+	–	3	45	1/–	–
+Ashigaru Bowmen	Infantry	3/1	3	–	–	3	55	–/–	–
+Ashigaru Teppo	Infantry	3/1	3	–	–	3	65	–/–	*1
+Samurai	Infantry	4	3	5+	–	3	80	2/4	*2
+Mikata (Ronin & Monks)	Infantry	5	3	–	–	3	70	–/2	*3
+Ninja	Infantry	3/1	3	6+	–	3	60	–/2	*4
+Oni	Infantry	4	4	5+	–	3	110	–/1	*5
+Samurai Cavalry	Cavalry	4	3	5+	–	3	110	–/3	*2
+Komainu	Cavalry	2	3	–	–	3	40	–/3	*5, *6
+Tengu	Monster	2	3	5+	–	3	80	–/1	*5, *7
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-Shogun	General	+2	-	-	9	1	125	1	*8
-Daimyo	Hero	+1	-	-	8	1	80	-/1	-
-Shugenja	Hero	+1	-	-	8	1	90	-/1	*9
-Tatsu	Monstrous Mount	+2	-	-	-	-	+80	-/1	*10
-Shrine	Special	+0	-	-	-	-	+50	0–1	*11
+Shogun	General	+2	–	–	9	1	125	1	*8
+Daimyo	Hero	+1	–	–	8	1	80	–/1	–
+Shugenja	Hero	+1	–	–	8	1	90	–/1	*9
+Tatsu	Monstrous Mount	+2	–	–	–	–	+80	–/1	*10
+Shrine	Special	+0	–	–	–	–	+50	0–1	*11

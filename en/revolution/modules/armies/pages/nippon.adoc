@@ -103,7 +103,7 @@ image::nippon/shrine.webp[]
 // 9: dispel
 {empty}1. Ashigaru Tepo:: These units use black powder handguns.
 Their projectiles can pierce armour far easier than an arrow.
-Therefore, units hit by Ashigaru Tepo get a -1 penalty for their
+Therefore, units hit by Ashigaru Tepo get a −1 penalty for their
 armour rolls.
 
 2. Bushido:: Samurai live their lives by a strict code of honour
@@ -116,9 +116,9 @@ They will never use their initiative to evade. They can’t be driven
 back by shooting and do not roll for drive backs. If victorious in
 combat, they must pursue or advance where possible. Mikata
 are unaffected by enemies that cause terror in combat, so they
-do not suffer the usual -1 Attack modifier.
+do not suffer the usual −1 Attack modifier.
 
-4. Ninja:: Ninja have a shooting range of 15cm and 360° vision -
+4. Ninja:: Ninja have a shooting range of 15cm and 360° vision –
 stands in this unit can draw line of sight from all edges for
 the purpose of evading and shooting, including shooting at
 charging enemies. Note that this unit still needs Line of Sight
@@ -130,7 +130,7 @@ onto the battlefield once the game has begun. To infiltrate a
 unit, the Nippon player nominates the point where he wants
 the Ninja to appear and issues an ‘infiltration‘ order from any
 character. The character does not have to be within his normal
-command range to issue an infiltration order - the character‘s
+command range to issue an infiltration order – the character‘s
 command range is considered to extend over the entire tabletop
 when issuing an infiltration order. Treat the order as issued
 to the nominated point and apply any modifiers for distance
@@ -161,19 +161,19 @@ test. Roll a D6. If the unit has lost 2 stands deduct 1 from the roll.
 +
 [cols="^1,6",frame=none,grid=none]
 |===
-h|0-1
+h|0–1
 |One stand is destroyed – the daemons fade away and
 are absorbed back into the heaven from
 which they came. Remove one stand from play. If
 a character is with the unit and the last stand is
 removed the character is destroyed too.
 
-h|2-3
-|The unit becomes confused - if not already confused
+h|2–3
+|The unit becomes confused – if not already confused
 the stand becomes confused as it is torn between this
 world and the next.
 
-h|4-5
+h|4–5
 |No effect – unless the unit is confused in which case
 it ceases to be confused as it is favoured with the
 invigorating power of the Temple.
@@ -198,8 +198,8 @@ and Immune to Terror like other Temple Daemons.
 
 8. Shogun:: If a Nippon Hero (Daimyo or Shugenja, not the
 Shogun) rolls a double 6 when issuing orders, the player must
-roll on the Blunder table with a -1 penalty on the result. If the
-table indicates a “You must be crazy” result, the -1 Command
+roll on the Blunder table with a −1 penalty on the result. If the
+table indicates a “You must be crazy” result, the −1 Command
 penalty must be applied to a Samurai or Samurai cavalry unit if
 a unit of these troops was being ordered or was in the brigade
 being ordered. If there is more than one of these units present,
@@ -212,12 +212,12 @@ cast, the Shugenja can try to dispel it so long as the caster is
 with 50cm.
 +
 To determine if this works, roll a D6. On the score of 4, 5 or
-6 the Shugenja has succeeded and the spell doesn‘t work, it
+6 the Shugenja has succeeded and the spell doesn’t work, it
 is dispelled by the Shugenja’s defiant efforts. If he fails, then
 the Shugenja’s efforts come to nothing and the spell works as
 normal. A Shugenja can attempt to anti-magic any number of
 spells in a turn, but only one attempt can be made to anti-magic
-any individual spell - even if the army includes more than one
+any individual spell – even if the army includes more than one
 Shugenja and several are in range of the enemy wizard.
 +
 The Shugenja adds +1 to any rolls on the Daemonic Instability

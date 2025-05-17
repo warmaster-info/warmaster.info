@@ -93,10 +93,10 @@ min/max value of Squig Herds.
 2. Trolls:: When trying to issue an order to a unit of Trolls or to
 a brigade that contains a unit of Trolls, any Command penalty
 applied for distance between the character and the Troll unit
-is always doubled. So at 20cm no penalty applies, at 40cm -2,
-at 60cm -4, and so on.
+is always doubled. So at 20cm no penalty applies, at 40cm −2,
+at 60cm −4, and so on.
 +
-Trolls can regenerate wounds - in each
+Trolls can regenerate wounds – in each
 round of combat after whole stands have been removed Trolls
 automatically regenerate one outstanding hit. If no hits are left
 over after removing whole stands then regeneration has no
@@ -104,7 +104,7 @@ effect. Regenerated hits still count towards the combat result
 for the round.
 
 3. Wolf Riders:: The Wolf Riders have a shooting range of 15cm
-and 360° vision - stands in this unit can draw line of sight from
+and 360° vision – stands in this unit can draw line of sight from
 all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.

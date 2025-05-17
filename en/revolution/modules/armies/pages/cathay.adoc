@@ -94,7 +94,7 @@ chariots, cavalry, or Terracotta Warriors.
 {empty}1. Handguns:: Any or all of the army’s Crossbows units can be
 replaced by Handguns while still counting for the Crossbow
 min/max value. Their projectiles can pierce armour far easier
-than a crossbow bolt. Therefore, units hit by Handguns get a -1
+than a crossbow bolt. Therefore, units hit by Handguns get a −1
 penalty for their armour rolls.
 
 2. Terracotta Warriors:: These warriors are Undead, so cannot
@@ -105,7 +105,7 @@ They can only be ordered by Sorcerers, who gain +1 command
 when doing so.
 
 3. Hu Cavalry:: They have a shooting range of 15cm and 360°
-vision - stands in this unit can draw line of sight from all edges
+vision – stands in this unit can draw line of sight from all edges
 for the purpose of evading and shooting, including shooting at
 charging enemies. Note that this unit still needs Line of Sight
 from its front edge to charge an enemy.
@@ -113,7 +113,7 @@ from its front edge to charge an enemy.
 4. Rocket Launcher:: The Rocket Launcher is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
 Thrower] as described in the Rulebook, except it shoots
 1D6 times per phase and any hits inflicted have an armour
-save with a -1 modifier. If the roll for
+save with a −1 modifier. If the roll for
 the number of shots is 1, the Rocket Launcher has
 misfired, and you must roll another D6 against the Rocket
 Launcher Misfire Chart.
@@ -127,14 +127,14 @@ h|1
 |*KABOOM!* The Rocket Launcher explodes in
 spectacular manner.
 
-h|2-3
+h|2–3
 |*Dud.* The rocket does only one attack.
 
-h|4-5
+h|4–5
 |*Whoosh!* The rocket overshoots and does D6
 attacks on the first unit in the line of fire
 beyond the original target, regardless of range.
-If the result is 1, don‘t roll for the misfire
+If the result is 1, don’t roll for the misfire
 again. If the target is engaged in combat, the
 hits are carried over into Combat phase. If
 no target is behind the victim the rocket

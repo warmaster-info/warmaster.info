@@ -13,14 +13,14 @@ states have fought amongst themselves. Rival dynasties have
 vied for power, alliances have been made and broken, and only
 rarely has a single claimant risen to control the entire land. The
 Empire of today is almost wholly united under the Prince of
-Altdorf the Elector of the Reikland - hereditary ruler of the
+Altdorf the Elector of the Reikland – hereditary ruler of the
 western principality of the Reikland. Only the great sea-port of
 Marienburg in the Wasteland retains independence under the
 leadership of its powerful and wealthy mercantile community.
 
 The armies of The Empire are raised and controlled by its
 separate states. The Emperor‘s army is nothing more than the
-army of the Reikland - although as the Reikland is the richest
+army of the Reikland – although as the Reikland is the richest
 and most populous part of the Empire it also has by far the
 largest and best equipped army.
 
@@ -43,7 +43,7 @@ A long standing alliance between the Emperor and the Tzars
 of Kislev has occasionally taken armies far to the north to
 fight against intrusions of Chaos. Such armies do not always
 return. The chief enemies of the Empire lay within its own
-borders - for the land is sparsely settled and much of the forest
+borders – for the land is sparsely settled and much of the forest
 and mountain is little more than wilderness infested with
 greenskins and beastmen. The mountains to the south and
 east are also home to subterranean living goblins as well as to
@@ -63,13 +63,13 @@ include::partial$empire.tsv[]
 == Special rules
 
 ////
-3: - changed to :
+3: – changed to :
 ////
 
 {empty}1. Handgunners:: Count enemy Armour values as one worse
 than normal when shot by a handgun. So an Armour value of 3+
 counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an Armour value of
-6+ can‘t save against a handgun. One unit of Crossbowmen per
+6+ can’t save against a handgun. One unit of Crossbowmen per
 full 1000 points can be replaced by Handgunners (including the
 10pts extra in price) while still counting for the Crossbowmen
 min/max value. Note that this unit also counts for min/max
@@ -77,12 +77,12 @@ value of Handgunners.
 
 2. Flagellants:: So keen are they to meet their maker that a unit
 of Flagellants will always use its initiative to charge an enemy
-if possible and can‘t be given orders instead. They‘ll never use
-their initiative to evade. They can‘t be driven back by shooting
+if possible and can’t be given orders instead. They‘ll never use
+their initiative to evade. They can’t be driven back by shooting
 and do not roll for drive backs. If victorious in combat they must
 pursue or advance where possible. Flagellants are unaffected
 by enemies that cause terror in combat, so they do not suffer
-the usual -1 Attack modifier.
+the usual −1 Attack modifier.
 
 3. Skirmishers:: Skirmisher stands are not deployed as
 independent units. Instead, any infantry unit apart from
@@ -99,7 +99,7 @@ Skirmisher stands never cause the parent unit to be in Irregular
 Formation no matter how they are placed.
 
 4. Pistoliers:: Pistoliers have a shooting range of only 15cm
-however they have 360° vision - i.e. stands in this unit can
+however they have 360° vision – i.e. stands in this unit can
 draw line of sight from all edges for the purpose of evading
 and shooting, including shooting at charging enemies. Note that
 this unit still needs Line of Sight from it‘s front edge to charge
@@ -112,12 +112,12 @@ more deadly it becomes.
 +
 [cols="<,3*^",frame=none,grid=none]
 |===
-h|Range  |1-10cm |11-20cm |21-30cm
+h|Range  |1–10cm |11–20cm |21–30cm
 h|Attack |8      |4       |2
 |===
 +
 Targets struck by a Helblaster count their Armour value as one
-worse than normal - so 3+ counts as 4+, 4+ as 5+, whilst 6+ is
+worse than normal – so 3+ counts as 4+, 4+ as 5+, whilst 6+ is
 ignored. When shooting with a Helblaster roll to hit as normal
 but if any 1s are rolled count them up and resolve the effect
 before counting.
@@ -131,7 +131,7 @@ h|1, 2
 functional. Work out the attacks as usual.
 
 h|3
-|*Misfire.* The gun fails to go off - no shots at all hit this
+|*Misfire.* The gun fails to go off – no shots at all hit this
 turn. Disregard all hits this turn.
 
 h|4
@@ -148,7 +148,7 @@ Helblaster hits.
 moves up to 20cm, and must be given its own orders. The Steam
 Tank cannot be given a brigade order with other units, not even
 with other Steams Tanks. A character cannot join with a Steam
-Tank. A Steam Tank has 360° vision - i.e. it can draw line of
+Tank. A Steam Tank has 360° vision – i.e. it can draw line of
 sight from all edges of its stand for the purpose of evading and
 shooting, including shooting at charging enemies. Note that this
 unit still needs Line of Sight from it‘s front edge to charge an
@@ -158,11 +158,11 @@ closest enemy target.
 +
 Count enemy armour values as one worse than normal when
 shot by a Steam Tank. So, for example, an armour value of 3+
-counts as 4+, 5+ counts as 6+, and 6+ can‘t save against a Steam
+counts as 4+, 5+ counts as 6+, and 6+ can’t save against a Steam
 Tank. A Steam Tank can shoot at charging enemy.
 +
 Because of its exceptionally heavy armour plating, a Steam Tank
-always counts as defended - so a 5 or 6 is normally required to
+always counts as defended – so a 5 or 6 is normally required to
 inflict a hit from shooting or in combat. The Steam Tank fights
 combat like any other unit. Steam Tanks cannot be driven back
 or routed by shooting.
@@ -196,7 +196,7 @@ unaffected and can move in future turns as normal.
 h|4
 |*Commander Slain.* The Steam Tank does not move
 further this turn. It can move in future turns but
-suffers a command penalty of -1 for the remainder of
+suffers a command penalty of −1 for the remainder of
 the game. The Steam Tank can shoot as normal.
 Momentary Halt. The Steam Tank cannot move
 further this turn but is otherwise unaffected.
@@ -278,7 +278,7 @@ of whether the Wizard can see it or not. The spell lasts until the
 end of the opposing player‘s following turn.
 
 The unit moves at half pace in all situations: even when charging
-for example. The unit counts all enemies as terrifying (-1 Attack
+for example. The unit counts all enemies as terrifying (−1 Attack
 penalty) even when it is otherwise immune to terror. If the unit
 would normally cause terror then it ceases to do so and counts
 all enemies as terrifying just like everyone else. However,

@@ -37,7 +37,7 @@ and so it goes on.
 Thus are the gods of the Old World, and the bitterest agents of
 man‘s own destruction, self-created from the terror of mankind
 itself. There may be a thousand gods or a million aspects of a
-single deity - it matters little. The daemon armies of Chaos
+single deity – it matters little. The daemon armies of Chaos
 constantly reshape and reform in the face of man‘s ever shifting
 fears. Most of all men dread the elemental horrors of life, and
 these are represented by the four great gods of the Marauder
@@ -63,7 +63,7 @@ include::partial$daemons.tsv[]
 
 === Army rules
 
-Ignore Terror:: All units ignore the -1 Attack penalty in combat
+Ignore Terror:: All units ignore the −1 Attack penalty in combat
 for fighting terrifying troops – you cannot frighten them at all.
 
 Daemonic Instability:: At the start of the player’s own Command
@@ -76,19 +76,19 @@ deduct 1 from the roll.
 +
 [cols="^1,6",frame=none,grid=none]
 |===
-h|0-1
+h|0–1
 |One stand is destroyed – the daemons fade away and
 are absorbed back into the Realm of Chaos from
 which they came. Remove one stand from play. If
 a character is with the unit and the last stand is
 removed the character is destroyed too.
 
-h|2-3
-|The unit becomes confused - if not already confused
+h|2–3
+|The unit becomes confused – if not already confused
 the stand becomes confused as it is torn between this
 world and the next.
 
-h|4-5
+h|4–5
 |No effect – unless the unit is confused in which case
 it ceases to be confused as it is favoured with the
 invigorating power of Chaos.
@@ -117,7 +117,7 @@ whether the actual model has wings – aerial propulsion is
 deemed feasible by sheer effort of will.
 +
 Greater Daemons cause terror in their enemies. A Greater
-Daemon that has accumulated 4-5 hits at the end of the Shooting
+Daemon that has accumulated 4–5 hits at the end of the Shooting
 or Combat phase and is no longer engaged in combat is deemed
 to have been badly hurt. Once a Greater Daemon is badly hurt
 accumulated hits are discounted and its Hits and Attacks values

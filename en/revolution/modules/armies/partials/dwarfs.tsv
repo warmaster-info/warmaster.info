@@ -1,13 +1,13 @@
 Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Warriors	Infantry	3	4	4+	-	3	110	2/-	-
-Handgunners	Infantry	3/1	4	6+	-	3	90	-/-	*1
-Rangers	Infantry	3/1	4	5+	-	3	110	-/2	*2
-Troll Slayers	Infantry	5	4	-	-	3	80	-/2	*3
-Cannon	Artillery	1/2+bounce	2	6+	-	2	90	-/1	*4
-Flame Cannon	Artillery	1/2D6	2	6+	-	1	50	-/1	*5
-Gyrocopter	Machine	1/3	3	5+	-	1	75	-/1	*6
+Warriors	Infantry	3	4	4+	–	3	110	2/–	–
+Handgunners	Infantry	3/1	4	6+	–	3	90	–/–	*1
+Rangers	Infantry	3/1	4	5+	–	3	110	–/2	*2
+Troll Slayers	Infantry	5	4	–	–	3	80	–/2	*3
+Cannon	Artillery	1/2+bounce	2	6+	–	2	90	–/1	*4
+Flame Cannon	Artillery	1/2D6	2	6+	–	1	50	–/1	*5
+Gyrocopter	Machine	1/3	3	5+	–	1	75	–/1	*6
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-General	General	+2	-	-	10	1	155	1	-
-Hero	Hero	+1	-	-	8	1	80	-/1	-
-Runesmith	Hero	+1	-	-	8	1	90	-/1	*7
-Anvil	Special	+1	-	-	-	-	+50	0–1	*8
+General	General	+2	–	–	10	1	155	1	–
+Hero	Hero	+1	–	–	8	1	80	–/1	–
+Runesmith	Hero	+1	–	–	8	1	90	–/1	*7
+Anvil	Special	+1	–	–	–	–	+50	0–1	*8
