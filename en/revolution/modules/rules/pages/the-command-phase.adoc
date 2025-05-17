@@ -1,19 +1,41 @@
 = The Command Phase
 
-Units usually moved in the Command phase. A unit
+Units [.bo5a]#and characters are# usually moved in the Command phase. A unit
 usually requires orders before it will move but if
 the enemy is very close, a unit is able to react directly
 to its presence. Otherwise, if a unit receives no orders it
 remains where it is and awaits further instructions.
+[.bo5a]#Characters do move automatically and do so after all unit movement is complete.#
 
-The Command phase proceeds in the following sequence:
+The Command phase proceeds in the following sequence
+[.bo5a]#of sub-phases. Of these, the Home Back sub-phase only applies to
+flying units and so is not considered further in this section, see
+xref:flying-units.adoc[]#.
 
-. *Initiative Movement*
+. *<<initiative-movement>>*
 +
 Any units moving by initiative do so.
-. *Ordered Movement*
+. *[.bo5a]#xref:flying-units.adoc#home-back[Home Back]#*
++
+[.bo5a]#Flying units home back.#
+. *<<ordered-movement>>*
 +
 Orders are given to other units to move.
+. *[.bo5a]#Character Movement#*
++
+[.bo5a]#Characters are moved.#
+
+[.bo5a]#A unit cann ot move by means of initiative *and* orders in the same
+turn. If a unit moves by initiative in the Initiative sub-phase, it
+*cannot* be given orders in the Orders sub-phase.#
+
+[.bo5a]#Note that all units moving by initiative must be moved before
+any orders are issued. Once a character has issued an order, the
+Orders sub-phase has begun and no further units can move by
+initiative.#
+
+[.bo5a]#The distances moved by each type of unit vary, and are given in
+the Movement section.#
 
 == Initiative movement
 
@@ -146,12 +168,16 @@ identify what is going on and less likely that an effective
 order will be formulated or received. To represent this,
 we apply the following penalties:
 
-. If the distance between the character and the unit you
-  wish to move is more than 20cm, the character suffers a
-  Command penalty of −1 per full 20cm of distance. When
-  measuring distances between characters and units in this
-  way, measure the shortest distance between them.
-+
+// Reformatted similar to Bo5A
+
+=== [.bo5a]#Distance#
+
+If the distance between the character and the unit you
+wish to move is more than 20cm, the character suffers a
+Command penalty of −1 per full 20cm of distance. When
+measuring distances between characters and units in this
+way, measure the shortest distance between them.
+
 [cols="^,^",frame=none,grid=rows]
 |===
 |Distance to Unit |Command Penalty
@@ -163,14 +189,16 @@ we apply the following penalties:
 |per +20cm   |minus a further 1
 |===
 
-. If a unit has already been issued an order during the
-  Command phase then there is a Command penalty of
-  −1 each time the character gives it a further order. This
-  accounts for fatigue and the limits of time, so a unit
-  which has already moved several times is harder to move
-  again. This penalty is cumulative, so a unit’s second order
-  is at −1, its third order is at −2.
-+
+=== [.bo5a]#Multiple orders#
+
+If a unit has already been issued an order during the
+Command phase then there is a Command penalty of
+−1 each time the character gives it a further order. This
+accounts for fatigue and the limits of time, so a unit
+which has already moved several times is harder to move
+again. This penalty is cumulative, so a unit’s second order
+is at −1, its third order is at −2 [.bo5a]#and so on#.
+
 [cols="^,^",frame=none,grid=rows]
 |===
 |Order  |Command Penalty
@@ -178,14 +206,22 @@ we apply the following penalties:
 |First  |none
 |Second |−1
 |Third  |−2
+// Bo5A
+|[.bo5a]#Fourth# |[.bo5a]#−3#
+// Bo5A
+|[.bo5a]#Each additional#  |[.bo5a]#minus a further 1#
 |===
 
-. If the distance between the unit you wish to move
+=== [.bo5a]#Enemy close#
+
+If the distance between the unit you wish to move
 and the closest enemy unit is 20cm or less, there is a
 Command penalty of −1. Units close to the enemy are
 naturally inclined to use their initiative to react, so it is
 harder to give them a specific order.
-+
+[.bo5a]#This penalty applies even if the unit is not visible
+(after all if you can’t see it, how do you know it isn’n there?).#
+
 [cols="^,^",frame=none,grid=rows]
 |===
 |Closest Enemy  |Command Penalty
@@ -194,38 +230,61 @@ harder to give them a specific order.
 |More than 20cm |none
 |===
 
-. If the unit you want to move is in dense terrain then
-  there is a Command penalty of −1. The penalty applies if
-  at least one stand is even partially within dense terrain.
-  Typical dense terrain features are woods, in and around
-  buildings, ruins and similar. See the xref::movement.adoc#terrain[Movement section
-  for more about dense terrain] as well as xref::advanced-terrain-rules.adoc[Advanced
-  Terrain Rules] for more examples.
-+
+=== [.bo5a]#Dense terrain#
+
+If the unit you want to move is in dense terrain then
+there is a Command penalty of −1
+[.bo5a]#(Only infantry units can normally enter dense terrain as described later)#.
+The penalty applies if
+at least one stand is even partially within dense terrain.
+Typical dense terrain features are woods, in and around
+buildings, ruins and similar. See the xref::movement.adoc#terrain[Movement section
+for more about dense terrain] as well as xref::advanced-terrain-rules.adoc[Advanced
+Terrain Rules] for more examples.
+
 [cols="^,^",frame=none,grid=rows]
 |===
 |Dense Terrain  |Command Penalty
 
 |Within feature |−1
 |===
-+
-_For example, a General (Command value 9) wishes to
-order a unit of infantry to move forward. The unit is
-25cm distant (−1 distance penalty) and within a wood (−1
-dense terrain penalty). The player therefore requires a
-dice roll of 7 or less to successfully issue an order._
 
-. If the unit has lost one or more stands as casualties
-  then there is a Command penalty of −1 per stand lost.
-  Units which have suffered casualties are harder to
-  motivate than fresh units.
-+
+=== [.bo5a]#Casualties#
+
+If the unit has lost one or more stands as casualties
+then there is a Command penalty of −1 per stand lost.
+Units which have suffered casualties are harder to
+motivate than fresh units.
+
 [cols="^,^",frame=none,grid=rows]
 |===
 |Casualties  |Command Penalty
 
 |Each Stand  |−1
 |===
+
+// Example extended based on Bo5A, since it shows
+// a) two commands
+// b) a new unit isn't affected by multiple orders (starts again at 9)
+// c) failure ends
+
+_[.bo5a]#Example: The General has a Command value of 9.  He
+has already moved his cavalry forward once.  Now he
+wishes to move them again, hoping to capture a hill
+that lies on the enemy’s flank. The cavalry are 65cm away
+and have already moved once, which means a whopping
+−4 Command penalty (−3 for distance and −1 for the second
+move). The player will have to roll 5 or less to
+give the unit an order.  He knows this is unlikely but
+decides to take the risk anyway as he considers the hill
+an important objective. He rolls 2D6 and scores 4…
+success! The player moves the cavalry into their new position.#_
+
+_[.bo5a]#Next, he attempts to give orders to a unit of infantry
+10cm away# (no penalty) and within a wood (−1
+dense terrain penalty). [.bo5a]#Although he only needs 8 or less, this time he
+is unlucky and rolls a 10. The unit does not move – the
+General has failed an order so the Orders sub-phase comes to an end.#_
 
 image::the-command-phase/triskelion.png[]
 
