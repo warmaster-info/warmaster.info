@@ -41,7 +41,7 @@ You’ll find a few exceptions to these moves in the army lists later in the boo
 don’t need to worry about these oddities.
 ****
 
-image::movement/daemon.png[]
+image::movement/daemon.webp[]
 
 == Formation & Movement
 
@@ -70,9 +70,9 @@ point.
   column are said to be in a *regular* formation.
 +
 .In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement.
-image::movement/column-formation.png[]
+image::movement/column-formation.webp[]
 +
-image::movement/helm.png[]
+image::movement/helm.webp[]
 
 . Units arranged in a straight line with all their stands
   facing in the same direction and butted edge-to-edge move
@@ -80,9 +80,9 @@ image::movement/helm.png[]
   Units in a line are said to be in a *regular* formation.
 +
 .Infantry and cavalry arranged into a straight line. This is the most effective fighting formation.
-image::movement/cavalry-line-formation.png[]
+image::movement/cavalry-line-formation.webp[]
 +
-image::movement/infantry-line-formation.png[]
+image::movement/infantry-line-formation.webp[]
 
 . All units in other formations or circumstances move at
   half pace. For example, infantry are able to move up to
@@ -94,9 +94,9 @@ image::movement/infantry-line-formation.png[]
   at full pace is when it charges or evades.
 +
 .Units in irregular formations move at half pace to represent the fact that their ranks are disrupted.
-image::movement/irregular-formation-1.png[]
+image::movement/irregular-formation-1.webp[]
 +
-image::movement/irregular-formation-2.png[]
+image::movement/irregular-formation-2.webp[]
 
 . In some circumstances, units move a distance
   determined by rolling dice or by the results of combat
@@ -124,11 +124,11 @@ to move to their front – they can move backwards, to the
 side, at an angle or in any orientation or direction.
 
 .Stands in the same unit must touch but can be arranged into any formation you like.
-image::movement/infantry-line-formation.png[]
+image::movement/infantry-line-formation.webp[]
 
-image::movement/formation-touch-2.png[]
+image::movement/formation-touch-2.webp[]
 
-image::movement/formation-touch-3.png[]
+image::movement/formation-touch-3.webp[]
 
 No part of a stand can move further than its permitted
 maximum movement distance. Always measure from
@@ -177,11 +177,11 @@ xref::combat-phase.adoc#moving-chargers[Moving Chargers]).
 
 // TODO: Low-priority diagram text
 .Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile.
-image::movement/move-through-gap.png[id=move-through-gap]
+image::movement/move-through-gap.webp[id=move-through-gap]
 
 // TODO: Low-priority diagram text
 .This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through.
-image::movement/cannot-move-through-gap.png[id=cannot-move-through-gap]
+image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
 
 === Terrain
 
@@ -256,7 +256,7 @@ chapter xref::siege-and-fortresses.adoc[Siege & Fortresses]. Assaulting troops
 come prepared with scaling ladders, grappling hooks,
 siege towers and a hefty dose of grim determination.
 
-image::movement/knights.png[]
+image::movement/knights.webp[]
 
 == Moving by initative
 
@@ -323,11 +323,11 @@ description (for example, Wolf Riders in the Orc army).
 
 // TODO: Low-priority diagram text
 .Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position.
-image::movement/initiative-charge-1.png[id=initiative-charge-1]
+image::movement/initiative-charge-1.webp[id=initiative-charge-1]
 
 // TODO: Low-priority diagram text
 .Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
-image::movement/initiative-charge-2.png[id=initiative-charge-2]
+image::movement/initiative-charge-2.webp[id=initiative-charge-2]
 
 This simply means a line of sight can be drawn from any
 free edge of any stand in the unit to any stand of another
@@ -373,7 +373,7 @@ close, the evading player may choose between them. The
 resulting line indicates the exact direction in which the
 evaders move. See <<evade-direction>>.
 
-image::movement/anvil.png[]
+image::movement/anvil.webp[]
 
 Move the evading unit one stand at a time. First, move
 the evading stand that is closest to the enemy. This stand
@@ -389,7 +389,7 @@ stands as they move.
 
 // TODO: Low-priority diagram text
 .The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B.
-image::movement/evade-direction.png[id="evade-direction"]
+image::movement/evade-direction.webp[id="evade-direction"]
 
 .Optional rule
 ****
@@ -420,7 +420,7 @@ automatically *confused*! See the xref::confusion.adoc[Confusion section].
 .Evaders bursting through a friendly unit
 image::movement/evade-burst-through.svg[id=evade-burst-through]
 
-image::movement/treemen.png[]
+image::movement/treemen.webp[]
 
 === Character movement
 
@@ -453,7 +453,7 @@ characters as if they were not there.
 
 See the xref::generals-wizards-and-heroes.adoc[Generals, Wizards and Heroes section].
 
-image::movement/sun.png[]
+image::movement/sun.webp[]
 
 == Units which move off the table
 
@@ -514,4 +514,4 @@ his army withdraws. He abandons his army and heads
 for the hills and is considered to be a casualty. See the
 End of the Battle section.
 
-image::movement/griffon.png[]
+image::movement/griffon.webp[]

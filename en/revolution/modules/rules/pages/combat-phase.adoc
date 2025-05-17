@@ -69,7 +69,7 @@ considered to be fighting in the same engagement. See
 <<f-interlinked-engagement>>.
 
 .Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other.
-image::combat-phase/interlinked-engagement.png[id=f-interlinked-engagement]
+image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 
 == Moving chargers
 
@@ -95,7 +95,7 @@ obliged to charge just because the player has stated it –
 the move may prove impossible or player might simply
 change his mind for any reason.
 
-image::combat-phase/orc-boss.png[]
+image::combat-phase/orc-boss.webp[]
 
 === Enemy in sight
 
@@ -157,7 +157,7 @@ is exactly divided between two zones then roll a dice
 to decide – e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
 <<charge-move-2>>.
 
-image::combat-phase/chaos-knights.png[]
+image::combat-phase/chaos-knights.webp[]
 
 === The charge move
 
@@ -197,7 +197,7 @@ of clear base edge on the target stand to place the first
 charging stand otherwise the move is not allowed (see
 Blocked Edges).
 
-image::combat-phase/chaos-knight-hero.png[]
+image::combat-phase/chaos-knight-hero.webp[]
 
 === Forming a battle line
 
@@ -233,7 +233,7 @@ be placed so that its front corner touches an enemy if it
 can. This means that the maximum number of charging
 stands will be drawn into the combat.
 
-image::combat-phase/dwarf-warriors.png[]
+image::combat-phase/dwarf-warriors.webp[]
 
 === Contact with other enemy
 
@@ -246,7 +246,7 @@ to *maximise frontage*. However, chargers will always
 maximise frontage against the unit they *originally*
 charged where they can do so.
 
-image::combat-phase/helm.png[]
+image::combat-phase/helm.webp[]
 
 Any additional units contacted by charging stands
 count as being charged and are drawn into the combat
@@ -272,7 +272,7 @@ positioned as closely to centre-to-centre as it can go, but
 there must be at least 1 full cm of exposed stand edge to
 contact against.
 
-image::combat-phase/dwarf-hero.png[]
+image::combat-phase/dwarf-hero.webp[]
 
 If there is less than 1 cm of exposed edge then the stand
 is not an eligible target because it is ‘blocked’. See below
@@ -346,7 +346,7 @@ This is an exception to the normal rule that stands must
 charge edge-to-edge. See <<f-pinned-target>>.
 
 .{empty}
-image::combat-phase/pinned-target.png[id=f-pinned-target]
+image::combat-phase/pinned-target.webp[id=f-pinned-target]
 
 === Irregular formations
 
@@ -410,7 +410,7 @@ battle line and do not envelope.
 
 image::combat-phase/enveloping-charge.svg[id=f-enveloping-charge]
 
-image::combat-phase/battle-view.png[id=battle-view]
+image::combat-phase/battle-view.webp[id=battle-view]
 
 == Attacks
 
@@ -458,7 +458,7 @@ player must declare where all of the unit’s stands are
 attacking before rolling dice – this prevents combats
 becoming bogged down into stand-by-stand dice rolls.
 
-image::combat-phase/dwarf-slayer-hero.png[]
+image::combat-phase/dwarf-slayer-hero.webp[]
 
 Stands strike against enemy units as dictated by the
 following list of priorities:
@@ -482,7 +482,7 @@ following list of priorities:
   attacks are not allowed where there is
   edge contact.
 
-image::combat-phase/dark-elves.png[]
+image::combat-phase/dark-elves.webp[]
 
 == Attack modifiers
 
@@ -537,7 +537,7 @@ which are terrifying themselves... you can’t terrify a
 terrifying creature! Creatures which terrorise their foes
 are indicated in the Army List section.
 
-image::combat-phase/harpy-hero.png[]
+image::combat-phase/harpy-hero.webp[]
 
 === Enemy facing own side or rear
 
@@ -641,7 +641,7 @@ example as a result of an advance. In such a situation, any
 hits accumulated in a previous engagement are carried
 forward into the next.
 
-image::combat-phase/wolf-rider.png[]
+image::combat-phase/wolf-rider.webp[]
 
 [#combat-results]
 .Combat results
@@ -758,7 +758,7 @@ make a supporting charge. It can do so whether the first
 unit charges on initiative or with an order, even where
 the second unit was not included in a brigade order.
 
-image::combat-phase/sword-banner.png[]
+image::combat-phase/sword-banner.webp[]
 
 Note that the second unit might have more or fewer
 stands than the charging unit, or it could have some
@@ -857,7 +857,7 @@ units will effectively move as one, although it will still be
 necessary to move the units one at a time to make sure
 that stands have a path to their final position.
 
-image::combat-phase/fan.png[]
+image::combat-phase/fan.webp[]
 
 === Blocked retreats
 
@@ -942,7 +942,7 @@ after the losing side has completed any necessary moves
 to make way and remove any stands whose retreat is
 blocked.
 
-image::combat-phase/skeleton-infantry.png[]
+image::combat-phase/skeleton-infantry.webp[]
 
 == Pursuit
 
@@ -1019,7 +1019,7 @@ towards the enemy. Towards means just that – a pursuer’s
 path cannot take it away from the enemy and then back
 again by a circuitous route.
 
-image::combat-phase/punk-orc.png[]
+image::combat-phase/punk-orc.webp[]
 
 === Basic pursuit
 
@@ -1176,7 +1176,7 @@ sight, for example. A unit that cannot pursue a retreating
 enemy must either stand or fall back. The unit is not
 allowed to advance instead.
 
-image::combat-phase/goblin-wolves.png[]
+image::combat-phase/goblin-wolves.webp[]
 
 === Pursuit and destroyed enemy
 
@@ -1255,7 +1255,7 @@ way as a charge except that no stand may move further
 than 20cm regardless of its usual move rate or formation.
 This also applies on the supporting unit.
 
-image::combat-phase/dwarf-slayers.png[]
+image::combat-phase/dwarf-slayers.webp[]
 
 Although the move is essentially the same as a charge, no
 charge bonus of any kind applies to advances: this takes
@@ -1336,7 +1336,7 @@ this will be unavoidable. Stands cannot contact enemy
 stands from units they were not touching during the
 combat round.
 
-image::combat-phase/village.png[]
+image::combat-phase/village.webp[]
 
 Stands that fall back must end their move at least
 1cm from any enemy units and from any units that
@@ -1399,7 +1399,7 @@ unresolved combat do not remove odd hits but carry
 them over into the following turn. This includes any
 units that are only supporting.
 
-image::combat-phase/cold-combat.png[]
+image::combat-phase/cold-combat.webp[]
 
 == Defended & fortified troops
 
@@ -1475,7 +1475,7 @@ it is constructed and positioned in such a way that troops
 must resort to climbing or scrambling up a steep slope in
 order to attack.
 
-image::combat-phase/medusa-demon.png[]
+image::combat-phase/medusa-demon.webp[]
 
 === Defended & fortified enemy
 

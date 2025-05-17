@@ -72,7 +72,7 @@ unless a line of sight can be drawn form a stand’s front
 edge.
 
 // Moved to end of section
-image::the-shooting-phase/empire-infantry.png[]
+image::the-shooting-phase/empire-infantry.webp[]
 
 == Range
 
@@ -126,7 +126,7 @@ stands are destroyed. The full definitions and further
 rules for troops in defended and fortified positions are
 discussed in the xref::combat-phase.adoc[Combat phase section].
 
-image::the-shooting-phase/wizard.png[]
+image::the-shooting-phase/wizard.webp[]
 
 The chart below shows the scores needed to hit.
 
@@ -145,7 +145,7 @@ The chart below shows the scores needed to hit.
 |6
 |===
 
-image::the-shooting-phase/boar-riders.png[]
+image::the-shooting-phase/boar-riders.webp[]
 
 === Armour
 
@@ -279,7 +279,7 @@ usually destroyed as a result. Large monsters with many
 hits are more likely to be destroyed in this fashion than
 infantry or cavalry units.
 
-image::the-shooting-phase/chariot.png[]
+image::the-shooting-phase/chariot.webp[]
 
 == Shooting at charging enemy
 
@@ -291,7 +291,7 @@ units charging their own unit. Remember, a unit is
 it does not matter if the unit was not the original target
 of the charge.
 
-image::the-shooting-phase/skull.png[]
+image::the-shooting-phase/skull.webp[]
 
 These shots represent the unit pelting the enemy with
 missiles as they approach, perhaps at the very last
@@ -351,7 +351,7 @@ into account by including any hits inflicted in the result
 for the first round of fighting (see xref::combat-phase.adoc#combat-results[Combat results].
 
 .The Archers shoot as the Knights charge.
-image::the-shooting-phase/shooting-at-chargers.png[id=shooting-at-chargers]
+image::the-shooting-phase/shooting-at-chargers.webp[id=shooting-at-chargers]
 
 If a missile-armed unit is charged by two or more
 enemy units, one after the other, then it can potentially
@@ -364,7 +364,7 @@ at charging enemy.
 // TODO: Low-priority diagram.
 // 2 changed to Two to avoid adjacent figure number.
 .Two hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round.
-image::the-shooting-phase/shooting-hits-carried-over.png[id=shooting-hits-carried-over]
+image::the-shooting-phase/shooting-hits-carried-over.webp[id=shooting-hits-carried-over]
 
 == Special situations
 
@@ -393,4 +393,4 @@ qualities immediately, for they are an important means
 of controlling the battlefield and frustrating your
 enemy’s plans.
 
-image::the-shooting-phase/charging.png[]
+image::the-shooting-phase/charging.webp[]

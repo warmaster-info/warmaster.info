@@ -7,7 +7,7 @@ in the warriors, monsters and weird creatures that are
 found in the game, we assign three values to each piece
 or ‘stand’. These are *Attacks*, *Hits* and *Armour*.
 
-image::game-values/attacks-hits-armour.png[]
+image::game-values/attacks-hits-armour.webp[]
 
 [cols="3*^",frame=none,grid=cols]
 |===
@@ -72,7 +72,7 @@ value is that used for shooting.
 
 include::partial$attack-values.adoc[]
 
-image::game-values/boar-riders.png[]
+image::game-values/boar-riders.webp[]
 
 == Command
 
@@ -129,11 +129,11 @@ them. Later you’ll see that this is what makes each army
 a different and challenging force to command.
 
 ****
-image::game-values/infantry.png[]
+image::game-values/infantry.webp[]
 
-image::game-values/cavalry-1.png[]
+image::game-values/cavalry-1.webp[]
 
-image::game-values/cavalry-2.png[]
+image::game-values/cavalry-2.webp[]
 
 Troops are arranged into units consisting of a number of
 ‘stands’ – usually three but sometimes two or even just
@@ -148,4 +148,4 @@ as demonstrated by the units shown to the right. Any
 exceptions are indicated in the Army Lists section.
 ****
 
-image::game-values/goblins-advance.png[]
+image::game-values/goblins-advance.webp[]
