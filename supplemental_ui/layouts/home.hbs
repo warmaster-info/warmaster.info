@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+{{> head defaultPageTitle='Untitled'}}
+    <style type="text/css">
+      .doc {
+        margin: 0rem auto;
+        max-width: 100rem;
+      }
+      @media screen and (min-width: 1024px) {
+        .doc {
+          max-width: 100rem;
+        }
+      }
+
+      /*.doc h2:not(.discrete), .doc h3:not(.discrete) {
+        border-bottom: none;
+      }*/
+
+      /* Blocks/tiles in a 3-wide grid. */
+      .blocks ul, .blocks li, .blocks p {
+        display: block;
+        padding: 0;
+        margin: 0;
+      }
+      .blocks > ul {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+        justify-content: space-between;
+        gap: 1rem 0.5rem;
+      }
+      .blocks > ul > li {
+        display: block;
+        /*border: 1px solid #f2f2f2;*/
+        /*box-shadow: 0 3px 3px #f2f2f2;*/
+        text-align: center;
+        margin-top: 0.25rem;
+      }
+      @media screen and (min-width: 768px) {
+        .blocks > ul > li {
+          flex-basis: calc(50% - 0.5rem);
+        }
+      }
+      @media screen and (min-width: 1024px) {
+        .blocks > ul > li {
+          flex-basis: calc(50% - 0.5rem);
+        }
+      }
+      .doc .blocks > ul > li .image:not(.left):not(.right) > img {
+        margin-top: 0;
+      }
+      .blocks > ul > li ul {
+        margin: 0.75rem;
+      }
+      .doc .ulist.blocks li, .doc .ulist.blocks li + li {
+        margin-top: 0;
+      }
+    </style>
+  </head>
+  <body class="article{{#with (or page.attributes.role page.role)}} {{{this}}}{{/with}}">
+{{> header}}
+    <div class="body">
+{{> main}}
+    </div>
+{{> footer}}
+  </body>
+</html>

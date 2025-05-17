@@ -5,7 +5,7 @@
       {{#if env.SITE_SEARCH_PROVIDER}}
       <div class="navbar-item search hide-for-print">
         <div id="search-field" class="field">
-          <input id="search-input" type="text" placeholder="Search the rules"{{#if page.home}} autofocus{{/if}}>
+          <input id="search-input" type="text" placeholder="Search rules and armies"{{#if page.home}} autofocus{{/if}}>
         </div>
       </div>
       {{/if}}
@@ -17,16 +17,18 @@
     </div>
     <div id="topbar-nav" class="navbar-menu">
       <div class="navbar-end">
-        {{#with (resolvePage 'home::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Home</a>{{/with}}
+        {{#with (resolvePage 'revolution:rules:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Rules</a>{{/with}}
+        {{#with (resolvePage 'revolution:armies:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Armies</a>{{/with}}
+        <!--
+        {{#with (resolvePage 'ROOT::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Home</a>{{/with}}
         <div class="navbar-item has-dropdown is-hoverable">
-          {{#with (resolvePage 'revolution::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Warmaster Revolution</a>{{/with}}
+          {{#with (resolvePage 'ROOT::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Warmaster Revolution</a>{{/with}}
           <div class="navbar-dropdown">
-            {{#with (resolvePage 'revolution::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Rules</a>{{/with}}
-            <!--a class="navbar-item" href="#">Product A</a>
-            <a class="navbar-item" href="#">Product B</a>
-            <a class="navbar-item" href="#">Product C</a-->
+            {{#with (resolvePage 'revolution:rules:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Rules</a>{{/with}}
+            {{#with (resolvePage 'revolution:armies:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Armies</a>{{/with}}
           </div>
         </div>
+        -->
         <!--div class="navbar-item">
           <span class="control">
             <a class="button is-primary" href="#">Download</a>
