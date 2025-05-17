@@ -1,0 +1,219 @@
+= Beastmen
+:page-role: -toc
+
+image:beastmen/logo.webp[width=116,height=117,float="right"]
+In the dark forests of the Old World dwell the favoured
+Children of Chaos: foul and unholy things that hate the world
+and hide from the honest light of day. They serve no mortal
+master, but belong heart and soul to the Dark Gods of Chaos.
+Men call these creatures Beastmen for they are part-human and
+part-beast, their twisted bodies a blasphemy of nature. They
+have horns upon their bestial heads, claws and cloven hooves
+adorn their limbs. Beastmen are wild and brutish creatures
+that care little for other beings and despise the race of Men
+above all else. They are cruel and brutal creatures who brawl
+and fight amongst themselves when not venting their hatred
+against mankind.
+
+Beastmen are not natural creatures; they first came into
+existence when the polar gateway of the Old Ones collapsed,
+showering the world with corrupting warpstone. It worked
+a dreadful change on many of the ancestors of Men, causing
+severe mutations, and the descendants of the foul beasts born
+from that catastrophe still plague the dark places of the world.
+
+Neither fully man nor fully animal, Beastmen willingly
+embrace their heritage of Chaos — they have the intelligence
+of a man, but employ it with the base cunning of a wild animal.
+To the people of the Empire, it is a deadly combination, for the
+Beastmen utterly despise the Humans who they can never be,
+filled with self-loathing that turns to aggressive hatred.
+
+Malformed, base and evil, the Beastmen hate all natural and
+wholesome creatures. They are wild and crude creatures of
+animal lusts and an unpredictable, violent temperament. They
+have long, ridged horns with which to gore their foes, and the
+legs of cattle and goats with which to stamp the bodies of their
+victims into the mulch. Their slavering mouths are filled with
+long, wolf-like fangs perfect for tearing flesh from bone, and
+their robust, heavily-muscled frames are perfectly suited to
+sating the murderous desires that gleam in their blood-red eyes.
+
+image::beastmen/beastmen.webp[]
+
+== Beastmen army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$beastmen.tsv[]
+|===
+
+== Special rules
+
+=== Army rules
+
+The things in the woods:: Beastmen infantry do not suffer the
+usual -1 Command penalty when within woodland.
+
+// Heading is missing in book
+=== Special rules
+
+////
+3: its
+5: if not → unless, roll, its
+////
+{empty}1. Gor/Ungor:: Up to half the Gor units (rounded down) and
+half the Ungor units (rounded down) may be designated as
+Ambushers. At the start of the game, you must inform your
+opponent how many units will Ambush. Ambushers may form
+Brigades or act as single units.
++
+Ambushers are deployed during any Command phase, not
+at the start of the game. To deploy ambushers, nominate a
+character, the ambushing units and a point in a piece of dense
+terrain or a point on any board edge except the enemy’s.
+Issue an Ambush order to the point, which can be outside
+the character’s Command range. Apply distance and enemy
+proximity penalties, but ignore dense terrain penalties.
++
+If the Ambush order is successful, place one stand from the
+unit at the point, then deploy the rest in formation around it.
+Brigade units form up within a full pace move of the first stand.
+If the nominated point is in dense terrain it must be chosen
+that every stand of every unit within the group must be at least
+partially within the terrain. No Ambusher may deploy within 1cm
+of an enemy stand.
++
+After deployment, Ambushers may receive further orders if in
+the Command range, but the Ambush order counts as their first
+order. If the Ambush order fails, Ambushers cannot deploy that
+turn but can try again later in the game.
++
+Once deployed, Ambushers operate like normal units.
++
+Ungor have a shooting range of 15 cm.
+
+2. Minotaurs:: Minotaurs are subject for Bloodlust - they always
+use initiative to charge if possible and cannot be given orders
+instead. A unit with Bloodlust never use initiative to evade and
+must pursue or advance where possible. Also, it is immune to
+terror, cannot be driven back by shooting and never rolls for
+drive backs.
+
+3. Centigors:: Centigors have a shooting range of only 15cm
+and 360° vision - stands in this unit can draw line of sight from
+all edges for the purpose of evading and shooting, including
+shooting at charging enemies. Note that this unit still needs
+Line of Sight from its front edge to charge an enemy.
+
+4. Dragon Ogres:: Dragon Ogres are immune to terror.
+
+5. Chaos Spawn:: Spawn units have -1 Command penalty unless
+part of a brigade that includes more non-Spawn units than
+Spawn units. Up to two Spawn units can be included in any
+brigade and do not count towards the maximum size of that
+brigade.
++
+Spawn units cause terror in combat - enemies suffer the -1
+Combat modifier for fighting terrifying creatures. Spawn units
+cannot be driven back by shooting and never roll for drive
+backs. Spawn units must pursue or advance if victorious in
+combat where it is permitted to do so.
++
+Spawn units have a shooting range of 15cm and 360° vision -
+the unit can draw line of sight from all edges of its stand for
+the purpose of evading and shooting, including shooting at
+charging enemies. Note that this unit still needs Line of Sight
+from its front edge to charge an enemy.
+
+6. Dragon Ogre Shaggoth:: Dragon Ogre Shaggoth must always
+be given a separate order. It cannot be brigaded with other
+troops even with other Shaggoths.
++
+Shaggoth has a great many hits, 8 in fact, which are almost
+impossible to inflict during even a fairly lengthy combat
+engagement. Because Shaggoths have so many hits we must
+consider the possibility of hurting the Dragon Ogre Shaggoth
+and reducing its effectiveness in subsequent turns. Therefore, if
+a Shaggoth has accumulated 5-7 hits by the end of the Shooting
+phase or Combat phase and is no longer engaged in combat it
+is deemed to have been badly hurt. Once a Shaggoth is badly
+hurt then all accumulated hits are discounted and its maximum
+Hits value and Attacks are halved for the rest of the battle (to
+4 Hits and 4 Attacks).
++
+A Dragon Ogre Shaggoth causes terror
+in its enemies.
+
+7. Doombull:: A unit joined by a Doombull cause terror. Also,
+Gors, Ungors and Bestigors joined by a Doombull will become
+subject to Bloodlust in the same way as Minotaur units, until
+the end of the following Beastmen Command phase.
+
+8. Tuskgor Chariot:: Beastlord or Wargors can ride a Tuskgor
+Chariot. A character riding a chariot adds +1 to his Attacks.
+
+image::beastmen/infantry.webp[]
+
+=== Beastmen spells
+
+==== Traitor Kin
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The Shaman dominates the beasts used by the enemy, turning
+them on their masters._
+
+This spell can be cast on any enemy unit of Cavalry, Chariots or
+Monsters within range regardless of whether the Shaman can
+see it or not. The spell takes effect until the end of the opposing
+player‘s next turn. Whilst the spell lasts the unit cannot use
+it‘s Initiative. Any order given to the unit, or to any brigade of
+which the unit is a part, suffers a -1 Command penalty.
+
+==== Hunting for Gore!
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Shaman’s magic power arouses in the herd an
+uncontrollable desire to tear asunder any enemy and feast on
+their bloody remains. Rows of wild warriors charge headlong
+into their foes._
+
+The spell can be cast on unengaged friendly unit within range
+regardless of whether the Shaman can see it or not. The spell
+affects only a single unit, never a brigade. The unit can be
+moved just as if it had received an order in the Command phase.
+Character stands that have joined the unit will not move with
+it - they remain where they are.
+
+==== Chaos Bolt
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The dark power of Chaos pulses through the Shaman. A foul
+incantation flows from his mouth which calls down a mighty
+lightning bolt from the heavens above that strikes the enemy._
+
+This spell can be cast on an enemy unit. The Shaman must
+be able to see his target to use this spell. The spell cannot be
+directed at a unit engaged in combat. The Chaos Bolt is treated
+like three ordinary shooting attacks except that armour has no
+effect (all targets count as having no armour). A unit can be
+driven back by a Chaos Bolt as with ordinary shooting.
+
+==== Power of Herd
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_The Beastman Herd rise on the Shaman’s command.
+Emboldened by his fervour they charge at the enemy with
+unbridled fury._
+
+This spell can be cast on all Gor, Ungor and Centigor units
+engaged in close combat and within range regardless of whether
+the Shaman can see them or not. When the spell is successfully
+cast, each affected unit receives additional +1 Attack per
+stand (including character stands) for the duration of its first
+following combat engagement. Additional Attack bonus does
+not apply when these units advance into next enemies.

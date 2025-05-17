@@ -1,0 +1,244 @@
+= Chaos Dwarfs
+:page-role: -toc
+
+image:chaos-dwarfs/logo.webp[width=108,height=103,float="right"]
+Many thousands of years ago the Dwarf race moved
+northwards from its ancestral home somewhere in the
+Southlands. They moved along the high ridge of mountains
+known as the Worlds Edge Mountains, following the trail of
+mineral ores and precious gems.
+
+The Dwarfs spread amongst the mountains, driven onwards
+by their lust for the secrets of rock and metal. Over a period
+of many hundreds of years they dug shafts and excavated
+cavernous underground cities, they sank mines deep into the
+mountain roots, and constructed tunnels which carried them
+further north.
+
+Eventually, sometime in the dim and distant past, the Dwarfs
+reached the upland region at the far north of the Worlds Edge
+Mountains which they called Zorn Uzkul or the Great Skull
+Land. Here they found a vast and inhospitable plateau where
+the air was thin and cold and the rocks barren. Many turned
+back south to swell the growing numbers of Dwarfs in the
+Worlds Edge Mountains, others turned west into the cold lands
+of Norsca, but some of the most adventurous turned east and
+then south along the bleak Mountains of Mourn.
+
+At first these widespread Dwarf kindreds maintained contact
+with each other, but the eastern Dwarfs strayed far and when
+the Time of Chaos came the northern regions were cut off
+forever. The Dwarfs of the west believed their eastern kin
+dead, destroyed by the tides of Chaos that came from the north,
+but they were mistaken. Chaos did not kill the hardy Dwarfs,
+instead it worked a dreadful change upon them.
+
+The Chaos Dwarf Empire is sited amidst the Mountains of
+Mourn and the adjoining eastern part of the Dark Lands. It is
+a stark and cheerless place, where nature has rent the ground
+and burst the mountains apart. It is a land rich in the materials
+that Dwarfs especially covet.
+
+It is impossible to say for certain how or when the Dwarf
+kindred of the east became the Chaos Dwarfs. Probably it was a
+slow process of warping and twisting, for Dwarfs are stubborn
+by nature and more resistant to magic than other creatures.
+Nonetheless they were changed.
+
+Their Dwarf instincts became perverted into a mockery of
+traditional values. The huge and monstrous Tower of Zharr-Naggrund,
+the City of Fire and Desolation, arose on the plain of
+Zharrduk. This monstrous city is fashioned from black obsidian
+and stained with the red glow of a thousand diabolic furnaces.
+Where Dwarfs shun magic the Chaos Dwarfs embraced it and
+became mighty sorcerers, the creators of arcane machineries
+and horrific engines.
+
+The refuse of thousands of years of labour fills the Plain of
+Zharrduk where industry tears at the earth, pock-marking the
+surface with ugly scars of endeavour. Beneath the flickering
+flames of countless forges untold thousands of slaves, creatures
+of many races captured in war or traded from the Orcs of the
+west, work at the enterprises of the Chaos Dwarfs.
+
+image::chaos-dwarfs/chaos-dwarfs.webp[]
+
+== Chaos Dwarf army selector
+
+[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+|===
+include::partial$chaos-dwarfs.tsv[]
+|===
+
+== Special rules
+
+////
+1: "The unit has 2 shooting attacks" — not each stand? TODO clarify.
+2: its, brigade grammar
+4: this → either
+5: is treated as, this → either, past → beyond
+////
+{empty}1. Blunderbusses:: Units with Blunderbusses have a shooting
+range of 15cm. The unit has 2 shooting attacks. Units hit by
+Blunderbusses get a -1 penalty for their armour rolls. One
+unit of Blunderbusses per full 1000 points can replace a unit
+of Warriors while still counting for the Chaos Dwarfs min/
+max value. Note that this unit still counts for max value of
+Blunderbusses.
+
+2. Hobgoblins:: Hobgoblins and Hobgoblin Wolf Riders carry
+an assortment of smaller ranged arms, so may only shoot up
+to 15cm and have 360° vision - stands in this unit can draw
+line of sight from all edges for the purpose of evading and
+shooting, including shooting at charging enemies. Note that
+this unit still needs Line of Sight from its front edge to charge
+an enemy. Hobgoblins and Orcs have a strong hatred so units
+of Hobgoblins or Hobgoblin Wolf Riders may not brigade
+with units of Black Orcs or Orc Slaves unless Chaos Dwarfs or
+Blunderbusses are part of the brigade.
+
+3. Orc Slaves:: Slaves are just that, captives forced to work and
+fight for their cruel masters’ enjoyment. A unit of Slaves suffer
+an additional -1 Command penalty when given an order. This
+penalty is waived, however, if the Slaves are brigaded with
+Black Orcs, Chaos Dwarfs or Blunderbusses.
+
+4. Earthshaker Cannon:: The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
+Thrower] as described in the Rulebook. The exception is
+that the drive back from the Eartshaker shot causes confusion on
+rolls of 4+ rather than the usual 6+. In addition the Earthshaker
+shot causes confusion in units in base contact with the victim
+unit on rolls of 6 on a D6 (roll for each unit).
++
+The total number
+of Earthshakers and Death Rockets in the army is limited in the
+way that only 1 piece of either kind is allowed per 1000 points.
+
+5. Death Rocket:: The Death Rocket acts is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
+Thrower] as described in the Rulebook, except it shoots
+1D6 times per phase and hits inflicted on the target can be
+still saved by armour with a -1 modifier. If the roll for the
+number of shots is 1, the Death Rocket has misfired
+and you must roll a dice against the Death Rocket Misfire chart.
++
+The total number of Earthshakers and Death Rockets in the
+army is limited in the way that only 1 piece of either kind is
+allowed per 1000 points.
++
+.Death Rocket Misfire Chart
+[cols="^1,6",frame=none,grid=none]
+|===
+|D6 |Result
+
+h|1
+|*KABOOM!* The Death Rocket explodes in
+spectacular manner.
+
+h|2-3
+|*Dud.* The rocket does only one attack.
+
+h|4-5
+|*Whoosh!* The rocket overshoots and does D6
+attacks on the first unit in the line of fire
+beyond the original target, regardless of range.
+If the result is 1, don‘t roll for the misfire
+again. If the target is engaged in combat, the
+hits are carried over into Combat phase. If
+no target is behind the victim the rocket
+leaves the battlefield without causing any
+damage.
+
+h|6
+|*Big badaboom!* The rocket does 2D6 attacks
+instead of the normal 1D6.
+|===
+
+6. Bolt Thrower:: The Hobgoblin Bolt Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower]
+as described in main Rulebook.
+
+7. Great Taurus:: Any character may be mounted on a Great
+Taurus. This mighty beast is fearsome to face on the battlefield.
+The Great Taurus causes terror and is able to fly.
+
+8. Lammasu:: The Lammasu is a magical creature trained to
+serve the Chaos Dwarfs. A Chaos Dwarf Sorcerer may be
+mounted on a Lammasu. A Lammasu is able to fly.
++
+In addition
+once per turn you can attempt to dispel one hostile spell cast on
+one friendly unit within 30cm of the Lammasu on a roll of 4+ on
+a D6. There can only be one Lammasu in the army.
+
+9. Sorcerer Lord:: The General may be true Sorcerer Lord,
+maybe even one of the living ancestors from Zharr-Naggrund.
+Sorcerer Lord can cast spells like a Wizard and can carry a
+magic item restricted to a Wizard if desired. Once during the
+battle Sorcerer Lord can add +1 to the dice when attempting
+to cast a spell. The player must announce that the Sorcerer’s
+special spell casting bonus is being used before rolling for the
+spell.
+
+image::chaos-dwarfs/earthshaker.webp[]
+
+=== Chaos Dwarf spells
+
+==== Flaming Hand
+
+[.cost]#4+ to cast# [.points]#Range N/A#
+
+_The Sorcerer’s hand glows like molten steel as he calls forth the
+strength of the forges of the earth._
+
+This can only be cast if the Sorcerer has joined a unit in combat.
+The spell automatically makes three attacks on one enemy unit
+which is touching the unit the Sorcerer has joined. These are
+worked out in the usual way. Any hits scored are carried over
+into the first round of combat and count as having been struck
+in combat.
+
+==== Volcanic Eruption
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_The Sorcerer‘s calls forth a storm of magma from beneath the
+earth._
+
+Each enemy unit within 30cm of the Sorcerer’s stand takes 3
+Attacks worked out in the normal way. A unit is not driven
+back by the Volcanic Eruption. Engaged units carry over any
+hits scored into the first round of combat and hits caused by the
+Volcanic Eruption count as having been struck in the combat
+itself.
+
+==== Word of Fear
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+// instils
+_The Sorcerer speaks a blasphemous litany that instils fear in
+the hearts of his enemies._
+
+This spell can only be cast on any friendly unit within range
+regardless of whether the Sorcerer can see it or not. The unit
+counts as causing terror for the duration of the Combat phase.
+
+==== Meteor Storm
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Sorcerer hurls flaming stones from his fingertips toward
+the enemy, battering everything in its path._
+
+// scored
+Draw an imaginary line 30cm long extending from the
+Sorcerer’s stand in any direction you wish. Each unit under
+the line takes three shooting attacks worked out in the usual
+way. Note that this spell can easily affect several units and will
+affect all units that fall beneath its path, including your own.
+Unengaged units can be driven back by the Meteor Storm as
+with ordinary shooting. Engaged units cannot be driven back,
+but carry over any hits that are scored into the first round of
+combat. Hits caused by the Meteor Storm count as having been
+struck in the combat itself.
+
+image::chaos-dwarfs/taurus.webp[]
