@@ -24,9 +24,6 @@ ui:
   supplemental_files: ./supplemental_ui
 urls:
   html_extension_style: drop
-  latest_version_segment_strategy: redirect:to
-  latest_version_segment: latest
-  redirect_facility: httpd
 asciidoc:
   attributes:
     idprefix: ''
