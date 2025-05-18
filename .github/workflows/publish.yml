@@ -31,6 +31,10 @@ jobs:
       run: npm i antora @antora/lunr-extension
     - name: Generate Site
       run: npx antora antora-playbook.yml
+    - name: Duplicate English index page as home page and set favicon
+      run: |
+        sed 's/<head>/<head><base href=".\/en\/">/' < ./output/en/index.html > ./output/index.html
+        cp ./en/revolution/modules/rules/images/favicon.ico ./output/
     - name: Upload Artifacts
       uses: actions/upload-pages-artifact@v3
       with:
