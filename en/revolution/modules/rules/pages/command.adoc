@@ -248,19 +248,46 @@ charge and evade.  A unit *cannot* use initiative to move in
 any other way. The rules for xref:movement.adoc#moving-chargers[charges] and xref:movement.adoc#the-path-of-evaders[evades] are
 described in the Movement section.
 
-=== Ordered movement
+[.ancients]
+== Orders
+
+Issuing orders is one of the most important features
+of Warmaster.
+[.bo5a]#Only characters can issue orders – this is their primary function
+in the game.#
+This represents the
+process of relaying instructions by messenger, or a local
+commander’s interpretation of orders either given by
+signal or arranged before the battle.
+
+////
+// Warmaster Original text from Command chapter:
+... An order is given to a unit to enable it
+to move. Once a unit has moved, another unit may be
+given an order and moved and so on. ...
 
 Orders are issued by Generals, Wizards and Heroes,
 collectively known as characters. Specific rules for
 Generals, Wizards and Heroes are given in the xref::characters.adoc[Generals,
 Wizards & Heroes section of the rulebook].
+////
+
+[.ancients]
+[.bo5a]#An order must be issued to a unit to enable it to move in the
+Orders sub-phase.#
+Once a unit has been given an
+order, it is moved and can be given a further order and
+moved again, up to a maximum of *three* times in total.
+This process is described in detail in the rules that follow.
 
 image::the-command-phase/giant.webp[]
 
-== Giving an order
+=== Giving an order
 
-The player begins giving an order by choosing a unit
-which he wishes to move. He must then take a dice test
+The player [.bo5a]#first nominates a unit a unit that#
+he wishes to move [.bo5a]#and
+indicates the character that will give the necessary order#.
+He must then take a dice test
 to determine if the order is received and acted upon. This
 works in the following way:
 
@@ -274,6 +301,10 @@ unit has not received its order and can move only half
 pace (see xref::movement[Movement]). This represents unit’s
 commanders being able to act on their own to some
 limited extent.
+// NB: Half-pace failed orders not in Ancients/Bo5A.
+
+[.bo5a]
+=== Order sequence
 
 Once a character has begun to issue orders, he must
 finish issuing all of his orders before another character
@@ -281,6 +312,8 @@ can start to do so. It is not permitted for a character to
 issue an order, then a different character to issue one,
 then the first character again.
 
+////
+// WMR Removed as unnecessary.
 .Command values
 ****
 This table shows the Command values for different
@@ -297,6 +330,7 @@ values and some are better than others.
 |Orc       |8
 |===
 ****
+////
 
 Once a character has failed to give an order, he cannot
 issue any more orders in that Command phase. Once the
@@ -356,9 +390,11 @@ identify what is going on and less likely that an effective
 order will be formulated or received. To represent this,
 we apply the following penalties:
 
-// Reformatted similar to Bo5A
+// Reformatted with headings similar to Bo5A
 
-=== [.bo5a]#Distance#
+[discrete]
+[.bo5a]
+==== Distance
 
 If the distance between the character and the unit you
 wish to move is more than 20cm, the character suffers a
@@ -377,7 +413,9 @@ way, measure the shortest distance between them.
 |per +20cm   |minus a further 1
 |===
 
-=== [.bo5a]#Multiple orders#
+[discrete]
+[.bo5a]
+==== Multiple orders
 
 If a unit has already been issued an order during the
 Command phase then there is a Command penalty of
@@ -385,7 +423,7 @@ Command phase then there is a Command penalty of
 accounts for fatigue and the limits of time, so a unit
 which has already moved several times is harder to move
 again. This penalty is cumulative, so a unit’s second order
-is at −1, its third order is at −2 [.bo5a]#and so on#.
+is at −1, its third order is at −2.
 
 [cols="^,^",frame=none,grid=rows]
 |===
@@ -394,13 +432,11 @@ is at −1, its third order is at −2 [.bo5a]#and so on#.
 |First  |none
 |Second |−1
 |Third  |−2
-// Bo5A
-|[.bo5a]#Fourth# |[.bo5a]#−3#
-// Bo5A
-|[.bo5a]#Each additional#  |[.bo5a]#minus a further 1#
 |===
 
-=== [.bo5a]#Enemy close#
+[discrete]
+[.bo5a]
+==== Enemy close
 
 If the distance between the unit you wish to move
 and the closest enemy unit is 20cm or less, there is a
@@ -418,7 +454,9 @@ harder to give them a specific order.
 |More than 20cm |none
 |===
 
-=== [.bo5a]#Dense terrain#
+[discrete]
+[.bo5a]
+==== Dense terrain
 
 If the unit you want to move is in dense terrain then
 there is a Command penalty of −1
@@ -437,7 +475,9 @@ Terrain Rules] for more examples.
 |Within feature |−1
 |===
 
-=== [.bo5a]#Casualties#
+[discrete]
+[.bo5a]
+==== Casualties
 
 If the unit has lost one or more stands as casualties
 then there is a Command penalty of −1 per stand lost.
