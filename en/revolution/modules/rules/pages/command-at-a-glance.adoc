@@ -1,21 +1,48 @@
 = Command at a Glance
 :page-role: -toc at-a-glance
 
-== Orders
+[.bo5a]
+== Sequence
 
+[.bo5a]
+. Initiative
+. Home back
+. Orders
+. Characters
+
+[.bo5a]
+== Initiative
+
+[.bo5a]
+. A unit can charge or evade the closest visible enemy unit within 20cm.
+. A unit cannot move on initiative and orders in the same turn.
+
+////
+// WMR Removed
 . Units move by initiative or by orders.
 . Units using initiative are moved first.
 . Other units require orders to move.
-. You must finish giving orders from one character before giving orders from
-  another character.
-. A unit can be given up to three orders by the same commander.
-. You must finish giving orders to one unit before giving an order to another.
+////
 
-== Command
+[.edit]
+== Home back
+
+// Copied from WMR later
+. Flying units more than 20cm from a character can xref::flying-units.adoc#home-back[home back] up to 1D6 × 10cm towards any character before orders are issued.
+
+== Orders
+
+. [.bo5a]#A unit can move once each time it is given an order.#
+. A unit can be given up to three orders by the same [.edit]#character#.
+. [.bo5a]#A unit cannot be given orders by different characters.#
+. You must finish giving orders _to one unit_ before giving an order to another.
+. You must finish giving orders _from one character_ before giving orders from
+  another character.
 . A character must roll equal to or less than his Command value on 2D6 to issue
   an order.
 . If a roll is failed, the order is not given and no further orders can be issued by
   that character.
+. [.bo5a]#If a roll is failed, the order is not given and no further orders can be issued to that unit.#
 . If the General fails to give an order, no further orders can be given by
   any other characters.
 
@@ -23,21 +50,24 @@
 
 [cols="<,^",frame=none,grid=rows]
 |===
-|Per full 20cm distance            | −1
-|Each successive order to the unit | −1
-|Enemy within 20cm of unit         | −1
-|Within dense terrain              | −1
-|Per casualty                      | −1
+|Per full 20cm distance             | −1
+|Each successive order to the unit  | −1
+|Enemy within 20cm of unit          | −1
+|[.bo5a]#Unit# within dense terrain | −1
+|Per casualty                       | −1
 |===
 
-== Issuing orders to brigades
+[.bo5a]
+== Brigade orders
 
+// Bo5A words this slightly differently.
 . Up to four touching units may be brigaded together and issued a single order.
 . Units moving as a brigade complete their entire move as a brigade unless one
   or more units are charging.
 
 == Charge
-. A unit that moves into an enemy is said to have charged.
+
+. A unit that moves into [.bo5a]#contact with# an enemy is said to have charged.
 . Once units are touching an enemy unit or supporting friendly units they are
   engaged in combat.
 . Units in combat cannot be issued further orders.
