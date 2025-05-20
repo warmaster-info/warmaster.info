@@ -51,7 +51,7 @@ Orders are issued and troops moved
 |The player whose turn it is issues orders to troops in the
 Command phase. Troops move on their initiative or in
 response to orders as they receive them.
-|See xref::the-command-phase.adoc[].
+|See xref::command.adoc[].
 
 |
 a|
@@ -64,7 +64,7 @@ Shooting includes short-ranged weapons such as bows,
 as well as longer ranged weapons like cannons, and
 magic spells. Often these will be out of range of the
 enemy, so there will be no shooting that turn.
-|See xref::the-shooting-phase.adoc[].
+|See xref::shooting.adoc[].
 
 |
 a|
@@ -78,7 +78,7 @@ fight. This phase is a bit different to the other phases
 because it is not just the player whose turn it is that
 takes part. In the Combat phase both players fight with
 all their troops that are engaged.
-|See xref::combat-phase.adoc[].
+|See xref::combat.adoc[].
 
 a|
 [discrete]

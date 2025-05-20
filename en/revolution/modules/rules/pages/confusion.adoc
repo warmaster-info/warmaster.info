@@ -20,14 +20,14 @@ more details.
 +
 A unit is confused if it is driven back by shooting and any
 dice roll for the drive back distance is a 6. See the rules
-for xref:the-shooting-phase.adoc#driving-back-enemies[driving back enemies] in the Shooting phase section.
+for xref:shooting.adoc#driving-back-enemies[driving back enemies] in the Shooting phase section.
 
 . *Driven back/falling back into impassable terrain.*
 +
 If a unit is driven back by shooting into terrain it can’t
 cross, or is unable to avoid falling back into terrain it
 can’t cross, it will halt at the edge and is confused on the
-D6 roll of a 6. See xref:the-shooting-phase.adoc#driving-back-enemies[driving back enemies] in the Shooting
+D6 roll of a 6. See xref:shooting.adoc#driving-back-enemies[driving back enemies] in the Shooting
 phase section.
 
 . *Driven back/falling back into enemies or combat.*
@@ -35,7 +35,7 @@ phase section.
 A unit driven back by shooting into, or unable to avoid
 falling back into, enemies or any units engaged in
 combat, whether friends or foe, halts 1cm away and is
-automatically confused. See xref:the-shooting-phase.adoc#driving-back-enemies[driving back enemies] in the
+automatically confused. See xref:shooting.adoc#driving-back-enemies[driving back enemies] in the
 Shooting phase section.
 
 . *Unable to Fall back to 1cm from enemy or combat*
@@ -74,7 +74,7 @@ Stands which are forced to retreat from combat into
 unyielding friends, enemies, units in combat and
 impassable terrain are destroyed. Hence the possibility
 of confusion is not considered! See the Combat phase
-section for details on xref:combat-phase.adoc#retreats[retreats from combat].
+section for details on xref:combat.adoc#retreats[retreats from combat].
 +
 Note that it is quite possible that a unit has to roll
 multiple times for confusion as a result of a single move
@@ -97,7 +97,7 @@ automatically recovers.
 . A unit which is confused cannot use Initiative and it
   cannot be issued Orders. This means that a confused
   unit will not usually be able to move at all in the
-  Command phase. See the xref:the-command-phase.adoc[Command phase]
+  Command phase. See the xref:command.adoc[Command phase]
   and xref:flying-units.adoc[Flying Units]. Note that confused units are
   able to move in other phases and must do so where
   the rules require it.
@@ -105,11 +105,11 @@ automatically recovers.
 . Whilst it is confused, a unit suffers a −1 Attack
   modifier in combat. Units commonly become
   confused during combat if retreating units are
-  forced back into unengaged friends. See the xref:combat-phase.adoc#retreats[Combat
+  forced back into unengaged friends. See the xref:combat.adoc#retreats[Combat
   phase].
 
 . A confused infantry unit cannot support in combat.
-  See the xref:combat-phase.adoc#supporting-troops[Combat phase].
+  See the xref:combat.adoc#supporting-troops[Combat phase].
 
 When a unit becomes confused, it is a good idea to
 make this visually apparent in some way. A convenient
@@ -187,7 +187,7 @@ player refuses to move to make way are considered to
 be ‘unyielding friends’. A unit forced against unyielding
 friends halts on contact and becomes confused
 automatically (see <<when-do-units-become-confused,earlier>>). A unit retreating from combat
-is destroyed if forced into unyielding friends (see xref:combat-phase.adoc#blocked-retreats[Combat, blocked retreats].
+is destroyed if forced into unyielding friends (see xref:combat.adoc#blocked-retreats[Combat, blocked retreats].
 
 // Spelling necessarily
 Note that making way does sometimes give units the

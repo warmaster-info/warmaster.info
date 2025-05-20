@@ -64,7 +64,7 @@ signal or arranged before the battle.
 
 Orders are issued by Generals, Wizards and Heroes,
 collectively known as characters. Specific rules for
-Generals, Wizards and Heroes are given in the xref::generals-wizards-and-heroes.adoc[Generals,
+Generals, Wizards and Heroes are given in the xref::characters.adoc[Generals,
 Wizards & Heroes section of the rulebook].
 
 image::the-command-phase/giant.webp[]
@@ -313,7 +313,7 @@ Units that failed to receive an order cannot charge.
 
 Once it has charged, a unit cannot receive any further
 orders that turn. It is committed to battle and must fight
-in the ensuing Combat phase. See the xref::combat-phase.adoc[Combat phase
+in the ensuing Combat phase. See the xref::combat.adoc[Combat phase
 section] for further explanation.
 
 == Brigades
@@ -368,7 +368,7 @@ stands. If your test is successful, the entire brigade is in
 receipt of an order, whereas if you fail, it is not and the
 whole brigade moves at half pace or doesn’t move at all
 depending on whether it is a first or subsequent order
-(see xref::the-command-phase.adoc#giving-an-order[Giving an order]).
+(see xref::command.adoc#giving-an-order[Giving an order]).
 
 Assuming an order is successfully issued, the brigade can
 move. Except when units wish to charge, brigades move

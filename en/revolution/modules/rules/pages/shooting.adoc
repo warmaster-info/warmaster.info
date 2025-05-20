@@ -124,7 +124,7 @@ necessary to break the dice rolling into batches so that
 the appropriate penalty can be applied once all exposed
 stands are destroyed. The full definitions and further
 rules for troops in defended and fortified positions are
-discussed in the xref::combat-phase.adoc[Combat phase section].
+discussed in the xref::combat.adoc[Combat phase section].
 
 image::the-shooting-phase/wizard.webp[]
 
@@ -348,7 +348,7 @@ become very cluttered otherwise, but it also reflects the
 ability of troops to stoically advance under fire once they
 have the enemy in sight. Any loss of enthusiasm is taken
 into account by including any hits inflicted in the result
-for the first round of fighting (see xref::combat-phase.adoc#combat-results[Combat results].
+for the first round of fighting (see xref::combat.adoc#combat-results[Combat results].
 
 .The Archers shoot as the Knights charge.
 image::the-shooting-phase/shooting-at-chargers.webp[id=shooting-at-chargers]
