@@ -1,5 +1,123 @@
 = Game Values
 
+[.bo5a]
+Before progressing to the rules of the game, we will
+categorise the different kinds of troops, and assign suitable
+game values to each.
+
+[.ancients]
+== Armies
+
+[.ancients]
+A game of Warmaster is played between two
+opposing model armies. Each side is controlled by a single
+player who plans and executes his army’s moves and rolls
+dice as required to determine the results of movement
+and fighting.
+
+// Here Ancients has a note about multiple players.
+
+[.ancients]
+== Stands
+
+[.bo5a]
+The playing pieces of the game are called *stands*.
+There are two kinds of stands: 40mm × 20mm unit stands
+and [.edit]#character stands, often round and 25mm in diameter#
+[.ancients]#in order to readily distinguish
+them from troop stands.#
+[.edit]#See xref:characters.adoc#odd-size-character-bases[Odd size character bases]
+if you have characters mounted on larger bases.#
+
+[.ancients]
+Models are mounted onto the stands so that they form
+representative bodies of troops or characters. The
+actual number of models and their positioning is a matter
+of aesthetic choice and is left up to players.
+
+[.ancients]
+All unit stands have front, side and rear edges
+as indicated by the direction faced by the models. It is
+important that the direction faced by the stand is obvious
+as in the examples below.
+
+== Units
+
+Infantry, cavalry and most other types of troops fight in
+formations of several [.edit]#40mm × 20mm# stands [.ancients]#called *units*#.
+A number of stands form a regiment of infantry,
+a squadron of cavalry, a battery of artillery, and so on.
+All the stands in the same formation are always arranged
+so they are touching, either side-by-side, one behind the
+other, or contacting at a point. [.ancients]#This is referred to as
+a *formation*.#
+
+////
+//Removed WMR:
+For convenience, we shall refer to all of these formations as *units*.
+////
+
+Units usually consist of three stands of the same
+type but this can vary and sometimes a unit can be just a
+single stand, as we shall see later.
+
+////
+// Removed WMR (from box)
+Troops are arranged into units consisting of a number of
+‘stands’ – usually three but sometimes two or even just
+one. This page shows typical infantry and cavalry units.
+////
+
+// TODO Remove/move later (WMR)
+Up to four units can be temporarily placed together to
+form a *brigade*. We’ll be covering brigades in much more
+detail in the rules that follow.
+
+== Characters
+
+In addition to the troops described, armies always include
+a General and can include other Heroes and Wizards
+as well. These consist of a single stand which includes
+the mighty individual as well as assorted helpmates and
+hangers on. These stands are referred to as characters.
+
+// Moved up like Ancients/Bo5A
+== Infantry, cavalry, chariots, monsters, artillery & machines
+
+Broadly speaking, armies consist of infantry, cavalry,
+chariots, monsters, artillery and machines – this last
+category includes various oddball devices, as we shall
+discover.
+
+The rules distinguish between these six types of troops.
+Monstrous creatures of small to medium size are usually
+classified as either cavalry or infantry – Ogres are clearly
+infantry, for instance, although their appearance is no
+less monstrous for all that.
+
+// Moved out of the box.
+.An Empire infantry unit
+image::game-values/infantry.webp[]
+
+Infantry stands are always oriented along the long edge
+of the base as demonstrated by the Empire unit shown
+above.
+
+.An Empire cavalry unit
+image::game-values/cavalry-1.webp[]
+
+// Replace with a monster or artillery
+// image::game-values/cavalry-2.webp[]
+
+Generally speaking, all other troops, including
+monsters and artillery as well as chariots, cavalry and
+machines are oriented towards the short edge of the base
+as demonstrated by the units shown to the right. Any
+exceptions are indicated in the Army Lists section.
+
+[.bo5a]
+== Attacks, hits & armour values
+
 Some troops are better fighters than others, some are
 better trained, some are more naturally violent and
 so on. So that we can represent these different qualities
@@ -47,21 +165,6 @@ that the stand has
 no armour.
 |===
 
-[discrete]
-=== Infantry, cavalry, chariots, monsters, artillery & machines
-
-Broadly speaking, armies consist of infantry, cavalry,
-chariots, monsters, artillery and machines – this last
-category includes various oddball devices, as we shall
-discover.
-
-The rules distinguish between these six types of troops.
-Monstrous creatures of small to medium size are usually
-classified as either cavalry or infantry – Ogres are clearly
-infantry, for instance, although their appearance is no
-less monstrous for all that.
-
-[discrete]
 === Shooting attacks
 
 If troops carry bows or other missile weapons then they
@@ -72,44 +175,65 @@ value is that used for shooting.
 
 include::partial$attack-values.adoc[]
 
-image::game-values/boar-riders.webp[]
+[.ancients]
+== Command values
 
-== Command
-
+// Removed: your General and other important
 Command is another game value and a very important
-one too! Only your General and other important
+one too! Only
 characters have a Command value and they use it when
 issuing orders. Values vary from as low as 7 to as high as
 10 but only the very best Generals have a value as high as
-10. More about command in due course.
+10.
+[.bo5a]#The higher the
+value, the more likely you are to be able to order your troops to
+do what you want them to.#
+More about command in due course.
 
-== Units
+[.ancients]
+== Points values
 
-Infantry, cavalry and most other types of troops fight in
-formations of several stands each consisting of a number
-of miniatures glued to a 40mm × 20mm Warmaster
-base. A number of stands form a regiment of infantry,
-a squadron of cavalry, a battery of artillery, and so on.
-All the stands in the same formation are always arranged
-so they are touching, either side-by-side, one behind the
-other, or contacting at a point.
+[.bo5a]
+Each unit and character in the game is assigned a points value
+which reflects its worth in the game – the more effective units
+and characters having an appropriately higher value. Once the
+battle is finished, the total points value of each side’s casualties
+determines who wins.
+[.edit]#Otherwise,# points values don’t really affect the rules
+of play.
 
-For convenience, we shall refer to all of these formations
-as *units*. Units usually consist of three stands of the same
-type but this can vary and sometimes a unit can be just a
-single stand, as we shall see later.
+[.ancients]
+.Stat line
+****
+A unit’s game values can be conveniently expressed as a single line of statistics or ‘stat line’ as shown below.
 
-Up to four units can be temporarily placed together to
-form a *brigade*. We’ll be covering brigades in much more
-detail in the rules that follow.
+image::game-values/boar-riders.webp[]
 
-== Characters
+[.unit,frame=none]
+|===
+|Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max | Special
 
-In addition to the troops described, armies always include
-a General and can include other Heroes and Wizards
-as well. These consist of a single stand which includes
-the mighty individual as well as assorted helpmates and
-hangers on. These stands are referred to as characters.
+|Cavalry |4 |3 |5+ |– |3 |110 |–/– |–
+|===
+
+Type:: [.edit]#The types are Infantry, Cavalry, Chariot, Monster, Artillery, Machine, General, Hero, Wizard.#
+
+Attack:: The basic number of dice rolled in combat by each stand in the unit.
+
+Hits:: The number of hits the unit can suffer before one stand is removed.
+
+Armour:: The dice score required to negate a hit inflicted on the unit.
+
+Command:: The command value of a General, Hero or Wizard.
+
+Unit size:: The number of stands in the unit – this is usually 3.
+
+Min/max:: This values is used to delimit the number of units and characters that can be chosen for the army – see the xref:revolution:armies:index.adoc[Army Lists].
+
+Points:: The points value of a unit of that type.
+
+Special:: [.bo5a]#This column indicates if any special rules apply.#
+****
 
 ////
 //Ancients/Bo5A: moved to introducing-warmaster.adoc
@@ -131,24 +255,111 @@ know about these to begin with, so don’t worry about
 them. Later you’ll see that this is what makes each army
 a different and challenging force to command.
 
-****
-image::game-values/infantry.webp[]
+[.bo5a]
+== Visibility on the battlefield
 
-image::game-values/cavalry-1.webp[]
+[.bo5a]
+During the game, players will want their units to shoot at or
+charge enemies or evade them. In these, and many other
+cases, it is important to know if troops can see their enemy and
+if they can react to them in an effective and cohesive way.
 
-image::game-values/cavalry-2.webp[]
+[.bo5a]
+[.ancients]#This concept underpins many parts of the game rules – so
+we’re going to explain it here before anything else.#
+As players we can easily see all that is happening on the
+battlefield. For our armies things are quite different. Not only is
+there the matter of distance but also the subtle rise and fall of the
+ground, the haze of the midday sun, the mist of early morning,
+the fading twilight, the dust thrown up by rival armies, etc. Due
+to this, when we talk of units seeing other units, or units being
+visible, we use these terms in a specific sense. When we say a
+unit can ‘see’ another, we don’t mean one or two warriors can
+theoretically see – we mean that the whole unit, including its
+commanders, is positioned to observe and react cohesively to the
+presence of the enemy.
 
-Troops are arranged into units consisting of a number of
-‘stands’ – usually three but sometimes two or even just
-one. This page shows typical infantry and cavalry units.
+[.ancients]
+=== Line of sight
 
-Infantry stands are always oriented along the long edge
-of the base as demonstrated by the Empire unit shown
-above. Generally speaking, all other troops, including
-monsters and artillery as well as chariots, cavalry and
-machines are oriented towards the short edge of the base
-as demonstrated by the units shown to the right. Any
-exceptions are indicated in the Army Lists section.
-****
+////
+// Warmaster Original text from Movement chapter:
+A unit is assumed to be able to see another if it is possible
+to draw an uninterrupted line of sight between the *front*
+edge of any stand and any stand in the other unit. It is
+not possible to see through unit stands from either side,
+or terrain other than low features such as low obstacles,
+rivers/streams etc. Characters never block line of sight
+(see the Generals, Wizards and Heroes section).
+////
+
+[.ancients]
+A unit can see another if it is possible to draw a straight,
+uninterrupted line of sight between the *front edge*
+of any of the unit’s stands and *any part* of any stand in the
+other unit (see <<line-of-sight-target>>. It is always the stands themselves that are
+considered when working out line of sight and not the
+actual models, which are likely to vary in height in any
+case. The best way of doing this is to run a straight edge,
+for example a measuring rule, between the observer
+and observed.
+
+.{empty}
+image::game-values/line-of-sight-target.svg[id=line-of-sight-target]
+
+[.ancients]#It is not permitted to draw a line of light over the top of
+unit stands from either side. These are said to ‘block’ the
+line of sight (see <<line-of-sight-blocked>>).#
+
+.{empty}
+image::game-values/line-of-sight-blocked.svg[id=line-of-sight-blocked]
+
+[.ancients]#Character stands never block line of sight. They
+represent only a few individuals so it is assumed units see
+through them as if they were not there.#
+[.bo5a]#See xref:characters.adoc[Generals, Heroes & Wizards].#
+
+Some units can see all round – they have 360 degree
+vision [.edit]#as shown in <<line-of-sight-360>># – and you will find this indicated in the unit’s
+description.
+[.bo5a]#These are invariably either flying units or lightly
+armed troops that fight in a very loosely organised style,#
+for example, Wolf Riders in the Orc army.
+
+.{empty}
+image::game-values/line-of-sight-360.svg[id=line-of-sight-360]
+
+[.ancients]
+=== The effect of terrain
+
+[.ancients]
+Some terrain (such as areas of ruins, hills and woods)
+block line of sights as described in the Movement rules.
+In principle, line of sight is blocked where it
+passes through any kind of terrain feature, but there are
+appropriate and mostly obvious exceptions. For example,
+it is always considered possible to see over low linear
+features such as hedges and low walls (see <<line-of-sight-terrain>>.
+The section on xref:movement.adoc#terrain[Terrain] explains the rules governing this.
+
+.{empty}
+image::game-values/line-of-sight-terrain.svg[id=line-of-sight-terrain]
+
+////
+// This is in Ancients and Bo5A, but seems to conflict with
+// flying units being able to see 100cm (at least) for their move/charge.
+// I can't find it in the Revolution PDF.
+[.ancients]
+=== Maximum visibility
+
+[.bo5a]
+It is convenient to set a limit upon the maximum distance a unit
+can see. The maximum visibility in ordinary circumstances is
+60cm. It would be easy to imagine situations where visibility
+would be considerably reduced – persistent rain, mist or at night
+for example. Rather than worry about these exceptions for the
+moment, a maximum visibility of 60cm is taken as standard
+and units more distant than this are assumed to be hidden from view.
+////
 
 image::game-values/goblins-advance.webp[]
