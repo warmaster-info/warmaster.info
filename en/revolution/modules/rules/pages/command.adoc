@@ -392,9 +392,8 @@ we apply the following penalties:
 
 // Reformatted with headings similar to Bo5A
 
-[discrete]
 [.bo5a]
-==== Distance
+=== Distance
 
 If the distance between the character and the unit you
 wish to move is more than 20cm, the character suffers a
@@ -413,9 +412,8 @@ way, measure the shortest distance between them.
 |per +20cm   |minus a further 1
 |===
 
-[discrete]
 [.bo5a]
-==== Multiple orders
+=== Multiple orders
 
 If a unit has already been issued an order during the
 Command phase then there is a Command penalty of
@@ -434,9 +432,8 @@ is at −1, its third order is at −2.
 |Third  |−2
 |===
 
-[discrete]
 [.bo5a]
-==== Enemy close
+=== Enemy close
 
 If the distance between the unit you wish to move
 and the closest enemy unit is 20cm or less, there is a
@@ -454,9 +451,8 @@ harder to give them a specific order.
 |More than 20cm |none
 |===
 
-[discrete]
 [.bo5a]
-==== Dense terrain
+=== Dense terrain
 
 If the unit you want to move is in dense terrain then
 there is a Command penalty of −1
@@ -475,9 +471,8 @@ Terrain Rules] for more examples.
 |Within feature |−1
 |===
 
-[discrete]
 [.bo5a]
-==== Casualties
+=== Casualties
 
 If the unit has lost one or more stands as casualties
 then there is a Command penalty of −1 per stand lost.
