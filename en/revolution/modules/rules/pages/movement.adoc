@@ -324,36 +324,8 @@ image::movement/evade-burst-through.svg[id=evade-burst-through]
 
 image::movement/treemen.webp[]
 
-=== Character movement
-
-Characters move at the end of the Command phase after
-unit movement has been completed. Characters never
-move with units during the Command phase, not even
-if a character joined a unit in a previous turn or if such
-a unit charges or evades using initiative. When units are
-repositioned during other phases, during pursuit combat
-for example, characters which have joined units are
-moved with them.
-
-Each character can move once and up to 60cm, or 100cm
-if flying. Characters can always move at full pace and,
-unless mounted on a monstrous mount or riding a
-chariot, always treat terrain as if they were infantry. No
-Command test is required for a character to move. Any
-failed Order rolls made in the Command phase do not
-affect his ability to move.
-
-Due to their unique role in Warmaster, characters are
-treated differently to other types of units. Character
-stands are essentially ‘tokens’ that are considered to
-be ‘transparent’ on the battlefield. In other words, this
-means they can move through units from their own
-side, and similarly, a unit can move through its own
-side’s characters. All stands from either side can see past
-and, if they are appropriately armed, can shoot through
-characters as if they were not there.
-
-See the xref::characters.adoc[Generals, Wizards and Heroes section].
+// === Character movement
+// Moved to Command chapter (xref:command.adoc#character-movement[]).
 
 image::movement/sun.webp[]
 

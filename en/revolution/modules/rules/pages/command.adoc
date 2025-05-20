@@ -491,7 +491,8 @@ motivate than fresh units.
 // b) a new unit isn't affected by multiple orders (starts again at 9)
 // c) failure ends
 
-_[.bo5a]#Example: The General has a Command value of 9.  He
+[.bo5a]
+_Example: The General has a Command value of 9.  He
 has already moved his cavalry forward once.  Now he
 wishes to move them again, hoping to capture a hill
 that lies on the enemy’s flank. The cavalry are 65cm away
@@ -501,7 +502,7 @@ move). The player will have to roll 5 or less to
 give the unit an order.  He knows this is unlikely but
 decides to take the risk anyway as he considers the hill
 an important objective. He rolls 2D6 and scores 4…
-success! The player moves the cavalry into their new position.#_
+success! The player moves the cavalry into their new position._
 
 _[.bo5a]#Next, he attempts to give orders to a unit of infantry
 10cm away# (no penalty) and within a wood (−1
@@ -522,9 +523,6 @@ that the Command value can never exceed 10.
 
 image::the-command-phase/bretonnian-knights.webp[]
 
-.A unit of cavalry charging into combat with a unit of infantry
-image::the-command-phase/cavalry-charge.webp[]
-
 == Charge!
 
 A move which brings a unit into contact with the enemy
@@ -538,6 +536,43 @@ Once it has charged, a unit cannot receive any further
 orders that turn. It is committed to battle and must fight
 in the ensuing Combat phase. See the xref::combat.adoc[Combat phase
 section] for further explanation.
+
+.A unit of cavalry charging into combat with a unit of infantry
+image::the-command-phase/cavalry-charge.webp[]
+
+[.bo5a]
+== Character movement
+
+// Moved here from Movement chapter
+Characters move at the end of the Command phase after
+unit movement has been completed. Characters never
+move with units during the Command phase, not even
+if a character joined a unit in a previous turn or if such
+a unit charges or evades using initiative. When units are
+repositioned during other phases, during pursuit combat
+for example, characters which have joined units are
+moved with them.
+
+Each character can move once and up to 60cm, or 100cm
+if flying. Characters can always move at full pace and,
+unless mounted on a monstrous mount or riding a
+chariot, always treat terrain as if they were infantry. No
+Command test is required for a character to move. Any
+failed Order rolls made in the Command phase do not
+affect his ability to move.
+
+Due to their unique role in Warmaster, characters are
+treated differently to other types of units. Character
+stands are essentially ‘tokens’ that are considered to
+be ‘transparent’ on the battlefield. In other words, this
+means they can move through units from their own
+side, and similarly, a unit can move through its own
+side’s characters. All stands from either side can see past
+and, if they are appropriately armed, can shoot through
+characters as if they were not there.
+
+See the xref::characters.adoc[Generals, Wizards and Heroes section].
+// End moved here
 
 == Brigades
 
