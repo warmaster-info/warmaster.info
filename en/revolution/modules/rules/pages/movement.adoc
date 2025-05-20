@@ -258,100 +258,10 @@ siege towers and a hefty dose of grim determination.
 
 image::movement/knights.webp[]
 
-== Moving by initative
+// Moved to end of chapter
 
-The Initiative rule represents the ability of a unit’s
-commanding officer to lead his troops to the attack or
-guide them away from danger. Once the enemy is close,
-a regiment’s training and natural instincts pretty much
-determine what happens next, regardless of what the
-General might prefer.
-
-During the Initiative Movement section of the Command
-phase, a unit can use its own initiative to either charge or
-evade from the closest visible enemy unit within 20cm.
-It does not have to do so, and can instead wait until the
-Ordered Movement section of the Command phase
-and attempt to move by means of an order as usual.
-The choice is the player’s in most cases; exceptions are
-covered in the army lists.
-
-Individual units that wish to move by initiative must
-move *before* any orders are issued. Once an order has
-been given by a character, no more units can move using
-initiative. A unit that used initiative to move *can’t* be
-given orders that turn.
-
-A unit moving by initiative can move in one of two ways.
-It can *charge* the closest enemy unit that it can see within
-20cm or it can *evade* away from the closest enemy unit
-that it can see within 20cm. If you want a unit to do
-something else, such as move around a flank or attack an
-enemy other than the closest, then you will have to issue
-an order instead.
-
-// Wording tweaked with crossreference.
-Units moving by initiative do so during the xref::command.adoc#initiative-movement[Initiative
-Movement section of the Command phase] as
-explained above. Units are moved one at a
-time, the movement of each is completed before moving
-the next, but the player can move the units in whatever
-order he wishes. Because units are moved one at a time,
-it is possible for a unit to move so that it blocks the line of
-sight of another friendly unit, making it either impossible
-for that unit to use initiative or changing which visible
-enemy unit is closest. Conversely, a unit’s move could
-open a line of sight, allowing another friendly unit to
-use its own initiative or changing which enemy unit is
-closest. See <<initiative-charge-1>> and <<initiative-charge-2>>.
-
-If two or more enemy units are equally close a player
-may choose which to charge or evade. Refer to the
-xref::combat.adoc#combat-engagement[Combat phase section] for rules for charges.
-
-Some units can see all round – they have 360 degree
-vision – and you will find this indicated in the unit’s
-description (for example, Wolf Riders in the Orc army).
-
-// TODO: Low-priority diagram text
-.Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position.
-image::movement/initiative-charge-1.webp[id=initiative-charge-1]
-
-// TODO: Low-priority diagram text
-.Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
-image::movement/initiative-charge-2.webp[id=initiative-charge-2]
-
-This simply means a line of sight can be drawn from any
-free edge of any stand in the unit to any stand of another
-unit. This can potentially enable such a unit to use its
-initiative to evade from an enemy positioned to its side
-or rear. However, note that even a unit that can see all
-round cannot charge an enemy unless a line of sight can
-be drawn from a stand’s front edge.
-
-Artillery cannot use their initiative to charge, although
-they can use it to evade. The crews of artillery, such as
-cannons or stone throwers have no natural inclination
-and little ability to fight in close combat.
-
-Enemy infantry or artillery in fortified positions can be
-ignored when it comes to using initiative – these units
-are considered either unable to move or unlikely to do
-so. A player can choose to ignore such enemy units if he
-wishes, in which case his own unit can use initiative to
-charge or evade the closest non-fortified enemy within
-20cm.
-
-A unit can also ignore the presence of enemy units if
-they are divided by a mutually impassable barrier so long
-as neither the unit itself nor the enemy unit(s) can move
-round the barrier within a full pace move. For example,
-cavalry cannot cross rivers, so two cavalry units divided
-by a river can ignore each other for purposes of initiative.
-A player can choose to ignore such enemy units if he
-wishes, in which case his own unit can use initiative to
-charge or evade the closest visible enemy unit within
-20cm that is not divided by the impassable barrier.
+// == Moving by initiative
+// Moved to Command chapter (xref:command.adoc#initiative-movement[]).
 
 === The path of evaders
 

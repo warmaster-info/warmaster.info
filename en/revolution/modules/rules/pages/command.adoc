@@ -18,27 +18,59 @@ Any units moving by initiative do so.
 . *[.bo5a]#xref:flying-units.adoc#home-back[Home Back]#*
 +
 [.bo5a]#Flying units home back.#
-. *<<ordered-movement>>*
+. *<<orders>>*
 +
 Orders are given to other units to move.
 . *[.bo5a]#Character Movement#*
 +
 [.bo5a]#Characters are moved.#
 
-[.bo5a]#A unit cann ot move by means of initiative *and* orders in the same
-turn. If a unit moves by initiative in the Initiative sub-phase, it
-*cannot* be given orders in the Orders sub-phase.#
+////
+// Warmaster Original text from Movement chapter:
+Individual units that wish to move by initiative must
+move *before* any orders are issued. Once an order has
+been given by a character, no more units can move using
+initiative. A unit that used initiative to move *can’t* be
+given orders that turn.
+////
 
-[.bo5a]#Note that all units moving by initiative must be moved before
+[.bo5a]
+A unit cannot move by means of initiative *and* orders in the same
+turn. If a unit moves by initiative in the Initiative sub-phase, it
+*cannot* be given orders in the Orders sub-phase.
+
+[.bo5a]
+Note that all units moving by initiative must be moved before
 any orders are issued. Once a character has issued an order, the
 Orders sub-phase has begun and no further units can move by
-initiative.#
+initiative.
 
-[.bo5a]#The distances moved by each type of unit vary, and are given in
-the Movement section.#
+[.bo5a]
+The distances moved by each type of unit vary, and are given in
+the Movement section.
 
+[.bo5a]
 == Initiative movement
 
+////
+// Warmaster Original text from Command chapter:
+Before we concern ourselves further with initiative
+movement, we need to understand how ordered
+movement works. For this reason, an explanation of
+initiative movement and further rules for it are given in
+the Movement section of the rulebook.
+////
+
+// Warmaster Original text from Movement chapter:
+The Initiative rule represents the ability of a unit’s
+commanding officer to lead his troops to the attack or
+guide them away from danger. Once the enemy is close,
+a regiment’s training and natural instincts pretty much
+determine what happens next, regardless of what the
+General might prefer.
+
+////
+// Warmaster Original text from Command chapter:
 Units within 20cm of the enemy at the start of the
 Command phase can use their initiative to move without
 orders. They do not have to do so – it is up to the player
@@ -46,21 +78,177 @@ to decide whether to use initiative or to issue an order. If
 the player requires any of his units to use their initiative,
 they must do so *before* any orders are issued.
 
-Before we concern ourselves further with initiative
-movement, we need to understand how ordered
-movement works. For this reason, an explanation of
-initiative movement and further rules for it are given in
-the Movement section of the rulebook.
+// Warmaster Original text from Movement chapter:
+During the Initiative Movement section of the Command
+phase, a unit can use its own initiative to either charge or
+evade from the closest visible enemy unit within 20cm.
+It does not have to do so, and can instead wait until the
+Ordered Movement section of the Command phase
+and attempt to move by means of an order as usual.
+The choice is the player’s in most cases; exceptions are
+covered in the army lists.
 
-== Ordered movement
+If two or more enemy units are equally close a player
+may choose which to charge or evade.
+////
 
-Issuing orders is one of the most important features
-of Warmaster. An order is given to a unit to enable it
-to move. Once a unit has moved, another unit may be
-given an order and moved and so on. This represents the
-process of relaying instructions by messenger, or a local
-commander’s interpretation of orders either given by
-signal or arranged before the battle.
+[.ancients]
+During the Initiative sub-phase, a unit can react to the
+*closest visible enemy unit* within 20cm. A unit can only
+react to the closest visible enemy unit and not other units
+even if they are within 20cm and visible. If two or more
+enemy units are equally close and both are visible, the
+player can choose which unit to react to.  For basic rules
+about visibility see xref:game-values.adoc#visibility-on-the-battlefield[Visibility on the battlefield].
+
+// Warmaster Original text from Movement chapter:
+Some units can see all round – they have 360 degree
+vision – and you will find this indicated in the unit’s
+description (for example, Wolf Riders in the Orc army).
+
+// Warmaster Original text from Movement chapter:
+// Removed: This simply means a line of sight can be drawn from any
+// free edge of any stand in the unit to any stand of another
+// unit.
+// Removed: potentially
+This can enable such a unit to use its
+initiative to evade from an enemy positioned to its side
+or rear. However, note that even a unit that can see all
+round cannot charge an enemy unless a line of sight can
+be drawn from a stand’s front edge.
+
+// Warmaster Original text from Movement chapter:
+Artillery cannot use their initiative to charge, although
+they can use it to evade. The crews of artillery, such as
+cannons or stone throwers have no natural inclination
+and little ability to fight in close combat.
+
+// Warmaster Original text from Movement chapter:
+Enemy infantry or artillery in fortified positions can be
+ignored when it comes to using initiative – these units
+are considered either unable to move or unlikely to do
+so. A player can choose to ignore such enemy units if he
+wishes, in which case his own unit can use initiative to
+charge or evade the closest non-fortified enemy within
+20cm.
+
+// Warmaster Original text from Movement chapter:
+// (NB Ancients is the opposite to this!)
+A unit can also ignore the presence of enemy units if
+they are divided by a mutually impassable barrier so long
+as neither the unit itself nor the enemy unit(s) can move
+round the barrier within a full pace move. For example,
+cavalry cannot cross rivers, so two cavalry units divided
+by a river can ignore each other for purposes of initiative.
+A player can choose to ignore such enemy units if he
+wishes, in which case his own unit can use initiative to
+charge or evade the closest visible enemy unit within
+20cm that is not divided by the impassable barrier.
+
+////
+// Warmaster Original text from Movement chapter:
+A unit moving by initiative can move in one of two ways.
+It can *charge* the closest enemy unit that it can see within
+20cm or it can *evade* away from the closest enemy unit
+that it can see within 20cm.
+////
+
+[.ancients]
+A unit moving by initiative can move in one of two ways. It can
+either *charge* the enemy unit it is reacting to, assuming it
+is able to do so, or it can *evade* from the enemy unit it is
+reacting to. Charging will bring the opposing units into
+close combat whilst evading is a deliberate move to avoid
+the enemy.
+
+// Warmaster Original text from Movement chapter:
+If you want a unit to do
+something else, such as move around a flank or attack an
+enemy other than the closest, then you will have to issue
+an order instead.
+
+[.ancients]
+In certain circumstances, a charging unit can carry
+a supporting unit with it. This is an exception in that it
+allows the supporting unit to effectively move by initiative
+even though it is neither charging nor evading.
+See xref:combat.adoc#supporting-troops[Support].
+// TODO: Link title will change when editing Combat chapter.
+
+////
+// Warmaster Original text from Movement chapter:
+Refer to the
+xref::combat-phase.adoc#combat-engagement[Combat phase section] for rules for charges.
+////
+
+[.ancients]
+A unit does not have to use its initiative in the Initiative
+sub-phase just because it can. A unit can instead remain
+halted that turn or the player can wait until the
+Orders sub-phase and attempt to move the unit with an
+order. Note that there are a few unusual units that *must*
+use initiative to charge if they can – these hot-heads are
+exceptions and are indicated in the [.edit]#xref:revolution:armies:index.adoc[Army Lists]#.
+
+[.ancients]
+=== Sequence of movement
+
+////
+// Warmaster Original text from Movement chapter:
+Units moving by initiative do so during the xref::the-command-phase.adoc#initiative-movement[Initiative
+Movement section of the Command phase] as
+explained above. Units are moved one at a
+time, the movement of each is completed before moving
+the next, but the player can move the units in whatever
+order he wishes. Because units are moved one at a time,
+it is possible for a unit to move so that it blocks the line of
+sight of another friendly unit, making it either impossible
+for that unit to use initiative or changing which visible
+enemy unit is closest. Conversely, a unit’s move could
+open a line of sight, allowing another friendly unit to
+use its own initiative or changing which enemy unit is
+closest. See <<initiative-charge-1>> and <<initiative-charge-2>>.
+////
+
+[.ancients]
+During the Initiative sub-phase, units move one at a time
+in any sequence the player wishes.  Initiative is determined
+as each unit begins its move and *not* at the beginning of
+the sub-phase.
+
+[.ancients]
+Note that because units move one at a time, it is possible
+for one unit’s move to block the line of sight of another so
+that it is subsequently unable to use initiative. It is also
+possible for one unit’s move to block a unit’s line of sight
+to one or more enemies, therefore affecting which enemy
+unit is both closest and visible.
+[.bo5a]#On the other hand,# it is equally possible
+for a unit’s move to open a new line of sight for another so that
+this second unit is now able to use initiative where
+before it could not. These are all things for inexperienced
+players to be wary of. See <<initiative-charge-1>> and <<initiative-charge-2>>.
+
+// Warmaster Original diagram from Movement chapter:
+// TODO: Low-priority diagram text
+.Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position.
+image::movement/initiative-charge-1.webp[id=initiative-charge-1]
+
+// Warmaster Original diagram from Movement chapter:
+// TODO: Low-priority diagram text
+.Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
+image::movement/initiative-charge-2.webp[id=initiative-charge-2]
+
+[.ancients]
+=== Charge or evade
+
+[.ancients]
+As explained above, there are two types of initiative move:
+charge and evade.  A unit *cannot* use initiative to move in
+any other way. The rules for xref:movement.adoc#moving-chargers[charges] and xref:movement.adoc#the-path-of-evaders[evades] are
+described in the Movement section.
+
+=== Ordered movement
 
 Orders are issued by Generals, Wizards and Heroes,
 collectively known as characters. Specific rules for
