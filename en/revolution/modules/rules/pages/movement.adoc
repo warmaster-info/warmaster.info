@@ -1,5 +1,7 @@
 = Movement
 
+////
+// WMR original
 Units move when given an order as explained in the
 Command section or by using their initiative as
 explained later in this section. The distance a unit can
@@ -8,8 +10,25 @@ troops are naturally faster than others, cavalry are faster
 than infantry for example. Also, troops arranged in a
 regular formation are able to move more quickly than
 units in an irregular formation.
+////
+
+[.bo5a]
+Units move when given an order or by using initiative in the
+Command phase as explained in the Command section.
+Units can also move in the Shooting or Combat phases as
+explained in the corresponding rules sections. This section
+covers all the general movement rules for units including rules
+for various types of terrain. Rules for moving characters can be
+found under the xref:characters.adoc[Generals, Heroes and Wizards] section.
 
 == Movement distances
+
+[.bo5a]#The maximum distance a unit can move depends upon its troop
+type and formation. Some troops are naturally faster than others –
+cavalry are faster than infantry, for example.#
+Troops arranged in a
+regular formation are able to move more quickly than
+units in an irregular formation.
 
 Broadly speaking, infantry units and monsters move
 up to 20cm at a time, cavalry and chariots move 30cm
@@ -43,80 +62,103 @@ don’t need to worry about these oddities.
 
 image::movement/daemon.webp[]
 
-== Formation & Movement
+== [.bo5a]#Formation#
 
+////
+// WMR original
 Units must be arranged in formation, by which we mean
 that all stands in the unit must touch at least one other
 stand in the unit. Players can arrange the stands as they
 want so long as they touch either along an edge or at a
 point.
+////
 
+[.bo5a]
+Each unit must be arranged in formation. By this we mean that
+all the stands in the unit are placed in touch so they form a *line*,
+*column* or *irregular* formation, as described below.
+
+////
+// WMR original
 . Units charging or evading can move up to full pace
   regardless of their formation. Charging is discussed
   in detail in the Combat phase section and evading is
   described later in this section under Moving By Initiative.
+////
 
-. All units wholly or partially in a fortified position at
-  the start of their movement can only move at half pace
-  regardless of their formation unless they are charging or
-  evading, in which case they move at full pace as noted
-  above. We’ll be introducing further rules for fortified
-  troops in the Combat phase section.
+[.bo5a]
+Units *charging* or *evading* can move up to full pace regardless
+of their formation. Charge and evade moves are described later
+in this section.
 
-. Units arranged in a column with stands placed one
-  behind the other (as shown in picture below), either
-  edge-to-edge or corner-to-corner, can move at full pace
-  unless in a fortified position as noted above. Units in a
-  column are said to be in a *regular* formation.
-+
+All units wholly or partially in a fortified position at
+the start of their movement can only move at half pace
+regardless of their formation unless they are charging or
+evading, in which case they move at full pace as noted
+above. [.bo5a]#See xref:shooting.adoc#defended-fortified-targets[Shooting] and xref:combat.adoc[Combat] for
+more about defended and fortified units.#
+// TODO link
+
+Units arranged in a *column* with stands placed one
+behind the other (as shown in picture below), either
+edge-to-edge or corner-to-corner, can move at full pace
+unless in a fortified position as noted above.
+// Units in a column are said to be in a *regular* formation.
+
 .In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement.
 image::movement/column-formation.webp[]
-+
+
 image::movement/helm.webp[]
 
-. Units arranged in a straight line with all their stands
-  facing in the same direction and butted edge-to-edge move
-  at full pace unless in a fortified position, as noted earlier.
-  Units in a line are said to be in a *regular* formation.
-+
+Units arranged in a straight *line* with all their stands
+facing in the same direction and butted edge-to-edge move
+at full pace unless in a fortified position, as noted earlier.
+
 .Infantry and cavalry arranged into a straight line. This is the most effective fighting formation.
 image::movement/cavalry-line-formation.webp[]
-+
+
 image::movement/infantry-line-formation.webp[]
 
-. All units in other formations or circumstances move at
-  half pace. For example, infantry are able to move up to
-  10cm, cavalry up to 15cm and so on. This represents the
-  fact that the unit is out of regular formation and that it is
-  necessary to regroup in order to move. For convenience,
-  we refer to all these formations as *irregular*. Note that
-  the only situation where an irregular formation moves
-  at full pace is when it charges or evades.
-+
+All units in other formations or circumstances move at
+half pace. For example, infantry are able to move up to
+10cm, cavalry up to 15cm and so on. This represents the
+fact that the unit is out of regular formation and that it is
+necessary to regroup in order to move. For convenience,
+we refer to all these formations as *irregular*. Note that
+the only situation where an irregular formation moves
+at full pace is when it charges or evades.
+
 .Units in irregular formations move at half pace to represent the fact that their ranks are disrupted.
 image::movement/irregular-formation-1.webp[]
-+
+
 image::movement/irregular-formation-2.webp[]
 
-. In some circumstances, units move a distance
-  determined by rolling dice or by the results of combat
-  (such as drive backs, retreat moves and advances). These
-  distances are not affected by the unit’s formation.
+In some circumstances, units move a distance
+determined by rolling dice or by the results of combat
+(such as drive backs, retreat moves and advances). These
+distances are not affected by the unit’s formation.
 
 include::partial$divider-axe.adoc[]
 
-=== Moving the stands
+[.h-bo5a]
+== The move
 
 When moving a unit, move each stand one at a time.
 Experienced players usually find it convenient and
 quicker to move whole units at once but in principle,
 stands always move one at a time to ensure a path can be
-traced. Select one stand from the unit and move it. Then
+traced.
+
+// Ancients/Bo5a: Paragraph break added
+
+Select one stand from the unit and move it. Then
 move the second stand into formation with it. Then move
 the third to complete the formation (assuming a unit of
 three stands). Note there is no need for the unit to retain
 its original formation – the stands are simply re-arranged
 as needed when the unit moves.
+
+// TODO: add diagram (Ancients) and "See".
 
 All stands must be able to trace a clear path to their
 position in the unit’s final formation. Stands do not have
@@ -133,7 +175,11 @@ image::movement/formation-touch-3.webp[]
 No part of a stand can move further than its permitted
 maximum movement distance. Always measure from
 the part of the stand that moves the greatest distance
-– this will often be one of the corners. A stand cannot
+– this will often be one of the corners.
+
+// TODO: add diagrem (Ancients) and "See"
+
+A stand cannot
 move through the base area of a stand from *another* unit
 whether friend or foe either wholly or in part. A stand
 can move through other stands of the *same* unit if they
@@ -143,20 +189,30 @@ without jamming each other. Even where they belong to
 the same unit. A stand cannot move through other stands
 who have already moved or are engaged in combat.
 
+[.bo5a]
+Stands can move through terrain appropriate to their type as
+note below. Stands cannot move through terrain if it is
+impenetrable to their type.  See the section on <<terrain>>.
+
 There is an exception to the rule that prevents stands
 moving through other units – this happens when a unit
 bursts through another during an evade and is <<the-path-of-evaders,described
-later>>. Stands can always move through characters
-as described in the xref:characters.adoc[Generals & Heroes section].
+later>>.
 
-=== The gap rule
+Stands can always move through characters
+as described in the xref:characters.adoc[Generals, Heroes and Wizards section].
 
-When a stand moves it can be oriented to pass through
+[.h-bo5a]
+=== Moving through gaps
+
+When a stand moves, it can be oriented to pass through
 any gap so long as the gap is at least as wide as the stand’s
 shortest edge, usually this will be 20mm. For example,
 an infantry stand might be turned to its side to move
 through a gap between impassable walls and a river.
 
+////
+// WMR original
 The exception to this rule is that a stand cannot pass
 through a gap between two enemy stands, or between
 an enemy stand and any feature or friendly stand, unless
@@ -166,7 +222,17 @@ a gap of more than 40mm for an infantry stand to pass
 between two enemy stands, between an enemy stand
 and a friendly stand, or between an enemy stand and the
 edge of a river.
+////
 
+[.bo5a]
+Except as noted later, a stand cannot pass through a gap between
+any of the following unless the gap is *wider* than the stand’s
+*frontage*: two enemy stands, an enemy stand and a friendly
+stand, or an enemy stand and impassable terrain. This means that
+the gaps must be more than 40mm for infantry and more than
+20mm for cavalry.  [.wmr]#See <<move-through-gap>> and <<cannot-move-through-gap>>.#
+
+// TODO check? Ancients has some extra here.
 This rule prevents units moving through gaps whilst
 close to enemy units and where there is little room for
 effective manoeuvring. Note that although stands are not
