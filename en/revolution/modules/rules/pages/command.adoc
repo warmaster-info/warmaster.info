@@ -574,7 +574,13 @@ characters as if they were not there.
 See the xref::characters.adoc[Generals, Wizards and Heroes section].
 // End moved here
 
-== Brigades
+[.h-bo5a]
+== Brigade orders
+// also Further Brigade Orders
+
+// I think the Ancients/Bo5a text is a little clearer,
+// but to avoid rewriting the entire rulebook I'm
+// leaving the Warmaster text here as it's still OK.
 
 In order to save time, it is permitted for an order to be
 issued to up to four adjacent units simultaneously. This
@@ -615,15 +621,19 @@ image::the-command-phase/brigade-of-four.webp[]
 ****
 
 To give orders to a brigade, measure to the most distant
-unit in the brigade and take one test. Remember to apply
+unit in the brigade and
+[.ancients]#apply the appropriate distance penalty. Also#
+apply
 the −1 penalty if any units in the brigade are within
 20cm of the enemy, in dense terrain, if the brigade has
 moved before or if any units have lost casualties. Don’t
 apply any penalties more than once (if two units are in
 dense terrain for example) and in the case of casualties
 apply the penalty for the unit which has lost the most
-stands. If your test is successful, the entire brigade is in
-receipt of an order, whereas if you fail, it is not and the
+stands. If your test is successful,
+[.ancients]#then *all* the units have received an order, if
+the test is failed, *all* the units have failed to receive an order#
+and the
 whole brigade moves at half pace or doesn’t move at all
 depending on whether it is a first or subsequent order
 (see xref::command.adoc#giving-an-order[Giving an order]).
@@ -642,7 +652,7 @@ distance.
 
 Conceivably, some units in a brigade might wish to charge
 the enemy whilst others do not, as shown in
-<<brigade-orders,the following diagrams>>.
+<<f-brigade-orders,the following diagrams>>.
 Any units in a brigade that wish to charge do
 not have to remain in touch with the rest of the brigade
 as a whole. Even though a single brigade order has been
@@ -651,7 +661,18 @@ individually, one at a time, exactly as if they had been
 issued separate orders. Units which do not charge still
 have to end their move touching.
 
-[#brigade-orders]
+////
+// NB helpful Bo5a/Ancients paragraph
+Note that charging units *do* need to be able to see their
+enemy when they charge – but they do not necessarily
+have to be able to see at the time the brigade order is
+issued. It is quite possible for one unit in the brigade to
+move, allowing a unit behind to see and therefore to
+charge an enemy. This is one reason why it is important to
+move brigaded units one at a time.
+////
+
+[#f-brigade-orders]
 image::the-command-phase/charge-from-brigade-1.svg[]
 
 image::the-command-phase/charge-from-brigade-2.webp[]
@@ -659,6 +680,9 @@ image::the-command-phase/charge-from-brigade-2.webp[]
 image::the-command-phase/charge-from-brigade-3.svg[]
 
 image::the-command-phase/charge-from-brigade-4.svg[]
+
+[.h-bo5a]
+== Further brigade orders
 
 Once a brigade has moved, the player may not want to
 move the whole brigade again but might wish to move an
@@ -684,5 +708,10 @@ phase in the usual way.
 During a battle, units may be moved into touch to form a
 new brigade. However, a brigade cannot be formed and
 subsequently moved in the same Command phase. Units
-must be in a brigade at the start of the ordered movement
-part of the Command phase to move as a brigade.
+must be in a brigade at the start of the [.ancients]#Orders sub-phase#
+to move as a brigade.
+[.ancients]#This means it is necessary to arrange units
+so that they touch in one turn if they are to be given a
+brigade order in the next.#
+
+// TODO: Smaller of the two diagrams from Bo5A.
