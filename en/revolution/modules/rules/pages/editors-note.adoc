@@ -27,19 +27,26 @@ image::editors-note/knight.webp[]
 _In honour of Sergei Kushnir and all the fellow wargamers
 who had to experience real war._
 
+[.edit]
 == Website editor’s note
 
+[IMPORTANT]
+====
 *This is an unofficial website not associated with the Warmaster Rules Committee.*
+====
 
 Most of the text on this website is copied verbatim from the https://drive.google.com/file/d/10DNg5O4glnBE2T7p-tZBH2oClyj2Ib71/view?usp=sharing[WMR Compendium version 2.0.1], available from the https://www.wm-revolution.com/articles/download.html[Warmaster Revolution website].
 
-Changes to improve the text are marked with dotted underlines.  **These changes are not modifying any rules.**
-They improve the rulebook by rearranging some sections to introduce concepts in a better order, and add
-clarifications included in later versions of the _Warmaster_ game.  For example, Initiative movement is described in the Command phase (where it happens) rather than at the end of the Movement section.
+Changes to improve the text are marked with dotted underlines or coloured highlights.
+**These changes do not modify any rules.**
+Most of the changes rearrange the text in a more logical order, as used in the _Warmaster Ancients_ and _The Battle of Five Armies_ rulebooks (the two books are very similar).
+For example, xref:command.adoc#initiative-movement[Initiative movement] is described in the Command phase (where it happens) rather than at the end of the Movement section, and rules on xref:game-values.adoc#line-of-sight[Line of sight] are gathered at the end of Game Values.
 
-* [.ancients]#Text taken from the _Warmaster Ancients_ rulebook is marked with a grey underline.#
-* [.bo5a]#Text taken from the _Battle of Five Armies_ rulebook is marked with a gold underline.#
-* [.edit]#Other edits are marked with a green underline.#
+Text from from _Ancients_ or _Five Armies_ has been used where it is clearer or provides additional clarifications compared to the original.
+
+* [.ancients]#Text taken from the _Warmaster Ancients_ rulebook is marked with a pinkish underline or border.#
+* [.bo5a]#Text taken from the _Battle of Five Armies_ rulebook is marked with a gold underline or border.#
+* [.edit]#Other edits are marked with a blue underline or border (as seen in this section).#
 
 Minor spelling and grammatical errors have also been corrected.  These corrections are not indicated —
 some of them are even present in the original rulebooks.  Small changes to adapt the text for a website are also unmarked, for example replacing page references and diagram numbers with hyperlinks.

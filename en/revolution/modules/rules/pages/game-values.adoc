@@ -26,8 +26,7 @@ There are two kinds of stands: 40mm × 20mm unit stands
 and [.edit]#character stands, often round and 25mm in diameter#
 [.ancients]#in order to readily distinguish
 them from troop stands.#
-[.edit]#See xref:characters.adoc#odd-size-character-bases[Odd size character bases]
-if you have characters mounted on larger bases.#
+[.edit]#See xref:characters.adoc#odd-size-character-bases[Odd size character bases] if you have characters mounted on larger bases.#
 
 [.ancients]
 Models are mounted onto the stands so that they form
@@ -115,7 +114,7 @@ machines are oriented towards the short edge of the base
 as demonstrated by the units shown to the right. Any
 exceptions are indicated in the Army Lists section.
 
-[.bo5a]
+[.h-bo5a]
 == Attacks, hits & armour values
 
 Some troops are better fighters than others, some are
@@ -175,7 +174,7 @@ value is that used for shooting.
 
 include::partial$attack-values.adoc[]
 
-[.ancients]
+[.h-ancients]
 == Command values
 
 // Removed: your General and other important
@@ -307,18 +306,21 @@ and observed.
 .{empty}
 image::game-values/line-of-sight-target.svg[id=line-of-sight-target]
 
-[.ancients]#It is not permitted to draw a line of light over the top of
+[.ancients]
+It is not permitted to draw a line of light over the top of
 unit stands from either side. These are said to ‘block’ the
-line of sight (see <<line-of-sight-blocked>>).#
+line of sight (see <<line-of-sight-blocked>>).
 
 .{empty}
 image::game-values/line-of-sight-blocked.svg[id=line-of-sight-blocked]
 
-[.ancients]#Character stands never block line of sight. They
+[.ancients]
+Character stands never block line of sight. They
 represent only a few individuals so it is assumed units see
-through them as if they were not there.#
+through them as if they were not there.
 [.bo5a]#See xref:characters.adoc[Generals, Heroes & Wizards].#
 
+[.wmr]
 Some units can see all round – they have 360 degree
 vision [.edit]#as shown in <<line-of-sight-360>># – and you will find this indicated in the unit’s
 description.

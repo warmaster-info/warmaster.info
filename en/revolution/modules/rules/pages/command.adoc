@@ -49,7 +49,7 @@ initiative.
 The distances moved by each type of unit vary, and are given in
 the Movement section.
 
-[.bo5a]
+[.h-bo5a]
 == Initiative movement
 
 ////
@@ -248,7 +248,7 @@ charge and evade.  A unit *cannot* use initiative to move in
 any other way. The rules for xref:movement.adoc#moving-chargers[charges] and xref:movement.adoc#the-path-of-evaders[evades] are
 described in the Movement section.
 
-[.ancients]
+[.h-ancients]
 == Orders
 
 Issuing orders is one of the most important features
@@ -303,7 +303,7 @@ commanders being able to act on their own to some
 limited extent.
 // NB: Half-pace failed orders not in Ancients/Bo5A.
 
-[.bo5a]
+[.h-bo5a]
 === Order sequence
 
 Once a character has begun to issue orders, he must
@@ -392,7 +392,7 @@ we apply the following penalties:
 
 // Reformatted with headings similar to Bo5A
 
-[.bo5a]
+[.h-bo5a]
 === Distance
 
 If the distance between the character and the unit you
@@ -412,7 +412,7 @@ way, measure the shortest distance between them.
 |per +20cm   |minus a further 1
 |===
 
-[.bo5a]
+[.h-bo5a]
 === Multiple orders
 
 If a unit has already been issued an order during the
@@ -432,7 +432,7 @@ is at −1, its third order is at −2.
 |Third  |−2
 |===
 
-[.bo5a]
+[.h-bo5a]
 === Enemy close
 
 If the distance between the unit you wish to move
@@ -451,7 +451,7 @@ harder to give them a specific order.
 |More than 20cm |none
 |===
 
-[.bo5a]
+[.h-bo5a]
 === Dense terrain
 
 If the unit you want to move is in dense terrain then
@@ -471,7 +471,7 @@ Terrain Rules] for more examples.
 |Within feature |−1
 |===
 
-[.bo5a]
+[.h-bo5a]
 === Casualties
 
 If the unit has lost one or more stands as casualties
@@ -540,7 +540,7 @@ section] for further explanation.
 .A unit of cavalry charging into combat with a unit of infantry
 image::the-command-phase/cavalry-charge.webp[]
 
-[.bo5a]
+[.h-bo5a]
 == Character movement
 
 // Moved here from Movement chapter
