@@ -34,6 +34,7 @@ jobs:
     - name: Duplicate English index page as home page and set favicon
       run: |
         sed 's/<head>/<head><base href=".\/en\/">/' < ./output/en/index.html > ./output/index.html
+        mv ./output/en/404.html ./output/
         cp ./en/revolution/modules/rules/images/favicon.ico ./output/
     - name: Upload Artifacts
       uses: actions/upload-pages-artifact@v3
