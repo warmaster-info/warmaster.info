@@ -71,189 +71,16 @@ considered to be fighting in the same engagement. See
 .Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other.
 image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 
+////
+// Moved to Movement Chapter
 == Moving chargers
-
-The rules for moving chargers may look a bit intimidating
-at first but do not worry! Almost all moves happen in an
-obvious way. Many of the following rules are intended
-to overcome any unusual circumstances you might come
-across where care may be needed.
-
 === Sequence of charges
-
-The term ‘charge’ describes a unit’s movement into
-contact with an enemy unit during the Command
-phase whether by initiative or by means of an order.
-Units which move by initiative are moved before units
-which move by orders but, apart from this, there is no
-obligation to move charging units in any particular order.
-Charges occur throughout the Command phase as units
-move against enemy units. Where a charge is intended,
-the player must say so before any stands are moved as
-this alerts both players to the need for care. A unit is not
-obliged to charge just because the player has stated it –
-the move may prove impossible or player might simply
-change his mind for any reason.
-
-image::combat-phase/orc-boss.webp[]
-
 === Enemy in sight
-
-At least one stand from the charging unit must be able to
-see the target enemy unit at the start of the unit’s charge
-move. If none of a unit’s stands can see the intended
-target then it cannot charge it. Note that because units
-move one after the other it is possible for one
-unit’s move to clear or block the line of sight
-for another; it is therefore important to take
-care when deciding which units to move and
-in what sequence.
-
-A stand can ‘see’ if it is able to draw an
-uninterrupted line of sight from its front
-edge to any part of the enemy unit as
-described in the xref:shooting.adoc[Shooting section].
-All intervening stands, friend or foe, block
-a stand’s line of sight. All intervening
-terrain also blocks the line of sight with the
-exception of low obstacles, rivers/streams,
-marshes, and similarly low features.
-Character stands never block a unit’s line of
-sight, as explained in the xref:characters.adoc[Generals, Wizards
-and Heroes section].
-
 === Zones
-
-For purposes of working out where to position units
-during a charge, the area around each stand is divided
-into four zones as shown on the accompanying diagrams.
-The division between each zone bisect the corners of the
-stand at the angle of 135 degrees relative to the edge.
-Zones are self evident in most situations and can be
-checked using a simple guide if necessary. See <<zone-infantry>>
-and <<zone-cavalry>>.
-
-.{empty}
-image::combat-phase/zone-infantry.svg[id=zone-infantry]
-
-.{empty}
-image::combat-phase/zone-cavalry.svg[id=zone-cavalry]
-
-Once a unit’s intention to charge has been declared,
-begin by considering the position of the entire charging
-unit relative to the *closest visible stand* in the target
-unit. If the charging unit begins its move in the stand’s
-front zone then it charges to the front, if it begins to the
-stand’s flank it charges in the side, and if it begins to the
-rear it charges in the rear. See <<charge-move-1>>.
-
-// Spelling front, e.g.
-If the charging unit is not entirely within a single
-zone then it counts as being in the zone that it mostly
-occupies. So, if a unit is between the front and flank but
-the greater proportion is to the front, the unit counts as
-in the front. If a unit is positioned in such a way that it
-is exactly divided between two zones then roll a dice
-to decide – e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
-<<charge-move-2>>.
-
-image::combat-phase/chaos-knights.webp[]
-
 === The charge move
-
-In most situations it is a simple matter to position the
-charging unit against the indicated front, side, or rear
-edge of the enemy unit. In some cases extra care is called
-for. Players who are unfamiliar with the game should
-make a point of moving the stands one at a time, as
-described below, until they are used to the placement
-rules.
-
-To begin, the charging player selects one stand from
-the charging unit. Any stand may be chosen – it does
-not have to be the closest. This stand must be able to
-see the enemy and must have a clear path to the target.
-The selected charging stand is moved into place against
-the enemy stand that has already been identified as the
-closest visible stand to the charging unit.
-
-Move the charging stand so that its front edge contacts
-the appropriate edge of the enemy stand. If the unit is
-charging from the front zone, place the charger against
-the enemy stand’s front edge.
-
-.{empty}
-image::combat-phase/charge-move-1.svg[id=charge-move-1]
-
-.{empty}
-image::combat-phase/charge-move-2.svg[id=charge-move-2]
-
-When placing the first charging stand, position it exactly
-centre-to-centre against the indicated edge of the target
-stand. If this is impossible because of interposing stands
-or scenery then place the charger as closely as possible to
-the centre of the target stand. There must be at least 1cm
-of clear base edge on the target stand to place the first
-charging stand otherwise the move is not allowed (see
-Blocked Edges).
-
-image::combat-phase/chaos-knight-hero.webp[]
-
 === Forming a battle line
-
-Once the first charging stand has been positioned, the
-remaining stands are placed one at a time to make a
-line formation or ‘battle line’. Each stand must be able
-to trace a line to its new position as it moves. Note that
-it doesn’t matter what formation the unit is in when it
-begins its charge, charging units always form a battle
-line if they can do so.
-
-// Moved slightly earlier
-// Spelling against
-image::combat-phase/maximise-frontage-1.svg[id=maximise-frontage-1]
-
-Stands are placed into a coherent formation as they move.
-Place a second stand beside the first, and place the third
-stand beside either the first or second. You cannot leave
-a gap in the battle line and then fill it later. The reason
-for breaking down movement by individual stands is to
-make sure each stand has an accessible route to its final
-place in the battle line.
-
-// Moved slightly earlier
-image::combat-phase/maximise-frontage-2.svg[id=maximise-frontage-2]
-
-Each stand must be placed in the battle line in such a way
-that as much of its front edge as possible makes contact
-with the enemy. This is called ‘*maximising frontage*’. If it
-is impossible to place a stand into the battle line so that
-its front edge makes contact with an enemy, then it must
-be placed so that its front corner touches an enemy if it
-can. This means that the maximum number of charging
-stands will be drawn into the combat.
-
-image::combat-phase/dwarf-warriors.webp[]
-
 === Contact with other enemy
-
-If there are other enemy units adjacent to the target unit
-then the obligation to ‘maximise frontage’ extends to
-these other units too. So, where there is another enemy
-stand aligned to the target unit, a charging stand must be
-placed against this second enemy if this is its only way
-to *maximise frontage*. However, chargers will always
-maximise frontage against the unit they *originally*
-charged where they can do so.
-
-image::combat-phase/helm.webp[]
-
-Any additional units contacted by charging stands
-count as being charged and are drawn into the combat
-engagement – even if they are only touching corner-to-
-corner. If armed with appropriate weapons they can
-shoot at the chargers as described in the Shooting section.
-
+////
 === Exceptions & Anomalies
 
 In some situations the proximity of scenery or other
@@ -745,48 +572,8 @@ separate combat engagements. Even in this case, there is
 only one combat engagement – not two. All the units are
 interlinked via the supporting unit.
 
-=== Supporting Charges
-
-During the Command phase, a unit is allowed to make
-a supporting charge if it is positioned behind another
-so that at least one stand could theoretically support in
-combat from the rear.
-
-If the front unit charges, whether on initiative or by
-means of an order, then the second unit can automatically
-make a supporting charge. It can do so whether the first
-unit charges on initiative or with an order, even where
-the second unit was not included in a brigade order.
-
-image::combat-phase/sword-banner.webp[]
-
-Note that the second unit might have more or fewer
-stands than the charging unit, or it could have some
-stands positioned to give rear support and some not.
-Regardless of how stands are positioned, only one unit
-can make a supporting charge on behalf of another. It
-is not possible to place two units so that they can both
-make supporting charges – in such a situation, the player
-must choose which unit will make the supporting charge.
-
-The supporting charge is a normal move, except the unit
-making the supporting charge must be placed so that
-it touches the first unit and at least one stand supports
-it either from the rear or side. No stands can be placed
-into touch with enemies – neither into edge contact nor
-corner-to-corner contact.
-
-The supporting charge is a special kind of combined
-move – the supporting unit’s move is rolled into that
-of the charging unit and is considered part of it. The
-charger can be thought of as carrying the supporting
-charger with the same order. If a unit is unable to move
-for whatever reason (if it is confused for example), or
-if it does not have sufficient move distance to move (if
-it is in irregular formation for example) then it cannot
-make a supporting charge. Also note, that after *failing* to
-receive its *first order* a unit cannot use its half pace move
-to join combat by moving into the *supporting position*.
+// === Supporting charges
+// Moved to Movement section
 
 == Retreats
 

@@ -292,6 +292,22 @@ rivers/streams etc. Characters never block line of sight
 (see the Generals, Wizards and Heroes section).
 ////
 
+////
+// Warmaster Original text from further on in the Movement chapter:
+A stand can ‘see’ if it is able to draw an
+uninterrupted line of sight from its front
+edge to any part of the enemy unit as
+described in the xref:shooting.adoc[Shooting section].
+All intervening stands, friend or foe, block
+a stand’s line of sight. All intervening
+terrain also blocks the line of sight with the
+exception of low obstacles, rivers/streams,
+marshes, and similarly low features.
+Character stands never block a unit’s line of
+sight, as explained in the xref:characters.adoc[Generals, Wizards
+and Heroes section].
+////
+
 [.ancients]
 A unit can see another if it is possible to draw a straight,
 uninterrupted line of sight between the *front edge*
