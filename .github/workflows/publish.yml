@@ -36,6 +36,7 @@ jobs:
         sed 's/<head>/<head><base href=".\/en\/">/' < ./output/en/index.html > ./output/index.html
         mv ./output/en/404.html ./output/
         cp ./en/revolution/modules/rules/images/favicon.ico ./output/
+        find ./output -name '*.png' -delete
     - name: Upload Artifacts
       uses: actions/upload-pages-artifact@v3
       with:
