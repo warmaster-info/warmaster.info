@@ -671,6 +671,185 @@ to join combat by moving into the *supporting position*.
 
 image::combat-phase/sword-banner.webp[]
 
+=== Exceptions & anomalies
+
+In some situations the proximity of scenery or other
+stands makes it impossible to position all the chargers
+exactly as described. In some cases this may mean the
+charge is not permitted, in others that chargers can
+be repositioned to accommodate the situation. These
+circumstances are covered in the following rules sections.
+
+=== Unable to contact centre-to-centre
+
+The first charging stand is always positioned centre-to-centre
+with the closest enemy stand where possible.
+If this is not possible then the first charging stand is
+positioned as closely to centre-to-centre as it can go, but
+there must be at least 1 full centimetre of exposed stand edge to
+contact against.
+
+If there is less than 1 cm of exposed edge then the stand
+is not an eligible target because it is ‘blocked’. See below
+for how to deal with blocked stands.
+
+image::combat-phase/charge-blocked.svg[id=charge-blocked]
+
+image::combat-phase/dwarf-hero.webp[]
+
+=== Unable to form a battle line
+
+If a stand has insufficient room or insufficient move
+distance to form a straight battle line, it must be placed
+either directly behind, or beside and staggered back from
+a stand that has already moved. Stands placed behind
+must be positioned facing the same direction as the stand
+in front of them. Stands that are staggered back can be
+placed with as much or as little of their stands touching as
+the player wishes, but must contact with a fellow stand
+at least corner to corner. Either way the unit must retain
+a coherent formation with all stands touching. If a unit
+is unable to both charge *and* retain a coherent formation
+then the move is not allowed. See <<f-unable-to-form-a-battle-line>>.
+
+Any additional enemy units contacted as a result of the
+placement of these stands also count as being charged
+and are drawn into the combat engagement – even if
+chargers are only touching at their side or rear edge.
+If armed with appropriate shooting weapons they are
+entitled to shoot at the charging unit as described in the
+Shooting section.
+
+.{empty}
+image::combat-phase/unable-to-form-a-battle-line.svg[id=f-unable-to-form-a-battle-line]
+
+=== Blocked edges
+
+// Spelling available
+In some situations a charging unit will be unable to
+charge because, although it can see the enemy unit,
+the indicated edge of the closest stand is blocked.
+The indicated edge could conceivably be blocked by
+impassable terrain, by other enemy stands, or by stands
+from other friendly units that have already engaged the
+enemy unit in combat. Remember, an edge is blocked not
+only if it is completely covered, but also if there is less
+than 1cm of exposed edge available to contact.
+
+In all these situations the charger moves the charging
+stand against the next closest stand in the target unit,
+assuming this stand is an accessible visible stand within
+the same zone. If this stand edge is also blocked then the
+charger can move to the third closest stand, and so on.
+
+image::combat-phase/closest-visible-stand.svg[id=closest-visible-stand]
+
+If no accessible edge is presented by any stand in the
+target unit then the charge is not normally allowed – for
+example, if there is impassable terrain covering the unit’s
+front edge and the charger is positioned in the target’s
+front zone. The exception to this is a ‘pinned’ enemy unit
+as described below.
+
+=== Pinned targets
+
+If the indicated edge of the entire enemy target unit
+has already been covered by stands from other friendly
+units then the unit is described as *pinned*.
+
+////
+// Difference with Bo5A/Ancients
+[.bo5a]#Note that *all* appropriate
+edges have to be covered by opposing stands – not by a mix of
+opposing stands and terrain for example.#
+////
+
+In the case
+of a pinned target, the first charging unit can move into
+corner-to-corner contact with the closest enemy stand
+assuming the charger can see it and has a clear path.
+This is an exception to the normal rule that stands must
+charge edge-to-edge. See <<f-pinned-target>>.
+
+////
+// Significant difference with Bo5A, where the
+// charging stand is allowed to wrap around to the
+// flank (in the illustrated example)
+////
+
+.{empty}
+image::combat-phase/pinned-target.webp[id=f-pinned-target]
+
+=== Irregular formations
+
+If the target unit is in irregular formation then it might
+not be possible for all the charging stands to engage by
+forming a conventional battle line. In this case the first
+charging stand is placed in the standard way as already
+described. It is only the remaining chargers that are
+placed differently.
+
+Remaining charging stands are placed in a line but
+staggered to the front or rear so that they follow the
+shape of the stands presented by the enemy unit.
+
+Although these charging stands might touch the enemy
+only at a corner or along part of their front edge, they
+are considered to be maximising frontage so long as they
+have the maximum portion of enemy stand directly to
+their front.
+
+image::combat-phase/irregular-formations.svg[id=f-irregular-formations]
+
+=== Enveloping charge
+
+The ‘envelop’ rule applies when a unit is charged in the
+side – it represents a unit’s inability to turn enough troops
+quickly enough to avoid being enveloped by an enemy
+charge. The reason for this rule is to avoid situations
+where it is otherwise disadvantageous to charge a unit in
+the side because only a single stand can touch.
+
+include::partial$divider-sword.adoc[]
+
+When a unit charges an enemy unit from the flank
+and contacts only against the side of an enemy stand
+or stands, then any charging stands that would not
+otherwise touch the enemy when forming a battle line
+are allowed to make a further move into contact with
+the charged enemy unit as described for a pursuit. Stands
+must have sufficient move distance remaining from their
+charge move to make the envelopment move.
+
+This is called an ‘enveloping charge’ and it is entirely up
+to the charger whether to envelop or form a conventional
+battle line. Each stand enveloping in this way must move
+so that its front corner contacts the charged enemy unit,
+otherwise these stands can be positioned as the player
+wishes so long as they remain in formation. Enveloping
+stands can contact other enemy units and therefore
+bring them into the combat, but they must also contact
+the charged unit either to their front edge or front corner
+as described. Note that this is comparable to a normal
+pursuit move in most respects – the enveloping charge
+effectively combines a charge and pursuit into a single
+move.
+
+If chargers are infantry with supporting chargers then
+move both the charging and supporting units and work
+out any shooting first. Supporting units remain in their
+battle line and do not envelope.
+
+image::combat-phase/enveloping-charge.svg[id=f-enveloping-charge]
+
+////
+// Ancients and Bo5A have two additional cases
+// - Charging inaccessible edges
+// - Charging fortified enemy
+////
+
+image::combat-phase/battle-view.webp[id=battle-view]
+
 == Units which move off the table
 
 Sometimes units or characters are obliged to move
@@ -680,7 +859,7 @@ defeated in combat or troops driven back by missile fire
 or magic.
 
 If one or more stands in a unit leaves the table edge,
-whether wholly or partially, the whole unit leaves the
+whether wholly or partially the whole unit leaves the
 table. Units that leave the table as a result of retreating
 from combat are deemed destroyed. In any other
 situation roll a D6 and then consult the table below to
@@ -713,11 +892,17 @@ cannot move further that turn.
 point on the table edge it left from. If it is
 reappearing at the beginning of a turn, it may
 move as normal.
+// Difference: Ancients says no initiative moves for 5-6, orders only.
 |===
 
 When a unit reappears on the table it must retain the
 same formation and face the same direction as when it
 left the table.
+
+////
+// Difference: Ancients says rear edge against the table edge, facing forward.
+Infantry in line or column, cavalry in a line.
+////
 
 Characters who move off the table with units they have
 joined suffer the same fate as the unit. Characters who
@@ -728,6 +913,6 @@ If a General leaves the table (for whatever reason) and
 does not return immediately then the battle is over and
 his army withdraws. He abandons his army and heads
 for the hills and is considered to be a casualty. See the
-End of the Battle section.
+xref:end-of-the-battle.adoc[End of the Battle] section.
 
 image::movement/griffon.webp[]
