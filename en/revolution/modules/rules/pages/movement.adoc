@@ -326,11 +326,15 @@ image::movement/knights.webp[]
 
 // Moved to end of chapter
 
-// == Moving by initiative
-// Moved to Command chapter (xref:command.adoc#initiative-movement[]).
+[discrete]
+[.moved]
+== Moving by initiative
+
+[.moved]
+→ Moved to xref:command.adoc#initiative-movement[Command, Initiative movement].
 
 [.h-bo5a]
-=== The evade
+== The evade
 
 ////
 // WMR original
@@ -409,8 +413,12 @@ image::movement/evade-burst-through.svg[id=evade-burst-through]
 
 image::movement/treemen.webp[]
 
-// === Character movement
-// Moved to Command chapter (xref:command.adoc#character-movement[]).
+[discrete]
+[.moved]
+=== Character movement
+
+[.moved]
+→ Moved to xref:command.adoc#character-movement[Command, Character movement].
 
 image::movement/sun.webp[]
 

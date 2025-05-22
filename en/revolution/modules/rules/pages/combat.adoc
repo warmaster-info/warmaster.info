@@ -71,16 +71,51 @@ considered to be fighting in the same engagement. See
 .Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other.
 image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 
-////
-// Moved to Movement Chapter
+[.moved]
+--
+[discrete]
 == Moving chargers
+
+[.moved]
+→ Moved to xref:movement.adoc#the-charge[Movement, The charge].
+
+[discrete]
 === Sequence of charges
+
+[.moved]
+→ Moved to xref:movement.adoc#sequence-of-charges[Sequence of charges].
+
+[discrete]
 === Enemy in sight
+
+[.moved]
+→ Moved to xref:movement.adoc#enemy-in-sight[Enemy in sight].
+[discrete]
 === Zones
+
+[.moved]
+→ Moved to xref:movement.adoc#front-flank-and-rear[Front, flank and rear].
+
+[discrete]
 === The charge move
+
+[.moved]
+→ Moved to xref:movement.adoc#the-charge-move[The charge move].
+
+[discrete]
 === Forming a battle line
+
+[.moved]
+→ Moved to xref:movement.adoc#forming-a-battle-line[Forming a battle line].
+
+[discrete]
 === Contact with other enemy
-////
+
+[.moved]
+→ Moved to xref:movement.adoc#contact-with-other-enemy[Contact with other enemy].
+
+--
+
 === Exceptions & Anomalies
 
 In some situations the proximity of scenery or other
@@ -558,7 +593,7 @@ causalities. Units benefit from support throughout a
 combat round even where causalities might remove
 supported or supporting stands.
 
-== Supporting Combat
+== Supporting combat
 
 Units are automatically included in any combat
 engagement where they support. This means they are
@@ -572,8 +607,12 @@ separate combat engagements. Even in this case, there is
 only one combat engagement – not two. All the units are
 interlinked via the supporting unit.
 
-// === Supporting charges
-// Moved to Movement section
+[discrete]
+[.moved]
+=== Supporting charges
+
+[.moved]
+→ Moved to xref:movement.adoc#supporting-charges[Movement, Supporting charges].
 
 == Retreats
 
