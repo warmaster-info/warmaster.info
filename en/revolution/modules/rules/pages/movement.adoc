@@ -249,82 +249,13 @@ image::movement/move-through-gap.webp[id=move-through-gap]
 .This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through.
 image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
 
-=== Terrain
+[discrete]
+[.moved]
+[#moved-terrain]
+== Terrain
 
-It is well known fact that terrain features radically affect
-strategy, providing strong points to defend as well as
-obstructions to movement.
-
-*Infantry* can move into or over terrain features with no
-reduction to their movement distance.
-
-*Cavalry* and monsters can’t move into or over terrain
-features on the battlefield except for hills, bridges,
-shallow fordable rivers, grown fields and low obstacles
-(hedges, walls, fences or ditches, for example).
-
-*Chariots and artillery* cannot move into or over terrain
-features on the battlefield except for hills and bridges.
-
-*Machines* have special rules but in general treat terrain
-in the same way as chariots.
-
-There are rules in the rulebook and army lists referring
-to some terrain features as a *dense terrain*. A *dense
-terrain* imposes −1 Command penalty as described in
-xref::movement.adoc#terrain[Command phase – Terrain]. Typical dense terrain
-features are woods, built-up areas and broken or marshy
-ground (for more detail see xref::advanced-terrain-rules.adoc[Advanced Terrain Rules]).
-
-Any other feature large enough to warrant representation
-on the tabletop is considered to form a barrier to cavalry,
-chariot, monster, machine and artillery movement
-(unless players choose to agree otherwise before the
-game).
-
-Hills can be moved over by all troops if they are
-essentially open and quite shallow but steep, rock strewn
-or wooded hills are considered impenetrable to all units
-except infantry.
-
-In some exceptional cases, terrain might be considered
-a barrier to all troops, including infantry as well as
-cavalry, etc. Obvious examples include a huge canyon,
-a lake of molten lava, the ocean or an especially large
-river. These are unusual and entertaining features but
-don’t really enter into the majority of games, so we won’t
-concern ourselves with them any further. If you refer to
-the Advanced Terrain Rules section you’ll find further
-examples of rules for unusual terrain.
-
-Rules occasionally oblige units to move into terrain they
-cannot cross. If units attempt to move into terrain they
-cannot cross they will halt at the edge. If they are *driven
-back* into impassable terrain as a result of shooting or
-magic, they may become *confused* (see the xref::shooting.adoc[Shooting
-Phase] section and the xref::confusion.adoc[Confusion section]). If a
-unit is forced to retreat into impassable terrain during
-combat, then stands may be destroyed as a result (see
-xref::combat.adoc#retreats[Combat phase – Retreats]).
-
-=== Fortifications and buildings
-
-High walls, tall towers and large buildings block
-movement as you might reasonably expect. In these
-cases, troops must move through gateways or gaps. The
-exception to this is flying troops and this is covered in
-detail in the section on Flying Units.
-
-The only time when ground troops can move across
-an intact curtain wall, tower or similar fortification is
-when infantry are making an assault as described in the
-chapter xref::siege-and-fortresses.adoc[Siege & Fortresses]. Assaulting troops
-come prepared with scaling ladders, grappling hooks,
-siege towers and a hefty dose of grim determination.
-
-image::movement/knights.webp[]
-
-// Moved to end of chapter
+[.moved]
+→ Moved to <<terrain>> at the end of this chapter.
 
 [discrete]
 [.moved]
@@ -916,3 +847,271 @@ for the hills and is considered to be a casualty. See the
 xref:end-of-the-battle.adoc[End of the Battle] section.
 
 image::movement/griffon.webp[]
+
+== Terrain
+
+[.bo5a]
+By terrain we mean woods, hills, rivers and other features that
+might conceivably be found on the battlefields.
+Many of these features hinder troops
+because they impose a Command penalty. In some cases,
+features can be impenetrable to one or more troop types.
+[.edit]#This can# radically affect
+strategy, providing strong points to defend as well as
+obstructions to movement.
+
+[#open-ground]
+[.ancients]
+Open ground:: This is the term used for the
+predominantly open area of the battlefield represented by
+the flat table surface. Of course, in reality even supposedly
+open and level ground is likely to be slightly undulating
+and might include any number of individual trees, the
+odd house, a few boulders, and so on. For our purposes,
+the flat table surface will provide perfectly serviceable.
+
+////
+*Infantry* can move into or over terrain features with no
+reduction to their movement distance.
+
+*Cavalry* and monsters can’t move into or over terrain
+features on the battlefield except for hills, bridges,
+shallow fordable rivers, grown fields and low obstacles
+(hedges, walls, fences or ditches, for example).
+
+// Comment: I understand "grown fields" to mean "cultivated fields",
+// i.e. "Loose terrain". This is then consistent with cavalry
+// being unable to enter dense terrain.
+
+*Chariots and artillery* cannot move into or over terrain
+features on the battlefield except for hills and bridges.
+
+// Comment: conflicts with description of Villages
+
+*Machines* have special rules but in general treat terrain
+in the same way as chariots.
+
+There are rules in the rulebook and army lists referring
+to some terrain features as a *dense terrain*. A *dense
+terrain* imposes −1 Command penalty as described in
+xref::movement.adoc#terrain[Command phase – Terrain]. Typical dense terrain
+features are woods, built-up areas and broken or marshy
+ground (for more detail see xref::advanced-terrain-rules.adoc[Advanced Terrain Rules]).
+
+Any other feature large enough to warrant representation
+on the tabletop is considered to form a barrier to cavalry,
+chariot, monster, machine and artillery movement
+(unless players choose to agree otherwise before the
+game).
+
+Hills can be moved over by all troops if they are
+essentially open and quite shallow but steep, rock strewn
+or wooded hills are considered impenetrable to all units
+except infantry.
+
+In some exceptional cases, terrain might be considered
+a barrier to all troops, including infantry as well as
+cavalry, etc. Obvious examples include a huge canyon,
+a lake of molten lava, the ocean or an especially large
+river. These are unusual and entertaining features but
+don’t really enter into the majority of games, so we won’t
+concern ourselves with them any further. If you refer to
+the Advanced Terrain Rules section you’ll find further
+examples of rules for unusual terrain.
+
+Comment: It's thoroughly confusing having the terrain
+rules split between two chapters, especially when some
+of the differences are fairly minor (muddy vs cultivated fields).
+////
+
+[#dense-terrain]
+[.edit]
+Dense terrain:: Several terrain features listed here,
+and some rules in the army lists, refer to *dense terrain*.
+Only infantry can enter dense terrain, and units suffer a −1 Command
+penalty if any stand lies within dense terrain when an order
+is given as described in xref::command.adoc#dense-terrain[Command penalties].
+
+// (Breaking description list)
+
+[#low-visibility-terrain]
+[.edit]
+2cm visibility terrain:: When within woods and villages,
+troops cannot draw a line of sight except that stands placed
+within 2cm of the edge can see out, and can be seen by troops
+outside.
++
+By the same token, troops further inside the woods or village
+can see and be seen by other troops up to 2cm away.
+
+[.h-edit]
+=== Types of terrain
+
+// Minor spelling/grammar
+Hills and slopes::
+These impose no penalties on the movement of
+troops. All units can move over hills and slopes so long as
+they are not especially steep, rugged, or otherwise difficult
+– such features must be stated before the game. The overall
+footprint of hill models, including slopes, blocks line
+of sight. Infantry and artillery stands positioned on a hill
+are xref:combat.adoc#defended[*defended*] against any units charging or shooting from
+a lower positions.
+
+////
+// Difference
+[.bo5a]
+Steep hills and slopes:: Slopes that are extremely steep,
+rugged or otherwise hard going are considered to be *dense
+terrain*. Dense terrain is impenetrable to all troops apart from
+infantry. Only infantry stands can enter dense terrain, and units
+suffer the -1 Command penalty if any stands lie within
+dense terrain when an order is given.
+////
+
+Shallow rivers or streams:: This terrain [.edit]#is impenetrable to#
+chariots, artillery and machines. Infantry
+can be xref:combat.adoc#defended[*defended*] along the river’s edge against enemy
+charging from within or across a stream. Streams and
+shallow rivers don’t block line of sight.
+
+Broken or marshy ground:: This includes areas that are
+hard going for whatever reason; for example treacherous
+ruins, entangling scrub, irrigated or excessively muddy
+fields or soft marshy ground. [.edit.]#Only infantry can enter this *<<dense-terrain,dense terrain>>*, which#
+doesn’t block line of sight. Infantry stands are
+xref:combat.adoc#defended[*defended*] in broken or marshy ground.
+
+// Comment: Sand dunes are *very* difficult to climb or cross,
+// and don't really belong here.
+Loose terrain:: Cultivated fields to sand dunes, rocky
+ground to fully grown corn fields. This terrain doesn’t
+necessarily give a defender any advantages, but it isn’t
+going to do anything to help the chargers advance.
+Charging units earn *no charging bonus* when charging
+a unit within loose terrain. It is also impenetrable to
+chariots, artillery and machines. Loose terrain doesn’t
+block line of sight.
+
+Woods and tall scrub:: These consist of substantial
+areas of growing trees or tall vegetation. Only infantry
+[.edit]#may# enter and stands count as xref:combat.adoc#defended[*defended*] when within.
+Woods and tall scrub are *<<dense-terrain,dense terrain>>* with [.edit]#*<<low-visibility,2cm visibility>>*#.
+
+// Difference: Ancients/Bo5A: only infantry can enter, 2cm dense terrain, just another forest.
+Villages, [.edit]#towns,# and other built-up areas::
+A distinguishable
+bordered area consisting of [.edit]#multiple# buildings,
+paths, dividing walls,
+gardens, pasture, orchards and so forth. The
+entire built-up area is considered to be a broad terrain
+type: no account is taken of individual buildings,
+[.edit]#etc#. All units may enter, infantry and artillery
+count as xref:combat.adoc#defended[*defended*] when within. All units
+can be *pursued* when starting their retreat in this terrain
+type. Villages and towns are *<<dense-terrain,dense terrain>>* with *<<low-visibility,2cm visibility>>*.
+
+Individual buildings, [.edit]#boulders# or terrain features:: These are
+significant structures, interconnected buildings or terrain
+features such as boulders. These are impenetrable to all
+units and block line of sight.
+
+Rivers, lakes and other deep water::
+Ravines and deep pits::
+These are
+impenetrable to all units and don’t block line of sight.
+
+Sheer cliffs and mountains::
+These are impenetrable to all units and block line of sight.
+
+// Bo5A difference: dense terrain penalty still applies
+Roads and tracks:: These permit movement to units in
+column formation as for open ground regardless of the
+type of terrain traversed. A [.edit]#stand# placed centrally across
+or along a road is conveniently assumed to be travelling
+along it despite the road’s width. Infantry placed on a
+road through dense terrain still counts as xref:combat.adoc#defended[*defended*],
+other troop types count as ‘in the open’ as usual.
+If a unit moves its entire distance along a road then the
+*next order* will be issued with a +1 to command. Roads
+obviously don’t block line of sight.
++
+// Spelling i.e.
+Some players may prefer to move their infantry in
+*marching column* along the roads in the same way
+as cavalry, with the short edge to the front. This is perfectly
+possible and the 20mm side can be treated as the ‘front’ for
+the purpose of moving and [.edit]#determining line of# sight, however it still counts
+as the side when in combat with all the [.edit]#resulting# consequences.
+
+// Spelling bridges. Separate as they are slightly different (chariots).
+Bridges:: If a river or ravine has a bridge then all
+troops may cross at that point without penalty.
+Bridges don’t block line of sight.
+
+Fords:: If a river has a ford, all troops except chariots,
+artillery or machines may also cross at the ford without
+penalty. Fords don’t block line of sight.
+
+Low linear obstacles::
+These are features such as ditches,
+hedges, fences, and low walls primarily intended to form
+property boundaries, divide fields or confine animals.
+Low linear obstacles impose no restriction or penalties
+on the movement of infantry, cavalry or monsters, but
+cannot be crossed by chariots, artillery or machines.
+Infantry and artillery stands placed behind a low linear
+obstacle count as xref:combat.adoc#defended[*defended*]. Low linear obstacles don’t
+block line of sight.
+
+// Spelling defence
+High linear obstacles:: These are tall features such as
+high walls and hedged, fenced or ditched embankments
+primarily intended for defence. These features are
+impenetrable to all troops except for infantry. Infantry
+can move over or through a high linear obstacle without
+penalty. Infantry and artillery stands placed behind
+a high linear obstacle count as xref:combat.adoc#fortified[*fortified*]. High linear
+obstacles block line of sight.
+
+City and fortress walls::
+High walls, tall towers and large buildings block
+movement as you might reasonably expect. In these
+cases, troops must move through gateways or gaps.
++
+The only time when ground troops can move across
+an intact curtain wall, tower or similar fortification is
+when infantry are making an assault as described in the
+chapter xref::siege-and-fortresses.adoc[Siege & Fortresses]. Assaulting troops
+come prepared with scaling ladders, grappling hooks,
+siege towers and a hefty dose of grim determination.
+
+[#terrain-summary]
+[.edit]
+.Terrain summary
+****
+[%header,format=tsv,cols="h,3*<",frame=none,grid=rows]
+|===
+include::partial$terrain-restrictions.tsv[]
+|===
+****
+
+[.h-bo5a]
+=== Units forced into impenetrable terrain
+
+The rules occasionally oblige units to move into terrain they
+cannot [.bo5a]#enter. Stands are not permitted to move
+so that their bases intersect with terrain that is impassable to
+them – either wholly or partially. Stands will automatically#
+halt at the edge [.bo5a]#of terrain they cannot enter#.
+
+// TODO: link, and be more definite.
+If they are *driven back*
+into impassable terrain as a result of shooting or
+magic, units may become *confused* (see the xref::shooting.adoc[Shooting
+Phase] section and the xref::confusion.adoc[Confusion section]). If a
+unit is forced to retreat into impassable terrain during
+combat, then stands may be destroyed as a result (see
+xref::combat.adoc#retreats[Combat phase – Retreats]).
+
+image::movement/knights.webp[]

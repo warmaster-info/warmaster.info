@@ -26,9 +26,19 @@
   Fortified units and units in an irregular formation move at up to half pace.
 
 == Terrain
+
+////
+// WMR original. Note incorrect — cavalry can enter villages, loose terrain
 . Infantry can move into any terrain.
 . Cavalry and monsters cannot move into or over terrain features other than hills,
   bridges, shallow fordable rivers and low obstacles.
 . Chariots, artillery and machines (in general) cannot move into or over terrain
   features other than hills and bridges.
+////
 
+// Inspired by Bo5A, but that has different rules.
+[.edit]
+[%header,format=tsv,cols="h,3*<",frame=none,grid=rows]
+|===
+include::partial$terrain-restrictions.tsv[]
+|===
