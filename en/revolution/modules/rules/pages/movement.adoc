@@ -108,8 +108,6 @@ unless in a fortified position as noted above.
 .In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement.
 image::movement/column-formation.webp[]
 
-image::movement/helm.webp[]
-
 Units arranged in a straight *line* with all their stands
 facing in the same direction and butted edge-to-edge move
 at full pace unless in a fortified position, as noted earlier.
@@ -202,6 +200,8 @@ later>>.
 Stands can always move through characters
 as described in the xref:characters.adoc[Generals, Heroes and Wizards section].
 
+image::movement/helm.webp[]
+
 [.h-bo5a]
 === Moving through gaps
 
@@ -264,6 +264,8 @@ image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
 [.moved]
 → Moved to xref:command.adoc#initiative-movement[Command, Initiative movement].
 
+image::movement/anvil.webp[]
+
 [.h-bo5a]
 == The evade
 
@@ -290,8 +292,6 @@ closest two opposing stands. Where stands are equally
 close, the evading player may choose between them. The
 resulting line indicates the exact direction in which the
 evaders move. See <<evade-direction>>.
-
-image::movement/anvil.webp[]
 
 //Move the evading unit one stand at a time. First, move
 //the evading stand that is closest to the enemy.
@@ -969,6 +969,7 @@ suffer the -1 Command penalty if any stands lie within
 dense terrain when an order is given.
 ////
 
+// Comment/question/TODO: Is this undefended from shooting?
 Shallow rivers or streams:: This terrain [.edit]#is impenetrable to#
 chariots, artillery and machines. Infantry
 can be xref:combat.adoc#defended[*defended*] along the river’s edge against enemy

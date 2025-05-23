@@ -1,4 +1,4 @@
-= The Command Phase
+= [.edit]#Command & Initiative#
 
 Units [.bo5a]#and characters are# usually moved in the Command phase. A unit
 usually requires orders before it will move but if
@@ -21,7 +21,7 @@ Any units moving by initiative do so.
 . *<<orders>>*
 +
 Orders are given to other units to move.
-. *[.bo5a]#Character Movement#*
+. *[.bo5a]#<<character-movement>>#*
 +
 [.bo5a]#Characters are moved.#
 
@@ -248,6 +248,9 @@ charge and evade.  A unit *cannot* use initiative to move in
 any other way. The rules for xref:movement.adoc#moving-chargers[charges] and xref:movement.adoc#the-path-of-evaders[evades] are
 described in the Movement section.
 
+[.wmr]
+image::the-command-phase/giant.webp[]
+
 [.h-ancients]
 == Orders
 
@@ -279,8 +282,6 @@ Once a unit has been given an
 order, it is moved and can be given a further order and
 moved again, up to a maximum of *three* times in total.
 This process is described in detail in the rules that follow.
-
-image::the-command-phase/giant.webp[]
 
 === Giving an order
 
@@ -345,14 +346,14 @@ lost or confused (perhaps the
 messenger has been caught up in
 nearby enemy action and killed).
 
+image::the-command-phase/skinks.webp[]
+
 === Giving further orders
 
 When a unit is given an order, it moves to a new position.
 Usually this enables the unit to move 20cm if it is infantry
 or 30cm if cavalry, but some troops move at different
 speeds as we shall see later.
-
-image::the-command-phase/skinks.webp[]
 
 Once a unit has moved, the character can give it a further
 order to move again or he can attempt to give an order to
@@ -510,8 +511,6 @@ dense terrain penalty). [.bo5a]#Although he only needs 8 or less, this time he
 is unlucky and rolls a 10. The unit does not move – the
 General has failed an order so the Orders sub-phase comes to an end.#_
 
-image::the-command-phase/triskelion.webp[]
-
 .Optional rule
 ****
 All Characters have +1 bonus to their Command
@@ -521,7 +520,7 @@ communication before the battle commences. Note
 that the Command value can never exceed 10.
 ****
 
-image::the-command-phase/bretonnian-knights.webp[]
+image::the-command-phase/triskelion.webp[]
 
 == Charge!
 
@@ -715,3 +714,5 @@ so that they touch in one turn if they are to be given a
 brigade order in the next.#
 
 // TODO: Smaller of the two diagrams from Bo5A.
+
+image::the-command-phase/bretonnian-knights.webp[]
