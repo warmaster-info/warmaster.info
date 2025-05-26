@@ -1,10 +1,10 @@
 = Generals, Wizards & Heroes
 
 Generals, Wizards and Heroes are represented by a
-single stand which includes the great man himself
-plus his bodyguard, standard bearer, familiars, servants,
+single stand which includes the [.bo5a]#famous individual#
+plus [.edit]#their# bodyguard, standard bearer, familiars, servants,
 messengers, observers, courtiers, pets, jesters, toadies
-and other such hangers-on as make up his immediate
+and other such hangers-on as make up [.edit]#their# immediate
 entourage. For the sake of convenience, Generals,
 Wizards and Heroes are referred to as characters.
 
@@ -105,8 +105,6 @@ they can be slain if a unit they are with is destroyed,
 as described later. A character stand on its own cannot
 charge or fight an enemy unit.
 
-include::partial$divider-axe.adoc[]
-
 It is worth bearing in mind that character stands are
 always ignored when considering which enemy target is
 the closest and when measuring between units. Similarly,
@@ -114,17 +112,7 @@ an enemy unit cannot act on its initiative with regard to a
 character and the presence of an enemy character within
 20cm does not impose a −1 Command penalty.
 
-== Characters & terrain
-
-// Spelling i.e.
-// "Monstrous and Chariot Mounts" is "Character Mounts".
-Unless riding monsters or chariots, character stands
-ignore terrain in the same way as infantry. Only terrain
-which is impossible for infantry to cross is impossible
-for characters (i.e, a character cannot move across the
-open ocean, into a volcanic lake and so forth). If riding
-monsters or chariots, characters are restricted by terrain
-in the same way as these troops. See [.edit]#<<character-mounts>>#.
+//include::partial$divider-axe.adoc[]
 
 image::generals-wizards-and-heroes/dark-knight.webp[]
 
@@ -132,6 +120,8 @@ image::generals-wizards-and-heroes/dark-knight.webp[]
 
 We have already described how characters give orders in
 the Command phase.
+[.bo5a]#This section summarises the principle rules – for
+details see the rules for xref:command.adoc#orders[Orders].#
 
 Any character can issue an order to any unit or brigade
 within his command range. The General’s command
@@ -158,7 +148,9 @@ Hero and then from the General again.
 Once a Hero or Wizard has failed to issue an order, that
 character can issue no more orders in that Command
 phase. However, other characters can continue issuing
-orders until they too fail to issue an order. Once the
+orders until they too fail to issue an order.
+
+Once the
 General has failed to give an order, *no further orders* can
 be issued in that Command phase by *any* characters even
 if they have issued no orders previously. This makes it
@@ -194,7 +186,8 @@ a brigade, except where noted otherwise. If it is the first
 order to the unit/brigade then the half pace move is not
 allowed. Follow the result of the Blunder table instead.
 
-General doesn’t blunder. However, if the General rolls
+A General doesn’t blunder – [.bo5a]#they are above such things.#
+However, if the General rolls
 a 12 the unit/brigade cannot move even if it was its first
 order and therefore it was eligible for a half pace move.
 
@@ -252,6 +245,7 @@ phase.
 --
 
 *6 Up and ’at ’em, men!*::
++
 --
 The troops are overcome by a sudden and
 uncontrollable lust for glory and surge forwards
@@ -288,6 +282,21 @@ movement in the Command section. To summarise:
   driven back by missile fire, move to make way for
   other units, and throughout the Combat phase
   during pursuit, fall backs, retreats and advances
+
+// Bo5A removed heading.
+//== Characters & terrain
+
+// Spelling i.e.
+// "Monstrous and Chariot Mounts" is "Character Mounts".
+Unless riding monsters or chariots, character stands
+[.bo5a]#treat# terrain in the same way as infantry
+[.bo5a]#regardless of whether the actual model is mounted.#
+Only terrain
+which is impossible for infantry to cross is impossible
+for characters (i.e, a character cannot move across the
+open ocean, into a volcanic lake and so forth). If riding
+monsters or chariots, characters are restricted by terrain
+in the same way as these troops. See [.edit]#<<character-mounts>>#.
 
 image::generals-wizards-and-heroes/tusks.webp[]
 
