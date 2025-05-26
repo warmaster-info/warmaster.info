@@ -1,4 +1,4 @@
-= Combat Phase at a Glance
+= Combat at a Glance
 :page-role: -toc at-a-glance
 
 == Combat engagement
@@ -10,11 +10,9 @@
 
 . Total the Attack value for each unit.
 . Roll the number of dice indicated.
-. Rolls of 4+ score hits.
-+
-Rolls of 5+ are needed to score hits on a defended target.
-+
-Rolls of 6+ are needed to score hits on a fortified target.
+** Rolls of 4+ score hits.
+** Rolls of 5+ are needed to score hits on a defended target.
+** Rolls of 6+ are needed to score hits on a fortified target.
 . Make Armour rolls and discount saved hits.
 . Record hits scored.
 . Remove stands where sufficient hits are scored.
@@ -26,12 +24,13 @@ Rolls of 6+ are needed to score hits on a fortified target.
 
 [cols="<,<3",frame=none,grid=rows]
 |===
-.2+^a|
+.3+^a|
 [discrete]
 === Draw!
 |Both sides score the same hits.
 |Both sides fall back from zero cm (but at least 1cm from the enemy) to
-3D6cm except for defended or fortified units. Combat ends.
+3D6cm except for defended or fortified units.
+|Combat ends.
 
 .4+^a|
 [discrete]
@@ -52,12 +51,13 @@ unresolved.
 
 == Pursuit / Advance
 
-. Infantry never pursue retreating cavalry or chariots unless infantry charged their
+. Infantry [.bo5a]#cannot# pursue retreating cavalry or chariots unless infantry charged their
   flank or rear or the charged unit is in irregular formation.
 . Artillery never pursue. If forced to retreat they are destroyed.
 . Fortified troops never pursue.
 . Victors cannot pursue into terrain they cannot enter or cross.
 . Advancing units charge nearest visible enemy unit within 20cm.
+. [.bo5a]#All pursuing, advancing or retreating units lose defended or fortified status.#
 
 == Attack modifiers
 

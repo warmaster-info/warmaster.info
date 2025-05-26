@@ -1,8 +1,53 @@
 = Combat
 
+Combat represents close quarter fighting between
+enemies whether it is continuous hand-to-hand combat,
+very short-range missile fire or a combination of both. In
+some cases we might imagine units clashing repeatedly
+for brief periods which are punctuated by momentary
+pauses in which the combatants gather their energy. This
+is especially likely when fighting over broken ground
+such as woods or amongst ruins or when troops are
+assaulting fortifications. In any case, all close quarter
+fighting is represented by means of the rules in this
+section.
+
+== [.bo5a]#Combat sequence#
+
+////
+// WMR original
 In the Combat phase, work out the fighting for each combat engagement. You must work out the result for each engagement
 before going on to the next. Work out each in the following combat sequence.
+////
 
+[.bo5a]
+In the Combat phase, both players work out all the combat
+engagements on the battlefield. See below under <<combat-engagement>>
+for a definition.
+
+[.bo5a]
+Each combat engagement must be completed before going on to
+the next. Combat engagements are fought in rounds and an
+engagement can last for one or more rounds depending on the
+result.
+
+////
+// WMR original
+Work
+out one engagement at a time. The player whose turn it
+is nominates which engagements to fight first.
+////
+
+[.bo5a]#Where there are several engagements to be fought, the
+player whose turn it is decides which engagements to fight next
+as the phase progress.  However,#
+if at the end of an engagement a victorious unit *advances*
+into another engagement or initiates a new engagement
+by advancing into a fresh enemy then work out that
+engagement next and include the advancing unit amongst
+those fighting (see <<advance>>).
+
+// TODO links
 ****
 [cols="1,^2,2,6",frame=none,grid=rows]
 |===
@@ -34,26 +79,20 @@ before going on to the next. Work out each in the following combat sequence.
 |===
 ****
 
-Combat represents close quarter fighting between
-enemies whether it is continuous hand-to-hand combat,
-very short-range missile fire or a combination of both. In
-some cases we might imagine units clashing repeatedly
-for brief periods which are punctuated by momentary
-pauses in which the combatants gather their energy. This
-is especially likely when fighting over broken ground
-such as woods or amongst ruins or when troops are
-assaulting fortifications. In any case, all close quarter
-fighting is represented by means of the rules in this
-section.
-
 == Combat engagement
+
+////
+// WMR original after "initiative".
+Units using their initiative must
+always move against the nearest enemy they can see.
+Units acting on an order can move against any enemy
+within reach and which they can see.
+////
 
 Units can move into contact with enemy units during
 their Command phase either by means of an order or
-by using their initiative. Units using their initiative must
-always move against the nearest enemy they can see.
-Units acting on an order can move against any enemy
-within reach and which they can see. In both cases, the
+by using their initiative.
+In both cases, the
 move is referred to as a charge. Once units are touching
 an enemy unit they are said to be engaged in combat.
 
@@ -79,6 +118,9 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 [.moved]
 → Moved to xref:movement.adoc#the-charge[Movement, The charge].
 
+.Subsections moved (click to expand)
+[%collapsible]
+====
 [discrete]
 === Sequence of charges
 
@@ -156,20 +198,17 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 
 [.moved]
 → Moved to xref:movement.adoc#enveloping-charge[Enveloping charge].
+====
 --
+
+image::combat-phase/dwarf-slayer-hero.webp[]
 
 == Attacks
 
 Regardless of whose turn it is, all units which are
-engaged in combat can fight in the Combat phase. Work
-out one engagement at a time. The player whose turn it
-is nominates which engagements to fight first.
-
-If at the end of an engagement a victorious unit *advances*
-into another engagement or initiates a new engagement
-by advancing into a fresh enemy then work out that
-engagement next and include the advancing unit amongst
-those fighting (see <<advance>>).
+engaged in combat can fight in the Combat phase.
+[.bo5a]#Both sides make their attacks and either
+side can potentially win any combat engagement.#
 
 === Attack value
 
@@ -189,9 +228,19 @@ it makes no difference who goes first as stands which
 fall casualty are allowed to fight back before they are
 removed.
 
+[.bo5a]
+Where multiple units are engaged on each side, it is most
+straightforward to work out all the attacks from one unit at a
+time. This makes it easier to remember which stands have fought
+and which have not. Where convenient, players may prefer to
+resolve attacks from several units at once if they are all fighting
+the same enemy unit – this saves rolling different batches of dice.
+If there is any possible doubt about who is fighting whom, deal
+with each unit one at a time to avoid ambiguity.
+
 image::combat-phase/stands-touching.svg[id=stands-touching]
 
-Every stand touching an enemy stand can fight – even if
+Every stand touching an enemy stand can fight, even if
 it is only touching corner-to-corner or at a side or rear
 edge. Hits inflicted are always accumulated against the
 target unit as a whole and not against individual stands.
@@ -203,8 +252,6 @@ potentially attack one of two or more enemy units, the
 player must declare where all of the unit’s stands are
 attacking before rolling dice – this prevents combats
 becoming bogged down into stand-by-stand dice rolls.
-
-image::combat-phase/dwarf-slayer-hero.webp[]
 
 Stands strike against enemy units as dictated by the
 following list of priorities:
@@ -230,31 +277,33 @@ following list of priorities:
 
 image::combat-phase/dark-elves.webp[]
 
-== Attack modifiers
+=== Attack modifiers
 
-*The Attack value of a stand is modified by tactical factors as shown below. These represent different tactical
-situations by means of bonuses or penalties.*
+****
+The *Attack value* of a stand is modified by tactical factors as shown below. These represent different tactical
+situations by means of bonuses or penalties.
 
 include::partial$combat-attack-modifiers.adoc[]
+****
 
-=== Charging against enemy in the open
+==== Charging against enemy in the open
 
 // Extra space e.g.
 This bonus applies to all stands where a unit charges
 into combat. The bonus only applies in the first combat
 round of an engagement. The bonus does not apply if the
-enemy are not in the open, e.g., when a stand is fighting
+enemy are not in the open, e.g. when a stand is fighting
 against infantry or artillery in a defended or fortified
 position as described later.
 
-=== Monster/chariot charging
+==== Monster/chariot charging
 
 This bonus is applied to Monster and Chariot stands
 charging in addition to the basic charging bonus. This
 means that Monsters and Chariots receive a total bonus
 of +2 when charging against enemy stands in the open.
 
-=== Pursuit attack
+==== Pursuit attack
 
 This bonus applies to stands from pursuing units that
 won the previous round of combat and are attacking
@@ -263,7 +312,7 @@ Pursuit bonuses only apply in subsequent rounds of
 combat, including the first round of unresolved combats
 fought in the previous turn.
 
-=== Pursuit attack per full 3cm
+==== Pursuit attack per full 3cm
 
 This bonus applies to stands whose units pursue enemies
 that have retreated by 3cm or more in the previous
@@ -273,7 +322,7 @@ enemy retreats adds a further +1. So a unit which forces
 its enemy to retreat 6cm gets a +1 pursuit bonus plus a
 further +1 for each full 3cm, making +3 in total.
 
-=== Fighting terrifying enemy
+==== Fighting terrifying enemy
 
 This penalty applies to all individual stands which
 are touching at least one stand of terrifying enemy.
@@ -283,9 +332,7 @@ which are terrifying themselves... you can’t terrify a
 terrifying creature! Creatures which terrorise their foes
 are indicated in the Army List section.
 
-image::combat-phase/harpy-hero.webp[]
-
-=== Enemy facing own side or rear
+==== Enemy facing own side or rear
 
 This penalty applies to individual stands which have an
 enemy stand’s front edge or front corner touching their
@@ -294,20 +341,22 @@ enemy front edges and corners impose this penalty.
 Opposing stands touching side to side don’t impose a
 mutual penalty for example.
 
-=== Confused
+==== Confused
 
 This penalty applies to all stands in a confused unit.
 Units can become confused as a result of missile fire
 or by moving into other friendly units or impassable
 terrain. See the section on xref:confusion.adoc[Confusion].
 
-=== The Last Ditch Dice
+==== The Last Ditch Dice
 
 Attack modifiers can potentially reduce a stand’s Attack
 to zero. If this happens, then a unit always rolls one
 Attack dice regardless.
 
-==== How to calculate damage
+image::combat-phase/harpy-hero.webp[]
+
+=== How to calculate damage
 
 To work out the damage inflicted by a unit in combat,
 begin by adding up the total Attack value of its fighting
@@ -341,7 +390,7 @@ include::partial$divider-axe.adoc[]
 === Casualties
 
 A stand can take a number of hits before it is destroyed,
-as described in the xref:shooting.adoc#removing-casualties[Shooting phase section]. This
+as described in the xref:shooting.adoc#removing-casualties[Shooting rules]. This
 varies depending upon how tough and determined
 the unit is. Men have a value of 3, for example, whilst
 Dwarfs, an infuriatingly hardy folk, have a value of 4.
@@ -387,17 +436,21 @@ example as a result of an advance. In such a situation, any
 hits accumulated in a previous engagement are carried
 forward into the next.
 
+// TODO: Bo5A showing coloured dice
+
 image::combat-phase/wolf-rider.webp[]
 
-[#combat-results]
-.Combat results
-****
---
-After units have attacked it is time to work out the result. If one side is destroyed then the combat is automatically
-won by the survivor, otherwise compare the number of hits inflicted by both sides. In cases where a unit has been
+== Combat results
+
+After [.bo5a]#all# units have attacked it is time to work out the result. If one side is destroyed then the combat is automatically
+won by the survivor, otherwise compare the number of hits inflicted by both sides.
+
+In cases where a unit has been
 struck with more hits than it can actually take (for example a unit with a total of nine hits might suffer twelve) then
 only count actual hits taken. Excess hits are ignored for purposes of working out combat results.
 
+****
+--
 [discrete]
 == Hits Equal – Draw!
 
@@ -415,16 +468,19 @@ for rules about fighting in defended and fortified positions.
 [discrete]
 == One Side Scores More Hits – Win!
 
-If one side scores more hits than the other, it wins the combat round. The loser must retreat 1cm for
+If one side scores more hits than the other, it wins the combat round.
+
+The loser must retreat 1cm for
 each hit taken in excess of hits inflicted. So if one side scores three hits and the other scores one hit,
 the second side loses by two and must retreat 2cm. See <<retreats>> for further details about how
 to move retreating units.
 
-If a unit wins, the player has a choice of what to do next. The victorious unit can fall back, stand its
-ground or pursue. If a unit destroys its enemy, it cannot pursue but can advance instead.
+[.bo5a]#The winner# has a choice of what to do [.bo5a]#once the enemy has retreated#. Victorious units can fall back, stand their
+ground or pursue [.bo5a]#a retreating enemy#. If a unit destroys its enemy, it cannot pursue but can advance instead.
 
-*Fall Back.* The victorious unit falls back up to 3D6cm. The combat is over.
+*Fall Back.* The victorious unit falls back up to 3D6cm (see <<fall-backs>>). The combat is over.
 
+// TODO link maybe
 *Stand its Ground.* The victorious unit remains where it is. The combat is over.
 
 *Pursue.* The victorious unit is moved back into contact and a further round of pursuit combat is fought
@@ -441,7 +497,8 @@ existing one. See [.edit]#<<pursuit-and-destroyed-enemy>>#.
 --
 ****
 
-== Supporting troops
+[.h-bo5a]
+=== Support
 
 It is possible to affect combat results by using adjacent
 infantry stands to support fighting infantry units. This
@@ -450,7 +507,9 @@ flanks or to provide solidity through depth. Only *infantry*
 can support and be supported in this way.
 
 A stand can only support if it is not touching an enemy
-and the unit it belongs to is not confused. The stand
+and the unit it belongs to is not confused.
+
+[.bo5a]#A supporting# stand
 must be aligned either exactly behind or exactly beside
 a stand that fought to its front during the combat
 round. The supporting stand must also be facing in the
@@ -477,13 +536,15 @@ causalities. Units benefit from support throughout a
 combat round even where causalities might remove
 supported or supporting stands.
 
-== Supporting combat
+=== Supporting combat
+
+// Bo5a rules differ
 
 Units are automatically included in any combat
 engagement where they support. This means they are
 affected by the combat result and the usual options
 apply. This is covered in the following sections under
-Retreats and Aftermath.
+<<retreats>> and <<aftermath>>.
 
 Sometimes, a unit finds it is supporting two different
 friendly units fighting what would otherwise be two
@@ -514,15 +575,15 @@ work out the retreat distance, divide the difference in
 the combat result by the number of units on the *losing*
 side. Remember to include any supporting units and any
 units that have been destroyed if they fought that round.
-Round any fractions up to the nearest cm – the minimum
+Round any fractions up to the nearest centimetre – the minimum
 possible retreat is therefore 1cm. For example if there
 are three units on the losing side and the difference is 6,
 the losing unit retreat by 2cm.
 
 If two or more units are retreating from the same
 engagement then move the units one at a time. The
-retreating player can decide which order to move the
-units in.
+retreating player can decide in which order to move the
+units.
 
 image::combat-phase/retreat-1.svg[id=retreat-1]
 
@@ -538,12 +599,16 @@ image::combat-phase/retreat-2.svg[id=retreat-2]
 The direction of the retreat may be less clear if the unit is
 fighting enemy from several directions at the same time.
 In this case, the unit retreats from the greatest number
-of touching enemy stands. If this is equal, the retreating
-player can nominate which of the possible directions it
-will retreat. For the purpose of calculating the retreat
-direction, enemy stands touching corner-to-corner count
+of touching enemy stands.
+Enemy stands touching corner-to-corner count
 as touching the edge that is parallel to the enemy stand’s
 front.
+[.bo5a]#If the retreating unit has an equal number of enemy stands
+in# [.edit]#the most common direction,# the retreating
+player can nominate which of the possible directions it
+will retreat.
+
+// TODO possible additional diagram
 
 // Spelling fixed
 If there are no enemy stands touching the unit due to
@@ -559,7 +624,7 @@ player can decide which to use.
 
 If all of a unit is supporting another, e.g. if it is placed in a
 second line, then none of its stands are touching an enemy.
-In this case, the friendly supported unit/s determine the
+In this case, the friendly supported unit(s) determine the
 direction of retreat. Work out the direction of retreat for
 the fighting units and then move supporting units back in
 the same direction. This means fighting and supporting
@@ -574,12 +639,18 @@ image::combat-phase/fan.webp[]
 A retreating stand is destroyed if its retreat move is
 blocked. A retreat is considered *blocked* if any part of
 the stand’s base is obliged to move through any of the
-following: enemy stands, stands of other friendly units
-that are engaged in combat (including friendly units that
-have already retreated from the same combat during
-that round), terrain that is impassable, and stands from
-unengaged friendly units that do not make way as noted
-above.
+following:
+
+* Enemy stands
+* Impassable terrain
+* Stands of other friendly units
+  that are engaged in combat (including friendly units that
+  have already retreated from the same combat during
+  that round)
+* Stands from
+  unengaged friendly units that do not make way —
+  [.bo5a]#friendly units can normally move out of the path of
+  retreating units, and this is called xref:confusion.adoc#making-way[making way].#
 
 Stands that are destroyed are removed immediately
 without reducing the number of outstanding hits on
@@ -610,12 +681,12 @@ at the same time. Blocked retreats also become common
 in large engagements as friendly units often get in each
 other’s way.
 
-In rare occasions a unit of three stands may be split
+[.edit]#On# rare occasion a unit of three stands may be split
 when only the middle stand has blocked retreat. If such
 a unit is out of coherency at the end of the turn and no
 longer engaged in combat, one of the remaining stands is
-automatically destroyed. Owning player decides which
-one.
+automatically destroyed. [.edit]#The# owning player decides which
+[.edit]#stand to remove#.
 
 === Retreating units and incidental contacts
 
@@ -636,10 +707,12 @@ An artillery unit which is forced to retreat is
 automatically destroyed. Its weapons are overrun and the
 crew massacred or scattered beyond hope of recovery.
 
-== Aftermath
+[.h-bo5a]
+== Winners
 
 A winning unit can stand, fall back, pursue, or in the
 case where all enemy units are destroyed, advance.
+
 Victorious units do not all have to do the same thing and
 in some cases it may be impossible for them to do so. The
 player deals with the victorious units one at a time in any
@@ -647,11 +720,17 @@ order. It makes no difference whether individual units
 advance, pursue fall back or stand – the player can deal
 with them in any order.
 
-Move victorious units after enemy units have retreated
-after the losing side has completed any necessary moves
-to make way and remove any stands whose retreat is
+Move victorious units [.bo5a]#once# enemy units have retreated
+[.bo5a]#and after# the losing side has completed any necessary moves
+to make way and removed any stands whose retreat is
 blocked.
 
+[.bo5a]
+=== Stand
+
+If a unit stands, it simply stays where it is and does not move.
+
+[.wmr]
 image::combat-phase/skeleton-infantry.webp[]
 
 == Pursuit
@@ -669,8 +748,8 @@ the same combat engagement. However, pursuit is not
 allowed in the following circumstances:
 
 ****
-. Infantry units cannot pursue cavalry or chariots
-  retreating from the same engagement. This
+. *Infantry units cannot pursue cavalry or chariots
+  retreating from the same engagement.* This
   enables mounted troops to avoid pursuit from
   slower foot troops, and also to cover the retreat
   of friends in some situations. There are a few
@@ -680,17 +759,22 @@ allowed in the following circumstances:
   infantry unit is permitted to pursue the retreating
   cavalry or chariot unit in the round it charged.
   For further exceptions see <<infantry-contact-with-cavalry>>.
-. Artillery never pursue retreating enemies of any
+. *Artillery never pursue* retreating enemies of any
   kind and must stand or fall back instead.
-. Fortified units never pursue. If they win a combat
+. *Fortified units never pursue.* If they win a combat
   they must fall back or stand their ground.
-. Troops never pursue enemy who have retreated
-  into or through terrain they cannot enter. For
+. *Troops never pursue enemy who have retreated
+  into or through terrain they cannot enter.* For
   example, cavalry cannot pursue infantry who
   retreat into a wood. There must be at least 1cm of
   edge outside the wood.
-. Non-flying units cannot pursue flying units
-  retreating from the same engagement. Exceptions;
+. [.bo5a]#*Non-flying units never pursue retreating flying units.*
+  Only flying units can pursue retreating flying units. If a non-flying
+  unit wins a combat against a flying unit then it must either
+  stand or fallback. If standing would leave the non-flying unit
+  touching enemy flyers then it must fall back.#
+  +
+  Exceptions:
   a flying unit can be pursued by a non-flying unit
   when charged in the flank or rear or when in
   irregular formation in the round it charged. For

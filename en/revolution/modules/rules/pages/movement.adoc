@@ -1050,6 +1050,7 @@ Bridges:: If a river or ravine has a bridge then all
 troops may cross at that point without penalty.
 Bridges don’t block line of sight.
 
+// Bo5A: obviously doesn't consider artillery/machines, so bridges are the same as fords.
 Fords:: If a river has a ford, all troops except chariots,
 artillery or machines may also cross at the ford without
 penalty. Fords don’t block line of sight.
