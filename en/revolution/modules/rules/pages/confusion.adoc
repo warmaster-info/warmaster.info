@@ -3,10 +3,12 @@
 As astute readers will have gathered, there are several situations where units become confused.
 Confusion often happens in the Combat phase when a unit is forced to move into other troops or
 impassable terrain or in the Shooting phase when a unit is driven back by missile fire. For convenience,
-we have summarised all the circumstances where units can become confused in this section.
+we have summarised all the circumstances where units can become confused in this section,
+[.bo5a]#together with the rules for making way.#
 
 == When do units become confused?
 
+// First one is not in Bo5A.
 . *Burst through by evaders.*
 +
 Unengaged friendly units burst through by evaders are
@@ -16,36 +18,40 @@ the end of the Command phase and so suffer no further
 penalties that turn. See the xref:movement.adoc#the-path-of-evaders[Movement section] for
 more details.
 
-. *Driven back by shooting.*
+. *Driven back [.bo5a]#on a 6# by shooting*
 +
 A unit is confused if it is driven back by shooting and any
 dice roll for the drive back distance is a 6. See the rules
 for xref:shooting.adoc#driving-back-enemies[driving back enemies] in the Shooting phase section.
 
-. *Driven back/falling back into impassable terrain.*
+. *Driven back/falling back into impassable terrain*
 +
 If a unit is driven back by shooting into terrain it can’t
-cross, or is unable to avoid falling back into terrain it
+cross, or is unable to avoid falling back [.edit]#after combat# into terrain it
 can’t cross, it will halt at the edge and is confused on the
 D6 roll of a 6. See xref:shooting.adoc#driving-back-enemies[driving back enemies] in the Shooting
 phase section.
 
-. *Driven back/falling back into enemies or combat.*
+. *Driven back/falling back into enemy [.edit]#contact# or combat*
 +
 A unit driven back by shooting into, or unable to avoid
 falling back into, enemies or any units engaged in
 combat, whether friends or foe, halts 1cm away and is
-automatically confused. See xref:shooting.adoc#driving-back-enemies[driving back enemies] in the
+automatically confused.
+[.bo5a]#If the unit is already within 1cm of
+enemies/engaged stands, it will not be driven closer but is still
+confused.#
+See xref:shooting.adoc#driving-back-enemies[driving back enemies] in the
 Shooting phase section.
 
 . *Unable to Fall back to 1cm from enemy or combat*
 +
-If unit Falls Back from combat and is unable to move
+If unit falls back from combat and is unable to move
 so that it is at least 1cm from any enemy unit, or any
 friendly unit that is engaged in combat, then it is confused
 automatically.
 
-. *Forcing friends to make way.*
+. *[.bo5a]#Friends making way on a 6#*
 +
 If a unit is driven back by shooting, retreats from combat,
 or is unable to avoid falling back, through a friendly
@@ -55,7 +61,7 @@ friends forcing them to make way will become confused
 on the D6 roll of a 6. See the rules for <<making-way>>
 later in this section.
 
-. *Driven back through friends who do not make way.*
+. *Driven back through friends who do not make way*
 +
 A unit driven back by shooting so that it intersects
 a friendly unengaged unit that the player is unable
@@ -64,17 +70,11 @@ confused. The unit that has been driven back halts
 upon contact; the friendly unit does not have to roll for
 confusion as it is not making way.
 
-. *Making way.*
+. *Making way [.bo5a]#on a 6#*
 +
 A unit that makes way for another unit is confused on
 the D6 roll of a 6. See the rules for <<making-way>>
 later in this section.
-+
-Stands which are forced to retreat from combat into
-unyielding friends, enemies, units in combat and
-impassable terrain are destroyed. Hence the possibility
-of confusion is not considered! See the Combat phase
-section for details on xref:combat.adoc#retreats[retreats from combat].
 +
 Note that it is quite possible that a unit has to roll
 multiple times for confusion as a result of a single move
@@ -82,13 +82,34 @@ multiple times for confusion as a result of a single move
 make way at the same time. In these situations make the
 appropriate number of tests.
 
+[.h-bo5a]
+== Retreats & confusion
+
+////
+// WMR original
+Stands which are forced to retreat from combat into
+unyielding friends, enemies, units in combat and
+impassable terrain are destroyed. Hence the possibility
+of confusion is not considered! See the Combat phase
+section for details on retreats from combat.
+////
+
+Stands which are forced to retreat from combat into
+unyielding friends, enemies, units in combat and
+impassable terrain are destroyed.
+
+[.bo5a]
+In the above cases, the possibility of confusion is
+not considered as stands are destroyed instead. See the
+rules for Combat for details on xref:combat.adoc#retreats[retreats from combat].
+
 image::confusion/hammer-infantry.webp[]
 
 == Confused units
 
 A confused unit is judged to have become disheartened
 or disordered. The troops are unwilling or unable to
-obey their officers and in combat they fight either
+obey their officers and [.bo5a]#if engaged# in combat they fight either
 unenthusiastically or in a poorly coordinated fashion.
 The unit remains confused until the end of its Command
 phase. At the end of its Command phase the unit
@@ -109,7 +130,7 @@ automatically recovers.
   phase].
 
 . A confused infantry unit cannot support in combat.
-  See the xref:combat.adoc#supporting-troops[Combat phase].
+  See the rules for xref:combat.adoc#support[Support in Combat].
 
 When a unit becomes confused, it is a good idea to
 make this visually apparent in some way. A convenient
@@ -136,10 +157,12 @@ makes way, it can either *move aside* or *move back*.
 
 === Moving aside
 
-When moving aside, all stands in the path of the friendly
+When moving aside, [.bo5a]#those# stands in the path of the friendly
 unit are moved and all other stands remain stationary.
 The player rearranges the stands that move around
-the stands that remain stationary. If the entire unit
+the stands that remain stationary.
+
+If the entire unit
 lies within the path of the friendly unit then all stands
 must be moved, in this case the player begins with the
 stand that must move the shortest distance to get out of
@@ -159,15 +182,23 @@ image::confusion/troll.webp[]
 
 When moving back, a unit simply keeps pace with its
 friend and moves in the same direction. The move doesn’t
-necessarily need to be to the unit’s ‘back’. In the case of
+necessarily need to be to the unit’s ‘back’.
+
+// TODO: BO5A is clearer, I don't think it makes sense for
+// less than all the stands to be moving back anyway.
+
+In the case of
 infantry units that are making way for other infantry
-units when all the stands of the unit that is making way
+units, when all the stands of the unit that is making way
 lie in the path of the friendly unit, it can be moved behind
 its friends and stands can be arranged into support. See
 <<f-move-back>>.
 
 .{empty}
 image::confusion/move-back.svg[id=f-move-back]
+
+[.h-bo5a]
+=== Tests for making way
 
 Making way for friendly troops may result in several
 units shifting, each moving aside to allow room for

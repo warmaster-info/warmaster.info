@@ -4,17 +4,47 @@
 == Units become confused if:
 
 . Burst through by evaders.
+
 . Driven back by missile fire on any Drive Back roll of a 6.
-. Driven back/falling back into impassable terrain on the roll of a 6.
-. Driven back/falling back into enemies or combat.
+
+. Driven back or falling back into impassable terrain on the roll of a 6.
+
+. Driven back or falling back into enemies or combat.
+
 . Forcing friends to make way on the roll of a 6.
+
 . Driven back/falling back into unyielding friends.
+
 . Making way on the roll of a 6.
-. Unable to Fall Back to 1cm from enemy or combat.
+
+. Unable to fall back to [.bo5a]#at least# 1cm from enemy [.bo5a]#following# combat.
 
 == Confused units
 
-. Confused units cannot move in the Command phase by either initiative or orders.
-. Confused stands suffer a −1 Attacks modifier in combat.
-. Confused infantry stands cannot support in combat.
-. Confused units cease to be confused at the end of their Command phase.
+. Cannot move in the Command phase by either initiative or orders.
+. Suffer a −1 Attacks modifier in combat.
+. Cannot support in combat.
+. Cease to be confused at the end of their Command phase.
+
+[.bo5a]
+== Making way
+
+. Units can make way for friends that are:
+** Driven back by shooting
+** Retreating from combat
+** Making way for another unit
+
+. Units engaged in combat, constricted by terrain, or otherwise unable to move cannot make way.
+. Units can make way by moving aside or moving back.
+
+== Moving aside
+
+. All stands in the path of the friend are moved – all other stands remain in place. Stands are rearranged around those that remain in place.
+
+. If all stands are in the path of the friend, move [.edit]#whichever# stand needs to move the shortest distance to get out of the path.  Rearrange the other stands around this stand.
+
+== Moving back
+
+. The entire unit moves back in the same direction as the friend.
+
+. If infantry move back for other infantry, they can be arranged into support.
