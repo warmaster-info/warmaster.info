@@ -752,13 +752,15 @@ allowed in the following circumstances:
   retreating from the same engagement.* This
   enables mounted troops to avoid pursuit from
   slower foot troops, and also to cover the retreat
-  of friends in some situations. There are a few
-  exception to this rule. If an infantry unit charges
-  a cavalry or chariot unit that is in irregular
-  formation or charges it in the flank or rear, the
-  infantry unit is permitted to pursue the retreating
-  cavalry or chariot unit in the round it charged.
-  For further exceptions see <<infantry-contact-with-cavalry>>.
+  of friends in some situations.
++
+There are a few
+exception to this rule. If an infantry unit charges
+a cavalry or chariot unit that is in irregular
+formation or charges it in the flank or rear, the
+infantry unit is permitted to pursue the retreating
+cavalry or chariot unit in the round it charged.
+For further exceptions see <<infantry-contact-with-cavalry>>.
 . *Artillery never pursue* retreating enemies of any
   kind and must stand or fall back instead.
 . *Fortified units never pursue.* If they win a combat
@@ -773,15 +775,24 @@ allowed in the following circumstances:
   unit wins a combat against a flying unit then it must either
   stand or fallback. If standing would leave the non-flying unit
   touching enemy flyers then it must fall back.#
-  +
-  Exceptions:
-  a flying unit can be pursued by a non-flying unit
-  when charged in the flank or rear or when in
-  irregular formation in the round it charged. For
-  further exceptions see <<infantry-contact-with-cavalry>>.
++
+Exceptions:
+a flying unit can be pursued by a non-flying unit
+when charged in the flank or rear or when in
+irregular formation in the round it charged. For
+further exceptions see <<infantry-contact-with-cavalry>>.
 ****
 
 === Moving pursuers
+
+// TODO: The whole Pursuit section is significantly edited.
+
+[.bo5a]
+Pursuing units are moved back into contact with enemy units that
+retreated away from them.
+Pursuing stands can move up to a normal full pace move
+to close the gap between themselves and either the
+enemy or the stand they are going to support.
 
 Move pursuers one unit at a time starting with units that
 can see the retreating enemy. Where several units can
@@ -803,10 +814,6 @@ example, terrain or other units may block the unit’s path.
 In such a case, and only in such a case, a unit that can
 see an enemy is allowed to make a supporting pursuit
 instead (See <<supporting-pursuits>>).
-
-Pursuing stands can move up to a normal full pace move
-to close the gap between themselves and either the
-enemy or the stand they are going to support.
 
 All pursuing stands must be able to trace a clear path
 towards the enemy. Towards means just that – a pursuer’s
@@ -885,7 +892,7 @@ To make a supporting pursuit at least one stand must
 be moved straight ahead so that it is directly behind or
 directly beside a fighting infantry stand from a different
 unit. Note that this might coincidentally bring the stand
-into corner-tocorner contact with enemy, in which
+into corner-to-corner contact with enemy, in which
 case the stand can fight in the following round. If it is
 impossible for at least one stand to move as described
 then the unit cannot pursue.
@@ -1016,6 +1023,8 @@ If all the enemy units in a combat engagement are
 destroyed, a victorious unit can do one of three things: it
 can *stand its ground*, *fall back*, or *advance*.
 
+// Bo5A difference: that a unit is touching, rather than the whole combat.
+
 Note that in a combat engagement with multiple units
 on both sides, all enemy units have to be destroyed for
 an advance to be able to happen. When friendly units
@@ -1026,15 +1035,6 @@ Phase.
 
 A unit is only allowed to advance once in a Combat phase
 even if its enemies are destroyed a second time.
-
-Units can’t advance through terrain they can’t enter,
-if they are in fortified positions, if there is no path to
-enable them to do so, if the unit is artillery, or if they
-have already advanced in that Combat phase. Otherwise,
-units are allowed to advance against any kind of enemy,
-even if they are a troop type that would not normally be
-allowed to pursue, such as infantry fighting cavalry or
-chariots.
 
 An advance is essentially a new charge move of 20cm.
 An advancing unit can charge the closest enemy unit
@@ -1047,7 +1047,16 @@ Command phase.
 The advancing unit’s move is worked out in the same
 way as a charge except that no stand may move further
 than 20cm regardless of its usual move rate or formation.
-This also applies on the supporting unit.
+This also applies [.edit]#to any supporting units#.
+
+Units can’t advance through terrain they can’t enter,
+if they are in fortified positions, if there is no path to
+enable them to do so, if the unit is artillery, or if they
+have already advanced in that Combat phase. Otherwise,
+units are allowed to advance against any kind of enemy,
+even if they are a troop type that would not normally be
+allowed to pursue, such as infantry fighting cavalry or
+chariots.
 
 image::combat-phase/dwarf-slayers.webp[]
 
@@ -1055,6 +1064,7 @@ Although the move is essentially the same as a charge, no
 charge bonus of any kind applies to advances: this takes
 into account a measure of exhaustion resulting from
 prolonged combat.
+// (Bo5A difference.)
 
 An advance might initiate a new combat engagement, it
 might bring the advancing unit into an existing unfought
@@ -1130,14 +1140,12 @@ this will be unavoidable. Stands cannot contact enemy
 stands from units they were not touching during the
 combat round.
 
-image::combat-phase/village.webp[]
-
 Stands that fall back must end their move at least
 1cm from any enemy units and from any units that
 are engaged in combat whether friends or foes. If it is
 impossible to move all the stands so they are at least
 1cm from enemy or engaged friends, then the unit is
-automatically confused. See Confusion.
+automatically confused. See xref:confusion.adoc[Confusion].
 
 Occasionally, opposing stands are still touching at the
 end of the Combat round once both sides have fallen
@@ -1145,6 +1153,8 @@ back. If this happens, units remain engaged in combat
 and will fight in the following round. Units that fall back
 but fail to break contact are automatically confused by
 dint of being within 1cm of enemy.
+
+image::combat-phase/village.webp[]
 
 === Moving back
 
@@ -1183,6 +1193,8 @@ the following Combat phase to those pursuers who
 are fighting retreating enemy. It is a good idea to make
 a separate note or use some kind of marker to remind
 players which bonuses apply to which combatants.
+
+// Bo5A has rules on Reforming, not included in WMR.
 
 == Remove odd hits
 
@@ -1269,8 +1281,6 @@ it is constructed and positioned in such a way that troops
 must resort to climbing or scrambling up a steep slope in
 order to attack.
 
-image::combat-phase/medusa-demon.webp[]
-
 === Defended & fortified enemy
 
 Only infantry, flying troops, and giants can move into
@@ -1312,3 +1322,5 @@ been pushed over a low wall or rampart. In other cases,
 a unit may be still inside a wood or still up-slope of an
 enemy. However, a unit always loses the advantage of its
 position once it has retreated.
+
+image::combat-phase/medusa-demon.webp[]

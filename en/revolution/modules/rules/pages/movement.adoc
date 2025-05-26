@@ -928,9 +928,9 @@ of the differences are fairly minor (muddy vs cultivated fields).
 [.edit]
 Dense terrain:: Several terrain features listed here,
 and some rules in the army lists, refer to *dense terrain*.
-Only infantry can enter dense terrain, and units suffer a −1 Command
-penalty if any stand lies within dense terrain when an order
-is given as described in xref::command.adoc#dense-terrain[Command penalties].
+Units suffer a −1 Command penalty if any stand lies within
+dense terrain when an order is given as described in
+xref::command.adoc#dense-terrain[Command penalties].
 
 // (Breaking description list)
 
@@ -979,7 +979,7 @@ shallow rivers don’t block line of sight.
 Broken or marshy ground:: This includes areas that are
 hard going for whatever reason; for example treacherous
 ruins, entangling scrub, irrigated or excessively muddy
-fields or soft marshy ground. [.edit.]#Only infantry can enter this *<<dense-terrain,dense terrain>>*, which#
+fields or soft marshy ground. This is *<<dense-terrain,dense terrain>>* but
 doesn’t block line of sight. Infantry stands are
 xref:combat.adoc#defended[*defended*] in broken or marshy ground.
 
