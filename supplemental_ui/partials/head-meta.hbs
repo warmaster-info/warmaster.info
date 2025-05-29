@@ -1,0 +1,13 @@
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.canonicalUrl }}">
+    <meta property="og:site_name" content="{{#with site.title}}{{this}}{{/with}}">
+    <meta property="og:title" content="{{#with site.title}}{{this}} –{{/with}} {{{detag (or page.title defaultPageTitle)}}}">
+    {{!-- https://docs.antora.org/antora-ui-default/templates/ Currently can't use resolvePage --}}
+
+    {{#if (eq page.module 'ROOT') }}
+    <meta property="og:image" content="/en/revolution/rules/_images/warmaster-revolution-rules-cover.webp">
+    <meta property="og:image:alt" content="Cover of Warmaster Revolution rulebook">
+    {{else}}
+    <meta property="og:image" content="/en/revolution/{{ or page.module 'rules' }}/_images/warmaster-revolution-{{ or page.module 'rules' }}-cover.webp">
+    <meta property="og:image:alt" content="Cover of Warmaster Revolution {{ or page.module 'rules' }} book">
+    {{/if}}
