@@ -45,7 +45,7 @@ their turn if they are in range of a [.bo5a]#visible# target.
 Units engaged in combat cannot shoot other than to
 <<shooting-at-charging-enemy,shoot at units that have charged them>>, as described later.
 
-A unit automatically shoots at the closest enemy unit it
+[.qa]#If a unit chooses to shoot, it# automatically shoots at the closest enemy unit it
 can see. All stands shoot at the same target unit where
 possible. If two visible enemy units are equally close, the
 player may choose which to shoot at.

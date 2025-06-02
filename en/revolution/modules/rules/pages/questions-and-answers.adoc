@@ -1,0 +1,492 @@
+= Questions and Answers
+
+This Questions and Answers section can be found in https://drive.google.com/file/d/1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_Warmaster Journal Issue 2024_], via the https://www.wm-revolution.com/articles/download.html[_Warmaster Revolution_ website].  It has some additional questions compared to the https://www.wm-revolution.com/articles/faq.html[2022 FAQ].
+
+[.qa]
+[.qa]#Small edits within the main rules to incorporate these clarifications are shown like this.#
+
+== General questions
+
+[#more-units]
+=== Why aren't more units from Warhammer / Warhammer Total War in the army lists?
+
+Warmaster Revolution seeks to preserve the original game designed by Rick Priestly as far as possible.
+This means the Warmaster army lists are based around units that were available in 6th edition Warhammer, as
+these were the options available at the time. The army lists are intended to reflect the playstyle of the army as
+a whole, rather than representing each individual unit variation. Units represent hundreds of troops from the
+most common troop types associated with the army. You can use alternative models to represent elite versions
+of units by granting a magic item to an existing unit type. _For example, give a magic sword to a High Elf Spearmen unit to represent High Elf Swordmasters._
+
+→ Rulebook: xref:introducing-warmaster.adoc[Introducing Warmaster].
+
+[#unit-basing]
+=== How are different types of units based?
+
+Infantry is based facing the long edge (40mm) of the stand. All other unit types – Cavalry, Chariots,
+Monsters, Artillery and Machines – are based facing the short edge (20mm).
+
+There are some exceptions to this rule which are clearly listed in the unit special rules for their army list. For
+example, Pikemen are Infantry that face the short edge of their base. Harpies and Daemon Flyers are
+Monsters that face the long edge of their base.
+
+→ Rulebook: xref:game-values.adoc#Stands[Game Values – Stands].
+
+[#character-basing]
+=== On what base size do I mount Warmaster characters?
+
+Characters may be mounted on either a
+standard rectangular base of 40mm × 20mm,
+or a circular base up to 25mm in diameter.
+[.edit]#In either case, command range is then measured from
+the edge of the character base#.
+
+[.edit]#Alternatively#, you may mount
+characters on larger base sizes, for example to
+make a diorama. If you do so, you must
+measure distances from one
+specific point on their base which is clear to
+your opponent.
+
+→ Rulebook: xref:characters.adoc#odd-size-character-bases[Generals, Wizards & Heroes – Odd size character bases].
+
+[#in-the-open]
+=== When do stands count as In the Open?
+
+All stands are considered to be In the Open, unless they are Defended or Fortified. Only Infantry and Artillery
+can ever claim Defended or Fortified status, when in suitable terrain.
+
+This is worked out on a stand-by-stand basis. A unit may have some stands In the Open and some that are Defended, for example.
+
+Stands of Cavalry, Chariots, Monsters, and Machines, count as being In the Open regardless of the terrain they occupy.
+
+When a unit is In the Open, attacks will hit them on a 4+ and normal charge bonus attacks apply.
+
+In addition, Infantry which is Charging, Pursuing, Retreating or Advancing can never claim Defended status,
+regardless of terrain or spell effects.
+
+The only exceptions to this rule are the following:
+
+[lowerroman]
+. The Empire Steam Tank
+. The Kislev War Wagon in laager formation.
++
+These units always count as Defended, even though they are machines, and regardless of terrain.
++
+This means the enemy will hit them on a 5+ and enemy chargers gain no Charge bonus attacks against them.
+. Cannon shots *ignore* the target's Defended status, so will hit Defended stands on 4+.
+. Undead Ethereal Hosts always hit the target in combat on a 4+, but still get no charge bonus against
+Defended targets.
+. Stands in Loose Terrain are In the Open, but attackers gain no charge bonus against them.
+
+→ Rulebook: xref:shooting.adoc#defended-or-fortified-targets[Shooting – Defended or fortified targets],
+xref:combat.adoc#attack-modifiers[Combat – Attack modifiers],
+xref:combat.adoc#defended-fortified-enemy[Defended & fortified enemy].
+
+== Line of sight questions
+
+[#los-when]
+Do units require Line of Sight at the beginning of their turn in order to charge?
+
+No. Units require Line of Sight to charge at the beginning of their move, not that start of the turn. So it is
+entirely possible for one unit that is blocking Line of Sight to move out of the way, granting Line of Sight to another unit before it moves.
+
+→ Rulebook: xref:command.adoc#sequence-of-movement[Command – Sequence of movement] (xref:command.adoc#initiative-charge-1[Figure 1], xref:command.adoc#initiative-charge-2[Figure 2]).
+
+=== Can stands draw Line of Sight at 180 degrees from their front corners?
+
+No. In order to draw Line of Sight, the target must be in front of the line that extends 180 degrees from the
+front corners of a stand. If in doubt place the straight edge of a suitably sized piece of paper against the front of
+the unit claiming Line of Sight. The paper represents the Line of Sight zone. If the target unit's base occupies any part of the
+paper, you can draw Line of Sight.
+
+Units wishing to shoot at chargers that connect with their flank cannot do so unless any stand from the
+charging unit is forward of the 180 degree line at any point before, during or after the charge move.
+
+Remember, the Line of Sight is blocked by the presence of other stands, friendly or enemy. This prevents missile units
+in column drawing line of sight sideways out of the column.
+
+The only exceptions are units that have 360 degree line of sight.
+
+image::questions-and-answers/line-of-sight-flank.svg[]
+
+→ Rulebook: xref:game-values.adoc#line-of-sight[Game Values – Line of sight] (xref:game-values.adoc#line-of-sight-target[Figure 3]).
+
+[#los-shooting]
+=== When Shooting, can a unit draw Line of Sight through gaps of less than 1 cm?
+
+No. To draw Line of Sight when shooting, a unit must have at least 1cm width unobstructed on the edge from which it is rdawing line of sight, *and* be able to extend this unobstructed 1cm width in a straight line to the target.
+
+→ Rulebook: xref:shooting.adoc#targets[Shooting – Targets].
+
+[#los-hills]
+=== How do Hills block Line of Sight?
+
+Hills block Line of Sight beyond their
+highest elevation point. Line of Sight is blocked
+by a hill terrain piece that lies completely
+between two stands which are not on the hill.
+Units may draw Line of Sight to other units on
+a Hill provided the Line of Sight does not go
+beyond the highest elevation point.
+If line of sight is drawn to or from a stand
+positioned on a hill, only parts of the hill that
+are higher than both stands block line of sight
+between them.
+
+→ Rulebook: xref:game-values.adoc#the-effect-of-terrain[Game Values – The effect of terrain],
+xref:movement.adoc#terrain[Movement – Terrain].
+
+== Movement questions
+
+[#pivot]
+=== When stands in a unit pivot to turn 180 degrees, how much movement does this cost?
+
+Pivoting a unit’s stands can occur as part of
+a unit’s directional move, or stands in a unit
+can make a 180 degree pivot on the spot. To
+work out how much movement this takes up,
+follow these rules:
+
+==== Pivot 180 degrees during a move
+
+Measure the distance travelled by the corner
+moving the furthest distance. This will be from
+the corner of the stand diagonally opposite to
+the stand’s final position, as shown in diagrams
+below.
+
+→ Rulebook: xref:movement.adoc#the-move[Movement – The move].
+
+==== Pivot on the spot
+
+Stands can pivot on the spot without physically
+rotating in a circle. Imagine the troops
+performing an about face manoeuvre on their
+own base, with the front rank swapping places
+with the back rank. The movement distance
+involved is the distance travelled by one corner
+to the opposite corner, which is 4½cm for a
+standard Warmaster base. This does not cause
+the pivoting stand to intersect with other
+stands in the same unit. Note that this means
+that Artillery stands are permitted to about
+face on the spot with a failed order and a half
+pace move of 5cm. See diagram below.
+
+→ Rulebook: xref:movement.adoc#the-move[Movement – The move].
+
+image::questions-and-answers/pivot.svg[]
+
+[#character-displacement]
+=== How does the displacement of a character that is touched by an enemy unit work?
+
+A character piece that is not already joined
+to a friendly unit may move to join a friendly
+unit within 30cm when an enemy unit touches
+their base. Move the character when the first
+enemy stand contacts the character base. The
+character must be able to trace a path to a
+friendly unit around impassable terrain and
+enemy units, unless they have a flying mount,
+in which case they can move over them.
+However, the displaced character is permitted
+to pass through the stands of the enemy unit
+that touches them. This prevents characters
+from being unfairly surrounded and killed by
+mobile enemy units such as flyers.
+
+Once the
+character has been displaced, the enemy unit
+may continue its move if possible. Remember
+that a flying unit that is moved via an order to
+displace a character has landed, so cannot
+continue moving without an [.edit]#additional# order.
+
+→ Rulebook: xref:characters.adoc#enemy-moving-through-characters[Generals, Wizards & Heroes – Enemy moving through characters].
+
+[#maximising-frontage]
+=== How does Maximising Frontage work, including when charging more than one enemy?
+
+Charging stands must place as much of the front edge of the base as possible in contact with the enemy
+when they form a battle line. This also extends to any enemy units in line with the original target of the charge.
+So if a charging stand can only fit half of its frontage in contact with the original target of the charge, but can fit
+all of its frontage in contact with a stand from the original target and a stand from another enemy unit in line, it
+must do this. However if the charging unit can fit all of the frontage of all of its stands against the target unit,
+without touching any adjacent enemy stands, it will do this.
+
+→ Rulebook: xref:movement.adoc#the-charge-move[Movement – The charge move],
+xref:movement.adoc#forming-a-battle-line[Forming a battle line],
+xref:movement.adoc#contact-with-other-enemy[Contact with other enemy]
+
+==== Forming a battle line
+
+Each stand must be placed in the battle line in
+such a way that as much of its front edge as
+possible makes contact with the enemy. This is
+called ‘maximising frontage’. If it is impossible
+to place a stand into the battle line so that its
+front edge makes contact with an enemy, then
+it must be placed so that its front corner
+touches an enemy if it can. This means that the
+maximum number of charging stands will be
+drawn into the combat.
+
+The diagrams below show how a charging unit
+will maximise frontage against an enemy that
+has a different base orientation to them. All
+charging stands can be placed with all of their
+frontage in contact with the enemy, so they
+must do this.
+
+image::combat-phase/maximise-frontage-1.svg[]
+
+image::combat-phase/maximise-frontage-2.svg[]
+
+In this Diagram, the charging unit has not
+maximised frontage. This charge is illegal.
+
+image::questions-and-answers/maximise-frontage-illegal.svg[]
+
+==== Contact with other enemy
+
+If there are other enemy units adjacent to the
+target unit then the obligation to ‘maximise
+frontage’ extends to these other units too. So,
+where there is another enemy stand aligned to
+the target unit, a charging stand must be placed
+against this second enemy if this is its only way
+to maximise frontage. However, chargers will
+always maximise frontage against the unit they
+originally charged where they can do so.
+
+The diagrams below show how a charging unit
+will maximise frontage against two enemy
+units that have a different base orientation to
+them. All charging stands can be placed with
+all of their frontage in contact with the enemy,
+so they must do this.
+
+image::questions-and-answers/maximise-frontage-multiple.svg[]
+
+In the diagram below, the charging unit has not
+maximised frontage. This charge is illegal.
+
+image::questions-and-answers/maximise-frontage-multiple-illegal.svg[]
+
+The diagrams below show how a charging unit
+will maximise frontage against the unit it
+originally charged when able to do so. Although
+there is a second enemy unit that is closer to the
+charging stands, all charging stands can be
+placed with all of their frontage in contact with
+the original target enemy, so they must do this.
+
+image::questions-and-answers/maximise-frontage-original.svg[]
+
+[#home-back-disengage]
+=== Can a Flying unit make a Home Back move to disengage from combat?
+
+No.
+
+→ Rulebook: xref:flying-units.adoc#home-back[Flying Units – Home back].
+
+[#home-back-near-friendly-characters]
+=== Does a flying unit need to be more than 20cm from all friendly characters, or just one, to be able to home back?
+
+Flyers may only Home Back if they are
+more than 20cm from *all* friendly characters
+[.edit]#at the start of# the Command phase.
+
+→ Rulebook: xref:flying-units.adoc#home-back[Flying Units – Home back].
+
+== Combat questions
+
+[#combat-required]
+=== Does a unit in close combat have to make attacks?
+
+Yes. A stand in close combat must direct
+their attacks against a single enemy unit.
+
+→ Rulebook: xref:combat.adoc#attacks[Combat – Attacks].
+
+[#obliged-to-shoot]
+=== Are missile armed units obliged to shoot if they are able to do so? Do they have to shoot at enemy units that charge them?
+
+No, a unit doesn't have to shoot. They can
+hold fire. But if the unit does choose to shoot,
+all stands must do so if they can.
+
+→ Rulebook: xref:shooting.adoc#targets[Shooting – Targets],
+xref:shooting.adoc#shooting-at-charging-enemy[Shooting – Shooting at charging enemy].
+
+[#zero-attacks]
+=== Can a stand in combat be reduced to 0 Attacks?
+
+Yes, but remember that if all a unit’s stands
+in combat have been reduced to 0 Attacks then
+the unit as a whole gets to make 1 Attack as per
+the Last Ditch Dice rule.
+
+→ Rulebook: xref:combat.adoc#attack-modifiers[Combat – Attack modifiers].
+
+[#obliged-support]
+=== If a stand can support in combat, must it support?
+
+Yes. Support is not optional. Any Infantry stand that is in a supporting position will provide support towards
+the combat result.
+
+Also remember that an infantry stand placed into a supporting position means the entire infantry unit counts as
+"in combat".
+
+→ Rulebook: xref:combat.adoc#support[Combat – Support].
+
+[#edge-flanking]
+=== The diagram under xref:combat.adoc#pursuit-supporting[Supporting pursuits] shows a victorious unit pursuing a unit that has retreated. The stand on the right of this is now contacting a unit to the front, and along its left edge. Is it being flanked in this example image?
+
+image::combat-phase/pursuit-supporting.svg[id=pursuit-supporting]
+
+No. Stands do not apply the enemy in flank or rear penalty to attacks for side to side contact that often
+occurs in pursuits. The enemy in flank or rear attack penalty only applies to stands that have the front edge of
+an enemy stand in their flank or rear.
+
+→ Rulebook: xref:combat.adoc#attack-modifiers[Combat – Attack modifiers].
+
+[#wrapping-pursuit]
+=== If a unit pursues an enemy that has retreated, can it wrap around to surround all edges of the enemy unit, as long as the stands remain touching? Or does it need to maximise contact to the front first?
+
+Work out each pursuing unit's pursuit on a stand-by-stand basis.
+
+*Basic pursuit* – If a stand can pursue straight forwards so that its front edge contacts a retreating enemy stand,
+it must do this. Once all stands from the unit that can pursue straight forwards have done so, any remaining
+stands in the pursuing unit can be placed into formation as the owning player wishes, including into support, or
+into the flanks or rear of the retreating enemy, provided they do not exceed a full pace move.
+
+*Indirect pursuit* – If there are no enemy stands directly in front of a pursuing unit's stands, and it can draw line
+of sight to the retreating unit, then take any one stand from the pursuing unit that has a clear path to the
+retreating enemy and move it into base contact with the nearest visible retreating enemy stand, exactly as you
+would for a charge. Remaining pursuing stands can then be placed as you wish in the same was as for basic
+pursuits.
+
+→ Rulebook: xref:combat.adoc#moving-pursuers[Combat – Moving pursuers],
+xref:combat.adoc#basic-pursuit[Combat – Basic pursuit],
+xref:combat.adoc#indirect-pursuit[Combat – Indirect pursuit].
+
+#TODO many more diagrams#
+
+[#pursue-flyers]
+=== Can a non-flying unit pursue flyers when charging into their flank or rear?
+
+Yes, non-flying units can pursue flyers when the charging unit charged a flying unit in the flank or rear. It
+works in the same way as cavalry being charged into flank or rear by infantry.
+
+→ Rulebook: xref:combat.adoc#which-units-can-pursue[Combat – Which units can pursue?].
+
+== Unit specific questions
+
+[#trolls-regenerate]
+=== When Trolls regenerate, does each stand heal one wound, or does the unit heal a wound?
+
+The unit recovers one outstanding hit that round, after casualties are removed. Remember hits are recorded
+against units as a whole, rather than individual stands. For example, a unit of Trolls in combat suffers 5
+unsaved hits. This is sufficient to remove one stand of Trolls, and 2 hits are carried over on the unit. At the end
+of the combat round, 1 outstanding hit is regenerated and removed from the unit. This leaves just 1 hit carried
+over into the next round.
+
+Armies book: xref:armies:chaos.adoc#special-rules[Chaos – Special rule 2],
+xref:armies:goblins.adoc#special-rules[Goblins – Special rule 2],
+xref:armies:orcs.adoc#special-rules[Orcs – Special rule 2].
+
+[#pikemen-support]
+=== Can Dogs of War Pikemen be supported by two stands per side, as their long edge base allows two units with conventional basing to be placed in base to base contact?
+
+Yes, provided the supporting Infantry stands can fit all of the side edge of their base adjacent to the
+Pikemen stands side.
+
+Armies book: xref:armies:dogs-of-war.adoc#special-rules[Dogs of War – Special rule 1].
+
+[#flagellants-confusion]
+=== If a unit has a special rule that states not to roll for being driven back from shooting (e.g. Flagellants), is that unit immune to confusion from shooting, or do you still roll to see if they’re confused?
+
+The unit special rules for fanatic style units will state that “They can't be driven back by shooting and do not
+roll for drive backs.” As you don't roll for drive backs you cannot confuse them on a drive back roll of 6. Other
+sources of confusion affect them as normal.
+
+Armies book: xref:armies:empire.adoc#special-rules[Empire – Special rule 2], several others.
+
+[#daemonic-instability]
+=== For the Daemonic Instability table, does a General with a Wizard upgrade count as a wizard?
+Yes.
+
+Armies book: xref:armies:daemons.adoc#army-rules[Daemons – Army rules].
+
+[#los-wizard]
+=== Does a wizard need line of sight to a target a unit with a spell?
+
+Refer to the spell description for the spell. It will state whether the caster requires line of sight or not.
+
+[#spell-straight-line]
+=== Some spells such as the Empire _Ball of Flame_ state that the caster draws a line from themselves to work out the spell's effect. Does this have to be a straight line?
+Yes.
+
+Armies book: xref:armies:empire.adoc#ball-of-flame[Empire – Ball of Flame].
+
+[#raised-dead]
+=== Are there any restrictions on placing Raised Dead units?
+
+Yes. Raised Dead cannot be placed so that
+they split one combat engagement into two or
+more smaller engagements. This can happen
+when Raised Dead are placed behind
+supporting enemy Infantry stands, preventing
+the supporting enemy Infantry from
+supporting their friends in combat and instead
+forcing them to turn to fight the Raised Dead –
+this is not permitted. In addition, Raised Dead
+must be placed so that all stands fight or
+support in the targeted combat engagement.
+Provided this rule is followed, then new enemy
+units may be brought into the targeted combat
+by incidental contact.
+
+Armies book: xref:armies:tomb-kings.adoc#raise-dead[Tomb Kings – Raise Dead],
+xref:armies:vampire-counts.adoc#raise-dead[Vampire Counts – Raise Dead].
+
+[#laagering]
+=== How does laagering and unlaagering of a War Wagon work?
+
+At the beginning of the move, if you have your War Wagon in a column formation and you desire to form a
+laager move any one stand up to 5 cm distance. Then pivot the stand on the spot into desired position and
+then place the remaining stand into the formation alongside it. There is no distance limit for the second stand. If
+a War Wagon starts its move in laager formation it can either move up to 5 cm and remain in laager by simply
+measuring the distance without changing formation, or the Wagon can move up to 20 cm ending its move in
+column formation. In that case simply measure the part of the stand that moves the most to find out the
+maximum distance.
+
+Armies book: xref:armies:kislev.adoc#special-rules[Kislev – Special rules 6].
+
+[#doomwheel]
+=== Should the Skaven Doomwheel gain its bonus D6 attacks when using the xref:combat.adoc#advances[optional rules for advances] when the enemy is destroyed in one round?
+
+No.
+
+Armies book: xref:armies:skaven.adoc#special-rules[Skaven – Special rules 6].
+
+[#eye-of-the-raven]
+=== Can the Norse spell _Eye of the Raven_ be used to reroll an opponent’s D6 dice roll?
+
+No. The spell only affects a single D6 rolled
+by the Norse player.
+
+Armies book: xref:armies:norse.adoc#eye-of-the-raven[Norse – Eye of the Raven].
+
+[#skirmishers-spawn-break-point]
+=== Do Skirmishers count towards the army break point? How about Chaos Spawn? If one does and the other doesn’t, why?
+
+Skirmishers are not separate units so add nothing to break point. Skirmishers are stands that increase the
+size of an existing unit.
+
+A Chaos Spawn *is* a separate unit so does add to the break point. A Spawn is a unit
+that may be brigaded with other units.
+
+Armies book: xref:armies:empire.adoc#special-rules[Empire – Special rule 3] (and others),
+xref:armies:chaos.adoc#special-rules[Chaos – Special rule 5] (and others).

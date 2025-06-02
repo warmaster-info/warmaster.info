@@ -205,8 +205,9 @@ image::combat-phase/dwarf-slayer-hero.webp[]
 
 == Attacks
 
+// "can" removed to align with Q&A.
 Regardless of whose turn it is, all units which are
-engaged in combat can fight in the Combat phase.
+engaged in [.qa]#combat fight# in the Combat phase.
 [.bo5a]#Both sides make their attacks and either
 side can potentially win any combat engagement.#
 
@@ -500,8 +501,9 @@ existing one. See [.edit]#<<pursuit-and-destroyed-enemy>>#.
 [.h-bo5a]
 === Support
 
-It is possible to affect combat results by using adjacent
-infantry stands to support fighting infantry units. This
+[.qa]#Infantry stands adjacent to fighting infantry units
+affect combat results.#
+This
 represents the ability of a unit to threaten the enemy’s
 flanks or to provide solidity through depth. Only *infantry*
 can support and be supported in this way.

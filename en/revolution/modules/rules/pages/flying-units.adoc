@@ -22,7 +22,7 @@ of issuing orders to troops that are airborne.
 
 == Home back
 
-Flying units more than 20cm from a character at the
+[.qa]#Unengaged# flying units more than 20cm from [.qa]#all friendly# characters at the
 start of the Command phase can choose to move up to
 1D6 × 10 cm towards any character after initiative moves
 have been made but *before* any orders are issued. This is
@@ -46,7 +46,7 @@ confusion. Once the player has decided where to home
 back, move the unit towards the nominated character.
 If the dice roll is greater than the distance between the
 unit and character move the unit directly towards the
-character stand and into touch.
+character stand and into [.edit]#contact#.
 
 Otherwise, move the unit the full distance rolled towards
 the character. If this isn’t possible due to the presence of
@@ -55,7 +55,7 @@ as possible. The nearest stand is placed first – the other
 stands are placed around the first. No stand may be
 placed nearer to the character than the first. No stand
 may change orientation along their way. Flyers cannot
-be placed into touch with enemy stands when they home
+be placed into [.contact]#contact# with enemy stands when they home
 back.
 
 == Moving
