@@ -234,6 +234,7 @@ touches an enemy if it can. This means that the
 maximum number of charging stands will be
 drawn into the combat.
 
+====
 The diagrams below show how a charging unit
 will maximise frontage against an enemy that
 has a different base orientation to them. All
@@ -249,6 +250,7 @@ In this Diagram, the charging unit has not
 maximised frontage. This charge is illegal.
 
 image::questions-and-answers/maximise-frontage-illegal.svg[]
+====
 
 ==== Contact with other enemy
 
@@ -262,6 +264,7 @@ to maximise frontage. However, chargers will
 always maximise frontage against the unit they
 originally charged where they can do so.
 
+====
 The diagrams below show how a charging unit
 will maximise frontage against two enemy
 units that have a different base orientation to
@@ -271,12 +274,12 @@ so they must do this.
 
 image::questions-and-answers/maximise-frontage-multiple.svg[]
 
-In the diagram below, the charging unit has not
+In this diagram, the charging unit has not
 maximised frontage. This charge is illegal.
 
 image::questions-and-answers/maximise-frontage-multiple-illegal.svg[]
 
-The diagrams below show how a charging unit
+This diagram shows how a charging unit
 will maximise frontage against the unit it
 originally charged when able to do so. Although
 there is a second enemy unit that is closer to the
@@ -285,6 +288,7 @@ placed with all of their frontage in contact with
 the original target enemy, so they must do this.
 
 image::questions-and-answers/maximise-frontage-original.svg[]
+====
 
 [#home-back-disengage]
 === Can a Flying unit make a Home Back move to disengage from combat?
@@ -367,14 +371,83 @@ into the flanks or rear of the retreating enemy, provided they do not exceed a f
 *Indirect pursuit* – If there are no enemy stands directly in front of a pursuing unit's stands, and it can draw line
 of sight to the retreating unit, then take any one stand from the pursuing unit that has a clear path to the
 retreating enemy and move it into base contact with the nearest visible retreating enemy stand, exactly as you
-would for a charge. Remaining pursuing stands can then be placed as you wish in the same was as for basic
+would for a charge. Any remaining pursuing stands can then be placed as you wish in the same way as for basic
 pursuits.
 
 → Rulebook: xref:combat.adoc#moving-pursuers[Combat – Moving pursuers],
 xref:combat.adoc#basic-pursuit[Combat – Basic pursuit],
 xref:combat.adoc#indirect-pursuit[Combat – Indirect pursuit].
 
-#TODO many more diagrams#
+.Typical combat with pursuits
+====
+The following diagrams show a typical combat.  Units
+A and B are infantry in line, with A supporting
+B.  Units C (infantry) and D (cavalry) are the
+charging attackers.  (Due to the
+distance moved, unit C could not achieve maximum
+frontage against unit B, which allowed
+Unit D to fit two stands into the combat.)
+Units A and B are in combat with units C and D.
+
+image::questions-and-answers/combat-pursuits-1.svg[id=combat-pursuits-1]
+
+A and B lose the combat.  B
+removes casualties, and the surviving stands from both
+units then retreat.
+
+image::questions-and-answers/combat-pursuits-2.svg[id=combat-pursuits-2]
+
+The stands from units C and D able to pursue straight forward
+into front edge contact with the enemy must do so:
+
+image::questions-and-answers/combat-pursuits-3.svg[id=combat-pursuits-3]
+
+Note that one stand from unit C has to contact unit A, and
+is therefore flank-to-flank with unit B.  In the next diagram,
+pursuing stands that do not have to pursue straight forwards may
+now be placed in formation with the rest of their units, as
+the player wishes, including into the flank or rear where possible.
+No pursuing stand may move further than a full-pace move.
+This shows one option:
+
+image::questions-and-answers/combat-pursuits-4.svg[id=combat-pursuits-4]
+
+Note there is no requirement for stands that do not have to
+pursue straight forwards to be moved into contact with the enemy.
+Unit C could move a stand into support, and unit D can
+form up a line.
+
+The examples continue with this arrangement.
+
+image::questions-and-answers/combat-pursuits-5.svg[id=combat-pursuits-5]
+
+After the second round of combat, unit B has been wiped out, and unit A
+has retreated again.  All units have lost a stand.
+
+image::questions-and-answers/combat-pursuits-6.svg[id=combat-pursuits-6]
+
+Unit C pursues straight forwards again, keeping one stand in support.
+However unit D no longer has any enemy stands directly in front.
+It can still see the retreating enemy, so it can make an Indirect Pursuit.
+
+image::questions-and-answers/combat-pursuits-7.svg[id=combat-pursuits-7]
+
+An Indirect Pursuit requires the unit to pick one stand
+and align it to the retreating enemy as if for a charge, so we check
+to see if the cavalry are now in the front or the flank of unit A.
+They are in the flank.
+
+image::questions-and-answers/combat-pursuits-8.svg[id=combat-pursuits-8]
+
+Unit D moves one stand into contact with the flank of unit A.
+
+image::questions-and-answers/combat-pursuits-9.svg[id=combat-pursuits-9]
+
+Finally, the remaining stand can be placed as in basic pursuit,
+for example to the rear.
+
+image::questions-and-answers/combat-pursuits-10.svg[id=combat-pursuits-10]
+====
 
 [#pursue-flyers]
 === Can a non-flying unit pursue flyers when charging into their flank or rear?
