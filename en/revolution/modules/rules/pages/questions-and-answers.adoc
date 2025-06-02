@@ -85,13 +85,14 @@ xref:combat.adoc#defended-fortified-enemy[Defended & fortified enemy].
 == Line of sight questions
 
 [#los-when]
-Do units require Line of Sight at the beginning of their turn in order to charge?
+=== Do units require Line of Sight at the beginning of their turn in order to charge?
 
 No. Units require Line of Sight to charge at the beginning of their move, not that start of the turn. So it is
 entirely possible for one unit that is blocking Line of Sight to move out of the way, granting Line of Sight to another unit before it moves.
 
 → Rulebook: xref:command.adoc#sequence-of-movement[Command – Sequence of movement] (xref:command.adoc#initiative-charge-1[Figure 1], xref:command.adoc#initiative-charge-2[Figure 2]).
 
+[#los-corners]
 === Can stands draw Line of Sight at 180 degrees from their front corners?
 
 No. In order to draw Line of Sight, the target must be in front of the line that extends 180 degrees from the
@@ -147,6 +148,7 @@ can make a 180 degree pivot on the spot. To
 work out how much movement this takes up,
 follow these rules:
 
+[#pivot-during]
 ==== Pivot 180 degrees during a move
 
 Measure the distance travelled by the corner
@@ -157,6 +159,7 @@ below.
 
 → Rulebook: xref:movement.adoc#the-move[Movement – The move].
 
+[#pivot-spot]
 ==== Pivot on the spot
 
 Stands can pivot on the spot without physically
