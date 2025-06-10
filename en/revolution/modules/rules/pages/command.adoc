@@ -92,25 +92,52 @@ If two or more enemy units are equally close a player
 may choose which to charge or evade.
 ////
 
+[.ancients]#During the Initiative sub-phase,#
+a unit can use its own initiative to either charge or
+evade from the *closest visible enemy unit* within 20cm (see xref:game-values.adoc#visibility-on-the-battlefield[Visibility on the battlefield]).
+[.edit]#A unit does not have to use its initiative, it# can instead wait until the
+[.edit]#Orders sub-phase#
+and attempt to move by means of an order.
+The choice is the player’s in most cases; exceptions are
+covered in the army lists.
+
 [.ancients]
-During the Initiative sub-phase, a unit can react to the
-*closest visible enemy unit* within 20cm. A unit can only
+A unit can only
 react to the closest visible enemy unit and not other units
 even if they are within 20cm and visible. If two or more
 enemy units are equally close and both are visible, the
-player can choose which unit to react to.  For basic rules
-about visibility see xref:game-values.adoc#visibility-on-the-battlefield[Visibility on the battlefield].
+player can choose which unit to react to.
+
+////
+// Warmaster Original text from Movement chapter:
+A unit moving by initiative can move in one of two ways.
+It can *charge* the closest enemy unit that it can see within
+20cm or it can *evade* away from the closest enemy unit
+that it can see within 20cm.
+////
+
+[.ancients]
+A unit moving by initiative can move in one of two ways. It can
+either *charge* the enemy unit it is reacting to, assuming it
+is able to do so, or it can *evade* from the enemy unit it is
+reacting to. Charging will bring the opposing units into
+close combat whilst evading is a deliberate move to avoid
+the enemy.
 
 // Warmaster Original text from Movement chapter:
-Some units can see all round – they have 360 degree
-vision – and you will find this indicated in the unit’s
-description (for example, Wolf Riders in the Orc army).
+If you want a unit to do
+something else, such as move around a flank or attack an
+enemy other than the closest, then you will have to issue
+an order instead.
 
 // Warmaster Original text from Movement chapter:
 // Removed: This simply means a line of sight can be drawn from any
 // free edge of any stand in the unit to any stand of another
 // unit.
 // Removed: potentially
+Some units can see all round – they have 360 degree
+vision – and you will find this indicated in the unit’s
+description (for example, Wolf Riders in the Orc army).
 This can enable such a unit to use its
 initiative to evade from an enemy positioned to its side
 or rear. However, note that even a unit that can see all
@@ -145,50 +172,18 @@ wishes, in which case his own unit can use initiative to
 charge or evade the closest visible enemy unit within
 20cm that is not divided by the impassable barrier.
 
-////
-// Warmaster Original text from Movement chapter:
-A unit moving by initiative can move in one of two ways.
-It can *charge* the closest enemy unit that it can see within
-20cm or it can *evade* away from the closest enemy unit
-that it can see within 20cm.
-////
-
-[.ancients]
-A unit moving by initiative can move in one of two ways. It can
-either *charge* the enemy unit it is reacting to, assuming it
-is able to do so, or it can *evade* from the enemy unit it is
-reacting to. Charging will bring the opposing units into
-close combat whilst evading is a deliberate move to avoid
-the enemy.
-
-// Warmaster Original text from Movement chapter:
-If you want a unit to do
-something else, such as move around a flank or attack an
-enemy other than the closest, then you will have to issue
-an order instead.
-
 [.ancients]
 In certain circumstances, a charging unit can carry
 a supporting unit with it. This is an exception in that it
 allows the supporting unit to effectively move by initiative
 even though it is neither charging nor evading.
-See xref:combat.adoc#supporting-troops[Support].
-// TODO: Link title will change when editing Combat chapter.
+See xref:movement.adoc#supporting-charges[Supporting charges].
 
 ////
 // Warmaster Original text from Movement chapter:
 Refer to the
 xref::combat-phase.adoc#combat-engagement[Combat phase section] for rules for charges.
 ////
-
-[.ancients]
-A unit does not have to use its initiative in the Initiative
-sub-phase just because it can. A unit can instead remain
-halted that turn or the player can wait until the
-Orders sub-phase and attempt to move the unit with an
-order. Note that there are a few unusual units that *must*
-use initiative to charge if they can – these hot-heads are
-exceptions and are indicated in the [.edit]#xref:revolution:armies:index.adoc[Army Lists]#.
 
 [.ancients]
 === Sequence of movement
@@ -299,7 +294,7 @@ than the character’s Command value then the unit has
 received its order and can move full pace. If the score
 is more than the character’s Command value then the
 unit has not received its order and can move only half
-pace (see xref::movement[Movement]). This represents unit’s
+pace (see xref::movement.adoc[Movement]). This represents unit’s
 commanders being able to act on their own to some
 limited extent.
 // NB: Half-pace failed orders not in Ancients/Bo5A.
@@ -456,9 +451,7 @@ harder to give them a specific order.
 === Dense terrain
 
 If the unit you want to move is in dense terrain then
-there is a Command penalty of −1
-[.bo5a]#(Only infantry units can normally enter dense terrain as described later)#.
-The penalty applies if
+there is a Command penalty of −1. The penalty applies if
 at least one stand is even partially within dense terrain.
 Typical dense terrain features are woods, in and around
 buildings, ruins and similar. See the xref::movement.adoc#terrain[Movement section

@@ -26,7 +26,7 @@ There are two kinds of stands: 40mm × 20mm unit stands
 and [.edit]#character stands, often round and 25mm in diameter#
 [.ancients]#in order to readily distinguish
 them from troop stands.#
-[.edit]#See xref:characters.adoc#odd-size-character-bases[Odd size character bases] if you have characters mounted on larger bases.#
+[.edit]#(See xref:characters.adoc#odd-size-character-bases[Odd size character bases] if you have characters mounted on larger bases.)#
 
 [.ancients]
 Models are mounted onto the stands so that they form
@@ -43,7 +43,7 @@ as in the examples below.
 == Units
 
 Infantry, cavalry and most other types of troops fight in
-formations of several [.edit]#40mm × 20mm# stands [.ancients]#called *units*#.
+formations of several stands [.ancients]#called *units*#.
 A number of stands form a regiment of infantry,
 a squadron of cavalry, a battery of artillery, and so on.
 All the stands in the same formation are always arranged
@@ -121,8 +121,8 @@ Some troops are better fighters than others, some are
 better trained, some are more naturally violent and
 so on. So that we can represent these different qualities
 in the warriors, monsters and weird creatures that are
-found in the game, we assign three values to each piece
-or ‘stand’. These are *Attacks*, *Hits* and *Armour*.
+found in the game, we assign three values to [.edit]#each
+stand#. These are *Attacks*, *Hits* and *Armour*.
 
 image::game-values/attacks-hits-armour.webp[]
 
@@ -312,7 +312,7 @@ and Heroes section].
 A unit can see another if it is possible to draw a straight,
 uninterrupted line of sight between the *front edge*
 of any of the unit’s stands and *any part* of any stand in the
-other unit (see <<line-of-sight-target>>. It is always the stands themselves that are
+other unit (see <<line-of-sight-target>>). It is always the stands themselves that are
 considered when working out line of sight and not the
 actual models, which are likely to vary in height in any
 case. The best way of doing this is to run a straight edge,
@@ -352,12 +352,12 @@ image::game-values/line-of-sight-360.svg[id=line-of-sight-360]
 
 [.ancients]
 Some terrain (such as areas of ruins, hills and woods)
-block line of sights as described in the Movement rules.
+block line of sight as described in the Movement rules.
 In principle, line of sight is blocked where it
 passes through any kind of terrain feature, but there are
 appropriate and mostly obvious exceptions. For example,
 it is always considered possible to see over low linear
-features such as hedges and low walls (see <<line-of-sight-terrain>>.
+features such as hedges and low walls (see <<line-of-sight-terrain>>).
 The section on xref:movement.adoc#terrain[Terrain] explains the rules governing this.
 
 .{empty}

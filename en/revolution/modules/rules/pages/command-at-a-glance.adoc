@@ -28,7 +28,7 @@
 == Home back
 
 // Copied from WMR later
-. Flying units more than 20cm from a character can xref::flying-units.adoc#home-back[home back] up to 1D6 × 10cm towards any character before orders are issued.
+. Flying units more than 20cm from [.edit]#all friendly# characters can xref::flying-units.adoc#home-back[home back] up to 1D6 × 10cm towards any character before orders are issued.
 
 == Orders
 
@@ -78,4 +78,4 @@
 
 . Characters move once [.edit]#in the Characters sub-phase# and can move up to 60cm.
 . Characters do not need an order to move.
-. Characters treat terrain in the same way as infantry.
+. [.edit]#Unless mounted,# characters treat terrain in the same way as infantry.
