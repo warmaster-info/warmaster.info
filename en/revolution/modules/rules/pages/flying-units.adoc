@@ -95,6 +95,8 @@ enemy units out of the blue, and it enables enemy units
 to avoid aerial attack if they have screening units or if
 there is plenty of terrain.
 
+// NB more detail in Bo5A, differences with terrain.
+
 image::flying-units/sorceress.webp[]
 
 == Terrain
@@ -126,7 +128,7 @@ Command phase. Driven back flyers that end their move
 positioned over impassable terrain will stop in front of
 it in the same way as ground troops. Driven back flyers
 that end their move positioned over friendly units are
-treated exactly like ground troops – i.e.; friends can
+treated exactly like ground troops – friends can
 make way or, if they do not do so, the flyers halt as they
 touch. Driven back flyers that end their move positioned
 over enemy will come to a stop 1cm in front of them in
@@ -147,7 +149,7 @@ purposes this amounts to the same thing so the unit can
 be removed from the game.
 
 Flying units that are advancing or falling back in the
-Combat phase are treated as during the Command phase
+Combat phase are treated [.bo5a]#as described under <<moving>>#
 and can therefore fly over terrain and stands.
 
 == Fortified troops

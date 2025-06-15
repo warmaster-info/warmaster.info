@@ -746,7 +746,7 @@ following turn.
 [.qa]
 [TIP]
 ====
-The Q&A has a xref:questions-and-answers.adoc#combat-questions[section on Combat] with further examples, including a xref:questions-and-answers.adoc#wrapping-pursuit[detailed example with diagrams] showing a full combat sequence.
+The Q&A has a xref:questions-and-answers.adoc#wrapping-pursuit[detailed example with diagrams] showing a full combat sequence including pursuit.
 ====
 
 === Which units can pursue?
@@ -793,7 +793,8 @@ further exceptions see <<infantry-contact-with-cavalry>>.
 
 === Moving pursuers
 
-// TODO: The whole Pursuit section is significantly edited.
+// NB The whole Pursuit section is significantly edited for Bo5A,
+// these edits are (mostly) not included here.
 
 [.bo5a]
 Pursuing units are moved back into contact with enemy units that
@@ -810,9 +811,10 @@ important as one unit’s move can easily obstruct that
 of another either blocking line of sight or affecting the
 positioning of subsequent units.
 
-If pursuing unit cannot see a retreating enemy unit (for
+// Add "a", "the"
+If a pursuing unit cannot see a retreating enemy unit (for
 example, because other pursuers have obscured their
-view), then pursuers cannot move into edge contact.
+view), then the pursuers cannot move into edge contact.
 Note that units unable to see an enemy may still be able
 to move into support as described under <<supporting-pursuits>>.
 
@@ -939,7 +941,9 @@ complete are automatically drawn into the engagement.
 It is important to remember that pursuit bonuses apply
 only against enemy units that fought in and retreated
 from the same combat engagement as the pursuer in
-the previous round. No pursuit or charge bonuses apply
+the previous round.
+
+No pursuit or charge bonuses apply
 against newly engaged enemy units.
 
 In case of incidental contact with an enemy unit that is
@@ -983,7 +987,7 @@ a situation sometimes occurs where other units have
 already pursued a retreating enemy and blocked line of
 sight, for example. A unit that cannot pursue a retreating
 enemy must either stand or fall back. The unit is not
-allowed to advance instead.
+allowed to <<advance>> instead.
 
 image::combat-phase/goblin-wolves.webp[]
 
@@ -994,7 +998,7 @@ removed as casualties. At the end of a combat round, it is
 possible that all the units engaged on one side will have
 been entirely destroyed. In such a case the victorious
 units can advance. Pursuit is not possible because there
-are no retreating enemies to pursue against. See Advance.
+are no retreating enemies to pursue against. See <<advance>>.
 
 === Pursuit and Combat Dropouts
 
@@ -1009,13 +1013,12 @@ combat engagement like any other units that have not
 been pursued. It is possible for such units to be contacted
 by pursuers during subsequent rounds of combat, in
 which case they are treated as new incidental contacts.
-See Incidental Contacts.
+See <<incidental-contact>>.
 
 === Pursuit in Terrain
 
-Visibility within woods (and other features described in
-Advanced Terrain Rules on p80) is restricted to 2cm for
-most purposes, but in the case of combatants we make
+Visibility within woods [.edit]#and villages# is restricted to 2cm for
+most purposes (see xref:movement.adoc#terrain[Terrain]), but in the case of combatants we make
 an exception. If units are fighting inside a wood (or
 other features with restricted visibility) then potential
 pursuers are assumed to be able to see units that have
@@ -1265,7 +1268,7 @@ folds in the ground, local vegetation, or barriers such
 as hedges or ditches. This advantage is partly due to a
 unit’s ability to entrench itself, for individual warriors
 to find cover, or for whole units to conceal themselves
-–for example by kneeling amongst dense undergrowth.
+– for example by kneeling amongst dense undergrowth.
 Similarly, it confers an advantage to a unit that has taken
 up a position that is hard or exhausting for an enemy to
 approach.
@@ -1317,6 +1320,8 @@ any advantage of shelter in favour of greater mobility.
 
 Monsters and machines are simply too big or too
 dimwitted to take advantage of cover.
+
+// NB difference with Bo5A here.
 
 Troops that charge or advance are always assumed to be
 in the open, such as infantry stands charging in a wood.
