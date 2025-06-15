@@ -195,10 +195,14 @@ Elephant causes Terror.
 8. Djinn:: The Djinn accompanies its master and can transform
 both of them into a whirlwind enabling the stand to fly as for
 a normal flying mount. If the sorcerer has a Djinn he can also
-cast the Curse of the Djinn spell with a +1 casting bonus (see
-spells). Note that unusually the Djinn has +2 shooting attacks –
+cast the <<curse-of-the-djinn) spell with a +1 casting bonus.
++
+Note that unusually the Djinn has +2 shooting attacks –
 these are added to a stand from a unit that the character has
-joined and can only be used when the character joins a unit. If
+joined and can only be used when the character joins a unit
+(see xref:rules:characters.adoc#characters-that-shoot[Characters that shoot]).
++
+If
 the Wizard is accompanied by a Djinn then any unit he joins
 causes Terror.
 

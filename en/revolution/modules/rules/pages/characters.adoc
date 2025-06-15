@@ -283,8 +283,7 @@ movement in the Command section. To summarise:
   other units, and throughout the Combat phase
   during pursuit, fall backs, retreats and advances
 
-// Bo5A removed heading.
-//== Characters & terrain
+=== Characters & terrain
 
 // Spelling i.e.
 // "Monstrous and Chariot Mounts" is "Character Mounts".
@@ -293,7 +292,7 @@ Unless riding monsters or chariots, character stands
 [.bo5a]#regardless of whether the actual model is mounted.#
 Only terrain
 which is impossible for infantry to cross is impossible
-for characters (i.e, a character cannot move across the
+for characters (i.e., a character cannot move across the
 open ocean, into a volcanic lake and so forth). If riding
 monsters or chariots, characters are restricted by terrain
 in the same way as these troops. See [.edit]#<<character-mounts>>#.
@@ -381,6 +380,24 @@ If a character has joined a unit that is subsequently
 destroyed by shooting or which is routed and destroyed
 as a result of a drive back then the character is slain.
 
+[.h-bo5a]
+== Characters that shoot
+
+[.bo5a]
+All characters have an Attack bonus expressed as +1, +2 or +3.
+If a character can shoot, it has an Attack bonus expressed as +1/1,
+with the second value being the additional shooting attack.
+
+[.bo5a]
+A character that has a shooting attack can only use it when joined
+to a unit.
+
+////
+// BO5A addition:
+If several characters have joined a unit, only one
+can use its shooting attack.
+////
+
 Monster mounted characters or other characters that
 have a shooting attack when joined to units are assumed
 to be within the unit’s formation regardless of the
@@ -388,7 +405,9 @@ actual position of the character stand. When shooting
 in the Shooting phase, or during the Command phase if
 shooting at chargers, the player chooses one of the unit’s
 stands and works out the character’s shooting from that
-stand. All shots taken at the same enemy unit have to
+stand.
+
+All shots taken at the same enemy unit have to
 be worked out from the same stand, but otherwise the
 character can ‘move’ from stand to stand during the
 turn as required (this can happen during the opposing

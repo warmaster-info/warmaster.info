@@ -2,6 +2,7 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+:dragon: Forest
 
 image:wood-elves/logo.webp[width=105,height=99,float="right"]
 Elves first settled in the forest of Loren long before the
@@ -170,14 +171,8 @@ Warhawk. The Warhawk can fly, increasing its rider’s move
 from 60cm to 100cm, and it adds +1 Attack to those of its rider.
 
 13. Forest Dragon:: Generals, Nobles and Spell Weavers may
-ride Forest Dragons. A Forest Dragon can fly, increasing its
-rider’s move to 100cm, and adds +3 Attacks to those of its rider.
-Any unit joined by a character riding a Forest Dragon cause
-terror in their enemies and so long as the Dragon is attached to
-a unit, it can use its Corrosive Breath attack. This is a shooting
-attack with a range of 20cm, which can be directed against one
-target as normal. The breath has 3 Attacks, which are worked
-out in the usual way.
+ride Forest Dragons.
+include::partial$dragon.adoc[]
 
 image::wood-elves/infantry.webp[]
 

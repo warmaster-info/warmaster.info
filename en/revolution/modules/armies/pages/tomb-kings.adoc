@@ -2,6 +2,7 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+:dragon: Zombie
 
 // TODO: Logo is half the resolution of all the others.
 
@@ -130,18 +131,9 @@ Combat Attacks value of all the stands in one unit within 20cm
 by +1 for the duration of one Combat phase. This ability can
 only be used once per battle.
 
-7. Zombie Dragon:: A Tomb King or Liche Priest can ride a
-Zombie Dragon. A Dragon can fly increasing its rider’s move
-from 60 to 100cm and it adds +3 Attacks to those of its rider.
-Zombie Dragons have a special shooting attack – they can belch
-corrosive breath! This attack can only be used if the Dragon
-riding character has joined a unit but is not engaged in combat.
-A character that has not joined a unit cannot use the Breath
-attack. The corrosive breath has a range of 20cm. It can be
-directed against one target as normal and has 3 Attacks worked
-out in the usual way. The Zombie Dragon is a terrifying creature –
-a unit that has been joined by a Dragon riding character causes
-terror in its enemies.
+7. Zombie Dragon:: A Tomb King or Liche Priest may ride a
+Zombie Dragon.
+include::partial$dragon.adoc[]
 
 8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
 A character riding a chariot adds +1 to his Attacks.

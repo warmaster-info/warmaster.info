@@ -2,6 +2,7 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+:dragon: Chaos
 
 image:chaos/logo.webp[width=83,height=77,float="right"]
 The tribes of the northlands are called Marauders by the
@@ -108,18 +109,8 @@ charging enemies. Note that this unit still needs Line of Sight
 from its front edge to charge an enemy.
 
 6. Chaos Dragon:: Generals, Wizards and Heroes can ride a
-Chaos Dragon. The Chaos Dragon can fly, increasing the rider’s
-move from 60 to 100cm, and it adds +3 Attacks to those of its
-rider. In addition the Dragon has a special shooting attack. It
-can breathe fire. This special attack can only be used if the
-rider has joined a unit and is not engaged in combat. A rider
-that has not joined a unit cannot use the Dragon’s fiery breath
-to attack. The Dragon’s fire breath works as follows. The fire
-breath has a range of 20cm. It can be directed against one target
-as normal and has 3 Attacks worked out in the usual way. The
-Chaos Dragon is a large terrifying creature. A unit that has
-been joined by a Chaos Dragon causes terror in its enemies and
-therefore imposes the usual Combat penalty.
+Chaos Dragon.
+include::partial$dragon.adoc[]
 
 7. Chariot Mount:: Generals, Sorcerers and Heroes can ride
 Chariots. An extra +1 Attack is added to those of its rider.
