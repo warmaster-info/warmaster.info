@@ -363,6 +363,12 @@ The section on xref:movement.adoc#terrain[Terrain] explains the rules governing 
 .{empty}
 image::game-values/line-of-sight-terrain.svg[id=line-of-sight-terrain]
 
+[.qa]
+[TIP]
+====
+The Q&A has a xref:questions-and-answers.adoc#line-of-sight-questions[section on Line of Sight] with further examples.
+====
+
 ////
 // This is in Ancients and Bo5A, but seems to conflict with
 // flying units being able to see 100cm (at least) for their move/charge.

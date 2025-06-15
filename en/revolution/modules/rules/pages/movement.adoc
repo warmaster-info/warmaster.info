@@ -201,6 +201,12 @@ later>>.
 Stands can always move through characters
 as described in the xref:characters.adoc[Generals, Heroes and Wizards section].
 
+[.qa]
+[TIP]
+====
+The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Movement] with further examples, including pivoting
+====
+
 image::movement/helm.webp[]
 
 [.h-bo5a]
@@ -1118,5 +1124,11 @@ Phase] section and the xref::confusion.adoc[Confusion section]). If a
 unit is forced to retreat into impassable terrain during
 combat, then stands may be destroyed as a result (see
 xref::combat.adoc#retreats[Combat phase – Retreats]).
+
+[.qa]
+[TIP]
+====
+The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Movement] with further examples.
+====
 
 image::movement/knights.webp[]
