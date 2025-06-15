@@ -1,5 +1,7 @@
 = Vampire Counts
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:vampire-counts/logo.webp[width=116,height=84,float="right"]
 Upon the eastern marches of the Empire lies the blighted
@@ -133,9 +135,9 @@ its enemies.
 
 image::vampire-counts/nightmare.webp[]
 
-=== Vampire Counts spells
+== Vampire Counts spells
 
-==== Raise Dead
+=== Raise Dead
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -167,7 +169,7 @@ fails. Raised dead do not count as charging in the first round of
 combat. Raised dead are ignored for working out break point
 and victory points at the end of the game.
 
-==== Vanhel’s Danse Macabre
+=== Vanhel’s Danse Macabre
 
 [.cost]#5+ to cast# [.points]#Range 40cm#
 
@@ -184,7 +186,7 @@ The unit can be moved just as if it had received an order in the
 Command phase. Character stands that have joined the unit
 will not move with it: they remain where they are.
 
-==== Death Bolt
+=== Death Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -198,7 +200,7 @@ except that armour has no effect (all targets count as having
 no armour). A unit can be driven back by Deathbolt as with
 ordinary shooting.
 
-==== Curse of Years
+=== Curse of Years
 
 [.cost]#6+ to cast# [.points]#Range N/A#
 

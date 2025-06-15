@@ -1,5 +1,7 @@
 = Chaos
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:chaos/logo.webp[width=83,height=77,float="right"]
 The tribes of the northlands are called Marauders by the
@@ -124,9 +126,9 @@ Chariots. An extra +1 Attack is added to those of its rider.
 
 image::chaos/warriors.webp[]
 
-=== Chaos spells
+== Chaos spells
 
-==== Boon of Chaos
+=== Boon of Chaos
 
 [.cost]#4+ to cast# [.points]#Range N/A#
 
@@ -143,7 +145,7 @@ the unit to cast the spell this includes the Sorcerer himself, but
 it is possible for other characters to join the unit as well, in
 which case the +1 is applied to whichever character fights.
 
-==== Anger of the Gods
+=== Anger of the Gods
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -162,7 +164,7 @@ Command penalty. This penalty is applied when each order is
 issued: a unit might therefore be within 30cm of the Sorcerer
 for one order but not for a second, for example.
 
-==== Rage of Chaos
+=== Rage of Chaos
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -195,7 +197,7 @@ the first round of combat: they are not struck each round.
 Example, 1 + 4 + 6 = 11 extra attacks for the Chaos unit each
 round. 1 + 4 + 1 = 6 Attacks upon the Chaos unit in the first round.
 
-==== Curse of Chaos
+=== Curse of Chaos
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

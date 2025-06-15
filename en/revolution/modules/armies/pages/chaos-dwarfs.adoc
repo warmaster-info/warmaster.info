@@ -1,5 +1,7 @@
 = Chaos Dwarfs
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:chaos-dwarfs/logo.webp[width=108,height=103,float="right"]
 Many thousands of years ago the Dwarf race moved
@@ -180,9 +182,9 @@ spell.
 
 image::chaos-dwarfs/earthshaker.webp[]
 
-=== Chaos Dwarf spells
+== Chaos Dwarf spells
 
-==== Flaming Hand
+=== Flaming Hand
 
 [.cost]#4+ to cast# [.points]#Range N/A#
 
@@ -196,7 +198,7 @@ worked out in the usual way. Any hits scored are carried over
 into the first round of combat and count as having been struck
 in combat.
 
-==== Volcanic Eruption
+=== Volcanic Eruption
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
 
@@ -210,7 +212,7 @@ hits scored into the first round of combat and hits caused by the
 Volcanic Eruption count as having been struck in the combat
 itself.
 
-==== Word of Fear
+=== Word of Fear
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -222,7 +224,7 @@ This spell can only be cast on any friendly unit within range
 regardless of whether the Sorcerer can see it or not. The unit
 counts as causing terror for the duration of the Combat phase.
 
-==== Meteor Storm
+=== Meteor Storm
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

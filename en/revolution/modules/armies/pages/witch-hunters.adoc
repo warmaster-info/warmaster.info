@@ -1,5 +1,7 @@
 = Witch Hunters
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:witch-hunters/logo.webp[width=109,height=108,float="right"]
 Witch Hunters are some of the most characterful and
@@ -121,9 +123,9 @@ in the Warmaster Rulebook.
 
 image::witch-hunters/pistoliers.webp[]
 
-=== Witch Hunter spells
+== Witch Hunter spells
 
-==== Sanctuary
+=== Sanctuary
 
 [.cost]#5+ to cast# [.points]#Range N/A#
 
@@ -137,7 +139,7 @@ Cavalry units, even though they are not normally able to receive
 this bonus. The effect lasts until the unit moves or Priest leaves
 it or he casts another spell.
 
-==== Doctrine of Sigmar
+=== Doctrine of Sigmar
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -153,7 +155,7 @@ The unit can be moved just as if it had received an order in the
 Command phase. Character stands that have joined the unit
 will not move with it: they remain where they are.
 
-==== Holy Fervour
+=== Holy Fervour
 
 [.cost]#4+ to cast# [.points]#Range N/A#
 
@@ -164,7 +166,7 @@ The Wizard must be with the unit to affect it. If successfully
 cast on a friendly unit, each stand including character stands
 gains +1 Attack during the following Combat phase.
 
-==== Divine Curse
+=== Divine Curse
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 

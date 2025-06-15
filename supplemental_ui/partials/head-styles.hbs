@@ -37,18 +37,6 @@ h4 {
   background-image: image-set(url("../rules/_images/parchment.webp") 1x, url("../rules/_images/parchment.webp") 2x);
 }
 
-.brawler-regular {
-  font-family: "Brawler", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.brawler-bold {
-  font-family: "Brawler", serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
 .title-page h1 {
   display: none;
 }
@@ -56,6 +44,39 @@ h4 {
 .center {
   text-align: center;
 }
+
+/* Army list moves TOC */
+.armylist .toc .toc-menu {
+  color: grey;
+  margin-top: -0.75rem;
+}
+
+.armylist .toc .toc-menu > * {
+  display: inline;
+}
+
+.armylist .toc .toc-menu h3 {
+  display: none;
+}
+
+.armylist .toc ul {
+  font-size: 0.9rem;
+}
+
+.armylist .toc li {
+  display: inline-block;
+}
+
+.armylist .toc li a {
+  border: none;
+  padding: 0 0.25rem 0 0;
+}
+
+.armylist .toc li a::before {
+  content: '✢';
+  padding-right: 0.25rem;
+}
+/* End army list moves TOC */
 
 .at-a-glance > .body > .article > .content {
   background-image: image-set(url("../rules/_images/parchment-page.jpg") 1x, url("../rules/_images/parchment-page.jpg") 2x);

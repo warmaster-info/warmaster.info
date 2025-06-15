@@ -1,5 +1,7 @@
 = Albion
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 // Aeon is the British spelling
 image:albion/logo.webp[width=118,height=117,float="right"]
@@ -132,9 +134,9 @@ A Fenbeast causes terror in its enemies.
 
 image::albion/general.webp[]
 
-=== Albion spells
+== Albion spells
 
-==== Downpour
+=== Downpour
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -145,7 +147,7 @@ upon his foes._
 Until the start of the Druid player’s next turn all enemy units
 within 30cm of the casting Druid suffer −1 to their command.
 
-==== Storm of Hail
+=== Storm of Hail
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -157,7 +159,7 @@ can see. This has the effect of three shooting attacks except that
 it ignores any armour save the target may have. The target unit
 may be driven back in the same way as for shooting.
 
-==== Mists of Albion
+=== Mists of Albion
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -171,7 +173,7 @@ can see them or not. The spell lasts until the start of the caster’s
 next turn, or until the target unit moves in any way. The target
 Infantry unit counts as Defended, even if in the open terrain.
 
-==== Summon Fenbeast
+=== Summon Fenbeast
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
 

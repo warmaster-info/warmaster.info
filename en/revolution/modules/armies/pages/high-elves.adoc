@@ -1,5 +1,7 @@
 = High Elves
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:high-elves/logo.webp[width=91,height=90,float="right"]
 The Elven Kingdoms are the most ancient and cultured of
@@ -135,9 +137,9 @@ Chariots. An extra +1 Attack is added to those of its rider.
 
 image::high-elves/giant-eagles.webp[]
 
-=== High Elf spells
+== High Elf spells
 
-==== Storm of Stone
+=== Storm of Stone
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
 
@@ -153,7 +155,7 @@ their feet). Engaged units carry over any hits scored into the
 first round of combat; any hits scored count as having been
 struck in the combat itself.
 
-==== Light of Battle
+=== Light of Battle
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -168,7 +170,7 @@ bonus +1 attack. These attacks can be allocated to any stand in
 the unit and can be allocated to a different stand in each combat
 round.
 
-==== Heaven’s Fire
+=== Heaven’s Fire
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -186,7 +188,7 @@ it can therefore shoot again immediately. If it has yet to shoot it
 can shoot twice. When a unit shoots twice due to Heaven’s Fire
 the second shot is always at a −1 penalty to hit.
 
-==== Hail of Destruction
+=== Hail of Destruction
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

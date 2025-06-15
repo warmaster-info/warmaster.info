@@ -1,5 +1,7 @@
 = Bretonnia
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:bretonnia/logo.webp[width=92,height=106,float="right"]
 Bretonnia has grown into a powerful and influential nation
@@ -174,9 +176,9 @@ not they are simple Peasants.
 
 image::bretonnia/green-knight.webp[]
 
-=== Bretonnian spells
+== Bretonnian spells
 
-==== Shield of Combat
+=== Shield of Combat
 
 [.cost]#4+ to cast# [.points]#Range N/A#
 
@@ -196,7 +198,7 @@ Note that only a single re-roll is permitted regardless of what
 other factors apply. It is never permitted to re-roll a re-roll in
 any circumstances.
 
-==== Eerie Mist
+=== Eerie Mist
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -211,7 +213,7 @@ The unit cannot use its initiative. Any order given to the unit,
 or to any brigade of which it is a part, suffers a −1 Command
 penalty.
 
-==== Aerial Shield
+=== Aerial Shield
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -229,7 +231,7 @@ shooting rolls. But keep in mind that regardless of all other
 circumstances the shooting may never get worse than 6+. So
 even if the enchanted unit is fortified all enemies still hit on 6+.
 
-==== Lady’s Favour
+=== Lady’s Favour
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

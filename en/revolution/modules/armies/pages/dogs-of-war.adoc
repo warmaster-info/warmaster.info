@@ -1,5 +1,7 @@
 = Dogs of War
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:dogs-of-war/logo.webp[width=84,height=102,float="right"]
 Unlike other Warmaster armies, the Dogs of War do not
@@ -177,9 +179,9 @@ causes terror in its enemies.
 
 image::dogs-of-war/infantry.webp[]
 
-=== Dogs of War spells
+== Dogs of War spells
 
-==== Ball of Flame
+=== Ball of Flame
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -202,7 +204,7 @@ Flame but carry over any hits scored into the first round of
 combat; any hits scored count as having been struck in the
 combat itself.
 
-==== Voice of Command
+=== Voice of Command
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -219,7 +221,7 @@ The unit can be moved just as if it had received an order in the
 Command phase. Character stands that have joined the unit
 will not move with it: they remain where they are.
 
-==== Weird Enchantment
+=== Weird Enchantment
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -240,7 +242,7 @@ if the target is Undead or Daemon it will not count enemies
 as terrifying although all other penalties apply as described
 (Undead and Daemons are hard to spook).
 
-==== Teleport
+=== Teleport
 
 [.cost]#2+ to cast# [.points]#Range N/A#
 

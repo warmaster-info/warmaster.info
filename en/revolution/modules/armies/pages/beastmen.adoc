@@ -1,5 +1,7 @@
 = Beastmen
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:beastmen/logo.webp[width=116,height=117,float="right"]
 In the dark forests of the Old World dwell the favoured
@@ -155,9 +157,9 @@ Chariot. A character riding a chariot adds +1 to his Attacks.
 
 image::beastmen/infantry.webp[]
 
-=== Beastmen spells
+== Beastmen spells
 
-==== Traitor Kin
+=== Traitor Kin
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -171,7 +173,7 @@ player’s next turn. Whilst the spell lasts the unit cannot use
 its Initiative. Any order given to the unit, or to any brigade of
 which the unit is a part, suffers a −1 Command penalty.
 
-==== Hunting for Gore!
+=== Hunting for Gore!
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -187,7 +189,7 @@ moved just as if it had received an order in the Command phase.
 Character stands that have joined the unit will not move with
 it – they remain where they are.
 
-==== Chaos Bolt
+=== Chaos Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -202,7 +204,7 @@ like three ordinary shooting attacks except that armour has no
 effect (all targets count as having no armour). A unit can be
 driven back by a Chaos Bolt as with ordinary shooting.
 
-==== Power of Herd
+=== Power of Herd
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
 

@@ -1,5 +1,7 @@
 = Norse
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:norse/logo.webp[width=109,height=96,float="right"]
 The northern regions of the Old World suffer from extremes
@@ -123,9 +125,9 @@ the Horn is used the Shaman inspires the units around him to
 fight harder. He may add +1 to all of his Command checks for
 a single turn only.
 
-=== Norse spells
+== Norse spells
 
-==== Aspect of Wulfen
+=== Aspect of Wulfen
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -136,7 +138,7 @@ This spell can only be cast on any friendly unit within range
 regardless of whether the Shaman can see it or not. The unit
 counts as causing terror for the duration of the Combat phase.
 
-==== Thunder of Fo’Wor
+=== Thunder of Fo’Wor
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -160,7 +162,7 @@ of Fo’Wor but carry over any hits scored into the first round
 of combat; any hits scored count as having been struck in the
 combat itself.
 
-==== Eye of the Raven
+=== Eye of the Raven
 
 [.cost]#5+ to cast# [.points]#Range N/A#
 
@@ -188,7 +190,7 @@ successful command.
 Only one Eye of the Raven spell may be
 in effect per turn.
 
-==== Spite of Low’Key
+=== Spite of Low’Key
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

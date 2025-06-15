@@ -1,5 +1,7 @@
 = Dark Elves
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:dark-elves/logo.webp[width=111,height=92,float="right"]
 Over five thousand years ago a great civil war erupted
@@ -158,9 +160,9 @@ cast.
 
 image::dark-elves/sorceress.webp[]
 
-=== Dark Elf spells
+== Dark Elf spells
 
-==== Doom Bolt
+=== Doom Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -182,7 +184,7 @@ Engaged units cannot be driven back by the Doom Bolt but
 carry over any hits scored into the first round of combat; any
 hits scored count as having been struck in the combat itself.
 
-==== Black Horror
+=== Black Horror
 
 [.cost]#6+ to cast# [.points]#Range 50cm#
 
@@ -195,7 +197,7 @@ with no saves for Armour. A unit that takes hits from the Black
 Horror is not driven back as a result – the whirling vortex sucks
 its victims down affording them no chance to avoid it.
 
-==== Dominian
+=== Dominian
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
 
@@ -213,7 +215,7 @@ in combat will not pursue or advance. Even units that are
 otherwise obliged to charge, pursue, or advance will not do so
 if affected by Dominion.
 
-==== Soul Stealer
+=== Soul Stealer
 
 [.cost]#5+ to cast# [.points]#Range N/A#
 

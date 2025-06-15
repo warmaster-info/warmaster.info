@@ -1,5 +1,7 @@
 = Lizardmen
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:lizardmen/logo.webp[width=99,height=92,float="right"]
 Before Chaos came into the world there was a more ancient
@@ -197,9 +199,9 @@ terror. No other character can ride a Carnosaur.
 
 image::lizardmen/slann.webp[]
 
-=== Lizardmen spells
+== Lizardmen spells
 
-==== Gaze of Sotek
+=== Gaze of Sotek
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -216,7 +218,7 @@ attacks except that armour has no effect (all targets count as
 having no armour). A unit can be driven back by the Gaze of
 Sotek as with ordinary shooting.
 
-==== Mazdamundi’s Revenge
+=== Mazdamundi’s Revenge
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
 
@@ -234,7 +236,7 @@ in combat will not pursue or advance. Even units that are
 otherwise obliged to charge, pursue, or advance will not do so
 if affected by Mazdamundi’s Revenge.
 
-==== Wings of the Jungle
+=== Wings of the Jungle
 
 [.cost]#5+ to cast# [.points]#Range N/A#
 
@@ -252,7 +254,7 @@ and remains joined with it. Other character stands that have
 joined the unit will not move with it: they remain where they
 are.
 
-==== Shield of the Old Ones
+=== Shield of the Old Ones
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

@@ -1,5 +1,7 @@
 = Cathay
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:cathay/logo.webp[width=170,height=172,float="right"]
 Locate far to the east of the Old World, the Grand Empire of
@@ -148,9 +150,9 @@ instead of the normal 1D6.
 
 image::cathay/maneaters.webp[]
 
-=== Cathay spells
+== Cathay spells
 
-==== Glory of Cathay
+=== Glory of Cathay
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -168,7 +170,7 @@ When a unit shoots twice due to Glory of Cathay the second
 shot is always at a minus 1 penalty and will therefore hit on a
 5+.
 
-==== Lion Dogs Attack
+=== Lion Dogs Attack
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -184,7 +186,7 @@ not pursue or advance. Even units that are otherwise obliged
 to charge, pursue, or advance will not do so if affected by this
 spell.
 
-==== Ferocity of Tigers
+=== Ferocity of Tigers
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -199,7 +201,7 @@ target or not. The spell lasts for the duration of the following
 combat phase. Every stand in the unit adds +1 to its attacks
 value. The unit also becomes immune to terror.
 
-==== Tranquility of Heaven
+=== Tranquility of Heaven
 
 [.cost]#5+ to cast# [.points]#Range 15cm#
 

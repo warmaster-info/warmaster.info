@@ -1,5 +1,7 @@
 = Araby
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:araby/logo.webp[width=94,height=84,float="right"]
 The land of Araby lies along the north west coast of the
@@ -70,7 +72,7 @@ camel mounted warriors from the lands to the south and east.
 
 image::araby/araby.webp[]
 
-== araby army selector
+== Araby army selector
 
 [%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
 |===
@@ -204,9 +206,9 @@ image::araby/hero.webp[]
 
 image::araby/wizard.webp[]
 
-=== Araby spells
+== Araby spells
 
-==== Sand Storm
+=== Sand Storm
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -223,7 +225,7 @@ All enemy units within 30cm of the Arabian Sorcerer suffer a
 is issued. For example, a unit might therefore be within 30cm
 of the Sorcerer for one order but not for a second, for example.
 
-==== Mirage
+=== Mirage
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
 
@@ -251,7 +253,7 @@ cast any other spells – if the player wishes the Wizard to cast a
 new spell the Mirage comes to an end and the Wizard can then
 attempt a new spell as normal.
 
-==== Sunstrike
+=== Sunstrike
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -269,7 +271,7 @@ Engaged units cannot be driven back but carry over any hits
 that are scored into the first round of combat. Hits caused by
 the Sunstrike count as having been struck in the combat itself.
 
-==== Curse of the Djinn
+=== Curse of the Djinn
 
 [.cost]#6+ to cast# [.points]#Rage 30cm#
 

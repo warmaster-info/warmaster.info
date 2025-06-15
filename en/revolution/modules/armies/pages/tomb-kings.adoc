@@ -1,5 +1,7 @@
 = Tomb Kings
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 // TODO: Logo is half the resolution of all the others.
 
@@ -146,9 +148,9 @@ A character riding a chariot adds +1 to his Attacks.
 
 image::tomb-kings/tomb-king.webp[]
 
-=== Tomb King spells
+== Tomb King spells
 
-==== Raise Dead
+=== Raise Dead
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -180,7 +182,7 @@ fails. Raised dead do not count as charging in the first round of
 combat. Raised dead are ignored for working out break point
 and victory points at the end of the game.
 
-==== Touch of Death
+=== Touch of Death
 
 [.cost]#4+ to cast# [.points]#Range N/A#
 
@@ -196,7 +198,7 @@ Any hits scored are carried over into the first round of combat
 and count as having been struck in the first round for purposes
 of working out combat results.
 
-==== Doom and Despair
+=== Doom and Despair
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
 
@@ -215,7 +217,7 @@ otherwise obliged to charge, pursue, or advance will not do so
 if affected by Doom and Despair. Note that even other Undead
 are not immune – they are overcome by the ennui of the tomb!
 
-==== Death Bolt
+=== Death Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 

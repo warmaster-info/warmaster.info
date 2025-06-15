@@ -1,5 +1,7 @@
 = Orcs
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:orcs/logo.webp[width=90,height=102,float="right"]
 Once Orcs ruled the whole of the Old World as well as the
@@ -121,9 +123,9 @@ character in a chariot adds +1 to his Attacks.
 
 image::orcs/hero.webp[]
 
-=== Orc spells
+== Orc spells
 
-==== Foot of Gork
+=== Foot of Gork
 
 [.cost]#6+ to cast# [.points]#Range 50cm#
 
@@ -139,7 +141,7 @@ The unit suffers six attacks worked out in the usual way. A unit
 cannot be driven back by the Foot of Gork because Gork’s foot
 descends from above!.
 
-==== Gotcha
+=== Gotcha
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -161,7 +163,7 @@ Engaged units cannot be driven back by the Gotcha but carry
 over any hits scored into the first round of combat; any hits
 scored count as having been struck in the combat itself.
 
-==== Gerroff!!!
+=== Gerroff!!!
 
 [.cost]#5+ to cast# [.points]#Range 60cm#
 
@@ -179,7 +181,7 @@ the shortest route to the table edge. A unit cannot be routed by
 a drive back from a Gerroff spell. If the unit leaves the table
 edge it must roll as described in the main Warmaster rules.
 
-==== Waagh!
+=== Waagh!
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 

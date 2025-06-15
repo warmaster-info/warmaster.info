@@ -1,5 +1,7 @@
 = Goblins
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:goblins/logo.webp[width=108,height=108,float="right"]
 Goblins are small, green, vicious, mean-spirited and generally
@@ -153,9 +155,9 @@ Wyvern rider causes terror in its enemies.
 
 image::goblins/wolf-riders.webp[]
 
-=== Goblin spells
+== Goblin spells
 
-==== Mork Save Uz!
+=== Mork Save Uz!
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -168,7 +170,7 @@ manner until the beginning of their next turn. If the unit
 already has a saving roll then it can choose which one to make,
 but may not take both.
 
-==== Gerroff!!!
+=== Gerroff!!!
 
 [.cost]#5+ to cast# [.points]#Range 60cm#
 
@@ -186,7 +188,7 @@ the shortest route to the table edge. A unit cannot be routed by
 a drive back from a Gerroff spell. If the unit leaves the table
 edge it must roll as described in the main Warmaster rules.
 
-==== Brain Busta
+=== Brain Busta
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -200,7 +202,7 @@ saves have no effect (all targets count as having no armour).
 A unit can be driven back by Brain Busta as with ordinary
 shooting.
 
-==== Waaagh!
+=== Waaagh!
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 

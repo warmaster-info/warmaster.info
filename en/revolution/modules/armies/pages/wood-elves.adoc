@@ -1,5 +1,7 @@
 = Wood Elves
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:wood-elves/logo.webp[width=105,height=99,float="right"]
 Elves first settled in the forest of Loren long before the
@@ -179,9 +181,9 @@ out in the usual way.
 
 image::wood-elves/infantry.webp[]
 
-=== Wood Elf spells
+== Wood Elf spells
 
-==== Tree Singing
+=== Tree Singing
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -195,7 +197,7 @@ can see them or not. The spell lasts until the start of the caster’s
 next turn, or until the target unit moves in any way. The target
 Infantry unit counts as Defended, even if it is in open terrain.
 
-==== Twilight Host
+=== Twilight Host
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -203,7 +205,7 @@ _A weird enchantment forms around the target unit._
 
 The target unit causes terror until Wood Elf next magic phase.
 
-==== Call of the Hunt
+=== Call of the Hunt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -215,7 +217,7 @@ Unit may make a charge move into contact with the nearest
 visible enemy unit in the same way as when charging. Enemy
 may not shoot at chargers.
 
-==== Fury of the Forest
+=== Fury of the Forest
 
 [.cost]#6+ to cast# [.points]#Range 60cm#
 

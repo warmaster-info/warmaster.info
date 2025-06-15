@@ -1,5 +1,7 @@
 = Skaven
-:page-role: -toc
+:page-layout: armylist
+:page-role: armylist
+:page-toclevels: 1
 
 image:skaven/logo.webp[width=120,height=108,float="right"]
 Skaven are neither rats nor human but a vile combination of
@@ -202,9 +204,9 @@ adds +1 to his Attacks.
 
 image::skaven/hero.webp[]
 
-=== Skaven spells
+== Skaven spells
 
-==== Wither
+=== Wither
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
@@ -218,7 +220,7 @@ the duration of the following Combat phase. Every stand in the
 unit, including characters that have joined the unit, deducts −1
 from its Attacks value.
 
-==== Warp Lightning
+=== Warp Lightning
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -234,7 +236,7 @@ except that armour has no effect (all targets count as having no
 armour). A unit can be driven back by Warp Lightning as with
 ordinary shooting.
 
-==== Death Frenzy
+=== Death Frenzy
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -266,7 +268,7 @@ Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each
 round. 1+4+1 = 6 Attacks upon the Skaven unit in the first
 round.
 
-==== Plague
+=== Plague
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
 
