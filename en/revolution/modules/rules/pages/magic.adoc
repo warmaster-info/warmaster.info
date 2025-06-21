@@ -12,7 +12,7 @@ various types of sorcerer such as Orc Shamans, Elven
 Mages, Undead Liche Priests as well as human Wizards.
 Every army’s magic is different and some are better
 than others as we shall see. Individual spells are listed in
-Army List section of this book.
+the xref:revolution:armies:index.adoc[Army Lists].
 
 == Magic items
 
@@ -24,7 +24,7 @@ Any unit of infantry, cavalry or chariots can be given
 one magic item. Each character can also be given one
 magic item. If you decide to give a magic item to a unit
 or character then you must pay the extra points. This
-means that you will have less points for other troops.
+means that you will have fewer points for other troops.
 
 Magic items cannot be given to monsters or war
 machines. Some items can only be given to characters or
@@ -60,13 +60,13 @@ a spell has worked by rolling the appropriate dice score,
 has not been dispelled or antimagicked, and its effect has
 been resolved on the unit as per the spell description.
 Note that a spell might take full effect but still cause no
-damage – a Ball of Flame inflicts 3 shooting attacks for
+damage – a xref:revolution:armies:empire.adoc#ball-of-flame[Ball of Flame] inflicts 3 shooting attacks for
 example but all 3 might fail to score hits or hits might be
 nullified by armour.
 
 There are some situations where the target of a spell is
-not literally a unit – for example the Ball of Flame and
-Gotcha! spells inflict shooting attacks upon all units
+not literally a unit – for example the xref:revolution:armies:empire.adoc#ball-of-flame[Ball of Flame] and
+xref:revolution:armies:orcs.adoc#gotcha[Gotcha] spells inflict shooting attacks upon all units
 that lie within their path. In these cases, all units are
 affected once the appropriate dice roll has been scored to
 make the spell work and assuming it is not dispelled or
@@ -83,11 +83,11 @@ note.
 
 // Spelling e.g.
 Logically minded players might quibble that a spell could
-be cast upon a unit any number of times e.g., blasting
+be cast upon a unit any number of times, blasting
 it to pieces with fireballs from dozens of wizards.
 The restriction exists so that magic is rarely enough
 to cause casualties on its own. Magic is intended to
-augment conventional tactics and weaponry not from
+augment conventional tactics and weaponry but not form
 a battle-winning tactic in itself. For this reason wizards
 are allowed to target their spells upon specific foes,
 selectively augmenting conventional weaponry, but are
@@ -107,10 +107,10 @@ armies are fighting over. To keep things fair, each item
 is allotted a points value, just like the troops themselves,
 and some items can only be used by certain races or
 types of warrior. There are three broad types of magic
-item: Magic Standards (most of which protect the unit
-carrying them in some way), Magic Weapons (which
+item: <<magic-standards>> (most of which protect the unit
+carrying them in some way), <<magic-weapons>> (which
 are carried by a unit’s leader and which usually increase
-the unit’s fighting power) and Devices of Power (which
+the unit’s fighting power) and <<devices-of-power>> (which
 increase the leadership abilities of Generals, Wizards
 and Heroes).
 
