@@ -351,27 +351,33 @@ the roll of a 1 even when using the Wand of Power.
 [.cost]#Wizard only# [.points]#10 pts#
 
 If a Wizard casts a spell and rolls sufficiently well for it to work then he
-can cast another spell. He can only do this once during the entire game.
-Note that it does not matter if the previous spell is dispelled or anti-magicked
-by a Runesmith so long as the required dice score is rolled.
-Once any effects of the previous spell have been resolved, the Wizard
+may cast another spell. He can only do this once during the entire game.
+It does not matter if the previous spell is dispelled or anti-magicked
+by a Runesmith so long as the required dice score was rolled.
+After any effects of the previous spell have been resolved, the Wizard
 can decide to use the Rod of Repetition to cast another spell – this can
 be the same spell again or a different one. Note that the same spell can
 be cast upon the same unit if the previous spell has been dispelled/anti-magicked.
 This next spell is cast exactly like any other – roll a dice
 to determine if it works in the usual way.
 
-Note that some spells, such as the Teleport spell, already allow for the
-possibility of casting a further spell on a random dice roll. In these
-cases the Rod of Repetition can be used instead of the random dice roll
-to try and cast the second spell if you prefer, or the Rod of Repetition
-could be used after the second spell has been cast assuming it is cast
-successfully. By using the Rod of Repetition with spells of this kind
-it is possible to cast the spell again, however, you do lose the bonus
-spell option, effectively restricting casting to a maximum of 3 spells
-per turn. For example: Teleport, 2nd spell, RoR, 3rd spell – or – 1st spell,
-RoR, Teleport, 3rd spell – supposing the 1st, 2nd or 3rd spell may be a
-Teleport too.
+// As far as I can see, only Teleport allows casting a second spell
+// Teleport followed by Teleport seems useless so I've concentrated
+// the wording on the useful combinations.
+
+[.edit]
+The xref:revolution:armies:empire.adoc#teleport[Teleport] spell already allows the Wizard to cast a second, different spell.
+The Rod of Repetition may be used after the second spell has been successfully cast.
+If it is used to cast Teleport again then the bonus spell is lost.
+This effectively restricts casting to a maximum of 3 spells
+per turn.
+
+[.edit]
+Assuming successful casting the possibilities are:
+
+[.edit]
+* Teleport → second spell → Rod of Repetition for a third spell (which could be another Teleport), or
+* First spell (could be Teleport) → Rod of Repetition to cast Teleport → third spell.
 
 image::magic/mortar.webp[]
 
