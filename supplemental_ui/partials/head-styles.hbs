@@ -45,10 +45,30 @@ h4 {
   text-align: center;
 }
 
+[id] {
+  scroll-margin-top: 6rem;
+}
+
 /* Army list moves TOC */
+@media screen and (min-width: 1024px) {
+  /* Sticky on large screens */
+  .armylist .toc {
+    position: sticky;
+    display: block;
+    top: 6rem;
+    background: white;
+    padding-top: 0.75rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .armylist [id] {
+    scroll-margin-top: 8.2rem;
+  }
+}
+
 .armylist .toc .toc-menu {
   color: grey;
-  margin-top: -0.75rem;
+  margin-top: -0.5rem;
 }
 
 .armylist .toc .toc-menu > * {
@@ -132,6 +152,7 @@ p:has(.cost) {
   display: block;
   grid-area: chapter;
   position: relative;
+  z-index: -1;
   overflow: hidden;
 }
 
