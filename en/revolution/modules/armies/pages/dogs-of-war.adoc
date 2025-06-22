@@ -74,7 +74,7 @@ image::dogs-of-war/dogs-of-war.webp[]
 
 == Dogs of War army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$dogs-of-war.tsv[]
 |===
@@ -89,7 +89,7 @@ include::partial$dogs-of-war.tsv[]
 6: Paragraph break moved
 9: adding
 ////
-{empty}1. Pikemen:: The pike is the traditional weapon of the
+[[pikemen,†1]]1. Pikemen:: The pike is the traditional weapon of the
 mercenaries of Tilea. Twice as long as a spear and even longer
 than a cavalryman’s lance this is a truly fearsome although
 rather unwieldy weapon. Due to this Pikemen never benefit
@@ -113,7 +113,7 @@ narrow edge of the base.
 +
 image::dogs-of-war/pikemen-support.svg[]
 
-2. Handgunners:: A handgun shot can pierce armour far
+[[handgunners,†2]]2. Handgunners:: A handgun shot can pierce armour far
 more easily than an arrow or a crossbow bolt. Therefore, count
 enemy Armour values as one worse (−1) than normal. One
 unit of Crossbowmen per full 1000 points can be replaced by
@@ -121,7 +121,7 @@ Handgunners (including the 10 points extra in price) while still
 counting for the Crossbowmen min/max value. Note that this
 unit still counts for min/max value of Handgunners.
 
-3. Ogres:: Ogres flock to Dogs of War armies for the chance of
+[[ogres,†3]]3. Ogres:: Ogres flock to Dogs of War armies for the chance of
 a good fight and as much as they can eat. These creatures are
 notoriously fond of fresh human meat, although they will eat
 practically anything that was once alive (or still is). To represent
@@ -130,7 +130,7 @@ of humans (humans: men, not dwarfs, elves etc.) if it is within
 20cm at the start of the Command phase and the Ogres can
 reach it.
 
-4. Light Cavalry:: Dogs of War armies make great use of expert
+[[light-cavalry,†4]]4. Light Cavalry:: Dogs of War armies make great use of expert
 light cavalry from all around the world. Empire Pistoliers,
 Arabian Desert Riders, Hobgoblin Wolf Riders and Kislev
 Horse Archers are particularly adept at outmanoeuvring an
@@ -140,7 +140,7 @@ of sight from all edges for the purpose of evading and shooting,
 including shooting at charging enemies. Note that this unit still
 needs Line of Sight from its front edge to charge an enemy.
 
-5. Galloper Guns:: These are lighter artillery than Dwarf or
+[[galloper-guns,†5]]5. Galloper Guns:: These are lighter artillery than Dwarf or
 Empire cannons; due to this they are shorter ranged, but can
 make up for their lighter shot by producing a higher volume
 of fire. Galloper Guns move 20cm (10cm half-pace). All the
@@ -150,10 +150,10 @@ values). Because they are light guns they
 have a range of only 40cm. They still may shoot at the charging
 enemy by firing ‘grapeshot’ as normal.
 
-6. Giants::
+[[giant,†6]]6. Giant::
 include::partial$giant.adoc[]
 
-7. Birdmen:: Only half-mad nutters like Tileans would try to fly!
+[[birdmen,†7]]7. Birdmen:: Only half-mad nutters like Tileans would try to fly!
 The Birdmen wear insane contraptions of light wood covered
 in canvas that are shaped like wings and allow them to glide
 on the air currents. These ‘wings’ allow the Birdmen to fly and
@@ -163,13 +163,13 @@ flyers, they can be pursued by any type of enemy troops.
 Birdmen are based facing the long edge of the base in the same
 way as other infantry.
 
-8. Paymaster, Pay Wagon:: There may only ever be one Paymaster
+[[paymaster-pay-wagon,†8]]8. Paymaster, Pay Wagon:: There may only ever be one Paymaster
 in the army. Only the Paymaster may use the Wagon. If the Pay
 Wagon is used the Paymaster may bribe the units around him
 to fight harder. He may add +1 to all of his Command checks
 for a single turn only.
 
-9. Griffon:: Generals, Wizards and Heroes may ride Griffons.
+[[griffon,†9]]9. Griffon:: Generals, Wizards and Heroes may ride Griffons.
 The Griffon combines the appearance of a lion and an eagle.
 These creatures are hatched from stolen eggs and hand reared
 to serve as mounts for favoured individuals. The Griffon can
@@ -181,81 +181,6 @@ image::dogs-of-war/infantry.webp[]
 
 == Dogs of War spells
 
-=== Ball of Flame
-
-[.cost]#5+ to cast# [.points]#Range 30cm#
-
-_A ball of flame shoots form the Wizard’s outstretched arm
-burning all in its path._
-
-Draw an imaginary line 30cm long from the Wizard’s stand
-in any direction you wish. The line will pass through any
-intervening units but not beyond terrain that would normally
-stop a missile shot, e.g. over the crest of a hill, more than 2cm of
-woodland, and so forth.
-
-Each unit under the line takes three shooting attacks worked
-out in the usual way. Note that this spell can easily affect
-several units and will affect all units that fall beneath the line
-(including your own). Unengaged units can be driven back
-by a Ball of Flame as with ordinary shooting (even including
-friends). Engaged units cannot be driven back by the Ball of
-Flame but carry over any hits scored into the first round of
-combat; any hits scored count as having been struck in the
-combat itself.
-
-=== Voice of Command
-
-[.cost]#5+ to cast# [.points]#Range 30cm#
-
-_The Wizard’s voice booms out across the battlefield directing
-troops above the tumult of combat with the magical Voice of
-Command._
-
-The spell can be cast on any unengaged friendly unit within
-range regardless of whether the Wizard can see it or not. The
-spell affects only a single unit, never a brigade and there is no
-supporting charge possible.
-
-The unit can be moved just as if it had received an order in the
-Command phase. Character stands that have joined the unit
-will not move with it: they remain where they are.
-
-=== Weird Enchantment
-
-[.cost]#4+ to cast# [.points]#Range 30cm#
-
-_A weird enchantment forms around the target unit and engulfs
-it in strange lights, scary nightmares and disorientating special
-effects._
-
-This spell can be cast on any enemy unit within range regardless
-of whether the Wizard can see it or not. The spell lasts until the
-end of the opposing player’s following turn.
-
-The unit moves at half pace in all situations: even when charging
-for example. The unit counts all enemies as terrifying (−1 Attack
-penalty) even when it is otherwise immune to terror. If the unit
-would normally cause terror then it ceases to do so and counts
-all enemies as terrifying just like everyone else. However,
-if the target is Undead or Daemon it will not count enemies
-as terrifying although all other penalties apply as described
-(Undead and Daemons are hard to spook).
-
-=== Teleport
-
-[.cost]#2+ to cast# [.points]#Range N/A#
-
-_With a swirl of his cloak, a crack of thunder and just a hint of
-maniacal laughter the Wizard vanishes to reappear anywhere
-on the battlefield._
-
-The Wizard is moved to a new position anywhere on the table.
-He can leave or join a unit if he wishes, enabling a Wizard
-to move into or out of combat for example. Once the Wizard
-has moved he can cast a second spell, but note this must be
-a different spell and not a further Teleport! Roll to cast the
-second spell as normal. A Wizard that Teleports successfully
-can therefore potentially cast two spells that turn.
+include::partial$empire-spells.adoc[]
 
 image::dogs-of-war/soldiers.webp[]

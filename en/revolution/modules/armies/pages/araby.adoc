@@ -74,7 +74,7 @@ image::araby/araby.webp[]
 
 == Araby army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$araby.tsv[]
 |===
@@ -85,7 +85,7 @@ include::partial$araby.tsv[]
 5: Remove extra initial .
 ////
 
-{empty}1. Guards:: The Sultan’s Guards are so unquestioningly loyal
+[[guards,†1]]1. Guards:: The Sultan’s Guards are so unquestioningly loyal
 that they will obey the first order given to them each turn on
 the Command roll of 10 or less so long as the order comes from
 the General himself. No penalties are applied to this order.
@@ -93,13 +93,13 @@ Further orders are given using the General’s normal command
 value and penalties. This applies only to Guards and not to
 brigades that include Guards and other units.
 
-2. Desert Riders:: Desert Riders have a shooting range of 15cm
+[[desert-riders,†2]]2. Desert Riders:: Desert Riders have a shooting range of 15cm
 and 360° vision – stands in this unit can draw line of sight from
 all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
-3. Camel Riders:: Camel Riders ignore distance modifiers when
+[[camel-riders,†3]]3. Camel Riders:: Camel Riders ignore distance modifiers when
 commands are issued to them. This applies only to Camel
 Riders and not to brigades that include Camel Riders and
 other units. Remember that characters are still bound by their
@@ -112,7 +112,7 @@ a Command penalty of −1, this penalty applies to any unit of
 Camel Riders or to any brigade that contains one or more units
 of Camel Riders.
 
-4. Magic Carpets:: Magic carpets can fly – they have been rated
+[[magic-carpets,†4]]4. Magic Carpets:: Magic carpets can fly – they have been rated
 as aerial ‘cavalry’ as this is the closest categorisation to their
 type. Because they are awkward flyers, they can be pursued by
 any type of enemy troops. They have a shooting range of 15cm
@@ -121,7 +121,7 @@ all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
-5. Elephants:: Elephants cause terror. Elephants cannot be
+[[elephants,†5]]5. Elephants:: Elephants cause terror. Elephants cannot be
 brigaded with cavalry but can be brigaded with other types of
 troops including other Elephants. If an Elephant unit would
 otherwise become confused – for whatever reason – then it will
@@ -185,14 +185,14 @@ or friendly unit it counts as charging (see above).
   formation.
 --
 
-6. Flying Carpet:: This is considered to be a flying chariot mount.
+[[flying-carpet,†6]]6. Flying Carpet:: This is considered to be a flying chariot mount.
 
-7. Elephant:: The Elephant mount is a standard monster mount
+[[elephant,†7]]7. Elephant:: The Elephant mount is a standard monster mount
 except that a character mounted on an Elephant cannot join a
 unit of friendly cavalry. A unit joined by a character riding an
 Elephant causes Terror.
 
-8. Djinn:: The Djinn accompanies its master and can transform
+[[djinn,†8]]8. Djinn:: The Djinn accompanies its master and can transform
 both of them into a whirlwind enabling the stand to fly as for
 a normal flying mount. If the sorcerer has a Djinn he can also
 cast the <<curse-of-the-djinn) spell with a +1 casting bonus.

@@ -53,7 +53,7 @@ image::wood-elves/wood-elves.webp[]
 
 == Wood Elf army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$wood-elves.tsv[]
 |===
@@ -78,13 +78,13 @@ penalty when within woodland.
 7: Spelling penalty
 ////
 
-{empty}1. Glade Guard:: Wood Elves are just as famed for their bow as
+[[glade-guard,†1]]1. Glade Guard:: Wood Elves are just as famed for their bow as
 their High Elf cousins, and as such Glade Guard units add +1 to
 their dice roll when making shooting attacks. Therefore these
 units score a hit against targets in the open on a 3+, against
 defended targets on a 4+, and against fortified targets on a 5+.
 
-2. Wardancers:: Wardancer stands are not deployed as independent
+[[wardancers,†2]]2. Wardancers:: Wardancer stands are not deployed as independent
 units. Instead, any Glade Guard or Eternal Guard unit may add
 one stand of Wardancers. This brings the size of the unit to 4
 stands – 3 regular stands plus the Wardancers stand.
@@ -97,7 +97,7 @@ Wardancers casualties never count for Command penalties.
 Wardancers stands never cause the parent unit to be in Irregular
 Formation no matter how they are placed.
 
-3. Waywatchers:: Famous for their bow skills even by a Wood
+[[waywatchers,†3]]3. Waywatchers:: Famous for their bow skills even by a Wood
 Elf standards, Waywatchers shoot the enemy with terrifying
 accuracy. The add +1 to their dice roll when making shooting
 attacks and these attacks are resolved at −1 Armour value of the
@@ -126,51 +126,51 @@ infiltration order is failed the unit is not deployed and cannot
 infiltrate that turn, it can attempt to infiltrate in a subsequent
 turn at the same of a different place.
 
-4. Forest Spirits:: Forest Spirits are woodland creatures. They
+[[forest-spirits,†4]]4. Forest Spirits:: Forest Spirits are woodland creatures. They
 are immune to terror and suffer −1 Command penalty when
 being ordered by General or Noble.
 
-5. Wild Riders:: Wild Riders receive +1 Attack in the first round
+[[wild-riders,†5]]5. Wild Riders:: Wild Riders receive +1 Attack in the first round
 of every combat when fighting to the front.
 
-6. Warhawk Riders:: Warhawk Riders can fly. They have a
+[[warhawk-riders,†6]]6. Warhawk Riders:: Warhawk Riders can fly. They have a
 shooting range of only 15cm and 360° vision – stands in this unit
 can draw line of sight from all edges for the purpose of evading
 and shooting, including shooting at charging enemies. Note that
 this unit still needs Line of Sight from its front edge to charge
 an enemy.
 
-7. Treeman:: Treeman can enter woods and suffers no command
+[[treeman,†7]]7. Treeman:: Treeman can enter woods and suffers no command
 penalty for being within the woods but cannot get defended
 status there. Treeman causes terror.
 
-8. Treeman Ancient:: Treeman Ancient has −1 Command
+[[treeman-ancient,†8]]8. Treeman Ancient:: Treeman Ancient has −1 Command
 penalty when issuing orders to other than Forest Spirit units.
 Can join only Forest Spirit units and is able to cast Tree Singing
 spell. Units joined by Treeman Ancient cause terror. There
 can ever be only one Treeman Ancient in any Wood Elf army.
 Cannot be given any magic items.
 
-9. Branchwraith:: Branchwraith has −1 Command penalty when
+[[branchwraith,†9]]9. Branchwraith:: Branchwraith has −1 Command penalty when
 issuing orders to other than Forest Spirit units. Can join only
 Forest Spirit units and is able to cast Tree Singing spell. Cannot
 be given any magic items.
 
-10. Giant Stag:: General, Nobles and Spell Weavers may ride a
+[[giant-stag,†10]]10. Giant Stag:: General, Nobles and Spell Weavers may ride a
 Giant Stag. The Stag adds +1 Attack to those of its rider.
 
-11. Unicorn:: This mount can be ridden by Spell Weaver only.
+[[unicorn,†11]]11. Unicorn:: This mount can be ridden by Spell Weaver only.
 The Unicorn adds +1 Attack to those of its rider. Once per
 battle the Unicorn’s magical power adds +1 to the dice when
 casting a spell. The player must announce that the Unicorn’s
 magic before rolling to see if the spell works. There can be only
 one Unicorn in the army.
 
-12. Warhawk:: General, Nobles and Spell Weavers may ride a
+[[warhawk,†12]]12. Warhawk:: General, Nobles and Spell Weavers may ride a
 Warhawk. The Warhawk can fly, increasing its rider’s move
 from 60cm to 100cm, and it adds +1 Attack to those of its rider.
 
-13. Forest Dragon:: Generals, Nobles and Spell Weavers may
+[[forest-dragon,†13]]13. Forest Dragon:: Generals, Nobles and Spell Weavers may
 ride Forest Dragons.
 include::partial$dragon.adoc[]
 

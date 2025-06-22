@@ -43,7 +43,7 @@ image::norse/norse.webp[]
 
 == Norse army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$norse.tsv[]
 |===
@@ -55,7 +55,7 @@ include::partial$norse.tsv[]
 4: some rewording of the siege attack
 ////
 
-{empty}1. Berserkers:: Such is the eagerness to get into combat that a
+[[berserkers,†1]]1. Berserkers:: Such is the eagerness to get into combat that a
 unit of Berserkers will always use its initiative to charge an
 enemy if possible and can’t be given orders instead. They’ll
 never use their initiative to evade. They can’t be driven back by
@@ -64,7 +64,7 @@ they must pursue or advance where possible. Berserkers are
 unaffected by enemies that cause terror in combat, so they do
 not suffer the usual −1 Attack modifier.
 
-2. Ulfwerener:: Unlike usual infantry troops, the Ulfwerener
+[[ulfwerener,†2]]2. Ulfwerener:: Unlike usual infantry troops, the Ulfwerener
 are based facing the short edge in the same way as cavalry. In
 addition they receive an additional +1 Attack modifier when
 they charge an enemy in the open in the same way as monsters
@@ -74,10 +74,10 @@ supported. Because of their rather bestial nature, only
 characters with the Were Kin Character upgrade may join units
 of Ulfwerener. Ulfwerener units can not take any magic items.
 
-3. Storm Giant::
+[[storm-giant,†3]]3. Storm Giant::
 include::partial$giant.adoc[]
 
-4. War Mammoth:: As the Mammoth is so gargantuan, it uses a
+[[war-mammoth,†4]]4. War Mammoth:: As the Mammoth is so gargantuan, it uses a
 40 x 60mm base, with the short edge being the front. It causes
 terror and may attack troops on ramparts with its trunk in the
 same manner as a Giant. Alternatively, it may elect to batter a
@@ -106,20 +106,20 @@ is badly hurt then all accumulated hits are discounted and its
 maximum Hits value and Attacks are halved for the rest of the
 battle (to 5 Hits and 4 Attacks).
 
-5. Valkyries:: Valkyries can fly. Valkyries will always use their
+[[valkyries,†5]]5. Valkyries:: Valkyries can fly. Valkyries will always use their
 initiative to charge an enemy if possible and cannot be given
 orders instead. They will never use their initiative to evade.
 Valkyries are unaffected by enemy that cause terror in combat
 and they don’t suffer the usual −1 Attack modifier.
 
-6. Were Kin:: The Were Kin special mount option may be taken
+[[were-kin,†6]]6. Were Kin:: The Were Kin special mount option may be taken
 by any character in Norse army. It is not actually a mount as
 such, more an upgrade. A unit that is joined by the character
 with the Were Kin upgrade causes terror in its enemies. No
 terrain restriction apply for Were Kin – just treat the character
 as having +1 extra Attack and causing terror.
 
-7. Horn of Resounding:: A single shaman in the army may be
+[[horn-of-resounding,†7]]7. Horn of Resounding:: A single shaman in the army may be
 given this chariot upgrade. It gives the shaman +1 Attack if
 the Horn is used the Shaman inspires the units around him to
 fight harder. He may add +1 to all of his Command checks for

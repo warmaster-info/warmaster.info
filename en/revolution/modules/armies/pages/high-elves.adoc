@@ -76,22 +76,22 @@ image::high-elves/high-elves.webp[]
 
 == High Elf army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$high-elves.tsv[]
 |===
 
 == Special rules
 
-{empty}1. Archers:: High Elf archers add +1 to their dice roll when
+[[archers,†1]]1. Archers:: High Elf archers add +1 to their dice roll when
 making Shooting attacks. They will therefore score a hit
 against targets in the open on a 3 or more, against targets that
 are defended on a 4 or more, and against fortified targets on a
 5 or more.
 
-2. Giant Eagles:: Giant Eagles can fly.
+[[giant-eagles,†2]]2. Giant Eagles:: Giant Eagles can fly.
 
-3. Dragons:: Dragons can fly. Dragon rider units and any other
+[[dragons,†3]]3. Dragons:: Dragons can fly. Dragon rider units and any other
 units that include a Dragon riding character cause terror in
 their enemies.
 +
@@ -119,19 +119,19 @@ breath has a range of 20cm. Breath can be directed against one
 target as for normal shooting and has 3 Attacks that are worked
 out in the usual way at 4+ to hit.
 
-4. Elven Bolt Thrower:: Rules for the Elven Bolt Thrower are
+[[elven-bolt-thrower,†4]]4. Elven Bolt Thrower:: Rules for the Elven Bolt Thrower are
 described in the xref:rules:artillery-and-machines.adoc#elven-bolt-thrower[Artillery and Machines] section in the Rulebook.
 
-5. Wizard:: High Elf Mages are especially powerful wizards
+[[wizard,†5]]5. Wizard:: High Elf Mages are especially powerful wizards
 and to represent this can re-roll a failed spell on any dice result
 except a 1. If a spell is failed because a 1 is rolled then no re-roll
 is permitted.
 
-6. Giant Eagle Mount:: Generals, Wizards and Heroes can ride
+[[giant-eagle-mount,†6]]6. Giant Eagle Mount:: Generals, Wizards and Heroes can ride
 a Giant Eagle. An Eagle can fly increasing its rider’s move from
 60 to 100cm. An extra +2 Attacks are added to those of its rider.
 
-7. Chariot Mount:: Generals, Wizards and Heroes can ride
+[[chariot-mount,†7]]7. Chariot Mount:: Generals, Wizards and Heroes can ride
 Chariots. An extra +1 Attack is added to those of its rider.
 
 image::high-elves/giant-eagles.webp[]

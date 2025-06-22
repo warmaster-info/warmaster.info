@@ -67,7 +67,7 @@ image::chaos-dwarfs/chaos-dwarfs.webp[]
 
 == Chaos Dwarf army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$chaos-dwarfs.tsv[]
 |===
@@ -80,7 +80,7 @@ include::partial$chaos-dwarfs.tsv[]
 4: this → either
 5: is treated as, this → either, past → beyond
 ////
-{empty}1. Blunderbusses:: Units with Blunderbusses have a shooting
+[[blunderbusses,†1]]1. Blunderbusses:: Units with Blunderbusses have a shooting
 range of 15cm. The unit has 2 shooting attacks. Units hit by
 Blunderbusses get a −1 penalty for their armour rolls. One
 unit of Blunderbusses per full 1000 points can replace a unit
@@ -88,7 +88,7 @@ of Warriors while still counting for the Chaos Dwarfs min/max
 max value. Note that this unit still counts for max value of
 Blunderbusses.
 
-2. Hobgoblins:: Hobgoblins and Hobgoblin Wolf Riders carry
+[[hobgoblins,†2]]2. Hobgoblins:: Hobgoblins and Hobgoblin Wolf Riders carry
 an assortment of smaller ranged arms, so may only shoot up
 to 15cm and have 360° vision – stands in this unit can draw
 line of sight from all edges for the purpose of evading and
@@ -99,13 +99,13 @@ of Hobgoblins or Hobgoblin Wolf Riders may not brigade
 with units of Black Orcs or Orc Slaves unless Chaos Dwarfs or
 Blunderbusses are part of the brigade.
 
-3. Orc Slaves:: Slaves are just that, captives forced to work and
+[[orc-slaves,†3]]3. Orc Slaves:: Slaves are just that, captives forced to work and
 fight for their cruel masters’ enjoyment. A unit of Slaves suffer
 an additional −1 Command penalty when given an order. This
 penalty is waived, however, if the Slaves are brigaded with
 Black Orcs, Chaos Dwarfs or Blunderbusses.
 
-4. Earthshaker Cannon:: The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
+[[earthshaker-cannon,†4]]4. Earthshaker Cannon:: The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
 Thrower] as described in the Rulebook. The exception is
 that the drive back from the Eartshaker shot causes confusion on
 rolls of 4+ rather than the usual 6+. In addition the Earthshaker
@@ -116,7 +116,7 @@ The total number
 of Earthshakers and Death Rockets in the army is limited in the
 way that only 1 piece of either kind is allowed per 1000 points.
 
-5. Death Rocket:: The Death Rocket acts is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
+[[death-rocket,†5]]5. Death Rocket:: The Death Rocket acts is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
 Thrower] as described in the Rulebook, except it shoots
 1D6 times per phase and hits inflicted on the target can be
 still saved by armour with a −1 modifier. If the roll for the
@@ -155,14 +155,14 @@ h|6
 instead of the normal 1D6.
 |===
 
-6. Bolt Thrower:: The Hobgoblin Bolt Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower]
+[[bolt-thrower,†6]]6. Bolt Thrower:: The Hobgoblin Bolt Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower]
 as described in main Rulebook.
 
-7. Great Taurus:: Any character may be mounted on a Great
+[[great-taurus,†7]]7. Great Taurus:: Any character may be mounted on a Great
 Taurus. This mighty beast is fearsome to face on the battlefield.
 The Great Taurus causes terror and is able to fly.
 
-8. Lammasu:: The Lammasu is a magical creature trained to
+[[lammasu,†8]]8. Lammasu:: The Lammasu is a magical creature trained to
 serve the Chaos Dwarfs. A Chaos Dwarf Sorcerer may be
 mounted on a Lammasu. A Lammasu is able to fly.
 +
@@ -171,7 +171,7 @@ once per turn you can attempt to dispel one hostile spell cast on
 one friendly unit within 30cm of the Lammasu on a roll of 4+ on
 a D6. There can only be one Lammasu in the army.
 
-9. Sorcerer Lord:: The General may be true Sorcerer Lord,
+[[sorcerer-lord,†9]]9. Sorcerer Lord:: The General may be true Sorcerer Lord,
 maybe even one of the living ancestors from Zharr-Naggrund.
 Sorcerer Lord can cast spells like a Wizard and can carry a
 magic item restricted to a Wizard if desired. Once during the

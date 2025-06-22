@@ -87,14 +87,14 @@ image::dwarfs/anvil.webp[]
 
 == Dwarf army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$dwarfs.tsv[]
 |===
 
 == Special rules
 
-{empty}1. Handgunners:: A handgun shot can pierce armour far more
+[[handgunners,†1]]1. Handgunners:: A handgun shot can pierce armour far more
 easily than an arrow or a crossbow bolt. Therefore, count
 enemy Armour values as one worse than normal when shot by
 a handgun. One unit of Handgunners per full 1000 points can
@@ -102,7 +102,7 @@ replace a unit of Warriors while still counting for the Warrior
 min/max value. Note that this unit still counts for max value of
 Handgunners.
 
-2. Rangers:: One unit of Rangers per full 1000 points does not
+[[rangers,†2]]2. Rangers:: One unit of Rangers per full 1000 points does not
 have to be deployed before the game if the player does not wish
 to do so. Instead the unit can be infiltrated onto the battlefield
 once the game has begun. To infiltrate a unit, the Dwarf player
@@ -129,7 +129,7 @@ infiltrate in a subsequent turn at the same or a different place.
 Although they are infantry, Rangers can pursue any type of
 retreating enemy.
 
-3. Troll Slayers:: A Troll Slayer unit will always use its initiative
+[[troll-slayers,†3]]3. Troll Slayers:: A Troll Slayer unit will always use its initiative
 to charge an enemy if possible and cannot be given orders
 instead. They will never use their initiative to evade. Troll
 Slayers cannot be driven back by shooting and never roll for
@@ -155,9 +155,9 @@ as follows:
 Slayer units that have been destroyed still count towards the
 Dwarf army’s losses for purposes of calculating withdrawal.
 
-4. Cannons:: Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are in the main Rulebook.
+[[cannon,†4]]4. Cannon:: Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are in the main Rulebook.
 
-5. Flame Cannon:: The Flame Cannon is an infernal device that
+[[flame-cannon,†5]]5. Flame Cannon:: The Flame Cannon is an infernal device that
 shoots a gout of flame. It has range of 30cm and its attacks are
 slightly unusual. Rather than having a fixed number of attacks it
 has 2D6 Attacks instead – roll 2 dice and add the scores together.
@@ -206,7 +206,7 @@ The Flame Cannon is otherwise unaffected
 +
 A Flame Cannon can shoot at charging enemy in the usual way.
 
-6. Gyrocopter:: The Gyrocopter is a flying machine, so all the
+[[gyrocopter,†6]]6. Gyrocopter:: The Gyrocopter is a flying machine, so all the
 usual flying rules apply. The model always forms a single
 unit on its own, must be given orders individually, cannot be
 brigaded with other units and cannot be joined by a character
@@ -220,14 +220,14 @@ and shooting, including shooting at charging enemies. Note that
 this unit still needs Line of Sight from its front edge to charge
 an enemy.
 
-7. Hero:: One Hero in the army may be upgraded to carry
+[[hero,†7]]7. Hero:: One Hero in the army may be upgraded to carry
 an Oathstone for +15 pts. Once per game, the Hero may use
 the Oathstone to inspire one unit that he has joined (except
 Trollslayers). Both the Hero, and the unit he has joined, gain
 +1 attack per stand, and are immune to Terror, until the end of
 the combat phase.
 
-8. Runesmith:: Although they are not wizards and cannot
+[[runesmith,†8]]8. Runesmith:: Although they are not wizards and cannot
 therefore cast spells, Dwarf Runesmiths can combat the magic
 of their enemies. If an enemy Wizard who is within 50cm of
 the Runesmith casts a spell the Runesmith can attempt to ‘anti-magic’
@@ -243,7 +243,7 @@ anti-magic any individual spell – even if the army includes more
 than one Runesmith and several are in range of the enemy
 Wizard.
 
-9. Anvil:: The army can only include a single anvil and it is
+[[anvil,†9]]9. Anvil:: The army can only include a single anvil and it is
 incorporated onto the stand of a Runesmith. If a Runesmith
 stand includes the Anvil, once per battle he can add +1 to his
 dice roll when he attempts to dispel enemy magic spells using

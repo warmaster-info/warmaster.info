@@ -57,7 +57,7 @@ image::empire/empire.webp[]
 
 == Empire army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$empire.tsv[]
 |===
@@ -68,7 +68,7 @@ include::partial$empire.tsv[]
 3: – changed to :
 ////
 
-{empty}1. Handgunners:: Count enemy Armour values as one worse
+[[handgunners,†1]]1. Handgunners:: Count enemy Armour values as one worse
 than normal when shot by a handgun. So an Armour value of 3+
 counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an Armour value of
 6+ can’t save against a handgun. One unit of Crossbowmen per
@@ -77,7 +77,7 @@ full 1000 points can be replaced by Handgunners (including the
 min/max value. Note that this unit also counts for min/max
 value of Handgunners.
 
-2. Flagellants:: So keen are they to meet their maker that a unit
+[[flagellants,†2]]2. Flagellants:: So keen are they to meet their maker that a unit
 of Flagellants will always use its initiative to charge an enemy
 if possible and can’t be given orders instead. They’ll never use
 their initiative to evade. They can’t be driven back by shooting
@@ -86,7 +86,7 @@ pursue or advance where possible. Flagellants are unaffected
 by enemies that cause terror in combat, so they do not suffer
 the usual −1 Attack modifier.
 
-3. Skirmishers:: Skirmisher stands are not deployed as
+[[skirmishers,†3]]3. Skirmishers:: Skirmisher stands are not deployed as
 independent units. Instead, any infantry unit apart from
 Flagellants may add one stand of Skirmishers. This brings the
 size of the unit to 4 stands: 3 regular stands plus the Skirmisher
@@ -100,14 +100,14 @@ Skirmisher casualties never count for Command penalties.
 Skirmisher stands never cause the parent unit to be in Irregular
 Formation no matter how they are placed.
 
-4. Pistoliers:: Pistoliers have a shooting range of only 15cm
+[[pistoliers,†4]]4. Pistoliers:: Pistoliers have a shooting range of only 15cm
 however they have 360° vision – i.e. stands in this unit can
 draw line of sight from all edges for the purpose of evading
 and shooting, including shooting at charging enemies. Note that
 this unit still needs Line of Sight from its front edge to charge
 an enemy.
 
-5. Helblaster:: The Helblaster is a primitive type of crankdriven
+[[helblaster,†5]]5. Helblaster:: The Helblaster is a primitive type of crankdriven
 and unreliable machine gun. It has maximum range of 30cm. Its
 attacks value varies according to range: the closer the range the
 more deadly it becomes.
@@ -146,7 +146,7 @@ inflicted. Make Armour saves as for ordinary
 Helblaster hits.
 |===
 
-6. Steam Tank:: The Steam Tank forms a unit on its own, it
+[[steam-tank,†6]]6. Steam Tank:: The Steam Tank forms a unit on its own, it
 moves up to 20cm, and must be given its own orders. The Steam
 Tank cannot be given a brigade order with other units, not even
 with other Steams Tanks. A character cannot join with a Steam
@@ -208,14 +208,14 @@ number of Attacks (6) to represent steam being
 uncontrollably diverted into weaponry.
 |===
 
-7. Griffons:: Generals, Wizards and Heroes can ride Griffons.
+[[griffon,†7]]7. Griffon:: Generals, Wizards and Heroes can ride Griffons.
 The Griffon can fly increasing its rider’s Movement from 60cm
 to 100cm. It adds +2 Attacks to those of its rider. A unit that
 includes a Griffon rider causes terror in its enemies (and one
 might imagine a great deal of nervousness amongst its own
 ranks).
 
-8. War Altar:: There is only one War Altar of Sigmar.
+[[war-altar,†8]]8. War Altar:: There is only one War Altar of Sigmar.
 Consequently an army, no matter how large, can only ever
 include one. A War Altar can only be included as a mount for a
 Wizard, in which case he is assumed to be the Grand Theogonist.
@@ -227,79 +227,4 @@ the spell.
 
 == Empire spells
 
-=== Ball of Flame
-
-[.cost]#5+ to cast# [.points]#Range 30cm#
-
-_A ball of flame shoots form the Wizard’s outstretched arm
-burning all in its path._
-
-Draw an imaginary line 30cm long from the Wizard’s stand
-in any direction you wish. The line will pass through any
-intervening units but not beyond terrain that would normally
-stop a missile shot, e.g. over the crest of a hill, more than 2cm of
-woodland, and so forth.
-
-Each unit under the line takes three shooting attacks worked
-out in the usual way. Note that this spell can easily affect
-several units and will affect all units that fall beneath the line
-(including your own). Unengaged units can be driven back
-by a Ball of Flame as with ordinary shooting (even including
-friends). Engaged units cannot be driven back by the Ball of
-Flame but carry over any hits scored into the first round of
-combat; any hits scored count as having been struck in the
-combat itself.
-
-=== Voice of Command
-
-[.cost]#5+ to cast# [.points]#Range 30cm#
-
-_The Wizard’s voice booms out across the battlefield directing
-troops above the tumult of combat with the magical Voice of
-Command._
-
-The spell can be cast on any unengaged friendly unit within
-range regardless of whether the Wizard can see it or not. The
-spell affects only a single unit, never a brigade and there is no
-supporting charge possible.
-
-The unit can be moved just as if it had received an order in the
-Command phase. Character stands that have joined the unit
-will not move with it: they remain where they are.
-
-=== Weird Enchantment
-
-[.cost]#4+ to cast# [.points]#Range 30cm#
-
-_A weird enchantment forms around the target unit and engulfs
-it in strange lights, scary nightmares and disorientating special
-effects._
-
-This spell can be cast on any enemy unit within range regardless
-of whether the Wizard can see it or not. The spell lasts until the
-end of the opposing player’s following turn.
-
-The unit moves at half pace in all situations: even when charging
-for example. The unit counts all enemies as terrifying (−1 Attack
-penalty) even when it is otherwise immune to terror. If the unit
-would normally cause terror then it ceases to do so and counts
-all enemies as terrifying just like everyone else. However,
-if the target is Undead or Daemon it will not count enemies
-as terrifying although all other penalties apply as described
-(Undead and Daemons are hard to spook).
-
-=== Teleport
-
-[.cost]#2+ to cast# [.points]#Range N/A#
-
-_With a swirl of his cloak, a crack of thunder and just a hint of
-maniacal laughter the Wizard vanishes to reappear anywhere
-on the battlefield._
-
-The Wizard is moved to a new position anywhere on the table.
-He can leave or join a unit if he wishes, enabling a Wizard
-to move into or out of combat for example. Once the Wizard
-has moved he can cast a second spell, but note this must be
-a different spell and not a further Teleport! Roll to cast the
-second spell as normal. A Wizard that Teleports successfully
-can therefore potentially cast two spells that turn.
+include::partial$empire-spells.adoc[]

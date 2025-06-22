@@ -61,34 +61,34 @@ image::kislev/kislev.webp[]
 
 == Kislev army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$kislev.tsv[]
 |===
 
 == Special rules
 
-{empty}1. Winged Lancers:: Winged Lancers receive +1 Attack in the
+[[winged-lancers,†1]]1. Winged Lancers:: Winged Lancers receive +1 Attack in the
 first round of every combat when fighting to the front and are
 Immune to Terror.
 
-2. Horse Archers, Cossacks:: Kislevite Horsemen have a shooting
+[[horse-archers-cossacks,†2]]2. Horse Archers, Cossacks:: Kislevite Horsemen have a shooting
 range of 15 cm and 360° vision – stands in this unit can draw line
 of sight from all edges for the purpose of evading and shooting,
 including shooting at charging enemies. Note that this unit still
 needs Line of Sight from its front edge to charge an enemy.
 
-3. Bowmen:: One unit of Bowmen per full 1000 points can
+[[bowmen,†3]]3. Bowmen:: One unit of Bowmen per full 1000 points can
 replace a unit of Axemen while still counting for Axemen min/max
 value.
 
-4. Red Guard:: In addition to traditional Kislevite long axes Red
+[[red-guard,†4]]4. Red Guard:: In addition to traditional Kislevite long axes Red
 Guard is armed with handguns. Count enemy armour values as
 one worse than normal when shot by a handgun. So an armour
 value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an armour
 value of 6+ can’t save against a handgun.
 
-5. Bears:: Bears are defined as infantry for rules purposes as
+[[bears,†5]]5. Bears:: Bears are defined as infantry for rules purposes as
 this gives them the appropriate mobility for such creatures, but
 they add +1 Attack when they charge an enemy in the open in
 the same way as monsters and chariots.
@@ -102,7 +102,7 @@ Note that these rules apply only to Bear units – not to characters
 riding a Bear or Shaman that have transformed in Monster
 Bear.
 
-6. War Wagon:: image:kislev/wagon-laagered.webp[width=250,height=253,float="right"]
+[[war-wagon,†6]]6. War Wagon:: image:kislev/wagon-laagered.webp[width=250,height=253,float="right"]
 The War Wagon consists of a wagon stand and
 a horse team stand. The wagon cannot charge and moves 20cm
 at full pace. The unit moving up to 5 cm after a successful order
@@ -146,10 +146,10 @@ wholly the short edge of a laagered wagon stand counts as
 defended for shooting and combat. This advantage applies only
 in the first round of combat.
 
-7. Bear Mount:: Generals, Heroes and Shamans can ride a Bear
+[[bear-mount,†7]]7. Bear Mount:: Generals, Heroes and Shamans can ride a Bear
 mount. The Bear adds +1 Attack to that of its rider.
 
-8. Yozhin:: This creature lives in swamps near the Praag since
+[[yozhin,†8]]8. Yozhin:: This creature lives in swamps near the Praag since
 the great incursion of Chaos. Yozhin strongly hates any kind
 of Chaos, being (possibly) chaos-twisted creature itself. Only
 powerful Shamans may summon a Yozhin and make it to fight
@@ -159,7 +159,7 @@ terrain for him. A unit that has been joined by a Yozhin
 riding Shaman causes terror in its enemies. Yozhin adds +1
 Attack to Shaman’s attacks value.
 
-9. Tzarina:: The General may be a Tzarina of the royal blood –
+[[tzarina,†9]]9. Tzarina:: The General may be a Tzarina of the royal blood –
 perhaps Tzarina Katrina herself. The Tzarina rides a horse-drawn
 sled – note this is not a chariot! The Tzarina can cast
 spells like a Wizard and can carry a magic item restricted to a

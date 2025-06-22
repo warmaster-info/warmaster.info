@@ -75,7 +75,7 @@ image::bretonnia/bretonnia.webp[]
 
 == Bretonnian army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$bretonnia.tsv[]
 |===
@@ -96,7 +96,7 @@ Knights/Grail Knights/Pegasus Knights it must withdraw.
 
 === Special rules
 
-{empty}1. Peasants:: A unit of Peasants suffers an additional −1 Command
+[[peasants,†1]]1. Peasants:: A unit of Peasants suffers an additional −1 Command
 penalty when given an order. However, this penalty is waived
 if the Peasant unit is part of a brigade that includes at least
 one non-Peasant unit. Peasants cannot use initiative to charge –
@@ -104,19 +104,19 @@ though they can use initiative to evade as usual. Peasants
 are able to make supporting charges. When they charge they
 receive no bonus attack modifier for doing so.
 
-2. Knights:: A Knight unit will always use its initiative to charge
+[[knights,†2]]2. Knights:: A Knight unit will always use its initiative to charge
 an enemy if possible and cannot be given orders instead. They
 will never use their initiative to evade. Knights are unaffected
 by enemy that cause terror in combat and they don’t suffer the
 usual −1 Attack modifier.
 
-3. Grail Knights:: If the unit of Grail Knights is charging against
+[[grail-knights,†3]]3. Grail Knights:: If the unit of Grail Knights is charging against
 an enemy in the open it receives an additional +1 Attack
 modifier in the same way as chariots and monsters.
 
-4. Pegasus Knights:: Pegasus Knights can fly.
+[[pegasus-knights,†4]]4. Pegasus Knights:: Pegasus Knights can fly.
 
-5. Trebuchet:: The Bretonnian Trebuchet is one of the mightiest
+[[trebuchet,†5]]5. Trebuchet:: The Bretonnian Trebuchet is one of the mightiest
 and most excellent stone throwers that are built in the Old
 World. At first it was designed to help the noble knights with
 the sometimes coming up and messy sieges that had to be done
@@ -148,21 +148,21 @@ instead shoot at the nearest enemy unit in range it cannot see.
 When Shooting Blind it always hits on 6+ no matter if the target
 is in the open, defended or even fortified.
 
-6. Unicorn:: Only an Enchantress can ride a Unicorn. The
+[[unicorn,†6]]6. Unicorn:: Only an Enchantress can ride a Unicorn. The
 Unicorn adds +1 to the Enchantress’s Attacks. Once per battle
 the Unicorn’s magical power adds +1 to the dice roll when
 casting a spell. The player must announce that he is using the
 Unicorn’s magic before rolling to see if the spell works.
 
-7. Pegasus:: The Pegasus can be ridden by a General, Hero or
+[[pegasus,†7]]7. Pegasus:: The Pegasus can be ridden by a General, Hero or
 Enchantress and adds +1 Attack to the rider as well as allowing
 the character to fly.
 
-8. Hippogriff:: Only a General can ride a Hippogriff. The
+[[hippogriff,†8]]8. Hippogriff:: Only a General can ride a Hippogriff. The
 Hippogriff can fly. A unit joined by the General on Hippogriff
 causes terror.
 
-9. Grail Reliquae:: This sacred item can be given to one unit
+[[grail-reliquae,†9]]9. Grail Reliquae:: This sacred item can be given to one unit
 of Peasants only in a whole army. This unit and all Peasant
 units touching it become Grail Pilgrims (for as long as they
 keep contact). Grail Pilgrims are immune to terror, don’t get

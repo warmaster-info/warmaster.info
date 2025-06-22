@@ -53,7 +53,7 @@ image::witch-hunters/witch-hunters.webp[]
 
 == Witch Hunter army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$witch-hunters.tsv[]
 |===
@@ -75,7 +75,7 @@ means the Tomb Kings army and Vampire Counts army
 2: + moved
 3: they'll → Flagellants
 ////
-{empty}1. Zealots:: Zealots form the main part of a Witch Hunter army,
+[[zealots,†1]]1. Zealots:: Zealots form the main part of a Witch Hunter army,
 and are drawn from mobs whipped up by priest’s sermons.
 These troops gain +1 Attack in the first round of combat
 against Undead or Chaos (regardless of who charged) and will
@@ -83,12 +83,12 @@ always use their initiative to charge these enemies if possible. If
 victorious in combat with Undead or Chaos like enemies they
 must pursue or advance where possible.
 
-2. Handgunners:: Count enemy Armour values as one worse
+[[handgunners,†2]]2. Handgunners:: Count enemy Armour values as one worse
 than normal when shot by a handgun. So an armour value of 3+
 counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an Armour value of
 6+ can’t save against a handgun.
 
-3. Flagellants:: So keen are they to meet their maker that a unit
+[[flagellants,†3]]3. Flagellants:: So keen are they to meet their maker that a unit
 of Flagellants will always use its initiative to charge an enemy
 if possible and can’t be given orders instead. Flagellants never use
 their initiative to evade. They can’t be driven back by shooting
@@ -97,7 +97,7 @@ pursue or advance where possible. Flagellants are unaffected
 by enemies that cause terror in combat, so they do not suffer
 the usual −1 Attack modifier.
 
-4. Warhounds:: Warhound stands are not deployed as
+[[warhounds,†4]]4. Warhounds:: Warhound stands are not deployed as
 independent units. Instead, any infantry unit may add one
 stand of Warhounds. This brings the size of the unit to 4 stands;
 3 regular stands plus the Warhound stand. Warhounds always
@@ -112,13 +112,13 @@ Formation no matter how they are placed. An Infantry unit
 containing a Warhound stand gains the ability to pursue
 Cavalry and Chariots.
 
-5. Pistoliers:: Pistoliers have a shooting range of only 15cm and
+[[pistoliers,†5]]5. Pistoliers:: Pistoliers have a shooting range of only 15cm and
 360° vision – stands in this unit can draw line of sight from
 all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
-6. Cannons:: See the rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons]
+[[cannons,†6]]6. Cannons:: See the rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons]
 in the Warmaster Rulebook.
 
 image::witch-hunters/pistoliers.webp[]

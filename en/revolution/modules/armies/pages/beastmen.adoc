@@ -45,7 +45,7 @@ image::beastmen/beastmen.webp[]
 
 == Beastmen army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$beastmen.tsv[]
 |===
@@ -64,7 +64,7 @@ usual −1 Command penalty when within woodland.
 3: its
 5: if not → unless, roll, its
 ////
-{empty}1. Gor/Ungor:: Up to half the Gor units (rounded down) and
+[[gor-ungor,†1]]1. Gor/Ungor:: Up to half the Gor units (rounded down) and
 half the Ungor units (rounded down) may be designated as
 Ambushers. At the start of the game, you must inform your
 opponent how many units will Ambush. Ambushers may form
@@ -95,22 +95,22 @@ Once deployed, Ambushers operate like normal units.
 +
 Ungor have a shooting range of 15 cm.
 
-2. Minotaurs:: Minotaurs are subject for Bloodlust – they always
+[[minotaurs,†2]]2. Minotaurs:: Minotaurs are subject for Bloodlust – they always
 use initiative to charge if possible and cannot be given orders
 instead. A unit with Bloodlust never use initiative to evade and
 must pursue or advance where possible. Also, it is immune to
 terror, cannot be driven back by shooting and never rolls for
 drive backs.
 
-3. Centigors:: Centigors have a shooting range of only 15cm
+[[centigors,†3]]3. Centigors:: Centigors have a shooting range of only 15cm
 and 360° vision – stands in this unit can draw line of sight from
 all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
-4. Dragon Ogres:: Dragon Ogres are immune to terror.
+[[dragon-ogres,†4]]4. Dragon Ogres:: Dragon Ogres are immune to terror.
 
-5. Chaos Spawn:: Spawn units have −1 Command penalty unless
+[[chaos-spawn,†5]]5. Chaos Spawn:: Spawn units have −1 Command penalty unless
 part of a brigade that includes more non-Spawn units than
 Spawn units. Up to two Spawn units can be included in any
 brigade and do not count towards the maximum size of that
@@ -128,7 +128,7 @@ the purpose of evading and shooting, including shooting at
 charging enemies. Note that this unit still needs Line of Sight
 from its front edge to charge an enemy.
 
-6. Dragon Ogre Shaggoth:: Dragon Ogre Shaggoth must always
+[[dragon-ogre-shaggoth,†6]]6. Dragon Ogre Shaggoth:: Dragon Ogre Shaggoth must always
 be given a separate order. It cannot be brigaded with other
 troops even with other Shaggoths.
 +
@@ -147,12 +147,12 @@ Hits value and Attacks are halved for the rest of the battle (to
 A Dragon Ogre Shaggoth causes terror
 in its enemies.
 
-7. Doombull:: A unit joined by a Doombull cause terror. Also,
+[[doombull,†7]]7. Doombull:: A unit joined by a Doombull cause terror. Also,
 Gors, Ungors and Bestigors joined by a Doombull will become
 subject to Bloodlust in the same way as Minotaur units, until
 the end of the following Beastmen Command phase.
 
-8. Tuskgor Chariot:: Beastlord or Wargors can ride a Tuskgor
+[[tuskgor-chariot,†8]]8. Tuskgor Chariot:: Beastlord or Wargors can ride a Tuskgor
 Chariot. A character riding a chariot adds +1 to his Attacks.
 
 image::beastmen/infantry.webp[]

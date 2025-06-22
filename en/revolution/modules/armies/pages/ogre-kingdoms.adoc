@@ -67,7 +67,7 @@ image::ogre-kingdoms/ogre-kingdoms.webp[]
 
 == Ogre Kingdoms army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$ogre-kingdoms.tsv[]
 |===
@@ -80,32 +80,32 @@ include::partial$ogre-kingdoms.tsv[]
 5: standard −1 command penalty, the usual
 6: Paragraph break moved
 ////
-{empty}1. Bull Ogres:: If an Ogre unit can use its initiative to charge an
+[[bull-ogres,†1]]1. Bull Ogres:: If an Ogre unit can use its initiative to charge an
 enemy unit of humans at the start of the Command phase then
 it must do so. This happens automatically and their commander
 can do nothing about it. ‘Humans’ encompasses all men
 including Chaos Warriors and Marauders, but not Dwarfs,
 Elves etc.
 
-2. Leadbelchers:: Leadbelchers’ cannons have a range of 15cm.
+[[leadbelchers,†2]]2. Leadbelchers:: Leadbelchers’ cannons have a range of 15cm.
 Leadbelchers’ shooting attacks
 impose a −1 penalty to armour rolls.
 
-3. Yhetees:: If the unit of Yhetees is charging against an enemy
+[[yhetees,†3]]3. Yhetees:: If the unit of Yhetees is charging against an enemy
 in the open it receives an additional +1 Attack modifier in the
 same way as chariots and monsters. A Yhetee unit can only
 give support and be supported by other Yhetee units and must
 pursue retreating enemies where possible and must advance
 into a combat if they are able to do so.
 
-4. Gnoblars:: This unit is allowed to shoot as if it had bows but its
+[[gnoblars,†4]]4. Gnoblars:: This unit is allowed to shoot as if it had bows but its
 range is reduced to 15cm. A Gnoblar stand cannot be supported
 by other kinds of infantry – only by other Gnoblar stands. Note,
 however, that Gnoblars can support other kinds of infantry
 as normal. Gnoblars cannot be given magic items. Characters
 cannot join Gnoblar units.
 
-5. Gorgers:: When trying to issue an order to a unit of Gorgers or
+[[gorgers,†5]]5. Gorgers:: When trying to issue an order to a unit of Gorgers or
 to a brigade that contains a unit of Gorgers, there is always a −1
 Command penalty due their beastly and unruly nature. Gorgers
 always ignore distance modifiers when receiving orders and can
@@ -136,17 +136,17 @@ infiltrate in a subsequent turn at the same or a different place.
 +
 Gorgers don’t suffer the usual −1 Command penalty for Dense Terrain.
 
-6. Rhinox Riders:: Units of Rhinox Riders are unaffected by
+[[rhinox-riders,†6]]6. Rhinox Riders:: Units of Rhinox Riders are unaffected by
 terror. Rhinox Riders receive +1 Attack when charging against
 an enemy in open in the same way as chariots and monsters.
 
-5. Slave Giant::
+[[slave-giant,†7]]7. Slave Giant::
 include::partial$giant.adoc[]
 
-8. Scrap Launcher:: Scrap Launcher is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower] as
+[[scrap-launcher,†8]]8. Scrap Launcher:: Scrap Launcher is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower] as
 described in the Warmaster Rulebook.
 
-9. Bull Rhinox:: Tyrants, Bruisers and Butchers may ride the Bull
+[[bull-rhinox,†9]]9. Bull Rhinox:: Tyrants, Bruisers and Butchers may ride the Bull
 Rhinox. A unit that is joined with a character mounted on this
 huge beast causes terror in enemies.
 

@@ -66,7 +66,7 @@ image::tomb-kings/tomb-kings.webp[]
 
 == Tomb kings army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$tomb-kings.tsv[]
 |===
@@ -94,16 +94,16 @@ cannot become confused for any reason.
 6: Space before +1
 ////
 
-{empty}1. Carrion:: Carrion can fly. Note that Carrion can always return
+[[carrion,†1]]1. Carrion:: Carrion can fly. Note that Carrion can always return
 to a character by homing back at the start of the Command
 phase.
 
-2. Bone Giant:: Bone Giants cause terror. When a Tomb King
+[[bone-giant,†2]]2. Bone Giant:: Bone Giants cause terror. When a Tomb King
 gives an order to a Bone Giant or a brigade that contains a Bone
 Giant there is a −1 Command penalty. There is no penalty when
 a Liche-Priest gives an order.
 
-3. Sphinx:: Because the Sphinx has so many hits (6) we must
+[[sphinx,†3]]3. Sphinx:: Because the Sphinx has so many hits (6) we must
 consider the possibility of hurting the Sphinx and reducing
 its effectiveness in subsequent turns. Therefore, if a Sphinx
 has accumulated 4–5 hits by the end of the Shooting phase
@@ -113,7 +113,7 @@ all accumulated hits are discounted and its maximum Hits and
 Attacks are halved for the rest of the battle (to 3 Hits and 2
 Attacks). The Sphinx causes terror.
 
-4. Skull Chukka:: The Skull Chukka is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower]
+[[skull-chukka,†4]]4. Skull Chukka:: The Skull Chukka is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower]
 but with the following additional rule.
 When a unit is driven back as a result of hits scored by a Skull
 Chukka, then any dice rolled in respect to those hits will cause
@@ -122,20 +122,20 @@ that if a unit has taken other hits as well it will be necessary
 to roll the Skull Chukka dice separately. See the Artillery and
 Machines section of the rulebook for the Stone Thrower rules.
 
-5. Bone Thrower:: The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower] as
+[[bone-thrower,†5]]5. Bone Thrower:: The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower] as
 described in the Rulebook.
 
-6. Tomb King:: The Tomb King is empowered by the spells cast
+[[tomb-king,†6]]6. Tomb King:: The Tomb King is empowered by the spells cast
 upon him when buried. He can use this power to increase the
 Combat Attacks value of all the stands in one unit within 20cm
 by +1 for the duration of one Combat phase. This ability can
 only be used once per battle.
 
-7. Zombie Dragon:: A Tomb King or Liche Priest may ride a
+[[zombie-dragon,†7]]7. Zombie Dragon:: A Tomb King or Liche Priest may ride a
 Zombie Dragon.
 include::partial$dragon.adoc[]
 
-8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
+[[liche-chariot,†8]]8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
 A character riding a chariot adds +1 to his Attacks.
 
 image::tomb-kings/tomb-king.webp[]

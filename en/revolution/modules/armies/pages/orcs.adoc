@@ -74,17 +74,17 @@ image::orcs/orcs.webp[]
 
 == Orcs army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$orcs.tsv[]
 |===
 
 == Special rules
 
-{empty}1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
+[[goblins,†1]]1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
 but its range is reduced to 15cm.
 
-2. Trolls:: When trying to issue an order to a unit of Trolls or to
+[[trolls,†2]]2. Trolls:: When trying to issue an order to a unit of Trolls or to
 a brigade that contains a unit of Trolls, any Command penalty
 applied for distance between the character and the Troll unit
 is always doubled. So at 20cm no penalty applies, at 40cm −2,
@@ -95,30 +95,30 @@ over after removing whole stands then regeneration has no
 effect. Regenerated hits still count towards the combat result
 for the round.
 
-3. Ogres:: If an Ogre unit can use its initiative to charge an enemy
+[[ogres,†3]]3. Ogres:: If an Ogre unit can use its initiative to charge an enemy
 unit of humans at the start of the Command phase then it must
 do so. This happens automatically and their commander can
 do nothing about it. ‘Humans’ encompasses all ‘men’ including
 Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
 
-4. Wolf Riders:: The Wolf Rider’s range is restricted to 15cm.
+[[wolf-riders,†4]]4. Wolf Riders:: The Wolf Rider’s range is restricted to 15cm.
 Wolf Riders have 360° vision – stands in this unit can draw line
 of sight from all edges for the purpose of evading and shooting,
 including shooting at charging enemies. Note that this unit still
 needs Line of Sight from its front edge to charge an enemy.
 
-5. Giants::
+[[giant,†5]]5. Giant::
 include::partial$giant.adoc[]
 
-6. Rock Lobber:: Rock Lobber is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower] as described
+[[rock-lobber,†6]]6. Rock Lobber:: Rock Lobber is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower] as described
 in the Rulebook.
 
-7. Wyverns:: Generals, Wizards and Heroes can ride Wyverns.
+[[wyverns,†7]]7. Wyverns:: Generals, Wizards and Heroes can ride Wyverns.
 A Wyvern can fly, increasing its rider’s move from 60 to 100cm,
 and it adds +2 Attacks to those of its rider. A unit that includes
 a Wyvern rider causes terror in its enemies.
 
-8. Chariots:: A General, Wizard or Hero can ride a Chariot. A
+[[chariots,†8]]8. Chariots:: A General, Wizard or Hero can ride a Chariot. A
 character in a chariot adds +1 to his Attacks.
 
 image::orcs/hero.webp[]

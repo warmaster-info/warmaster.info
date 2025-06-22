@@ -56,7 +56,7 @@ image::daemons/daemons.webp[]
 
 == Daemon army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$daemons.tsv[]
 |===
@@ -105,16 +105,16 @@ in this manner then the stand cannot be added.
 
 === Special rules
 
-{empty}1. Daemon Swarms:: These cannot be driven back by shooting
+[[daemon-swarms,†1]]1. Daemon Swarms:: These cannot be driven back by shooting
 and do not roll for drive backs. A Daemon Swarm cannot be
 given a magic item.
 
-2. Daemon Flyers:: These can fly. Daemon flyers are an exception
+[[daemon-flyers,†2]]2. Daemon Flyers:: These can fly. Daemon flyers are an exception
 to the normal conventions for basing monsters in that they face
 the long edge of the stand in the same way as infantry rather
 than the short edge as most other monsters.
 
-3. Greater Daemons:: Greater Daemons can fly regardless of
+[[greater-daemons,†3]]3. Greater Daemons:: Greater Daemons can fly regardless of
 whether the actual model has wings – aerial propulsion is
 deemed feasible by sheer effort of will.
 +
@@ -125,7 +125,7 @@ to have been badly hurt. Once a Greater Daemon is badly hurt
 accumulated hits are discounted and its Hits and Attacks values
 are halved for the rest of the battle (to 3 Hits and 4 Attacks).
 
-4. Daemon Overlord:: The Daemon Overlord is the army’s
+[[daemon-overlord,†4]]4. Daemon Overlord:: The Daemon Overlord is the army’s
 General and has the option of having the powers of a Wizard
 for additional 25 points. If given magical powers the Daemon
 Overlord can be given a magic item restricted to either a General
@@ -133,13 +133,13 @@ or a Wizard. Note that the Daemon Overlord is still a General
 and his command range extends over the whole battlefield as
 for other Generals.
 
-5. Daemonic Wings:: Some of the creatures of the deep vaults
+[[daemonic-wings,†5]]5. Daemonic Wings:: Some of the creatures of the deep vaults
 of hell may have wings, some of them fly on hovering discs and
 some even have the ability of disappearing and reappearing
 wherever they want on the battlefield. Daemon characters may
 be given the ability of flying.
 
-6. Favour of the Gods:: Demon Overlord, Lords or Sorcerers can
+[[favour-of-the-gods,†6]]6. Favour of the Gods:: Demon Overlord, Lords or Sorcerers can
 be given the Favour of the Gods. The character gains then +1
 extra Attack and causes terror in its enemies as described in the
 Warmaster rulebook.

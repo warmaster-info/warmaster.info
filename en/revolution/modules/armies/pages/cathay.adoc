@@ -71,7 +71,7 @@ image::cathay/cathay.webp[]
 
 == Cathay army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$cathay.tsv[]
 |===
@@ -93,26 +93,26 @@ chariots, cavalry, or Terracotta Warriors.
 3: its, remove handguns,
 ////
 
-{empty}1. Handguns:: Any or all of the army’s Crossbows units can be
+[[handguns,†1]]1. Handguns:: Any or all of the army’s Crossbows units can be
 replaced by Handguns while still counting for the Crossbow
 min/max value. Their projectiles can pierce armour far easier
 than a crossbow bolt. Therefore, units hit by Handguns get a −1
 penalty for their armour rolls.
 
-2. Terracotta Warriors:: These warriors are Undead, so cannot
+[[terracotta-warriors,†2]]2. Terracotta Warriors:: These warriors are Undead, so cannot
 act on initiative, are unaffected by terror or enemy within
 20cm, and cannot be confused. They can only brigade with
 themselves and give/receive support only to/from each other.
 They can only be ordered by Sorcerers, who gain +1 command
 when doing so.
 
-3. Hu Cavalry:: They have a shooting range of 15cm and 360°
+[[hu-cavalry,†3]]3. Hu Cavalry:: They have a shooting range of 15cm and 360°
 vision – stands in this unit can draw line of sight from all edges
 for the purpose of evading and shooting, including shooting at
 charging enemies. Note that this unit still needs Line of Sight
 from its front edge to charge an enemy.
 
-4. Rocket Launcher:: The Rocket Launcher is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
+[[rocket-launcher,†4]]4. Rocket Launcher:: The Rocket Launcher is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
 Thrower] as described in the Rulebook, except it shoots
 1D6 times per phase and any hits inflicted have an armour
 save with a −1 modifier. If the roll for
@@ -147,6 +147,21 @@ h|6
 |*Big badaboom!* The rocket does 2D6 attacks
 instead of the normal 1D6.
 |===
+
+[[triple-bows,†5]]5. Triple Bows:: Triple Bows are xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Throwers] as described in
+the main rulebook.
+
+[[celestial-dragon,†6]]6. Celestial Dragon:: One Sorcerer per army can be upgraded
+to become a dragon which flies, gives orders, casts spells, and
+causes terror. The dragon cannot give orders to Terracotta
+Warriors.
+
+[[tiger,†7]]7. Tiger:: Tigers cannot be ridden by Sorcerers.
+
+[[qilin,†8]]8. Qilin:: Only a Sorcerer can ride a Qilin. Once per battle the
+Qilin’s magical power adds +1 to the dice roll when casting a
+spell. The player must announce that they are using the Qilin’s
+magic before rolling to see if the spell works.
 
 image::cathay/maneaters.webp[]
 

@@ -77,7 +77,7 @@ image::lizardmen/lizardmen.webp[]
 
 == Lizardmen army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$lizardmen.tsv[]
 |===
@@ -95,19 +95,19 @@ noises inaudible to other races.
 
 === Special rules
 
-{empty}1. Skinks:: Skinks have a shooting range of 15cm and 360° vision –
+[[skinks,†1]]1. Skinks:: Skinks have a shooting range of 15cm and 360° vision –
 stands in this unit can draw line of sight from all edges for
 the purpose of evading and shooting, including shooting at
 charging enemies. Note that this unit still needs Line of Sight
 from its front edge to charge an enemy.
 
-2. Reptilian:: Reptilian troops can only be issued an order by a
+[[reptilian,†2]]2. Reptilian:: Reptilian troops can only be issued an order by a
 character within 20cm. If reptilian units form part of a brigade
 an order can be issued so long as all reptilian units are within
 20cm of the character issuing the order. This rule represents the
 creatures being cold-blooded brutes and slow to react.
 
-3. Salamander:: Salamander stands are not deployed as
+[[salamander,†3]]3. Salamander:: Salamander stands are not deployed as
 independent units. Instead, any Skink infantry unit may add
 one stand of Salamanders. This brings the size of the unit to 4
 stands – 3 regular stands plus the Salamander.
@@ -131,13 +131,13 @@ and 360° vision in the same way as Skinks. If their unit is
 charged then Salamanders can shoot in the same way as any
 other shooting stand.
 
-4. Terradon:: Terradons can fly. Terradon riders have a shooting
+[[terradon,†4]]4. Terradon:: Terradons can fly. Terradon riders have a shooting
 range of 15cm and 360° vision – stands in this unit can draw line
 of sight from all edges for the purpose of evading and shooting,
 including shooting at charging enemies. Note that this unit still
 needs Line of Sight from its front edge to charge an enemy.
 
-5. Stegadon:: As the Stegadon is so gargantuan, it uses a 40 x
+[[stegadon,†5]]5. Stegadon:: As the Stegadon is so gargantuan, it uses a 40 x
 60mm base, with the short edge being the front.
 +
 The Stegadon causes terror in its foes.
@@ -162,7 +162,7 @@ badly hurt all accumulated hits are discounted and its Hits and
 Attack values are halved for the remainder of the battle to 5/2
 Attacks and 5 Hits.
 
-6. Slann Mage:: The Slann Mage rides a palanquin carried by
+[[slann-mage,†6]]6. Slann Mage:: The Slann Mage rides a palanquin carried by
 his bodyguard of fierce Saurus warriors – his combat bonus is
 due to his bodyguard. The Slann Mage is the army’s general but
 uniquely amongst commanders he cannot give orders, but has
@@ -188,12 +188,12 @@ if desired – work out range and line of sight as if the spell was
 cast by the Shaman. This does not affect the Shaman’s own
 ability to cast spells that turn.
 
-7. Stegadon Mount:: The Slann Mage may ride on top of a
+[[stegadon-mount,†7]]7. Stegadon Mount:: The Slann Mage may ride on top of a
 Stegadon, adding +3 attacks to its rider. If he rides a Stegadon
 then any unit he joins will cause terror and the usual Combat
 modifier will apply. No other character can ride a Stegadon.
 
-8. Carnosaur:: A Saurus Hero can ride a Carnosaur. If a
+[[carnosaur,†8]]8. Carnosaur:: A Saurus Hero can ride a Carnosaur. If a
 character rides a Carnosaur then any unit he joins will cause
 terror. No other character can ride a Carnosaur.
 

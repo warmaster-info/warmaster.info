@@ -70,7 +70,7 @@ image::goblins/goblins.webp[]
 
 == Goblin army selector
 
-[%header,format=tsv,role=unit,cols="2*<,8*^",frame=none,grid=rows]
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
 |===
 include::partial$goblins.tsv[]
 |===
@@ -86,13 +86,13 @@ include::partial$goblins.tsv[]
 
 ////
 
-{empty}1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
+[[goblins,†1]]1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
 but its range is reduced to 15cm. Up to two units per full 1000
 points can be replaced by Squig Herds while still counting for
 the Goblin min/max value. Note that these units still count for
 min/max value of Squig Herds.
 
-2. Trolls:: When trying to issue an order to a unit of Trolls or to
+[[trolls,†2]]2. Trolls:: When trying to issue an order to a unit of Trolls or to
 a brigade that contains a unit of Trolls, any Command penalty
 applied for distance between the character and the Troll unit
 is always doubled. So at 20cm no penalty applies, at 40cm −2,
@@ -105,13 +105,13 @@ over after removing whole stands then regeneration has no
 effect. Regenerated hits still count towards the combat result
 for the round.
 
-3. Wolf Riders:: The Wolf Riders have a shooting range of 15cm
+[[wolf-riders,†3]]3. Wolf Riders:: The Wolf Riders have a shooting range of 15cm
 and 360° vision – stands in this unit can draw line of sight from
 all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
-4. Pump Wagon:: The Pump Wagon doesn’t move in Command
+[[pump-wagon,†4]]4. Pump Wagon:: The Pump Wagon doesn’t move in Command
 phase by initiative or by successful orders. Instead of this it can
 always move once up to 1D6 x 10cm. This move is automatic,
 requiring no Command roll, and happens at any time during
@@ -135,20 +135,20 @@ not gain Victory points for a destroyed Pump Wagon and a
 Pump Wagon does not count towards the Goblin army’s break
 value in any way.
 
-5. Giant::
+[[giant,†5]]5. Giant::
 include::partial$giant.adoc[]
 
-6. Doom Diver:: The Doom Diver has a range of 60cm and a unit
+[[doom-diver,†6]]6. Doom Diver:: The Doom Diver has a range of 60cm and a unit
 hit by a Doom Diver is allowed to make its normal armour save.
 Doom Divers shoot at such a high trajectory that they cannot
 shoot at charging enemies.
 
-7. Spear Chukka:: The Spear Chukka is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower].
+[[spear-chukka,†7]]7. Spear Chukka:: The Spear Chukka is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower].
 
-8. Wolf Chariot:: A General, Hero or Wizard can ride a Wolf
+[[wolf-chariot,†8]]8. Wolf Chariot:: A General, Hero or Wizard can ride a Wolf
 Chariot. The character riding a chariot adds +1 to his Attacks.
 
-9. Wyvern:: Characters may ride Wyverns. A Wyvern can fly
+[[wyvern,†9]]9. Wyvern:: Characters may ride Wyverns. A Wyvern can fly
 increasing its rider’s movement from 60cm to 100cm, and it
 adds +2 Attacks to those of its rider. A unit that includes a
 Wyvern rider causes terror in its enemies.
