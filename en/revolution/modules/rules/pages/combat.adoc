@@ -158,7 +158,7 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 → Moved to xref:movement.adoc#contact-with-other-enemy[Contact with other enemy].
 
 [discrete]
-=== Exceptions & Anomalies
+=== Exceptions & anomalies
 
 [.moved]
 → Moved to xref:movement.adoc#exceptions-anomalies[Exceptions & anomalies].
@@ -349,7 +349,7 @@ Units can become confused as a result of missile fire
 or by moving into other friendly units or impassable
 terrain. See the section on xref:confusion.adoc[Confusion].
 
-==== The Last Ditch Dice
+==== The last ditch dice
 
 Attack modifiers can potentially reduce a stand’s Attack
 to zero. If this happens, then a unit always rolls one
@@ -1000,7 +1000,7 @@ been entirely destroyed. In such a case the victorious
 units can advance. Pursuit is not possible because there
 are no retreating enemies to pursue against. See <<advance>>.
 
-=== Pursuit and Combat Dropouts
+=== Pursuit and combat dropouts
 
 It can happen that several units retreat on one side but
 pursuers move in such a way that one or more retreating
@@ -1015,7 +1015,7 @@ by pursuers during subsequent rounds of combat, in
 which case they are treated as new incidental contacts.
 See <<incidental-contact>>.
 
-=== Pursuit in Terrain
+=== Pursuit in terrain
 
 Visibility within woods [.edit]#and villages# is restricted to 2cm for
 most purposes (see xref:movement.adoc#terrain[Terrain]), but in the case of combatants we make
