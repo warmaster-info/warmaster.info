@@ -859,6 +859,16 @@ image::movement/griffon.webp[]
 
 == Terrain
 
+[.edit]
+[NOTE]
+====
+The _Advanced Terrain_ rules in the rulebook extend the basic _Terrain_
+rules, they do not replace them. The two sections have been combined
+here.
+
+See the 2025 xref:questions-and-answers.adoc[].
+====
+
 [.bo5a]
 By terrain we mean woods, hills, rivers and other features that
 might conceivably be found on the battlefields.
@@ -989,8 +999,9 @@ Broken or marshy ground:: This includes areas that are
 hard going for whatever reason; for example treacherous
 ruins, entangling scrub, irrigated or excessively muddy
 fields or soft marshy ground. This is *<<dense-terrain,dense terrain>>* but
-doesn’t block line of sight. Infantry stands are
-xref:combat.adoc#defended[*defended*] in broken or marshy ground.
+doesn’t block line of sight. [.qa]#Only infantry stands
+may enter# broken or marshy ground, and they are
+xref:combat.adoc#defended[*defended*] within it.
 
 // Comment: Sand dunes are *very* difficult to climb or cross,
 // and don't really belong here.
