@@ -15,30 +15,32 @@ have to pay points for each part of fortification and
 Siege equipment and of course for their units, so that in
 the end it will be possible to play balanced Siege games
 with equal chances for all sides. Within those rules it
-should also be possible to play scenarios with only small
+should also be possible to play scenarios with small
 fortifications (like a watchtower, a traveller’s inn or a
 cemetery) without giving the defender too much of
-an advantage. It is a fact that big Sieges usually lasted
-weeks or even years. But knowing that many players
-prefer single session, pickup games, we tried to include
-actions like bombardments etc. into one playing session.
-That does not mean that Siege Campaigns should not be
-supported by these rules. But we intended to make it
-possible to play easy, uncomplicated pick up Siege games
-(especially as we think Warmaster is the perfect scale for
-them). Special scenarios or campaigns might still follow.
+an advantage.
+
+Big Sieges usually lasted
+weeks or even years, [.edit]#but these rules allow for
+actions like bombardments to take place within a single
+playing session.  Warmaster is the perfect scale for
+uncomplicated Siege games.#
+
+That does not mean that [.edit]#longer# Siege Campaigns cannot be
+supported by these rules. Special scenarios or campaigns might still follow.
 
 == Model fortresses
 
-Walls, castles and towers can be made from card, plastic,
+Walls, castles and towers can be handmade from card, plastic,
 balsa or similar materials. The small scale of Warmaster
 models means that it is relatively easy to produce a
 fortress using readily obtainable items. For example,
-plaster of paris and plasticine can be used to create
+plaster of Paris and plasticine can be used to create
 wall sections, towers and even gateways. However, the
 easiest material to use is thick card, such as the mounting
 card commonly sold for picture framing.
 
+// added when
 When making walls or towers for a castle or fortress
 where troop stands will be deployed it is necessary to
 make sure that the walkways are sufficiently wide
@@ -47,7 +49,7 @@ a good idea to make sure that such things as bridges,
 gateways and roads between buildings are at least 20mm
 wide so that stands can move along them. The following
 Siege rules very much depend on dividing the fortress in
-sections between 40 to 50mm, so building a castle you
+sections between 40 to 50mm, so when building a castle you
 should consider either making sections of this width or
 at least think of a way of marking those sections.
 
@@ -58,29 +60,31 @@ armies is ignored. The game will only end when either
 one of the generals dies or when the turn limit for the
 scenario expires. Occasionally a scenario will state
 otherwise, in this instance the specific scenario rules
-take precedence over this.
+take precedence.
 
-When deciding to play a siege game always let the
-defender pay the points for his units, fortifications and
-siege equipment first then the attacker may spend the
-same amount of points on his troops and/or equipment
+When deciding to play a siege game the defender [.edit]#selects#
+their units, fortifications and
+siege equipment first. The attacker may then spend the
+same amount of points on their troops and equipment
 according to the scenario description.
 
-Additionally, the defending army always rounds up its
-max level to the next highest level of min/max if it is not
-a round figure. For example, a 1500 points army would
-use the min levels for a 1000 points army, but the max
-levels of a 2000 points army. This represents the higher
+// Edit you tend to find → tend to be found
+Additionally, [.edit]#the defender’s maximum unit limits are determined
+by rounding up to the nearest 1000 points#.
+For example, a 1500 points army would
+use the minimum limit for a 1000 point army, but the maximum
+limit of a 2000 point army. This represents the higher
 number of well trained troops, artillery and equipment
-that you tend to find in most fortifications. This will
-again always be the case in any siege scenario, unless the
-specific scenario rules state otherwise.
+that tend to be found in most fortifications.
 
-When rules refer to a wall, it is referring to a wall section
-being between 40 and 50mm wide. When it refers to a
-tower, it generally includes the entirety of the tower as
-defined in the Warmaster rulebook as well as the rules
-that follow.
+// TODO Where are towers defined in the rulebook?
+When the rules refer to a wall, this means a wall section
+between 40 and 50mm wide. When they refer to a
+tower, this includes the entirety of the tower.
+// Removed as I can't find it in any other section of the rulebook:
+//as
+//defined in the Warmaster rulebook as well as the rules
+//that follow.
 
 == Movement
 
@@ -89,72 +93,72 @@ considered to block the movement of all but flying units.
 Troops are therefore obliged to use gateways, doors or
 gaps when moving into or out of fortresses.
 
-Only infantry and artillery can man the ramparts of
+Only [.edit]#standard# infantry and artillery can man the ramparts of
 a fortress. Cavalry, chariots, monsters, machines and
 infantry based in the same way as cavalry cannot move
 onto ramparts.
 
-Infantry and artillery stands can move up, onto, or off
+Infantry and artillery stands can move up, onto, or [.edit]#down from#
 the defender’s side of ramparts as normal. It is assumed
 there are sufficient internal stairs or ladders to enable
 them to do so regardless of what the fortress model
 may look like. Vertical distance is ignored as far as unit
 formation is concerned.
 
-Wall sections or towers work like extensions of bases
-standing upon it. If more than half of a base is on a wall
+// base → stand
+Wall sections or towers work like extensions of
+stands upon them. If more than half of a stand is on a wall
 section its control area extends to the ends of this section
-as long as the area is not yet occupied. When it comes
-to shooting distances, those may be measured from the
-edge of the occupied section. This also means that enemy
-troops may attack or evade from occupied wall sections
-by initiative.
+as long as the area is not yet occupied.
+Shooting ranges may be measured from the
+edge of the occupied section. [.edit]#It follows that# enemy
+troops may use initiative to charge or evade from occupied wall sections.
 
-Up to four units being placed on wall-sections and/or
-towers directly next to each other may be moved as a
-brigade (even if the units themselves do not touch each
-other). That also includes units in the courtyard that
-touch the appropriate sections. The reason for this is that
-room inside a fortress can be quite packed, so with this
-rule it still should be possible to rearrange troops. This
-means i.e. that a unit inside a tower may change place
+Up to four units placed on adjacent wall sections or
+towers may be moved as a
+brigade, even if the units themselves do not touch each
+other. This includes units in the courtyard that
+touch the appropriate sections. This rule allows troops
+to be rearranged even in a crowded fortress – for example,
+a unit inside a tower may change places
 with a unit standing on the neighbouring rampart with
-only one command (even
-if they are not touching each other – it is sufficient that
-the building sections touch). Keep in mind that units in
-fortified sections only have half movement.
+only one command, even if the units aren't touching each other.
+Keep in mind that units in
+fortified sections are limited to half-pace movement.
 
-// Moved to end of paragraph
-image::siege-and-fortresses/moon.webp[]
-
-Infantry stands that are from an attacking force can
+Infantry stands from an attacking force can
 move over a wall and onto unoccupied ramparts as long
 as they are equipped with ladders or similar to scale
 the walls. Infantry can also use a siege tower to move
 directly onto a rampart. From there they may be ordered
-to move on.
+to move further.
 
 In most cases attackers will be forced to fight defending
 troops before they are able to move onto the ramparts.
-This is explained further under Assaults.
+This is explained further under <<assaults>>.
+
+// Moved to end of paragraph
+image::siege-and-fortresses/moon.webp[]
 
 == Shooting
 
-Fortress walls, towers and gateways are pretty solid.
-Arrows and light shot will bounce harmlessly off.
-They can only be damaged by shots from cannons and
-stone throwing engines such as Rock Lobbers. The
-Empire Steam Tank, the Helblaster Cannon or Dwarf
-Gyrocopters which fire a hail of small calibre cannon
-balls are unsuitable for breaching walls. Undead Skull
-Chukkas are assumed to be able to throw stones in the
-same way as an Orc Rock Lobber.
+Fortress walls, towers and gateways are sturdy constructions,
+[.edit]#impervious to arrows and light shot#.
+They can only be damaged by shots from xref:artillery-and-machines.adoc#cannons[cannons] and
+xref:artillery-and-machines.adoc#stone-throwers[stone throwers]. The Empire’s
+xref:armies:empire.adoc#steam-tank[Steam Tank] and xref:armies:empire.adoc#helblaster[Helblaster] or Dwarf xref:armies:dwarfs.adoc#gyrocopter[Gyrocopters]
+fire a hail of small calibre cannon
+balls unsuitable for breaching walls.
+// Hardly necessary
+//Tomb King xref:armies:tomb-kings.adoc#skull-chukkas[Skull Chukkas]
+//Chukkas are assumed to be able to throw stones in the
+//same way as an Orc Rock Lobber.
 
-To breach a wall or gateway or collapse a tower you must
+To breach a wall or gateway or to collapse a tower you must
 shoot at it with a unit of suitable artillery or machines.
 Each 40 to 50mm long section of wall counts as a separate
 target. A tower is considered a single target unless it is
-very large (more than 50mm base area), in which case it
+very large (more than 50mm wide), in which case it
 must be divided into a suitable number of sections in the
 same way as a castle wall.
 
@@ -164,7 +168,7 @@ with missile fire, as the besiegers will generally pick a
 vulnerable point beforehand and concentrate their fire
 at that. If a player wishes to shoot at fortifications he can
 ignore the normal targeting rules and may shoot where
-he wants to within the normal limitations of range and
+he wants within the normal limitations of range and
 sight.
 
 If you wish to shoot at troops on ramparts of walls or
@@ -176,60 +180,71 @@ harm to the troops and not to the fortification.
 As fortresses are difficult to damage, a wall, gateway or
 tower counts as fortified (6 to hit) but has no armour.
 
-Units on ramparts and towers can shoot overhead
-friendly troops on the ground.
+Units on ramparts and towers can shoot over
+friendly troops on lower ramparts or the ground.
+
+image::siege-and-fortresses/crossbowmen.webp[]
 
 == Structure tests
 
 To resolve the effect of hits on a wall, gate or tower
-first roll to hit as normal. At the end of the shooting
-phase take a D6 for every hit the building took this
-round, add all destruction dice from earlier rounds and
-make a Structure Test. If the result is higher than the
-Structure Resistance of the building it is destroyed (a bit
-similar to a drive back roll – without the movement of
-course). If the building was not destroyed the attacker
-may add another Destruction Dice. So for every round
-of successful shooting a maximum of one destruction
-dice may be added. Those destruction dice stay until the
-fortification is destroyed or the game ends. If there are
-destruction dice on a building it has to make a structure
-test at the end of every opponent shooting phase even if
+first roll to hit as normal. At the end of the Shooting
+phase make a Structure Test by rolling a dice for each hit inflicted on the building this
+round, plus one for each Destruction [.edit]#Token# from earlier rounds.
+
+If the result is higher than the
+Structure Resistance of the building it is destroyed.
+(This is similar to a Drive Rack roll, but without the movement of
+course.)
+
+Otherwise, add a Destruction Token to the building.
+A maximum of one Destruction Token may be added for each
+round of successful shooting.
+
+If there are
+Destruction Tokens on a building it must make a Structure
+Test at the end of the attacker’s Shooting phase, even if
 it took no hits in the current round.
 
-_**Example:** Brognak, the orcish leader lets his two Rock
-lobbers shoot at the gateway of the city of Hundstadt
+.Structure tests
+====
+Brognak, the orcish leader lets his two Rock
+Lobbers shoot at the gateway of the city of Hundstadt
 he is besieging. The results are 1–3–4–6–6–6. As any piece
 of fortification counts as fortified, Brognak has hit three
 times. The gate has 12 structure points, so the Orc player
 makes a structure test with three dice and needs to roll
 a 13: 2–3–6! 11 is not enough for destroying the gate, so
-it is marked with one destruction dice for a round of
-successful shooting. Next round Brognak only rolls one
-6, so even with the one destruction dice from the last
-round 2 D6 will not be enough to break the gate. After
+it is marked with one Destruction Token for a round of
+successful shooting.
+
+Next round Brognak only rolls one
+6; even with the Destruction Token from the last
+round 2D6 is insufficient to break the gate.
+
+After
 5 rounds of shooting the gate still stands but there are 4
-destruction dice on it. This round no 6 at all is rolled and
-Brognak already thinks of biting the gate open with his
-own teeth. No destruction dice is added for this round but
-still there are 4 destruction dice on the gate so a structure
-test has to be done before (this representing the serious
-structural damage the gate has already taken). 3–3–4–5: 15!
-The gate cracks at last and the orcish troops rush to the
-gap to take the city._
+Destruction Tokens on it. This round all the shots miss and
+Brognak is thinking of biting the gate open with his
+own teeth. No Destruction Tokens are added, but
+with 4 Tokens already on the gate a structure
+test must be done. 3–3–4–5: 15!
+The gate cracks at last and the orcish troops rush towards the
+gap to take the city.
+====
 
 Once a wall is breached the entire 40 to 50mm long
 section is destroyed and collapses. Any stand on the
 rampart is destroyed. Where practical, the wall section
 can be removed and replaced by rubble or, if you wish,
-by a specially made section of a breached wall.
+by a specially made section of breached wall.
 
 Once a gateway is breached, the gate is assumed to have
 been blown apart. A stand on a rampart above the gate is
 not affected as it is the gate that is the target rather than
 the surrounding stone.
 
-As with walls, any stand on the rampart and inside a
+As with walls, any stand on the rampart or inside a
 tower is destroyed when it collapses. Where practical,
 the tower should be replaced with model rubble to show
 that it has collapsed.
@@ -237,84 +252,87 @@ that it has collapsed.
 == Battering
 
 Walls, towers and gates can also be breached by means
-of Battering Rams or similar. First the battering unit
+of <<battering-rams>> or similar. First the battering unit
 ‘charges’ the targeted part of the fortification by
-initiative or order. The defending units on the ‘battered‘
-and the directly adjacent sections may use their missiles
-or boiling oil according the normal assault rules, which
+initiative or order. The defending units on the ‘battered’
+section and the directly adjacent sections may use missiles
+or <<boling-oil-or-rock-droppers,boiling oil>> according the normal <<assaults,assault rules>>, which
 means that if the battering unit loses one stand the assault
 is failed and the assaulting unit has to retreat 1cm for
-each hit they have taken. If not the battering unit may
+each hit they have taken. [.edit]#Otherwise,# the battering unit may
 ignore the defending troops to batter the structure. Each
 ram automatically inflicts one hit in the shooting phase.
-At the end of the shooting phase a structure test is made
-for the particular piece of fortification (see Structure
-Tests). Of course the particular wall may not be shot at
+At the end of the shooting phase a <<structure-tests,Structure Test>> is made
+for the particular piece of fortification.
+Of course the particular wall may not be shot at
 when assaulted by a battering unit (as the battering unit
 is in the way) but adjacent wall sections may be shot at.
 
-If the wall or gate fails the test it collapses. So in the
+If the wall or gate fails the test it collapses. In the
 following combat phase the battering unit may proceed
-as if it had destroyed their first unit in combat and may
-fall back or advance. In case of an advance the battering
-unit may ignore fortified troops in this particular case as
-it storms into the courtyard. Touching units on ramparts
+as if it had destroyed its first unit in combat and may
+fall back or advance. In the case of an advance the battering
+unit may ignore fortified troops as
+they storm into the courtyard. Touching units on ramparts
 are not taken in account during the following combat as
 this fight happens on different height levels.
 
-In the case of destroyed gateways, the defending units
-above may not use their boiling or similar attacks against
+In the case of destroyed gateways, units defending from
+above may not use boiling oil or similar attacks against
 the battering unit anymore as they already have, but they
-may use them against following units that try to enter
-the gateway.
+may use them against any following units that try to enter
+[.edit]#through# the gateway.
 
 If the structure is not destroyed by the battering attack
-add another destruction dice and fall back 10 cm with
+add another Destruction Token and fall back 10cm with
 the battering unit.
 
 Giants can also batter a wall with their clubs but no
 other monster is sufficiently large to do so.
 
-_**Example:** One tower seems to be especially resistant.
-Although the orcish rock lobbers fired load after load
+.Battering
+====
+One tower seems to be especially resistant.
+Although the orcish rock lobbers [.edit]#hurled# load after load
 at the solid stone building it still did not show any sign
 of weakness. So Brognak orders his strongest giant to
 batter the walls of the tower and to his surprise the giant
 follows the order. Of course the tower may not be shot
 at anymore as the giant is “in the way” but there are 8
-destruction dice on it so at the end of the shooting phase
-a structure test has to be made. Results are 6–6–5–5–4–3–2–1
+Destruction Tokens on it so at the end of the shooting phase
+a structure test has to be made. The results is 6–6–5–5–4–3–2–1
 which is more than the 30 structure points the tower has.
 The tower collapses before the surprised giant and he is
-allowed to advance into the next enemy he can see._
+allowed to advance into the next enemy he can see.
+====
 
 image::siege-and-fortresses/siege-tower.webp[]
 
 == Breaches
 
 When a breach is caused, either by the destruction of a
-wall section, or that of a tower, you should remove the
-relevant part of the fortification that has been destroyed
+wall section or a tower, remove the
+[.edit]#destroyed part# of the fortification
 (if possible) and replace it with a suitable marker or
 model.
 
 In certain cases you will find that a breach caused in a
 wall or tower will destroy stands from a unit, possibly
 even destroying a stand in the middle of the unit, which
-would normally not be possible due to the Removing
-Casualties rules.
+would normally not be possible due to the xref:shooting.adoc#removing-casualties[Removing Casualties]
+rules.
 
+// TODO This is really unclear!
 In that case count the number of wounds the lost stand
-had and proceed as if the unit would have taken that
-many wounds by shooting. So a unit with three hits
-discounts two because of being fortified but the attacker
-may roll the last dice to determine driveback and the
+had and proceed as if the unit [.edit]#had# taken that
+many wounds by shooting. For example, a unit with three hits
+discounts two due to being fortified but the attacker
+may roll the last dice to determine drive-back, and the
 defender may still choose which stand he removes
 according to normal rules (even if that means that an
 intact wall section is left unguarded and a stand is put
 into the breach). The unit is driven back directly away
-from the wall no matter from where the shooting has
-been coming from.
+from the wall no matter where the shooting came from.
 
 Units attacking units in a breach are not drawn into
 combat with any units on adjacent standing wall sections.
@@ -326,97 +344,129 @@ attacking breaches or wall sections in this way only have
 to spread out and maximise contact with adjacent troops
 that are on the same level as the attacked unit.
 
-_**Example:** The last wall section of three has been breached
+.Breaches
+====
+The last wall section of three has been breached
 by Brognak’s rock lobbers. The orc warriors charge the
 stand of halberdiers that is defending the breach. On the
-still intact walls a unit of crossbowmen tries to lure the
-orcs to fight with them too, but the orcs don’t have to
-spread out as the crossbowmen are on another level. If
-the halberdiers would have been placed on the still intact
-walls too the orcs would have been obliged to spread out
-to them._
+still-intact walls a unit of crossbowmen tries to lure the
+orcs [.edit]#into combat#, but the orcs [.edit]#can ignore them#
+as [.edit]#they# are on another level.
 
-_You can, if you wish, attack or assault all of the wall
-sections in question if the charging stands have enough
-movement._
+// TODO This makes so little sense I'm commenting it out.
+//[.edit]#Had#
+//the halberdiers been placed on the still-intact
+//walls too the orcs would have been obliged to spread out
+//to them.
+//
+//You can, if you wish, attack or assault all of the wall
+//sections in question if the charging stands have enough
+//movement.
+====
 
-=== Gateways and Breaches
+// Moved here from next section
+A breach in a wall or collapsed tower can be moved
+through by infantry, cavalry or monsters. Any unit
+[.edit]#wishing# to cross the breach must stop [.edit]#before it#; either to fight
+any defending units or to wait for another order to move
+through – the area is too difficult to march [.edit]#straight#
+through. Machines, artillery and chariots
+cannot move over the debris at all. The wreckage caused
+by a collapsed wall or tower counts as cover to defenders
+in the same way as a low wall or barricade. A breach can
+therefore be defended by troops on the other side once
+the wall or tower itself has been knocked down.
+
+// Removed "and breaches" as it's mostly not about them,
+// promote to level 2.
+[.h-edit]
+== Gateways
+
+// General: a door or gate is the piece of wood,
+// the doorway or gateway is the space into which it is fitted.
+// door → doorway etc.
 
 Walls can have entrances of two broadly different
-sizes: large gateways and smaller doors or gates, such
+sizes: large gateways and smaller doorways or gateways, such
 as postern gates and sally ports. The chances are that a
 model gateway won’t look wide enough for an infantry
 stand to move through – but we won’t worry about that.
-Just as in real life, troops will file through a door or gate
+Just as in real life, troops will file through a gateway
 so we must assume our warriors can do the same.
 
-Friendly units and characters can move through intact
+// First describe LINE OF SIGHT
+// Here gateway → gate :)
+// Peeping holes → peepholes
+Intact gates and doors are assumed to block [.edit]#line of#
+sight for the attackers. This means that an attacking unit
+will not be able to move through [.edit]#a gateway# and charge in the same
+move. This is because the unit cannot see its target at
+the start of its move. Defenders on the other hand are
+assumed to have peepholes in doors so a defending
+unit positioned directly behind a [.edit]#door or# gate can see through it
+as if it were not there.
+
+// Second describe MOVEMENT
+// Brought forward
+Characters and units move through gateways without
+any reduction to their movement. Giants are assumed to
+stoop if necessary!
+
+// horses → mounts
+Small doorways can be moved through by friendly infantry or
+cavalry and appropriate characters. Monsters, artillery,
+machines and chariots cannot move through smaller
+types of doorway or gateway. Cavalry riders are assumed to
+dismount in order to lead their mounts through.
+
+// Remove duplication:
+//Units moving through a small door or gate suffer no
+//reduction in their movement but
+A maximum of three
+troop stands [.edit]#(typically a single unit)# and any number of character stands can
+pass through
+[.edit]#each small doorway or gateway#
+in any Command phase. Enemy [.edit]#stands# cannot move through small doorways [.edit]#or gateways# at
+all.
+
+// intact → closed, removed intact.
+// counts as → remains
+// own → friendly
+Friendly units and characters can move through closed
 gateways without penalty. It is assumed that they have
-the wits to open it beforehand and close it behind them
-once they’ve gone through. Enemy cannot move through
-an intact closed gateway but must smash it down first. If
+the wits to open them beforehand and close them
+once they’ve gone through. Enemy [.edit]#stands# cannot move through
+a closed gateway but must smash it down first. If
 a defending unit for whatever reason ends its movement
-directly in or has to retreat through the gateway while
-still fighting the gate counts as open. If this unit is
+directly in or [.edit]#must# retreat through the gateway while
+still fighting the gate remains open. If this unit is
 destroyed in combat the victorious unit may advance
-through the gate into the next visible unit. Of course the
+through the gateway into the next visible unit. Of course the
 gate may also be closed to block the retreating path of
-own units if all stands of the unit are outside. It is not
+[.edit]#friendly# units if all stands of the unit are outside. It is not
 allowed to close the gate if there are parts of the unit
 standing in or behind the gateway.
 
-Once a gateway in a wall is destroyed remove the
-appropriate wall sector (for providing better playability).
-Any units being on that sector are not destroyed but
+// Then BREACHES
+// Removed  (for providing better playability).
+// being → positioned
+[.edit]#If# a gateway in a wall is destroyed remove the
+appropriate wall section.
+Any units positioned on that sector are not destroyed but
 placed directly behind the gate. It is assumed that they
 hurried down from the ramparts to defend the suddenly
 open entrance against any attackers.
 
+// Remove /shoots
 Gateways in towers are treated differently. The attacker
-has to choose if he attacks/shoots at the gateway or the
+has to choose if he attacks at the gateway or the
 tower. If the gateway is destroyed, attackers may move
 through it to attack troops behind. Units still manning
-the tower above may use their shooting/rock/boiling oil
+the tower above may use their shooting, rock or boiling oil
 attacks in the same way as if an adjacent wall section
-would have been attacked.
+[.edit]#is# attacked.
 
-Any units from either side can move through it without
-any reduction to their movement. Giants are assumed to
-stoop if necessary!
-
-Small doors can be moved through by friendly infantry or
-cavalry and appropriate characters.Monsters, artillery,
-machines and chariots cannot move through smaller
-types of doors and gates. Cavalry riders are assumed to
-dismount in order to lead their horses through.
-
-Units moving through a small door or gate suffer no
-reduction in their movement but a maximum of three
-troop stands and any number of character stands can
-go through in any Command phase (i.e., a single unit in
-most cases). Enemy cannot move through small doors at
-all.
-
-Intact gateways and small doors are assumed to block
-sight for the attackers. This means that an attacking unit
-will not be able to move through and charge in the same
-move. This is because the unit cannot see its target at
-the start of its move. Defenders on the other hand are
-assumed to have peeping holes in doors so a defending
-unit positioned directly behind a gate can see through it
-as if it were not there.
-
-A breach in a wall or collapsed tower can be moved
-through by infantry, cavalry or monsters. Still any unit
-trying to cross the breach has to stop there; either to fight
-any defending units or to wait for another order to move
-through (the area there is too difficult to just march
-through). Machines, artillery and chariots, however,
-cannot move over the debris at all. The wreckage caused
-by a collapsing wall or tower counts as cover to defenders
-in the same way as a low wall or barricade. A breach can
-therefore be defended by troops on the other side once
-the wall or tower itself has been knocked down.
+include::partial$divider-sword.adoc[]
 
 == Assaults
 
@@ -428,7 +478,7 @@ necessary to designate some high walls, gateways or
 towers as being ‘too high to assault’. This is left to the
 players’ discretion.
 
-Infantry can also attack a rampart from siege towers
+Infantry can also attack a rampart from <<siege-towers>>
 as discussed later. In both cases this is called an assault.
 Only infantry can assault. Except for the odd examples
 discussed later, cavalry, chariots, monsters, artillery and
@@ -442,36 +492,38 @@ units do not have to form a battle line as in case of normal
 charge. The two sides then fight a round of combat as if
 they were touching.
 
-include::partial$divider-sword.adoc[]
-
 As fortress models will never exactly match the size of a
 base it is necessary to adjust the normal rules concerning
 base to base contact in assaults. For our rules to work it
 is important that no rampart section is more than 5cm
 wide.
 
+// "cross" assumed to be "corner-to-corner"
 If a wall section is assaulted, the nearest units on
 adjacent wall sections may make stand and shoot attacks
 (even if the units on that section do not directly touch the
-attackers). And they count as being in cross contact with
+attackers). They [.edit]#also# count as being in [.edit]#corner-to-corner# contact with
 the attackers in the following combat.
 
+// Avoid word "support"
 Units in towers are a bit different. As towers are built to
-provide extra defences, all units in a tower may support
-assaulted adjacent wall sections with stand and shoot
-(even if they won’t be in combat afterwards due to the
-higher position they have). Still they may only do that
+provide extra defences, all units in a tower may
+[.edit]#stand and shoot at enemy#
+assaulting adjacent wall sections,
+even if they won’t be in combat afterwards due to their
+higher position. Still they may only do that
 for the adjacent wall section that was attacked first. If
 the tower itself is being assaulted afterwards, units in
 it may stand and shoot as normal again. Have a look at
 <<f-tower-support>>.
 
-.When unit 1 attacks B, the Cannons A on the tower, and units B and C, may Stand and Shoot. Cannons D may not Stand and Shoot as it is not the nearest unit on the wall section (and it will not be in combat contact of course). B and C will be in combat contact with 1. pass:[<br>] If unit 2 would have attacked first, Cannons A would have had their Stand and Shoot against them but not against unit 1 afterwards.
+// Wording tweaked.
+.When unit 1 attacks B, the Cannons A on the tower, and units B and C, may Stand and Shoot. Cannons D may not Stand and Shoot as they are not adjacent to the attacked wall section (and will not be in combat contact of course). Units B and C will be in combat contact with 1. pass:[<br>] Cannons A cannot Stand and Shoot unit 2 as that is the second attacking unit.
 image::siege-and-fortresses/tower-support.webp[id=f-tower-support]
 
 Towers may also use their special “Stand and Shoot”
 ability against attackers with Sows, Siege Towers or
-Battering Rams. But those attackers do profit from the
+Battering Rams. Those attackers [.edit]#benefit# from the
 better armour roll their siege equipment provides. If an
 assaulting unit loses a stand by shooting or boiling oil
 attacks, the assault has failed and the unit retreats 1cm
@@ -481,7 +533,7 @@ During an assault, no account is made for the effect
 of supporting stands for either side. In the dangerous,
 cramped and confused melee of an assault it is impossible
 for troops to support each other as they do on the open
-battlefield. Also as units fighting on ramparts can hardly
+battlefield. Also, as units fighting on ramparts can hardly
 maintain a coherent formation, there is no need for
 stands to direct their attacks primarily to the front.
 
@@ -522,26 +574,27 @@ the ramparts of walls against attacks from the inner side
 of the fortress do not count as being fortified. Because
 of the advantage of height they count as being defended.
 
-Sometimes it may occur, in the odd situation, that two
-opposing units end their movement side by side on
+// Remove 'it may occur, in the odd situation, that'
+Sometimes two
+opposing units end their movement side-by-side on
 adjacent ramparts with no line of sight to each other.
 It seems quite impossible in this special situation to
-ignore the enemy. So by way of exception it is allowed
-to charge an enemy unit that’s placed directly upon the
-neighbouring rampart section by initiative even if no line
+ignore the enemy. [.edit]#A unit is therefore# allowed
+to charge an enemy unit [.edit]#standing on a#
+neighbouring rampart section by initiative, even if no line
 of sight can be drawn. For the same reason it is allowed
 to evade out of initiative, though the evasive movement
-in this situation will be away from the outer wall not
+in this situation will be away from the outer wall [.edit]#rather than#
 away from the enemy.
 
 If a unit upon a rampart is charged from an adjacent
 tower or rampart section it is assumed that the attackers
 attack in the open and get a +1 attacking bonus as they
-are coming from the same level. Still only one stand may
-come into combat contact and there is no support taken
-in account on neither side. Units fighting this way may
-be placed flank to flank to each other due to lack of
-space but this should not result in any attack deductions.
+are coming from the same level. Only one stand may
+come into combat contact and [.edit]#neither side gains
+support from friendly stands.# Units fighting this way may
+be placed flank-to-flank due to lack of
+space but this [.edit]#does# not result in any attack [.edit]#penalties#.
 
 In this situation, a unit defending ramparts will be
 destroyed if it is defeated and obliged to retreat because
@@ -553,32 +606,31 @@ and carries on in the next combat phase. Defeated units
 that were counterattacking from a tower can retreat
 back to the tower assuming there is still room.
 
-_**Example:** Chaos Ogres managed to take three rampart
-sections. At the one end of the rampart there’s a tower
-manned by Bowmen. At the other end there are further
-rampart sections with a unit of Spearmen guarding
-them. In the next round the Bowmen in the tower may
-charge the Ogres out of initiative (units in towers have
-360 degrees sight). The Spearmen on the other flank also
-may charge out of initiative although they have no direct
-line of sight (this is an outspoken exception to the basic
-Warmaster rules and only affects combat on ramparts)._
+.Attacks on ramparts
+====
+A unit of Chaos Ogres manages to take three rampart
+sections. At one end of the rampart is a tower
+manned by Bowmen. At the other end are further
+rampart sections [.edit]#guarded by# a unit of [.edit]#Men-at-arms#.
 
-_The Spearmen are placed flank edge to flank edge to the
-Ogres as there is no room to place them straight but note
-that all units attack with their full attacks as flanks are
-not taken into account on ramparts._
+In their next [.edit]#turn# the Bowmen in the tower may
+charge the Ogres using initiative, since units in towers have
+360 degree [.edit]#vision#. The Men-at-arms
+may charge using their initiative [.edit]#as described above.#
 
-image::siege-and-fortresses/crossbowmen.webp[]
+[.edit]#When these units do so,#
+they are placed flank-to-flank with the
+Ogres as there is no room to place them [.edit]#face-to-face, but
+neither side suffers an attack penalty from this#.
 
-// Spelling centimetre
-_The results of the Bowmen’s four attacks are 6–6–3–2,
-the Spearmen’s 6–4–3–2, the ogres save none. The Ogres
-hit the Bowmen with 6–5–1–1 and the Spearmen with
-6–4–3–3 (the Spearmen save none). The combat result
+The result of the Bowmen’s four attacks is 6–6–3–2,
+the Men-at-arms’ is 6–4–3–2, and the ogres save none. The Ogres
+hit the Bowmen with 6–5–1–1 and the Men-at-arms with
+6–4–3–3 (the Men-at-arms save none). The combat result
 is 4:4 and the Ogres (losing one stand) may hold their
-position while the Bretonnian troops may be placed one
-centimetre away from the Ogres._
+position while the Bretonnian troops [.edit]#retreat 1cm#
+away from the Ogres.
+====
 
 image::siege-and-fortresses/elves-planning.webp[]
 
@@ -591,14 +643,14 @@ to scale the walls of a fortress and the people of the
 Warmaster world have sufficient sense to build their
 walls high! A Giant can just about reach sufficiently
 high enough to bash any enemy on the ramparts of the
-wall with his club (aka ‘large tree trunk’). Towers and
+wall with his club. Towers and
 anything higher than a normal fortress wall are assumed
 to be out of his reach. If your model fortifications are
 such that there is doubt whether a Giant can reach them
 or not then the players should ideally agree beforehand
 which walls are out of reach.
 
-A Giant can fight against a unit of enemy on the rampart
+A Giant can fight against an [.edit]#enemy# unit on the rampart
 of a fortress wall but can’t pursue should the enemy
 retreat. Although he can clear the ramparts of foes, he
 can’t take and hold ramparts as infantry can.
@@ -626,7 +678,7 @@ is through the doors.
 
 The number of stands that a tower can hold is determined
 by its base area. The standard tower as defined in the
-defenders fortification list has around 40–50mm edge
+defender’s fortification list has around 40–50mm edge
 length and may hold up to three stands or at least one
 unit of troops (but not more than two units). Towers
 with more edge length cost double points and may hold
@@ -639,10 +691,10 @@ Free-standing lone towers only have one facing that can
 be attacked in this way. Whichever facing this is must be
 declared by the defender before the start of the battle.
 This facing is assumed to be the one with the door in,
-whether it is on ground level, high up with a removable
+whether it is on ground level or high up with a removable
 ladder.
 
-Towers that are part of bigger fortifications are assumed
+Towers that are part of [.edit]#larger# fortifications are assumed
 to have an entrance at every facing and level linked
 to another fortress section. So towers always have an
 entrance to the courtyard and to each rampart that
@@ -650,14 +702,14 @@ touches them no matter if the actual model has one
 displayed.
 
 Missile units in towers count as having a 360° fire arc.
-This means that they will all have to target the closest
+This means that they [.edit]#must# target the closest
 eligible enemy unit to the tower if they wish to fire
 their missile weapons. Distances are measured from the
 edges of the tower. In addition to this, all missile units
 in a tower may stand and shoot at units that attack any
 facing of the tower they occupy as long as the shooting
 stand is not yet in combat. They may also shoot if they
-are not taking the assault themselves. The only stands
+are not taking [.edit]#part in# the assault themselves. The only stands
 that cannot do this are those that are already engaged
 in combat with another unit that has charged the tower.
 
@@ -670,25 +722,23 @@ one stand on multiple facings if there are insufficient
 defending stands). Defending stands never count as
 being flanked.
 
-image::siege-and-fortresses/defended-tower.webp[]
-
-Suffering the first charge the defending stands in a tower
+[.edit]#When charged#, the defending stands in a tower
 count as fortified. If the attacker wins the first round
-of combat it is assumed that the troops could make
-their way into the tower. Still attacker and defender
-only fight with one stand but the attacker will get the
-normal pursuit bonus. The defender still keeps on being
-defended in the following rounds of combat. Defenders
-of a tower can never be driven out of a tower. To put it
-quite simply, you have to wipe out all the units in a tower
-before you can occupy it.
+of combat it is assumed that troops could make
+their way into the tower. [.edit]#The# attacker and defender
+[.edit]#continue to# fight with one stand, but the attacker will [.edit]#gain# the
+normal pursuit bonus. The defender [.edit]#has defended status#
+in the following rounds of combat. Defenders
+of a tower can never be driven out of a tower –
+[.edit]#all units in a tower must be destroyed before the attacker#
+can occupy it.
 
 In the case of a tower that holds more than one unit, the
-defender chooses which unit takes the attack. Only this
-unit takes all attacks until it is wiped out or the attackers
+defender chooses which unit takes the attack. This
+unit [.edit]#handles# all attacks until it is [.edit]#either# wiped out or the attackers
 are driven off. If the tower is attacked by more than
 one unit the defender may choose which unengaged
-defending stand or unit takes this attack. However the
+defending stand or unit takes the attack. However the
 following combat will count as one big combat.
 
 If the attacker manages to wipe out the first defending
@@ -697,7 +747,7 @@ and the whole assault begins anew with the defender
 being fortified.
 
 If the attackers lose a round of combat they are placed
-outside the towers’ wall as if it would have been the
+outside the tower’s wall as if it would have been the
 front edge of the attacked unit. So a unit losing by 2 is
 placed 2cm away of the attacked wall.
 
@@ -708,39 +758,42 @@ in a tower, then they do not receive any advance charge
 move. The only option available to them is to consolidate
 their position and occupy the tower.
 
+.Defending a tower
+====
 // Capital letter Sylvanian
-_**Example:** Manfred von Hornberg, commander of a
+Manfred von Hornberg, commander of a
 lonely watchtower at the Sylvanian border is attacked
 by a Vampire horde. The tower is defended by a unit of
-cannons and a hellblaster cannon._
+cannons and a helblaster.
 
-_First a unit of grave guards attacks the entrance of the
+First a unit of grave guards attacks the entrance of the
 tower. They are welcomed by 8 shooting attacks from
-the hellblaster and another 4 shots by the cannon. The
+the helblaster and another 4 shots by the cannon. The
 grave guards however only take 2 hits (one more and the
 assault would have failed as the guards would have lost a
 stand). Hornberg decides that a stand of the cannons has
 to counter the attack. At the same time a unit of vampire
 bats attacks the roof of the tower. They are shot at 8
-times by the hellblaster, 2 times by the one free cannon
-stand and get 3 wounds. The second stand of the cannon
-counters the bats._
+times by the helblaster, 2 times by the one free cannon
+stand and [.edit]#receive# 3 wounds. The second stand of the cannon
+counters the bats.
 
-include::partial$divider-axe.adoc[]
-
-_The grave guards attack 3 times and roll a total of three
+The grave guards attack 3 times and roll a total of three
 6s, the bats roll another 6. The cannon wounds the guards
 and the bats once. The grave guards lose one stand and
 so do the bats but the cannons are destroyed. The bats
 have to retreat as they are flyers so only the guards try to
-go on charging the remaining hellblaster. Another round
+go on charging the remaining helblaster. Another round
 of stand and shoot follows but the guards only lose one
 wound. They attack 3 times but no 6 is rolled so the
-hellblaster survives and the guards have to retreat 1 cm
-out of the tower._
+helblaster survives and the guards have to retreat 1 cm
+out of the tower.
 
-_Manfred von Hornberg sighs relieved, but knowing that
-the worst was yet to come._
+Manfred von Hornberg sighs in relief, but knows
+the worst is yet to come.
+====
+
+include::partial$divider-axe.adoc[]
 
 Gateway towers are exactly like all other towers with the
 one exception that a gate leads through it. The gate may
@@ -749,7 +802,7 @@ gateway tower are not part of the combat that follows,
 but they may use boiling oil or stand and shoot against
 the attackers.
 
-image::siege-and-fortresses/dragon-ogre.webp[]
+image::siege-and-fortresses/defended-tower.webp[]
 
 == Flyers attacking fortifications
 
@@ -765,9 +818,12 @@ Flyers are unique in that they are the only units that can
 actually attack units stationed in a tower without having
 to do so from the courtyard or adjoining ramparts. The
 normal rules for attacking towers still apply though, so
-the defenders will not retreat and all the missile troops
-will be able to stand and fire at the attacking flyers.
+the defenders will not retreat and all [.edit]#missile-armed# troops
+will be able to stand and [.edit]#shoot# at the attacking flyers.
 
+// TODO: But how could they be attacked on a wall, when they
+// can't occupy one?
+// Edit to only the if they lose a round of combat.?
 Walls, ramparts and towers are difficult terrain for
 flying creatures so if they are attacked and lose a round
 of combat or if they are pushed back they are destroyed.
@@ -775,25 +831,28 @@ of combat or if they are pushed back they are destroyed.
 Of course if flyers try to assault fortifications, boiling oil
 attacks cannot be used against them.
 
+image::siege-and-fortresses/dragon-ogre.webp[]
+
 == Character movement
 
 As commanders are too valuable to risk their lives
 uselessly it is not allowed for them to enter fortress
 sections unless they are part of a unit. They are allowed
 to be placed on unoccupied fortress sections or onto
-sections that are occupied by their own troops. If a
-character unit on a fortress section is touched by the
-enemy units it has to join a friendly unit within 30cm.
+sections that are occupied by their own troops.
+
+If a
+character [.edit]#is on# a fortress section [.edit#when it# is touched by an
+enemy unit it [.edit]#must# join a friendly unit within 30cm.
 The buildings or the height of the walls do not restrict
-the movement of the character no matter if it has a flying
-mount or not.
+the movement of the character, [.edit]#regardless of any mount#.
 
 == Magic
 
-In the process of building a fortress in fantasy worlds
-magic grounding incantations are integrated, antimagic
-runes are carved in the walls and magic absorbing gems
-are used. So it is not possible to use magic that crosses the
+[.edit]#Fortress builders are wise to the ways of wizards and
+sorcerers, and use powerful magic-sapping incantations and
+carve protective runes into the walls.#
+It is not possible to use magic that crosses the
 ramparts or walls of a fortress.
 
 However, it is allowed to use magic spells on units that
