@@ -152,8 +152,11 @@ p:has(.cost) {
   display: block;
   grid-area: chapter;
   position: relative;
-  z-index: -1;
   overflow: hidden;
+}
+
+.cost:not(:has(a)) {
+  z-index: -1;
 }
 
 .cost::after {
