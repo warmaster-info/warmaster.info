@@ -29,7 +29,7 @@ jobs:
         node-version: '18'
     - name: Install Antora with the Antora Lunr Extension and PO4A
       run: |
-        apt-get install po4a
+        sudo apt-get install po4a
         npm i antora @antora/lunr-extension
     - name: Generate Site
       run: |
