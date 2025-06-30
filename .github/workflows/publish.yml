@@ -30,7 +30,10 @@ jobs:
     - name: Install Antora with the Antora Lunr Extension
       run: npm i antora @antora/lunr-extension
     - name: Generate Site
-      run: npx antora antora-playbook.yml
+      run: |
+        ./antora-translations
+        npx antora antora-playbook.yml
+        npx antora antora-playbook_fr.yml
     - name: Duplicate English index page as home page and set favicon
       run: |
         sed 's/<head>/<head><base href=".\/en\/">/' < ./output/en/index.html > ./output/index.html
