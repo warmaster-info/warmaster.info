@@ -1,0 +1,132 @@
+#!/bin/bash -e
+#
+# This script updates the PO4A (GNU Gettext) translation index, and commits this to the current Git branch.
+#
+# It also outputs the translated AsciiDoc sources for use by Antora; these are not committed.
+#
+
+shopt -s globstar
+shopt -s nullglob
+set -o pipefail
+
+if [[ -t 0 ]]; then
+    RED='\033[1;31m'
+    NC='\033[0m'
+else
+    RED='▶▶▶ '
+    NC=' ◀◀◀'
+fi
+
+echo -e " ${RED}                    ${NC}"
+echo -e "${RED}Updating translations.${NC}"
+echo -e " ${RED}                    ${NC}"
+echo
+
+languages=${1:-fr}
+
+branch=$(git branch --show-current)
+if [[ $branch != "main" ]]; then
+  echo "Refusing to run on non-main branch."
+  exit
+fi
+
+# Generate a po4a.conf for the English source
+echo -e "${RED}Generate po4a.conf for document translation.${NC}"
+cd en
+echo "[po4a_langs] $languages" > ../po4a.conf
+echo '[po4a_paths] translations/$master.pot $lang:translations/$master.$lang.po' >> ../po4a.conf
+echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0"' >> ../po4a.conf
+echo >> ../po4a.conf
+for i in **/*.adoc; do
+    component=$(echo $i | sed s/modules[/]//)
+    component=$(dirname $component | tr / _)
+    file=$(basename $i .adoc)
+    echo $i → $component, $file
+    echo "[type:asciidoc] en/$i \$lang:\$lang/$i pot=${component}_${file}" >> ../po4a.conf
+done
+cd ..
+
+# Produce the translated adoc source from the po-files.
+echo -e "${RED}Translating documentation sources${NC}"
+# Create a tmp directory for holding debug output, in case of translation errors
+mkdir -p tmp/
+# --force is used because Git usage has probably made timestamps unrelated to actual modification time.
+if po4a -v po4a.conf --force | tee tmp/po4a-output; then
+  echo "Translation seems to be fine."
+else
+  e_status=${PIPESTATUS[0]}
+
+  echo -e "${RED}Translation errors detected! These must be fixed in Weblate.${NC}"
+  echo -e "Go to Weblate, open the affected file and search for the affected string."
+  echo -e "Add/remove a newline as required appropriate, save the translation, and"
+  echo -e "make sure your translation becomes the approved one."
+  echo -e "Then either force a synchronization, or wait about 10-15 minutes"
+  echo -e "for Weblate to make the pull request to GitHub.${NC}"
+  echo
+
+  for x in $(grep ^/tmp tmp/po4a-output | grep -v 'translated message.* fuzzy translation.* untranslated message' | cut -d: -f 1,\
+2 | sort -u | sed 's/\///'); do
+      d=$(echo $x | cut -d: -f 1)
+      l=$(echo $x | cut -d: -f 2)
+
+      wcl=$(wc -l $d | cut -d ' ' -f 1)
+      tac $d | awk '(NR == '$(( $wcl - $l + 2))'),/^#:/' | tac
+      echo
+  done
+
+  exit $e_status
+fi
+
+# If a POT file has only one changed line, it's the "POT-Creation-Date", and we don't want to commit that.
+commit=no
+for i in translations/**/*.pot; do
+    git_status=$(git status --short $i)
+    if [[ -z "$git_status" ]]; then
+	# echo "File unchanged"
+	true
+    elif [[ $(git diff --numstat $i | cut -f 1) -le 1 ]]; then
+	if find -name $(basename $i .pot) > /dev/null; then
+	    if [[ $(echo $git_status | awk '{print $1}') == 'M' ]]; then
+		echo "Ignoring trivial change to $i"
+		git checkout $i
+	    else
+		echo Changed lines $(git diff --numstat $i) → $(git diff --numstat $i | cut -f 1)
+		git status --short $i
+		echo "New file $i"
+		git add $i
+		commit=yes
+	    fi
+	else
+	    echo "WARNING: translation source for $i may have been removed"
+	fi
+    else
+	git add $i
+	commit=yes
+    fi
+done
+git status
+if [[ "$commit" = "yes" ]]; then
+    echo "Committing changes to translation indices $commit"
+    git commit -m '[translation] Update translation indices'
+    #git push origin $branch
+else
+    echo "No changes to translation indices $commit"
+fi
+
+# Copy antora.yml files
+# Also copy images, pending real support in Antora for multilingual projects.
+for language in $languages; do
+    if [[ $language != "en" ]]; then
+	for component in $(find en -name antora.yml); do
+	    componentdir=$(dirname $component)
+	    componentname=$(basename $componentdir)
+            rsync -r --ignore-existing --exclude '*.adoc' $componentdir/ $language/$componentname/
+	done
+    fi
+done
+
+echo
+echo -e " ${RED}                                ${NC}"
+echo -e "${RED}Translating source files completed${NC}"
+echo -e " ${RED}                                ${NC}"
+echo

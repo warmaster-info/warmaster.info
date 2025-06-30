@@ -1,0 +1,41 @@
+site:
+  url: https://warmaster.info/fr
+  title: Warmaster Revolution
+  start_page: ROOT::index.adoc
+  keys:
+    language: fr
+content:
+  sources:
+    - url: .
+      start_path: ./fr/home
+      branches: HEAD
+    - url: .
+      start_path: ./fr/revolution
+      branches: HEAD
+output:
+  clean: false
+  dir: ./output/fr
+runtime:
+  fetch: true
+  cache_dir: ./cache
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ./supplemental_ui
+urls:
+  html_extension_style: drop
+asciidoc:
+  attributes:
+    idprefix: ''
+    idseparator: '-'
+    xrefstyle: short
+    page-pagination: yes
+    page-toctitle: 'Page contents'
+    language: fr
+    null: ␀
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'
+    index_latest_only: true
+    languages: [en]
