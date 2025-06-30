@@ -1,0 +1,316 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: en/home/modules/ROOT/pages/index.adoc:1
+#: en/revolution/modules/armies/pages/index.adoc:4
+#: en/revolution/modules/rules/pages/index.adoc:1
+#: en/revolution/modules/rules/pages/index.adoc:4
+#, no-wrap
+msgid "Warmaster Revolution"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:4
+#: en/revolution/modules/armies/pages/index.adoc:50
+msgid "xref:picking-the-army.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:5
+#: en/revolution/modules/armies/pages/index.adoc:67
+msgid "xref:albion.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:6
+#: en/revolution/modules/armies/pages/index.adoc:64
+msgid "xref:araby.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:7
+#: en/revolution/modules/armies/pages/index.adoc:72
+msgid "xref:beastmen.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:8
+#: en/revolution/modules/armies/pages/index.adoc:59
+msgid "xref:bretonnia.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:9
+#: en/revolution/modules/armies/pages/index.adoc:74
+msgid "xref:cathay.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:10
+#: en/revolution/modules/armies/pages/index.adoc:53
+msgid "xref:chaos.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:11
+#: en/revolution/modules/armies/pages/index.adoc:70
+msgid "xref:chaos-dwarfs.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:12
+#: en/revolution/modules/armies/pages/index.adoc:62
+msgid "xref:daemons.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:13
+#: en/revolution/modules/armies/pages/index.adoc:61
+msgid "xref:dark-elves.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:14
+#: en/revolution/modules/armies/pages/index.adoc:65
+msgid "xref:dogs-of-war.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:15
+#: en/revolution/modules/armies/pages/index.adoc:56
+msgid "xref:dwarfs.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:16
+#: en/revolution/modules/armies/pages/index.adoc:51
+msgid "xref:empire.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:17
+#: en/revolution/modules/armies/pages/index.adoc:68
+msgid "xref:goblins.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:18
+#: en/revolution/modules/armies/pages/index.adoc:55
+msgid "xref:high-elves.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:19
+#: en/revolution/modules/armies/pages/index.adoc:60
+msgid "xref:kislev.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:20
+#: en/revolution/modules/armies/pages/index.adoc:58
+msgid "xref:lizardmen.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:21
+#: en/revolution/modules/armies/pages/index.adoc:75
+msgid "xref:nippon.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:22
+#: en/revolution/modules/armies/pages/index.adoc:73
+msgid "xref:norse.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:23
+#: en/revolution/modules/armies/pages/index.adoc:66
+msgid "xref:ogre-kingdoms.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:24
+#: en/revolution/modules/armies/pages/index.adoc:54
+msgid "xref:orcs.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:25
+#: en/revolution/modules/armies/pages/index.adoc:57
+msgid "xref:skaven.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:26
+#: en/revolution/modules/armies/pages/index.adoc:52
+msgid "xref:tomb-kings.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:27
+#: en/revolution/modules/armies/pages/index.adoc:63
+msgid "xref:vampire-counts.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:28
+#: en/revolution/modules/armies/pages/index.adoc:69
+msgid "xref:witch-hunters.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:29
+#: en/revolution/modules/armies/pages/index.adoc:71
+msgid "xref:wood-elves.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/nav.adoc:29
+#: en/revolution/modules/armies/pages/index.adoc:76
+msgid "xref:regiments-of-renown.adoc[]"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/armies/pages/index.adoc:1
+#, no-wrap
+msgid "Warmaster Revolution Armies"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/index.adoc:4
+#, no-wrap
+msgid "rules:index/warmaster-revolution.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:14
+#, no-wrap
+msgid ""
+"By\n"
+"*Rick Priestley*\n"
+"with Lex van Rooy, Stephan Hess, Garth Bragg, Alex Parenti, Alex Belianin, Mick Marriott, Tom Merrigan, Gerald Denk, Claus Lampl, Rob Atkins, M. B. Hildreth, Erik Fokke, Piotr Gettlich, Gerth Hansen, Brian Hansen, David Simpson, Iain Standing, Aleš Navrátil and Piotr ‘RIP’ Zabrotowicz"
+msgstr ""
+
+#.  Added "the"
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:18
+#, no-wrap
+msgid ""
+"Edited by Aleš Navrátil\n"
+"Revisions by the Warmaster Revolution Rules Committee."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:20
+#, no-wrap
+msgid "*_Version 2.25 (2025)._*\n"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/index.adoc:26
+#: en/revolution/modules/rules/pages/index.adoc:30
+#, no-wrap
+msgid "Artwork"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:29
+#: en/revolution/modules/rules/pages/index.adoc:33
+msgid "Matthew Street"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/index.adoc:30
+#: en/revolution/modules/rules/pages/index.adoc:34
+#, no-wrap
+msgid "Miniatures painted by"
+msgstr ""
+
+#.  Hard spaces to avoid splitting names.  Single quotes on 'RIP' to match above.
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:37
+msgid ""
+"Christophe Van den Eynde; Justin Curtis; draconian_minipainting; Jen Truby; "
+"Benjamin Wendt; Vasilije Lalic; Aleš Navrátil; Patrick Den Drijver; "
+"Maik Ebeling; Martin Grospietch; tiflet88; Christopher Orr; Jim Beach; "
+"DNA Studios; Piotr ‘RIP’ Zabrotowicz; Murray Palmer; Paul Winter."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/index.adoc:38
+#, no-wrap
+msgid "Diagrams by"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:41
+msgid "Jan Zapatka"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/index.adoc:42
+#: en/revolution/modules/rules/pages/index.adoc:41
+#, no-wrap
+msgid "Special thanks to"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:46
+msgid ""
+"Justin Curtis; Peter Lam; Chistopher Orr; Jim Beach; Iain Standing; "
+"Jan Zapatka; Matthew Kozikowski; Radek Ratajczak; Andrzej Kret; "
+"Shane Streeting."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/index.adoc:47
+#: en/revolution/modules/rules/pages/index.adoc:47
+#, no-wrap
+msgid "Contents"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:85
+msgid ""
+"The armies are listed [.edit]#here# in their order of precedence using the "
+"dates they became official within the three previous Warmaster army list "
+"sources. Thus Empire through to Dwarfs began in that sequence within the "
+"original rulebook (2000), although the Undead were later re-designated as "
+"Tomb Kings. Skaven down to Vampire Counts were formalised on the Specialist "
+"Games website (2006), although all except Araby had appeared in Warmags "
+"(2001 to 2003). Dogs of War to Norse were codified collectively in the Trial "
+"Armies supplement (2009), but with Albion, Goblins, Witch Hunters, and Wood "
+"Elves also appearing in earlier Warmags. Finally, it should be noted that a "
+"number of the armies and variants within the Trial Armies supplement were "
+"not transferred by the committee to this book."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/index.adoc:88
+msgid ""
+"_For convenience, the armies are listed in alphabetical order in the website "
+"navigation menu._"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/index.adoc:89
+#, no-wrap
+msgid "index/drummer.jpg"
+msgstr ""

@@ -1,0 +1,491 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:91
+#: en/revolution/modules/armies/pages/araby.adoc:82
+#: en/revolution/modules/armies/pages/beastmen.adoc:53
+#: en/revolution/modules/armies/pages/beastmen.adoc:61
+#: en/revolution/modules/armies/pages/bretonnia.adoc:83
+#: en/revolution/modules/armies/pages/bretonnia.adoc:97
+#: en/revolution/modules/armies/pages/cathay.adoc:79
+#: en/revolution/modules/armies/pages/cathay.adoc:90
+#: en/revolution/modules/armies/pages/chaos.adoc:68
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
+#: en/revolution/modules/armies/pages/daemons.adoc:64
+#: en/revolution/modules/armies/pages/daemons.adoc:106
+#: en/revolution/modules/armies/pages/dark-elves.adoc:85
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
+#: en/revolution/modules/armies/pages/dwarfs.adoc:95
+#: en/revolution/modules/armies/pages/empire.adoc:65
+#: en/revolution/modules/armies/pages/goblins.adoc:78
+#: en/revolution/modules/armies/pages/high-elves.adoc:84
+#: en/revolution/modules/armies/pages/kislev.adoc:69
+#: en/revolution/modules/armies/pages/lizardmen.adoc:85
+#: en/revolution/modules/armies/pages/lizardmen.adoc:96
+#: en/revolution/modules/armies/pages/nippon.adoc:85
+#: en/revolution/modules/armies/pages/nippon.adoc:101
+#: en/revolution/modules/armies/pages/norse.adoc:51
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
+#: en/revolution/modules/armies/pages/orcs.adoc:82
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
+#: en/revolution/modules/armies/pages/skaven.adoc:74
+#: en/revolution/modules/armies/pages/skaven.adoc:95
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
+#: en/revolution/modules/armies/pages/wood-elves.adoc:61
+#: en/revolution/modules/armies/pages/wood-elves.adoc:69
+#: en/revolution/modules/rules/pages/battlefields.adoc:247
+#: en/revolution/modules/rules/pages/battlefields.adoc:300
+#: en/revolution/modules/rules/pages/battlefields.adoc:352
+#: en/revolution/modules/rules/pages/battlefields.adoc:420
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#, no-wrap
+msgid "Special rules"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/wood-elves.adoc:63
+#, no-wrap
+msgid "Army rules"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/armies/pages/nippon.adoc:1
+#, no-wrap
+msgid "Nippon"
+msgstr ""
+
+#.  Initial large letter is missing
+#.  Bretonnian, Shogun:
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:13
+msgid ""
+"image:nippon/logo.webp[width=101,height=96,float=\"right\"] Far to the east "
+"of the Old World, even farther east than the fabled lands of Cathay, lie the "
+"islands of the Nipponese archipelago.  Inhabited by a sophisticated but "
+"stoic nation of humans, where warfare is common and honour is everything."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:24
+msgid ""
+"Nipponese society is highly structured and is based on feudal rule in a "
+"strict hierarchy from the Emperor, a semi-divine being who is rarely seen in "
+"public, down to the lowest peasants who tend the fields. There are many "
+"similarities between Nippon and Bretonnian society, though Daimyo – the "
+"Nippon Lords – are even harsher and uncaring towards anyone they consider to "
+"be their inferior than their Bretonnian counterparts. The strongest Daimyo "
+"vie for the position of Shogun: supreme military leader of Nippon, "
+"answerable only to the Emperor himself."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:39
+msgid ""
+"Each Daimyo maintains a standing army to defend his lands from neighbouring "
+"warlords and pirate raids. The army is mainly composed of Samurai, noble "
+"warriors who devote their lives to training in the art of war. The Samurai "
+"are supported by Ashigaru, soldiers drawn from his common subjects and given "
+"basic training and weaponry. More significant threats require several Daimyo "
+"to contribute forces to the Emperor’s army, under the command of the Shogun. "
+"Sometimes these armies include Mikata – warriors whom a Daimyo may employ "
+"outside of their retinue to bolster its strength. These warriors represent "
+"the Ronin, Temple Monks, and Junior Samurai.  Armies sometimes include "
+"Ninja, clans of stealthy warriors, who specialise in all forms of espionage, "
+"deception, and covert warfare."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:47
+msgid ""
+"The Nipponese islands are located in the Northern hemisphere of the world, "
+"on the same latitude as Ulthuan but the opposite longitude. Many of the "
+"magical lines of power which were harnessed into the Great Vortex of the "
+"High Elves connect through the planet to Nippon, drawing magical energy "
+"away.  Thus, the Winds of Magic are relatively thin in this part of the "
+"world, so wizards are few."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:58
+msgid ""
+"The Nipponese people are known as highly stoic people from whom expressions "
+"of emotion are rare. However, this repressed spiritual energy builds up "
+"until it manifests itself in a physical form. Many Nipponese mythical "
+"creatures are a natural byproduct of unseen human hopes and fears which can "
+"manifest in physical form when emotions are strong or prolonged. Smaller "
+"creatures are often a nuisance in daily life and are exorcised before they "
+"become too troublesome by a Shugenja, who sometimes draws energy from a "
+"magical shrine to assist him in the process."
+msgstr ""
+
+#.  most common
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:75
+msgid ""
+"Larger creatures tend to congregate near temples, drawn by the concentration "
+"of emotion and energy at these holy sites.  In times of war, they become "
+"more common and the Shugenja of the temple can marshal them into useful "
+"fighting forces but their control over them is limited and they can "
+"disappear back into the magical ether from which they came. The most common "
+"forms are Oni (ogres) who are powerful fighters. If the Shugenja coalesces "
+"the energies together onto a physical object such as the Komainu (lion-dog "
+"statues which guard temple entrances), the object becomes a living creature. "
+"Larger creatures can be created if the temple’s Abbott coalesces the "
+"energies into larger objects. These colourful creatures bolster the "
+"Nipponese army against significant threats facing the whole nation. However "
+"the magical energy used to bind them can prove unstable under battlefield "
+"conditions."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/nippon.adoc:76
+#, no-wrap
+msgid "nippon/infantry.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/nippon.adoc:78
+#, no-wrap
+msgid "Nippon army selector"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/nippon.adoc:83
+#, no-wrap
+msgid "include::partial$nippon.tsv[]\n"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:89
+#, no-wrap
+msgid "Honour and Duty"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:98
+msgid ""
+"A Nipponese army mustered for war is a force unlike any other. Values of "
+"honour and duty are so ingrained in the culture of Nipponese society that "
+"they will stick around in a fight when many others would leave in disgrace. "
+"To represent this, a Nippon army adds 1 to the number of units that must be "
+"lost before the army will withdraw. For example – an army of 16 units will "
+"normally withdraw once eight units are destroyed – with Nippon, the army "
+"will not withdraw until nine units are destroyed."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/nippon.adoc:99
+#, no-wrap
+msgid "nippon/shrine.webp"
+msgstr ""
+
+#.  4: for the purpose
+#.  5: reword casualty
+#.  9: dispel
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:106
+#, no-wrap
+msgid "[[ashigaru-teppo,†1]]1. Ashigaru Teppo"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:110
+msgid ""
+"These units use black powder handguns.  Their projectiles can pierce armour "
+"far easier than an arrow.  Therefore, units hit by Ashigaru Teppo get a −1 "
+"penalty for their armour rolls."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:111
+#, no-wrap
+msgid "[[bushido,†2]]2. Bushido"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:114
+msgid ""
+"Samurai live their lives by a strict code of honour and ideals. The troops "
+"do not like losing face, so they cannot use Initiative to evade and they "
+"roll 1 less dice for drive back."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:115
+#, no-wrap
+msgid "[[mikata,†3]]3. Mikata"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:122
+msgid ""
+"A unit of Mikata will always use its initiative to charge an enemy if "
+"possible and cannot be given orders instead.  They will never use their "
+"initiative to evade. They can’t be driven back by shooting and do not roll "
+"for drive backs. If victorious in combat, they must pursue or advance where "
+"possible. Mikata are unaffected by enemies that cause terror in combat, so "
+"they do not suffer the usual −1 Attack modifier."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:123
+#, no-wrap
+msgid "[[ninja,†4]]4. Ninja"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:128
+msgid ""
+"Ninja have a shooting range of 15cm and 360° vision – stands in this unit "
+"can draw line of sight from all edges for the purpose of evading and "
+"shooting, including shooting at charging enemies. Note that this unit still "
+"needs Line of Sight from its front edge to charge an enemy."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:152
+msgid ""
+"Ninja do not have to be deployed before the game if the player does not wish "
+"to do so. Instead, individual units can be infiltrated onto the battlefield "
+"once the game has begun. To infiltrate a unit, the Nippon player nominates "
+"the point where he wants the Ninja to appear and issues an ‘infiltration’ "
+"order from any character. The character does not have to be within his "
+"normal command range to issue an infiltration order – the character’s "
+"command range is considered to extend over the entire tabletop when issuing "
+"an infiltration order. Treat the order as issued to the nominated point and "
+"apply any modifiers for distance and proximity of enemy but ignore penalties "
+"for dense terrain.  The nominated point must lie either on the table within "
+"dense terrain or on any base edge other than the enemy player’s own table "
+"edge. If successful, place one stand on the nominated spot and arrange the "
+"rest of the unit into formation around it. The infiltrated unit cannot be "
+"placed so that it touches an enemy unit. Once deployed, orders can be given "
+"to the unit by the same character that gave the infiltration order if he is "
+"within his normal command range, the infiltrating unit is considered to have "
+"used its first order to deploy. If the infiltration order is failed the unit "
+"is not deployed and cannot infiltrate that turn, it can attempt to "
+"infiltrate in a subsequent turn at the same or a different place."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:155
+msgid ""
+"Ninjas ignore penalties for Dense Terrain. Ninja count as Gutter Runners for "
+"the purpose of Scout Rules."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:156
+#, no-wrap
+msgid "[[temple-daemons,†5]]5. Temple Daemons"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:163
+msgid ""
+"Temple Daemons are immune to terror and cannot be given magic items. They "
+"also suffer from Daemonic Instability. At the start of the Nippon player’s "
+"own Command phase, before making any initiatives moves, all friendly Daemon "
+"units that have taken at least 1 stand as casualty must make a ‘Daemonic "
+"Instability’ test. Roll a D6. If the unit has lost 2 stands deduct 1 from "
+"the roll."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/nippon.adoc:188
+#, no-wrap
+msgid ""
+"h|0–1\n"
+"|One stand is destroyed – the daemons fade away and\n"
+"are absorbed back into the heaven from\n"
+"which they came. Remove one stand from play. If\n"
+"a character is with the unit and the last stand is\n"
+"removed the character is destroyed too.\n"
+"\n"
+"h|2–3\n"
+"|The unit becomes confused – if not already confused\n"
+"the stand becomes confused as it is torn between this\n"
+"world and the next.\n"
+"\n"
+"h|4–5\n"
+"|No effect – unless the unit is confused in which case\n"
+"it ceases to be confused as it is favoured with the\n"
+"invigorating power of the Temple.\n"
+"\n"
+"h|6\n"
+"|The unit regains one stand. The regained stand is\n"
+"placed in formation with the rest of the unit. If it is\n"
+"impossible to position the stand in formation with its\n"
+"unit then the stand cannot be added.\n"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:190
+#, no-wrap
+msgid "[[komainu,†6]]6. Komainu"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:194
+msgid ""
+"If the unit charges against an enemy in the open it receives an additional "
+"+1 Attack modifier in the same way as chariots and monsters. Komainu are "
+"affected by Instability and Immune to Terror like other Temple Daemons."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:195
+#, no-wrap
+msgid "[[tengu,†7]]7. Tengu"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:200
+msgid ""
+"Tengu can fly. They are an exception to the normal conventions for basing "
+"monsters in that they face the long edge of the stand in the same way as "
+"infantry rather than the short edge as most other monsters. Tengu are "
+"affected by Instability and Immune to Terror like other Temple Daemons."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:201
+#, no-wrap
+msgid "[[shogun,†8]]8. Shogun"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:209
+msgid ""
+"If a Nippon Hero (Daimyo or Shugenja, not the Shogun) rolls a double 6 when "
+"issuing orders, the player must roll on the Blunder table with a −1 penalty "
+"on the result. If the table indicates a “You must be crazy” result, the −1 "
+"Command penalty must be applied to a Samurai or Samurai cavalry unit if a "
+"unit of these troops was being ordered or was in the brigade being ordered. "
+"If there is more than one of these units present, the Nippon player may "
+"choose which is affected."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:210
+#, no-wrap
+msgid "[[shugenja,†9]]9. Shugenja"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:215
+msgid ""
+"If an enemy wizard who is within 50cm of the Shugenja casts a spell the "
+"Shugenja can attempt to dispel it. Note that it does not matter what the "
+"spell is or where it is cast, the Shugenja can try to dispel it so long as "
+"the caster is with 50cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:224
+msgid ""
+"To determine if this works, roll a D6. On the score of 4, 5 or 6 the "
+"Shugenja has succeeded and the spell doesn’t work, it is dispelled by the "
+"Shugenja’s defiant efforts. If he fails, then the Shugenja’s efforts come to "
+"nothing and the spell works as normal. A Shugenja can attempt to anti-magic "
+"any number of spells in a turn, but only one attempt can be made to anti-"
+"magic any individual spell – even if the army includes more than one "
+"Shugenja and several are in range of the enemy wizard."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:229
+msgid ""
+"The Shugenja adds +1 to any rolls on the Daemonic Instability table if he is "
+"within 20cm of the affected Daemon unit. This benefit only applies when "
+"rolling on the Daemonic Instability table for friendly units."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:231
+msgid "Shugenjas may take a Dispel scroll."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:232
+#, no-wrap
+msgid "[[tatsu,†10]]10. Tatsu"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:235
+msgid ""
+"Generals and Heroes can ride Tatsu, a kind of dragon native to Nippon. Tatsu "
+"can fly and cause terror in their enemies.  An extra +2 Attacks are added to "
+"those of its rider."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/nippon.adoc:236
+#, no-wrap
+msgid "[[shrine,†11]]11. Shrine"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:238
+msgid ""
+"The army can only include a single Shrine and it is incorporated onto the "
+"stand of a Shugenja."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:242
+msgid ""
+"If a Shugenja stand includes the Shrine, once per battle he can add +1 to "
+"his dice roll when he attempts to dispel enemy magic spells using the "
+"Shrine’s anti-magic ability (see Shugenja)."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:250
+msgid ""
+"In addition, the Shugenja can invoke the gods using the Shrine during the "
+"Shooting phase of his own turn. The shrine’s invocation fills the Nippon "
+"army with even greater resolve! Roll a D6. On the score of a 4, 5 or 6 all "
+"Nippon units within 20cm of the Shugenja are unaffected by Terror until the "
+"start of the Nippon player’s next turn. On a roll of less than 4 there is no "
+"effect."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/nippon.adoc:251
+#, no-wrap
+msgid "nippon/tengu.webp"
+msgstr ""

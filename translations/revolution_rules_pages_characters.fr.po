@@ -1,0 +1,758 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/characters.adoc:1
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:77
+#: en/revolution/modules/rules/pages/generals-wizards-and-heroes.adoc:1
+#, no-wrap
+msgid "Generals, Wizards & Heroes"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:10
+msgid ""
+"Generals, Wizards and Heroes are represented by a single stand which "
+"includes the [.bo5a]#famous individual# plus [.edit]#their# bodyguard, "
+"standard bearer, familiars, servants, messengers, observers, courtiers, "
+"pets, jesters, toadies and other such hangers-on as make up [.edit]#their# "
+"immediate entourage. For the sake of convenience, Generals, Wizards and "
+"Heroes are referred to as characters."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/characters.adoc:23
+#, no-wrap
+msgid ""
+"|image:generals-wizards-and-heroes/general.webp[]\n"
+"|image:generals-wizards-and-heroes/wizard-1.webp[]\n"
+"\n"
+"|General |Wizard\n"
+"\n"
+"|image:generals-wizards-and-heroes/hero.webp[]\n"
+"|image:generals-wizards-and-heroes/wizard-2.webp[]\n"
+"\n"
+"|Hero | Wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:26
+msgid "Generals, Wizards and Heroes are immediately recognisable pieces."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:28
+#, no-wrap
+msgid "Game values"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/characters.adoc:36
+msgid ""
+"In some armies, Generals, Wizards and Heroes have different names such as "
+"Liche priests in the Undead army and Shamans in the Orc army. Names apart, "
+"they amount to the same thing and each is either a General, Wizard or Hero "
+"as indicated in the Army Lists section of the rulebook."
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/characters.adoc:46
+msgid ""
+"Unlike troop stands Character stands don’t have a value for Hits or Armour. "
+"Instead they have a Command value. They have no Hits value at all. They have "
+"an Attack value which is expressed as a bonus, for example +1, +2, +3, etc. "
+"The picture below shows an Empire Hero stand with its game values. Full game "
+"values for all characters can be found in the Army List section."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:47
+#, no-wrap
+msgid "generals-wizards-and-heroes/character.webp"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/characters.adoc:57
+#, no-wrap
+msgid ""
+"|↙ |⤸ |⤹ |↘\n"
+"\n"
+"<|Attacks +1\n"
+"^|[.line-through]## Hits ##\n"
+"^|[.line-through]## Armour ##\n"
+">|Command 8\n"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:59
+#, no-wrap
+msgid "generals-wizards-and-heroes/dryads.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:61
+#, no-wrap
+msgid "Characters as game pieces"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:70
+msgid ""
+"Characters are different from other pieces in the game.  Most stands of "
+"infantry or other warriors represent a substantial body of troops defined by "
+"the stand’s area.  Characters represent a comparatively tiny number of "
+"actual individuals, some of whom may be scattered across the battlefield in "
+"the role of messengers, scouts and observers."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:76
+msgid ""
+"The character stand’s prime function is to provide a fixed point from which "
+"orders are issued. In addition a character stand can bolster a unit’s combat "
+"ability by joining it. In the case of Wizards they can also cast spells, "
+"some of which are directly offensive in nature."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:82
+msgid ""
+"Because of their unique place in the game, character stands are treated "
+"differently to units of troops. A character stand is used much more in the "
+"manner of a token or marker. The stand itself is ignored on the battlefield "
+"by units from both sides."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:92
+msgid ""
+"Units from their own side can move through characters without penalty and "
+"they, in turn, can move through units from their own side. If friendly units "
+"are moved in such a way that they displace a character then the player must "
+"immediately move the character by the minimum distance required to allow the "
+"unit to take up its position. This may result in a character moving several "
+"times during the Command phase to get out of the way of troop movement."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:95
+msgid ""
+"If moved through by enemies, characters are repositioned as described below."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:100
+msgid ""
+"Characters can also be seen through and, where appropriate, shot through by "
+"troops from both sides.  Their presence is not considered to block a unit’s "
+"line of sight."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:107
+msgid ""
+"It follows that characters cannot be specifically shot at, targeted with "
+"spells or attacked in combat. Characters don’t suffer hits from shooting or "
+"combat, although they can be slain if a unit they are with is destroyed, as "
+"described later. A character stand on its own cannot charge or fight an "
+"enemy unit."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:114
+msgid ""
+"It is worth bearing in mind that character stands are always ignored when "
+"considering which enemy target is the closest and when measuring between "
+"units. Similarly, an enemy unit cannot act on its initiative with regard to "
+"a character and the presence of an enemy character within 20cm does not "
+"impose a −1 Command penalty."
+msgstr ""
+
+#. include::partial$divider-axe.adoc[]
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:117
+#, no-wrap
+msgid "generals-wizards-and-heroes/dark-knight.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:119
+#, no-wrap
+msgid "Orders from wizards & heroes"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:125
+msgid ""
+"We have already described how characters give orders in the Command phase.  "
+"[.bo5a]#This section summarises the principle rules – for details see the "
+"rules for xref:command.adoc#orders[Orders].#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:132
+msgid ""
+"Any character can issue an order to any unit or brigade within his command "
+"range. The General’s command range extends over the whole battlefield but a "
+"Hero can only issue orders to units within 60cm of the character stand and a "
+"Wizard can only issue an order to a unit within 20cm of the character stand."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/characters.adoc:140
+#, no-wrap
+msgid ""
+"|Character |Command Range\n"
+"\n"
+"|General   |Battlefield\n"
+"|Hero      |60cm\n"
+"|Wizard    |20cm\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:147
+msgid ""
+"A player can issue orders from his characters in any sequence he wishes but "
+"must finish issuing orders from each character before moving to the next. "
+"For example, you can’t issue orders from the General then from a Hero and "
+"then from the General again."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:152
+msgid ""
+"Once a Hero or Wizard has failed to issue an order, that character can issue "
+"no more orders in that Command phase. However, other characters can continue "
+"issuing orders until they too fail to issue an order."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:162
+msgid ""
+"Once the General has failed to give an order, *no further orders* can be "
+"issued in that Command phase by *any* characters even if they have issued no "
+"orders previously. This makes it preferable for Heroes and Wizards to issue "
+"orders first and the General last, although this is not mandatory. A player "
+"may occasionally prefer to await the outcome of his General’s attempts to "
+"issue orders before committing a Wizard or Hero."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:163
+#, no-wrap
+msgid "Blunders"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:174
+msgid ""
+"Wizards and Heroes are not always reliable. We presume that the General has "
+"briefed them concerning his battle plan, carefully instructed them in their "
+"duties and taken pains to make everything as clear as possible. In a perfect "
+"world this should be sufficient but, alas, this is rarely so.  Some "
+"underlings are plain dim and so misunderstand their orders. Others get "
+"carried away and charge off in pursuit of a new and exciting goal. A few are "
+"quick to ignore their General’s orders in favour of their own plan."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:188
+msgid ""
+"This wayward inclination is taken into account whenever a Wizard or Hero "
+"fails to issue an order as a result of rolling a 12. If the player rolls a "
+"12 then not only is the order not issued but something has gone wrong. "
+"Someone has blundered. The Wizard or Hero has got carried away or ignored "
+"the instructions he has been given or taken a wrong turning or mistaken a "
+"wandering group of locals for the enemy. The player rolls a dice and "
+"consults the Blunder table. The result applies to the unit which has failed "
+"to receive its order and to all units in the case of a brigade, except where "
+"noted otherwise. If it is the first order to the unit/brigade then the half "
+"pace move is not allowed. Follow the result of the Blunder table instead."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:193
+msgid ""
+"A General doesn’t blunder – [.bo5a]#they are above such things.# However, if "
+"the General rolls a 12 the unit/brigade cannot move even if it was its first "
+"order and therefore it was eligible for a half pace move."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:194
+#, no-wrap
+msgid "generals-wizards-and-heroes/wolf-rider.webp"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/characters.adoc:197
+#, no-wrap
+msgid "D6 Blunder"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/characters.adoc:199
+#, no-wrap
+msgid "*1 You must be crazy!*"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:217
+msgid ""
+"The unit’s officers are seriously bewildered by their orders and insist on "
+"disputing their interpretation.  This takes a long time during which tempers "
+"fray, fists fly and some officers storm off determined to spend the rest of "
+"the battle undermining the efforts of their rivals. The unit suffers a −1 "
+"Command penalty for the rest of the battle. If a brigade has blundered then "
+"this penalty applies to one unit and the player can choose which is "
+"affected. The penalty will apply to the whole brigade if an order is given "
+"to the brigade that includes the affected unit. This penalty is cumulative "
+"so it’s theoretically possible for a unit’s effectiveness to plummet to a "
+"seriously incompetent level. The unit/brigade may not move further that "
+"Command phase."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/characters.adoc:219
+#, no-wrap
+msgid "*2–3 Blimey Sir! There’s thousands of ’em!*"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:235
+msgid ""
+"The unit’s officers mistake a shabby group of curious locals for a huge "
+"enemy force. If there are no visible enemy units within a full pace move of "
+"the unit or brigade then the unit/brigade halts and in this case there is no "
+"further penalty. If there are visible enemy units within a full pace move of "
+"the blundering unit or brigade then the unit or each unit in a brigade must "
+"move the shortest route to get outside a full pace move from all enemy "
+"units. Where units have different moves, the brigade moves at the speed of "
+"the slowest. Once it has moved, the unit/brigade halts. If unable to comply, "
+"the unit/brigade moves as far away from all enemy units as possible instead."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/characters.adoc:237
+#, no-wrap
+msgid "*4–5 No sense in getting killed sir!*"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:245
+msgid ""
+"The unit’s officers are timorous and hesitant, convinced that the unit is "
+"surrounded by enemy and unseen dangers. The unit/brigade may not move and "
+"cannot receive any further orders that Command phase."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/characters.adoc:247
+#, no-wrap
+msgid "*6 Up and ’at ’em, men!*"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:263
+msgid ""
+"The troops are overcome by a sudden and uncontrollable lust for glory and "
+"surge forwards out of control. The unit must move at its maximum full pace "
+"towards the nearest visible enemy unit and will charge the nearest enemy "
+"unit if it is possible to do so. If a whole brigade goes ‘up and ’at ’em!’ "
+"then move each unit one at a time as the movement of one may affect the "
+"ability of subsequent units to charge because it blocks sight or access to "
+"base edges. Once units have moved, they halt as for a normal failed order. "
+"Once units have moved, or there is no visible enemy, they halt. The unit/"
+"brigade cannot receive any further orders that Command phase."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:265
+#, no-wrap
+msgid "generals-wizards-and-heroes/night-goblins.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:267
+#: en/revolution/modules/rules/pages/command.adoc:535
+#: en/revolution/modules/rules/pages/movement.adoc:356
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:836
+#, no-wrap
+msgid "Character movement"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:271
+msgid ""
+"We have already covered the essentials of character movement in the Command "
+"section. To summarise:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:275
+msgid ""
+"Characters move at the end of the Command phase and never move in company "
+"with units during the Command phase."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:279
+msgid ""
+"A character can move once up to 60cm (100cm if flying). No Command test is "
+"required for a character to move."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:285
+msgid ""
+"Characters move in company with units they have joined in other phases. For "
+"example, if they are driven back by missile fire, move to make way for other "
+"units, and throughout the Combat phase during pursuit, fall backs, retreats "
+"and advances"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/characters.adoc:286
+#, no-wrap
+msgid "Characters & terrain"
+msgstr ""
+
+#.  Spelling i.e.
+#.  "Monstrous and Chariot Mounts" is "Character Mounts".
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:299
+msgid ""
+"Unless riding monsters or chariots, character stands [.bo5a]#treat# terrain "
+"in the same way as infantry [.bo5a]#regardless of whether the actual model "
+"is mounted.# Only terrain which is impossible for infantry to cross is "
+"impossible for characters (i.e., a character cannot move across the open "
+"ocean, into a volcanic lake and so forth). If riding monsters or chariots, "
+"characters are restricted by terrain in the same way as these troops. See [."
+"edit]#<<character-mounts>>#."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:300
+#, no-wrap
+msgid "generals-wizards-and-heroes/tusks.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:302
+#, no-wrap
+msgid "Joining a unit"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:311
+msgid ""
+"A character may join a unit by moving into touch with it at the end of the "
+"Command phase. The player declares that the character is now with the unit. "
+"A character can join a unit which is in combat if you wish. Players should "
+"be careful not to place characters touching units if they are not intended "
+"to be joined and should always leave a discernible gap where this makes the "
+"position clear."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:316
+msgid ""
+"A character must also join a unit if he is obliged to move as a result of "
+"enemy troop movement. In this case, he must move into touch with a friendly "
+"unit within a 30cm move as described opposite."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:321
+msgid ""
+"If a character is joined with a unit which is confused, this does not "
+"prevent the character from moving at the end of the Command phase. Nor does "
+"it prevent him issuing orders to other units during the Command phase itself."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:339
+msgid ""
+"The precise position of the character stand relative to a unit he has joined "
+"is not critical. Once he has joined a unit, the character himself is assumed "
+"to be within the unit’s formation. Once a character has joined a unit, his "
+"stand may be moved to any point around the unit as required, for example so "
+"that another unit can charge into position or move alongside. The character "
+"stand must remain in touch with the unit at some point if possible. If this "
+"is impossible, if the unit is in combat and completely surrounded for "
+"example, the player can temporarily balance the character stand in the "
+"middle of the unit or say that he is doing so whilst placing the stand "
+"safely aside. A character joined with a unit that is locked in unresolved "
+"combat can still issue orders in the Command phase. Nominate a stand in the "
+"unit and work out the measuring of the distance to the commanded unit from "
+"that stand."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:340
+#, no-wrap
+msgid "Enemy moving through characters"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:350
+msgid ""
+"If a lone character gets in the way of enemy units as they move then the "
+"character stand must be moved up to 30cm to join a friendly unit. Flying "
+"units fly over the battlefield as they move and so only displace characters "
+"if their move ends on top of them. Character stands cannot be moved so that "
+"they displace enemy characters.  Note that a displaced character does not "
+"have to join the closest unit, the player can decide which unit to join."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:355
+msgid ""
+"If a character cannot move to a friendly unit, he is considered to have been "
+"slain and is removed from the battle. If the General is slain, the battle is "
+"over as described in the xref:end-of-the-battle.adoc[End of The Battle]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:361
+msgid ""
+"This is an important rule because it obliges characters to remain fairly "
+"close to their own troops, especially Wizards who might otherwise exploit "
+"their invulnerability to launch unsupported magical attacks deep behind "
+"enemy lines."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:371
+msgid ""
+"If a character is with a unit when it makes contact with a moving enemy then "
+"the character can be repositioned out of the way as convenient, so long as "
+"he stays in touch with the unit he is with. If this is impossible (if the "
+"unit is surrounded, for example) then the character can be precariously "
+"balanced on top of the unit or removed but assumed to be included within the "
+"unit’s formation."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:372
+#, no-wrap
+msgid "Characters & shooting"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:378
+msgid ""
+"Characters cannot be shot at but may have joined a unit which is shot at and "
+"either been driven back or destroyed as a result. If a character is with a "
+"unit that has been driven back by shooting, he automatically moves with it."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:382
+msgid ""
+"If a character has joined a unit that is subsequently destroyed by shooting "
+"or which is routed and destroyed as a result of a drive back then the "
+"character is slain."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:384
+#, no-wrap
+msgid "Characters that shoot"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:390
+msgid ""
+"All characters have an Attack bonus expressed as +1, +2 or +3.  If a "
+"character can shoot, it has an Attack bonus expressed as +1/1, with the "
+"second value being the additional shooting attack."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:394
+msgid ""
+"A character that has a shooting attack can only use it when joined to a unit."
+msgstr ""
+
+#. // BO5A addition:
+#. If several characters have joined a unit, only one
+#. can use its shooting attack.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:409
+msgid ""
+"Monster mounted characters or other characters that have a shooting attack "
+"when joined to units are assumed to be within the unit’s formation "
+"regardless of the actual position of the character stand. When shooting in "
+"the Shooting phase, or during the Command phase if shooting at chargers, the "
+"player chooses one of the unit’s stands and works out the character’s "
+"shooting from that stand."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:417
+msgid ""
+"All shots taken at the same enemy unit have to be worked out from the same "
+"stand, but otherwise the character can ‘move’ from stand to stand during the "
+"turn as required (this can happen during the opposing player’s Command phase "
+"if the unit is charged by more than one enemy for example). The same "
+"principle applies to characters casting spells."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:418
+#, no-wrap
+msgid "Characters in combat"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:426
+msgid ""
+"When one or more characters join a unit in combat, the character with the "
+"highest Attack value can add this as a bonus to the Attack value of any one "
+"stand in the unit. A unit may be joined by any number of characters but only "
+"one character can ever add his Attack value bonus to a unit per round of "
+"combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:431
+msgid ""
+"Character stands which have joined a unit in combat must remain with it "
+"whilst the combat lasts and must fall back, stand their ground, retreat, "
+"pursue or advance with the unit."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:436
+msgid ""
+"A General, Wizard or Hero is slain if the unit he is with is destroyed. This "
+"is of particular importance as it makes combat an extremely risky business "
+"for characters and certainly not something to be indulged in lightly."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:437
+#, no-wrap
+msgid "Character mounts"
+msgstr ""
+
+#.  Spelling modelled
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:450
+msgid ""
+"If you read the Army Lists section you’ll see that Generals, Wizards and "
+"Heroes are often allowed to ride on some sort of monster or in a chariot. In "
+"the case of monsters these are referred to as *Monstrous Mounts* and "
+"chariots are *Chariot Mounts*. Sometimes characters are allowed to ride on "
+"some *Special Mounts* that have their own special description in appropriate "
+"army lists. In all other cases where characters are modelled riding on "
+"common mounts (or simply *mounts*) like horses, wolves and similar "
+"creatures, they do so for free."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:461
+msgid ""
+"If a character rides either a Monstrous or Chariot Mount this does not "
+"affect the rules described above. The stand is still a General, Wizard or "
+"Hero stand for our purposes.  However, the mount will usually increase the "
+"character’s Attack value bonus in combat. Chariot and Monster Mount bonuses "
+"are added to the character’s normal Combat bonus. In addition, there may be "
+"special rules that apply. For example, a General riding a Monstrous Mount "
+"may cause terror. These rules are noted in the Army Lists."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:465
+msgid ""
+"It is quite common for characters to ride some sort of flying creature such "
+"as a Griffon or a Dragon. This increases the rider’s maximum movement to "
+"100cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:469
+msgid ""
+"A flying character is not affected by normally impassable terrain because it "
+"can fly right over it in the same way as other flying stands."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:481
+msgid ""
+"A character riding a chariot or a monster cannot move into terrain that his "
+"mount could not enter. He cannot enter a wood for example. He cannot join a "
+"unit if all of its stands are in a wood. If a unit he is with retreats, "
+"falls back, pursues, is driven back, advances or is otherwise obliged to "
+"move into a wood he must move up to 30cm to another unit in the same way as "
+"a lone character contacted by the enemy. If he cannot do so, he is slain. "
+"However, so long as at least one stand in a unit is positioned in "
+"unrestricted terrain, the character can join the unit."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:486
+msgid ""
+"Note that common mounts such as horses, wolves, boars and similar creatures "
+"are not accorded any special rules, and characters riding these are simply "
+"treated the same way as characters on foot."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:487
+#, no-wrap
+msgid "Odd size character bases"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:495
+msgid ""
+"Characters are mounted on standard sized bases in the same way as troop "
+"stands – however many players prefer to mount their characters on round "
+"bases as this makes them easier to spot. In addition, some of the special "
+"character models, such as the Grand Theogonist, are too large to fit onto "
+"the standard sized base."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:501
+msgid ""
+"Character stands can be mounted onto round bases up to 25mm in diameter "
+"using the normal rules. Simply measure distances to the stand’s edge as you "
+"would for a rectangular base. This confers no significant advantage over a "
+"standard base."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/characters.adoc:511
+msgid ""
+"Character stands can be mounted onto larger bases, whether rectangular, "
+"round or whatever, but in these cases all distances must be measured either "
+"to the centre of the base or to a specific point on the base such as a "
+"particular model. Players must point out where they will measure from before "
+"the game. Oversized bases are slightly inconvenient in play, but allow for "
+"some very nice decorative models or more complex scenes and do look very "
+"attractive."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/characters.adoc:512
+#, no-wrap
+msgid "generals-wizards-and-heroes/ogres.webp"
+msgstr ""

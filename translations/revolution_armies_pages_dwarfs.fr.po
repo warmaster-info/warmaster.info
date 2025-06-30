@@ -1,0 +1,458 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:91
+#: en/revolution/modules/armies/pages/araby.adoc:82
+#: en/revolution/modules/armies/pages/beastmen.adoc:53
+#: en/revolution/modules/armies/pages/beastmen.adoc:61
+#: en/revolution/modules/armies/pages/bretonnia.adoc:83
+#: en/revolution/modules/armies/pages/bretonnia.adoc:97
+#: en/revolution/modules/armies/pages/cathay.adoc:79
+#: en/revolution/modules/armies/pages/cathay.adoc:90
+#: en/revolution/modules/armies/pages/chaos.adoc:68
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
+#: en/revolution/modules/armies/pages/daemons.adoc:64
+#: en/revolution/modules/armies/pages/daemons.adoc:106
+#: en/revolution/modules/armies/pages/dark-elves.adoc:85
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
+#: en/revolution/modules/armies/pages/dwarfs.adoc:95
+#: en/revolution/modules/armies/pages/empire.adoc:65
+#: en/revolution/modules/armies/pages/goblins.adoc:78
+#: en/revolution/modules/armies/pages/high-elves.adoc:84
+#: en/revolution/modules/armies/pages/kislev.adoc:69
+#: en/revolution/modules/armies/pages/lizardmen.adoc:85
+#: en/revolution/modules/armies/pages/lizardmen.adoc:96
+#: en/revolution/modules/armies/pages/nippon.adoc:85
+#: en/revolution/modules/armies/pages/nippon.adoc:101
+#: en/revolution/modules/armies/pages/norse.adoc:51
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
+#: en/revolution/modules/armies/pages/orcs.adoc:82
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
+#: en/revolution/modules/armies/pages/skaven.adoc:74
+#: en/revolution/modules/armies/pages/skaven.adoc:95
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
+#: en/revolution/modules/armies/pages/wood-elves.adoc:61
+#: en/revolution/modules/armies/pages/wood-elves.adoc:69
+#: en/revolution/modules/rules/pages/battlefields.adoc:247
+#: en/revolution/modules/rules/pages/battlefields.adoc:300
+#: en/revolution/modules/rules/pages/battlefields.adoc:352
+#: en/revolution/modules/rules/pages/battlefields.adoc:420
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#, no-wrap
+msgid "Special rules"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/armies/pages/dwarfs.adoc:1
+#, no-wrap
+msgid "Dwarfs"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:16
+msgid ""
+"image:dwarfs/logo.webp[width=109,height=109,float=\"right\"] The Dwarfs live "
+"in fortified subterranean strongholds in the mountainous regions of the Old "
+"World. Beneath these near impregnable fortresses they have dug thousands of "
+"miles of tunnels, shafts, mines and galleries. The Worlds Edge Mountains are "
+"riddled with Dwarf delvings and constitute a hidden underground realm as "
+"large in extent as any human kingdom.  The adjoining Grey Mountains and "
+"Dragonback ranges are also home to Dwarfs and there are scattered "
+"settlements in most of the mountainous regions of the Old World."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:33
+msgid ""
+"Dwarfs are attracted to these bleak places by hidden mineral wealth and "
+"especially gold. Dwarfs are utterly besotted with gold. They are also quite "
+"enthusiastic about gemstones and other rare and precious metals – but most "
+"of all they love gold! Dwarfs sing songs about gold, dig through solid rock "
+"to find gold, and spend endless happy hours counting the gold they possess. "
+"There are hundreds of different Dwarfish words for gold and new ones are "
+"being coined all the time. A Dwarf who finds himself in the presence of "
+"large amounts of the yellow shiny stuff can easily go ‘gold crazy’. Such an "
+"individual may become insanely violent, even going so far as to attack his "
+"friends and family who he believes to be “after me gold”. Given this strong "
+"materialistic streak it is not surprising that Dwarfs are such keen traders "
+"and merchants. They are always willing to do business with other races – "
+"though only on cash terms – gold always acceptable."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:49
+msgid ""
+"Dwarfs are shorter and far stouter than men or elves. They are also much "
+"stronger and more resilient. They consider humans and elves to be gangling "
+"weaklings liable to be blown over in a decent breeze. Dwarfs are expert "
+"craftsmen, especially when it comes to metal work, smithying, gemcutting and "
+"jewellery making. Despite their cumbersome appearance they are astonishingly "
+"skilful at making fine, intricate mechanisms such as locks, concealed "
+"drawers, and hidden doorways. They are adept stonemasons and take great "
+"pride in their ability to build to last. Indeed, the phrase ‘Dwarf-built’ is "
+"a byword for indestructible, whilst the Dwarfish word for ’shoddy’ "
+"translates quite literally as ‘manmade’. Even the Elves consider Dwarf "
+"metalcraft the finest in the world. Elves are less appreciative of Dwarf "
+"taste, which they consider to be extra-ordinarily gaudy and vulgar."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:60
+msgid ""
+"Before the coming of men the Elves established colonies in the Old World so "
+"that they could trade with the Dwarfs. For many years the two races "
+"benefited from this arrangement and both peoples flourished. However, "
+"differences in temperament doomed the relationship to inevitable failure. "
+"The Dwarfs saw the Elves as arrogant and effeminate. The Elves thought the "
+"Dwarfs brutish and vulgar. If Elves had been more tactful and Dwarfs less "
+"prickly things might have turned out differently.  But it was not to be. "
+"Once war began both sides were too proud to concede defeat."
+msgstr ""
+
+#.  was reduced
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:71
+msgid ""
+"After hundreds of years of continuous warfare both races were exhausted. The "
+"Elves returned to Ulthuan and abandoned the Old World. The Dwarfs considered "
+"themselves the victors but their numbers were so depleted that their empire "
+"could barely defend itself. It was at this point that hordes of greenskins "
+"and ratmen attacked the Dwarf realm from above and below.  Many strongholds "
+"were destroyed and others damaged. The once sprawling underground empire was "
+"reduced to embattled enclaves in the mountains."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:85
+msgid ""
+"Today the Dwarf realm is much reduced in size and population.  Men have "
+"established themselves on the lands once fought over by Dwarfs and Elves. "
+"The Dwarfs have learned to trade with men and the two races have forged a "
+"mostly peaceful relationship. It was a combined force of Dwarfs and men that "
+"finally drove the greenskins form from the lands now known as the Empire. It "
+"was Dwarf craftsmanship that raised the first human cities. Relations with "
+"the Elves remain embittered.  Dwarfs never forget injustices against their "
+"own kind and can bear a grudge practically forever. They reserve their most "
+"heartfelt hatred for the greenskins and ratmen who have taken over the ruins "
+"of many strongholds that are rightful property of the Dwarfs."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/dwarfs.adoc:86
+#, no-wrap
+msgid "dwarfs/anvil.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/dwarfs.adoc:88
+#, no-wrap
+msgid "Dwarf army selector"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/dwarfs.adoc:93
+#, no-wrap
+msgid "include::partial$dwarfs.tsv[]\n"
+msgstr ""
+
+#. 3: – changed to :
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:97
+#: en/revolution/modules/armies/pages/empire.adoc:71
+#, no-wrap
+msgid "[[handgunners,†1]]1. Handgunners"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:104
+msgid ""
+"A handgun shot can pierce armour far more easily than an arrow or a crossbow "
+"bolt. Therefore, count enemy Armour values as one worse than normal when "
+"shot by a handgun. One unit of Handgunners per full 1000 points can replace "
+"a unit of Warriors while still counting for the Warrior min/max value. Note "
+"that this unit still counts for max value of Handgunners."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:105
+#, no-wrap
+msgid "[[rangers,†2]]2. Rangers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:128
+msgid ""
+"One unit of Rangers per full 1000 points does not have to be deployed before "
+"the game if the player does not wish to do so. Instead the unit can be "
+"infiltrated onto the battlefield once the game has begun. To infiltrate a "
+"unit, the Dwarf player nominates the point where he wants the Rangers to "
+"appear and issues an ‘infiltration’ order from any character. The character "
+"does not have to be within his normal command range to issue an infiltration "
+"order – the character’s command range is considered to extend over the "
+"entire tabletop when issuing an infiltration order. Treat the order as "
+"issued to the nominated point, and apply any modifiers for distance and "
+"proximity of enemy, but ignore penalties for dense terrain. The nominated "
+"point must lie either on the table within dense terrain or on any base edge "
+"other than the enemy player’s own table edge. If successful, place one stand "
+"on the nominated spot and arrange the rest of the unit into formation around "
+"it. The infiltrated unit cannot be placed so that it touches an enemy unit. "
+"Once deployed, orders can be given to the unit by the same character that "
+"gave the infiltration order if he is within his normal command range, the "
+"infiltrating unit is considered to have used its first order to deploy. If "
+"the infiltration order is failed the unit is not deployed and cannot "
+"infiltrate that turn, it can attempt to infiltrate in a subsequent turn at "
+"the same or a different place."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:131
+msgid ""
+"Although they are infantry, Rangers can pursue any type of retreating enemy."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:132
+#, no-wrap
+msgid "[[troll-slayers,†3]]3. Troll Slayers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:142
+msgid ""
+"A Troll Slayer unit will always use its initiative to charge an enemy if "
+"possible and cannot be given orders instead. They will never use their "
+"initiative to evade. Troll Slayers cannot be driven back by shooting and "
+"never roll for drive backs. Troll Slayers must pursue or advance if "
+"victorious in combat where they are permitted to do so. Troll Slayers are "
+"unaffected by enemy that cause terror in combat – they don’t suffer the −1 "
+"Attack modifier. Troll Slayers positively enjoy fighting monsters – the "
+"bigger the better in fact! Slayers add +1 Attack when fighting against a "
+"Monster stand."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:145
+msgid ""
+"Troll Slayer units earn victory points differently to other units as follows:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:151
+msgid ""
+"If a Troll Slayer unit has any stands remaining at the end of the battle "
+"then the full points value of the unit is awarded to the opposing side as "
+"victory points. It doesn’t matter if the unit has 3, 2 or 1 stand remaining "
+"– if there are any stands left at all the enemy gets the full victory points."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:155
+msgid ""
+"If a Troll Slayer unit is destroyed no victory points are scored by either "
+"side.  +"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:158
+msgid ""
+"Slayer units that have been destroyed still count towards the Dwarf army’s "
+"losses for purposes of calculating withdrawal."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:160
+#, no-wrap
+msgid "[[cannon,†4]]4. Cannon"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:161
+msgid ""
+"Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are "
+"in the main Rulebook."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:162
+#, no-wrap
+msgid "[[flame-cannon,†5]]5. Flame Cannon"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:169
+msgid ""
+"The Flame Cannon is an infernal device that shoots a gout of flame. It has "
+"range of 30cm and its attacks are slightly unusual. Rather than having a "
+"fixed number of attacks it has 2D6 Attacks instead – roll 2 dice and add the "
+"scores together.  But if the Flame Cannon rolls a double then it does not "
+"shoot as expected! Depending on the double rolled something has gone "
+"horribly wrong."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/armies/pages/dwarfs.adoc:170
+#, no-wrap
+msgid "Flame Cannon Misfire Chart"
+msgstr ""
+
+#.  2D6+4 is the clearer way round
+#. type: Table
+#: en/revolution/modules/armies/pages/dwarfs.adoc:179
+#, no-wrap
+msgid ""
+"|Double Rolled |What’s that gurgling noise?!\n"
+"\n"
+"h|1.\n"
+"|The Flame Cannon explodes and is destroyed. No attacks are\n"
+"caused.\n"
+"\n"
+msgstr ""
+
+#.  – replaced by but
+#. type: Table
+#: en/revolution/modules/armies/pages/dwarfs.adoc:196
+msgid ""
+"h|2.  |The Flame Cannon emits an enormous belch of fire inflicting a total "
+"of 2D6+4 attacks on the target before it explodes and destroys itself.  h|"
+"3.  |The Flame Cannon makes a worrying wheezing noise before spewing out an "
+"unusually smoky flame. Six attacks are inflicted this turn but the number of "
+"attacks caused by all further shooting is reduced from 2D6 to 1D6.  h|4.  |"
+"The Flame Cannon splutters and its boiler goes out. The crew scramble around "
+"to re-light it. The Flame Cannon does not shoot this turn but it is "
+"otherwise unaffected."
+msgstr ""
+
+#.  12+D6 changed to D6+12
+#. type: Table
+#: en/revolution/modules/armies/pages/dwarfs.adoc:202
+msgid ""
+"h|5.  |The Flame Cannon chuffs out a great gout of soot, covering the target "
+"in black smoke and hot coals. Ten attacks are inflicted this turn but "
+"otherwise the Flame cannon is unaffected."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/dwarfs.adoc:207
+msgid ""
+"h|6.  |The Flame Cannon lurches in its mountings and heaves forth an "
+"especially huge flame inflicting D6+12 attacks on the target.  The Flame "
+"Cannon is otherwise unaffected"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:210
+msgid "A Flame Cannon can shoot at charging enemy in the usual way."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:211
+#, no-wrap
+msgid "[[gyrocopter,†6]]6. Gyrocopter"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:216
+msgid ""
+"The Gyrocopter is a flying machine, so all the usual flying rules apply. The "
+"model always forms a single unit on its own, must be given orders "
+"individually, cannot be brigaded with other units and cannot be joined by a "
+"character in combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:224
+msgid ""
+"The Gyrocopter’s fast-firing gun is light in weight and fires a small "
+"calibre shot. It counts Armour values as one worse than normal. The "
+"Gyrocopter has 360° vision – the unit can draw line of sight from all edges "
+"of its stand for the purpose of evading and shooting, including shooting at "
+"charging enemies. Note that this unit still needs Line of Sight from its "
+"front edge to charge an enemy."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:225
+#, no-wrap
+msgid "[[hero,†7]]7. Hero"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:231
+msgid ""
+"One Hero in the army may be upgraded to carry an Oathstone for +15 pts. Once "
+"per game, the Hero may use the Oathstone to inspire one unit that he has "
+"joined (except Trollslayers). Both the Hero, and the unit he has joined, "
+"gain +1 attack per stand, and are immune to Terror, until the end of the "
+"combat phase."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:232
+#, no-wrap
+msgid "[[runesmith,†8]]8. Runesmith"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:247
+msgid ""
+"Although they are not wizards and cannot therefore cast spells, Dwarf "
+"Runesmiths can combat the magic of their enemies. If an enemy Wizard who is "
+"within 50cm of the Runesmith casts a spell the Runesmith can attempt to "
+"‘anti-magic’ it. Note that it does not matter what the spell is or where it "
+"is cast, the Runesmith can ‘anti-magic’ it so long as the caster is with "
+"50cm. To determine if this works roll a D6 – on the score of 4, 5 or 6 the "
+"Runesmith has succeeded and the spell doesn’t work, it is dispelled by the "
+"Runesmith’s defiant efforts. If he fails then the Runesmith’s efforts come "
+"to nothing and the spell works as normal. A Runesmith can attempt to anti-"
+"magic any number of spells in a turn, but only one attempt can be made to "
+"anti-magic any individual spell – even if the army includes more than one "
+"Runesmith and several are in range of the enemy Wizard."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dwarfs.adoc:248
+#, no-wrap
+msgid "[[anvil,†9]]9. Anvil"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dwarfs.adoc:259
+msgid ""
+"The army can only include a single anvil and it is incorporated onto the "
+"stand of a Runesmith. If a Runesmith stand includes the Anvil, once per "
+"battle he can add +1 to his dice roll when he attempts to dispel enemy magic "
+"spells using the Dwarf anti-magic ability (see Runesmith). In addition the "
+"Runesmith can strike the Anvil during the Shooting phase of his own turn. "
+"The anvil’s plangent rune-song fills the Dwarfs with even greater resolve! "
+"Roll a D6. On the score of a 4, 5 or 6 all Dwarf units within 20cm of the "
+"Runesmith are unaffected by Terror until the start of the Dwarf player’s "
+"next turn. On a roll of less than 4 there is no effect."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/dwarfs.adoc:260
+#, no-wrap
+msgid "dwarfs/miner.jpg"
+msgstr ""

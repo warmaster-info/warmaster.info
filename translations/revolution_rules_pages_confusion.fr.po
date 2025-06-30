@@ -1,0 +1,430 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. // Significant difference with Bo5A, where the
+#. // charging stand is allowed to wrap around to the
+#. // flank (in the illustrated example)
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:102
+#: en/revolution/modules/rules/pages/combat.adoc:526
+#: en/revolution/modules/rules/pages/combat.adoc:1184
+#: en/revolution/modules/rules/pages/combat.adoc:1187
+#: en/revolution/modules/rules/pages/confusion.adoc:176
+#: en/revolution/modules/rules/pages/confusion.adoc:197
+#: en/revolution/modules/rules/pages/game-values.adoc:322
+#: en/revolution/modules/rules/pages/game-values.adoc:330
+#: en/revolution/modules/rules/pages/game-values.adoc:347
+#: en/revolution/modules/rules/pages/game-values.adoc:363
+#: en/revolution/modules/rules/pages/movement.adoc:429
+#: en/revolution/modules/rules/pages/movement.adoc:432
+#: en/revolution/modules/rules/pages/movement.adoc:481
+#: en/revolution/modules/rules/pages/movement.adoc:484
+#: en/revolution/modules/rules/pages/movement.adoc:507
+#: en/revolution/modules/rules/pages/movement.adoc:663
+#: en/revolution/modules/rules/pages/movement.adoc:720
+#, no-wrap
+msgid "{empty}"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1170
+#: en/revolution/modules/rules/pages/confusion.adoc:181
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:46
+#, no-wrap
+msgid "Moving back"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/confusion.adoc:1
+#, no-wrap
+msgid "Confusion"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:8
+msgid ""
+"As astute readers will have gathered, there are several situations where "
+"units become confused.  Confusion often happens in the Combat phase when a "
+"unit is forced to move into other troops or impassable terrain or in the "
+"Shooting phase when a unit is driven back by missile fire. For convenience, "
+"we have summarised all the circumstances where units can become confused in "
+"this section, [.bo5a]#together with the rules for making way.#"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/confusion.adoc:9
+#, no-wrap
+msgid "When do units become confused?"
+msgstr ""
+
+#.  First one is not in Bo5A.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:13
+#, no-wrap
+msgid "*Burst through by evaders.*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:20
+msgid ""
+"Unengaged friendly units burst through by evaders are automatically "
+"confused. Such units won’t be able to move further during that Command phase "
+"but recover at the end of the Command phase and so suffer no further "
+"penalties that turn. See the xref:movement.adoc#the-path-of-evaders[Movement "
+"section] for more details."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:22
+#, no-wrap
+msgid "*Driven back [.bo5a]#on a 6# by shooting*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:26
+msgid ""
+"A unit is confused if it is driven back by shooting and any dice roll for "
+"the drive back distance is a 6. See the rules for xref:shooting.adoc#driving-"
+"back-enemies[driving back enemies] in the Shooting phase section."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:28
+#, no-wrap
+msgid "*Driven back/falling back into impassable terrain*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:34
+msgid ""
+"If a unit is driven back by shooting into terrain it can’t cross, or is "
+"unable to avoid falling back [.edit]#after combat# into terrain it can’t "
+"cross, it will halt at the edge and is confused on the D6 roll of a 6. See "
+"xref:shooting.adoc#driving-back-enemies[driving back enemies] in the "
+"Shooting phase section."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:36
+#, no-wrap
+msgid "*Driven back/falling back into enemy [.edit]#contact# or combat*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:46
+msgid ""
+"A unit driven back by shooting into, or unable to avoid falling back into, "
+"enemies or any units engaged in combat, whether friends or foe, halts 1cm "
+"away and is automatically confused.  [.bo5a]#If the unit is already within "
+"1cm of enemies/engaged stands, it will not be driven closer but is still "
+"confused.# See xref:shooting.adoc#driving-back-enemies[driving back enemies] "
+"in the Shooting phase section."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:48
+#, no-wrap
+msgid "*Unable to Fall back to 1cm from enemy or combat*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:53
+msgid ""
+"If unit falls back from combat and is unable to move so that it is at least "
+"1cm from any enemy unit, or any friendly unit that is engaged in combat, "
+"then it is confused automatically."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:55
+#, no-wrap
+msgid "*[.bo5a]#Friends making way on a 6#*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:63
+msgid ""
+"If a unit is driven back by shooting, retreats from combat, or is unable to "
+"avoid falling back, through a friendly unengaged unit, the player has the "
+"option of moving the friendly unit to make way. A unit which moves into "
+"friends forcing them to make way will become confused on the D6 roll of a 6. "
+"See the rules for <<making-way>> later in this section."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:65
+#, no-wrap
+msgid "*Driven back through friends who do not make way*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:72
+msgid ""
+"A unit driven back by shooting so that it intersects a friendly unengaged "
+"unit that the player is unable or unwilling to move to make way is "
+"automatically confused. The unit that has been driven back halts upon "
+"contact; the friendly unit does not have to roll for confusion as it is not "
+"making way."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:74
+#, no-wrap
+msgid "*Making way [.bo5a]#on a 6#*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:78
+msgid ""
+"A unit that makes way for another unit is confused on the D6 roll of a 6. "
+"See the rules for <<making-way>> later in this section."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:84
+msgid ""
+"Note that it is quite possible that a unit has to roll multiple times for "
+"confusion as a result of a single move – for example, for making way and for "
+"forcing friends to make way at the same time. In these situations make the "
+"appropriate number of tests."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/confusion.adoc:86
+#, no-wrap
+msgid "Retreats & confusion"
+msgstr ""
+
+#. // WMR original
+#. Stands which are forced to retreat from combat into
+#. unyielding friends, enemies, units in combat and
+#. impassable terrain are destroyed. Hence the possibility
+#. of confusion is not considered! See the Combat phase
+#. section for details on retreats from combat.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:100
+msgid ""
+"Stands which are forced to retreat from combat into unyielding friends, "
+"enemies, units in combat and impassable terrain are destroyed."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:105
+msgid ""
+"In the above cases, the possibility of confusion is not considered as stands "
+"are destroyed instead. See the rules for Combat for details on xref:combat."
+"adoc#retreats[retreats from combat]."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/confusion.adoc:106
+#, no-wrap
+msgid "confusion/hammer-infantry.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/confusion.adoc:108
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:22
+#, no-wrap
+msgid "Confused units"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:117
+msgid ""
+"A confused unit is judged to have become disheartened or disordered. The "
+"troops are unwilling or unable to obey their officers and [.bo5a]#if "
+"engaged# in combat they fight either unenthusiastically or in a poorly "
+"coordinated fashion.  The unit remains confused until the end of its Command "
+"phase. At the end of its Command phase the unit automatically recovers."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:125
+msgid ""
+"A unit which is confused cannot use Initiative and it cannot be issued "
+"Orders. This means that a confused unit will not usually be able to move at "
+"all in the Command phase. See the xref:command.adoc[Command phase] and xref:"
+"flying-units.adoc[Flying Units]. Note that confused units are able to move "
+"in other phases and must do so where the rules require it."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:131
+msgid ""
+"Whilst it is confused, a unit suffers a −1 Attack modifier in combat. Units "
+"commonly become confused during combat if retreating units are forced back "
+"into unengaged friends. See the xref:combat.adoc#retreats[Combat phase]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:134
+msgid ""
+"A confused infantry unit cannot support in combat.  See the rules for xref:"
+"combat.adoc#support[Support in Combat]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:144
+msgid ""
+"When a unit becomes confused, it is a good idea to make this visually "
+"apparent in some way. A convenient method is to ‘jiggle’ the stands into an "
+"irregular formation to represent disorder in the ranks. The unit can then be "
+"rearranged back into formation at the end of its Command phase. If a "
+"confused unit is in combat it is often better to use a marker or turn a "
+"stand round, as disturbing the unit’s formation may make it hard to work out "
+"retreat moves."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/confusion.adoc:145
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:30
+#, no-wrap
+msgid "Making way"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:153
+msgid ""
+"Unengaged units are allowed to make way for friendly troops that have been "
+"driven back, that are retreating or that are themselves making way as a "
+"result of a drive back or retreat. Units that are engaged in combat, "
+"constricted by terrain or unable to move for whatever reason cannot make way."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:157
+msgid ""
+"When a unit makes way, stands can move up to the normal move distance for "
+"their formation. When a unit makes way, it can either *move aside* or *move "
+"back*."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/confusion.adoc:158
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:40
+#, no-wrap
+msgid "Moving aside"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:164
+msgid ""
+"When moving aside, [.bo5a]#those# stands in the path of the friendly unit "
+"are moved and all other stands remain stationary.  The player rearranges the "
+"stands that move around the stands that remain stationary."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:175
+msgid ""
+"If the entire unit lies within the path of the friendly unit then all stands "
+"must be moved, in this case the player begins with the stand that must move "
+"the shortest distance to get out of the path of its friends. This stand is "
+"moved the shortest distance out of the path of its friends without changing "
+"its orientation. The remaining stands are then rearranged into formation "
+"around the first. Note that units that are moving aside can change their "
+"formation as they do so.  See <<f-moving-aside>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/confusion.adoc:177
+#, no-wrap
+msgid "confusion/moving-aside.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/confusion.adoc:179
+#, no-wrap
+msgid "confusion/troll.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:186
+msgid ""
+"When moving back, a unit simply keeps pace with its friend and moves in the "
+"same direction. The move doesn’t necessarily need to be to the unit’s ‘back’."
+msgstr ""
+
+#.  TODO: BO5A is clearer, I don't think it makes sense for
+#.  less than all the stands to be moving back anyway.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:196
+msgid ""
+"In the case of infantry units that are making way for other infantry units, "
+"when all the stands of the unit that is making way lie in the path of the "
+"friendly unit, it can be moved behind its friends and stands can be arranged "
+"into support. See <<f-move-back>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/confusion.adoc:198
+#, no-wrap
+msgid "confusion/move-back.svg"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/confusion.adoc:201
+#, no-wrap
+msgid "Tests for making way"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:210
+msgid ""
+"Making way for friendly troops may result in several units shifting, each "
+"moving aside to allow room for the next unit. All units that move to make "
+"way, plus the original unit, must test for confusion as described already. "
+"The original unit will have to test for each unit that it forces to make "
+"way, so the more units it moves through the more likely it is to become "
+"confused."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:215
+msgid ""
+"Units making way cannot move into contact with enemies or units engaged in "
+"combat. Otherwise, the usual rules apply, e.g. units cannot move over "
+"impenetrable terrain, must maintain formation, and so on."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:222
+msgid ""
+"Units which are unable to make way or which the player refuses to move to "
+"make way are considered to be ‘unyielding friends’. A unit forced against "
+"unyielding friends halts on contact and becomes confused automatically (see "
+"<<when-do-units-become-confused,earlier>>). A unit retreating from combat is "
+"destroyed if forced into unyielding friends (see xref:combat.adoc#blocked-"
+"retreats[Combat, blocked retreats]."
+msgstr ""
+
+#.  Spelling necessarily
+#. type: Plain text
+#: en/revolution/modules/rules/pages/confusion.adoc:228
+msgid ""
+"Note that making way does sometimes give units the opportunity to redress "
+"formations to their benefit.  Making way is not necessarily a disadvantage "
+"other than the attendant risk of confusion."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/confusion.adoc:229
+#, no-wrap
+msgid "confusion/soldier-mace.webp"
+msgstr ""

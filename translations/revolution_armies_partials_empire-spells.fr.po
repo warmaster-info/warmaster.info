@@ -1,0 +1,208 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:142
+#: en/revolution/modules/armies/pages/araby.adoc:218
+#: en/revolution/modules/armies/pages/beastmen.adoc:165
+#: en/revolution/modules/armies/pages/bretonnia.adoc:204
+#: en/revolution/modules/armies/pages/cathay.adoc:173
+#: en/revolution/modules/armies/pages/cathay.adoc:191
+#: en/revolution/modules/armies/pages/chaos.adoc:142
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/goblins.adoc:208
+#: en/revolution/modules/armies/pages/high-elves.adoc:175
+#: en/revolution/modules/armies/pages/kislev.adoc:208
+#: en/revolution/modules/armies/pages/norse.adoc:133
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:212
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:172
+#: en/revolution/modules/armies/partials/empire-spells.adoc:44
+msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:153
+#: en/revolution/modules/armies/pages/albion.adoc:165
+#: en/revolution/modules/armies/pages/araby.adoc:263
+#: en/revolution/modules/armies/pages/beastmen.adoc:179
+#: en/revolution/modules/armies/pages/beastmen.adoc:195
+#: en/revolution/modules/armies/pages/bretonnia.adoc:219
+#: en/revolution/modules/armies/pages/bretonnia.adoc:237
+#: en/revolution/modules/armies/pages/cathay.adoc:207
+#: en/revolution/modules/armies/pages/chaos.adoc:161
+#: en/revolution/modules/armies/pages/chaos.adoc:194
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/daemons.adoc:173
+#: en/revolution/modules/armies/pages/daemons.adoc:188
+#: en/revolution/modules/armies/pages/dark-elves.adoc:168
+#: en/revolution/modules/armies/pages/goblins.adoc:163
+#: en/revolution/modules/armies/pages/goblins.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:160
+#: en/revolution/modules/armies/pages/high-elves.adoc:193
+#: en/revolution/modules/armies/pages/kislev.adoc:194
+#: en/revolution/modules/armies/pages/lizardmen.adoc:207
+#: en/revolution/modules/armies/pages/lizardmen.adoc:260
+#: en/revolution/modules/armies/pages/norse.adoc:144
+#: en/revolution/modules/armies/pages/norse.adoc:196
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:172
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:198
+#: en/revolution/modules/armies/pages/orcs.adoc:147
+#: en/revolution/modules/armies/pages/skaven.adoc:226
+#: en/revolution/modules/armies/pages/skaven.adoc:242
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:143
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:192
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:145
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
+#: en/revolution/modules/armies/partials/empire-spells.adoc:4
+#: en/revolution/modules/armies/partials/empire-spells.adoc:27
+msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/bretonnia.adoc:249
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:188
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:157
+#: en/revolution/modules/armies/partials/empire-spells.adoc:40
+msgid ""
+"The unit can be moved just as if it had received an order in the Command "
+"phase. Character stands that have joined the unit will not move with it: "
+"they remain where they are."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:188
+#: en/revolution/modules/armies/partials/empire-spells.adoc:61
+msgid ""
+"The unit moves at half pace in all situations: even when charging for "
+"example. The unit counts all enemies as terrifying (−1 Attack penalty) even "
+"when it is otherwise immune to terror. If the unit would normally cause "
+"terror then it ceases to do so and counts all enemies as terrifying just "
+"like everyone else. However, if the target is Undead or Daemon it will not "
+"count enemies as terrifying although all other penalties apply as described "
+"(Undead and Daemons are hard to spook)."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/partials/empire-spells.adoc:1
+#, no-wrap
+msgid "Ball of Flame"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:7
+msgid ""
+"_A ball of flame shoots form the Wizard’s outstretched arm burning all in "
+"its path._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:13
+msgid ""
+"Draw an imaginary line 30cm long from the Wizard’s stand in any direction "
+"you wish. The line will pass through any intervening units but not beyond "
+"terrain that would normally stop a missile shot, e.g. over the crest of a "
+"hill, more than 2cm of woodland, and so forth."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:23
+msgid ""
+"Each unit under the line takes three shooting attacks worked out in the "
+"usual way. Note that this spell can easily affect several units and will "
+"affect all units that fall beneath the line (including your own). Unengaged "
+"units can be driven back by a Ball of Flame as with ordinary shooting (even "
+"including friends). Engaged units cannot be driven back by the Ball of Flame "
+"but carry over any hits scored into the first round of combat; any hits "
+"scored count as having been struck in the combat itself."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/partials/empire-spells.adoc:24
+#, no-wrap
+msgid "Voice of Command"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:31
+msgid ""
+"_The Wizard’s voice booms out across the battlefield directing troops above "
+"the tumult of combat with the magical Voice of Command._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:36
+msgid ""
+"The spell can be cast on any unengaged friendly unit within range regardless "
+"of whether the Wizard can see it or not. The spell affects only a single "
+"unit, never a brigade and there is no supporting charge possible."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/partials/empire-spells.adoc:41
+#, no-wrap
+msgid "Weird Enchantment"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:48
+msgid ""
+"_A weird enchantment forms around the target unit and engulfs it in strange "
+"lights, scary nightmares and disorientating special effects._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:52
+msgid ""
+"This spell can be cast on any enemy unit within range regardless of whether "
+"the Wizard can see it or not. The spell lasts until the end of the opposing "
+"player’s following turn."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/partials/empire-spells.adoc:62
+#, no-wrap
+msgid "Teleport"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:65
+msgid "[.cost]#2+ to cast# [.points]#Range N/A#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:69
+msgid ""
+"_With a swirl of his cloak, a crack of thunder and just a hint of maniacal "
+"laughter the Wizard vanishes to reappear anywhere on the battlefield._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/empire-spells.adoc:76
+msgid ""
+"The Wizard is moved to a new position anywhere on the table.  He can leave "
+"or join a unit if he wishes, enabling a Wizard to move into or out of combat "
+"for example. Once the Wizard has moved he can cast a second spell, but note "
+"this must be a different spell and not a further Teleport! Roll to cast the "
+"second spell as normal. A Wizard that Teleports successfully can therefore "
+"potentially cast two spells that turn."
+msgstr ""

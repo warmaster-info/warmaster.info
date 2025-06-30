@@ -1,0 +1,166 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/editors-note.adoc:1
+#, no-wrap
+msgid "Editor’s Note"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:6
+msgid ""
+"Warmaster Revolution (WMR) is a fan-based 2nd edition of rules for the "
+"Warmaster game.  Warmaster stopped being supported by Games Workshop (GW) in "
+"2012, yet there are still many players around the world who love this game "
+"and are playing it regularly."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:11
+msgid ""
+"WMR first started as a Czech community-based project but has since evolved "
+"into a project supported by large parts of the international community. The "
+"Warmaster Revolution Rules Committee (WMRRC), consisting of a number of "
+"players from around the world, was established to discuss rules issues and "
+"potential changes to the army lists."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:18
+msgid ""
+"The main aim of the WMR rule set is to implement the combat system from "
+"Warmaster Ancients – a second generation of the Warmaster rules system. In "
+"brief, this means a limited amount of combat rounds within one Combat Phase, "
+"among many other small fixes and enhancements. WMR also features a set of "
+"optional rules that focus on adding more dynamics to the game. Finally, a "
+"number of minor changes have also been introduced into the existing army "
+"lists."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:22
+msgid ""
+"We believe that WMR offers more dynamic, smooth and “realistic” games than "
+"the original version. But most importantly it shows, that though not "
+"supported by GW any more, the game still lives on."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:24
+msgid "_Make Wargames, not War!_"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/editors-note.adoc:25
+#, no-wrap
+msgid "editors-note/knight.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:29
+msgid ""
+"_In honour of Sergei Kushnir and all the fellow wargamers who had to "
+"experience real war._"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/editors-note.adoc:31
+#, no-wrap
+msgid "Website editor’s note"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/editors-note.adoc:36
+#, no-wrap
+msgid "*This is an unofficial website not associated with the Warmaster Rules Committee.*\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:39
+msgid ""
+"Most of the text on this website is copied verbatim from the https://drive."
+"google.com/file/d/10DNg5O4glnBE2T7p-tZBH2oClyj2Ib71/view?usp=sharing[WMR "
+"Compendium version 2.0.1], available from the https://www.wm-revolution.com/"
+"articles/download.html[Warmaster Revolution website]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:44
+msgid ""
+"Changes to improve the text are marked with dotted underlines or coloured "
+"highlights.  **These changes do not modify any rules.** Most of the changes "
+"rearrange the text in a more logical order, as used in the _Warmaster "
+"Ancients_ and _The Battle of Five Armies_ rulebooks (the two books are very "
+"similar).  For example, xref:command.adoc#initiative-movement[Initiative "
+"movement] is described in the Command phase (where it happens) rather than "
+"at the end of the Movement section, and rules on xref:game-values.adoc#line-"
+"of-sight[Line of sight] are gathered at the end of Game Values."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:46
+msgid ""
+"Text similar to _Ancients_ or _Five Armies_ has been used where it is "
+"clearer or provides additional clarifications compared to the original."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:48
+msgid ""
+"In addition, some wording has been changed to align the rules with the xref:"
+"questions-and-answers.adoc[official Questions and Answers]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:50
+msgid ""
+"[.ancients]#Text taken from the _Warmaster Ancients_ rulebook is marked with "
+"a pinkish underline or border.#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:51
+msgid ""
+"[.bo5a]#Text taken from the _Battle of Five Armies_ rulebook is marked with "
+"a gold underline or border.#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:52
+msgid ""
+"[.qa]#Edits made based on the official “Questions and answers” have a green "
+"underline.#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:53
+msgid ""
+"[.edit]#Other edits are marked with a blue underline or border (as seen in "
+"this section).#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:55
+msgid ""
+"Minor spelling and grammatical errors have also been corrected.  These "
+"corrections are not indicated — some of them are even present in the "
+"original rulebooks.  Small changes to adapt the text for a website are also "
+"unmarked, for example replacing page references (though see xref:page-"
+"numbers.adoc[]) and diagram numbers with hyperlinks."
+msgstr ""

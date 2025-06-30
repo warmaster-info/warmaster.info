@@ -1,0 +1,187 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/battlefields.adoc:218
+#: en/revolution/modules/rules/pages/battlefields.adoc:264
+#: en/revolution/modules/rules/pages/battlefields.adoc:314
+#: en/revolution/modules/rules/pages/battlefields.adoc:378
+#: en/revolution/modules/rules/pages/battlefields.adoc:456
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:61
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:17
+#, no-wrap
+msgid "Victory points"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:1
+#, no-wrap
+msgid "End of the Battle"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:10
+msgid ""
+"The battle rages on until both sides have played a predetermined number of "
+"turns, until one player concedes defeat or until one army is forced to "
+"withdraw from the battlefield. Once the game is over, each side works out "
+"how many victory points it has scored. The higher your score the better you "
+"have done and the player who scores the most is the winner."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:11
+#, no-wrap
+msgid "Turns complete"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:19
+msgid ""
+"Many players like to play to the bitter end, others prefer a strict turn "
+"limit. Players can agree to set a turn limit at the start of the game but "
+"are not obliged to do so. Players preferring a limit can either agree how "
+"many turns to play or roll a dice at the start of the game to determine how "
+"long the battle lasts: 1–2 = 6 turns, 3–4 = 7 turns, 5–6"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:19
+#, no-wrap
+msgid "8 turns. Once both players have taken this number"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:24
+msgid ""
+"of turns, night falls and the battle ends. Alternatively players may agree "
+"on random end during the battle. Roll a dice at the end of 5th, 6th and 7th "
+"turn. On roll 4+ the battle ends. Battle definitively ends at the end of 8th "
+"turn."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:25
+#, no-wrap
+msgid "Player concedes"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:29
+msgid ""
+"A player may surrender at any time he wishes. If he surrenders then his army "
+"earns no victory points."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:30
+#, no-wrap
+msgid "end-of-the-battle/hero-dog.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:32
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:10
+#, no-wrap
+msgid "Withdraw"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:41
+msgid ""
+"An army is forced to withdraw in two circumstances. It must withdraw if the "
+"General is slain or leaves the table for good, and it must withdraw if it "
+"suffers so many casualties that it is judged unable to fight on. In either "
+"case the game is ended. Both sides calculate victory points. If the "
+"withdrawing side scores higher than the enemy the game is a draw."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:46
+#, no-wrap
+msgid ""
+"*General Slain.* If the General is slain or leaves the table\n"
+"for good, the army must withdraw. Rumours of their\n"
+"leader’s death soon reach the troops who promptly beat\n"
+"a hasty retreat from the battlefield.\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:55
+#, no-wrap
+msgid ""
+"*Casualties.* At the start of the game each player makes\n"
+"a note of how many units are in his army. Generals,\n"
+"Wizards and Heroes are not included, even if they ride\n"
+"a monster or chariot. Once the army has lost half of its\n"
+"total number of units rounded up it must withdraw. This\n"
+"is often referred to as the army’s ‘break point’ – the point\n"
+"at which the army withdraws or ‘breaks’. Note that units\n"
+"reduced from 3 stands to 1 count as half a unit lost.\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:58
+msgid ""
+"Once one army withdraws, the game ends immediately.  Victory points are "
+"calculated to establish the victor."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:64
+msgid "Victory points are earned as follows:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:70
+msgid ""
+"Each enemy unit destroyed and each slain character earns its full points "
+"value as given in the Warmaster Army Lists. In the case of characters, this "
+"value includes mounts. In all cases, the value includes magic items."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:77
+msgid ""
+"Each enemy unit reduced from three or more stands to one stand earns half "
+"its points value rounding up to the nearest 5 points and including the value "
+"of any magic item. Enemy units which start the game at one or two stands "
+"must be destroyed to earn victory points."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:83
+msgid ""
+"Some of the battles described later include bonus victory points for "
+"achieving specific objectives. A few battles do away with victory points "
+"altogether and victory is determined purely by objectives achieved."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:88
+msgid ""
+"You can keep track of victory points as you go along or you can wait until "
+"the end of the game and work out the points from the ‘dead heap’. It makes "
+"no difference either way."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:89
+#, no-wrap
+msgid "end-of-the-battle/knight-charge.webp"
+msgstr ""

@@ -1,0 +1,300 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:1
+#, no-wrap
+msgid "Introducing Warmaster"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:9
+msgid ""
+"Warmaster is a game of conflict on a grand scale, fought over an area of "
+"ground that we might imagine to be many miles square. Although our models "
+"are approximately 10mm high this should not be taken as a literal "
+"representation of scale when it comes to the size of the battlefield."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:23
+msgid ""
+"The area occupied by a regiment of models is assumed to encompass hundreds "
+"of warriors including all of their supporting elements such as mules laden "
+"with spare ammunition, surgeons’ wagons, preachers, servants, messengers, "
+"scouts and all the paraphernalia of warfare.  Never mind that the actual "
+"number of warriors depicted is typically about 30–40 in the case of an "
+"infantry regiment – we must imagine the formation whole and glorious as it "
+"marches to battle! This abstraction, by which a few models are taken to "
+"represent many more actual warriors, shouldn’t concern us too much during "
+"play, although it has a direct bearing on the way the rules have been "
+"formulated."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:38
+msgid ""
+"Similarly, when considering the distances moved by our troops it is wise to "
+"think of a standard move of 20cm or 30cm as representing a unit redeploying "
+"into a new position from which it is able to launch attacks or push groups "
+"of warriors forward to shoot, skirmish or scout ahead. Where troops charge "
+"their enemies it would be inappropriate to imagine them running hell for "
+"leather over this entire distance – rather, they march into position, deploy "
+"their ranks appropriately and cover only the very final part of their "
+"manoeuvre at anything like a hurried pace. Hence, movement distances in "
+"Warmaster are dependent upon a unit’s deployment and command structure "
+"rather than on the notional speed of an individual warrior."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:50
+msgid ""
+"Because Warmaster units represent such large bodies of troops, the rules for "
+"combat emphasise the position of units rather than the weapons with which "
+"individual warriors are armed. Troops that are in advantageous terrain or "
+"supported by friends obviously fight more effectively. Even poor quality "
+"troops will fight relatively well in these circumstances. On the other hand, "
+"casualties suffered have a direct bearing on a unit’s effectiveness, not "
+"only making it weaker in combat but also eroding its logistical support, "
+"making it harder for the general to direct as he wishes."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:63
+msgid ""
+"A comparable approach has been taken to missile ranges. In the game, a bow "
+"can shoot as far as 30cm but this represents a longer distance than a bow "
+"could really shoot. This distance is not based on the range of a bow but the "
+"tactical area that a missile armed regiment is able to cover. We might "
+"imagine the regimental commander sending individual detachments forward or "
+"edging the line to and fro to entice the enemy to their doom! For this "
+"reason missile ranges are not based entirely on theoretical weapon ranges – "
+"we are interested in the much broader ability of a missile-armed regiment to "
+"dominate the ground in front of it."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:77
+msgid ""
+"The most important aspect of the game is the role allotted to the armies’ "
+"commanders. Warmaster is based around the ability of generals and their "
+"subordinate commanders to control the action around them. In the game this "
+"is accomplished by dice rolls but in reality we might picture the general "
+"and his staff bent over maps, eagerly awaiting word from their subordinates, "
+"reading reports of distant fighting and dispatching messengers with fresh "
+"orders. Generals influence the action around them by directing troops – "
+"their role as combatants is not especially significant – although a "
+"commander’s immediate presence can inspire troops to that extra bit of "
+"effort at critical moments!"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:80
+#, no-wrap
+msgid "The game rules"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:91
+msgid ""
+"The following pages contain all the rules for the Warmaster game. We suggest "
+"that you read through them before attempting to play but don’t worry about "
+"trying to learn the game by heart. It’s far better to get stuck in! You can "
+"always check out the rules as you go along. After a few games you’ll find "
+"the basic routines are easily remembered whilst more unusual rules can be "
+"looked up as required. The rules are presented with summaries at the "
+"beginning of each section."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:92
+#, no-wrap
+msgid "Dice"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:99
+msgid ""
+"The Warmaster game uses dice to represent the chance element of shooting and "
+"close combat. To save space we refer to an individual six-sided dice as a "
+"‘D6’. So when we instruct you to roll a D6 we are simply asking you to roll "
+"a dice."
+msgstr ""
+
+#.  10 × D6 changed to D6 × 10 to make the difference with 10D6 clearer.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:106
+msgid ""
+"Sometimes you’ll be required to roll two dice and add the scores together, "
+"in which case we will ask you to roll ‘2D6’. Occasionally, you will need to "
+"roll one dice and multiply the score by another number, in which case we "
+"write this as [.edit]#D6 × 10, or D6 × 5# and so on."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:112
+msgid ""
+"In a few instances the rules will also ask you to roll a ‘D3’. This is "
+"simply a convenient way of referring to a random roll of between 1 and 3 "
+"achieved by rolling a normal D6 and halving the score rounding up. So, a D3 "
+"roll of 1–2 = 1, 3–4 = 2, and 5–6 = 3."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:113
+#, no-wrap
+msgid "introducing-warmaster/daemon.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:115
+#, no-wrap
+msgid "Rulers & tape measures"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:123
+msgid ""
+"In the Warmaster game, units move across the battlefield by a measured "
+"distance. When troops shoot it will be necessary to measure to ensure that "
+"they are in range. All distances are given in centimetres. We recommend that "
+"players purchase one or more retractable tape measures for measuring "
+"distances."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:128
+msgid ""
+"During the game, players are permitted to measure as and when they wish. In "
+"many cases, this will be necessary in order to determine which target to "
+"shoot or charge."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:133
+msgid ""
+"Players who prefer to play using inches can do so by halving the value of "
+"all the distances given. This gives slightly longer moves and ranges but "
+"makes no practical difference so long as both sides use inches."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:142
+msgid ""
+"Players will find it useful to have a few coloured dice to use as ‘Hit’ "
+"markers. Any spare dice can be used in this way but visually distinct dice "
+"are better as they reduce the change of the players picking the up and "
+"rolling them during the heat of battle. Alternatively, some players like to "
+"devise suitable ‘Hit’ markers such as card chits."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:148
+msgid ""
+"You may also find it handy to have a few small tokens to temporarily mark a "
+"spot or remind yourself of a unit’s status – card chits, small coins or "
+"tiddly-winks will do just fine."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:150
+#, no-wrap
+msgid "Zone indicator"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:156
+msgid ""
+"A card zone indicator is a useful mechanical guide that enables you to "
+"easily work out front, side and rear zones for individual stands as "
+"described in the rules for xref:movement.adoc#the-charge-move[the charge "
+"move]."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:157
+#, no-wrap
+msgid "introducing-warmaster/zone-indicator.svg"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:160
+#, no-wrap
+msgid "A plea"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:175
+msgid ""
+"When playing a tabletop wargame, it is impossible to be absolutely precise "
+"when it comes to measurements.  Stands can get knocked out of position, "
+"terrain can fall over, and what happens when the cat decides to help doesn’t "
+"bear thinking about! No matter how careful the players are, it can often "
+"prove practically impossible to tell if a unit is in range or out of range, "
+"in sight or out of sight, and so on. In marginal cases, where a judgement is "
+"difficult, it is fairest and most convenient to let a random dice roll "
+"decide – 1, 2, 3 one way, 4, 5, 6 the other. This will resolve the situation "
+"and allow the game to continue in good humour."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:185
+msgid ""
+"Many players find the same kind of random roll a perfectly good way of "
+"solving niggling rules disputes during play. If you’re not exactly sure of "
+"how to interpret a rule and can’t find the answer easily in the manual, then "
+"rather than bogging down the game, just roll a dice to decide and get on "
+"with the battle. You can always check afterwards or come up with a more "
+"considered interpretation ready for the next game."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:186
+#, no-wrap
+msgid "Get stuck in"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:194
+msgid ""
+"Although the scope and pageant of the game can only be realised by playing "
+"with miniature armies, for the purpose of learning the rules you might want "
+"to improvise by making your own troop stands from card.  This will enable "
+"you to get a feel of how the game works right from the start."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:199
+msgid ""
+"Similarly, you may want to field unpainted models that you buy. You can "
+"paint your army later but this will take time so it’s best to learn the game "
+"and fight a few battles first."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:203
+msgid ""
+"Nothing else is needed, though a pen and paper are useful for making notes "
+"and a nice hot cup of tea is always a good idea!"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:204
+#, no-wrap
+msgid "introducing-warmaster/wolves.webp"
+msgstr ""

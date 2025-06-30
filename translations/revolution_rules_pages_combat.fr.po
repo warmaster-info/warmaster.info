@@ -1,0 +1,2199 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#.  TODO: bo5a Open, Defended and Fortified box example
+#. type: Title ===
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:115
+#: en/revolution/modules/rules/pages/combat.adoc:376
+#: en/revolution/modules/rules/pages/game-values.adoc:224
+#: en/revolution/modules/rules/pages/shooting.adoc:214
+#, no-wrap
+msgid "Armour"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:20
+#: en/revolution/modules/rules/pages/combat.adoc:1
+#: en/revolution/modules/rules/pages/game-sequence.adoc:72
+#, no-wrap
+msgid "Combat"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:14
+msgid ""
+"Combat represents close quarter fighting between enemies whether it is "
+"continuous hand-to-hand combat, very short-range missile fire or a "
+"combination of both. In some cases we might imagine units clashing "
+"repeatedly for brief periods which are punctuated by momentary pauses in "
+"which the combatants gather their energy. This is especially likely when "
+"fighting over broken ground such as woods or amongst ruins or when troops "
+"are assaulting fortifications. In any case, all close quarter fighting is "
+"represented by means of the rules in this section."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:15
+#, no-wrap
+msgid "[.bo5a]#Combat sequence#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:27
+msgid ""
+"In the Combat phase, both players work out all the combat engagements on the "
+"battlefield. See below under <<combat-engagement>> for a definition."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:33
+msgid ""
+"Each combat engagement must be completed before going on to the next. Combat "
+"engagements are fought in rounds and an engagement can last for one or more "
+"rounds depending on the result."
+msgstr ""
+
+#. // WMR original
+#. Work
+#. out one engagement at a time. The player whose turn it
+#. is nominates which engagements to fight first.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:49
+msgid ""
+"[.bo5a]#Where there are several engagements to be fought, the player whose "
+"turn it is decides which engagements to fight next as the phase progress.  "
+"However,# if at the end of an engagement a victorious unit *advances* into "
+"another engagement or initiates a new engagement by advancing into a fresh "
+"enemy then work out that engagement next and include the advancing unit "
+"amongst those fighting (see <<advance>>)."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat.adoc:58
+#, no-wrap
+msgid ""
+"|1\n"
+"|*Attacks*\n"
+"2+|Work out the attacks for both sides. Note any hits taken by each unit\n"
+"\n"
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:58
+#, no-wrap
+msgid "3+|2"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat.adoc:68
+msgid ""
+"|*Results* 2+|If one side scores more hits than the other, or destroys it "
+"completely, it wins. If both sides score the same number of hits the "
+"engagement is a draw.  >|Draw 2+<|Both sides fall back and the combat "
+"engagement ends.  >|Win 2+<|The loser retreats. The winner can fall back, "
+"stand or pursue. If all enemies are destroyed, the winner can stand, fall "
+"back or advance."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:68
+#, no-wrap
+msgid "3+|3"
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:69
+#, no-wrap
+msgid "3+|*Aftermath*"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat.adoc:79
+#, no-wrap
+msgid ""
+">|Pursuit |*First round.* If winner pursues at end of first round, fight second round of combat. Both sides attack and work out results as before.\n"
+"*Second round.* If winner pursues at end of second round, move combatants into position ready to continue fighting in following turn. This is called an *unresolved combat.* \n"
+">|Stand/Fall back <|If winner stands or falls back, then the combat engagement ends. \n"
+">|Advance <|The winner advances, initiating a new engagement or joining an existing one."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:82
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:4
+#, no-wrap
+msgid "Combat engagement"
+msgstr ""
+
+#. // WMR original after "initiative".
+#. Units using their initiative must
+#. always move against the nearest enemy they can see.
+#. Units acting on an order can move against any enemy
+#. within reach and which they can see.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:98
+msgid ""
+"Units can move into contact with enemy units during their Command phase "
+"either by means of an order or by using their initiative.  In both cases, "
+"the move is referred to as a charge. Once units are touching an enemy unit "
+"they are said to be engaged in combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:101
+msgid ""
+"Once units have engaged in combat they might typically be arranged as shown "
+"in <<f-combat-engagement>>."
+msgstr ""
+
+#. // Significant difference with Bo5A, where the
+#. // charging stand is allowed to wrap around to the
+#. // flank (in the illustrated example)
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:102
+#: en/revolution/modules/rules/pages/combat.adoc:526
+#: en/revolution/modules/rules/pages/combat.adoc:1184
+#: en/revolution/modules/rules/pages/combat.adoc:1187
+#: en/revolution/modules/rules/pages/confusion.adoc:176
+#: en/revolution/modules/rules/pages/confusion.adoc:197
+#: en/revolution/modules/rules/pages/game-values.adoc:322
+#: en/revolution/modules/rules/pages/game-values.adoc:330
+#: en/revolution/modules/rules/pages/game-values.adoc:347
+#: en/revolution/modules/rules/pages/game-values.adoc:363
+#: en/revolution/modules/rules/pages/movement.adoc:429
+#: en/revolution/modules/rules/pages/movement.adoc:432
+#: en/revolution/modules/rules/pages/movement.adoc:481
+#: en/revolution/modules/rules/pages/movement.adoc:484
+#: en/revolution/modules/rules/pages/movement.adoc:507
+#: en/revolution/modules/rules/pages/movement.adoc:663
+#: en/revolution/modules/rules/pages/movement.adoc:720
+#, no-wrap
+msgid "{empty}"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:103
+#, no-wrap
+msgid "combat-phase/combat-engagement.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:109
+msgid ""
+"A combat engagement can sometimes involve several units on one or both "
+"sides. All interlinked units are considered to be fighting in the same "
+"engagement. See <<f-interlinked-engagement>>."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:110
+#, no-wrap
+msgid "Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:111
+#, no-wrap
+msgid "combat-phase/interlinked-engagement.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:116
+#, no-wrap
+msgid "Moving chargers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:120
+msgid "→ Moved to xref:movement.adoc#the-charge[Movement, The charge]."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:121
+#, no-wrap
+msgid "Subsections moved (click to expand)"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:125
+#: en/revolution/modules/rules/pages/movement.adoc:373
+#, no-wrap
+msgid "Sequence of charges"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:129
+msgid "→ Moved to xref:movement.adoc#sequence-of-charges[Sequence of charges]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:131
+#: en/revolution/modules/rules/pages/movement.adoc:397
+#, no-wrap
+msgid "Enemy in sight"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:135
+msgid "→ Moved to xref:movement.adoc#enemy-in-sight[Enemy in sight]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:137
+#, no-wrap
+msgid "Zones"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:141
+msgid ""
+"→ Moved to xref:movement.adoc#front-flank-and-rear[Front, flank and rear]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:143
+#: en/revolution/modules/rules/pages/movement.adoc:455
+#, no-wrap
+msgid "The charge move"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:147
+msgid "→ Moved to xref:movement.adoc#the-charge-move[The charge move]."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:149
+#: en/revolution/modules/rules/pages/movement.adoc:512
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:224
+#, no-wrap
+msgid "Forming a battle line"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:153
+msgid ""
+"→ Moved to xref:movement.adoc#forming-a-battle-line[Forming a battle line]."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:155
+#: en/revolution/modules/rules/pages/movement.adoc:546
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:255
+#, no-wrap
+msgid "Contact with other enemy"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:159
+msgid ""
+"→ Moved to xref:movement.adoc#contact-with-other-enemy[Contact with other "
+"enemy]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:161
+#: en/revolution/modules/rules/pages/movement.adoc:614
+#, no-wrap
+msgid "Exceptions & anomalies"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:165
+msgid ""
+"→ Moved to xref:movement.adoc#exceptions-anomalies[Exceptions & anomalies]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:167
+#: en/revolution/modules/rules/pages/movement.adoc:623
+#, no-wrap
+msgid "Unable to contact centre-to-centre"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:171
+msgid ""
+"→ Moved to xref:movement.adoc#unable-to-contact-centre-to-centre[Unable to "
+"contact centre-to-centre]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:173
+#: en/revolution/modules/rules/pages/movement.adoc:640
+#, no-wrap
+msgid "Unable to form a battle line"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:177
+msgid ""
+"→ Moved to xref:movement.adoc#unable-to-form-a-battle-line[Unable to form a "
+"battle line]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:179
+#: en/revolution/modules/rules/pages/movement.adoc:666
+#, no-wrap
+msgid "Blocked edges"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:183
+msgid "→ Moved to xref:movement.adoc#blocked-edges[Blocked edges]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:185
+#: en/revolution/modules/rules/pages/movement.adoc:694
+#, no-wrap
+msgid "Pinned targets"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:189
+msgid "→ Moved to xref:movement.adoc#pinned-targets[Pinned targets]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:191
+#: en/revolution/modules/rules/pages/movement.adoc:723
+#, no-wrap
+msgid "Irregular formations"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:195
+msgid ""
+"→ Moved to xref:movement.adoc#irregular-formations[Irregular formations]."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:197
+#: en/revolution/modules/rules/pages/movement.adoc:744
+#, no-wrap
+msgid "Enveloping charge"
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:201
+msgid "→ Moved to xref:movement.adoc#enveloping-charge[Enveloping charge]."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:204
+#, no-wrap
+msgid "combat-phase/dwarf-slayer-hero.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:206
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:9
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:12
+#, no-wrap
+msgid "Attacks"
+msgstr ""
+
+#.  "can" removed to align with Q&A.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:213
+msgid ""
+"Regardless of whose turn it is, all units which are engaged in [.qa]#combat "
+"fight# in the Combat phase.  [.bo5a]#Both sides make their attacks and "
+"either side can potentially win any combat engagement.#"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:214
+#: en/revolution/modules/rules/pages/shooting.adoc:11
+#, no-wrap
+msgid "Attack value"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:221
+msgid ""
+"All stands have an Attack value which determines how effective they are in "
+"combat. The higher the value, the better combatants fight. Some troops have "
+"two values separated by a slash. The first is used for close combat and the "
+"second for shooting."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:231
+msgid ""
+"Work out the attacks of one unit at a time. It is usual for the player whose "
+"turn it is to complete his attacks before his opponent as this ‘feels "
+"right’, especially where units charge dramatically into combat! Strictly "
+"speaking, it makes no difference who goes first as stands which fall "
+"casualty are allowed to fight back before they are removed."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:241
+msgid ""
+"Where multiple units are engaged on each side, it is most straightforward to "
+"work out all the attacks from one unit at a time. This makes it easier to "
+"remember which stands have fought and which have not. Where convenient, "
+"players may prefer to resolve attacks from several units at once if they are "
+"all fighting the same enemy unit – this saves rolling different batches of "
+"dice.  If there is any possible doubt about who is fighting whom, deal with "
+"each unit one at a time to avoid ambiguity."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:242
+#, no-wrap
+msgid "combat-phase/stands-touching.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:248
+msgid ""
+"Every stand touching an enemy stand can fight, even if it is only touching "
+"corner-to-corner or at a side or rear edge. Hits inflicted are always "
+"accumulated against the target unit as a whole and not against individual "
+"stands."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:256
+msgid ""
+"Each stand must direct all of its attacks against a single enemy unit – it "
+"is not permitted to divide a stand’s attack between two different enemy "
+"units. Where a stand can potentially attack one of two or more enemy units, "
+"the player must declare where all of the unit’s stands are attacking before "
+"rolling dice – this prevents combats becoming bogged down into stand-by-"
+"stand dice rolls."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:259
+msgid ""
+"Stands strike against enemy units as dictated by the following list of "
+"priorities:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:265
+msgid ""
+"A stand will *always* strike against an enemy unit touching its own front "
+"edge if possible. If a stand is touching more than one enemy unit to its "
+"front, the player can decide which to attack."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:271
+msgid ""
+"If a stand is not touching the enemy to its front, then it must direct its "
+"attacks against an enemy unit to its *side or rear edge* if possible.  If a "
+"stand is touching more than one enemy unit to its side and/or rear edges, "
+"the player can decide which to attack."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:278
+msgid ""
+"If a stand is *only* touching an enemy corner-to-corner then it can direct "
+"its attacks against any unit it is touching. Note that where a stand’s edge "
+"is touching an enemy, it cannot direct attacks corner-to-corner: corner-to-"
+"corner attacks are not allowed where there is edge contact."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:279
+#, no-wrap
+msgid "combat-phase/dark-elves.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:281
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:62
+#, no-wrap
+msgid "Attack modifiers"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:286
+msgid ""
+"The *Attack value* of a stand is modified by tactical factors as shown "
+"below. These represent different tactical situations by means of bonuses or "
+"penalties."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:290
+#, no-wrap
+msgid "Charging against enemy in the open"
+msgstr ""
+
+#.  Extra space e.g.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:299
+msgid ""
+"This bonus applies to all stands where a unit charges into combat. The bonus "
+"only applies in the first combat round of an engagement. The bonus does not "
+"apply if the enemy are not in the open, i.e. when a stand is fighting "
+"against infantry or artillery in a defended or fortified position as "
+"described later."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:300
+#, no-wrap
+msgid "Monster/chariot charging"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:306
+msgid ""
+"This bonus is applied to Monster and Chariot stands charging in addition to "
+"the basic charging bonus. This means that Monsters and Chariots receive a "
+"total bonus of +2 when charging against enemy stands in the open."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:307
+#, no-wrap
+msgid "Pursuit attack"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:315
+msgid ""
+"This bonus applies to stands from pursuing units that won the previous round "
+"of combat and are attacking enemy units that retreated from the same "
+"engagement.  Pursuit bonuses only apply in subsequent rounds of combat, "
+"including the first round of unresolved combats fought in the previous turn."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:316
+#, no-wrap
+msgid "Pursuit attack per full 3cm"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:325
+msgid ""
+"This bonus applies to stands whose units pursue enemies that have retreated "
+"by 3cm or more in the previous round of the same engagement. The bonus is "
+"added to the standard pursuit bonus. Each full 3cm that the enemy retreats "
+"adds a further +1. So a unit which forces its enemy to retreat 6cm gets a +1 "
+"pursuit bonus plus a further +1 for each full 3cm, making +3 in total."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:326
+#, no-wrap
+msgid "Fighting terrifying enemy"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:335
+msgid ""
+"This penalty applies to all individual stands which are touching at least "
+"one stand of terrifying enemy.  Terrifying enemy include especially scary "
+"creatures such as massive Dragons. The penalty doesn’t apply to units which "
+"are terrifying themselves... you can’t terrify a terrifying creature! "
+"Creatures which terrorise their foes are indicated in the Army List section."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:336
+#, no-wrap
+msgid "Enemy facing own side or rear"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:344
+msgid ""
+"This penalty applies to individual stands which have an enemy stand’s front "
+"edge or front corner touching their own side edge, rear edge or rear corner. "
+"Note that only enemy front edges and corners impose this penalty.  Opposing "
+"stands touching side to side don’t impose a mutual penalty for example."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:345
+#, no-wrap
+msgid "Confused"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:351
+msgid ""
+"This penalty applies to all stands in a confused unit.  Units can become "
+"confused as a result of missile fire or by moving into other friendly units "
+"or impassable terrain. See the section on xref:confusion.adoc[Confusion]."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:352
+#, no-wrap
+msgid "The last ditch dice"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:357
+msgid ""
+"Attack modifiers can potentially reduce a stand’s Attack to zero. If this "
+"happens, then a unit always rolls one Attack dice regardless."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:358
+#, no-wrap
+msgid "combat-phase/harpy-hero.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:360
+#, no-wrap
+msgid "How to calculate damage"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:366
+msgid ""
+"To work out the damage inflicted by a unit in combat, begin by adding up the "
+"total Attack value of its fighting stands. For example, a unit of three "
+"stands each with an Attack value of 3 has a total value of 9."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:372
+msgid ""
+"The total Attack value is the number of dice rolled to determine how many "
+"hits are scored on the enemy. The minimum dice roll required for a hit is "
+"normally four. So, eight dice rolls of 1, 2, 2, 3, 4, 4, 6 and 6 equal four "
+"hits on the enemy."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:375
+msgid ""
+"If enemies are in defended or fortified positions, the roll needed to hit "
+"will be 5+ and 6 respectively. See <<defended-fortified-troops>>."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:388
+msgid ""
+"As already described for shooting, if a unit has armour then the number of "
+"hits scored by the enemy might be reduced. A unit’s Armour value is "
+"expressed as a number: 6+, 5+, 4+ or 3+. This indicates the minimum dice "
+"score needed to nullify a hit. Roll one dice for each hit scored on the "
+"unit. Any dice that rolls equal to or more than the Armour value of the unit "
+"will nullify or ‘save’ one hit. Hits nullified in this way are ignored – "
+"they are not struck on the target and no further account is taken of them."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:391
+#: en/revolution/modules/rules/pages/command.adoc:468
+#, no-wrap
+msgid "Casualties"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:398
+msgid ""
+"A stand can take a number of hits before it is destroyed, as described in "
+"the xref:shooting.adoc#removing-casualties[Shooting rules]. This varies "
+"depending upon how tough and determined the unit is. Men have a value of 3, "
+"for example, whilst Dwarfs, an infuriatingly hardy folk, have a value of 4."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:413
+msgid ""
+"Record hits suffered by each unit during the combat round. Once the round is "
+"complete, units that have suffered hits equal to or greater than their Hits "
+"value must remove one or more stands as casualties. The player who lost the "
+"combat should remove his casualties first and then the winner. In the case "
+"of a draw roll a dice and the lowest score removes his casualties first. "
+"Stands are removed one at a time from the edge of the formation so that the "
+"formation is not broken at any time, but otherwise the player can choose "
+"which of his stands to remove. Stands that are not touching an enemy can be "
+"removed as casualties if the player wishes, in which case it is assumed that "
+"casualties occur at the front and warriors press forward to take their place."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:423
+msgid ""
+"Where a unit takes too few hits to destroy a stand or if it suffers enough "
+"to remove a stand with some remaining, record any outstanding hits. This is "
+"most easily done by placing a distinctively coloured dice directly behind "
+"the unit to show the number of hits it has taken. If combats involve several "
+"units on each side, it is advisable to use a notepad and paper to keep a "
+"record of casualties.  Alternatively, you can devise suitable markers or "
+"simply remember, whatever you find the most convenient."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:431
+msgid ""
+"At the end of the Combat phase, odd hits are discounted from units that are "
+"no longer engaged. Hits are only recorded from one turn to the next for "
+"units that remain engaged in an unresolved combat at the end of the Combat "
+"phase. Discounting hits in this way can be thought of as units recovering "
+"their combat efficiency during lulls in the fighting."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:439
+msgid ""
+"Note that it is important to record hits through the Combat phase and only "
+"discount outstanding hits once all engagements are finished. This is because "
+"it is possible for units to become involved in a second engagement, for "
+"example as a result of an advance. In such a situation, any hits accumulated "
+"in a previous engagement are carried forward into the next."
+msgstr ""
+
+#.  TODO: Bo5A showing coloured dice
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:442
+#, no-wrap
+msgid "combat-phase/wolf-rider.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:444
+#, no-wrap
+msgid "Combat results"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:448
+msgid ""
+"After [.bo5a]#all# units have attacked it is time to work out the result. If "
+"one side is destroyed then the combat is automatically won by the survivor, "
+"otherwise compare the number of hits inflicted by both sides."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:452
+msgid ""
+"In cases where a unit has been struck with more hits than it can actually "
+"take (for example a unit with a total of nine hits might suffer twelve) then "
+"only count actual hits taken. Excess hits are ignored for purposes of "
+"working out combat results."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:456
+#, no-wrap
+msgid "Hits Equal – Draw!"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:459
+msgid ""
+"If both sides score the same number of hits, the result is a draw and both "
+"sides must *fall back.*"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:464
+msgid ""
+"To find out how far a unit falls back, roll three dice. The unit can fall "
+"back up to the total score of the dice. For example, on a roll of 2, 4 and 6 "
+"the unit falls back between 0cm and 12cm but must end up at least 1cm from "
+"enemy units or any units engaged in combat. Once the combatants have "
+"disengaged the combat is over. See <<fall-backs>> for more details."
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:468
+msgid ""
+"The exception to the fall back rule is that defended or fortified units can "
+"stand their ground instead of falling back. Players may decide to fall back "
+"with such units if they prefer. See <<defended-fortified-troops>> for rules "
+"about fighting in defended and fortified positions."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:470
+#, no-wrap
+msgid "One Side Scores More Hits – Win!"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:473
+msgid "If one side scores more hits than the other, it wins the combat round."
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:478
+msgid ""
+"The loser must retreat 1cm for each hit taken in excess of hits inflicted. "
+"So if one side scores three hits and the other scores one hit, the second "
+"side loses by two and must retreat 2cm. See <<retreats>> for further details "
+"about how to move retreating units."
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:481
+msgid ""
+"[.bo5a]#The winner# has a choice of what to do [.bo5a]#once the enemy has "
+"retreated#. Victorious units can fall back, stand their ground or pursue [."
+"bo5a]#a retreating enemy#. If a unit destroys its enemy, it cannot pursue "
+"but can advance instead."
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:483
+#, no-wrap
+msgid "*Fall Back.* The victorious unit falls back up to 3D6cm (see <<fall-backs>>). The combat is over.\n"
+msgstr ""
+
+#.  TODO link maybe
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:486
+#, no-wrap
+msgid "*Stand its Ground.* The victorious unit remains where it is. The combat is over.\n"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:494
+#, no-wrap
+msgid ""
+"*Pursue.* The victorious unit is moved back into contact and a further round of pursuit combat is fought\n"
+"in the same way as before. See <<pursuit>>. Any hits already scored are carried over into the next\n"
+"pursuit round. Hits carried over don’t count towards working out who wins the next round but they\n"
+"might result in the loss of stands due to cumulative damage. No charge bonus is awarded during a\n"
+"pursuit but there is a +1 bonus for pursuit itself and further bonuses for pursuing enemy that have\n"
+"retreated 3cm or more. If a defeated enemy infantry unit has been forced to retreat from a defended\n"
+"or fortified position then it is no longer defended or fortified.\n"
+msgstr ""
+
+#.  "See Enemy Destroyed" is actually "Pursuit and destroyed enemy"
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:498
+#, no-wrap
+msgid ""
+"*Advance.* The victorious unit can advance up to 20cm either initiating a new engagement or joining an\n"
+"existing one. See [.edit]#<<pursuit-and-destroyed-enemy>>#.\n"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:502
+#, no-wrap
+msgid "Support"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:510
+msgid ""
+"[.qa]#Infantry stands adjacent to fighting infantry units affect combat "
+"results.# This represents the ability of a unit to threaten the enemy’s "
+"flanks or to provide solidity through depth. Only *infantry* can support and "
+"be supported in this way."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:513
+msgid ""
+"A stand can only support if it is not touching an enemy and the unit it "
+"belongs to is not confused."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:525
+msgid ""
+"[.bo5a]#A supporting# stand must be aligned either exactly behind or exactly "
+"beside a stand that fought to its front during the combat round. The "
+"supporting stand must also be facing in the same direction as the supported "
+"stand as shown in the accompanying diagrams. Note that a stand touched by "
+"enemy to its front and sides or rear during the combat round can be "
+"supported, but a stand touched by enemy only to its sides or rear cannot. A "
+"supporting stand can be from the same unit as the fighting stand it supports "
+"or from a completely different unit. See <<f-supporting-troops>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:527
+#, no-wrap
+msgid "combat-phase/supporting-troops.svg"
+msgstr ""
+
+#.  spelling corrected
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:540
+msgid ""
+"For each supporting stand in the combat engagement *add +1* to the combat "
+"result. For example, if a side inflicts five hits on the enemy and has three "
+"supports, its combat result is 8. Note that supports merely add to the "
+"result and not to the actual number of hits inflicted.  Work out how many "
+"supporting stands each side has once all attacks have been struck but before "
+"removing causalities. Units benefit from support throughout a combat round "
+"even where causalities might remove supported or supporting stands."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:541
+#, no-wrap
+msgid "Supporting combat"
+msgstr ""
+
+#.  Bo5a rules differ
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:550
+msgid ""
+"Units are automatically included in any combat engagement where they "
+"support. This means they are affected by the combat result and the usual "
+"options apply. This is covered in the following sections under <<retreats>> "
+"and <<winners>>."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:556
+msgid ""
+"Sometimes, a unit finds it is supporting two different friendly units "
+"fighting what would otherwise be two separate combat engagements. Even in "
+"this case, there is only one combat engagement – not two. All the units are "
+"interlinked via the supporting unit."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:559
+#: en/revolution/modules/rules/pages/movement.adoc:567
+#, no-wrap
+msgid "Supporting charges"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:563
+msgid ""
+"→ Moved to xref:movement.adoc#supporting-charges[Movement, Supporting "
+"charges]."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:564
+#, no-wrap
+msgid "Retreats"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:572
+msgid ""
+"A unit that loses a combat round must retreat by the difference in the "
+"combat result in centimetres. For example, if one side scores four hits and "
+"the other side scores one, the losing unit retreats 3cm. Remember to add any "
+"support from both sides before calculating the result."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:584
+msgid ""
+"If several units are engaged on the losing side, then the retreat distance "
+"must be reduced to take into account the potentially huge difference in "
+"combat results. To work out the retreat distance, divide the difference in "
+"the combat result by the number of units on the *losing* side. Remember to "
+"include any supporting units and any units that have been destroyed if they "
+"fought that round.  Round any fractions up to the nearest centimetre – the "
+"minimum possible retreat is therefore 1cm. For example if there are three "
+"units on the losing side and the difference is 6, the losing unit retreat by "
+"2cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:589
+msgid ""
+"If two or more units are retreating from the same engagement then move the "
+"units one at a time. The retreating player can decide in which order to move "
+"the units."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:590
+#, no-wrap
+msgid "combat-phase/retreat-1.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:598
+msgid ""
+"A retreating unit moves away from the enemy without changing formation or "
+"the direction it is facing. It will normally be apparent where to move the "
+"unit to. In most cases, all enemy stands will be aligned solely against the "
+"unit’s front, side or rear and the retreating unit simply moves in the "
+"opposite direction."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:599
+#, no-wrap
+msgid "combat-phase/retreat-2.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:612
+msgid ""
+"The direction of the retreat may be less clear if the unit is fighting enemy "
+"from several directions at the same time.  In this case, the unit retreats "
+"from the greatest number of touching enemy stands.  Enemy stands touching "
+"corner-to-corner count as touching the edge that is parallel to the enemy "
+"stand’s front.  [.bo5a]#If the retreating unit has an equal number of enemy "
+"stands in# [.edit]#the most common direction,# the retreating player can "
+"nominate which of the possible directions it will retreat."
+msgstr ""
+
+#.  TODO possible additional diagram
+#.  Spelling fixed
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:619
+msgid ""
+"If there are no enemy stands touching the unit due to removing causalities, "
+"retreat from the closest enemy that was part of the combat engagement."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:626
+msgid ""
+"In a few cases, a unit’s formation may be arranged so that the direction of "
+"the retreat is in doubt. In this case, identify the retreating *stand* "
+"touching the most enemy stands and work out the unit’s retreat relative to "
+"that.  If all stands face the same number of enemy stands, the player can "
+"decide which to use."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:636
+msgid ""
+"If all of a unit is supporting another, e.g. if it is placed in a second "
+"line, then none of its stands are touching an enemy.  In this case, the "
+"friendly supported unit(s) determine the direction of retreat. Work out the "
+"direction of retreat for the fighting units and then move supporting units "
+"back in the same direction. This means fighting and supporting units will "
+"effectively move as one, although it will still be necessary to move the "
+"units one at a time to make sure that stands have a path to their final "
+"position."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:637
+#, no-wrap
+msgid "combat-phase/fan.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:639
+#, no-wrap
+msgid "Blocked retreats"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:645
+msgid ""
+"A retreating stand is destroyed if its retreat move is blocked. A retreat is "
+"considered *blocked* if any part of the stand’s base is obliged to move "
+"through any of the following:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:647
+msgid "Enemy stands"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:648
+msgid "Impassable terrain"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:652
+msgid ""
+"Stands of other friendly units that are engaged in combat (including "
+"friendly units that have already retreated from the same combat during that "
+"round)"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:656
+msgid ""
+"Stands from unengaged friendly units that do not make way — [.bo5a]#friendly "
+"units can normally move out of the path of retreating units, and this is "
+"called xref:confusion.adoc#making-way[making way].#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:660
+msgid ""
+"Stands that are destroyed are removed immediately without reducing the "
+"number of outstanding hits on their unit."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:661
+#, no-wrap
+msgid "combat-phase/retreat-blocked.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:670
+msgid ""
+"If unengaged friendly units lie in the way of a unit’s retreat then these "
+"can be moved. The unengaged unit is said to *make way*. It is up to the "
+"player whether the blocking unit makes way or not. Units which make way and "
+"retreating units forcing others to make way can become confused as a result. "
+"See the Confusion section for further xref:confusion.adoc#confused-"
+"units[rules for confused units] and xref:confusion.adoc#making-way[making "
+"way]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:679
+msgid ""
+"A stand’s retreat can potentially bring it into contact with an enemy stand "
+"without intersecting with it. For example a stand retreats 1cm into an enemy "
+"stand exactly 1cm away. In this case, the retreat is blocked if the enemy "
+"units is not part of the same combat engagement. If the enemy unit is part "
+"of the same combat engagement, the retreat is *not* blocked and the move is "
+"covered by the rules for incidental contacts described later."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:685
+msgid ""
+"Blocked retreats often occur where units are partially surrounded, for "
+"example fighting to the front and rear at the same time. Blocked retreats "
+"also become common in large engagements as friendly units often get in each "
+"other’s way."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:692
+msgid ""
+"[.edit]#On# rare occasion a unit of three stands may be split when only the "
+"middle stand has blocked retreat. If such a unit is out of coherency at the "
+"end of the turn and no longer engaged in combat, one of the remaining stands "
+"is automatically destroyed. [.edit]#The# owning player decides which [."
+"edit]#stand to remove#."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:693
+#, no-wrap
+msgid "Retreating units and incidental contacts"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:703
+msgid ""
+"A stand can potentially retreat into contact – but not intersect – an enemy "
+"stand from a unit taking part in the same combat engagement. This often "
+"happens when a stand is facing enemies to its front and side, because by "
+"retreating from one it must move across the front edge of another. In such a "
+"case the retreat is not blocked and the stand is not destroyed. What happens "
+"next will depend on what the winner decides to do."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:704
+#, no-wrap
+msgid "combat-phase/retreat-incidental-contact.svg"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:706
+#, no-wrap
+msgid "Retreating artillery"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:711
+msgid ""
+"An artillery unit which is forced to retreat is automatically destroyed. Its "
+"weapons are overrun and the crew massacred or scattered beyond hope of "
+"recovery."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:713
+#, no-wrap
+msgid "Winners"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:717
+msgid ""
+"A winning unit can stand, fall back, pursue, or in the case where all enemy "
+"units are destroyed, advance."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:724
+msgid ""
+"Victorious units do not all have to do the same thing and in some cases it "
+"may be impossible for them to do so. The player deals with the victorious "
+"units one at a time in any order. It makes no difference whether individual "
+"units advance, pursue fall back or stand – the player can deal with them in "
+"any order."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:729
+msgid ""
+"Move victorious units [.bo5a]#once# enemy units have retreated [.bo5a]#and "
+"after# the losing side has completed any necessary moves to make way and "
+"removed any stands whose retreat is blocked."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:731
+#, no-wrap
+msgid "Stand"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:734
+msgid "If a unit stands, it simply stays where it is and does not move."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:736
+#, no-wrap
+msgid "combat-phase/skeleton-infantry.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:738
+#, no-wrap
+msgid "Pursuit"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:745
+msgid ""
+"A unit which wins the first round of an engagement can pursue a retreating "
+"enemy and fight a second round. A unit that wins a second round of an "
+"engagement might also pursue, in which case the fight continues in the "
+"following turn."
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/combat.adoc:750
+msgid ""
+"The Q&A has a xref:questions-and-answers.adoc#wrapping-pursuit[detailed "
+"example with diagrams] showing a full combat sequence including pursuit."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:752
+#, no-wrap
+msgid "Which units can pursue?"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:757
+msgid ""
+"A victorious unit can pursue enemies retreating from the same combat "
+"engagement. However, pursuit is not allowed in the following circumstances:"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:764
+#, no-wrap
+msgid ""
+"*Infantry units cannot pursue cavalry or chariots\n"
+"retreating from the same engagement.* This\n"
+"enables mounted troops to avoid pursuit from\n"
+"slower foot troops, and also to cover the retreat\n"
+"of friends in some situations.\n"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:772
+msgid ""
+"There are a few exception to this rule. If an infantry unit charges a "
+"cavalry or chariot unit that is in irregular formation or charges it in the "
+"flank or rear, the infantry unit is permitted to pursue the retreating "
+"cavalry or chariot unit in the round it charged.  For further exceptions see "
+"<<infantry-contact-with-cavalry>>."
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:774
+#, no-wrap
+msgid ""
+"*Artillery never pursue* retreating enemies of any\n"
+"kind and must stand or fall back instead.\n"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:776
+#, no-wrap
+msgid ""
+"*Fortified units never pursue.* If they win a combat\n"
+"they must fall back or stand their ground.\n"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:781
+#, no-wrap
+msgid ""
+"*Troops never pursue enemy who have retreated\n"
+"into or through terrain they cannot enter.* For\n"
+"example, cavalry cannot pursue infantry who\n"
+"retreat into a wood. There must be at least 1cm of\n"
+"edge outside the wood.\n"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:786
+#, no-wrap
+msgid ""
+"[.bo5a]#*Non-flying units never pursue retreating flying units.*\n"
+"Only flying units can pursue retreating flying units. If a non-flying\n"
+"unit wins a combat against a flying unit then it must either\n"
+"stand or fallback. If standing would leave the non-flying unit\n"
+"touching enemy flyers then it must fall back.#\n"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:792
+msgid ""
+"Exceptions: a flying unit can be pursued by a non-flying unit when charged "
+"in the flank or rear or when in irregular formation in the round it charged. "
+"For further exceptions see <<infantry-contact-with-cavalry>>."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:794
+#, no-wrap
+msgid "Moving pursuers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:805
+msgid ""
+"Pursuing units are moved back into contact with enemy units that retreated "
+"away from them.  Pursuing stands can move up to a normal full pace move to "
+"close the gap between themselves and either the enemy or the stand they are "
+"going to support."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:813
+msgid ""
+"Move pursuers one unit at a time starting with units that can see the "
+"retreating enemy. Where several units can pursue the same enemy, the "
+"victorious player can move them in whatever order he wants. The sequence can "
+"be important as one unit’s move can easily obstruct that of another either "
+"blocking line of sight or affecting the positioning of subsequent units."
+msgstr ""
+
+#.  Add "a", "the"
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:820
+msgid ""
+"If a pursuing unit cannot see a retreating enemy unit (for example, because "
+"other pursuers have obscured their view), then the pursuers cannot move into "
+"edge contact.  Note that units unable to see an enemy may still be able to "
+"move into support as described under <<supporting-pursuits>>."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:827
+msgid ""
+"Occasionally, it will be impossible for a unit to pursue into edge contact "
+"even though it can see an enemy. For example, terrain or other units may "
+"block the unit’s path.  In such a case, and only in such a case, a unit that "
+"can see an enemy is allowed to make a supporting pursuit instead (See "
+"<<supporting-pursuits>>)."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:832
+msgid ""
+"All pursuing stands must be able to trace a clear path towards the enemy. "
+"Towards means just that – a pursuer’s path cannot take it away from the "
+"enemy and then back again by a circuitous route."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:833
+#, no-wrap
+msgid "combat-phase/punk-orc.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:835
+#, no-wrap
+msgid "Basic pursuit"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:847
+msgid ""
+"Choose a unit to make a pursuit move. Every stand that can move straight "
+"forward so that its front edge contacts an enemy stand must do so. This "
+"includes stands of enemy units that were in supporting position before "
+"causalities were removed. In many cases, the entire unit will move in this "
+"way. Once all of the unit’s stands that can move straight towards the enemy "
+"have done so, the unit’s remaining stands can be placed as the player wishes "
+"and can be placed into contact with the enemy or not, either as the player "
+"wants or as circumstance dictates."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:854
+msgid ""
+"The obligation to move stands straight ahead is waived where doing so would "
+"cause a unit to split its formation.  This can happen where multiple enemy "
+"units retreat in different directions for example. In such cases, the player "
+"can choose which stands will pursue so as to avoid splitting the formation."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:863
+msgid ""
+"Note that the pursuing rules allow some stands to be arranged around the "
+"sides or rear edges of the enemy where there is room. This enables a "
+"victorious unit to lap around the enemy and maximise his attacks in the "
+"following round. Conversely, the rules also allow stands to be positioned to "
+"fight from a corner, to support, or to extend a unit’s position to meet a "
+"charge in a subsequent turn."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:864
+#, no-wrap
+msgid "combat-phase/pursuit-direct.svg"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:866
+#, no-wrap
+msgid "Indirect pursuit"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:873
+msgid ""
+"Occasionally, you will find that no stands can pursue by moving straight "
+"ahead even though the unit can see a retreating enemy. In this case, a unit "
+"can pursue as long as at least one stand has a clear path towards the enemy."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:880
+msgid ""
+"Take any one pursuing stand that can see the retreating enemy. Move the "
+"stand into contact with the closest visible enemy stand exactly as you would "
+"during a charge. Having placed the first stand, remaining stands are "
+"positioned as the player wishes, as already described for basic pursuits."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:881
+#, no-wrap
+msgid "combat-phase/pursuit-indirect.svg"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:883
+#, no-wrap
+msgid "Supporting pursuits"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:891
+msgid ""
+"A unit that cannot see a retreating enemy cannot pursue into edge contact. "
+"Such a unit might still be able to pursue in order to support a fighting "
+"friend. As only infantry can support and be supported, it follows that only "
+"infantry are able to pursue in this way. This is called *supporting pursuit*."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:897
+msgid ""
+"A unit can also make a supporting pursuit if it can see a retreating enemy "
+"but it is impossible to pursue into edge contact for whatever reason. Units "
+"able to pursue into contact cannot choose to make a supporting pursuit "
+"instead."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:899
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:353
+#, no-wrap
+msgid "combat-phase/pursuit-supporting.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:909
+msgid ""
+"To make a supporting pursuit at least one stand must be moved straight ahead "
+"so that it is directly behind or directly beside a fighting infantry stand "
+"from a different unit. Note that this might coincidentally bring the stand "
+"into corner-to-corner contact with enemy, in which case the stand can fight "
+"in the following round. If it is impossible for at least one stand to move "
+"as described then the unit cannot pursue."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:915
+msgid ""
+"When one stand has been moved into position as described, the unit’s "
+"remaining stands can be moved into formation. These stands can be positioned "
+"as the player wishes so long as they are not placed into edge contact with "
+"any enemy stands."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:921
+msgid ""
+"Note that although supporting pursuer cannot be placed into edge contact "
+"with enemies, they can be positioned into corner-to-corner contact. Often "
+"this is the inevitable result of stands moving into what would otherwise be "
+"supporting position."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:924
+#, no-wrap
+msgid "Incidental contact"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:930
+msgid ""
+"When moving a pursuer into contact with retreating enemies, it is possible "
+"for stands to come into contact with enemy units that were not previously "
+"engaged in the same combat. This is called *incidental contact*."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:931
+#, no-wrap
+msgid "combat-phase/incidental-contact.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:945
+msgid ""
+"Incidental contact is sometimes unavoidable. It will depend on the order in "
+"which pursuers are moved and, in some cases, how a player chooses to "
+"position pursuing stands. However, units making a supporting pursuit are not "
+"permitted to contact any enemy stands edge-to-edge, not even as incidental "
+"contacts. See Supporting Pursuits. Any opposing units touching once pursuits "
+"are complete are automatically drawn into the engagement.  It is important "
+"to remember that pursuit bonuses apply only against enemy units that fought "
+"in and retreated from the same combat engagement as the pursuer in the "
+"previous round."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:948
+msgid "No pursuit or charge bonuses apply against newly engaged enemy units."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:962
+msgid ""
+"In case of incidental contact with an enemy unit that is part of another "
+"engagement the situation depends on whether that engagement was already "
+"fought or not. If the engagement was already fought and was therefore left "
+"unresolved, the retreating and pursuing units become part of that unresolved "
+"combat and no other rounds are fought. If the engagement hasn’t been fought "
+"yet, it becomes part of the actual combat. However, the newly engaged units "
+"can fight at most one round of combat alongside the pursuing and retreating "
+"units.  If the incidental contact occurs as a result of a second round of "
+"combat, the newly engaged units do not get to fight in this combat phase."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:963
+#, no-wrap
+msgid "Infantry contact with cavalry"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:978
+msgid ""
+"It can sometimes happen that infantry maintain contact with retreating "
+"cavalry or chariots. This can occur where infantry pursue enemy infantry and "
+"end up in corner-to-corner or side-to-side edge contact with enemy cavalry "
+"or chariots that have retreated alongside them. Contact can also be "
+"maintained where a unit is obliged to retreat at a right angle along an "
+"enemy infantry formation. In all these cases, retreating units that remain "
+"in contact with their enemy also remain engaged for the following round "
+"regardless of rules that normally forbid pursuit. Where attacks are struck "
+"against retreating cavalry/chariots the usual pursuit bonuses apply. Same "
+"principle applies on non-flying units pursuing flyers."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:979
+#, no-wrap
+msgid "combat-phase/pursuit-maintain-contact.svg"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:981
+#, no-wrap
+msgid "Impossible to pursue"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:991
+msgid ""
+"It can happen that it is impossible for a unit to pursue – for example "
+"because no stands can be moved into front edge contact or into supporting "
+"positions. Such a situation sometimes occurs where other units have already "
+"pursued a retreating enemy and blocked line of sight, for example. A unit "
+"that cannot pursue a retreating enemy must either stand or fall back. The "
+"unit is not allowed to <<advance>> instead."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:992
+#, no-wrap
+msgid "combat-phase/goblin-wolves.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:994
+#, no-wrap
+msgid "Pursuit and destroyed enemy"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1002
+msgid ""
+"A unit is destroyed once all of its stands have been removed as casualties. "
+"At the end of a combat round, it is possible that all the units engaged on "
+"one side will have been entirely destroyed. In such a case the victorious "
+"units can advance. Pursuit is not possible because there are no retreating "
+"enemies to pursue against. See <<advance>>."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:1003
+#, no-wrap
+msgid "Pursuit and combat dropouts"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1017
+msgid ""
+"It can happen that several units retreat on one side but pursuers move in "
+"such a way that one or more retreating units are no longer engaged in the "
+"combat. A unit remains engaged whilst it is either touching an enemy, or "
+"supporting stands that are touching an enemy, but it is quite possible for "
+"retreating units to find they are no longer in combat at all. Such units "
+"simply drop out of the combat engagement like any other units that have not "
+"been pursued. It is possible for such units to be contacted by pursuers "
+"during subsequent rounds of combat, in which case they are treated as new "
+"incidental contacts.  See <<incidental-contact>>."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:1018
+#, no-wrap
+msgid "Pursuit in terrain"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1029
+msgid ""
+"Visibility within woods [.edit]#and villages# is restricted to 2cm for most "
+"purposes (see xref:movement.adoc#terrain[Terrain]), but in the case of "
+"combatants we make an exception. If units are fighting inside a wood (or "
+"other features with restricted visibility) then potential pursuers are "
+"assumed to be able to see units that have retreated from the same combat. "
+"This represents the fact that combatants would actually move together "
+"without one side necessarily losing sight of the other as they retreat."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1030
+#, no-wrap
+msgid "Advance"
+msgstr ""
+
+#.  Bold altered
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1036
+msgid ""
+"If all the enemy units in a combat engagement are destroyed, a victorious "
+"unit can do one of three things: it can *stand its ground*, *fall back*, or "
+"*advance*."
+msgstr ""
+
+#.  Bo5A difference: that a unit is touching, rather than the whole combat.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1046
+msgid ""
+"Note that in a combat engagement with multiple units on both sides, all "
+"enemy units have to be destroyed for an advance to be able to happen. When "
+"friendly units fighting together in single combat get separated by the "
+"removal of stands, they still count as being in the same combat engagement "
+"until the end of the current Combat Phase."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1049
+msgid ""
+"A unit is only allowed to advance once in a Combat phase even if its enemies "
+"are destroyed a second time."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1057
+msgid ""
+"An advance is essentially a new charge move of 20cm.  An advancing unit can "
+"charge the closest enemy unit that it can see and which it can reach. The "
+"unit cannot charge any other enemy unit and if there is no visible enemy "
+"within reach the unit cannot advance. This is comparable to a charge move "
+"made on initiative in the Command phase."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1062
+msgid ""
+"The advancing unit’s move is worked out in the same way as a charge except "
+"that no stand may move further than 20cm regardless of its usual move rate "
+"or formation.  This also applies [.edit]#to any supporting units#."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1071
+msgid ""
+"Units can’t advance through terrain they can’t enter, if they are in "
+"fortified positions, if there is no path to enable them to do so, if the "
+"unit is artillery, or if they have already advanced in that Combat phase. "
+"Otherwise, units are allowed to advance against any kind of enemy, even if "
+"they are a troop type that would not normally be allowed to pursue, such as "
+"infantry fighting cavalry or chariots."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:1072
+#, no-wrap
+msgid "combat-phase/dwarf-slayers.webp"
+msgstr ""
+
+#.  (Bo5A difference.)
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1078
+msgid ""
+"Although the move is essentially the same as a charge, no charge bonus of "
+"any kind applies to advances: this takes into account a measure of "
+"exhaustion resulting from prolonged combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1085
+msgid ""
+"An advance might initiate a new combat engagement, it might bring the "
+"advancing unit into an existing unfought engagement, or it might bring the "
+"advancing unit into an engagement that has been fought but which remains "
+"unresolved."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1089
+msgid ""
+"If advancing into an engagement that has already been fought that turn (an "
+"unresolved combat), the advancing unit will fight in the Combat phase of the "
+"*following* turn."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1096
+msgid ""
+"If advancing into an existing unfought engagement or a new combat "
+"engagement, the advancing unit fights as part of the engagement *that turn*. "
+"This means the unit fights in two separate engagements during the same "
+"Combat phase and could, potentially, fight up to four rounds of combat "
+"during the turn."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1100
+msgid ""
+"An enemy unit that has been advanced upon can shoot at the advancing unit in "
+"exactly the same way as a unit shooting at chargers in the Command phase."
+msgstr ""
+
+#.  Spelling of engagement
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1105
+msgid ""
+"Any hits already accumulated against the advancing unit from its first "
+"engagement are carried over into the new combat engagement."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:1106
+#: en/revolution/modules/rules/pages/command.adoc:506
+#: en/revolution/modules/rules/pages/flying-units.adoc:192
+#: en/revolution/modules/rules/pages/movement.adoc:322
+#, no-wrap
+msgid "Optional rule"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/combat.adoc:1111
+msgid ""
+"If the enemy is destroyed in the first round of combat, the advancing unit "
+"gets a charge bonus as per normal charge."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1113
+#, no-wrap
+msgid "Fall backs"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1121
+msgid ""
+"In a drawn combat both sides must fall back unless one side is in a defended "
+"or fortified position in which case it can stand instead. A victorious unit "
+"can choose to fall back if the player wishes. The opportunity to fall back "
+"gives players a chance to pull units out of combat and move them to better "
+"tactical positions."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1126
+msgid ""
+"If both players have units falling back from a drawn combat each side takes "
+"it in turn to select and move one unit – roll a dice to determine which side "
+"goes first. 1, 2, 3 one side, 4, 5, 6 the other."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1132
+msgid ""
+"A fall back is basically a free move that represents the unit rallying back "
+"on its standards and officers. This move is made in the same way as a move "
+"by order except that the maximum distance is determined randomly and the "
+"direction must be ‘back’ as defined below."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1140
+msgid ""
+"The maximum distance a unit falls back is established by rolling three dice "
+"and adding the scores together. So, on a roll of 6, 4, and 3, a unit can "
+"fall back up to 13cm. There is no minimum distance – a unit that has elected "
+"to fall back does not to have to move at all so long as it is at least 1cm "
+"from enemy units and from any units engaged in combat as described below."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1145
+msgid ""
+"Where several friendly units fall back out of the same combat at the same "
+"time, one roll is made for them all.  The same maximum distance applies to "
+"all, but units do not all have to move the same actual distance."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1153
+msgid ""
+"Stands that are falling back are allowed to momentarily contact the enemy "
+"stands belonging to units touching their own unit during the combat round. "
+"This allows stands to ‘slide’ out of position as they fall back – often this "
+"will be unavoidable. Stands cannot contact enemy stands from units they were "
+"not touching during the combat round."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1160
+msgid ""
+"Stands that fall back must end their move at least 1cm from any enemy units "
+"and from any units that are engaged in combat whether friends or foes. If it "
+"is impossible to move all the stands so they are at least 1cm from enemy or "
+"engaged friends, then the unit is automatically confused. See xref:confusion."
+"adoc[Confusion]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1167
+msgid ""
+"Occasionally, opposing stands are still touching at the end of the Combat "
+"round once both sides have fallen back. If this happens, units remain "
+"engaged in combat and will fight in the following round. Units that fall "
+"back but fail to break contact are automatically confused by dint of being "
+"within 1cm of enemy."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:1168
+#, no-wrap
+msgid "combat-phase/village.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1170
+#: en/revolution/modules/rules/pages/confusion.adoc:181
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:46
+#, no-wrap
+msgid "Moving back"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1183
+msgid ""
+"When a unit falls back, the player selects any one stand from the unit and "
+"moves it back. In this case, ‘back’ is defined as behind the line drawn "
+"across the line of contact with the enemy units. See <<fall-back-line>> and "
+"<<fall-back-corner>>. Other stands can then be moved into formation as "
+"convenient so long as they do not exceed their permitted move.  They can be "
+"positioned forward of the line established for the first stand if desired. "
+"Note that the unit does not necessarily fall back towards its own base edge "
+"or its own friends – the ‘back’ position is worked out relative to the first "
+"stand moved."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:1185
+#, no-wrap
+msgid "combat-phase/fall-back-line.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:1188
+#, no-wrap
+msgid "combat-phase/fall-back-corner.svg"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1190
+#, no-wrap
+msgid "Unresolved combats"
+msgstr ""
+
+#.  Spelling pursue fixed
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1199
+msgid ""
+"If after two rounds of combat both sides are still engaged then the combat "
+"is *unresolved*. All units remain in position and fighting resumes in the "
+"Combat phase of the following turn. This is quite common and happens where a "
+"second round results in one unit retreating and the victors elect to pursue."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1207
+msgid ""
+"It is important to remember where pursuit bonuses apply from the final round "
+"of the previous Combat phase. These bonuses will apply in the first round of "
+"the following Combat phase to those pursuers who are fighting retreating "
+"enemy. It is a good idea to make a separate note or use some kind of marker "
+"to remind players which bonuses apply to which combatants."
+msgstr ""
+
+#.  Bo5A has rules on Reforming, not included in WMR.
+#.  Reason: https://www.specialist-arms.com/forum/index.php?topic=8716.0
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1211
+#, no-wrap
+msgid "Remove odd hits"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1219
+msgid ""
+"Once all combat engagements have been fought, remove any odd hits remaining "
+"on units that are no longer engaged in combat. Note that units that are part "
+"of an unresolved combat do not remove odd hits but carry them over into the "
+"following turn. This includes any units that are only supporting."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:1220
+#, no-wrap
+msgid "combat-phase/cold-combat.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:1222
+#, no-wrap
+msgid "Defended & fortified troops"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1238
+msgid ""
+"Only infantry, flying troops, and giants can move into base contact with "
+"fortified enemy stands at any time – for example by charging, during a "
+"pursuit, or as a result of an advance. Where other stands would accidentally "
+"contact a fortified enemy – for example by charging an adjacent unfortified "
+"unit these stands must be repositioned so that they no longer contact a "
+"fortified enemy stand. Note that this overrides the normal obligation to "
+"maximise edge contact against enemy units where this applies.  Any position "
+"that brings troop stands, other than those indicated, into contact with "
+"fortified enemy is simply ineligible. If circumstance dictates that such a "
+"stand is unable to be positioned out of contact with fortified enemy then it "
+"is destroyed and does not fight."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1246
+msgid ""
+"Infantry and artillery units, however, can take advantages of natural "
+"vegetation, the lie of the land, fieldworks or permanent fortifications in "
+"order to make their position much more secure. This allows infantry and "
+"artillery stands to be either defended or fortified. In both cases the score "
+"required to hit will increase as shown on the chart below."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat.adoc:1254
+#, no-wrap
+msgid ""
+"|Target |D6 result required\n"
+"\n"
+"|Fortified infantry/artillery    |6+\n"
+"|Defended infantry/artillery     |5+\n"
+"|All other targets/circumstances |4+\n"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:1256
+#, no-wrap
+msgid "Defended"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1276
+msgid ""
+"A stand is defended if it is placed wholly or partially; behind a low "
+"obstacle, such as a hedge or wall; at the edge of or within a wood; or "
+"amongst ruins or buildings.  A stand is also defended if it is positioned on "
+"the crest or upper slope of a hill or rise so that it occupies higher ground "
+"than the charger at any point of the charge move. These are all judged to be "
+"situations that confer an advantage to infantry or to small units of "
+"artillery (even against flying units). Such units can position themselves "
+"closely to the lie of the land, taking advantage of minor folds in the "
+"ground, local vegetation, or barriers such as hedges or ditches. This "
+"advantage is partly due to a unit’s ability to entrench itself, for "
+"individual warriors to find cover, or for whole units to conceal themselves "
+"– for example by kneeling amongst dense undergrowth.  Similarly, it confers "
+"an advantage to a unit that has taken up a position that is hard or "
+"exhausting for an enemy to approach."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1281
+msgid ""
+"Note that a unit can gain the defended status only when charged from the "
+"direction it can get advantage of the terrain feature, e.g. from the other "
+"side of the fence or up the hill slope."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:1282
+#, no-wrap
+msgid "Fortified"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1287
+msgid ""
+"A stand is fortified if it is placed on the ramparts of a substantial "
+"fortification such as a castle wall, tower, fort or a large permanent "
+"earthwork."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1295
+msgid ""
+"These situations do not regularly occur in field battles but are included "
+"here for the sake of completeness. A well prepared field fortification might "
+"be considered to be a fortified rather than defended position – but only if "
+"it is constructed and positioned in such a way that troops must resort to "
+"climbing or scrambling up a steep slope in order to attack."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:1296
+#, no-wrap
+msgid "Defended & fortified enemy"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1306
+msgid ""
+"Only infantry, flying troops, and giants can move into base contact with "
+"fortified enemy stands at any time – for example by charging, during a "
+"pursuit, or as a result of an advance. Cavalry, chariots, artillery and non-"
+"flying monsters and machines cannot do so. In the case of castle walls, "
+"towers and similarly tall fortifications, specialist equipment may be needed "
+"to mount an assault as described in the chapter xref:siege-and-fortresses."
+"adoc[Siege & Fortresses]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1314
+msgid ""
+"Defended or fortified stands are harder to hit as described above. Hence a "
+"score of 5+ or 6 respectively is needed to inflict hits. Also, charge "
+"bonuses don’t count against them because they are not ‘in the open’. The "
+"most common occurrences of this during a game are situations where infantry "
+"are on the upper slopes of hills or at the edge of a wood."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1321
+msgid ""
+"Cavalry, chariots, machine and monster stands never count as being defended "
+"or fortified, even when they have moved onto hills, behind hedges, low walls "
+"and so forth. In these situations, cavalry and chariots are assumed to have "
+"to move in order to fight, surrendering any advantage of shelter in favour "
+"of greater mobility."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1324
+msgid ""
+"Monsters and machines are simply too big or too dimwitted to take advantage "
+"of cover."
+msgstr ""
+
+#.  NB difference with Bo5A here.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat.adoc:1339
+msgid ""
+"Troops that charge or advance are always assumed to be in the open, such as "
+"infantry stands charging in a wood.  Troops that pursue a retreating enemy "
+"are also assumed to be in the open. In both cases, troops cannot take "
+"advantage of cover whilst pressing their attack. Troops that retreat in one "
+"combat round always count as being in the open during following rounds of "
+"pursuit combat.  In most cases, this is obvious because enemy will have been "
+"pushed over a low wall or rampart. In other cases, a unit may be still "
+"inside a wood or still up-slope of an enemy. However, a unit always loses "
+"the advantage of its position once it has retreated."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/combat.adoc:1340
+#, no-wrap
+msgid "combat-phase/medusa-demon.webp"
+msgstr ""

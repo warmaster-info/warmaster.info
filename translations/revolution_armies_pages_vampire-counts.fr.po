@@ -1,0 +1,522 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:91
+#: en/revolution/modules/armies/pages/araby.adoc:82
+#: en/revolution/modules/armies/pages/beastmen.adoc:53
+#: en/revolution/modules/armies/pages/beastmen.adoc:61
+#: en/revolution/modules/armies/pages/bretonnia.adoc:83
+#: en/revolution/modules/armies/pages/bretonnia.adoc:97
+#: en/revolution/modules/armies/pages/cathay.adoc:79
+#: en/revolution/modules/armies/pages/cathay.adoc:90
+#: en/revolution/modules/armies/pages/chaos.adoc:68
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
+#: en/revolution/modules/armies/pages/daemons.adoc:64
+#: en/revolution/modules/armies/pages/daemons.adoc:106
+#: en/revolution/modules/armies/pages/dark-elves.adoc:85
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
+#: en/revolution/modules/armies/pages/dwarfs.adoc:95
+#: en/revolution/modules/armies/pages/empire.adoc:65
+#: en/revolution/modules/armies/pages/goblins.adoc:78
+#: en/revolution/modules/armies/pages/high-elves.adoc:84
+#: en/revolution/modules/armies/pages/kislev.adoc:69
+#: en/revolution/modules/armies/pages/lizardmen.adoc:85
+#: en/revolution/modules/armies/pages/lizardmen.adoc:96
+#: en/revolution/modules/armies/pages/nippon.adoc:85
+#: en/revolution/modules/armies/pages/nippon.adoc:101
+#: en/revolution/modules/armies/pages/norse.adoc:51
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
+#: en/revolution/modules/armies/pages/orcs.adoc:82
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
+#: en/revolution/modules/armies/pages/skaven.adoc:74
+#: en/revolution/modules/armies/pages/skaven.adoc:95
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
+#: en/revolution/modules/armies/pages/wood-elves.adoc:61
+#: en/revolution/modules/armies/pages/wood-elves.adoc:69
+#: en/revolution/modules/rules/pages/battlefields.adoc:247
+#: en/revolution/modules/rules/pages/battlefields.adoc:300
+#: en/revolution/modules/rules/pages/battlefields.adoc:352
+#: en/revolution/modules/rules/pages/battlefields.adoc:420
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#, no-wrap
+msgid "Special rules"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:153
+#: en/revolution/modules/armies/pages/albion.adoc:165
+#: en/revolution/modules/armies/pages/araby.adoc:263
+#: en/revolution/modules/armies/pages/beastmen.adoc:179
+#: en/revolution/modules/armies/pages/beastmen.adoc:195
+#: en/revolution/modules/armies/pages/bretonnia.adoc:219
+#: en/revolution/modules/armies/pages/bretonnia.adoc:237
+#: en/revolution/modules/armies/pages/cathay.adoc:207
+#: en/revolution/modules/armies/pages/chaos.adoc:161
+#: en/revolution/modules/armies/pages/chaos.adoc:194
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/daemons.adoc:173
+#: en/revolution/modules/armies/pages/daemons.adoc:188
+#: en/revolution/modules/armies/pages/dark-elves.adoc:168
+#: en/revolution/modules/armies/pages/goblins.adoc:163
+#: en/revolution/modules/armies/pages/goblins.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:160
+#: en/revolution/modules/armies/pages/high-elves.adoc:193
+#: en/revolution/modules/armies/pages/kislev.adoc:194
+#: en/revolution/modules/armies/pages/lizardmen.adoc:207
+#: en/revolution/modules/armies/pages/lizardmen.adoc:260
+#: en/revolution/modules/armies/pages/norse.adoc:144
+#: en/revolution/modules/armies/pages/norse.adoc:196
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:172
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:198
+#: en/revolution/modules/armies/pages/orcs.adoc:147
+#: en/revolution/modules/armies/pages/skaven.adoc:226
+#: en/revolution/modules/armies/pages/skaven.adoc:242
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:143
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:192
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:145
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
+#: en/revolution/modules/armies/partials/empire-spells.adoc:4
+#: en/revolution/modules/armies/partials/empire-spells.adoc:27
+msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/wood-elves.adoc:63
+#, no-wrap
+msgid "Army rules"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/bretonnia.adoc:249
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:188
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:157
+#: en/revolution/modules/armies/partials/empire-spells.adoc:40
+msgid ""
+"The unit can be moved just as if it had received an order in the Command "
+"phase. Character stands that have joined the unit will not move with it: "
+"they remain where they are."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:78
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:82
+#, no-wrap
+msgid "Undead"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:84
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:90
+msgid ""
+"Undead units are unaffected by the −1 Command penalty for enemy within 20cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:87
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:93
+msgid ""
+"Undead units are unaffected by the −1 Combat penalty for fighting terrifying "
+"troops."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:90
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:96
+msgid ""
+"Undead units are unaffected by the Confusion rule – they cannot become "
+"confused for any reason."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:145
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:140
+#, no-wrap
+msgid "Raise Dead"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:151
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:146
+msgid ""
+"_At the Wizard’s beckoning the mangled corpses that litter the battleground "
+"rise from the dead to continue the slaughter._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:162
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:157
+msgid ""
+"This spell can be cast upon a combat engagement taking place within 30cm of "
+"the Wizard. The spell can be cast regardless of whether the Wizard can see "
+"any units in the combat engagement or not. A single combat engagement can "
+"only be affected once by this spell in any turn regardless of how many units "
+"are involved in the combat. For purposes of deciding whether a combat is "
+"eligible as a target, combat engagements are as they appear when the die to "
+"cast the spell is rolled: so it is possible for pursuit or advances to bring "
+"two units of raised dead into the same engagement later on."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:171
+msgid ""
+"A Skeleton unit of three stands is created. Each stand in the raised unit "
+"must be placed so that its front edge contacts an enemy stand from the "
+"targeted engagement, or that it supports a friendly stand from the same "
+"engagement, including raised stands. The placement of stands may not split "
+"up the engagement into multiple smaller engagements. If raised stands come "
+"into contact with unengaged enemy units, those units will join the "
+"engagement after the raised unit is placed, similar to incidental contact "
+"during pursuit. If it is impossible to position all stands in combat or "
+"support then the unit is not deployed and the spell fails. Raised dead do "
+"not count as charging in the first round of combat. Raised dead are ignored "
+"for working out break point and victory points at the end of the game."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:212
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:189
+#, no-wrap
+msgid "Death Bolt"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:218
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:195
+msgid ""
+"_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
+"finger tips and strikes an enemy unit._"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:1
+#, no-wrap
+msgid "Vampire Counts"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:20
+msgid ""
+"image:vampire-counts/logo.webp[width=116,height=84,float=\"right\"] Upon the "
+"eastern marches of the Empire lies the blighted land of Sylvania. It is a "
+"region dominated by dark forests and bleak mountains. For the most part its "
+"inhabitants are poor, for the soil is thin and unprofitable to work, whilst "
+"the mountains are devoid of the mineral wealth found in abundance to the "
+"south and north. Moreover the land has an unfortunate reputation. Its "
+"forests are said to be haunted and the ground itself is thought to carry the "
+"contagion of Chaos so that even the dead that are buried in it do not rest "
+"easily. Those who live there are few in number, impoverished, malnourished, "
+"and utterly lacking in ambition and vigour. The ordinary folk of the land "
+"are broken in spirit and live in harsh servitude under callous and uncaring "
+"masters."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:33
+msgid ""
+"Although part of the Empire from its inception, Sylvania developed quite "
+"separately during the long period of anarchy known as the Age of Three "
+"Emperor’s when all centralised government broke down. In these years a new "
+"power arose in Sylvania taking the form of the Counts Carstein. The "
+"Carsteins quickly gained a reputation for cruelty that surpassed anything "
+"that had ever happened before in the Empire. Throughout the adjoining lands, "
+"stories were whispered of ghastly tortures and wanton cruelty, of necromancy "
+"and dark magic, and of the haunting of the land by restless spirits. People "
+"feared to walk abroad after nightfall for strange creatures stalked the "
+"night – creatures that feasted on the blood and flesh of men."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:41
+msgid ""
+"The true nature of the Carsteins emerged during the years that followed the "
+"coming of the comet and destruction of the city of Mordheim. It was a time "
+"of great contagion when the power of magic waxed strongly throughout the "
+"Empire. Harnessing much of that magic the great Vlad Von Carstein raised an "
+"army of dead from the poisoned soil and made his bid for the throne of the "
+"Empire."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:48
+msgid ""
+"Thus began the Wars of the Vampire Counts in which the dead sought to "
+"overthrow the living and the Carsteins sought to rule the whole of the "
+"Empire. Had they succeeded the Empire would have become a dead land where "
+"the living would exist only as cattle to feed a Vampiric nobility. Vlad "
+"almost did succeed but was slain as his undead hordes besieged Altdorf."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:60
+msgid ""
+"Vlad’s successors were to continue the war at first led by the insane Konrad "
+"Von Carstein and then by Mannfred Von Carstein. The armies of the dead "
+"ranged over the lands of the Empire until Mannfred was eventually driven "
+"back to Sylvania and defeated at the battle of Hel Fenn. After that battle "
+"Mannfred disappeared, presumed destroyed, but his body was never found and "
+"rumours of his return haunt the Empire to this day. Following this defeat "
+"Sylvania was scoured by the priests of Sigmar and many vampires were hunted "
+"out and destroyed.  Syvlania itself was claimed by the Count of Stirland and "
+"now forms part of that province."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:64
+msgid ""
+"It remains a land of dread where the downtrodden peasantry still live in "
+"terror of the night and the things that walk beneath the moon."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:65
+#, no-wrap
+msgid "vampire-counts/vampire-counts.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:67
+#, no-wrap
+msgid "Vampire Counts army selector"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:72
+#, no-wrap
+msgid "include::partial$vampire-counts.tsv[]\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:81
+msgid ""
+"The following rules for Undead apply to all units except for Ghouls. Ghouls "
+"are considered to be ordinary mortal troops and the following rules do not "
+"apply to them."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:87
+msgid ""
+"Undead units never act on initiative. An Undead unit only moves in the "
+"Command phase if given orders (aside from Fell Bats which can ‘homeback’ as "
+"noted below). Including an Undead unit cannot make a supporting charge to "
+"support an unit of Ghouls charging on initiative."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:99
+#, no-wrap
+msgid "[[ethereal-host,†1]]1. Ethereal Host"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:107
+msgid ""
+"Ethereal Host Attacks always inflict a hit on a score of 4+ regardless of "
+"whether the enemy is in the open, defended, or fortified. Enemy otherwise "
+"count as in the open, defended, or fortified in all respects (i.e. charge "
+"bonuses count or don’t count depending on status). Ethereal hosts cannot be "
+"driven back by shooting and do not roll for drive backs. They cause terror "
+"as described in the Warmaster rulebook. Ethereal Hosts cannot have magic "
+"items."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:108
+#, no-wrap
+msgid "[[dire-wolves,†2]]2. Dire Wolves"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:111
+msgid ""
+"If the unit charges against an enemy in the open it receives an additional "
+"+1 Attack modifier in the same way as chariots and monsters. Dire Wolves "
+"cannot have magic items."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:112
+#, no-wrap
+msgid "[[fell-bats,†3]]3. Fell Bats"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:118
+msgid ""
+"Fell Bats can fly. Although they cannot use initiative they are allowed to "
+"home back as described in the Warmaster rulebook. No order is required to "
+"home back. Fell Bats are an exception to the normal rules for basing "
+"monsters, in that they are based along the long base edge in the same way as "
+"infantry, rather than the short edge like other monsters."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:119
+#, no-wrap
+msgid "[[vampire-lord,†4]]4. Vampire Lord"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:125
+msgid ""
+"A Vampire Lord is a powerful sorcerers as well as the army’s general. He can "
+"cast spells in the same way as a wizard and can be given a magic item "
+"restricted to either a General or a Wizard. Note that the Vampire Lord is "
+"still a General and his command range extends over the whole battlefield as "
+"for other Generals."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:126
+#, no-wrap
+msgid "[[winged-nightmare,†5]]5. Winged Nightmare"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:130
+msgid ""
+"Any character can ride a Winged Nightmare. A winged Nightmare can fly "
+"increasing its rider’s move to 100cm and adding +2 to its rider’s attacks. A "
+"unit joined by a character riding a Nightmare causes terror in its enemies."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:131
+#, no-wrap
+msgid "[[black-coach,†6]]6. Black Coach"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:135
+msgid ""
+"A Vampire Lord or Vampire can be mounted within a Black Coach adding +1 to "
+"its occupant’s attacks. A unit joined by a character riding in the Black "
+"Coach causes terror in its enemies."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:136
+#, no-wrap
+msgid "vampire-counts/nightmare.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:138
+#, no-wrap
+msgid "Vampire Counts spells"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:172
+#, no-wrap
+msgid "Vanhel’s Danse Macabre"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:175
+msgid "[.cost]#5+ to cast# [.points]#Range 40cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:178
+msgid ""
+"_The bodies of the dead move under the powerful influence of necromantic "
+"magic renewing their vigour once more._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:184
+msgid ""
+"This spell can be cast on any friendly unit apart from Ghouls.  The spell "
+"can be cast on a unit within range regardless of whether the Wizard can see "
+"it or not. The spell affects only a single unit, never a brigade and there "
+"is no supporting charge possible."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:202
+msgid ""
+"The Necromancer must be able to see his target to cast this spell and it "
+"cannot be directed against a unit in combat. The Deathbolt is treated like "
+"three ordinary shooting attacks except that armour has no effect (all "
+"targets count as having no armour). A unit can be driven back by Deathbolt "
+"as with ordinary shooting."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:203
+#, no-wrap
+msgid "Curse of Years"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:206
+msgid "[.cost]#6+ to cast# [.points]#Range N/A#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:209
+msgid ""
+"_The Wizard’s enemies crumble to dust as he smites them with the corrupting "
+"Curse of Years._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:213
+msgid ""
+"The Wizard can cast this spell if he has joined a unit in combat.  The spell "
+"can be cast on any single enemy unit that is touching the unit the Wizard "
+"has joined."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:218
+msgid ""
+"The target unit takes six attacks worked out in the usual way.  Any hits "
+"scored are carried over into the first round of combat and count as having "
+"been struck in the first round for purposes of working out combat results."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:219
+#, no-wrap
+msgid "vampire-counts/skeletons.webp"
+msgstr ""

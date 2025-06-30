@@ -1,0 +1,41 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: 2025-07-01 00:06+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/dragon.adoc:3
+msgid ""
+"A {dragon} Dragon can fly, increasing its rider’s move to 100cm, and it adds "
+"[.edit]#+3/3# Attacks to those of its rider."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/dragon.adoc:10
+msgid ""
+"[.edit]#The {dragon} Dragon can breath fire if the character has joined a "
+"unit that isn’t engaged in combat.# This is a shooting attack with a range "
+"of 20cm, which can be directed against one target as normal. The breath has "
+"3 Attacks, which are worked out in xref:rules:characters.adoc#characters-"
+"that-shoot[the usual way]."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/dragon.adoc:12
+msgid ""
+"Any unit joined by a character riding a {dragon} Dragon causes terror in its "
+"enemies"
+msgstr ""
