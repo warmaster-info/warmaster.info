@@ -106,8 +106,8 @@ for i in translations/**/*.pot; do
 done
 git status
 if [[ "$commit" = "yes" ]]; then
-    echo "Committing changes to translation indices $commit"
-    git commit -m '[translation] Update translation indices'
+    echo "NOT Committing changes to translation indices $commit"
+    #git commit -m '[translation] Update translation indices'
     #git push origin $branch
 else
     echo "No changes to translation indices $commit"
