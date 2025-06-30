@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/battlefields.adoc:218
+#: en/revolution/modules/rules/pages/battlefields.adoc:264
+#: en/revolution/modules/rules/pages/battlefields.adoc:314
+#: en/revolution/modules/rules/pages/battlefields.adoc:378
+#: en/revolution/modules/rules/pages/battlefields.adoc:456
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:61
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:17
+#, no-wrap
+msgid "Victory points"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:32
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:10
+#, no-wrap
+msgid "Withdraw"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:1
+#, no-wrap
+msgid "End of the Battle at a Glance"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:4
+#, no-wrap
+msgid "The battle ends"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:7
+msgid "Once both players have taken the predetermined number of turns."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:8
+msgid "Once one player concedes."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:9
+msgid "Once one army withdraws."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:13
+msgid "An army must withdraw if:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:14
+msgid "The General is slain."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:15
+msgid "The army has lost 50% or more of its units."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:16
+msgid "Once an army withdraws, the game is immediately over."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:20
+msgid ""
+"Each player earns victory points for enemy units and characters he destroys "
+"including magic items."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:22
+msgid ""
+"Each player earns half victory points for enemy units reduced from three or "
+"four stands to one."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:23
+msgid "The player who amasses the most victory points wins the battle."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:24
+msgid "A player who concedes earns no victory points."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:24
+msgid "An army which withdraws cannot win the battle, though it can draw."
+msgstr ""

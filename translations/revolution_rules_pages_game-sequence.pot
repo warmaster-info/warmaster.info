@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:119
+#: en/revolution/modules/rules/pages/game-sequence.adoc:48
+#: en/revolution/modules/rules/pages/game-values.adoc:226
+#, no-wrap
+msgid "Command"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:20
+#: en/revolution/modules/rules/pages/combat.adoc:1
+#: en/revolution/modules/rules/pages/game-sequence.adoc:72
+#, no-wrap
+msgid "Combat"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/game-sequence.adoc:1
+#, no-wrap
+msgid "Game Sequence"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:8
+#, no-wrap
+msgid "a|\n"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:9
+#, no-wrap
+msgid "1"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:11
+#: en/revolution/modules/rules/pages/game-sequence.adoc:26
+#: en/revolution/modules/rules/pages/game-sequence.adoc:87
+#: en/revolution/modules/rules/pages/game-sequence.adoc:108
+msgid "a|"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/game-sequence.adoc:12
+#, no-wrap
+msgid "Deploy Armies"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:23
+msgid ""
+"At the start of the battle both players line up their armies at least 80cm "
+"apart.  |Armies are deployed secretly by making a map of the battlefield "
+"with the positions of units indicated or, if players prefer, by placing one "
+"unit at a time, starting with the player whose army has the most units.  | a|"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:24
+#, no-wrap
+msgid "2"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:27
+#, no-wrap
+msgid "Commence Battle"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:47
+msgid ""
+"Each side takes a turn one after the other, starting with the player who "
+"rolls the highest score on a D6.  | | | |A turn is divided into three "
+"phases, as shown below. These phases are completed in the order shown, "
+"starting with the Command phase and ending with the Combat phase.  |Players "
+"can either set a number of turns to play or fight until one side is forced "
+"to withdraw.  |See xref::end-of-the-battle.adoc[].  | a|"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:58
+msgid ""
+"[.bo5a]#Troops are moved# |The player whose turn it is [.bo5a]#can move his "
+"forces in the# Command phase Command phase. [.bo5a]#Units# can either move "
+"on their initiative or in response to orders as they receive them.  |See "
+"xref::command.adoc[].  | a|"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:59
+#: en/revolution/modules/rules/pages/shooting.adoc:1
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:143
+#, no-wrap
+msgid "Shooting"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:71
+msgid ""
+"Troops shoot with missile weapons.  |The player whose turn it is can now "
+"direct missile fire.  Shooting includes short-ranged weapons such as bows, "
+"as well as longer ranged weapons like cannons, and magic spells. Often these "
+"will be out of range of the enemy, so there will be no shooting that turn.  |"
+"See xref::shooting.adoc[].  | a|"
+msgstr ""
+
+#.  Deleted "After shooting is complete, the players work out any hand-to-hand combat."
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:75
+msgid "Both sides fight hand-to-hand combat."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:84
+msgid ""
+"|In the Combat phase both sides fight. This phase is a bit different to the "
+"other phases because it is not just the player whose turn it is that takes "
+"part. In the Combat phase both players fight with all their troops that are "
+"engaged.  |See xref::combat.adoc[].  a|"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:85
+#, no-wrap
+msgid "3"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:88
+#, no-wrap
+msgid "The Battle Ends"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:105
+msgid ""
+"The game finishes when one player concedes defeat or an army is forced to "
+"withdraw from the battle or, if players prefer, when an agreed number of "
+"turns have passed.  |Once a player has completed his Combat phase his turn "
+"is over and it’s his opponent’s turn. His opponent then takes a turn in the "
+"same way, starting with Command and ending with Combat. It is then the first "
+"player’s turn again and so on until both players have completed the "
+"predetermined number of turns or until one side concedes defeat or is forced "
+"to leave the battlefield.  |See xref::end-of-the-battle.adoc[].  a|"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:106
+#, no-wrap
+msgid "4"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/game-sequence.adoc:109
+#, no-wrap
+msgid "Hail the victor!"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/game-sequence.adoc:119
+msgid ""
+"Once the game is over and the dust of battle settles, it is time to work out "
+"who has won.  | Once the battle is over, both players add up the number of "
+"victory points they have scored. The more enemy units they have destroyed, "
+"the more victory points they will accrue.  |See xref::end-of-the-battle."
+"adoc[]."
+msgstr ""

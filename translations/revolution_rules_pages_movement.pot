@@ -1,0 +1,1837 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:46
+#: en/revolution/modules/rules/pages/flying-units.adoc:104
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:21
+#: en/revolution/modules/rules/pages/movement.adoc:262
+#: en/revolution/modules/rules/pages/movement.adoc:860
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:28
+#, no-wrap
+msgid "Terrain"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/characters.adoc:267
+#: en/revolution/modules/rules/pages/command.adoc:535
+#: en/revolution/modules/rules/pages/movement.adoc:356
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:836
+#, no-wrap
+msgid "Character movement"
+msgstr ""
+
+#. // Significant difference with Bo5A, where the
+#. // charging stand is allowed to wrap around to the
+#. // flank (in the illustrated example)
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:102
+#: en/revolution/modules/rules/pages/combat.adoc:526
+#: en/revolution/modules/rules/pages/combat.adoc:1184
+#: en/revolution/modules/rules/pages/combat.adoc:1187
+#: en/revolution/modules/rules/pages/confusion.adoc:176
+#: en/revolution/modules/rules/pages/confusion.adoc:197
+#: en/revolution/modules/rules/pages/game-values.adoc:322
+#: en/revolution/modules/rules/pages/game-values.adoc:330
+#: en/revolution/modules/rules/pages/game-values.adoc:347
+#: en/revolution/modules/rules/pages/game-values.adoc:363
+#: en/revolution/modules/rules/pages/movement.adoc:429
+#: en/revolution/modules/rules/pages/movement.adoc:432
+#: en/revolution/modules/rules/pages/movement.adoc:481
+#: en/revolution/modules/rules/pages/movement.adoc:484
+#: en/revolution/modules/rules/pages/movement.adoc:507
+#: en/revolution/modules/rules/pages/movement.adoc:663
+#: en/revolution/modules/rules/pages/movement.adoc:720
+#, no-wrap
+msgid "{empty}"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:125
+#: en/revolution/modules/rules/pages/movement.adoc:373
+#, no-wrap
+msgid "Sequence of charges"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:131
+#: en/revolution/modules/rules/pages/movement.adoc:397
+#, no-wrap
+msgid "Enemy in sight"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:143
+#: en/revolution/modules/rules/pages/movement.adoc:455
+#, no-wrap
+msgid "The charge move"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:149
+#: en/revolution/modules/rules/pages/movement.adoc:512
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:224
+#, no-wrap
+msgid "Forming a battle line"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/combat.adoc:155
+#: en/revolution/modules/rules/pages/movement.adoc:546
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:255
+#, no-wrap
+msgid "Contact with other enemy"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:161
+#: en/revolution/modules/rules/pages/movement.adoc:614
+#, no-wrap
+msgid "Exceptions & anomalies"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:167
+#: en/revolution/modules/rules/pages/movement.adoc:623
+#, no-wrap
+msgid "Unable to contact centre-to-centre"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:173
+#: en/revolution/modules/rules/pages/movement.adoc:640
+#, no-wrap
+msgid "Unable to form a battle line"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:179
+#: en/revolution/modules/rules/pages/movement.adoc:666
+#, no-wrap
+msgid "Blocked edges"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:185
+#: en/revolution/modules/rules/pages/movement.adoc:694
+#, no-wrap
+msgid "Pinned targets"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:191
+#: en/revolution/modules/rules/pages/movement.adoc:723
+#, no-wrap
+msgid "Irregular formations"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:197
+#: en/revolution/modules/rules/pages/movement.adoc:744
+#, no-wrap
+msgid "Enveloping charge"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat.adoc:559
+#: en/revolution/modules/rules/pages/movement.adoc:567
+#, no-wrap
+msgid "Supporting charges"
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat.adoc:1106
+#: en/revolution/modules/rules/pages/command.adoc:506
+#: en/revolution/modules/rules/pages/flying-units.adoc:192
+#: en/revolution/modules/rules/pages/movement.adoc:322
+#, no-wrap
+msgid "Optional rule"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/command.adoc:451
+#: en/revolution/modules/rules/pages/movement.adoc:948
+#, no-wrap
+msgid "Dense terrain"
+msgstr ""
+
+#. as
+#. defined in the Warmaster rulebook as well as the rules
+#. that follow.
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:1
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:89
+#, no-wrap
+msgid "Movement"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:23
+msgid ""
+"Units move when given an order or by using initiative in the Command phase "
+"as explained in the Command section.  Units can also move in the Shooting or "
+"Combat phases as explained in the corresponding rules sections. This section "
+"covers all the general movement rules for units including rules for various "
+"types of terrain. Rules for moving characters can be found under the xref:"
+"characters.adoc[Generals, Heroes and Wizards] section."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:24
+#, no-wrap
+msgid "Movement distances"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:32
+msgid ""
+"[.bo5a]#The maximum distance a unit can move depends upon its troop type and "
+"formation. Some troops are naturally faster than others – cavalry are faster "
+"than infantry, for example.# Troops arranged in a regular formation are able "
+"to move more quickly than units in an irregular formation."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:42
+msgid ""
+"Broadly speaking, infantry units and monsters move up to 20cm at a time, "
+"cavalry and chariots move 30cm and artillery, such as stone throwers and "
+"cannons, move 10cm. Flying troops can move up to 100cm but their movement is "
+"governed by special rules, as described later. The chart below gives the "
+"full pace move distances for each troop type plus the half pace movement. In "
+"each case, distances are maximums and the player can move the unit a shorter "
+"distance if he wishes."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:43
+#, no-wrap
+msgid "Movement Chart"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:57
+#, no-wrap
+msgid ""
+"|Types |Full Pace |Half Pace\n"
+"\n"
+"|Infantry     |20cm  |10cm\n"
+"|Cavalry      |30cm  |15cm\n"
+"|Chariots     |30cm  |15cm\n"
+"|Artillery    |10cm  |5cm\n"
+"|Monsters     |20cm  |10cm\n"
+"|Machines   2+|Varies – See the Artillery & Machines section\n"
+"|Flying Units |100cm |10cm\n"
+"|Characters   |60cm  |60cm\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:61
+msgid ""
+"You’ll find a few exceptions to these moves in the army lists later in the "
+"book but for now we don’t need to worry about these oddities."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:63
+#, no-wrap
+msgid "movement/daemon.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:66
+#, no-wrap
+msgid "Formation"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:81
+msgid ""
+"Each unit must be arranged in formation. By this we mean that all the stands "
+"in the unit are placed in touch so they form a *line*, *column* or "
+"*irregular* formation, as described below."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:94
+msgid ""
+"Units *charging* or *evading* can move up to full pace regardless of their "
+"formation. Charge and evade moves are described later in this section."
+msgstr ""
+
+#.  TODO link
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:101
+msgid ""
+"All units wholly or partially in a fortified position at the start of their "
+"movement can only move at half pace regardless of their formation unless "
+"they are charging or evading, in which case they move at full pace as noted "
+"above. [.bo5a]#See xref:shooting.adoc#defended-fortified-targets[Shooting] "
+"and xref:combat.adoc[Combat] for more about defended and fortified units.#"
+msgstr ""
+
+#.  Units in a column are said to be in a *regular* formation.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:107
+msgid ""
+"Units arranged in a *column* with stands placed one behind the other (as "
+"shown in picture below), either edge-to-edge or corner-to-corner, can move "
+"at full pace unless in a fortified position as noted above."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:109
+#, no-wrap
+msgid "In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:110
+#, no-wrap
+msgid "movement/column-formation.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:115
+msgid ""
+"Units arranged in a straight *line* with all their stands facing in the same "
+"direction and butted edge-to-edge move at full pace unless in a fortified "
+"position, as noted earlier."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:116
+#, no-wrap
+msgid "Infantry and cavalry arranged into a straight line. This is the most effective fighting formation."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:117
+#, no-wrap
+msgid "movement/cavalry-line-formation.webp"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:119
+#: en/revolution/modules/rules/pages/movement.adoc:168
+#, no-wrap
+msgid "movement/infantry-line-formation.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:129
+msgid ""
+"All units in other formations or circumstances move at half pace. For "
+"example, infantry are able to move up to 10cm, cavalry up to 15cm and so on. "
+"This represents the fact that the unit is out of regular formation and that "
+"it is necessary to regroup in order to move. For convenience, we refer to "
+"all these formations as *irregular*. Note that the only situation where an "
+"irregular formation moves at full pace is when it charges or evades."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:130
+#, no-wrap
+msgid "Units in irregular formations move at half pace to represent the fact that their ranks are disrupted."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:131
+#, no-wrap
+msgid "movement/irregular-formation-1.webp"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:133
+#, no-wrap
+msgid "movement/irregular-formation-2.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:139
+msgid ""
+"In some circumstances, units move a distance determined by rolling dice or "
+"by the results of combat (such as drive backs, retreat moves and advances). "
+"These distances are not affected by the unit’s formation."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:143
+#, no-wrap
+msgid "The move"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:150
+msgid ""
+"When moving a unit, move each stand one at a time.  Experienced players "
+"usually find it convenient and quicker to move whole units at once but in "
+"principle, stands always move one at a time to ensure a path can be traced."
+msgstr ""
+
+#.  Ancients/Bo5a: Paragraph break added
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:159
+msgid ""
+"Select one stand from the unit and move it. Then move the second stand into "
+"formation with it. Then move the third to complete the formation (assuming a "
+"unit of three stands). Note there is no need for the unit to retain its "
+"original formation – the stands are simply re-arranged as needed when the "
+"unit moves."
+msgstr ""
+
+#.  TODO: add diagram (Ancients) and "See".
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:166
+msgid ""
+"All stands must be able to trace a clear path to their position in the "
+"unit’s final formation. Stands do not have to move to their front – they can "
+"move backwards, to the side, at an angle or in any orientation or direction."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:167
+#, no-wrap
+msgid "Stands in the same unit must touch but can be arranged into any formation you like."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:170
+#, no-wrap
+msgid "movement/formation-touch-2.webp"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:172
+#, no-wrap
+msgid "movement/formation-touch-3.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:178
+msgid ""
+"No part of a stand can move further than its permitted maximum movement "
+"distance. Always measure from the part of the stand that moves the greatest "
+"distance – this will often be one of the corners."
+msgstr ""
+
+#.  TODO: add diagrem (Ancients) and "See"
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:190
+msgid ""
+"A stand cannot move through the base area of a stand from *another* unit "
+"whether friend or foe either wholly or in part. A stand can move through "
+"other stands of the *same* unit if they have not yet moved and are not "
+"engaged in combat. This allows stands to move out of their own unit’s "
+"formation without jamming each other. Even where they belong to the same "
+"unit. A stand cannot move through other stands who have already moved or are "
+"engaged in combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:195
+msgid ""
+"Stands can move through terrain appropriate to their type as note below. "
+"Stands cannot move through terrain if it is impenetrable to their type.  See "
+"the section on <<terrain>>."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:200
+msgid ""
+"There is an exception to the rule that prevents stands moving through other "
+"units – this happens when a unit bursts through another during an evade and "
+"is <<the-path-of-evaders,described later>>."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:203
+msgid ""
+"Stands can always move through characters as described in the xref:"
+"characters.adoc[Generals, Heroes and Wizards section]."
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/movement.adoc:208
+msgid ""
+"The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
+"Movement] with further examples, including pivoting"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:210
+#, no-wrap
+msgid "movement/helm.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/movement.adoc:213
+#, no-wrap
+msgid "Moving through gaps"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:220
+msgid ""
+"When a stand moves, it can be oriented to pass through any gap so long as "
+"the gap is at least as wide as the stand’s shortest edge, usually this will "
+"be 20mm. For example, an infantry stand might be turned to its side to move "
+"through a gap between impassable walls and a river."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:241
+msgid ""
+"Except as noted later, a stand cannot pass through a gap between any of the "
+"following unless the gap is *wider* than the stand’s *frontage*: two enemy "
+"stands, an enemy stand and a friendly stand, or an enemy stand and "
+"impassable terrain. This means that the gaps must be more than 40mm for "
+"infantry and more than 20mm for cavalry.  [.wmr]#See <<move-through-gap>> "
+"and <<cannot-move-through-gap>>.#"
+msgstr ""
+
+#.  TODO check? Ancients has some extra here.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:250
+msgid ""
+"This rule prevents units moving through gaps whilst close to enemy units and "
+"where there is little room for effective manoeuvring. Note that although "
+"stands are not permitted to pass between enemy stands as described, this "
+"does not prevent them moving between such stands to charge them, assuming "
+"there is room to do so (See xref::combat.adoc#moving-chargers[Moving "
+"Chargers])."
+msgstr ""
+
+#.  TODO: Low-priority diagram text
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:252
+#, no-wrap
+msgid "Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:253
+#, no-wrap
+msgid "movement/move-through-gap.webp"
+msgstr ""
+
+#.  TODO: Low-priority diagram text
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:256
+#, no-wrap
+msgid "This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:257
+#, no-wrap
+msgid "movement/cannot-move-through-gap.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:266
+msgid "→ Moved to <<terrain>> at the end of this chapter."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:269
+#, no-wrap
+msgid "Moving by initiative"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:273
+msgid ""
+"→ Moved to xref:command.adoc#initiative-movement[Command, Initiative "
+"movement]."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:274
+#, no-wrap
+msgid "movement/anvil.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:277
+#, no-wrap
+msgid "The evade"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:290
+msgid ""
+"An evade is a deliberate attempt to avoid an enemy by using initiative to "
+"move away. Evading units always move directly away from the closest enemy "
+"they can see."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:294
+msgid ""
+"Evading units can move up to a full pace move regardless of their formation. "
+"They can move less if they want."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:302
+msgid ""
+"When we say ‘directly away’ or, for that matter, ‘directly towards’, the "
+"direction is established by placing a tape measure between the closest "
+"points of the closest two opposing stands. Where stands are equally close, "
+"the evading player may choose between them. The resulting line indicates the "
+"exact direction in which the evaders move. See <<evade-direction>>."
+msgstr ""
+
+#. Move the evading unit one stand at a time. First, move
+#. the evading stand that is closest to the enemy.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:317
+msgid ""
+"[.bo5a]#Move the evading stand that is closest to the enemy first.# This "
+"stand must move in a straight line in the indicated direction directly away "
+"from the evaded enemy. The stand can be oriented to face any direction "
+"during its move allowing the evaders to move through gaps, turn to face "
+"their enemy, or change the stand’s final facing. Move the rest of the stands "
+"one stand at a time and arrange them into the unit’s new formation. Remember "
+"to take into account any necessary distance required to reorient stands as "
+"they move."
+msgstr ""
+
+#.  TODO: Low-priority diagram text
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:319
+#, no-wrap
+msgid "The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:320
+#, no-wrap
+msgid "movement/evade-direction.webp"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/movement.adoc:328
+#, no-wrap
+msgid ""
+"*Light Cavalry:* a Cavalry unit with 6+ Armour can\n"
+"evade in any direction, not just directly away from\n"
+"the enemy. Note that it is still obliged to move in a\n"
+"straight line when evading.\n"
+msgstr ""
+
+#.  Bo5A says 1cm, not 5.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:336
+msgid ""
+"Evading units cannot move through terrain they could not normally enter, nor "
+"through enemy units or combat engagements. An evading unit must end its move "
+"at least 5cm from any enemy unit or any unit engaged in combat.  If unable "
+"to comply, units cannot evade."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:347
+msgid ""
+"An evading unit can move through a friendly unengaged unit if the player "
+"wishes assuming the evaders have sufficient move to pass completely through. "
+"This is called a *burst through* and is an exception to the normal rule that "
+"units can’t move through each other. The burst through represents a "
+"situation where trained troops in good order manoeuvre through each other, "
+"one unit opening up its ranks to allow the other to pass. See <<evade-burst-"
+"through>>. This obviously takes time, so a unit which is burst through is "
+"automatically *confused*! See the xref::confusion.adoc[Confusion section]."
+msgstr ""
+
+#.  New caption added, diagram text altered slightly for grammar.
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:349
+#, no-wrap
+msgid "Evaders bursting through a friendly unit"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:350
+#, no-wrap
+msgid "movement/evade-burst-through.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:352
+#, no-wrap
+msgid "movement/treemen.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:360
+msgid ""
+"→ Moved to xref:command.adoc#character-movement[Command, Character movement]."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:361
+#, no-wrap
+msgid "movement/sun.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:364
+#, no-wrap
+msgid "The charge"
+msgstr ""
+
+#.  Moved from Combat chapter (was Moving Chargers)
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:372
+msgid ""
+"The rules for moving chargers may look a bit intimidating at first but do "
+"not worry! Almost all moves happen in an obvious way. Many of the following "
+"rules are intended to overcome any unusual circumstances you might come "
+"across where care may be needed."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:383
+msgid ""
+"The term ‘charge’ describes a unit’s movement into contact with an enemy "
+"unit during the Command phase whether by initiative or by means of an "
+"order.  Units which move by initiative are moved before units which move by "
+"orders but, apart from this, there is no obligation to move charging units "
+"in any particular order.  Charges occur throughout the Command phase as "
+"units move against enemy units."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:390
+msgid ""
+"Where a charge is intended, the player must say so before any stands are "
+"moved as this alerts both players to the need for care. A unit is not "
+"obliged to charge just because the player has stated it – the move may prove "
+"impossible or player might simply change his mind for any reason."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:394
+msgid ""
+"During a charge, each stand can move up to its full pace distance regardless "
+"of the unit’s formation at the stand of the move."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:395
+#, no-wrap
+msgid "combat-phase/orc-boss.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:410
+msgid ""
+"At least one stand from the charging unit must be able to see the target "
+"enemy unit at the start of the unit’s charge move. If none of a unit’s "
+"stands can see the intended target then it cannot charge it.  [.bo5a]#See "
+"the section on xref:game-values#visibility-on-the-battlefield[Visibility on "
+"the battlefield]#.  Note that because units move one after the other it is "
+"possible for one unit’s move to clear or block the line of sight for "
+"another; it is therefore important to take care when deciding which units to "
+"move and in what sequence."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/movement.adoc:412
+#, no-wrap
+msgid "Front, flank and rear"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:419
+msgid ""
+"The charging unit can potentially contact against the front, side or rear of "
+"an enemy — this is an important distinction because stands suffer a penalty "
+"if enemy are fighting to their side or rear as described in the xref:combat."
+"adoc[Combat] section."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:428
+msgid ""
+"For purposes of working out where to position units during a charge, the "
+"area around each stand is divided into four zones as shown on the "
+"accompanying diagrams.  The division between each zone bisect the corners of "
+"the stand at the angle of 135 degrees relative to the edge.  Zones are self "
+"evident in most situations and can be checked using a simple guide if "
+"necessary. See <<zone-infantry>> and <<zone-cavalry>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:430
+#, no-wrap
+msgid "combat-phase/zone-infantry.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:433
+#, no-wrap
+msgid "combat-phase/zone-cavalry.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:442
+msgid ""
+"Once a unit’s intention to charge has been declared, begin by considering "
+"the position of the entire charging unit relative to the *closest visible "
+"stand* in the target unit. If the charging unit begins its move in the "
+"stand’s front zone then it charges to the front, if it begins to the stand’s "
+"flank it charges in the side, and if it begins to the rear it charges in the "
+"rear. See <<charge-move-1>>."
+msgstr ""
+
+#.  Spelling front, e.g.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:452
+msgid ""
+"If the charging unit is not entirely within a single zone then it counts as "
+"being in the zone that it mostly occupies. So, if a unit is between the "
+"front and flank but the greater proportion is to the front, the unit counts "
+"as in the front. If a unit is positioned in such a way that it is exactly "
+"divided between two zones then roll a dice to decide – e.g. 1, 2, or 3 the "
+"front; 4, 5, or 6 the side. See <<charge-move-2>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:453
+#, no-wrap
+msgid "combat-phase/chaos-knights.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:464
+msgid ""
+"In most situations it is a simple matter to position the charging unit "
+"against the indicated front, side, or rear edge of the enemy unit. In some "
+"cases extra care is called for. Players who are unfamiliar with the game "
+"should make a point of moving the stands one at a time, as described below, "
+"until they are used to the placement rules."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:469
+msgid ""
+"To begin, the charging player selects one stand from the charging unit. Any "
+"stand may be chosen – it does not have to be the closest. This stand must be "
+"able to see the enemy and must have a clear path to the target."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:473
+msgid ""
+"The selected charging stand is moved into place against the enemy stand that "
+"has already been identified as the closest visible stand to the charging "
+"unit."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:480
+msgid ""
+"Move the charging stand so that its front edge contacts the appropriate edge "
+"of the enemy stand. If the unit is charging from the front zone, place the "
+"charger against the enemy stand’s front edge.  [.bo5a]#If it is charging "
+"from the flank, place the charger against the side. If from the rear, place "
+"the charger against the rear edge.#"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:482
+#, no-wrap
+msgid "combat-phase/charge-move-1.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:485
+#, no-wrap
+msgid "combat-phase/charge-move-2.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:503
+msgid ""
+"If possible, place the charging stand exactly centre-to-centre against the "
+"edge of the target stand – see <<maximise-frontage-1>>. If this is "
+"impossible, for whatever reason, see <<unable-to-contact-centre-to-centre>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:508
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:245
+#, no-wrap
+msgid "combat-phase/maximise-frontage-1.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:510
+#, no-wrap
+msgid "combat-phase/chaos-knight-hero.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:522
+msgid ""
+"Once the first charging stand has been positioned, the remaining stands are "
+"placed one at a time to make a line formation or ‘battle line’. Each stand "
+"must be able to trace a line to its new position as it moves. Note that it "
+"doesn’t matter what formation the unit is in when it begins its charge, "
+"charging units always form a battle line if they can do so [.bo5a]#– if they "
+"are unable to do so then see <<unable-to-form-a-battle-line>> below.#"
+msgstr ""
+
+#. Stands are placed into a coherent formation as they move.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:531
+msgid ""
+"[.bo5a]#To form the battle line,# place the second stand beside the first, "
+"and place the third stand beside either the first or second. You cannot "
+"leave a gap in the battle line and then fill it later. The reason for "
+"breaking down movement by individual stands is to make sure each stand has "
+"an accessible route to its final place in the battle line."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:533
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:247
+#, no-wrap
+msgid "combat-phase/maximise-frontage-2.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:543
+msgid ""
+"Each stand must be placed in the battle line in such a way that as much of "
+"its front edge as possible makes contact with the enemy. This is called "
+"‘*maximising frontage*’. If it is impossible to place a stand into the "
+"battle line so that its front edge makes contact with an enemy, then it must "
+"be placed so that its front corner touches an enemy if it can. This means "
+"that the maximum number of charging stands will be drawn into the combat."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:544
+#, no-wrap
+msgid "combat-phase/dwarf-warriors.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:556
+msgid ""
+"If there are other enemy units adjacent to the target unit then the "
+"obligation to ‘maximise frontage’ extends to these other units too. So, "
+"where there is another enemy stand aligned to the target unit, a charging "
+"stand must be placed against this second enemy if this is its only way to "
+"*maximise frontage*. However, chargers will always maximise frontage against "
+"the unit they *originally* charged where they can do so."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:562
+msgid ""
+"Any additional units contacted by charging stands count as being charged and "
+"are drawn into the combat engagement – even if they are only touching corner-"
+"to-corner.  If armed with appropriate weapons they can shoot at the chargers "
+"as described in the Shooting section."
+msgstr ""
+
+#.  TODO: bo5a/ancients diagram.
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:565
+#, no-wrap
+msgid "combat-phase/helm.webp"
+msgstr ""
+
+#.  Moved from Combat section.  It's maybe not ideal to have
+#.  support mentioned here, but it's already in this general
+#.  section under Enveloping Charge.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:577
+msgid ""
+"During the Command phase, an [.edit]#infantry# unit is allowed to make a "
+"supporting charge if it is positioned behind another [.edit]#infantry unit# "
+"so that at least one stand could theoretically support in combat from the "
+"rear.  [.edit]#(See xref:combat.adoc#supporting-troops[Supporting troops] in "
+"the Combat section.)#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:583
+msgid ""
+"If the front unit charges, whether on initiative or by means of an order, "
+"then the second unit can automatically make a supporting charge. It can do "
+"so whether the first unit charges on initiative or with an order, even where "
+"the second unit was not included in a brigade order."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:592
+msgid ""
+"Note that the second unit might have more or fewer stands than the charging "
+"unit, or it could have some stands positioned to give rear support and some "
+"not.  Regardless of how stands are positioned, only one unit can make a "
+"supporting charge on behalf of another. It is not possible to place two "
+"units so that they can both make supporting charges – in such a situation, "
+"the player must choose which unit will make the supporting charge."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:599
+msgid ""
+"The supporting charge is a normal move, except the unit making the "
+"supporting charge must be placed so that it touches the first unit and at "
+"least one stand supports it either from the rear or side. No stands can be "
+"placed into [.edit]#contact# with enemies – neither into edge contact nor "
+"corner-to-corner contact."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:611
+msgid ""
+"The supporting charge is a special kind of combined move – the supporting "
+"unit’s move is rolled into that of the charging unit and is considered part "
+"of it. The charger can be thought of as carrying the supporting charger with "
+"the same order. If a unit is unable to move for whatever reason (if it is "
+"confused for example), or if it does not have sufficient move distance to "
+"move (if it is in irregular formation for example) then it cannot make a "
+"supporting charge. Also note, that after *failing* to receive its *first "
+"order* a unit cannot use its half pace move to join combat by moving into "
+"the *supporting position*."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:612
+#, no-wrap
+msgid "combat-phase/sword-banner.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:622
+msgid ""
+"In some situations the proximity of scenery or other stands makes it "
+"impossible to position all the chargers exactly as described. In some cases "
+"this may mean the charge is not permitted, in others that chargers can be "
+"repositioned to accommodate the situation. These circumstances are covered "
+"in the following rules sections."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:631
+msgid ""
+"The first charging stand is always positioned centre-to-centre with the "
+"closest enemy stand where possible.  If this is not possible then the first "
+"charging stand is positioned as closely to centre-to-centre as it can go, "
+"but there must be at least 1 full centimetre of exposed stand edge to "
+"contact against."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:635
+msgid ""
+"If there is less than 1 cm of exposed edge then the stand is not an eligible "
+"target because it is ‘blocked’. See below for how to deal with blocked "
+"stands."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:636
+#, no-wrap
+msgid "combat-phase/charge-blocked.svg"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:638
+#, no-wrap
+msgid "combat-phase/dwarf-hero.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:654
+msgid ""
+"If a stand has insufficient room or insufficient move distance to form a "
+"straight battle line, it must be placed either directly behind, or beside "
+"and staggered back from a stand that has already moved. Stands placed behind "
+"must be positioned facing the same direction as the stand in front of them. "
+"Stands that are staggered back can be placed with as much or as little of "
+"their stands touching as the player wishes, but must contact with a fellow "
+"stand at least corner to corner. Either way the unit must retain a coherent "
+"formation with all stands touching. If a unit is unable to both charge *and* "
+"retain a coherent formation then the move is not allowed. See <<f-unable-to-"
+"form-a-battle-line>>."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:662
+msgid ""
+"Any additional enemy units contacted as a result of the placement of these "
+"stands also count as being charged and are drawn into the combat engagement "
+"– even if chargers are only touching at their side or rear edge.  If armed "
+"with appropriate shooting weapons they are entitled to shoot at the charging "
+"unit as described in the Shooting section."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:664
+#, no-wrap
+msgid "combat-phase/unable-to-form-a-battle-line.svg"
+msgstr ""
+
+#.  Spelling available
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:678
+msgid ""
+"In some situations a charging unit will be unable to charge because, "
+"although it can see the enemy unit, the indicated edge of the closest stand "
+"is blocked.  The indicated edge could conceivably be blocked by impassable "
+"terrain, by other enemy stands, or by stands from other friendly units that "
+"have already engaged the enemy unit in combat. Remember, an edge is blocked "
+"not only if it is completely covered, but also if there is less than 1cm of "
+"exposed edge available to contact."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:684
+msgid ""
+"In all these situations the charger moves the charging stand against the "
+"next closest stand in the target unit, assuming this stand is an accessible "
+"visible stand within the same zone. If this stand edge is also blocked then "
+"the charger can move to the third closest stand, and so on."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:685
+#, no-wrap
+msgid "combat-phase/closest-visible-stand.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:693
+msgid ""
+"If no accessible edge is presented by any stand in the target unit then the "
+"charge is not normally allowed – for example, if there is impassable terrain "
+"covering the unit’s front edge and the charger is positioned in the target’s "
+"front zone. The exception to this is a ‘pinned’ enemy unit as described "
+"below."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:699
+msgid ""
+"If the indicated edge of the entire enemy target unit has already been "
+"covered by stands from other friendly units then the unit is described as "
+"*pinned*."
+msgstr ""
+
+#. // Difference with Bo5A/Ancients
+#. [.bo5a]#Note that *all* appropriate
+#. edges have to be covered by opposing stands – not by a mix of
+#. opposing stands and terrain for example.#
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:713
+msgid ""
+"In the case of a pinned target, the first charging unit can move into corner-"
+"to-corner contact with the closest enemy stand assuming the charger can see "
+"it and has a clear path.  This is an exception to the normal rule that "
+"stands must charge edge-to-edge. See <<f-pinned-target>>."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:721
+#, no-wrap
+msgid "combat-phase/pinned-target.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:731
+msgid ""
+"If the target unit is in irregular formation then it might not be possible "
+"for all the charging stands to engage by forming a conventional battle line. "
+"In this case the first charging stand is placed in the standard way as "
+"already described. It is only the remaining chargers that are placed "
+"differently."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:735
+msgid ""
+"Remaining charging stands are placed in a line but staggered to the front or "
+"rear so that they follow the shape of the stands presented by the enemy unit."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:741
+msgid ""
+"Although these charging stands might touch the enemy only at a corner or "
+"along part of their front edge, they are considered to be maximising "
+"frontage so long as they have the maximum portion of enemy stand directly to "
+"their front."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:742
+#, no-wrap
+msgid "combat-phase/irregular-formations.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:752
+msgid ""
+"The ‘envelop’ rule applies when a unit is charged in the side – it "
+"represents a unit’s inability to turn enough troops quickly enough to avoid "
+"being enveloped by an enemy charge. The reason for this rule is to avoid "
+"situations where it is otherwise disadvantageous to charge a unit in the "
+"side because only a single stand can touch."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:763
+msgid ""
+"When a unit charges an enemy unit from the flank and contacts only against "
+"the side of an enemy stand or stands, then any charging stands that would "
+"not otherwise touch the enemy when forming a battle line are allowed to make "
+"a further move into contact with the charged enemy unit as described for a "
+"pursuit. Stands must have sufficient move distance remaining from their "
+"charge move to make the envelopment move."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:777
+msgid ""
+"This is called an ‘enveloping charge’ and it is entirely up to the charger "
+"whether to envelop or form a conventional battle line. Each stand enveloping "
+"in this way must move so that its front corner contacts the charged enemy "
+"unit, otherwise these stands can be positioned as the player wishes so long "
+"as they remain in formation. Enveloping stands can contact other enemy units "
+"and therefore bring them into the combat, but they must also contact the "
+"charged unit either to their front edge or front corner as described. Note "
+"that this is comparable to a normal pursuit move in most respects – the "
+"enveloping charge effectively combines a charge and pursuit into a single "
+"move."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:782
+msgid ""
+"If chargers are infantry with supporting chargers then move both the "
+"charging and supporting units and work out any shooting first. Supporting "
+"units remain in their battle line and do not envelope."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:783
+#, no-wrap
+msgid "combat-phase/enveloping-charge.svg"
+msgstr ""
+
+#. // Ancients and Bo5A have two additional cases
+#. // - Charging inaccessible edges
+#. // - Charging fortified enemy
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:791
+#, no-wrap
+msgid "combat-phase/battle-view.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement.adoc:793
+#, no-wrap
+msgid "Units which move off the table"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:800
+msgid ""
+"Sometimes units or characters are obliged to move off the table. This can "
+"happen when a unit receives a ‘blundered’ order but can also happen to units "
+"that are defeated in combat or troops driven back by missile fire or magic."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement.adoc:809
+msgid ""
+"If one or more stands in a unit leaves the table edge, whether wholly or "
+"partially the whole unit leaves the table. Units that leave the table as a "
+"result of retreating from combat are deemed destroyed. In any other "
+"situation roll a D6 and then consult the table below to see what happens. "
+"Deduct −1 from the roll for each of the unit’s stands that has already been "
+"removed as a casualty and apply the result immediately."
+msgstr ""
+
+#.  Difference: Ancients says no initiative moves for 5-6, orders only.
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:835
+#, no-wrap
+msgid ""
+"|D6 |Result\n"
+"\n"
+"|0 or less\n"
+"|The unit/character leaves the battlefield and\n"
+"does not return. The unit/character is\n"
+"considered to have been destroyed.\n"
+"\n"
+"|1–2\n"
+"|The unit/character leaves the battlefield and\n"
+"may or may not reappear. At the start of its\n"
+"side’s next turn, before initiative moves are\n"
+"made, roll again on this chart.\n"
+"\n"
+"|3–4\n"
+"|The unit/character reappears at the table edge\n"
+"at the same point it left. The unit/character\n"
+"cannot move further that turn.\n"
+"\n"
+"|5–6\n"
+"|The unit/character reappears at the same\n"
+"point on the table edge it left from. If it is\n"
+"reappearing at the beginning of a turn, it may\n"
+"move as normal.\n"
+msgstr ""
+
+#. //
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:842
+#, no-wrap
+msgid ""
+"When a unit reappears on the table it must retain the\n"
+"same formation and face the same direction as when it\n"
+"left the table.\n"
+"\n"
+msgstr ""
+
+#.  Difference: Ancients says rear edge against the table edge, facing forward.
+#. //
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:845
+msgid "Infantry in line or column, cavalry in a line."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:858
+msgid ""
+"Characters who move off the table with units they have joined suffer the "
+"same fate as the unit. Characters who are on their own must roll in the "
+"unlikely event that they leave the table.  If a General leaves the table "
+"(for whatever reason) and does not return immediately then the battle is "
+"over and his army withdraws. He abandons his army and heads for the hills "
+"and is considered to be a casualty. See the xref:end-of-the-battle.adoc[End "
+"of the Battle] section."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:858
+#, no-wrap
+msgid "movement/griffon.webp"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:864
+#, no-wrap
+msgid "====\n"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:870
+#, no-wrap
+msgid ""
+"The _Advanced Terrain_ rules in the rulebook extend the basic _Terrain_\n"
+"rules, they do not replace them. The two sections have been combined\n"
+"here.\n"
+"\n"
+"See the 2025 xref:questions-and-answers.adoc[].\n"
+"====\n"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:882
+msgid ""
+"By terrain we mean woods, hills, rivers and other features that might "
+"conceivably be found on the battlefields.  Many of these features hinder "
+"troops because they impose a Command penalty. In some cases, features can be "
+"impenetrable to one or more troop types.  [.edit]#This can# radically affect "
+"strategy, providing strong points to defend as well as obstructions to "
+"movement."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:884
+#, no-wrap
+msgid "Open ground"
+msgstr ""
+
+#. //
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:892
+msgid ""
+"This is the term used for the predominantly open area of the battlefield "
+"represented by the flat table surface. Of course, in reality even supposedly "
+"open and level ground is likely to be slightly undulating and might include "
+"any number of individual trees, the odd house, a few boulders, and so on. "
+"For our purposes, the flat table surface will provide perfectly serviceable."
+msgstr ""
+
+#.  Comment: I understand "grown fields" to mean "cultivated fields",
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:901
+#, no-wrap
+msgid ""
+"*Infantry* can move into or over terrain features with no\n"
+"reduction to their movement distance.\n"
+"\n"
+"*Cavalry* and monsters can’t move into or over terrain\n"
+"features on the battlefield except for hills, bridges,\n"
+"shallow fordable rivers, grown fields and low obstacles\n"
+"(hedges, walls, fences or ditches, for example).\n"
+"\n"
+msgstr ""
+
+#.  i.e. "Loose terrain". This is then consistent with cavalry
+#.  being unable to enter dense terrain.
+#.  Comment: conflicts with description of Villages
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:908
+#, no-wrap
+msgid ""
+"*Chariots and artillery* cannot move into or over terrain\n"
+"features on the battlefield except for hills and bridges.\n"
+"\n"
+msgstr ""
+
+#. //
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:944
+#, no-wrap
+msgid ""
+"*Machines* have special rules but in general treat terrain\n"
+"in the same way as chariots.\n"
+"\n"
+"There are rules in the rulebook and army lists referring\n"
+"to some terrain features as a *dense terrain*. A *dense\n"
+"terrain* imposes −1 Command penalty as described in\n"
+"xref::movement.adoc#terrain[Command phase – Terrain]. Typical dense terrain\n"
+"features are woods, built-up areas and broken or marshy\n"
+"ground (for more detail see xref::advanced-terrain-rules.adoc[Advanced Terrain Rules]).\n"
+"\n"
+"Any other feature large enough to warrant representation\n"
+"on the tabletop is considered to form a barrier to cavalry,\n"
+"chariot, monster, machine and artillery movement\n"
+"(unless players choose to agree otherwise before the\n"
+"game).\n"
+"\n"
+"Hills can be moved over by all troops if they are\n"
+"essentially open and quite shallow but steep, rock strewn\n"
+"or wooded hills are considered impenetrable to all units\n"
+"except infantry.\n"
+"\n"
+"In some exceptional cases, terrain might be considered\n"
+"a barrier to all troops, including infantry as well as\n"
+"cavalry, etc. Obvious examples include a huge canyon,\n"
+"a lake of molten lava, the ocean or an especially large\n"
+"river. These are unusual and entertaining features but\n"
+"don’t really enter into the majority of games, so we won’t\n"
+"concern ourselves with them any further. If you refer to\n"
+"the Advanced Terrain Rules section you’ll find further\n"
+"examples of rules for unusual terrain.\n"
+"\n"
+"Comment: It's thoroughly confusing having the terrain\n"
+"rules split between two chapters, especially when some\n"
+"of the differences are fairly minor (muddy vs cultivated fields).\n"
+msgstr ""
+
+#.  (Breaking description list)
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:954
+msgid ""
+"Several terrain features listed here, and some rules in the army lists, "
+"refer to *dense terrain*.  Units suffer a −1 Command penalty if any stand "
+"lies within dense terrain when an order is given as described in xref::"
+"command.adoc#dense-terrain[Command penalties]."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:958
+#, no-wrap
+msgid "2cm visibility terrain"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:962
+msgid ""
+"When within woods and villages, troops cannot draw a line of sight except "
+"that stands placed within 2cm of the edge can see out, and can be seen by "
+"troops outside."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:966
+msgid ""
+"By the same token, troops further inside the woods or village can see and be "
+"seen by other troops up to 2cm away."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/movement.adoc:967
+#, no-wrap
+msgid "Types of terrain"
+msgstr ""
+
+#.  Minor spelling/grammar
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:970
+#, no-wrap
+msgid "Hills and slopes"
+msgstr ""
+
+#. //
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:980
+msgid ""
+"These impose no penalties on the movement of troops. All units can move over "
+"hills and slopes so long as they are not especially steep, rugged, or "
+"otherwise difficult – such features must be stated before the game. The "
+"overall footprint of hill models, including slopes, blocks line of sight. "
+"Infantry and artillery stands positioned on a hill are xref:combat."
+"adoc#defended[*defended*] against any units charging or shooting from a "
+"lower positions."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:983
+#, no-wrap
+msgid "Steep hills and slopes"
+msgstr ""
+
+#. //
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:989
+msgid ""
+"Slopes that are extremely steep, rugged or otherwise hard going are "
+"considered to be *dense terrain*. Dense terrain is impenetrable to all "
+"troops apart from infantry. Only infantry stands can enter dense terrain, "
+"and units suffer the -1 Command penalty if any stands lie within dense "
+"terrain when an order is given."
+msgstr ""
+
+#.  Comment/question/TODO: Is this undefended from shooting?
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:992
+#, no-wrap
+msgid "Shallow rivers or streams"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:998
+msgid ""
+"This terrain [.edit]#is impenetrable to# chariots, artillery and machines. "
+"Infantry can be xref:combat.adoc#defended[*defended*] along the river’s edge "
+"against enemy charging from within or across a stream. Streams and shallow "
+"rivers don’t block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:998
+#, no-wrap
+msgid "Broken or marshy ground"
+msgstr ""
+
+#.  Comment: Sand dunes are *very* difficult to climb or cross,
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1006
+msgid ""
+"This includes areas that are hard going for whatever reason; for example "
+"treacherous ruins, entangling scrub, irrigated or excessively muddy fields "
+"or soft marshy ground. This is *<<dense-terrain,dense terrain>>* but doesn’t "
+"block line of sight. [.qa]#Only infantry stands may enter# broken or marshy "
+"ground, and they are xref:combat.adoc#defended[*defended*] within it."
+msgstr ""
+
+#.  and don't really belong here.
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1008
+#, no-wrap
+msgid "Loose terrain"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1017
+msgid ""
+"Cultivated fields to sand dunes, rocky ground to fully grown corn fields. "
+"This terrain doesn’t necessarily give a defender any advantages, but it "
+"isn’t going to do anything to help the chargers advance.  Charging units "
+"earn *no charging bonus* when charging a unit within loose terrain. It is "
+"also impenetrable to chariots, artillery and machines. Loose terrain doesn’t "
+"block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1017
+#, no-wrap
+msgid "Woods and tall scrub"
+msgstr ""
+
+#.  Difference: Ancients/Bo5A: only infantry can enter, 2cm dense terrain, just another forest.
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1022
+msgid ""
+"These consist of substantial areas of growing trees or tall vegetation. Only "
+"infantry [.edit]#may# enter and stands count as xref:combat."
+"adoc#defended[*defended*] when within.  Woods and tall scrub are *<<dense-"
+"terrain,dense terrain>>* with [.edit]#*<<low-visibility,2cm visibility>>*#."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1023
+#, no-wrap
+msgid "Villages, [.edit]#towns,# and other built-up areas"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1035
+msgid ""
+"A distinguishable bordered area consisting of [.edit]#multiple# buildings, "
+"paths, dividing walls, gardens, pasture, orchards and so forth. The entire "
+"built-up area is considered to be a broad terrain type: no account is taken "
+"of individual buildings, [.edit]#etc#. All units may enter, infantry and "
+"artillery count as xref:combat.adoc#defended[*defended*] when within. All "
+"units can be *pursued* when starting their retreat in this terrain type. "
+"Villages and towns are *<<dense-terrain,dense terrain>>* with *<<low-"
+"visibility,2cm visibility>>*."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1035
+#, no-wrap
+msgid "Individual buildings, [.edit]#boulders# or terrain features"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1040
+msgid ""
+"These are significant structures, interconnected buildings or terrain "
+"features such as boulders. These are impenetrable to all units and block "
+"line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1040
+#, no-wrap
+msgid "Rivers, lakes and other deep water"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1041
+#, no-wrap
+msgid "Ravines and deep pits"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1045
+msgid "These are impenetrable to all units and don’t block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1045
+#, no-wrap
+msgid "Sheer cliffs and mountains"
+msgstr ""
+
+#.  Bo5A difference: dense terrain penalty still applies
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1048
+msgid "These are impenetrable to all units and block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1049
+#, no-wrap
+msgid "Roads and tracks"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1059
+msgid ""
+"These permit movement to units in column formation as for open ground "
+"regardless of the type of terrain traversed. A [.edit]#stand# placed "
+"centrally across or along a road is conveniently assumed to be travelling "
+"along it despite the road’s width. Infantry placed on a road through dense "
+"terrain still counts as xref:combat.adoc#defended[*defended*], other troop "
+"types count as ‘in the open’ as usual.  If a unit moves its entire distance "
+"along a road then the *next order* will be issued with a +1 to command. "
+"Roads obviously don’t block line of sight."
+msgstr ""
+
+#.  Spelling i.e.
+#.  Spelling bridges. Separate as they are slightly different (chariots).
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1068
+msgid ""
+"Some players may prefer to move their infantry in *marching column* along "
+"the roads in the same way as cavalry, with the short edge to the front. This "
+"is perfectly possible and the 20mm side can be treated as the ‘front’ for "
+"the purpose of moving and [.edit]#determining line of# sight, however it "
+"still counts as the side when in combat with all the [.edit]#resulting# "
+"consequences."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1069
+#, no-wrap
+msgid "Bridges"
+msgstr ""
+
+#.  Bo5A: obviously doesn't consider artillery/machines, so bridges are the same as fords.
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1073
+msgid ""
+"If a river or ravine has a bridge then all troops may cross at that point "
+"without penalty.  Bridges don’t block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1074
+#, no-wrap
+msgid "Fords"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1078
+msgid ""
+"If a river has a ford, all troops except chariots, artillery or machines may "
+"also cross at the ford without penalty. Fords don’t block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1078
+#, no-wrap
+msgid "Low linear obstacles"
+msgstr ""
+
+#.  Spelling defence
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1089
+msgid ""
+"These are features such as ditches, hedges, fences, and low walls primarily "
+"intended to form property boundaries, divide fields or confine animals.  Low "
+"linear obstacles impose no restriction or penalties on the movement of "
+"infantry, cavalry or monsters, but cannot be crossed by chariots, artillery "
+"or machines.  Infantry and artillery stands placed behind a low linear "
+"obstacle count as xref:combat.adoc#defended[*defended*]. Low linear "
+"obstacles don’t block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1090
+#, no-wrap
+msgid "High linear obstacles"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1099
+msgid ""
+"These are tall features such as high walls and hedged, fenced or ditched "
+"embankments primarily intended for defence. These features are impenetrable "
+"to all troops except for infantry. Infantry can move over or through a high "
+"linear obstacle without penalty. Infantry and artillery stands placed behind "
+"a high linear obstacle count as xref:combat.adoc#fortified[*fortified*]. "
+"High linear obstacles block line of sight."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1099
+#, no-wrap
+msgid "City and fortress walls"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1103
+msgid ""
+"High walls, tall towers and large buildings block movement as you might "
+"reasonably expect. In these cases, troops must move through gateways or gaps."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1111
+msgid ""
+"The only time when ground troops can move across an intact curtain wall, "
+"tower or similar fortification is when infantry are making an assault as "
+"described in the chapter xref::siege-and-fortresses.adoc[Siege & "
+"Fortresses]. Assaulting troops come prepared with scaling ladders, grappling "
+"hooks, siege towers and a hefty dose of grim determination."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/movement.adoc:1113
+#, no-wrap
+msgid "Terrain summary"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1115
+#, no-wrap
+msgid "****\n"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1118
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:44
+#, no-wrap
+msgid "include::partial$terrain-restrictions.tsv[]\n"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/movement.adoc:1122
+#, no-wrap
+msgid "Units forced into impenetrable terrain"
+msgstr ""
+
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/movement.adoc:1129
+msgid ""
+"The rules occasionally oblige units to move into terrain they cannot [."
+"bo5a]#enter. Stands are not permitted to move so that their bases intersect "
+"with terrain that is impassable to them – either wholly or partially. Stands "
+"will automatically# halt at the edge [.bo5a]#of terrain they cannot enter#."
+msgstr ""
+
+#.  TODO: link, and be more definite.
+#. type: delimited block *
+#: en/revolution/modules/rules/pages/movement.adoc:1138
+msgid ""
+"If they are *driven back* into impassable terrain as a result of shooting or "
+"magic, units may become *confused* (see the xref::shooting.adoc[Shooting "
+"Phase] section and the xref::confusion.adoc[Confusion section]). If a unit "
+"is forced to retreat into impassable terrain during combat, then stands may "
+"be destroyed as a result (see xref::combat.adoc#retreats[Combat phase – "
+"Retreats])."
+msgstr ""
+
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/movement.adoc:1143
+msgid ""
+"The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
+"Movement] with further examples."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/movement.adoc:1145
+#, no-wrap
+msgid "movement/knights.webp"
+msgstr ""

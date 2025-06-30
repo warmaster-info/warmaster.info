@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:46
+#: en/revolution/modules/rules/pages/flying-units.adoc:104
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:21
+#: en/revolution/modules/rules/pages/movement.adoc:262
+#: en/revolution/modules/rules/pages/movement.adoc:860
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:28
+#, no-wrap
+msgid "Terrain"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command.adoc:392
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:4
+#, no-wrap
+msgid "Distance"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1118
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:44
+#, no-wrap
+msgid "include::partial$terrain-restrictions.tsv[]\n"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:1
+#, no-wrap
+msgid "Movement at a Glance"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:7
+msgid ""
+"Units move in the Command phase either by initiative or if they receive "
+"orders."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:9
+msgid ""
+"Units receiving one order after another are able to move [.ancients]#up to "
+"three# times during the Command phase."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:22
+#, no-wrap
+msgid ""
+"|Types |Full Pace |Half Pace\n"
+"\n"
+"|Infantry |20cm |10cm\n"
+"|Cavalry |30cm |15cm\n"
+"|Chariots |30cm |15cm\n"
+"|Artillery |10cm |5cm\n"
+"|Monsters |20cm |10cm\n"
+"|Machines 2+| Movement distances vary\n"
+"|Flying Units |100cm |10cm\n"
+"|Characters |60cm |60cm\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:27
+msgid ""
+"Charging units and evading units move at up to full pace. [.bo5a]#Units in# "
+"regular formations of columns or straight lines move at up to full pace "
+"unless fortified.  Fortified units and units in an irregular formation move "
+"at up to half pace."
+msgstr ""

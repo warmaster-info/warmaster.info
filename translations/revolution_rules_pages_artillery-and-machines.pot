@@ -1,0 +1,466 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:1
+#, no-wrap
+msgid "Artillery & Machines"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:9
+msgid ""
+"This section covers cannons, stone and bolt throwing war engines. Both "
+"artillery and machines share some rules in common, so we’ve included them "
+"together to avoid taking up more space than necessary. Special artillery "
+"units and machines will be described in particular armylists."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:14
+#, no-wrap
+msgid ""
+"*Artillery* describes crewed weapons such as cannons,\n"
+"Stone Throwers, Flame Cannons, etc. In most cases,\n"
+"these are arranged into units called *batteries*; a typical\n"
+"battery consisting of two individual weapons.\n"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:18
+#, no-wrap
+msgid ""
+"*Machines* describes unusual devices such as Steam Tanks\n"
+"and Gyrocopters. Each model is invariably a single unit\n"
+"in its own right.\n"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:19
+#: en/revolution/modules/rules/pages/game-values.adoc:21
+#, no-wrap
+msgid "Stands"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:26
+msgid ""
+"Artillery pieces are mounted on stands which include the weapon itself plus "
+"any necessary crew. For our purposes, the two are inseparable. After all, an "
+"artillery piece without its crew is useless and crewmen without a weapon are "
+"an embarrassment."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:28
+msgid "Machine models are based on a single stand."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:29
+#, no-wrap
+msgid "Artillery in combat"
+msgstr ""
+
+#.  See the Command phase p.13–17. removed as there's nothing particular to artillery here
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:37
+msgid ""
+"Artillery cannot use initiative to charge. The role of artillery is to shoot "
+"at the enemy from a distance, not to fight. A player can order artillery to "
+"charge into combat if he wants, although this is rather a desperate thing to "
+"do!"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:41
+msgid ""
+"Artillery is vulnerable in combat. An artillery unit that wins a round of "
+"combat never pursues and if it retreats it is automatically destroyed."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:45
+msgid ""
+"Machines are more complex then artillery and some have their own rules for "
+"fighting in combat, as described in particular army lists."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:46
+#: en/revolution/modules/rules/pages/flying-units.adoc:104
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:21
+#: en/revolution/modules/rules/pages/movement.adoc:262
+#: en/revolution/modules/rules/pages/movement.adoc:860
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:28
+#, no-wrap
+msgid "Terrain"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:52
+msgid ""
+"As discussed in xref:movement.adoc#terrain[Movement – Terrain], artillery "
+"cannot move into or over terrain features on the battlefield except for "
+"hills and bridges. Any other type of terrain is impassable to artillery."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:56
+msgid ""
+"Except where noted, machines treat terrain in the same way as chariots. Some "
+"machines have special rules of their own, as described in individual army "
+"lists."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:57
+#, no-wrap
+msgid "Shooting overhead"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:64
+msgid ""
+"As we described in the Shooting section, stands cannot see through other "
+"stands. Consequently, missile-armed troops cannot shoot through or over a "
+"friendly stand to attack an enemy. Technically speaking, the stand’s ‘line "
+"of sight’ is blocked and it is unable to fire."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:76
+msgid ""
+"Whilst this is perfectly true and satisfactory for the majority of troops, "
+"when it comes to artillery fire it is felt that an exception is called for. "
+"After all, is it not appropriate that cannons, stone throwing engines and "
+"the like should lob their missiles over the heads of intervening troops onto "
+"the enemy? Obviously, it is of great benefit to crew if they can see where "
+"their missiles land but we can conveniently assume that there are forward "
+"observers placed in strategic positions to observe the fall of shot and "
+"somehow communicate any targeting information back to the crew."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:92
+msgid ""
+"Artillery stands that are positioned on high ground can shoot over the top "
+"of intervening troops on a lower level.  Artillery stands can shoot over the "
+"top of intervening troops on the same or higher level if the target is on a "
+"higher level still. In both cases intervening troops includes all friendly "
+"units and any enemy units that are ineligible as targets – for example, "
+"because they are engaged in combat. Enemy units that are eligible as targets "
+"cannot be shot over because they have to be shot at – artillery being "
+"obliged to shoot at the closest viable target in the same way as other "
+"shooters. Eg, artillery placed on top of a hill can shoot over friendly "
+"stands and combat engagements on lower ground. However, it cannot shoot over "
+"intervening terrain such as woods, build-up areas and similar terrain "
+"features that block line of sight."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:96
+msgid ""
+"Artillery placed on the ramparts of a castle or upper storey of a watch "
+"tower is assumed to be higher than the corresponding ground level of the "
+"fortress wall or tower."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:97
+#, no-wrap
+msgid "artillery-and-machines/trolls.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:99
+#, no-wrap
+msgid "Cannons"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:109
+msgid ""
+"These are large calibre guns that fire a heavy cannon ball. Gunpowder "
+"weapons like these are primitive and unreliable compared to the tried and "
+"trusted technology of stone throwers and the like. Only Dwarf smiths and a "
+"few weapon makers in the Empire can build these devices. These wild and "
+"determined individuals can be recognised by their dense covering of soot and "
+"lack of eyebrows."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:115
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:206
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:246
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:279
+#, no-wrap
+msgid ""
+"|Range\n"
+"2+|Attack\n"
+"\n"
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:115
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:246
+#, no-wrap
+msgid "3+.^|60cm"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:123
+msgid "2+| 1/2 + bounce ^|↙ ^|↘ <|Close Combat >|Shooting"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:130
+msgid ""
+"Cannons ignore a target’s Armour because no armour can nullify a hit caused "
+"by a cannon ball. No Armour roll is made. In addition, fortified targets "
+"only count as being defended (5+ to hit) and defended targets count as being "
+"in the open (4+ to hit)."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:141
+msgid ""
+"Cannon balls can bounce through densely packed ranks causing immense "
+"destruction. To represent this, a shot is deemed to strike the closest point "
+"of the target stand, pass all the way through it and bounce a further 5cm in "
+"the same direction. If more than one cannon from the same unit is shooting "
+"then both cannon balls are assumed to bounce the same distance through the "
+"path between the closest cannon and closest target stand. The target unit "
+"suffers two attacks plus +1 for each additional stand from the same unit "
+"that is bounced through."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:142
+#, no-wrap
+msgid "artillery-and-machines/cannon-shot.svg"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:150
+msgid ""
+"A shot that bounces into a different unit inflicts one attack on that unit "
+"for each stand bounced through. This can result in units normally ineligible "
+"as targets being hit, such as friendly units or units in combat. Total up "
+"the number of attacks struck and roll for all the attacks against each unit "
+"at a time."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:156
+msgid ""
+"If a cannon is charged it can shoot at the enemy by firing ‘grapeshot’. Like "
+"cannon balls, grapeshot has an Attack value of 2 but it doesn’t bounce and "
+"targets shot at by grapeshot count their full Armour value – armour is not "
+"discounted as it is with a cannon ball."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:171
+msgid ""
+"Although grapeshot is pretty effective compared to, say, a shot from a "
+"single archer stand, it is actually less effective than ordinary cannon "
+"fire. At first glance this may seem wrong. After all, shouldn’t grapeshot be "
+"devastating compared to normal cannon fire? The reason for this is not that "
+"we’ve made grapeshot weak but that normal cannon fire represents not a "
+"single shot but a continuous bombardment in which dozens of balls are fired "
+"by each cannon. Grapeshot, on the other hand, represents just one hurried "
+"blast at close quarters, far more deadly than a single cannon ball which "
+"could easily sail over the enemy formation or pass between the ranks but not "
+"as deadly as a rain of well aimed cannon balls over a longer period."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:172
+#, no-wrap
+msgid "artillery-and-machines/cannon.webp"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:190
+msgid ""
+"Because cannons can cause additional damage by bouncing shots, it is "
+"possible to inflict hits upon friends or upon units from either side that "
+"are engaged in combat.  Both of these are normally ineligible targets, but "
+"in the case of bouncing cannon shots they can suffer hits as a result of "
+"fire directed nearby. Any friendly unengaged units that take hits from "
+"cannons are driven back as if taking enemy fire. Where friendly units are "
+"driven back in this way wait until all drive backs for enemy units have been "
+"completed, and then work out drive backs for friendly units. Any engaged "
+"units taking hits from cannons will carry hits forward into the combat round "
+"and hits count as having been struck during that round for purposes of "
+"working out which side wins. Units engaged in combat are not driven back by "
+"any hits taken – carrying hits forward takes this into account."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:191
+#, no-wrap
+msgid "Elven bolt thrower"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:200
+msgid ""
+"This elegant device was devised many years ago by the High Elves for use "
+"onboard their ships. Since then it has become a feature of many Elven armies "
+"and is sometimes known as the ‘Reaper’ because of its deadly effect. The "
+"machine throws a hail of light weight bolts, ideal for raking the decks of "
+"enemy ships or the ranks of enemy regiments."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:206
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:279
+#, no-wrap
+msgid "3+.^|40cm"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:214
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:254
+msgid "2+| 1/3 ^|↙ ^|↘ <|Close Combat >|Shooting"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:223
+msgid ""
+"The Elven Bolt Thrower can shoot at a charging enemy in the same way as a "
+"missile-armed infantry or cavalry unit. Unlike many artillery pieces, the "
+"Elven Bolt Thrower does not automatically pierce its target’s armour. "
+"Enemies take their Armour rolls as normal. The Elven Bolt Thrower’s darts "
+"are relatively small and light compared to say, the Undead Bone Thrower’s."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:224
+#, no-wrap
+msgid "artillery-and-machines/elven-bolt-thrower.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:226
+#, no-wrap
+msgid "Stone throwers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:240
+msgid ""
+"Stone Throwers are big machines which employ a system of counterweights or "
+"torsion power to chuck either one big rock, several small rocks or what (or "
+"whoever) takes your fancy. These stone throwing machines are favoured by "
+"greenskins because they are simple to build from readily available "
+"materials. Because Stone Throwers lob rocks of such immense size no armour "
+"can protect against them. Even the most heavily armoured knight would be "
+"instantly pulped if a boulder the size of a horse were to land on him. To "
+"represent this, targets always ignore their armour when shot at by a Stone "
+"Thrower. No Armour roll is made."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:258
+msgid ""
+"Stone Throwers shoot with such a high trajectory that they cannot shoot at "
+"charging enemies."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:266
+msgid ""
+"Because of the high trajectory Stone Throwers can shoot blind at targets "
+"they cannot see. The targets are assumed to be reported by scouts or "
+"messengers from other units.  If there is no target in sight a Stone Thrower "
+"may instead shoot at the nearest enemy unit in range it cannot see.  When "
+"shooting blind it always hits on 6+ no matter if the target is in the open, "
+"defended or even fortified."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:267
+#, no-wrap
+msgid "Bolt thrower"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:273
+msgid ""
+"A Bolt Thrower is a device fashioned to hurl large missiles upon the enemy. "
+"It is essentially a big crossbow... a very big crossbow indeed! The missiles "
+"it fires are as long as spears and can skewer a whole line of troops."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:287
+msgid "2+| 1/2 + skewer ^|↙ ^|↘ <|Close Combat >|Shooting"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:292
+msgid ""
+"Targets always ignore their armour when shot at by a Bolt Thrower. No Armour "
+"roll is made. The Bolt Thrower’s heavy dart can pierce even the thickest "
+"armour."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:299
+msgid ""
+"When you shoot with a Bolt Thrower it will strike up to two touching stands "
+"within the missile’s line of flight.  These can be stands from the same or a "
+"different unit – the missile will automatically pass through and strike up "
+"to two stands so long as they are touching and along the missile’s path."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:306
+msgid ""
+"The target unit suffers two attacks plus +1 for [.edit]#an# additional stand "
+"from the same unit within the missile’s path. A shot that skewers into a "
+"different unit inflicts one attack on that unit. All attacks against the "
+"same unit are rolled at once – for example, an infantry unit in column takes "
+"three attacks so roll three dice."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:320
+msgid ""
+"Because a bolt thrower can cause hits on different units by skewering shots, "
+"it is possible to inflict hits upon enemy units that are engaged in combat. "
+"These are normally ineligible targets, but in the case of skewering shots "
+"they can suffer hits as a result of fire directed at a unit touching another "
+"enemy unit. Any hits on engaged units from either side will carry forward "
+"into the combat round and count as having been struck during that round for "
+"purposes of working out which side wins. Units engaged in combat are not "
+"driven back by any hits taken – carrying hits forward takes this into "
+"account. Units that are not engaged [.edit]#in combat# are driven back in "
+"the usual way."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:324
+msgid ""
+"Bolt Throwers can shoot at a charging enemy and can do so at any point as "
+"the enemy charges, including the start of the move or when the charger has "
+"reached its final position."
+msgstr ""

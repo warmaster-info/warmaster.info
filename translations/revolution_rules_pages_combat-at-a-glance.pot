@@ -1,0 +1,226 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:82
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:4
+#, no-wrap
+msgid "Combat engagement"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:206
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:9
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:12
+#, no-wrap
+msgid "Attacks"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat.adoc:281
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:62
+#, no-wrap
+msgid "Attack modifiers"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:1
+#, no-wrap
+msgid "Combat at a Glance"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:8
+msgid ""
+"Interlinked units form a single combat engagement. Work out results for each "
+"engagement separately."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:12
+msgid "Total the Attack value for each unit."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:16
+msgid "Roll the number of dice indicated."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:14
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:17
+msgid "Rolls of 4+ score hits."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:15
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:19
+msgid "Rolls of 5+ are needed to score hits on a defended target."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:16
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:21
+msgid "Rolls of 6+ are needed to score hits on a fortified target."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:17
+msgid "Make Armour rolls and discount saved hits."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:18
+msgid "Record hits scored."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:19
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:24
+msgid "Remove stands where sufficient hits are scored."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:20
+#, no-wrap
+msgid "Results"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:23
+msgid "Compare the hits scored by each side."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:24
+msgid "Add +1 per supporting stand."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:27
+#, no-wrap
+msgid "3+^a|"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:29
+#, no-wrap
+msgid "Draw!"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:35
+msgid ""
+"|Both sides score the same hits.  |Both sides fall back from zero cm (but at "
+"least 1cm from the enemy) to 3D6cm except for defended or fortified units.  |"
+"Combat ends."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:35
+#, no-wrap
+msgid "4+^a|"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:37
+#, no-wrap
+msgid "Win!"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:44
+msgid ""
+"|One side scores more hits.  |Losers retreat by the difference (divided by "
+"number of units in multiple combats rounded up).  |Winners fall back, stand "
+"or pursue/advance.  |If winners fall back or stand, the combat ends."
+msgstr ""
+
+#. type: Block title
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:44
+#, no-wrap
+msgid "2+^a|"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:46
+#, no-wrap
+msgid "Aftermath!"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:50
+msgid ""
+"|If winner pursues in the first round, fight a second round.  |If winner "
+"pursues in the second round, leave the combat unresolved."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:52
+#, no-wrap
+msgid "Pursuit / Advance"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:56
+msgid ""
+"Infantry [.bo5a]#cannot# pursue retreating cavalry or chariots unless "
+"infantry charged their flank or rear or the charged unit is in irregular "
+"formation."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:57
+msgid "Artillery never pursue. If forced to retreat they are destroyed."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:58
+msgid "Fortified troops never pursue."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:59
+msgid "Victors cannot pursue into terrain they cannot enter or cross."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:60
+msgid "Advancing units charge nearest visible enemy unit within 20cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:61
+msgid ""
+"[.bo5a]#All pursuing, advancing or retreating units lose defended or "
+"fortified status.#"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:66
+#, no-wrap
+msgid "End of combat"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:69
+msgid ""
+"At the end of the Combat phase, any odd hits are discounted from units that "
+"are no longer engaged."
+msgstr ""

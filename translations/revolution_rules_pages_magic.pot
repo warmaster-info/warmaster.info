@@ -1,0 +1,696 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/magic.adoc:1
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:850
+#, no-wrap
+msgid "Magic"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:7
+msgid ""
+"Magic is a potent ally but a dangerous adversary. All armies make use of "
+"some sort of sorcery so it is important to have a grasp of the arcane "
+"abilities that lie at your command."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/magic.adoc:8
+#, no-wrap
+msgid "Spells"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:16
+msgid ""
+"Only Wizards can cast spells. The term ‘Wizard’ includes various types of "
+"sorcerer such as Orc Shamans, Elven Mages, Undead Liche Priests as well as "
+"human Wizards.  Every army’s magic is different and some are better than "
+"others as we shall see. Individual spells are listed in the xref:revolution:"
+"armies:index.adoc[Army Lists]."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/magic.adoc:17
+#: en/revolution/modules/rules/pages/magic.adoc:97
+#, no-wrap
+msgid "Magic items"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:28
+msgid ""
+"Magic items are devices such as banners, swords or armour that confer "
+"special attacks, protection, etc. Each magic item has its own rules and "
+"points value. When you choose an army you can include magic items in it.  "
+"Any unit of infantry, cavalry or chariots can be given one magic item. Each "
+"character can also be given one magic item. If you decide to give a magic "
+"item to a unit or character then you must pay the extra points. This means "
+"that you will have fewer points for other troops."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:32
+msgid ""
+"Magic items cannot be given to monsters or war machines. Some items can only "
+"be given to characters or to a Wizard as described later."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/magic.adoc:33
+#, no-wrap
+msgid "Casting spells"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:45
+msgid ""
+"In his Shooting phase, each Wizard can cast one spell from the spell lists "
+"for his army. He can cast a spell even if he has joined a unit that is "
+"engaged in combat. The spell has a range just like a shooting weapon and the "
+"target unit must lie within this distance. Unlike shooting from missile "
+"weapons, the Wizard does not have to target the closest enemy unit but can "
+"choose whichever enemy unit he wants. The Wizard is assumed to be able to "
+"see all round though his vision will be blocked by unit stands and terrain "
+"as usual."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:49
+msgid ""
+"The Wizard nominates the target and must roll the required dice score to "
+"make the spell work; usually 4+, 5+ or 6 depending on how difficult the "
+"spell is to cast."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:55
+msgid ""
+"If you are successful, the spell works as described. If not then the spell "
+"has failed and there is no effect. The score required is sometimes modified "
+"but, regardless of any modifier, a dice roll of 1 always fails and a roll of "
+"6 always succeeds."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:66
+msgid ""
+"Wizards can cast spells against any eligible targets within range, but a "
+"unit can only ever be affected by the same spell once in any turn. A unit "
+"has been affected if a spell has worked by rolling the appropriate dice "
+"score, has not been dispelled or antimagicked, and its effect has been "
+"resolved on the unit as per the spell description.  Note that a spell might "
+"take full effect but still cause no damage – a xref:revolution:armies:empire."
+"adoc#ball-of-flame[Ball of Flame] inflicts 3 shooting attacks for example "
+"but all 3 might fail to score hits or hits might be nullified by armour."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:76
+msgid ""
+"There are some situations where the target of a spell is not literally a "
+"unit – for example the xref:revolution:armies:empire.adoc#ball-of-flame[Ball "
+"of Flame] and xref:revolution:armies:orcs.adoc#gotcha[Gotcha] spells inflict "
+"shooting attacks upon all units that lie within their path. In these cases, "
+"all units are affected once the appropriate dice roll has been scored to "
+"make the spell work and assuming it is not dispelled or antimagicked. Note "
+"that this means a unit can potentially be struck by two different Ball of "
+"Flame spells coming from different directions – but only the first will "
+"affect it."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:83
+msgid ""
+"Where there might be room for doubt, the spell descriptions specifically "
+"remind players that spells cannot affect the same unit twice. This is just "
+"to clarify the rule where it was felt worthwhile to do so. The rule applies "
+"to all spells not just those that contain a separate note."
+msgstr ""
+
+#.  Spelling e.g.
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:96
+msgid ""
+"Logically minded players might quibble that a spell could be cast upon a "
+"unit any number of times, blasting it to pieces with fireballs from dozens "
+"of wizards.  The restriction exists so that magic is rarely enough to cause "
+"casualties on its own. Magic is intended to augment conventional tactics and "
+"weaponry but not form a battle-winning tactic in itself. For this reason "
+"wizards are allowed to target their spells upon specific foes, selectively "
+"augmenting conventional weaponry, but are prohibited from picking out single "
+"units for annihilation with the same destructive spell cast over and over "
+"again."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:104
+msgid ""
+"Our armies rely on brute strength, courage and meticulous training to "
+"overthrow their opponents... and if that doesn’t work there’s always "
+"sorcery. It’s not just Wizards that get to use magic. Units can have magic "
+"items and other characters can carry them too."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:116
+msgid ""
+"Magic is part and parcel of the fantastic world our armies are fighting "
+"over. To keep things fair, each item is allotted a points value, just like "
+"the troops themselves, and some items can only be used by certain races or "
+"types of warrior. There are three broad types of magic item: <<magic-"
+"standards>> (most of which protect the unit carrying them in some way), "
+"<<magic-weapons>> (which are carried by a unit’s leader and which usually "
+"increase the unit’s fighting power) and <<devices-of-power>> (which increase "
+"the leadership abilities of Generals, Wizards and Heroes)."
+msgstr ""
+
+#.  Moved earlier
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/magic.adoc:118
+#, no-wrap
+msgid "magic/witch.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/magic.adoc:120
+#, no-wrap
+msgid "Magic standards"
+msgstr ""
+
+#.  Spelling available
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:133
+msgid ""
+"_A unit of infantry, cavalry or chariots can be given a single Magic "
+"Standard. Characters and other types of units cannot be given Magic "
+"Standards. An army can never include more than a single example of each type "
+"of standard. Magic Standards serve to make a unit more difficult to destroy "
+"by increasing its Armour value or number of Hits. The effect doesn’t apply "
+"on any attached stands (such as Empire Skirmishers) or characters.  Some "
+"banners have various ranks available only to units with specific values of "
+"Armour or Hits._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:142
+msgid ""
+"As a general rule, a unit or character can only have one magic item. A unit "
+"of infantry can have a Magic Banner or a Magic Weapon, for example, but not "
+"both. Similarly, a Wizard can have a Magic Weapon or a Device of Power but "
+"not one of each. Furthermore, a specific item may only appear in an army "
+"once. You cannot have two Banners of Fortitude or three Swords of Cleaving, "
+"for example."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:143
+#, no-wrap
+msgid "The Battle Banner"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:146
+msgid "[.cost]#Cost# [.points]#30 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:153
+msgid ""
+"A unit with this banner increases the Attacks value of each of its stands by "
+"+1 during its first Combat engagement of fighting.  The effect only lasts "
+"for the first combat engagement of the battle, including rounds of pursuit "
+"combat during the same engagement and any further engagements which result "
+"from an advance."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:154
+#, no-wrap
+msgid "The Banner of Shielding"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:157
+msgid "[.cost]#Cost – superior (units with Armour 4+ only)# [.points]#50 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:159
+msgid "[.cost]#Cost – major (units with Armour 5+ only)# [.points]#30 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:161
+msgid ""
+"[.cost]#Cost – minor (units with Armour 6+ or 0 only)# [.points]#15 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:169
+msgid ""
+"A unit with this banner has its Armour value increased in effectiveness by \\"
+"+1. If the unit’s Armour value is 5+ then this banner increases it to 4+ and "
+"so on. A unit’s Armour value cannot be better than 3+. If a unit already has "
+"an Armour value of 3+ then this banner has no effect. This bonus lasts until "
+"the unit loses a stand. After the unit has lost a stand, the banner has no "
+"further effect."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:170
+#, no-wrap
+msgid "The Banner of Fortitude"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:173
+msgid "[.cost]#Cost – major (units with 4 Hits only)# [.points]#50 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:175
+msgid "[.cost]#Cost – minor (units with 3 or 2 Hits only)# [.points]#30 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:184
+msgid ""
+"A unit with this banner increases the Hits value of each of its stands by +1 "
+"during its first Combat engagement of fighting.  The effect only lasts for "
+"the first combat engagement of the battle, including rounds of pursuit "
+"combat during the same engagement and any further engagements which result "
+"from an advance. Discard odd hits at the end of the Combat engagement before "
+"discounting the effect of the Banner of Fortitude."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:185
+#, no-wrap
+msgid "The Banner of Steadfastness"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:188
+msgid "[.cost]#Cost – superior (units with 4+ Armour only)# [.points]#20 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:190
+msgid "[.cost]#Cost – major (units with 5+ Armour only)# [.points]#15 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:192
+msgid "[.cost]#Cost – minor (units with 6+ Armour only)# [.points]#10 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:199
+msgid ""
+"One shooting hit inflicted on the unit after saves have been taken in each "
+"turn is ignored because the missiles are cast aside by the Banner of "
+"Steadfastness. This includes hits from magic spells inflicted in the "
+"Shooting phase. This effect lasts until the unit loses a stand. After the "
+"unit has lost a stand the banner has no further effect."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:200
+#, no-wrap
+msgid "The Banner of Fortune"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:203
+msgid "[.cost]#Cost# [.points]#15 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:213
+msgid ""
+"The player can choose to immediately re-roll all the unit’s Attack dice once "
+"in either the Shooting phase or Combat phase. This includes any bonus "
+"attacks from magic items or characters. The player declares that he is "
+"unsatisfied with the scores he has rolled, takes all the dice and "
+"immediately rolls them all once again. Note that the player must roll all "
+"the dice again, including any that have scored hits, so it is possible to be "
+"very unfortunate and roll an even worse score! The Banner of Fortune works "
+"only once during the game."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/magic.adoc:214
+#, no-wrap
+msgid "magic/boar-riders.webp"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/magic.adoc:216
+#, no-wrap
+msgid "Magic weapons"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:221
+msgid ""
+"_Magic weapons can be carried by an infantry, cavalry or chariot unit or by "
+"a character. Only a single example of each type of magic weapon can be "
+"included in an army._"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:222
+#, no-wrap
+msgid "Sword of Destruction"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:225
+#: en/revolution/modules/rules/pages/magic.adoc:245
+#: en/revolution/modules/rules/pages/magic.adoc:252
+msgid "[.cost]#Cost# [.points]#10 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:231
+msgid ""
+"If a unit has this weapon then one enemy unit that it is touching is "
+"affected and must re-roll one successful Armour roll in each round of "
+"combat. For example, if three hits are scored and one is saved by armour "
+"then the successful roll must be taken again. Only one enemy unit can be "
+"affected by this."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:232
+#, no-wrap
+msgid "Sword of Fate"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:235
+msgid "[.cost]#Cost# [.points]#5 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:241
+msgid ""
+"In the first round of the unit’s first combat, a unit with this sword adds a "
+"+1 bonus to the Attack value of one stand in a similar way as the Attack "
+"bonus of a character. The Sword of Fate only works once in the entire game. "
+"Note that this gives +1 Attack in total and not +1 to each stand!"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:242
+#, no-wrap
+msgid "Sword of Cleaving"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:248
+msgid ""
+"A unit with this sword can re-roll one unsuccessful Attack dice each round "
+"of combat."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:249
+#, no-wrap
+msgid "Sword of Might"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:256
+msgid ""
+"A unit with this sword adds a +1 bonus to the Attack value of one stand, "
+"similar to the Attack bonus of a character. Note that this gives +1 Attack "
+"in total, not +1 to each stand!"
+msgstr ""
+
+#.  Added to separate section
+#. type: Title ===
+#: en/revolution/modules/rules/pages/magic.adoc:260
+#, no-wrap
+msgid "Devices of power"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:264
+msgid ""
+"_Devices of power can be carried by characters. Only a single example of "
+"each device can be included in an army._"
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:265
+#, no-wrap
+msgid "Crown of Command"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:268
+msgid "[.cost]#General only# [.points]#70 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:275
+msgid ""
+"If the General has this potent magic item he can choose to issue his first "
+"order of each turn against an unmodified Command value of 10. No command "
+"penalties apply when the Crown of Command is used. This only applies to the "
+"General’s first order each turn, subsequent orders must be given normally. "
+"Should the General fail to issue his first order, by rolling an 11 or 12, "
+"then the Crown of Command ceases to work."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:276
+#, no-wrap
+msgid "Helm of Dominion"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:279
+msgid "[.cost]#General only# [.points]#40 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:285
+msgid ""
+"Only a General is allowed to wear the Helm of Dominion (only his head is big "
+"enough!). The General’s Command value is increased by +1 up to a maximum "
+"value of 10. The Helm of Dominion works for one turn only during the entire "
+"battle, the player must specify at the start of the turn if he wishes to "
+"employ its powers."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:286
+#, no-wrap
+msgid "Orb of Majesty"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:289
+#: en/revolution/modules/rules/pages/magic.adoc:320
+msgid "[.cost]#General only# [.points]#30 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:296
+msgid ""
+"If the General has this magic item he may disregard a single failed Command "
+"test and roll it again as if he had a Command value of 8. The usual "
+"adjustments are made for Command penalties but note that the previously "
+"failed roll is disregarded so it doesn’t count as a penalty. If the re-roll "
+"is successful the order is issued and the General can continue issuing "
+"orders in the usual way with his normal Command value."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:299
+msgid ""
+"The Orb of Majesty will only work once in the entire game and only affects "
+"an order that has been issued by the General."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:300
+#, no-wrap
+msgid "Ring of Magic"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:303
+msgid "[.cost]#Wizard only# [.points]#30 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:306
+msgid ""
+"A Wizard with this ring is able to cast a spell without making the usual "
+"dice roll to do so. This item will only work once in the entire game."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:307
+#, no-wrap
+msgid "Staff of Spellbinding"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:310
+msgid "[.cost]#Wizard or Dwarf Runesmith only# [.points]#30 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:316
+msgid ""
+"If an enemy Wizard fails to cast a spell, he can be spellbound on the D6 "
+"roll of a 4+. A spellbound Wizard suffers a −1 dice penalty each time he "
+"tries to cast a spell. The Staff of Spellbinding ceases to work once it has "
+"been used successfully. It follows that only one enemy Wizard can be "
+"spellbound as a result."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:317
+#, no-wrap
+msgid "Sceptre of Sovreignty"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:329
+msgid ""
+"If the General carries the Sceptre of Sovereignty, he may ignore one "
+"blundered ‘double 6’ roll for an order made by either himself or any of the "
+"army’s other characters. If the blunder is made by a subordinate character "
+"you can roll to see what the blunder is before deciding whether to use the "
+"Sceptre of Sovereignty or not. If ignored, the Command test is passed and "
+"the character may continue issuing orders as normal. The steely will of the "
+"Sceptre of Sovereignty reaches out and stays the incompetent wretch before "
+"the deed is done."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:330
+#, no-wrap
+msgid "Scroll of Dispelling"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:333
+msgid "[.cost]#Wizard or Dwarf runesmith only# [.points]#20 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:339
+msgid ""
+"If a Wizard or a Dwarf Runesmith has the Scroll of Dispelling he can "
+"automatically cause an enemy’s spell to fail. The Scroll can only be used "
+"once to nullify the effect of a spell an enemy Wizard has successfully cast. "
+"In the case of a Runesmith, the Scroll can be used after a normal Dwarf anti-"
+"magic roll has failed."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:340
+#, no-wrap
+msgid "Wand of Power"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:343
+#: en/revolution/modules/rules/pages/magic.adoc:352
+msgid "[.cost]#Wizard only# [.points]#10 pts#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:348
+msgid ""
+"A Wizard with the Wand of Power can add +1 to the chance of a spell working "
+"once during the game. The player must decide that he is using the Wand of "
+"Power before rolling the dice. As always a spell fails on the roll of a 1 "
+"even when using the Wand of Power."
+msgstr ""
+
+#. type: Title ====
+#: en/revolution/modules/rules/pages/magic.adoc:349
+#, no-wrap
+msgid "Rod of Repetition"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:363
+msgid ""
+"If a Wizard casts a spell and rolls sufficiently well for it to work then he "
+"may cast another spell. He can only do this once during the entire game.  It "
+"does not matter if the previous spell is dispelled or anti-magicked by a "
+"Runesmith so long as the required dice score was rolled.  After any effects "
+"of the previous spell have been resolved, the Wizard can decide to use the "
+"Rod of Repetition to cast another spell – this can be the same spell again "
+"or a different one. Note that the same spell can be cast upon the same unit "
+"if the previous spell has been dispelled/anti-magicked.  This next spell is "
+"cast exactly like any other – roll a dice to determine if it works in the "
+"usual way."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:374
+msgid ""
+"The xref:revolution:armies:empire.adoc#teleport[Teleport] spell already "
+"allows the Wizard to cast a second, different spell.  The Rod of Repetition "
+"may be used after the second spell has been successfully cast.  If it is "
+"used to cast Teleport again then the bonus spell is lost.  This effectively "
+"restricts casting to a maximum of 3 spells per turn."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:377
+msgid "Assuming successful casting the possibilities are:"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:380
+msgid ""
+"Teleport → second spell → Rod of Repetition for a third spell (which could "
+"be another Teleport), or"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/magic.adoc:381
+msgid ""
+"First spell (could be Teleport) → Rod of Repetition to cast Teleport → third "
+"spell."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/magic.adoc:382
+#, no-wrap
+msgid "magic/mortar.webp"
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/rules/pages/magic.adoc:384
+#, no-wrap
+msgid "magic/dwarf-runesmith.webp"
+msgstr ""

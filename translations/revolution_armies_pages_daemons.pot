@@ -1,0 +1,523 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:91
+#: en/revolution/modules/armies/pages/araby.adoc:82
+#: en/revolution/modules/armies/pages/beastmen.adoc:53
+#: en/revolution/modules/armies/pages/beastmen.adoc:61
+#: en/revolution/modules/armies/pages/bretonnia.adoc:83
+#: en/revolution/modules/armies/pages/bretonnia.adoc:97
+#: en/revolution/modules/armies/pages/cathay.adoc:79
+#: en/revolution/modules/armies/pages/cathay.adoc:90
+#: en/revolution/modules/armies/pages/chaos.adoc:68
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
+#: en/revolution/modules/armies/pages/daemons.adoc:64
+#: en/revolution/modules/armies/pages/daemons.adoc:106
+#: en/revolution/modules/armies/pages/dark-elves.adoc:85
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
+#: en/revolution/modules/armies/pages/dwarfs.adoc:95
+#: en/revolution/modules/armies/pages/empire.adoc:65
+#: en/revolution/modules/armies/pages/goblins.adoc:78
+#: en/revolution/modules/armies/pages/high-elves.adoc:84
+#: en/revolution/modules/armies/pages/kislev.adoc:69
+#: en/revolution/modules/armies/pages/lizardmen.adoc:85
+#: en/revolution/modules/armies/pages/lizardmen.adoc:96
+#: en/revolution/modules/armies/pages/nippon.adoc:85
+#: en/revolution/modules/armies/pages/nippon.adoc:101
+#: en/revolution/modules/armies/pages/norse.adoc:51
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
+#: en/revolution/modules/armies/pages/orcs.adoc:82
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
+#: en/revolution/modules/armies/pages/skaven.adoc:74
+#: en/revolution/modules/armies/pages/skaven.adoc:95
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
+#: en/revolution/modules/armies/pages/wood-elves.adoc:61
+#: en/revolution/modules/armies/pages/wood-elves.adoc:69
+#: en/revolution/modules/rules/pages/battlefields.adoc:247
+#: en/revolution/modules/rules/pages/battlefields.adoc:300
+#: en/revolution/modules/rules/pages/battlefields.adoc:352
+#: en/revolution/modules/rules/pages/battlefields.adoc:420
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#, no-wrap
+msgid "Special rules"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:153
+#: en/revolution/modules/armies/pages/albion.adoc:165
+#: en/revolution/modules/armies/pages/araby.adoc:263
+#: en/revolution/modules/armies/pages/beastmen.adoc:179
+#: en/revolution/modules/armies/pages/beastmen.adoc:195
+#: en/revolution/modules/armies/pages/bretonnia.adoc:219
+#: en/revolution/modules/armies/pages/bretonnia.adoc:237
+#: en/revolution/modules/armies/pages/cathay.adoc:207
+#: en/revolution/modules/armies/pages/chaos.adoc:161
+#: en/revolution/modules/armies/pages/chaos.adoc:194
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/daemons.adoc:173
+#: en/revolution/modules/armies/pages/daemons.adoc:188
+#: en/revolution/modules/armies/pages/dark-elves.adoc:168
+#: en/revolution/modules/armies/pages/goblins.adoc:163
+#: en/revolution/modules/armies/pages/goblins.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:160
+#: en/revolution/modules/armies/pages/high-elves.adoc:193
+#: en/revolution/modules/armies/pages/kislev.adoc:194
+#: en/revolution/modules/armies/pages/lizardmen.adoc:207
+#: en/revolution/modules/armies/pages/lizardmen.adoc:260
+#: en/revolution/modules/armies/pages/norse.adoc:144
+#: en/revolution/modules/armies/pages/norse.adoc:196
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:172
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:198
+#: en/revolution/modules/armies/pages/orcs.adoc:147
+#: en/revolution/modules/armies/pages/skaven.adoc:226
+#: en/revolution/modules/armies/pages/skaven.adoc:242
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:143
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:192
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:145
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
+#: en/revolution/modules/armies/partials/empire-spells.adoc:4
+#: en/revolution/modules/armies/partials/empire-spells.adoc:27
+msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:179
+#: en/revolution/modules/armies/pages/beastmen.adoc:210
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:204
+#: en/revolution/modules/armies/pages/daemons.adoc:205
+#: en/revolution/modules/armies/pages/high-elves.adoc:144
+#: en/revolution/modules/armies/pages/skaven.adoc:274
+msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/araby.adoc:235
+#: en/revolution/modules/armies/pages/daemons.adoc:154
+#: en/revolution/modules/armies/pages/dark-elves.adoc:203
+#: en/revolution/modules/armies/pages/lizardmen.adoc:224
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:196
+msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/wood-elves.adoc:63
+#, no-wrap
+msgid "Army rules"
+msgstr ""
+
+#. type: Title =
+#: en/revolution/modules/armies/pages/daemons.adoc:1
+#, no-wrap
+msgid "Daemons"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:16
+msgid ""
+"image:daemons/logo.webp[width=128,height=117,float=\"right\"] The world is "
+"awash with unseen magic that comes from the dark dimensions between time and "
+"space.  It was introduced into the world when the great intra-spatial "
+"gateways of the Old Ones collapsed, creating a rift in space and spewing "
+"magically volatile warp-matter over the whole planet. Magic is a malleable "
+"energy that can be harnessed and wielded, but the very act of doing so "
+"reshapes and changes everyone and everything it comes into contact with. "
+"Whether used for good or ill, magic is ultimately corrupting and dangerous."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:26
+msgid ""
+"The ancient gateways continue to leak raw magic from the dark dimension to "
+"this day. The dark dimension is home to things of an altogether different "
+"order to mortal creatures. These are not living creatures of flesh but a "
+"network of ethereal forces whose consciousnesses continually flow and "
+"interchange.  Individuality and linear thought are meaningless concepts in "
+"the dark dimension. In that timeless, spaceless, nothingness there is only "
+"endless being: a single moment extending through all eternity."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:38
+msgid ""
+"Just as magic pollutes and disfigures the material world so the dark "
+"dimension is reshaped by the world of mortals. Thought, ambition, emotion "
+"and other gross forms of individual consciousness leak from the material "
+"universe. This focused consciousness overwhelms and transforms the naturally "
+"guileless intelligence of the dark dimension. It becomes aware.  It "
+"coalesces into a kind of distinct consciousness. Things stir in the dark "
+"dimension. Gods, daemons and spirits are made manifest in the stuff of the "
+"warp. Reshaped in turn by these newly created consciousnesses other lesser "
+"beings are created, and so it goes on."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:54
+msgid ""
+"Thus are the gods of the Old World, and the bitterest agents of man’s own "
+"destruction, self-created from the terror of mankind itself. There may be a "
+"thousand gods or a million aspects of a single deity – it matters little. "
+"The daemon armies of Chaos constantly reshape and reform in the face of "
+"man’s ever shifting fears. Most of all men dread the elemental horrors of "
+"life, and these are represented by the four great gods of the Marauder "
+"tribes of the north. They are worshipped under many names and in many guises "
+"but in the lands of the south they are recognised (by those who dare pursue "
+"such studies) as the great powers of Khorne the Blood God, Tzeentch the "
+"Changer of the Ways, Nurgle the Plague Lord, and Slaanesh the Lord of "
+"Pleasure. These are the Great Gods of Chaos of which all other gods are but "
+"parts or conjunctions. In the lands of the Empire many a theologist has been "
+"burned for saying as much."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/daemons.adoc:55
+#, no-wrap
+msgid "daemons/daemons.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/daemons.adoc:57
+#, no-wrap
+msgid "Daemon army selector"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/daemons.adoc:62
+#, no-wrap
+msgid "include::partial$daemons.tsv[]\n"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:68
+#, no-wrap
+msgid "Ignore Terror"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:70
+msgid ""
+"All units ignore the −1 Attack penalty in combat for fighting terrifying "
+"troops – you cannot frighten them at all."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:71
+#, no-wrap
+msgid "Daemonic Instability"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:78
+msgid ""
+"At the start of the player’s own Command phase, before making any "
+"initiatives moves, all friendly Daemon units that have taken at least 1 "
+"casualty (i.e. lost at least 1 stand out of 3) must make a ‘Daemonic "
+"Instability’ test. Roll a D6. If the unit has lost 2 stands (i.e. has only 1 "
+"stand remaining from 3)  and is further away than 20cm from a friendly "
+"Daemon Wizard deduct 1 from the roll."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/daemons.adoc:104
+#, no-wrap
+msgid ""
+"h|0–1\n"
+"|One stand is destroyed – the daemons fade away and\n"
+"are absorbed back into the Realm of Chaos from\n"
+"which they came. Remove one stand from play. If\n"
+"a character is with the unit and the last stand is\n"
+"removed the character is destroyed too.\n"
+"\n"
+"h|2–3\n"
+"|The unit becomes confused – if not already confused\n"
+"the stand becomes confused as it is torn between this\n"
+"world and the next.\n"
+"\n"
+"h|4–5\n"
+"|No effect – unless the unit is confused in which case\n"
+"it ceases to be confused as it is favoured with the\n"
+"invigorating power of Chaos.\n"
+"\n"
+"h|6\n"
+"|The unit regains one stand. The regained stand is\n"
+"placed directly behind, in front or beside another\n"
+"stand from the same unit, and facing the same\n"
+"direction. If it is impossible to position the stand in\n"
+"in this manner then the stand cannot be added.\n"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:108
+#, no-wrap
+msgid "[[daemon-swarms,†1]]1. Daemon Swarms"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:111
+msgid ""
+"These cannot be driven back by shooting and do not roll for drive backs. A "
+"Daemon Swarm cannot be given a magic item."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:112
+#, no-wrap
+msgid "[[daemon-flyers,†2]]2. Daemon Flyers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:116
+msgid ""
+"These can fly. Daemon flyers are an exception to the normal conventions for "
+"basing monsters in that they face the long edge of the stand in the same way "
+"as infantry rather than the short edge as most other monsters."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:117
+#, no-wrap
+msgid "[[greater-daemons,†3]]3. Greater Daemons"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:120
+msgid ""
+"Greater Daemons can fly regardless of whether the actual model has wings – "
+"aerial propulsion is deemed feasible by sheer effort of will."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:127
+msgid ""
+"Greater Daemons cause terror in their enemies. A Greater Daemon that has "
+"accumulated 4–5 hits at the end of the Shooting or Combat phase and is no "
+"longer engaged in combat is deemed to have been badly hurt. Once a Greater "
+"Daemon is badly hurt accumulated hits are discounted and its Hits and "
+"Attacks values are halved for the rest of the battle (to 3 Hits and 4 "
+"Attacks)."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:128
+#, no-wrap
+msgid "[[daemon-overlord,†4]]4. Daemon Overlord"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:135
+msgid ""
+"The Daemon Overlord is the army’s General and has the option of having the "
+"powers of a Wizard for additional 25 points. If given magical powers the "
+"Daemon Overlord can be given a magic item restricted to either a General or "
+"a Wizard. Note that the Daemon Overlord is still a General and his command "
+"range extends over the whole battlefield as for other Generals."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:136
+#, no-wrap
+msgid "[[daemonic-wings,†5]]5. Daemonic Wings"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:141
+msgid ""
+"Some of the creatures of the deep vaults of hell may have wings, some of "
+"them fly on hovering discs and some even have the ability of disappearing "
+"and reappearing wherever they want on the battlefield. Daemon characters may "
+"be given the ability of flying."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/daemons.adoc:142
+#, no-wrap
+msgid "[[favour-of-the-gods,†6]]6. Favour of the Gods"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:146
+msgid ""
+"Demon Overlord, Lords or Sorcerers can be given the Favour of the Gods. The "
+"character gains then +1 extra Attack and causes terror in its enemies as "
+"described in the Warmaster rulebook."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/daemons.adoc:147
+#, no-wrap
+msgid "daemons/infantry.webp"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/daemons.adoc:149
+#, no-wrap
+msgid "Daemonic spells"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/daemons.adoc:151
+#, no-wrap
+msgid "Summon Daemons"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:157
+msgid ""
+"_With a sulphurous blast of elemental power fresh Daemons emerge from the "
+"warp to reinforce their beleaguered kindred._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:161
+msgid ""
+"This spell can be cast on any friendly Daemon unit of three stands that has "
+"lost one or two stands as casualties. It does not matter whether the Wizard "
+"can see the unit or not."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:169
+msgid ""
+"The unit regains one stand. The regained stand is placed directly behind, in "
+"front or beside another stand from the same unit, and facing the same "
+"direction. If the unit is already in combat the additional stand can be "
+"placed so that it touches the enemy and will count as charging if the unit "
+"charged. If it is impossible to position the stand in this manner, the spell "
+"cannot be cast and will not work."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/daemons.adoc:170
+#, no-wrap
+msgid "Daemonic Rage"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:176
+msgid ""
+"_A keening cry of pure power rises upon daemonic lips as magical energy "
+"surges through their eldritch bodies._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:178
+#: en/revolution/modules/armies/pages/high-elves.adoc:165
+msgid "This spell affects every friendly unit within range."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:180
+msgid "The spell lasts during the following Combat phase."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:184
+msgid ""
+"Every unit gains a bonus +1 attack. This attack can be allocated to any "
+"stand in the unit and can be allocated to a different stand in each combat "
+"round."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/daemons.adoc:185
+#, no-wrap
+msgid "Sorcerous Blast"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:192
+msgid ""
+"_With a single gesture a bolt of black lightning leaps from fingertip to the "
+"foe, searing the enemy with a blast of dark power._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:196
+#: en/revolution/modules/armies/pages/lizardmen.adoc:215
+#: en/revolution/modules/armies/pages/skaven.adoc:233
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:222
+msgid ""
+"This spell can be cast on an enemy unit. The Wizard must be able to see his "
+"target to use this spell. The spell cannot be directed at a unit engaged in "
+"combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:201
+msgid ""
+"The Sorcerous Blast is treated like three ordinary shooting attacks except "
+"that armour has no effect (all targets count as having no armour). A unit "
+"can be driven back by a Sorcerous Blast as with ordinary shooting."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/daemons.adoc:202
+#, no-wrap
+msgid "Frenzy of Chaos"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:208
+msgid ""
+"_Rumbling thunderous power surges through the daemonic ranks driving all "
+"into a frenzied thirst for blood._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:212
+msgid ""
+"This spell can be cast upon a friendly unit which is engaged in combat and "
+"that is within range. The Sorcerer does not have to be able to see the "
+"target to cast the spell."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/daemons.adoc:218
+msgid ""
+"The effect lasts until the end of the following Combat phase.  The unit can "
+"re-roll any failed attacks in combat: take any dice that fail to score hits "
+"and roll them again. Note that you cannot re-roll a dice that has already "
+"been re-rolled either because of a spell, magic item or any other reason."
+msgstr ""
+
+#. type: Target for macro image
+#: en/revolution/modules/armies/pages/daemons.adoc:219
+#, no-wrap
+msgid "daemons/greater-daemon.webp"
+msgstr ""
