@@ -117,8 +117,10 @@ unit if it has armour (3+, 4+, 5+ or 6+). A unit with no
 armour has a value of 0.
 
 Command:: The Command value of a character.
-Unit Size. The number of stands in a unit.
-Points per Unit. The points value of a unit or character
+
+Unit size:: The number of stands in a unit.
+
+Points per unit:: The points value of a unit or character
 of that type.
 
 Min/Max:: This defines the minimum and maximum
