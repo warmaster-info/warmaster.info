@@ -5,6 +5,7 @@ site:
   keys:
     language: fr
 content:
+  edit_url: ~
   sources:
     - url: .
       start_path: ./fr/home
