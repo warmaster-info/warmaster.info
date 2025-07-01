@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"PO-Revision-Date: 2025-07-01 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_empire/fr/>\n"
@@ -275,6 +275,9 @@ msgid ""
 "gun. It has maximum range of 30cm. Its attacks value varies according to "
 "range: the closer the range the more deadly it becomes."
 msgstr ""
+"Le Feu d’Enfer est une mitrailleuse à manivelle primitive et peu fiable. Sa "
+"portée maximum est de 30 cm. Sa valeur d’attaque varie selon la portée : "
+"plus elle est courte, plus le tir est dévastateur."
 
 #. type: Table
 #: en/revolution/modules/armies/pages/empire.adoc:119
@@ -283,6 +286,8 @@ msgid ""
 "h|Range  |1–10cm |11–20cm |21–30cm\n"
 "h|Attack |8      |4       |2\n"
 msgstr ""
+"h|Portée  |1–10cm |11–20cm |21–30cm\n"
+"h|Attaques |8      |4       |2\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:126
@@ -292,6 +297,11 @@ msgid ""
 "with a Helblaster roll to hit as normal but if any 1s are rolled count them "
 "up and resolve the effect before counting."
 msgstr ""
+"Les cibles touchées par un Feu d’Enfer subissent un malus de -1à leur valeur "
+"d’Armure : 3+ devient 4+, 4+ devient 5+, 5+devient 6+, et 6+ est annulé. "
+"Lorsque vous tirez avec un Feu d’Enfer, effectuez normalement les jets pour "
+"toucher, mais si un ou plusieurs dés donnent un résultat de 1, consultez le "
+"tableau suivant et appliquez son résultat avant de résoudre les effets."
 
 #. type: Table
 #: en/revolution/modules/armies/pages/empire.adoc:147
@@ -316,12 +326,30 @@ msgid ""
 "inflicted. Make Armour saves as for ordinary\n"
 "Helblaster hits.\n"
 msgstr ""
+"|Nb de 1 |Résultat\n"
+"\n"
+"h|1, 2\n"
+"|*Long Feu:* Malgré des bruits étranges l'arme est toujours\n"
+"fonctionnelle. Résolvez l'attaque normalement.\n"
+"\n"
+"h|3\n"
+"|*Incident:* : Le canon ne tire pas du tout lors de ce\n"
+"tour. Aucune touche n’est infligée.\n"
+"\n"
+"h|4+\n"
+"|*Boum !* L'arme explose et se détruit, tuant l'équipage.\n"
+"Le Feu d'Enfer est retiré comme perte. Aucune touche\n"
+"n'est infligée aux ennemis, à moins que ceux-ci n'aient\n"
+"été en train de charger, auquel cas 6 touches sont\n"
+"automatiquement infligées. Effectuez les sauvegardes\n"
+"d'armure comme pour des touches ordinaires\n"
+"de Feu d'Enfer.\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:149
 #, no-wrap
 msgid "[[steam-tank,†6]]6. Steam Tank"
-msgstr ""
+msgstr "[[steam-tank,†6]]6. Tank à Vapeur"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:160
@@ -336,6 +364,16 @@ msgid ""
 "have a range of 30cm. A Steam Tank therefore shoots to its front, side or "
 "rear against the closest enemy target."
 msgstr ""
+"Le Tank à Vapeur est une unité à part entière, il se déplace jusqu’à 20 cm "
+"et doit recevoir des ordres. Il ne peut pas recevoir d’ordre de brigade, pas "
+"même avec d’autres Tanks. Un personnage ne peut jamais rejoindre un Tank à "
+"Vapeur. Le Tank à Vapeur a une vision à 360° - c'est-à-dire qu'il peut "
+"tracer une ligne de vue depuis n'importe quel bord de son socle, ceci afin "
+"d'éviter ou de tirer, incluant le tir sur les ennemis en charge. Notez que "
+"cette unité a tout de même besoin d'avoir une Ligne de Vue depuis son bord "
+"avant pour charger un ennemi. Les attaques de tir d'un Tank à Vapeur ont une "
+"portée de 30cm. Un Tank à Vapeur tire donc vers l'avant, les côtés et "
+"l'arrière contre l'ennemi le plus proche."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:165
@@ -345,6 +383,10 @@ msgid ""
 "and 6+ can’t save against a Steam Tank. A Steam Tank can shoot at charging "
 "enemy."
 msgstr ""
+"Les ennemis subissant des touches de Tank à Vapeur voient leur valeur d’"
+"Armure réduite d’1 point. Ainsi, une armure de 3+ compte comme étant 4+, une "
+"armure de 4+ compte comme étant 5+, et les Armures de 6+ sont ignorées. Un "
+"Tank à Vapeur peut tirer sur un ennemi qui le charge."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:171
@@ -354,6 +396,10 @@ msgid ""
 "shooting or in combat. The Steam Tank fights combat like any other unit. "
 "Steam Tanks cannot be driven back or routed by shooting."
 msgstr ""
+"En raison de son blindage particulièrement épais, un Tank à Vapeur compte "
+"toujours comme étant en défense, il ne peut donc être touché que sur 5+ au "
+"corps à corps comme au tir. Il combat comme n’importe quelle autre unité. "
+"Les Tanks à Vapeur ne peuvent être repoussés ou dispersés par des tirs."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:178
@@ -364,6 +410,12 @@ msgid ""
 "Malfunction chart. Note that although a General cannot blunder he must still "
 "roll for malfunctions."
 msgstr ""
+"Si en tentant de donner un ordre à un Tank à Vapeur vous obtenez un double "
+"6, l’ordre échoue comme d’ordinaire et la machine ne se déplace pas. Ignorez "
+"le tableau des Gaffes pour les Héros et les Sorciers. Jetez à la place le dé "
+"sur le tableau d’incidents qui suit. Notez que même si un Général ne peut "
+"pas commettre de gaffe, il doit quand même jeter les dés sur le tableau "
+"d’incidents."
 
 #. type: Table
 #: en/revolution/modules/armies/pages/empire.adoc:209
@@ -398,6 +450,38 @@ msgid ""
 "number of Attacks (6) to represent steam being\n"
 "uncontrollably diverted into weaponry.\n"
 msgstr ""
+"h|1\n"
+"|*Détruit:* Le Tank à Vapeur est immobilisé. De la vapeur \n"
+"et des gaz toxiques s’échappent de sa coque. Il est retiré\n"
+"comme perte.\n"
+"\n"
+"h|2\n"
+"|*En panne:* Le mécanisme de direction du Tank est endommagé.\n"
+"Il ne peut plus se déplacer lors de ce tour et ne pourra plus le faire\n"
+"de toute la partie. S’il est obligé de bouger pour une raison\n"
+"ou une autre, il est détruit. Il peut hormis cela continuer à tirer\n"
+"et à se battre normalement.\n"
+"\n"
+"h|3\n"
+"|*Bloqué:* Le Tank ne peut plus se déplacer lors de ce tour, et ne pourra "
+"pas\n"
+"tirer. Il ne subit pas d’autres effets néfastes et pourra se déplacer\n"
+"normalement lors des tours suivants.\n"
+"\n"
+"h|4\n"
+"|*Commandant tué:* Le Tank ne peut plus se déplacer lors de ce tour. Il\n"
+"pourra bouger normalement lors des tours suivants mais subit une pénalité\n"
+"de -1 sur ses ordres pour le reste de la bataille. Il peut tirer normalement."
+"\n"
+"\n"
+"h|5\n"
+"|*Halte momentanée:* : Le Tank ne peut plus se déplacer lors de ce tour\n"
+"mais ne subit aucun autre effet néfaste.\n"
+"\n"
+"h|6\n"
+"|*Surcharge:* Le Tank ne peut plus se déplacer lors de ce tour mais pourra\n"
+"tirer avec le double de son nombre habituel d’Attaques (normalement 6)\n"
+"pour représenter l’excès de vapeur dirigé vers ses armes.\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:211
@@ -414,12 +498,17 @@ msgid ""
 "its enemies (and one might imagine a great deal of nervousness amongst its "
 "own ranks)."
 msgstr ""
+"Généraux, Sorciers et Héros peuvent chevaucher des Griffons. Le Griffon peut "
+"voler et fait donc passer le mouvement de son cavalier de 60 cm à 100 cm. Il "
+"ajoute également +2 Attaques à celles du cavalier. Une unité incluant un "
+"personnage sur Griffon provoque la terreur chez ses ennemis (ainsi qu’une "
+"légère anxiété dans ses propres rangs)."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:218
 #, no-wrap
 msgid "[[war-altar,†8]]8. War Altar"
-msgstr ""
+msgstr "[[war-altar,†8]]8. Autel de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:227
@@ -432,9 +521,16 @@ msgid ""
 "battle. The player must announce that he is using the power of the War Altar "
 "before rolling the dice for the spell."
 msgstr ""
+"Il n’existe qu’un seul véritable Autel de Guerre de Sigmar.  C’est pourquoi "
+"aucune armée impériale, quelle que soit sa taille, ne peut en avoir plus d’"
+"un dans ses rangs. L’Autel de Guerre ne peut servir de véhicule qu’à un "
+"Sorcier, on suppose alors qu’il s’agit du Grand Théogoniste.   La présence "
+"de l’autel donne +1 Attaque au Grand Théogoniste et lui permet, une fois par "
+"partie, d’ajouter +1 au dé pour lancer un sort. Le joueur doit annoncer qu’"
+"il utilise le pouvoir de l’Autel avant de lancer le sort."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/empire.adoc:228
 #, no-wrap
 msgid "Empire spells"
-msgstr ""
+msgstr "Sorts de l'Empire"
