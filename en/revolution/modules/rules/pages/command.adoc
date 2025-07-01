@@ -485,7 +485,9 @@ motivate than fresh units.
 // c) failure ends
 
 [.bo5a]
-_Example: The General has a Command value of 9.  He
+.Command penalties
+====
+The General has a Command value of 9.  He
 has already moved his cavalry forward once.  Now he
 wishes to move them again, hoping to capture a hill
 that lies on the enemy’s flank. The cavalry are 65cm away
@@ -495,13 +497,14 @@ move). The player will have to roll 5 or less to
 give the unit an order.  He knows this is unlikely but
 decides to take the risk anyway as he considers the hill
 an important objective. He rolls 2D6 and scores 4…
-success! The player moves the cavalry into their new position._
+success! The player moves the cavalry into their new position.
 
-_[.bo5a]#Next, he attempts to give orders to a unit of infantry
-10cm away# (no penalty) and within a wood (−1
-dense terrain penalty). [.bo5a]#Although he only needs 8 or less, this time he
+Next, he attempts to give orders to a unit of infantry
+10cm away# [.wmr]#(no penalty) and within a wood (−1
+dense terrain penalty).# Although he only needs 8 or less, this time he
 is unlucky and rolls a 10. The unit does not move – the
-General has failed an order so the Orders sub-phase comes to an end.#_
+General has failed an order so the Orders sub-phase comes to an end.
+====
 
 .Optional rule
 ****
