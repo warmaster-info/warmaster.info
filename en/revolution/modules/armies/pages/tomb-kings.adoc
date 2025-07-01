@@ -2,7 +2,7 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
-:dragon: Zombie
+:dragon: Zombie Dragon
 
 // TODO: Logo is half the resolution of all the others.
 
@@ -134,6 +134,7 @@ only be used once per battle.
 
 [[zombie-dragon,†7]]7. Zombie Dragon:: A Tomb King or Liche Priest may ride a
 Zombie Dragon.
++
 include::partial$dragon.adoc[]
 
 [[liche-chariot,†8]]8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.

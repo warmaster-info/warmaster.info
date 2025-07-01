@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 17:34+0200\n"
+"POT-Creation-Date: 2025-07-01 17:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,8 +73,8 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:219
 #: en/revolution/modules/armies/pages/bretonnia.adoc:237
 #: en/revolution/modules/armies/pages/cathay.adoc:207
-#: en/revolution/modules/armies/pages/chaos.adoc:161
-#: en/revolution/modules/armies/pages/chaos.adoc:194
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos.adoc:195
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
@@ -93,14 +93,14 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:149
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:216
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:217
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:183
-#: en/revolution/modules/armies/pages/wood-elves.adoc:197
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -165,14 +165,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:146
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:147
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:140
 #, no-wrap
 msgid "Raise Dead"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:152
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:153
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:146
 msgid ""
 "_At the Wizard’s beckoning the mangled corpses that litter the battleground "
@@ -180,7 +180,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:163
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:164
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:157
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
@@ -194,7 +194,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:177
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:178
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:171
 msgid ""
 "A Skeleton unit of three stands is created. Each stand in the raised unit "
@@ -211,14 +211,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:213
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:214
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:189
 #, no-wrap
 msgid "Death Bolt"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:219
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:220
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:195
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
