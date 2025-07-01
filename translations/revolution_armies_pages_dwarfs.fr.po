@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -159,12 +159,6 @@ msgid ""
 "own kind and can bear a grudge practically forever. They reserve their most "
 "heartfelt hatred for the greenskins and ratmen who have taken over the ruins "
 "of many strongholds that are rightful property of the Dwarfs."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dwarfs.adoc:86
-#, no-wrap
-msgid "dwarfs/anvil.webp"
 msgstr ""
 
 #. type: Title ==
@@ -451,10 +445,4 @@ msgid ""
 "Roll a D6. On the score of a 4, 5 or 6 all Dwarf units within 20cm of the "
 "Runesmith are unaffected by Terror until the start of the Dwarf player’s "
 "next turn. On a roll of less than 4 there is no effect."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dwarfs.adoc:260
-#, no-wrap
-msgid "dwarfs/miner.jpg"
 msgstr ""

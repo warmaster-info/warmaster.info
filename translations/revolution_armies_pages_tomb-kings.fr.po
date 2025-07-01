@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:40+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_tomb-kings/fr/>\n"
@@ -106,7 +106,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:235
@@ -115,7 +115,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:224
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:196
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -132,7 +132,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:184
@@ -142,7 +142,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:180
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:196
@@ -154,6 +154,8 @@ msgid ""
 "target to use this spell. The spell cannot be directed at a unit engaged in "
 "combat."
 msgstr ""
+"Le Sorcier peut lancer ce sort sur une unité ennemie en vue. Il ne peut pas "
+"être lancé sur une unité engagée en combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:230
@@ -162,18 +164,26 @@ msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Wizard can see it or not."
 msgstr ""
+"Ce sort peut être lancé sur toute unité ennemie à portée, que le Sorcier "
+"puisse la voir ou non."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:233
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:205
 msgid ""
 "The spell takes effect until the end of the opposing player’s next turn."
-msgstr ""
+msgstr "Les effets du sort durent jusqu’à la fin du tour suivant de l’ennemi."
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:1
 #, no-wrap
 msgid "Tomb Kings"
+msgstr "Rois des Tombes"
+
+#. type: Attribute :dragon:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:5
+#, no-wrap
+msgid "Zombie"
 msgstr ""
 
 #.  TODO: Logo is half the resolution of all the others.
@@ -190,6 +200,16 @@ msgid ""
 "embalmed and interred with holy spells of immortality to prepare them for "
 "the far off day of re-awakening."
 msgstr ""
+"image:tomb-kings/logo.webp[width=93,height=117,float=\"right\"] Il y a bien "
+"des millénaires, les terres de Khemri étaient un pays fertile, populeux et "
+"prospère qui s’étendait sur les rives du Grand Fleuve de Vie, dont les crues "
+"annuelles irriguaient les champs et garantissaient une moisson abondante. "
+"Chacune de ses cités était dirigée par un prêtre-roi. Pendant des siècles, "
+"ceux-ci furent inhumés dans des tombeaux bâtis par leurs fidèles prêtres "
+"liches. Leur corps et ceux de leurs plus fidèles serviteurs et soldats "
+"étaient soigneusement embaumés et l’on tissait autour d’eux des "
+"enchantements d’immortalité, afin de les préparer au lointain jour de leur "
+"réveil."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:31
@@ -204,6 +224,15 @@ msgid ""
 "gradually absorbed into the Black Pyramid and his body reborn in the "
 "sorcerous sarcophagus that lay deep within."
 msgstr ""
+"Malheureusement pour les prêtres-rois, leurs rêves d’immortalité se "
+"réalisèrent de la plus macabre des façons.   Un prêtre liche rebel nommé "
+"Nagash s’empara des cités de Khemri et soumit le pays entier. Mais Nagash se "
+"montra si impitoyable que son peuple finit par se révolter, et le sorcier "
+"dut s’exiler avant d’être finalement assassiné. Mais ce ne fut pas là sa "
+"fin, car il était le plus puissant magicien de tous les temps, et tant que "
+"demeurait la Pyramide Noire, son âme pouvait y trouver refuge. Son essence "
+"maléfique fut peu à peu absorbée par la pyramide, et son corps se régénéra "
+"dans le sarcophage qui y était caché dans ses profondeurs."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:49
@@ -223,6 +252,21 @@ msgid ""
 "of sorcery that blew about its shining black walls and understood that they "
 "had been betrayed."
 msgstr ""
+"La vengeance qu’exerça Nagash sur ses ennemis fut sans pareille. Depuis les "
+"tréfonds de la Pyramide Noire, il invoqua un terrible sortilège de mort "
+"qu’il libéra sur le pays. Une épidémie s’abattit sur les terres de Khemri, "
+"si bien que tous les vivants périrent, et il ne demeura personne pour "
+"enterrer les morts, et les cités se résumèrent bientôt à de vastes "
+"charniers. Ce qui avait respiré était à présent mort, et ce qui était mort "
+"se releva dans une odieuse parodie de vie. En ce jour funeste, les "
+"souverains d’antan se réveillèrent et découvrirent avec effroi ce qu’il "
+"était advenu de leurs terres. L’immortalité dorée qu’on leur avait promise "
+"s’avéra être un mensonge. Les rois des tombes étaient furieux de leur sort, "
+"et ils étaient très nombreux. Des dynasties entières sortirent du tombeau, "
+"d’anciens rivaux et des ennemis jurés marchaient désormais côte à côte. Mais "
+"leur colère était avant tout dirigée contre Nagash. Ils virent la Pyramide "
+"Noire, sentirent les vents de magie souffler autour de ses parois luisantes. "
+"Et ils comprirent qu’ils avaient été trahis."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:64
@@ -239,18 +283,25 @@ msgid ""
 "any comfort it is only in the recreation of their ancient empires – a shadow "
 "of former existence that evokes memories of the lives that they once led."
 msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:65
-#, no-wrap
-msgid "tomb-kings/tomb-kings.webp"
-msgstr ""
+"Depuis leurs sépulcres, les Rois des Tombes ont réorganisé leurs royaumes. "
+"Leurs gens, dans la majorité enterrés sans les rituels qui ont maintenu la "
+"conscience de leurs maîtres, ne sont guère plus que des automates. Les "
+"armées des morts manœuvrent à l’instinct, car telle était leur fonction dans "
+"la vie, et continuent de mener leurs antiques guerres ou de poursuivre de "
+"nouveaux conflits sur les sables brûlants du désert. Le terrifiant sortilège "
+"qui les a relevés les lie à leur terre mais ne leur offre aucun salut. Ceux "
+"qui tombent au combat de nouveau se relèvent dès l’aube suivante, et même "
+"ceux qui sont entièrement détruits, brûlés ou vaporisés par la magie "
+"survivent, sous la forme d’esprits mauvais qu’on entend dans le gémissement "
+"du vent et le grincement des immenses pierres des montagnes. L’unique "
+"semblant de joie des rois des tombes leur provient de la poursuite de leurs "
+"anciennes conquêtes - réminiscence floue et ténébreuse de leur vie passée."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:67
 #, no-wrap
 msgid "Tomb kings army selector"
-msgstr ""
+msgstr "Sélecteur d'Armée des Rois des Tombes"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:72
@@ -263,7 +314,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:82
 #, no-wrap
 msgid "Undead"
-msgstr ""
+msgstr "Mort-vivant"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:81
@@ -272,6 +323,10 @@ msgid ""
 "Command phase if given orders (except Carrion who can also home back as "
 "noted below)."
 msgstr ""
+"Les morts-vivants n’agissent jamais par initiative. Une unité de morts-"
+"vivants ne peut se déplacer durant la phase d’Ordre qu’après avoir reçu des "
+"ordres (sauf les Charognards, qui peuvent toujours revenir comme indiqué ci-"
+"dessous)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:84
@@ -279,6 +334,8 @@ msgstr ""
 msgid ""
 "Undead units are unaffected by the −1 Command penalty for enemy within 20cm."
 msgstr ""
+"Les morts-vivants sont immunisés au malus de Commandement de -1 pour une "
+"présence ennemie à moins de 20 cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:87
@@ -287,6 +344,8 @@ msgid ""
 "Undead units are unaffected by the −1 Combat penalty for fighting terrifying "
 "troops."
 msgstr ""
+"Les morts-vivants sont aussi immunisés contre le malus de -1 pour toucher au "
+"combat quand on affronte des troupes provoquant la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:90
@@ -295,13 +354,15 @@ msgid ""
 "Undead units are unaffected by the Confusion rule – they cannot become "
 "confused for any reason."
 msgstr ""
+"Toutes les unités de morts-vivants sont immunisées aux effets de la règle de "
+"Confusion. Ils ne peuvent jamais devenir confus."
 
 #. 6: Space before +1
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:97
 #, no-wrap
 msgid "[[carrion,†1]]1. Carrion"
-msgstr ""
+msgstr "[[carrion,†1]]1. Charognards"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:100
@@ -309,12 +370,14 @@ msgid ""
 "Carrion can fly. Note that Carrion can always return to a character by "
 "homing back at the start of the Command phase."
 msgstr ""
+"Les Charognards peuvent voler. Notez qu’ils peuvent toujours revenir vers un "
+"personnage au début de la phase d’Ordres."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:101
 #, no-wrap
 msgid "[[bone-giant,†2]]2. Bone Giant"
-msgstr ""
+msgstr "[[bone-giant,†2]]2. Géants Squelettes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:105
@@ -323,6 +386,10 @@ msgid ""
 "a brigade that contains a Bone Giant there is a −1 Command penalty. There is "
 "no penalty when a Liche-Priest gives an order."
 msgstr ""
+"Les Géants Squelettes causent la terreur. Lorsqu’un Roi des Tombes donne un "
+"ordre à un Géant Squelette ou à une brigade contenant un Géant Squelette, il "
+"subit un malus de -1 en Commandement. Un Prêtre Liche peut cependant lui "
+"donner des ordres sans malus."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:106
@@ -341,6 +408,13 @@ msgid ""
 "discounted and its maximum Hits and Attacks are halved for the rest of the "
 "battle (to 3 Hits and 2 Attacks). The Sphinx causes terror."
 msgstr ""
+"Vu le nombre de PV élevé du Sphinx (6), nous devons considérer la "
+"possibilité que les blessures subies réduisent son efficacité au combat. Si "
+"un Sphinx a accumulé entre 4 et 5 touches à la fin d’une phase de Tir ou de "
+"Combat et n'est plus engagé, il est grièvement blessé. Une fois qu’un Sphinx "
+"est grièvement blessé, toutes les touches sont annulées mais ses Attaques et "
+"ses Points de Vie sont réduits de moitié pour le reste de la partie (2 "
+"Attaques et 3 PV). Le Sphinx cause la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:124
@@ -352,12 +426,19 @@ msgid ""
 "necessary to roll the Skull Chukka dice separately. See the Artillery and "
 "Machines section of the rulebook for the Stone Thrower rules."
 msgstr ""
+"mais dispose de la règle spéciale suivante.   Lorsqu’une unité est repoussée "
+"en raison de touches infligées par une Catapulte à Crânes, tous les jets de "
+"dés de repoussement entraînés par ces touches rendront la cible confuse sur "
+"un résultat de 4+ au lieu du 6 habituel. Notez que si l’unité a subi des "
+"touches d’un autre type, les jets de dés infligés par la Catapulte doivent "
+"être effectués séparément. Voyez la section Artillerie & Machines pour les "
+"règles du Lance-rocs."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:125
 #, no-wrap
 msgid "[[bone-thrower,†5]]5. Bone Thrower"
-msgstr ""
+msgstr "[[bone-thrower,†5]]5. Baliste à Ossements"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:127
@@ -365,12 +446,14 @@ msgid ""
 "The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-"
 "thrower[Bolt Thrower] as described in the Rulebook."
 msgstr ""
+"La Baliste à Ossements est une xref:rules:artillery-and-machines.adoc#bolt-"
+"thrower[Baliste] comme décrit dans la section Artillerie du Livre de Règles."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:128
 #, no-wrap
 msgid "[[tomb-king,†6]]6. Tomb King"
-msgstr ""
+msgstr "[[tomb-king,†6]]6. Roi des Tombes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:133
@@ -380,23 +463,28 @@ msgid ""
 "unit within 20cm by +1 for the duration of one Combat phase. This ability "
 "can only be used once per battle."
 msgstr ""
+"Le Roi des Tombes est doté de pouvoirs magiques par le sort qui lui a été "
+"jeté lors de son inhumation. Il peut utiliser ce pouvoir pour augmenter de "
+"+1 les Attaques de tous les socles d’une unité située à moins de 20 cm de "
+"lui pendant toute la durée d'une phase de Combat. Ce pouvoir n’est "
+"utilisable qu’une seule fois par partie."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:134
 #, no-wrap
 msgid "[[zombie-dragon,†7]]7. Zombie Dragon"
-msgstr ""
+msgstr "[[zombie-dragon,†7]]7. Dragon Zombie"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:137
 msgid "A Tomb King or Liche Priest may ride a Zombie Dragon."
-msgstr ""
+msgstr "Un Roi des Tombes ou un Prêtre Liche peut monter un Dragon Zombie."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:138
 #, no-wrap
 msgid "[[liche-chariot,†8]]8. Liche Chariot"
-msgstr ""
+msgstr "[[liche-chariot,†8]]8. Char Liche"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:140
@@ -404,25 +492,21 @@ msgid ""
 "A Tomb King or Liche Priest can ride a chariot.  A character riding a "
 "chariot adds +1 to his Attacks."
 msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:141
-#, no-wrap
-msgid "tomb-kings/tomb-king.webp"
-msgstr ""
+"Un Roi des Tombes ou un Prêtre Liche peut embarquer sur un char.   Un "
+"personnage monté sur un char gagne +1 Attaque."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:143
 #, no-wrap
 msgid "Tomb King spells"
-msgstr ""
+msgstr "Sorts des Rois des Tombes"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:145
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:140
 #, no-wrap
 msgid "Raise Dead"
-msgstr ""
+msgstr "Invoquer les Morts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:151
@@ -536,10 +620,4 @@ msgid ""
 "The Death Bolt is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "
 "driven back by a Death Bolt as with ordinary shooting."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:228
-#, no-wrap
-msgid "tomb-kings/tomb-king-battle-line.jpg"
 msgstr ""

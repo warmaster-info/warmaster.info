@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:40+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_wood-elves/fr/>\n"
@@ -106,7 +106,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -123,7 +123,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:222
@@ -135,6 +135,12 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:1
 #, no-wrap
 msgid "Wood Elves"
+msgstr ""
+
+#. type: Attribute :dragon:
+#: en/revolution/modules/armies/pages/wood-elves.adoc:5
+#, no-wrap
+msgid "Forest"
 msgstr ""
 
 #. type: Plain text
@@ -185,12 +191,6 @@ msgid ""
 "bodies of fallen enemies. These serve as a grim warning to all who trespass "
 "beyond the boundary stones marking the edge of the realm – you are not "
 "welcome here, death awaits."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/wood-elves.adoc:51
-#, no-wrap
-msgid "wood-elves/wood-elves.webp"
 msgstr ""
 
 #. type: Title ==
@@ -448,12 +448,6 @@ msgstr ""
 msgid "Generals, Nobles and Spell Weavers may ride Forest Dragons."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/wood-elves.adoc:176
-#, no-wrap
-msgid "wood-elves/infantry.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/wood-elves.adoc:178
 #, no-wrap
@@ -541,10 +535,4 @@ msgid ""
 "the ground beneath their feet). Engaged units carry over any hits scored "
 "into the first round of combat; any hits scored count as having been struck "
 "in the combat itself."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/wood-elves.adoc:227
-#, no-wrap
-msgid "wood-elves/wild-riders.webp"
 msgstr ""

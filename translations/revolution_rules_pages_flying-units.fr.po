@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -192,12 +192,6 @@ msgid ""
 "charging from irregular formation which is an exception to the normal rules."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/flying-units.adoc:85
-#, no-wrap
-msgid "flying-units/carpet.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/flying-units.adoc:87
 #, no-wrap
@@ -215,13 +209,6 @@ msgid ""
 "rather than simply bouncing enemy units out of the blue, and it enables "
 "enemy units to avoid aerial attack if they have screening units or if there "
 "is plenty of terrain."
-msgstr ""
-
-#.  NB more detail in Bo5A, differences with terrain.
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/flying-units.adoc:102
-#, no-wrap
-msgid "flying-units/sorceress.webp"
 msgstr ""
 
 #. type: Plain text
@@ -263,8 +250,8 @@ msgid ""
 "friends can make way or, if they do not do so, the flyers halt as they "
 "touch. Driven back flyers that end their move positioned over enemy will "
 "come to a stop 1cm in front of them in the same way as ground troops. In all "
-"cases appropriate tests must be made for confusion (see xref:confusion."
-"adoc[Confusion])."
+"cases appropriate tests must be made for confusion (see "
+"xref:confusion.adoc[Confusion])."
 msgstr ""
 
 #. type: Plain text
@@ -318,8 +305,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/flying-units.adoc:177
 msgid ""
 "A character riding a flying monster is bound by the terrain movement "
-"restrictions that apply for flying monsters. See xref:characters."
-"adoc[Generals, Wizards and Heroes]."
+"restrictions that apply for flying monsters. See "
+"xref:characters.adoc[Generals, Wizards and Heroes]."
 msgstr ""
 
 #. type: Plain text
@@ -346,10 +333,4 @@ msgstr ""
 msgid ""
 "In the Command phase, flying units must end their movement more than 1cm "
 "away from enemy units unless charging."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/flying-units.adoc:199
-#, no-wrap
-msgid "flying-units/elf.webp"
 msgstr ""

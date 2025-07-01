@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_regiments-of-renown/fr/>\n"
@@ -81,7 +81,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. 1: Minor rewording of description, reworded diagram description
 #.    Same as Dogs of War
@@ -129,13 +129,6 @@ msgstr ""
 msgid ""
 "Pikemen are based as cavalry – i.e. the models are orientated towards the "
 "narrow edge of the base."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:114
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:153
-#, no-wrap
-msgid "dogs-of-war/pikemen-support.svg"
 msgstr ""
 
 #. type: Title =
@@ -210,12 +203,6 @@ msgid ""
 "more often than not, known by the name of their leader, such as Verthhold "
 "Brekt’s Halberdiers, Hagar Whitefang’s Were-Marauders, Bradan Swiftleaf’s "
 "Glade Riders, Khalag’s Sure Shots, and the renowned Golgfag’s Ogres."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:54
-#, no-wrap
-msgid "regiments-of-renown/birdmen.webp"
 msgstr ""
 
 #. type: Title ==
@@ -525,12 +512,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:245
 msgid "Additionaly Asarnil causes terror in his enemies."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:246
-#, no-wrap
-msgid "regiments-of-renown/manflyers.webp"
 msgstr ""
 
 #. type: Block title
@@ -919,10 +900,4 @@ msgstr ""
 msgid ""
 "Count as one Hero type [.edit]#character#. _The Witch Hunters_ cannot be "
 "hired together with _The Cursed Company_."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:415
-#, no-wrap
-msgid "regiments-of-renown/gotrek-and-felix.webp"
 msgstr ""

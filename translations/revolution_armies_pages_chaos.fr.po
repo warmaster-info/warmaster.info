@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:40+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos/fr/>\n"
@@ -103,7 +103,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -145,7 +145,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:111
@@ -188,10 +188,11 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:180
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
-#. type: Title =
+#. type: Attribute :dragon:
 #: en/revolution/modules/armies/pages/chaos.adoc:1
+#: en/revolution/modules/armies/pages/chaos.adoc:5
 #, no-wrap
 msgid "Chaos"
 msgstr ""
@@ -254,12 +255,6 @@ msgid ""
 "unification of the Empire and the aid of the High Elves of Ulthuan saved the "
 "human realms of the Old World at that time, though Kislev was devastated and "
 "the city of Praag destroyed."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos.adoc:59
-#, no-wrap
-msgid "chaos/chaos.webp"
 msgstr ""
 
 #. type: Title ==
@@ -348,12 +343,6 @@ msgstr ""
 msgid ""
 "Generals, Sorcerers and Heroes can ride Chariots. An extra +1 Attack is "
 "added to those of its rider."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos.adoc:118
-#, no-wrap
-msgid "chaos/warriors.webp"
 msgstr ""
 
 #. type: Title ==
@@ -501,10 +490,4 @@ msgid ""
 "The Curse of Chaos is treated like three ordinary shooting attacks except "
 "that armour has no effect (all targets count as having no armour). A unit "
 "can be driven back by a Curse of Chaos as with ordinary shooting."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos.adoc:206
-#, no-wrap
-msgid "chaos/knights.webp"
 msgstr ""

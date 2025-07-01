@@ -6,21 +6,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"home_root_pages_index/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
-#. type: Positional ($1) AttributeList argument for macro 'image'
+#. type: Title =
 #: en/home/modules/ROOT/pages/index.adoc:1
-#: en/revolution/modules/armies/pages/index.adoc:4
 #: en/revolution/modules/rules/pages/index.adoc:1
-#: en/revolution/modules/rules/pages/index.adoc:4
 #, no-wrap
 msgid "Warmaster Revolution"
 msgstr ""
@@ -32,19 +32,33 @@ msgid ""
 "Warmaster game. Official rules are published in PDF format on the community "
 "website, https://www.wm-revolution.com/[wm-revolution.com]."
 msgstr ""
+"_Warmaster Revolution_ est une seconde édition des règles du jeu Warmaster, "
+"créée par la communauté. Les règles officielles sont publiées au format PDF "
+"sur le site communautaire, https://www.wm-revolution.com/[wm-revolution.com]."
 
 #. type: Plain text
 #: en/home/modules/ROOT/pages/index.adoc:9
 msgid ""
-"This website contains the _Warmaster Revolution_ xref:revolution:rules:index."
-"adoc[rules] and xref:revolution:armies:index.adoc[army lists] for easier "
-"electronic browsing and searching.  Some text has been reorganised or "
-"slightly reworded, based on similar changes in later editions of "
-"_Warmaster_, but _there are no changes to the rules of the game_.  These "
-"edits are marked with dotted underlines or coloured borders, see xref:"
-"revolution:rules:editors-note.adoc#website-editors-note[this explanation] "
-"for details.  Many minor spelling and grammer improvements are not marked."
+"This website contains the _Warmaster Revolution_ "
+"xref:revolution:rules:index.adoc[rules] and "
+"xref:revolution:armies:index.adoc[army lists] for easier electronic browsing "
+"and searching.  Some text has been reorganised or slightly reworded, based "
+"on similar changes in later editions of _Warmaster_, but _there are no "
+"changes to the rules of the game_.  These edits are marked with dotted "
+"underlines or coloured borders, see xref:revolution:rules:editors-"
+"note.adoc#website-editors-note[this explanation] for details.  Many minor "
+"spelling and grammer improvements are not marked."
 msgstr ""
+"Ce site internet contient les xref:revolution:rules:index.adoc[règles] et "
+"les xref:revolution:armies:index.adoc[listes d'armées] de _Warmaster "
+"Revolution_pour plus de facilité d'utilisation et de recherche.  Certains "
+"textes ont été réorganisés ou partiellement ré-écrits, en se basant sur des "
+"changements similaires dans les dernières éditions de _Warmaster_, mais "
+"_aucun changement n'a été fait sur les règles du jeu_.  Ces éditions ont été "
+"soulignées en pointillé ou entouré de bordures colorées, voir "
+"xref:revolution:rules:editors-note.adoc#website-editors-note[cette "
+"explication] pour plus de détails.  De nombreuses corrections de syntaxe et "
+"améliorations de grammaire ne sont pas marquées."
 
 #. type: Plain text
 #: en/home/modules/ROOT/pages/index.adoc:11
@@ -53,6 +67,10 @@ msgid ""
 "the search words.  To force the results to contain a specific word, prefix "
 "it with a `+` as in `+Dark +Elves`."
 msgstr ""
+"Notez que le champs de recherche en haut de la page renvoie des résultats "
+"pour _n'importe lequel_ des termes recherchés.  Pour forcer le résultat à ne "
+"contenir que des mots spécifiques, il faut préfixer les termes avec un `+`, "
+"par exemple, `Elfes+Noirs`."
 
 #. type: Plain text
 #: en/home/modules/ROOT/pages/index.adoc:14
@@ -60,6 +78,8 @@ msgid ""
 "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
 "rules-cover.webp[Warmaster Revolution Rulebook]]"
 msgstr ""
+"xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
+"rules-cover.webp[Livre de Règles de Warmaster Revolution]]"
 
 #. type: Plain text
 #: en/home/modules/ROOT/pages/index.adoc:14
@@ -67,3 +87,5 @@ msgid ""
 "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
 "revolution-armies-cover.webp[Warmaster Revolution Armies]]"
 msgstr ""
+"xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
+"revolution-armies-cover.webp[Armées de Warmaster Revolution]]"

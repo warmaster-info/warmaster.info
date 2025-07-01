@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_ogre-kingdoms/fr/>\n"
@@ -106,7 +106,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:184
@@ -116,7 +116,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:180
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:1
@@ -198,12 +198,6 @@ msgid ""
 "morning.  Ogres place great stock in feats of strength, and the mythology of "
 "the Ogre Kingdoms is continually fuelled by the Herculean (and often "
 "extremely exaggerated) tasks undertaken by its inhabitants."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:66
-#, no-wrap
-msgid "ogre-kingdoms/ogre-kingdoms.webp"
 msgstr ""
 
 #. type: Title ==
@@ -371,12 +365,6 @@ msgstr ""
 msgid ""
 "Tyrants, Bruisers and Butchers may ride the Bull Rhinox. A unit that is "
 "joined with a character mounted on this huge beast causes terror in enemies."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:153
-#, no-wrap
-msgid "ogre-kingdoms/infantry.webp"
 msgstr ""
 
 #. type: Title ==

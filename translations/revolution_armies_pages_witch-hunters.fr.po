@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_witch-hunters/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -143,7 +143,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:184
@@ -153,7 +153,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:180
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:249
@@ -165,6 +165,9 @@ msgid ""
 "phase. Character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
+"L’unité peut être déplacée comme si elle venait de recevoir un ordre lors de "
+"la phase d’Ordres. Seule l’unité visée sera affectée, pas les personnages "
+"qui se trouvent avec elle (ceux-ci restent sur place)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:221
@@ -236,12 +239,6 @@ msgid ""
 "sermons on the battlefield, encouraging their followers to acts of insane "
 "bravery, while frothing Flagellants whip themselves for the sins they may "
 "have committed."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:52
-#, no-wrap
-msgid "witch-hunters/witch-hunters.webp"
 msgstr ""
 
 #. type: Title ==
@@ -360,12 +357,6 @@ msgstr ""
 msgid "in the Warmaster Rulebook."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:124
-#, no-wrap
-msgid "witch-hunters/pistoliers.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:126
 #, no-wrap
@@ -470,9 +461,11 @@ msgid ""
 "count enemies as terrifying although all other penalties apply as described "
 "(Undead and Daemons are hard to spook)."
 msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:189
-#, no-wrap
-msgid "witch-hunters/witch-hunters-battle.jpg"
-msgstr ""
+"L’unité se déplace à demi-vitesse, en toutes circonstances, même pour "
+"charger. Elle considère que tous ses ennemis causent la terreur (malus de -1 "
+"en Attaques) même si elle est normalement immunisée. Si l’unité cause elle-"
+"même la terreur, elle cesse de le faire pour toute la durée de "
+"l’enchantement et considère tous ses ennemis comme terrifiants exactement "
+"comme n’importe quelle autre unité. Cependant, les Morts-vivants et les "
+"démons ne comptent pas leurs ennemis comme étant terrifiants, mais les "
+"autres effets du sort s’appliquent à eux."

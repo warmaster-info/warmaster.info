@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_vampire-counts/fr/>\n"
@@ -106,7 +106,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -123,7 +123,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:249
@@ -135,13 +135,16 @@ msgid ""
 "phase. Character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
+"L’unité peut être déplacée comme si elle venait de recevoir un ordre lors de "
+"la phase d’Ordres. Seule l’unité visée sera affectée, pas les personnages "
+"qui se trouvent avec elle (ceux-ci restent sur place)."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:78
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:82
 #, no-wrap
 msgid "Undead"
-msgstr ""
+msgstr "Mort-vivant"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:84
@@ -149,6 +152,8 @@ msgstr ""
 msgid ""
 "Undead units are unaffected by the −1 Command penalty for enemy within 20cm."
 msgstr ""
+"Les morts-vivants sont immunisés au malus de Commandement de -1 pour une "
+"présence ennemie à moins de 20 cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:87
@@ -157,6 +162,8 @@ msgid ""
 "Undead units are unaffected by the −1 Combat penalty for fighting terrifying "
 "troops."
 msgstr ""
+"Les morts-vivants sont aussi immunisés contre le malus de -1 pour toucher au "
+"combat quand on affronte des troupes provoquant la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:90
@@ -165,13 +172,15 @@ msgid ""
 "Undead units are unaffected by the Confusion rule – they cannot become "
 "confused for any reason."
 msgstr ""
+"Toutes les unités de morts-vivants sont immunisées aux effets de la règle de "
+"Confusion. Ils ne peuvent jamais devenir confus."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:145
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:140
 #, no-wrap
 msgid "Raise Dead"
-msgstr ""
+msgstr "Invoquer les Morts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:151
@@ -307,12 +316,6 @@ msgid ""
 "terror of the night and the things that walk beneath the moon."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:65
-#, no-wrap
-msgid "vampire-counts/vampire-counts.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:67
 #, no-wrap
@@ -434,12 +437,6 @@ msgid ""
 "Coach causes terror in its enemies."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:136
-#, no-wrap
-msgid "vampire-counts/nightmare.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:138
 #, no-wrap
@@ -515,10 +512,4 @@ msgid ""
 "The target unit takes six attacks worked out in the usual way.  Any hits "
 "scored are carried over into the first round of combat and count as having "
 "been struck in the first round for purposes of working out combat results."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:219
-#, no-wrap
-msgid "vampire-counts/skeletons.webp"
 msgstr ""

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_orcs/fr/>\n"
@@ -96,7 +96,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -138,7 +138,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:76
@@ -342,12 +342,6 @@ msgid ""
 "eventually; the only question is how much destruction can it cause first."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/orcs.adoc:73
-#, no-wrap
-msgid "orcs/orcs.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/orcs.adoc:75
 #, no-wrap
@@ -422,12 +416,6 @@ msgid ""
 "+1 to his Attacks."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/orcs.adoc:124
-#, no-wrap
-msgid "orcs/hero.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/orcs.adoc:126
 #, no-wrap
@@ -492,10 +480,4 @@ msgid ""
 "combat; including Black Orcs, Wolf Riders, Boar Boyz and any type of Orc or "
 "Goblin troops but not Trolls, Ogres, Giants or other non-greenskins. The "
 "spell can be cast regardless of whether the Shaman can see the target or not."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/orcs.adoc:201
-#, no-wrap
-msgid "orcs/wolf-riders.webp"
 msgstr ""

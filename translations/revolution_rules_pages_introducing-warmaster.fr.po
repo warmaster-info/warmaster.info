@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -155,12 +155,6 @@ msgid ""
 "roll of 1–2 = 1, 3–4 = 2, and 5–6 = 3."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:113
-#, no-wrap
-msgid "introducing-warmaster/daemon.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:115
 #, no-wrap
@@ -226,12 +220,6 @@ msgid ""
 "move]."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:157
-#, no-wrap
-msgid "introducing-warmaster/zone-indicator.svg"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:160
 #, no-wrap
@@ -291,10 +279,4 @@ msgstr ""
 msgid ""
 "Nothing else is needed, though a pen and paper are useful for making notes "
 "and a nice hot cup of tea is always a good idea!"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:204
-#, no-wrap
-msgid "introducing-warmaster/wolves.webp"
 msgstr ""

@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 01:04+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_index/fr/>\n"
 "Language: fr\n"
@@ -18,11 +18,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
-#. type: Positional ($1) AttributeList argument for macro 'image'
+#. type: Title =
 #: en/home/modules/ROOT/pages/index.adoc:1
-#: en/revolution/modules/armies/pages/index.adoc:4
 #: en/revolution/modules/rules/pages/index.adoc:1
-#: en/revolution/modules/rules/pages/index.adoc:4
 #, no-wrap
 msgid "Warmaster Revolution"
 msgstr ""
@@ -64,9 +62,8 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:4
 #: en/revolution/modules/rules/pages/index.adoc:50
-#, fuzzy
 msgid "xref:editors-note.adoc[]"
-msgstr "xref:editors-note.adoc[]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:5
@@ -241,12 +238,6 @@ msgstr ""
 msgid "xref:page-numbers.adoc[]"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/index.adoc:4
-#, no-wrap
-msgid "index/warmaster-revolution.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/index.adoc:11
 #, no-wrap
@@ -254,12 +245,6 @@ msgid ""
 "By\n"
 "*Rick Priestley*\n"
 "with Stephan Hess & Alessio Cavatore"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/index.adoc:12
-#, no-wrap
-msgid "index/zombies.webp"
 msgstr ""
 
 #. type: Plain text
@@ -312,10 +297,4 @@ msgid ""
 "Justin Curtis; Shane Streeting; Martin Nilsson; Peter Lam; Chistopher Orr; "
 "John Braisby; Barry Pittman; Jim Beach; Iain Standing; Kristofer Dingwell; "
 "Radek Ratajczak; Andrzej Kret; Radomír Klabačka; Matthew Kozikowski;"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/index.adoc:78
-#, no-wrap
-msgid "index/soldier.webp"
 msgstr ""

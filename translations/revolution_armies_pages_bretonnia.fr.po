@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_bretonnia/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -143,7 +143,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/bretonnia.adoc:1
@@ -231,12 +231,6 @@ msgid ""
 "Lady. The greatest deed a Knight can undertake is to search for the Grail of "
 "The Lady – the damsels of The Lady grant this quest only to the bravest and "
 "most strong hearted for few who begin the quest are ever fated to succeed."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/bretonnia.adoc:74
-#, no-wrap
-msgid "bretonnia/bretonnia.webp"
 msgstr ""
 
 #. type: Title ==
@@ -452,12 +446,6 @@ msgid ""
 "count as Grail Pilgrims – if not they are simple Peasants."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/bretonnia.adoc:177
-#, no-wrap
-msgid "bretonnia/green-knight.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/bretonnia.adoc:179
 #, no-wrap
@@ -478,7 +466,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:180
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:187
@@ -605,9 +593,6 @@ msgid ""
 "phase. Character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/bretonnia.adoc:250
-#, no-wrap
-msgid "bretonnia/knights.jpg"
-msgstr ""
+"L’unité peut être déplacée comme si elle venait de recevoir un ordre lors de "
+"la phase d’Ordres. Seule l’unité visée sera affectée, pas les personnages "
+"qui se trouvent avec elle (ceux-ci restent sur place)."

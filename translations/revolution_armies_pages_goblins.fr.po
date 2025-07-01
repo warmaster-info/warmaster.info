@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_goblins/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:76
@@ -225,12 +225,6 @@ msgid ""
 "and dark. Night Goblins have a strong aversion to daylight and when forced "
 "above ground wear black or very dark enveloping robes to protect themselves "
 "from the sun’s rays."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/goblins.adoc:69
-#, no-wrap
-msgid "goblins/goblins.webp"
 msgstr ""
 
 #. type: Title ==
@@ -392,12 +386,6 @@ msgid ""
 "unit that includes a Wyvern rider causes terror in its enemies."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/goblins.adoc:156
-#, no-wrap
-msgid "goblins/wolf-riders.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/goblins.adoc:158
 #, no-wrap
@@ -522,10 +510,4 @@ msgid ""
 "The spell lasts for the duration of the following Combat phase.  Every stand "
 "in the unit, including characters that have joined the unit, adds +1 to its "
 "Attacks value."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/goblins.adoc:222
-#, no-wrap
-msgid "goblins/pump-wagons.webp"
 msgstr ""

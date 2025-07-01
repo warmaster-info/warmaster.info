@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos-dwarfs/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:179
@@ -146,7 +146,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:180
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:1
@@ -235,12 +235,6 @@ msgid ""
 "endeavour. Beneath the flickering flames of countless forges untold "
 "thousands of slaves, creatures of many races captured in war or traded from "
 "the Orcs of the west, work at the enterprises of the Chaos Dwarfs."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:66
-#, no-wrap
-msgid "chaos-dwarfs/chaos-dwarfs.webp"
 msgstr ""
 
 #. type: Title ==
@@ -443,12 +437,6 @@ msgid ""
 "bonus is being used before rolling for the spell."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:183
-#, no-wrap
-msgid "chaos-dwarfs/earthshaker.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:185
 #, no-wrap
@@ -546,10 +534,4 @@ msgid ""
 "ordinary shooting. Engaged units cannot be driven back, but carry over any "
 "hits that are scored into the first round of combat. Hits caused by the "
 "Meteor Storm count as having been struck in the combat itself."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:246
-#, no-wrap
-msgid "chaos-dwarfs/taurus.webp"
 msgstr ""

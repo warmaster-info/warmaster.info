@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_high-elves/fr/>\n"
@@ -90,7 +90,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -132,7 +132,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:179
@@ -251,12 +251,6 @@ msgid ""
 "the human realms as vital to the eternal battle against Chaos, for if the "
 "human realms fell it would be only a question of time before Ulthuan itself "
 "would be overwhelmed by the tides of Chaos."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/high-elves.adoc:75
-#, no-wrap
-msgid "high-elves/high-elves.webp"
 msgstr ""
 
 #. type: Title ==
@@ -378,12 +372,6 @@ msgid ""
 "to those of its rider."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/high-elves.adoc:137
-#, no-wrap
-msgid "high-elves/giant-eagles.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/high-elves.adoc:139
 #, no-wrap
@@ -499,10 +487,4 @@ msgid ""
 "to hit) except that armour has no effect (all targets count as having no "
 "armour). A unit can be driven back by a Hail of Destruction as with ordinary "
 "shooting."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/high-elves.adoc:206
-#, no-wrap
-msgid "high-elves/silver-helms.webp"
 msgstr ""

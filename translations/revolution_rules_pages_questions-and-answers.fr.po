@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -32,27 +32,6 @@ msgstr ""
 msgid "Contact with other enemy"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:899
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:353
-#, no-wrap
-msgid "combat-phase/pursuit-supporting.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:508
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:245
-#, no-wrap
-msgid "combat-phase/maximise-frontage-1.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:533
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:247
-#, no-wrap
-msgid "combat-phase/maximise-frontage-2.svg"
-msgstr ""
-
 #. type: Title =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:1
 #, no-wrap
@@ -64,9 +43,10 @@ msgstr ""
 msgid ""
 "This Questions and Answers section can be found in https://drive.google.com/"
 "file/d/1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_Warmaster Journal Issue "
-"2024_], via the https://www.wm-revolution.com/articles/download."
-"html[_Warmaster Revolution_ website].  It has some additional questions "
-"compared to the https://www.wm-revolution.com/articles/faq.html[2022 FAQ]."
+"2024_], via the https://www.wm-revolution.com/articles/"
+"download.html[_Warmaster Revolution_ website].  It has some additional "
+"questions compared to the https://www.wm-revolution.com/articles/"
+"faq.html[2022 FAQ]."
 msgstr ""
 
 #. type: Plain text
@@ -291,8 +271,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:94
 msgid ""
 "→ Rulebook: xref:command.adoc#sequence-of-movement[Command – Sequence of "
-"movement] (xref:command.adoc#initiative-charge-1[Figure 1], xref:command."
-"adoc#initiative-charge-2[Figure 2])."
+"movement] (xref:command.adoc#initiative-charge-1[Figure 1], "
+"xref:command.adoc#initiative-charge-2[Figure 2])."
 msgstr ""
 
 #. type: Title ===
@@ -331,12 +311,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:110
 msgid "The only exceptions are units that have 360 degree line of sight."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:111
-#, no-wrap
-msgid "questions-and-answers/line-of-sight-flank.svg"
 msgstr ""
 
 #. type: Plain text
@@ -449,12 +423,6 @@ msgid ""
 "with a failed order and a half pace move of 5cm. See diagram below."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:181
-#, no-wrap
-msgid "questions-and-answers/pivot.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:184
 #, no-wrap
@@ -480,8 +448,8 @@ msgstr ""
 msgid ""
 "Once the character has been displaced, the enemy unit may continue its move "
 "if possible. Remember that a flying unit that is moved via an order to "
-"displace a character has landed, so cannot continue moving without an [."
-"edit]#additional# order."
+"displace a character has landed, so cannot continue moving without an "
+"[.edit]#additional# order."
 msgstr ""
 
 #. type: Plain text
@@ -515,8 +483,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:223
 msgid ""
 "→ Rulebook: xref:movement.adoc#the-charge-move[Movement – The charge move], "
-"xref:movement.adoc#forming-a-battle-line[Forming a battle line], xref:"
-"movement.adoc#contact-with-other-enemy[Contact with other enemy]"
+"xref:movement.adoc#forming-a-battle-line[Forming a battle line], "
+"xref:movement.adoc#contact-with-other-enemy[Contact with other enemy]"
 msgstr ""
 
 #. type: Plain text
@@ -546,12 +514,6 @@ msgid ""
 "is illegal."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:252
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-illegal.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:266
 msgid ""
@@ -572,23 +534,11 @@ msgid ""
 "so they must do this."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:275
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-multiple.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:279
 msgid ""
 "In this diagram, the charging unit has not maximised frontage. This charge "
 "is illegal."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:280
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-multiple-illegal.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -599,12 +549,6 @@ msgid ""
 "enemy unit that is closer to the charging stands, all charging stands can be "
 "placed with all of their frontage in contact with the original target enemy, "
 "so they must do this."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:290
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-original.svg"
 msgstr ""
 
 #. type: Title ===
@@ -678,8 +622,9 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:328
 msgid ""
-"→ Rulebook: xref:shooting.adoc#targets[Shooting – Targets], xref:shooting."
-"adoc#shooting-at-charging-enemy[Shooting – Shooting at charging enemy]."
+"→ Rulebook: xref:shooting.adoc#targets[Shooting – Targets], "
+"xref:shooting.adoc#shooting-at-charging-enemy[Shooting – Shooting at "
+"charging enemy]."
 msgstr ""
 
 #. type: Title ===
@@ -778,9 +723,9 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:380
 msgid ""
-"→ Rulebook: xref:combat.adoc#moving-pursuers[Combat – Moving pursuers], xref:"
-"combat.adoc#basic-pursuit[Combat – Basic pursuit], xref:combat.adoc#indirect-"
-"pursuit[Combat – Indirect pursuit]."
+"→ Rulebook: xref:combat.adoc#moving-pursuers[Combat – Moving pursuers], "
+"xref:combat.adoc#basic-pursuit[Combat – Basic pursuit], "
+"xref:combat.adoc#indirect-pursuit[Combat – Indirect pursuit]."
 msgstr ""
 
 #. type: Block title
@@ -799,12 +744,6 @@ msgid ""
 "the combat.)  Units A and B are in combat with units C and D."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:392
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-1.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:397
 msgid ""
@@ -812,23 +751,11 @@ msgid ""
 "from both units then retreat."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:398
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-2.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:402
 msgid ""
 "The stands from units C and D able to pursue straight forward into front "
 "edge contact with the enemy must do so:"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:403
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-3.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -840,12 +767,6 @@ msgid ""
 "rest of their units, as the player wishes, including into the flank or rear "
 "where possible.  No pursuing stand may move further than a full-pace move.  "
 "This shows one option:"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:413
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-4.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -861,23 +782,11 @@ msgstr ""
 msgid "The examples continue with this arrangement."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:422
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-5.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:426
 msgid ""
 "After the second round of combat, unit B has been wiped out, and unit A has "
 "retreated again.  All units have lost a stand."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:427
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-6.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -888,12 +797,6 @@ msgid ""
 "still see the retreating enemy, so it can make an Indirect Pursuit."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:433
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-7.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:439
 msgid ""
@@ -902,21 +805,9 @@ msgid ""
 "now in the front or the flank of unit A.  They are in the flank."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:440
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-8.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:443
 msgid "Unit D moves one stand into contact with the flank of unit A."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:444
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-9.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -924,12 +815,6 @@ msgstr ""
 msgid ""
 "Finally, the remaining stand can be placed as in basic pursuit, for example "
 "to the rear."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:449
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-10.svg"
 msgstr ""
 
 #. type: Title ===
@@ -981,8 +866,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:474
 msgid ""
 "Armies book: xref:armies:chaos.adoc#special-rules[Chaos – Special rule 2], "
-"xref:armies:goblins.adoc#special-rules[Goblins – Special rule 2], xref:"
-"armies:orcs.adoc#special-rules[Orcs – Special rule 2]."
+"xref:armies:goblins.adoc#special-rules[Goblins – Special rule 2], "
+"xref:armies:orcs.adoc#special-rules[Orcs – Special rule 2]."
 msgstr ""
 
 #. type: Title ===

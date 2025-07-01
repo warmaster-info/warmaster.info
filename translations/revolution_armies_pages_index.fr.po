@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 11:04+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_index/fr/>\n"
 "Language: fr\n"
@@ -18,26 +18,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
-#. type: Positional ($1) AttributeList argument for macro 'image'
-#: en/home/modules/ROOT/pages/index.adoc:1
-#: en/revolution/modules/armies/pages/index.adoc:4
-#: en/revolution/modules/rules/pages/index.adoc:1
-#: en/revolution/modules/rules/pages/index.adoc:4
-#, no-wrap
-msgid "Warmaster Revolution"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:4
 #: en/revolution/modules/armies/pages/index.adoc:50
 msgid "xref:picking-the-army.adoc[]"
-msgstr "xref:picking-the-army.adoc[]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:5
 #: en/revolution/modules/armies/pages/index.adoc:67
 msgid "xref:albion.adoc[]"
-msgstr "xref:albion.adoc[]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:6
@@ -195,12 +186,6 @@ msgstr ""
 msgid "Warmaster Revolution Armies"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/index.adoc:4
-#, no-wrap
-msgid "rules:index/warmaster-revolution.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/armies/pages/index.adoc:14
 #, no-wrap
@@ -309,10 +294,4 @@ msgstr ""
 msgid ""
 "_For convenience, the armies are listed in alphabetical order in the website "
 "navigation menu._"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/index.adoc:89
-#, no-wrap
-msgid "index/drummer.jpg"
 msgstr ""

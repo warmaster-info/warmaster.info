@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:179
@@ -153,7 +153,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:196
@@ -165,6 +165,8 @@ msgid ""
 "target to use this spell. The spell cannot be directed at a unit engaged in "
 "combat."
 msgstr ""
+"Le Sorcier peut lancer ce sort sur une unité ennemie en vue. Il ne peut pas "
+"être lancé sur une unité engagée en combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:218
@@ -256,12 +258,6 @@ msgid ""
 "famed for its machineries that blend sorcery and an advanced science far "
 "beyond the understanding of mere humans. Most powerful of all are the Grey "
 "Seers the supreme sorcerers of the Skaven Race."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/skaven.adoc:65
-#, no-wrap
-msgid "skaven/skaven.webp"
 msgstr ""
 
 #. type: Title ==
@@ -518,12 +514,6 @@ msgid ""
 "with a bodyguard adds +1 to his Attacks."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/skaven.adoc:205
-#, no-wrap
-msgid "skaven/hero.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/skaven.adoc:207
 #, no-wrap
@@ -634,10 +624,4 @@ msgstr ""
 msgid ""
 "The unit suffers six attacks worked out in the usual way. A unit cannot be "
 "driven back by Plague (the vile Plague erupts from within!)."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/skaven.adoc:288
-#, no-wrap
-msgid "skaven/infantry.webp"
 msgstr ""

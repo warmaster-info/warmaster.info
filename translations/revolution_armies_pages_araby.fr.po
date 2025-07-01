@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_araby/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/araby.adoc:1
@@ -213,12 +213,6 @@ msgid ""
 "luxuries, and prestige as a result. As well as these regular and garrison "
 "troops there are the irregular fighters from the desert tribes, including "
 "camel mounted warriors from the lands to the south and east."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:73
-#, no-wrap
-msgid "araby/araby.webp"
 msgstr ""
 
 #. type: Title ==
@@ -440,18 +434,6 @@ msgid ""
 "If the Wizard is accompanied by a Djinn then any unit he joins causes Terror."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:209
-#, no-wrap
-msgid "araby/hero.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:211
-#, no-wrap
-msgid "araby/wizard.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/araby.adoc:213
 #, no-wrap
@@ -502,7 +484,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:224
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:196
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:238
@@ -595,10 +577,4 @@ msgstr ""
 msgid ""
 "If the Sorcerer has a Djinn then he adds +1 to his dice roll when casting "
 "this spell, and therefore casts successfully on a 5+."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:292
-#, no-wrap
-msgid "araby/infantry.webp"
 msgstr ""

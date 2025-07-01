@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -187,8 +187,8 @@ msgid ""
 "as explained in the Command section.  Units can also move in the Shooting or "
 "Combat phases as explained in the corresponding rules sections. This section "
 "covers all the general movement rules for units including rules for various "
-"types of terrain. Rules for moving characters can be found under the xref:"
-"characters.adoc[Generals, Heroes and Wizards] section."
+"types of terrain. Rules for moving characters can be found under the "
+"xref:characters.adoc[Generals, Heroes and Wizards] section."
 msgstr ""
 
 #. type: Title ==
@@ -247,12 +247,6 @@ msgid ""
 "book but for now we don’t need to worry about these oddities."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:63
-#, no-wrap
-msgid "movement/daemon.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/movement.adoc:66
 #, no-wrap
@@ -300,12 +294,6 @@ msgstr ""
 msgid "In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:110
-#, no-wrap
-msgid "movement/column-formation.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:115
 msgid ""
@@ -318,19 +306,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/movement.adoc:116
 #, no-wrap
 msgid "Infantry and cavalry arranged into a straight line. This is the most effective fighting formation."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:117
-#, no-wrap
-msgid "movement/cavalry-line-formation.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:119
-#: en/revolution/modules/rules/pages/movement.adoc:168
-#, no-wrap
-msgid "movement/infantry-line-formation.webp"
 msgstr ""
 
 #. type: Plain text
@@ -348,18 +323,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/movement.adoc:130
 #, no-wrap
 msgid "Units in irregular formations move at half pace to represent the fact that their ranks are disrupted."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:131
-#, no-wrap
-msgid "movement/irregular-formation-1.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:133
-#, no-wrap
-msgid "movement/irregular-formation-2.webp"
 msgstr ""
 
 #. type: Plain text
@@ -410,18 +373,6 @@ msgstr ""
 msgid "Stands in the same unit must touch but can be arranged into any formation you like."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:170
-#, no-wrap
-msgid "movement/formation-touch-2.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:172
-#, no-wrap
-msgid "movement/formation-touch-3.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:178
 msgid ""
@@ -462,8 +413,8 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:203
 msgid ""
-"Stands can always move through characters as described in the xref:"
-"characters.adoc[Generals, Heroes and Wizards section]."
+"Stands can always move through characters as described in the "
+"xref:characters.adoc[Generals, Heroes and Wizards section]."
 msgstr ""
 
 #. type: delimited block =
@@ -471,12 +422,6 @@ msgstr ""
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
 "Movement] with further examples, including pivoting"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:210
-#, no-wrap
-msgid "movement/helm.webp"
 msgstr ""
 
 #. type: Title ===
@@ -524,23 +469,11 @@ msgstr ""
 msgid "Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:253
-#, no-wrap
-msgid "movement/move-through-gap.webp"
-msgstr ""
-
 #.  TODO: Low-priority diagram text
 #. type: Block title
 #: en/revolution/modules/rules/pages/movement.adoc:256
 #, no-wrap
 msgid "This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:257
-#, no-wrap
-msgid "movement/cannot-move-through-gap.webp"
 msgstr ""
 
 #. type: Plain text
@@ -559,12 +492,6 @@ msgstr ""
 msgid ""
 "→ Moved to xref:command.adoc#initiative-movement[Command, Initiative "
 "movement]."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:274
-#, no-wrap
-msgid "movement/anvil.webp"
 msgstr ""
 
 #. type: Title ==
@@ -620,12 +547,6 @@ msgstr ""
 msgid "The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:320
-#, no-wrap
-msgid "movement/evade-direction.webp"
-msgstr ""
-
 #. type: delimited block *
 #: en/revolution/modules/rules/pages/movement.adoc:328
 #, no-wrap
@@ -666,28 +587,10 @@ msgstr ""
 msgid "Evaders bursting through a friendly unit"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:350
-#, no-wrap
-msgid "movement/evade-burst-through.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:352
-#, no-wrap
-msgid "movement/treemen.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:360
 msgid ""
 "→ Moved to xref:command.adoc#character-movement[Command, Character movement]."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:361
-#, no-wrap
-msgid "movement/sun.webp"
 msgstr ""
 
 #. type: Title ==
@@ -733,12 +636,6 @@ msgid ""
 "of the unit’s formation at the stand of the move."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:395
-#, no-wrap
-msgid "combat-phase/orc-boss.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:410
 msgid ""
@@ -763,8 +660,8 @@ msgstr ""
 msgid ""
 "The charging unit can potentially contact against the front, side or rear of "
 "an enemy — this is an important distinction because stands suffer a penalty "
-"if enemy are fighting to their side or rear as described in the xref:combat."
-"adoc[Combat] section."
+"if enemy are fighting to their side or rear as described in the "
+"xref:combat.adoc[Combat] section."
 msgstr ""
 
 #. type: Plain text
@@ -776,18 +673,6 @@ msgid ""
 "the stand at the angle of 135 degrees relative to the edge.  Zones are self "
 "evident in most situations and can be checked using a simple guide if "
 "necessary. See <<zone-infantry>> and <<zone-cavalry>>."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:430
-#, no-wrap
-msgid "combat-phase/zone-infantry.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:433
-#, no-wrap
-msgid "combat-phase/zone-cavalry.svg"
 msgstr ""
 
 #. type: Plain text
@@ -811,12 +696,6 @@ msgid ""
 "as in the front. If a unit is positioned in such a way that it is exactly "
 "divided between two zones then roll a dice to decide – e.g. 1, 2, or 3 the "
 "front; 4, 5, or 6 the side. See <<charge-move-2>>."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:453
-#, no-wrap
-msgid "combat-phase/chaos-knights.webp"
 msgstr ""
 
 #. type: Plain text
@@ -855,37 +734,12 @@ msgid ""
 "the charger against the rear edge.#"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:482
-#, no-wrap
-msgid "combat-phase/charge-move-1.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:485
-#, no-wrap
-msgid "combat-phase/charge-move-2.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:503
 msgid ""
 "If possible, place the charging stand exactly centre-to-centre against the "
 "edge of the target stand – see <<maximise-frontage-1>>. If this is "
 "impossible, for whatever reason, see <<unable-to-contact-centre-to-centre>>."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:508
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:245
-#, no-wrap
-msgid "combat-phase/maximise-frontage-1.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:510
-#, no-wrap
-msgid "combat-phase/chaos-knight-hero.webp"
 msgstr ""
 
 #. type: Plain text
@@ -910,13 +764,6 @@ msgid ""
 "an accessible route to its final place in the battle line."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:533
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:247
-#, no-wrap
-msgid "combat-phase/maximise-frontage-2.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:543
 msgid ""
@@ -926,12 +773,6 @@ msgid ""
 "battle line so that its front edge makes contact with an enemy, then it must "
 "be placed so that its front corner touches an enemy if it can. This means "
 "that the maximum number of charging stands will be drawn into the combat."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:544
-#, no-wrap
-msgid "combat-phase/dwarf-warriors.webp"
 msgstr ""
 
 #. type: Plain text
@@ -952,13 +793,6 @@ msgid ""
 "are drawn into the combat engagement – even if they are only touching corner-"
 "to-corner.  If armed with appropriate weapons they can shoot at the chargers "
 "as described in the Shooting section."
-msgstr ""
-
-#.  TODO: bo5a/ancients diagram.
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:565
-#, no-wrap
-msgid "combat-phase/helm.webp"
 msgstr ""
 
 #.  Moved from Combat section.  It's maybe not ideal to have
@@ -1018,12 +852,6 @@ msgid ""
 "the *supporting position*."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:612
-#, no-wrap
-msgid "combat-phase/sword-banner.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:622
 msgid ""
@@ -1052,18 +880,6 @@ msgid ""
 "stands."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:636
-#, no-wrap
-msgid "combat-phase/charge-blocked.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:638
-#, no-wrap
-msgid "combat-phase/dwarf-hero.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:654
 msgid ""
@@ -1089,12 +905,6 @@ msgid ""
 "unit as described in the Shooting section."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:664
-#, no-wrap
-msgid "combat-phase/unable-to-form-a-battle-line.svg"
-msgstr ""
-
 #.  Spelling available
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:678
@@ -1115,12 +925,6 @@ msgid ""
 "next closest stand in the target unit, assuming this stand is an accessible "
 "visible stand within the same zone. If this stand edge is also blocked then "
 "the charger can move to the third closest stand, and so on."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:685
-#, no-wrap
-msgid "combat-phase/closest-visible-stand.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1154,12 +958,6 @@ msgid ""
 "stands must charge edge-to-edge. See <<f-pinned-target>>."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:721
-#, no-wrap
-msgid "combat-phase/pinned-target.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement.adoc:731
 msgid ""
@@ -1184,12 +982,6 @@ msgid ""
 "along part of their front edge, they are considered to be maximising "
 "frontage so long as they have the maximum portion of enemy stand directly to "
 "their front."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:742
-#, no-wrap
-msgid "combat-phase/irregular-formations.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1234,21 +1026,6 @@ msgid ""
 "If chargers are infantry with supporting chargers then move both the "
 "charging and supporting units and work out any shooting first. Supporting "
 "units remain in their battle line and do not envelope."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:783
-#, no-wrap
-msgid "combat-phase/enveloping-charge.svg"
-msgstr ""
-
-#. // Ancients and Bo5A have two additional cases
-#. // - Charging inaccessible edges
-#. // - Charging fortified enemy
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:791
-#, no-wrap
-msgid "combat-phase/battle-view.webp"
 msgstr ""
 
 #. type: Title ==
@@ -1334,12 +1111,6 @@ msgid ""
 "over and his army withdraws. He abandons his army and heads for the hills "
 "and is considered to be a casualty. See the xref:end-of-the-battle.adoc[End "
 "of the Battle] section."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:858
-#, no-wrap
-msgid "movement/griffon.webp"
 msgstr ""
 
 #. type: Table
@@ -1462,8 +1233,8 @@ msgstr ""
 msgid ""
 "Several terrain features listed here, and some rules in the army lists, "
 "refer to *dense terrain*.  Units suffer a −1 Command penalty if any stand "
-"lies within dense terrain when an order is given as described in xref::"
-"command.adoc#dense-terrain[Command penalties]."
+"lies within dense terrain when an order is given as described in "
+"xref::command.adoc#dense-terrain[Command penalties]."
 msgstr ""
 
 #. type: Labeled list
@@ -1508,9 +1279,9 @@ msgid ""
 "hills and slopes so long as they are not especially steep, rugged, or "
 "otherwise difficult – such features must be stated before the game. The "
 "overall footprint of hill models, including slopes, blocks line of sight. "
-"Infantry and artillery stands positioned on a hill are xref:combat."
-"adoc#defended[*defended*] against any units charging or shooting from a "
-"lower positions."
+"Infantry and artillery stands positioned on a hill are "
+"xref:combat.adoc#defended[*defended*] against any units charging or shooting "
+"from a lower positions."
 msgstr ""
 
 #. type: Labeled list
@@ -1592,9 +1363,10 @@ msgstr ""
 #: en/revolution/modules/rules/pages/movement.adoc:1022
 msgid ""
 "These consist of substantial areas of growing trees or tall vegetation. Only "
-"infantry [.edit]#may# enter and stands count as xref:combat."
-"adoc#defended[*defended*] when within.  Woods and tall scrub are *<<dense-"
-"terrain,dense terrain>>* with [.edit]#*<<low-visibility,2cm visibility>>*#."
+"infantry [.edit]#may# enter and stands count as "
+"xref:combat.adoc#defended[*defended*] when within.  Woods and tall scrub are "
+"*<<dense-terrain,dense terrain>>* with [.edit]#*<<low-visibility,2cm "
+"visibility>>*#."
 msgstr ""
 
 #. type: Labeled list
@@ -1805,10 +1577,11 @@ msgstr ""
 #. type: delimited block *
 #: en/revolution/modules/rules/pages/movement.adoc:1129
 msgid ""
-"The rules occasionally oblige units to move into terrain they cannot [."
-"bo5a]#enter. Stands are not permitted to move so that their bases intersect "
-"with terrain that is impassable to them – either wholly or partially. Stands "
-"will automatically# halt at the edge [.bo5a]#of terrain they cannot enter#."
+"The rules occasionally oblige units to move into terrain they cannot "
+"[.bo5a]#enter. Stands are not permitted to move so that their bases "
+"intersect with terrain that is impassable to them – either wholly or "
+"partially. Stands will automatically# halt at the edge [.bo5a]#of terrain "
+"they cannot enter#."
 msgstr ""
 
 #.  TODO: link, and be more definite.
@@ -1828,10 +1601,4 @@ msgstr ""
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
 "Movement] with further examples."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:1145
-#, no-wrap
-msgid "movement/knights.webp"
 msgstr ""

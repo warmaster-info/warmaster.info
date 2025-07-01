@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -50,12 +50,6 @@ msgid ""
 "the current digital age it is possible, and even more convenient to control "
 "the whole campaign on-line rather than have to arrange for all the players "
 "to meet together for the campaign to progress."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:30
-#, no-wrap
-msgid "campaigns-of-conquest/territory-tiles.webp"
 msgstr ""
 
 #. type: Title ==
@@ -295,12 +289,6 @@ msgid ""
 "may take one unit over the Min/Max limit.\n"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:169
-#, no-wrap
-msgid "campaigns-of-conquest/dwarf-axes-left.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:172
 #, no-wrap
@@ -337,12 +325,6 @@ msgid ""
 "remove the mine from the map, but leave the banner behind to show who "
 "controls the tile. A new marker may be created on the tile later in the game "
 "if desired."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:194
-#, no-wrap
-msgid "campaigns-of-conquest/dwarf-axes-right.webp"
 msgstr ""
 
 #. type: Title ===
@@ -400,12 +382,6 @@ msgid ""
 "leaving the remaining team member(s) to fight their opponent.  So, carrying "
 "on our example, if Max challenges Phil, then Max and Phil fight a battle, "
 "leaving Andy to fight against Bob."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:234
-#, no-wrap
-msgid "campaigns-of-conquest/artillery-column.webp"
 msgstr ""
 
 #. type: Title ===
@@ -608,12 +584,6 @@ msgid ""
 "Each army has its own general. If one general is killed, their army doesn’t "
 "withdraw, however the team can no longer win the battle. They can only lose "
 "or draw."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:360
-#, no-wrap
-msgid "campaigns-of-conquest/dwarf-helmet.webp"
 msgstr ""
 
 #. type: Title ===
@@ -965,12 +935,6 @@ msgid ""
 "dice to a single unit during a single combat phase."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:533
-#, no-wrap
-msgid "campaigns-of-conquest/territory-tile.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:535
 #, no-wrap
@@ -984,12 +948,6 @@ msgid ""
 "any other player out of the game by conquering the last tile that player "
 "controls. Tiles that contain a city count as two tiles for determining when "
 "a player wins the game."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:543
-#, no-wrap
-msgid "campaigns-of-conquest/ogre-gunners.webp"
 msgstr ""
 
 #. type: Title ==
@@ -1051,12 +1009,6 @@ msgid ""
 "the player’s own troops."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:590
-#, no-wrap
-msgid "campaigns-of-conquest/fortress-gate.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:592
 #, no-wrap
@@ -1080,8 +1032,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:611
 msgid ""
 "The Warmaster Rules Committee is developing rules for naval battles, based "
-"on Man O’ War.  See https://www.wm-revolution.com/articles/naval-battles."
-"html[Warmaster Naval Battles] on the WRC website for rules."
+"on Man O’ War.  See https://www.wm-revolution.com/articles/naval-"
+"battles.html[Warmaster Naval Battles] on the WRC website for rules."
 msgstr ""
 
 #. type: Title ===
@@ -1126,12 +1078,6 @@ msgid ""
 "involved player. Involved players with no shore ports can still fight sea "
 "battles for Naval Advantage, however they cannot conquer another player’s "
 "shore tiles until a sea port is built."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:641
-#, no-wrap
-msgid "campaigns-of-conquest/sea-battle.webp"
 msgstr ""
 
 #. type: Block title
@@ -1249,10 +1195,4 @@ msgid ""
 "|6–8               |Draw\n"
 "|9–11              |Attacker minor victory\n"
 "|12 or more        |Attacker major victory\n"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:714
-#, no-wrap
-msgid "campaigns-of-conquest/mounted-archer.webp"
 msgstr ""

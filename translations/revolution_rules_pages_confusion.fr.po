@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -227,14 +227,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/confusion.adoc:105
 msgid ""
 "In the above cases, the possibility of confusion is not considered as stands "
-"are destroyed instead. See the rules for Combat for details on xref:combat."
-"adoc#retreats[retreats from combat]."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:106
-#, no-wrap
-msgid "confusion/hammer-infantry.webp"
+"are destroyed instead. See the rules for Combat for details on "
+"xref:combat.adoc#retreats[retreats from combat]."
 msgstr ""
 
 #. type: Title ==
@@ -259,9 +253,9 @@ msgstr ""
 msgid ""
 "A unit which is confused cannot use Initiative and it cannot be issued "
 "Orders. This means that a confused unit will not usually be able to move at "
-"all in the Command phase. See the xref:command.adoc[Command phase] and xref:"
-"flying-units.adoc[Flying Units]. Note that confused units are able to move "
-"in other phases and must do so where the rules require it."
+"all in the Command phase. See the xref:command.adoc[Command phase] and "
+"xref:flying-units.adoc[Flying Units]. Note that confused units are able to "
+"move in other phases and must do so where the rules require it."
 msgstr ""
 
 #. type: Plain text
@@ -275,8 +269,8 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/confusion.adoc:134
 msgid ""
-"A confused infantry unit cannot support in combat.  See the rules for xref:"
-"combat.adoc#support[Support in Combat]."
+"A confused infantry unit cannot support in combat.  See the rules for "
+"xref:combat.adoc#support[Support in Combat]."
 msgstr ""
 
 #. type: Plain text
@@ -342,18 +336,6 @@ msgid ""
 "formation as they do so.  See <<f-moving-aside>>."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:177
-#, no-wrap
-msgid "confusion/moving-aside.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:179
-#, no-wrap
-msgid "confusion/troll.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/confusion.adoc:186
 msgid ""
@@ -370,12 +352,6 @@ msgid ""
 "when all the stands of the unit that is making way lie in the path of the "
 "friendly unit, it can be moved behind its friends and stands can be arranged "
 "into support. See <<f-move-back>>."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:198
-#, no-wrap
-msgid "confusion/move-back.svg"
 msgstr ""
 
 #. type: Title ===
@@ -421,10 +397,4 @@ msgid ""
 "Note that making way does sometimes give units the opportunity to redress "
 "formations to their benefit.  Making way is not necessarily a disadvantage "
 "other than the attendant risk of confusion."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:229
-#, no-wrap
-msgid "confusion/soldier-mace.webp"
 msgstr ""

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_cathay/fr/>\n"
@@ -84,7 +84,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -126,7 +126,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -143,7 +143,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/cathay.adoc:1
@@ -223,12 +223,6 @@ msgid ""
 "potential invaders’ strength – especially in cavalry – against them. Thus "
 "even Ogres, Orcs, and Hobgoblins have found themselves carrying Cathay "
 "weapons in exchange for decent pay and regular meals."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/cathay.adoc:70
-#, no-wrap
-msgid "cathay/cathay.webp"
 msgstr ""
 
 #. type: Title ==
@@ -409,12 +403,6 @@ msgid ""
 "they are using the Qilin’s magic before rolling to see if the spell works."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/cathay.adoc:166
-#, no-wrap
-msgid "cathay/maneaters.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/cathay.adoc:168
 #, no-wrap
@@ -519,10 +507,4 @@ msgstr ""
 msgid ""
 "All friendly units within 15cm of Sorcerer count as immune to terror until "
 "the end of the enemy player’s next turn."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/cathay.adoc:230
-#, no-wrap
-msgid "cathay/rockets.webp"
 msgstr ""

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
@@ -106,7 +106,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:235
@@ -115,7 +115,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:224
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:196
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -132,7 +132,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:196
@@ -144,6 +144,8 @@ msgid ""
 "target to use this spell. The spell cannot be directed at a unit engaged in "
 "combat."
 msgstr ""
+"Le Sorcier peut lancer ce sort sur une unité ennemie en vue. Il ne peut pas "
+"être lancé sur une unité engagée en combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:221
@@ -233,12 +235,6 @@ msgid ""
 "and now even fewer Slann remain than ever and the great ones of old have all "
 "passed on. The lizardmen races continue to live amongst the ruins and "
 "preserve to this day the intent of the Old Ones if not their understanding."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/lizardmen.adoc:76
-#, no-wrap
-msgid "lizardmen/lizardmen.webp"
 msgstr ""
 
 #. type: Title ==
@@ -473,12 +469,6 @@ msgid ""
 "any unit he joins will cause terror. No other character can ride a Carnosaur."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/lizardmen.adoc:200
-#, no-wrap
-msgid "lizardmen/slann.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/lizardmen.adoc:202
 #, no-wrap
@@ -526,13 +516,15 @@ msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Wizard can see it or not."
 msgstr ""
+"Ce sort peut être lancé sur toute unité ennemie à portée, que le Sorcier "
+"puisse la voir ou non."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:233
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:205
 msgid ""
 "The spell takes effect until the end of the opposing player’s next turn."
-msgstr ""
+msgstr "Les effets du sort durent jusqu’à la fin du tour suivant de l’ennemi."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:238

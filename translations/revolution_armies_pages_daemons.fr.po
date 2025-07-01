@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_daemons/fr/>\n"
@@ -54,8 +54,8 @@ msgstr ""
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:97
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:61
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:72
-#: en/revolution/modules/armies/pages/wood-elves.adoc:61
-#: en/revolution/modules/armies/pages/wood-elves.adoc:69
+#: en/revolution/modules/armies/pages/wood-elves.adoc:60
+#: en/revolution/modules/armies/pages/wood-elves.adoc:68
 #: en/revolution/modules/rules/pages/battlefields.adoc:247
 #: en/revolution/modules/rules/pages/battlefields.adoc:300
 #: en/revolution/modules/rules/pages/battlefields.adoc:352
@@ -100,13 +100,13 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:184
-#: en/revolution/modules/armies/pages/wood-elves.adoc:198
-#: en/revolution/modules/armies/pages/wood-elves.adoc:206
+#: en/revolution/modules/armies/pages/wood-elves.adoc:183
+#: en/revolution/modules/armies/pages/wood-elves.adoc:197
+#: en/revolution/modules/armies/pages/wood-elves.adoc:205
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:179
@@ -125,7 +125,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:224
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:196
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:55
@@ -139,10 +139,10 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:76
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:76
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/wood-elves.adoc:63
+#: en/revolution/modules/armies/pages/wood-elves.adoc:62
 #, no-wrap
 msgid "Army rules"
-msgstr ""
+msgstr "Règles de l'Armée"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/daemons.adoc:1
@@ -205,12 +205,6 @@ msgid ""
 "Pleasure. These are the Great Gods of Chaos of which all other gods are but "
 "parts or conjunctions. In the lands of the Empire many a theologist has been "
 "burned for saying as much."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/daemons.adoc:55
-#, no-wrap
-msgid "daemons/daemons.webp"
 msgstr ""
 
 #. type: Title ==
@@ -380,12 +374,6 @@ msgid ""
 "described in the Warmaster rulebook."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/daemons.adoc:147
-#, no-wrap
-msgid "daemons/infantry.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/daemons.adoc:149
 #, no-wrap
@@ -479,6 +467,8 @@ msgid ""
 "target to use this spell. The spell cannot be directed at a unit engaged in "
 "combat."
 msgstr ""
+"Le Sorcier peut lancer ce sort sur une unité ennemie en vue. Il ne peut pas "
+"être lancé sur une unité engagée en combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:201
@@ -516,10 +506,4 @@ msgid ""
 "re-roll any failed attacks in combat: take any dice that fail to score hits "
 "and roll them again. Note that you cannot re-roll a dice that has already "
 "been re-rolled either because of a spell, magic item or any other reason."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/daemons.adoc:219
-#, no-wrap
-msgid "daemons/greater-daemon.webp"
 msgstr ""

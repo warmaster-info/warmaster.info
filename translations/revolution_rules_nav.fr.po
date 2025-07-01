@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 01:04+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_nav/fr/>\n"
 "Language: fr\n"
@@ -21,21 +21,19 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:3
 #: en/revolution/modules/rules/nav.adoc:3
-#, fuzzy
 msgid "xref:index.adoc[]"
-msgstr "xref:index.adoc[]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:2
 msgid "Rulebook"
-msgstr ""
+msgstr "Livre de Règles"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:4
 #: en/revolution/modules/rules/pages/index.adoc:50
-#, fuzzy
 msgid "xref:editors-note.adoc[]"
-msgstr "xref:editors-note.adoc[]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:5

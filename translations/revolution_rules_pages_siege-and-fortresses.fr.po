@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: 2025-07-01 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -310,13 +310,6 @@ msgid ""
 "<<assaults>>."
 msgstr ""
 
-#.  Moved to end of paragraph
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:141
-#, no-wrap
-msgid "siege-and-fortresses/moon.webp"
-msgstr ""
-
 #.  Hardly necessary
 #. type: Plain text
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:152
@@ -376,12 +369,6 @@ msgstr ""
 msgid ""
 "Units on ramparts and towers can shoot over friendly troops on lower "
 "ramparts or the ground."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:186
-#, no-wrap
-msgid "siege-and-fortresses/crossbowmen.webp"
 msgstr ""
 
 #. type: Block title
@@ -551,12 +538,6 @@ msgid ""
 "1 which is more than the 30 structure points the tower has.  The tower "
 "collapses before the surprised giant and he is allowed to advance into the "
 "next enemy he can see."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:309
-#, no-wrap
-msgid "siege-and-fortresses/siege-tower.webp"
 msgstr ""
 
 #. type: Block title
@@ -825,12 +806,6 @@ msgstr ""
 msgid "When unit 1 attacks B, the Cannons A on the tower, and units B and C, may Stand and Shoot. Cannons D may not Stand and Shoot as they are not adjacent to the attacked wall section (and will not be in combat contact of course). Units B and C will be in combat contact with 1. pass:[<br>] Cannons A cannot Stand and Shoot unit 2 as that is the second attacking unit."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:522
-#, no-wrap
-msgid "siege-and-fortresses/tower-support.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:531
 msgid ""
@@ -986,12 +961,6 @@ msgid ""
 "Men-at-arms with 6–4–3–3 (the Men-at-arms save none). The combat result is "
 "4:4 and the Ogres (losing one stand) may hold their position while the "
 "Bretonnian troops [.edit]#retreat 1cm# away from the Ogres."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:635
-#, no-wrap
-msgid "siege-and-fortresses/elves-planning.webp"
 msgstr ""
 
 #. type: Title ==
@@ -1213,12 +1182,6 @@ msgid ""
 "but they may use boiling oil or stand and shoot against the attackers."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:805
-#, no-wrap
-msgid "siege-and-fortresses/defended-tower.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:807
 #, no-wrap
@@ -1261,12 +1224,6 @@ msgstr ""
 msgid ""
 "Of course if flyers try to assault fortifications, boiling oil attacks "
 "cannot be used against them."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:834
-#, no-wrap
-msgid "siege-and-fortresses/dragon-ogre.webp"
 msgstr ""
 
 #. type: Plain text
@@ -1341,12 +1298,6 @@ msgid ""
 "to attack the nearest wall section (towers may be ignored)."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:889
-#, no-wrap
-msgid "siege-and-fortresses/siege.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:891
 #, no-wrap
@@ -1380,12 +1331,6 @@ msgid ""
 "troops onto the enemy’s walls. A Siege Tower must be assigned to a unit of "
 "infantry. To represent the fact that they are really inside the Siege Tower, "
 "the unit is arranged directly behind in column."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:914
-#, no-wrap
-msgid "siege-and-fortresses/siege-tower-unit.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1588,12 +1533,6 @@ msgid ""
 "muscle). A unit may not batter and assault at the same time."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1058
-#, no-wrap
-msgid "siege-and-fortresses/battering-ram-unit.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1060
 #, no-wrap
@@ -1626,12 +1565,6 @@ msgid ""
 "ignored. If the unit is forced to retreat, the Sow is destroyed. Units with "
 "Sows may pursue or advance in combat leaving their machine behind which "
 "effectively means the Sow counts as destroyed."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1082
-#, no-wrap
-msgid "siege-and-fortresses/sow.webp"
 msgstr ""
 
 #. type: Title ===
@@ -1676,13 +1609,6 @@ msgid ""
 "A unit can abandon its Mantlets at any time during the Command phase, in "
 "which case it is not restricted to one move that Command phase. In this "
 "case, the Mantlets are overturned or cast aside and removed from the battle."
-msgstr ""
-
-#.  Picture moved here from below
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1116
-#, no-wrap
-msgid "siege-and-fortresses/mantlets.webp"
 msgstr ""
 
 #. type: Title ===
@@ -1765,12 +1691,6 @@ msgid ""
 "armour saves.\n"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1181
-#, no-wrap
-msgid "siege-and-fortresses/projectiles.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1183
 #, no-wrap
@@ -1830,12 +1750,6 @@ msgid ""
 "enemy units that charge it."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1222
-#, no-wrap
-msgid "siege-and-fortresses/tribock.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1224
 #, no-wrap
@@ -1888,12 +1802,6 @@ msgstr ""
 msgid "Bombards may not be used by Elves or Bretonnians."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1260
-#, no-wrap
-msgid "siege-and-fortresses/bombard.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1262
 #, no-wrap
@@ -1940,12 +1848,6 @@ msgid ""
 "target. Mangonels can’t shoot at charging enemy units.  Earthworks"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1290
-#, no-wrap
-msgid "siege-and-fortresses/mangonel.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1292
 #, no-wrap
@@ -1977,12 +1879,6 @@ msgid ""
 "if for some reason there is no defined attacker or defender. Earthworks can "
 "be arranged together in whatever formation is desired by the purchasing "
 "player."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1311
-#, no-wrap
-msgid "siege-and-fortresses/earthworks.webp"
 msgstr ""
 
 #. type: Plain text
@@ -2050,12 +1946,6 @@ msgid ""
 "fails. For every wound the unit has to retreat 1cm."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1360
-#, no-wrap
-msgid "siege-and-fortresses/log-rams.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1362
 #, no-wrap
@@ -2068,12 +1958,6 @@ msgid ""
 "Infantry units may only assault the walls of a fortress with a siege tower "
 "or by using ladders. It costs +5 points to equip all stands of a unit with "
 "ladders. Infantry units based as cavalry cannot climb ladders."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1369
-#, no-wrap
-msgid "siege-and-fortresses/ladders.webp"
 msgstr ""
 
 #. type: Title ==
@@ -2180,12 +2064,6 @@ msgid ""
 "**†4** Gives fortified status when shot at, defended status if\n"
 "in combat. May be removed by troops being in contact\n"
 "and rolling a 6 with their attacks.\n"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1434
-#, no-wrap
-msgid "siege-and-fortresses/cannon-hill.webp"
 msgstr ""
 
 #. type: Title ==
@@ -2391,18 +2269,6 @@ msgstr ""
 msgid "In all other cases the player with the most victory points wins."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1547
-#, no-wrap
-msgid "siege-and-fortresses/elephant-rider.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1549
-#, no-wrap
-msgid "siege-and-fortresses/into-the-breach.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1551
 #, no-wrap
@@ -2516,10 +2382,4 @@ msgstr ""
 msgid ""
 "If the defender breaks the attacking force he wins. If there is still one "
 "stand defending the watchtower at the end of the game the defender wins."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1632
-#, no-wrap
-msgid "siege-and-fortresses/the-watchtower.svg"
 msgstr ""

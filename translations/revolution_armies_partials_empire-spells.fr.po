@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_armies_partials_empire-spells/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:142
@@ -34,7 +36,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:172
 #: en/revolution/modules/armies/partials/empire-spells.adoc:44
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:153
@@ -76,7 +78,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:249
@@ -88,6 +90,9 @@ msgid ""
 "phase. Character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
+"L’unité peut être déplacée comme si elle venait de recevoir un ordre lors de "
+"la phase d’Ordres. Seule l’unité visée sera affectée, pas les personnages "
+"qui se trouvent avec elle (ceux-ci restent sur place)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:188
@@ -101,12 +106,20 @@ msgid ""
 "count enemies as terrifying although all other penalties apply as described "
 "(Undead and Daemons are hard to spook)."
 msgstr ""
+"L’unité se déplace à demi-vitesse, en toutes circonstances, même pour "
+"charger. Elle considère que tous ses ennemis causent la terreur (malus de -1 "
+"en Attaques) même si elle est normalement immunisée. Si l’unité cause elle-"
+"même la terreur, elle cesse de le faire pour toute la durée de l’"
+"enchantement et considère tous ses ennemis comme terrifiants exactement "
+"comme n’importe quelle autre unité. Cependant, les Morts-vivants et les "
+"démons ne comptent pas leurs ennemis comme étant terrifiants, mais les "
+"autres effets du sort s’appliquent à eux."
 
 #. type: Title ===
 #: en/revolution/modules/armies/partials/empire-spells.adoc:1
 #, no-wrap
 msgid "Ball of Flame"
-msgstr ""
+msgstr "Boule de Feu"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:7
@@ -114,6 +127,8 @@ msgid ""
 "_A ball of flame shoots form the Wizard’s outstretched arm burning all in "
 "its path._"
 msgstr ""
+"_Une boule de feu jaillit des mains tendues du Sorcier et brûle tout sur son "
+"passage._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:13
@@ -123,6 +138,10 @@ msgid ""
 "terrain that would normally stop a missile shot, e.g. over the crest of a "
 "hill, more than 2cm of woodland, and so forth."
 msgstr ""
+"Tracez une ligne imaginaire de 30 cm de long partant du socle du Sorcier "
+"vers la direction de votre choix. La ligne traverse les unités mais pas les "
+"terrains qui bloquent normalement les tirs, comme les collines, plus de 2 cm "
+"de forêt, etc."
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:23
@@ -135,12 +154,19 @@ msgid ""
 "but carry over any hits scored into the first round of combat; any hits "
 "scored count as having been struck in the combat itself."
 msgstr ""
+"Toute unité traversée par la ligne subit trois attaques de tir résolues de "
+"la manière habituelle. Toutes les unités traversées sont affectées, y "
+"compris les vôtres. Les unités non engagées, amies ou ennemies, peuvent être "
+"repoussées par une Boule de Feu comme par des tirs ordinaires. Les unités "
+"engagées ne sont pas repoussées mais reportent les touches subies sur leur "
+"prochain round de combat. Ces dernières comptent comme ayant été infligées "
+"durant le combat."
 
 #. type: Title ===
 #: en/revolution/modules/armies/partials/empire-spells.adoc:24
 #, no-wrap
 msgid "Voice of Command"
-msgstr ""
+msgstr "Voix Céleste"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:31
@@ -148,6 +174,8 @@ msgid ""
 "_The Wizard’s voice booms out across the battlefield directing troops above "
 "the tumult of combat with the magical Voice of Command._"
 msgstr ""
+"_La voix du Sorcier résonne sur tout le champ de bataille et recouvre le "
+"tumulte des combats pour diriger les troupes._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:36
@@ -156,12 +184,16 @@ msgid ""
 "of whether the Wizard can see it or not. The spell affects only a single "
 "unit, never a brigade and there is no supporting charge possible."
 msgstr ""
+"Ce sort peut être lancé sur une unité amie non engagée au corps à corps à "
+"portée, que le Sorcier puisse la voir ou non. Le sort n’affecte jamais qu’"
+"une seule unité, en aucun cas une brigade et il n'est pas possible de faire "
+"une charge de soutien."
 
 #. type: Title ===
 #: en/revolution/modules/armies/partials/empire-spells.adoc:41
 #, no-wrap
 msgid "Weird Enchantment"
-msgstr ""
+msgstr "Étrange Enchantement"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:48
@@ -169,6 +201,8 @@ msgid ""
 "_A weird enchantment forms around the target unit and engulfs it in strange "
 "lights, scary nightmares and disorientating special effects._"
 msgstr ""
+"_Un étrange enchantement se forme autour de l’unité visée et l’englobe de "
+"lumières bizarres, de visions cauchemardesques et d’effets hallucinogènes._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:52
@@ -177,17 +211,20 @@ msgid ""
 "the Wizard can see it or not. The spell lasts until the end of the opposing "
 "player’s following turn."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie à portée, que le Sorcier "
+"puisse la voir ou non. L’Étrange Enchantement dure jusqu’à la fin du "
+"prochain tour du joueur adverse."
 
 #. type: Title ===
 #: en/revolution/modules/armies/partials/empire-spells.adoc:62
 #, no-wrap
 msgid "Teleport"
-msgstr ""
+msgstr "Téléportation"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:65
 msgid "[.cost]#2+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#2+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:69
@@ -195,6 +232,9 @@ msgid ""
 "_With a swirl of his cloak, a crack of thunder and just a hint of maniacal "
 "laughter the Wizard vanishes to reappear anywhere on the battlefield._"
 msgstr ""
+"_Avec un mouvement de cape, un coup de tonnerre et un zeste de ricanement "
+"diabolique, le Sorcier disparaît pour réapparaître n’importe où sur le champ "
+"de bataille._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/partials/empire-spells.adoc:76
@@ -206,3 +246,9 @@ msgid ""
 "second spell as normal. A Wizard that Teleports successfully can therefore "
 "potentially cast two spells that turn."
 msgstr ""
+"Le Sorcier est repositionné n’importe où sur la table. Il peut quitter ou "
+"rejoindre une unité s’il le désire, ce qui lui permet ainsi d’engager ou de "
+"quitter un combat. Une fois que le Sorcier s’est téléporté, il peut "
+"immédiatement tenter de lancer un nouveau sort (il ne peut pas relancer "
+"Téléportation). Jetez le dé comme d’ordinaire. Un Sorcier qui se téléporte "
+"avec succès peut donc lancer deux sorts par tour."
