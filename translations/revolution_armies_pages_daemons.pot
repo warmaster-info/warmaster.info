@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -205,12 +205,6 @@ msgid ""
 "burned for saying as much."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/daemons.adoc:55
-#, no-wrap
-msgid "daemons/daemons.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/daemons.adoc:57
 #, no-wrap
@@ -378,12 +372,6 @@ msgid ""
 "described in the Warmaster rulebook."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/daemons.adoc:147
-#, no-wrap
-msgid "daemons/infantry.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/daemons.adoc:149
 #, no-wrap
@@ -514,10 +502,4 @@ msgid ""
 "re-roll any failed attacks in combat: take any dice that fail to score hits "
 "and roll them again. Note that you cannot re-roll a dice that has already "
 "been re-rolled either because of a spell, magic item or any other reason."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/daemons.adoc:219
-#, no-wrap
-msgid "daemons/greater-daemon.webp"
 msgstr ""

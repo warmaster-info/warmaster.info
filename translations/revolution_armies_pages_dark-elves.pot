@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -213,12 +213,6 @@ msgid ""
 "she preserves her unholy youth by bathing in the blood of innocents."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dark-elves.adoc:76
-#, no-wrap
-msgid "dark-elves/dark-elves.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/dark-elves.adoc:78
 #, no-wrap
@@ -375,12 +369,6 @@ msgid ""
 "the spell is cast."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dark-elves.adoc:161
-#, no-wrap
-msgid "dark-elves/sorceress.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/dark-elves.adoc:163
 #, no-wrap
@@ -522,10 +510,4 @@ msgid ""
 "Armour values count as 0. Any hits scored are carried over into the first "
 "round of combat and count as having been struck in the first round for "
 "purposes of working out combat results."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dark-elves.adoc:236
-#, no-wrap
-msgid "dark-elves/dark-elf-battle.jpg"
 msgstr ""

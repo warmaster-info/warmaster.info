@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -340,12 +340,6 @@ msgid ""
 "eventually; the only question is how much destruction can it cause first."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/orcs.adoc:73
-#, no-wrap
-msgid "orcs/orcs.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/orcs.adoc:75
 #, no-wrap
@@ -420,12 +414,6 @@ msgid ""
 "+1 to his Attacks."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/orcs.adoc:124
-#, no-wrap
-msgid "orcs/hero.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/orcs.adoc:126
 #, no-wrap
@@ -490,10 +478,4 @@ msgid ""
 "combat; including Black Orcs, Wolf Riders, Boar Boyz and any type of Orc or "
 "Goblin troops but not Trolls, Ogres, Giants or other non-greenskins. The "
 "spell can be cast regardless of whether the Shaman can see the target or not."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/orcs.adoc:201
-#, no-wrap
-msgid "orcs/wolf-riders.webp"
 msgstr ""

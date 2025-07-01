@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,12 +185,6 @@ msgstr ""
 msgid "{empty}"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:103
-#, no-wrap
-msgid "combat-phase/combat-engagement.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat.adoc:109
 msgid ""
@@ -203,12 +197,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/combat.adoc:110
 #, no-wrap
 msgid "Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:111
-#, no-wrap
-msgid "combat-phase/interlinked-engagement.webp"
 msgstr ""
 
 #. type: Title ==
@@ -395,12 +383,6 @@ msgstr ""
 msgid "→ Moved to xref:movement.adoc#enveloping-charge[Enveloping charge]."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:204
-#, no-wrap
-msgid "combat-phase/dwarf-slayer-hero.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat.adoc:206
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:9
@@ -456,12 +438,6 @@ msgid ""
 "each unit one at a time to avoid ambiguity."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:242
-#, no-wrap
-msgid "combat-phase/stands-touching.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat.adoc:248
 msgid ""
@@ -513,12 +489,6 @@ msgid ""
 "its attacks against any unit it is touching. Note that where a stand’s edge "
 "is touching an enemy, it cannot direct attacks corner-to-corner: corner-to-"
 "corner attacks are not allowed where there is edge contact."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:279
-#, no-wrap
-msgid "combat-phase/dark-elves.webp"
 msgstr ""
 
 #. type: Title ==
@@ -656,12 +626,6 @@ msgid ""
 "happens, then a unit always rolls one Attack dice regardless."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:358
-#, no-wrap
-msgid "combat-phase/harpy-hero.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:360
 #, no-wrap
@@ -765,13 +729,6 @@ msgid ""
 "it is possible for units to become involved in a second engagement, for "
 "example as a result of an advance. In such a situation, any hits accumulated "
 "in a previous engagement are carried forward into the next."
-msgstr ""
-
-#.  TODO: Bo5A showing coloured dice
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:442
-#, no-wrap
-msgid "combat-phase/wolf-rider.webp"
 msgstr ""
 
 #. type: Title ==
@@ -928,12 +885,6 @@ msgid ""
 "or from a completely different unit. See <<f-supporting-troops>>."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:527
-#, no-wrap
-msgid "combat-phase/supporting-troops.svg"
-msgstr ""
-
 #.  spelling corrected
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat.adoc:540
@@ -1023,12 +974,6 @@ msgid ""
 "the units."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:590
-#, no-wrap
-msgid "combat-phase/retreat-1.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat.adoc:598
 msgid ""
@@ -1037,12 +982,6 @@ msgid ""
 "unit to. In most cases, all enemy stands will be aligned solely against the "
 "unit’s front, side or rear and the retreating unit simply moves in the "
 "opposite direction."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:599
-#, no-wrap
-msgid "combat-phase/retreat-2.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1087,12 +1026,6 @@ msgid ""
 "effectively move as one, although it will still be necessary to move the "
 "units one at a time to make sure that stands have a path to their final "
 "position."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:637
-#, no-wrap
-msgid "combat-phase/fan.webp"
 msgstr ""
 
 #. type: Title ===
@@ -1140,12 +1073,6 @@ msgstr ""
 msgid ""
 "Stands that are destroyed are removed immediately without reducing the "
 "number of outstanding hits on their unit."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:661
-#, no-wrap
-msgid "combat-phase/retreat-blocked.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1207,12 +1134,6 @@ msgid ""
 "next will depend on what the winner decides to do."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:704
-#, no-wrap
-msgid "combat-phase/retreat-incidental-contact.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:706
 #, no-wrap
@@ -1267,12 +1188,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat.adoc:734
 msgid "If a unit stands, it simply stays where it is and does not move."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:736
-#, no-wrap
-msgid "combat-phase/skeleton-infantry.webp"
 msgstr ""
 
 #. type: Title ==
@@ -1430,12 +1345,6 @@ msgid ""
 "enemy and then back again by a circuitous route."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:833
-#, no-wrap
-msgid "combat-phase/punk-orc.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:835
 #, no-wrap
@@ -1475,12 +1384,6 @@ msgid ""
 "charge in a subsequent turn."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:864
-#, no-wrap
-msgid "combat-phase/pursuit-direct.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:866
 #, no-wrap
@@ -1502,12 +1405,6 @@ msgid ""
 "stand into contact with the closest visible enemy stand exactly as you would "
 "during a charge. Having placed the first stand, remaining stands are "
 "positioned as the player wishes, as already described for basic pursuits."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:881
-#, no-wrap
-msgid "combat-phase/pursuit-indirect.svg"
 msgstr ""
 
 #. type: Title ===
@@ -1532,13 +1429,6 @@ msgid ""
 "but it is impossible to pursue into edge contact for whatever reason. Units "
 "able to pursue into contact cannot choose to make a supporting pursuit "
 "instead."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:899
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:353
-#, no-wrap
-msgid "combat-phase/pursuit-supporting.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1582,12 +1472,6 @@ msgid ""
 "When moving a pursuer into contact with retreating enemies, it is possible "
 "for stands to come into contact with enemy units that were not previously "
 "engaged in the same combat. This is called *incidental contact*."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:931
-#, no-wrap
-msgid "combat-phase/incidental-contact.svg"
 msgstr ""
 
 #. type: Plain text
@@ -1644,12 +1528,6 @@ msgid ""
 "principle applies on non-flying units pursuing flyers."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:979
-#, no-wrap
-msgid "combat-phase/pursuit-maintain-contact.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:981
 #, no-wrap
@@ -1665,12 +1543,6 @@ msgid ""
 "pursued a retreating enemy and blocked line of sight, for example. A unit "
 "that cannot pursue a retreating enemy must either stand or fall back. The "
 "unit is not allowed to <<advance>> instead."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:992
-#, no-wrap
-msgid "combat-phase/goblin-wolves.webp"
 msgstr ""
 
 #. type: Title ===
@@ -1787,12 +1659,6 @@ msgid ""
 "Otherwise, units are allowed to advance against any kind of enemy, even if "
 "they are a troop type that would not normally be allowed to pursue, such as "
 "infantry fighting cavalry or chariots."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:1072
-#, no-wrap
-msgid "combat-phase/dwarf-slayers.webp"
 msgstr ""
 
 #.  (Bo5A difference.)
@@ -1943,12 +1809,6 @@ msgid ""
 "within 1cm of enemy."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:1168
-#, no-wrap
-msgid "combat-phase/village.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat.adoc:1170
 #: en/revolution/modules/rules/pages/confusion.adoc:181
@@ -1969,18 +1829,6 @@ msgid ""
 "Note that the unit does not necessarily fall back towards its own base edge "
 "or its own friends – the ‘back’ position is worked out relative to the first "
 "stand moved."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:1185
-#, no-wrap
-msgid "combat-phase/fall-back-line.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:1188
-#, no-wrap
-msgid "combat-phase/fall-back-corner.svg"
 msgstr ""
 
 #. type: Title ==
@@ -2024,12 +1872,6 @@ msgid ""
 "on units that are no longer engaged in combat. Note that units that are part "
 "of an unresolved combat do not remove odd hits but carry them over into the "
 "following turn. This includes any units that are only supporting."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:1220
-#, no-wrap
-msgid "combat-phase/cold-combat.webp"
 msgstr ""
 
 #. type: Title ==
@@ -2190,10 +2032,4 @@ msgid ""
 "pushed over a low wall or rampart. In other cases, a unit may be still "
 "inside a wood or still up-slope of an enemy. However, a unit always loses "
 "the advantage of its position once it has retreated."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:1340
-#, no-wrap
-msgid "combat-phase/medusa-demon.webp"
 msgstr ""

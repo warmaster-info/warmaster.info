@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,13 +129,6 @@ msgid ""
 "narrow edge of the base."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:114
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:153
-#, no-wrap
-msgid "dogs-of-war/pikemen-support.svg"
-msgstr ""
-
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:1
 #, no-wrap
@@ -208,12 +201,6 @@ msgid ""
 "more often than not, known by the name of their leader, such as Verthhold "
 "Brekt’s Halberdiers, Hagar Whitefang’s Were-Marauders, Bradan Swiftleaf’s "
 "Glade Riders, Khalag’s Sure Shots, and the renowned Golgfag’s Ogres."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:54
-#, no-wrap
-msgid "regiments-of-renown/birdmen.webp"
 msgstr ""
 
 #. type: Title ==
@@ -523,12 +510,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:245
 msgid "Additionaly Asarnil causes terror in his enemies."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:246
-#, no-wrap
-msgid "regiments-of-renown/manflyers.webp"
 msgstr ""
 
 #. type: Block title
@@ -917,10 +898,4 @@ msgstr ""
 msgid ""
 "Count as one Hero type [.edit]#character#. _The Witch Hunters_ cannot be "
 "hired together with _The Cursed Company_."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:415
-#, no-wrap
-msgid "regiments-of-renown/gotrek-and-felix.webp"
 msgstr ""

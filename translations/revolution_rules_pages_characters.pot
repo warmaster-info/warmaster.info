@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,12 +80,6 @@ msgid ""
 "values for all characters can be found in the Army List section."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:47
-#, no-wrap
-msgid "generals-wizards-and-heroes/character.webp"
-msgstr ""
-
 #. type: Table
 #: en/revolution/modules/rules/pages/characters.adoc:57
 #, no-wrap
@@ -96,12 +90,6 @@ msgid ""
 "^|[.line-through]## Hits ##\n"
 "^|[.line-through]## Armour ##\n"
 ">|Command 8\n"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:59
-#, no-wrap
-msgid "generals-wizards-and-heroes/dryads.webp"
 msgstr ""
 
 #. type: Title ==
@@ -181,13 +169,6 @@ msgid ""
 "units. Similarly, an enemy unit cannot act on its initiative with regard to "
 "a character and the presence of an enemy character within 20cm does not "
 "impose a −1 Command penalty."
-msgstr ""
-
-#. include::partial$divider-axe.adoc[]
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:117
-#, no-wrap
-msgid "generals-wizards-and-heroes/dark-knight.webp"
 msgstr ""
 
 #. type: Title ==
@@ -293,12 +274,6 @@ msgid ""
 "order and therefore it was eligible for a half pace move."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:194
-#, no-wrap
-msgid "generals-wizards-and-heroes/wolf-rider.webp"
-msgstr ""
-
 #. type: Title ====
 #: en/revolution/modules/rules/pages/characters.adoc:197
 #, no-wrap
@@ -381,12 +356,6 @@ msgid ""
 "brigade cannot receive any further orders that Command phase."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:265
-#, no-wrap
-msgid "generals-wizards-and-heroes/night-goblins.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters.adoc:267
 #: en/revolution/modules/rules/pages/command.adoc:535
@@ -444,12 +413,6 @@ msgid ""
 "ocean, into a volcanic lake and so forth). If riding monsters or chariots, "
 "characters are restricted by terrain in the same way as these troops. See [."
 "edit]#<<character-mounts>>#."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:300
-#, no-wrap
-msgid "generals-wizards-and-heroes/tusks.webp"
 msgstr ""
 
 #. type: Title ==
@@ -749,10 +712,4 @@ msgid ""
 "the game. Oversized bases are slightly inconvenient in play, but allow for "
 "some very nice decorative models or more complex scenes and do look very "
 "attractive."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/characters.adoc:512
-#, no-wrap
-msgid "generals-wizards-and-heroes/ogres.webp"
 msgstr ""

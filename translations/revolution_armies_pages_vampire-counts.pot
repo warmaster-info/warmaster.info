@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -305,12 +305,6 @@ msgid ""
 "terror of the night and the things that walk beneath the moon."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:65
-#, no-wrap
-msgid "vampire-counts/vampire-counts.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:67
 #, no-wrap
@@ -432,12 +426,6 @@ msgid ""
 "Coach causes terror in its enemies."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:136
-#, no-wrap
-msgid "vampire-counts/nightmare.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:138
 #, no-wrap
@@ -513,10 +501,4 @@ msgid ""
 "The target unit takes six attacks worked out in the usual way.  Any hits "
 "scored are carried over into the first round of combat and count as having "
 "been struck in the first round for purposes of working out combat results."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:219
-#, no-wrap
-msgid "vampire-counts/skeletons.webp"
 msgstr ""

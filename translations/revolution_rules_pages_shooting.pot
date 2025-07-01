@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,12 +157,6 @@ msgstr ""
 msgid "Targets in and out of sight."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:108
-#, no-wrap
-msgid "the-shooting-phase/sight.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting.adoc:115
 msgid ""
@@ -170,18 +164,6 @@ msgid ""
 "find this indicated in the unit’s description (for example, Wolf Riders). "
 "This means when shooting at the enemy a line of sight can be drawn from any "
 "free edge of any stand in the unit."
-msgstr ""
-
-#. // WMR original
-#. However, note that even
-#. a unit that can see all round cannot charge an enemy
-#. unless a line of sight can be drawn form a stand’s front
-#. edge.
-#.  Moved to end of section
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:125
-#, no-wrap
-msgid "the-shooting-phase/empire-infantry.webp"
 msgstr ""
 
 #. type: Title ==
@@ -288,12 +270,6 @@ msgid ""
 "enemy to shoot at a defended target."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:210
-#, no-wrap
-msgid "the-shooting-phase/boar-riders.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting.adoc:218
 msgid ""
@@ -378,12 +354,6 @@ msgid ""
 "drive back enemy units, as follows."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:272
-#, no-wrap
-msgid "the-shooting-phase/wizard.webp"
-msgstr ""
-
 #.  Difference: Bo5A allows changing formation.
 #.  Caption added.
 #. type: Block title
@@ -464,12 +434,6 @@ msgid ""
 "things but must move back as a block. See <<drive-back>>."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:333
-#, no-wrap
-msgid "the-shooting-phase/drive-back.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/shooting.adoc:335
 #, no-wrap
@@ -521,12 +485,6 @@ msgid ""
 "This happens rarely because units taking many hits are usually destroyed as "
 "a result. Large monsters with many hits are more likely to be destroyed in "
 "this fashion than infantry or cavalry units."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:363
-#, no-wrap
-msgid "the-shooting-phase/chariot.webp"
 msgstr ""
 
 #. type: Title ==
@@ -639,12 +597,6 @@ msgstr ""
 msgid "The Archers shoot as the Knights charge."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:449
-#, no-wrap
-msgid "the-shooting-phase/shooting-at-chargers.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting.adoc:458
 msgid ""
@@ -661,18 +613,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/shooting.adoc:461
 #, no-wrap
 msgid "Two hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:462
-#, no-wrap
-msgid "the-shooting-phase/shooting-hits-carried-over.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:464
-#, no-wrap
-msgid "the-shooting-phase/skull.webp"
 msgstr ""
 
 #.  Heading level increased
@@ -717,10 +657,4 @@ msgid ""
 "driving them from strongly defended positions. Good generals will recognise "
 "these qualities immediately, for they are an important means of controlling "
 "the battlefield and frustrating your enemy’s plans."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/shooting.adoc:496
-#, no-wrap
-msgid "the-shooting-phase/charging.webp"
 msgstr ""

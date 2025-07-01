@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -204,12 +204,6 @@ msgid ""
 "of Kislev. In her the old powers of the Khan-Queens have resurfaced and she "
 "is both abhorred and feared by her people, especially by the nomadic tribes "
 "who believe her to be favoured by the ancient gods of the Gospodars."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/kislev.adoc:60
-#, no-wrap
-msgid "kislev/kislev.webp"
 msgstr ""
 
 #. type: Title ==
@@ -411,12 +405,6 @@ msgid ""
 "for the spell."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/kislev.adoc:171
-#, no-wrap
-msgid "kislev/general.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/kislev.adoc:173
 #, no-wrap
@@ -533,10 +521,4 @@ msgid ""
 "type has then one stand is destroyed. If not then the target is unscathed. "
 "If a stand is destroyed it is removed as a casualty.  A unit cannot be "
 "driven back by Freeze."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/kislev.adoc:235
-#, no-wrap
-msgid "kislev/war-wagon.webp"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -174,6 +174,12 @@ msgstr ""
 msgid "Tomb Kings"
 msgstr ""
 
+#. type: Attribute :dragon:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:5
+#, no-wrap
+msgid "Zombie"
+msgstr ""
+
 #.  TODO: Logo is half the resolution of all the others.
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:20
@@ -236,12 +242,6 @@ msgid ""
 "wind and groaning of great stones in the mountains. If the Tomb Kings take "
 "any comfort it is only in the recreation of their ancient empires – a shadow "
 "of former existence that evokes memories of the lives that they once led."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:65
-#, no-wrap
-msgid "tomb-kings/tomb-kings.webp"
 msgstr ""
 
 #. type: Title ==
@@ -403,12 +403,6 @@ msgid ""
 "chariot adds +1 to his Attacks."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:141
-#, no-wrap
-msgid "tomb-kings/tomb-king.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:143
 #, no-wrap
@@ -534,10 +528,4 @@ msgid ""
 "The Death Bolt is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "
 "driven back by a Death Bolt as with ordinary shooting."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:228
-#, no-wrap
-msgid "tomb-kings/tomb-king-battle-line.jpg"
 msgstr ""

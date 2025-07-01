@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -235,12 +235,6 @@ msgid ""
 "the Orcs of the west, work at the enterprises of the Chaos Dwarfs."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:66
-#, no-wrap
-msgid "chaos-dwarfs/chaos-dwarfs.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:68
 #, no-wrap
@@ -441,12 +435,6 @@ msgid ""
 "bonus is being used before rolling for the spell."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:183
-#, no-wrap
-msgid "chaos-dwarfs/earthshaker.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:185
 #, no-wrap
@@ -544,10 +532,4 @@ msgid ""
 "ordinary shooting. Engaged units cannot be driven back, but carry over any "
 "hits that are scored into the first round of combat. Hits caused by the "
 "Meteor Storm count as having been struck in the combat itself."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:246
-#, no-wrap
-msgid "chaos-dwarfs/taurus.webp"
 msgstr ""

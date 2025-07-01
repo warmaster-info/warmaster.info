@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -135,6 +135,12 @@ msgstr ""
 msgid "Wood Elves"
 msgstr ""
 
+#. type: Attribute :dragon:
+#: en/revolution/modules/armies/pages/wood-elves.adoc:5
+#, no-wrap
+msgid "Forest"
+msgstr ""
+
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:19
 msgid ""
@@ -183,12 +189,6 @@ msgid ""
 "bodies of fallen enemies. These serve as a grim warning to all who trespass "
 "beyond the boundary stones marking the edge of the realm – you are not "
 "welcome here, death awaits."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/wood-elves.adoc:51
-#, no-wrap
-msgid "wood-elves/wood-elves.webp"
 msgstr ""
 
 #. type: Title ==
@@ -446,12 +446,6 @@ msgstr ""
 msgid "Generals, Nobles and Spell Weavers may ride Forest Dragons."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/wood-elves.adoc:176
-#, no-wrap
-msgid "wood-elves/infantry.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/wood-elves.adoc:178
 #, no-wrap
@@ -539,10 +533,4 @@ msgid ""
 "the ground beneath their feet). Engaged units carry over any hits scored "
 "into the first round of combat; any hits scored count as having been struck "
 "in the combat itself."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/wood-elves.adoc:227
-#, no-wrap
-msgid "wood-elves/wild-riders.webp"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -188,8 +188,9 @@ msgstr ""
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr ""
 
-#. type: Title =
+#. type: Attribute :dragon:
 #: en/revolution/modules/armies/pages/chaos.adoc:1
+#: en/revolution/modules/armies/pages/chaos.adoc:5
 #, no-wrap
 msgid "Chaos"
 msgstr ""
@@ -252,12 +253,6 @@ msgid ""
 "unification of the Empire and the aid of the High Elves of Ulthuan saved the "
 "human realms of the Old World at that time, though Kislev was devastated and "
 "the city of Praag destroyed."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos.adoc:59
-#, no-wrap
-msgid "chaos/chaos.webp"
 msgstr ""
 
 #. type: Title ==
@@ -346,12 +341,6 @@ msgstr ""
 msgid ""
 "Generals, Sorcerers and Heroes can ride Chariots. An extra +1 Attack is "
 "added to those of its rider."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos.adoc:118
-#, no-wrap
-msgid "chaos/warriors.webp"
 msgstr ""
 
 #. type: Title ==
@@ -499,10 +488,4 @@ msgid ""
 "The Curse of Chaos is treated like three ordinary shooting attacks except "
 "that armour has no effect (all targets count as having no armour). A unit "
 "can be driven back by a Curse of Chaos as with ordinary shooting."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/chaos.adoc:206
-#, no-wrap
-msgid "chaos/knights.webp"
 msgstr ""

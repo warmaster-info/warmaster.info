@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -170,12 +170,6 @@ msgid ""
 "conditions."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/nippon.adoc:76
-#, no-wrap
-msgid "nippon/infantry.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/nippon.adoc:78
 #, no-wrap
@@ -204,12 +198,6 @@ msgid ""
 "lost before the army will withdraw. For example – an army of 16 units will "
 "normally withdraw once eight units are destroyed – with Nippon, the army "
 "will not withdraw until nine units are destroyed."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/nippon.adoc:99
-#, no-wrap
-msgid "nippon/shrine.webp"
 msgstr ""
 
 #.  4: for the purpose
@@ -482,10 +470,4 @@ msgid ""
 "Nippon units within 20cm of the Shugenja are unaffected by Terror until the "
 "start of the Nippon player’s next turn. On a roll of less than 4 there is no "
 "effect."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/nippon.adoc:251
-#, no-wrap
-msgid "nippon/tengu.webp"
 msgstr ""

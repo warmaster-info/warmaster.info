@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -322,24 +322,12 @@ msgstr ""
 msgid "Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:230
-#, no-wrap
-msgid "movement/initiative-charge-1.webp"
-msgstr ""
-
 #.  Warmaster Original diagram from Movement chapter:
 #.  TODO: Low-priority diagram text
 #. type: Block title
 #: en/revolution/modules/rules/pages/command.adoc:234
 #, no-wrap
 msgid "Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:235
-#, no-wrap
-msgid "movement/initiative-charge-2.webp"
 msgstr ""
 
 #. type: Title ===
@@ -355,12 +343,6 @@ msgid ""
 "evade.  A unit *cannot* use initiative to move in any other way. The rules "
 "for xref:movement.adoc#moving-chargers[charges] and xref:movement.adoc#the-"
 "path-of-evaders[evades] are described in the Movement section."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:247
-#, no-wrap
-msgid "the-command-phase/giant.webp"
 msgstr ""
 
 #. type: Plain text
@@ -456,12 +438,6 @@ msgid ""
 "and killed)."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:344
-#, no-wrap
-msgid "the-command-phase/skinks.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:346
 #, no-wrap
@@ -502,12 +478,6 @@ msgid ""
 "before a dice roll ends movement. This represents the confusion of battle, "
 "the indecisiveness of unit leaders, occasional stupidity and all those other "
 "annoying things that bedevil the process of waging war."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:377
-#, no-wrap
-msgid "the-command-phase/goblins.webp"
 msgstr ""
 
 #. type: Title ==
@@ -686,12 +656,6 @@ msgid ""
 "never exceed 10."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:515
-#, no-wrap
-msgid "the-command-phase/triskelion.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command.adoc:517
 #, no-wrap
@@ -720,12 +684,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/command.adoc:531
 #, no-wrap
 msgid "A unit of cavalry charging into combat with a unit of infantry"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:532
-#, no-wrap
-msgid "the-command-phase/cavalry-charge.webp"
 msgstr ""
 
 #.  Moved here from Movement chapter
@@ -821,22 +779,10 @@ msgstr ""
 msgid "These three units can be formed into a brigade."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:608
-#, no-wrap
-msgid "the-command-phase/brigade-of-three.webp"
-msgstr ""
-
 #. type: Block title
 #: en/revolution/modules/rules/pages/command.adoc:610
 #, no-wrap
 msgid "These four units can also be formed into a brigade. Each unit is arranged into a column that is three stands deep."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:611
-#, no-wrap
-msgid "the-command-phase/brigade-of-four.webp"
 msgstr ""
 
 #. type: Plain text
@@ -885,30 +831,6 @@ msgid ""
 "which do not charge still have to end their move touching."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:667
-#, no-wrap
-msgid "the-command-phase/charge-from-brigade-1.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:669
-#, no-wrap
-msgid "the-command-phase/charge-from-brigade-2.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:671
-#, no-wrap
-msgid "the-command-phase/charge-from-brigade-3.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:673
-#, no-wrap
-msgid "the-command-phase/charge-from-brigade-4.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:676
 #, no-wrap
@@ -952,11 +874,4 @@ msgid ""
 "ancients]#Orders sub-phase# to move as a brigade.  [.ancients]#This means it "
 "is necessary to arrange units so that they touch in one turn if they are to "
 "be given a brigade order in the next.#"
-msgstr ""
-
-#.  TODO: Smaller of the two diagrams from Bo5A.
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/command.adoc:710
-#, no-wrap
-msgid "the-command-phase/bretonnian-knights.webp"
 msgstr ""

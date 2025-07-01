@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,6 +72,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:226
 #, no-wrap
 msgid "Command"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:121
+#: en/revolution/modules/rules/pages/game-values.adoc:228
+#, no-wrap
+msgid "Unit size"
 msgstr ""
 
 #. type: Title ==
@@ -242,12 +249,6 @@ msgstr ""
 msgid "An Empire infantry unit"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:99
-#, no-wrap
-msgid "game-values/infantry.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:104
 msgid ""
@@ -259,12 +260,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:105
 #, no-wrap
 msgid "An Empire cavalry unit"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:106
-#, no-wrap
-msgid "game-values/cavalry-1.webp"
 msgstr ""
 
 #.  Replace with a monster or artillery
@@ -292,12 +287,6 @@ msgid ""
 "different qualities in the warriors, monsters and weird creatures that are "
 "found in the game, we assign three values to [.edit]#each stand#. These are "
 "*Attacks*, *Hits* and *Armour*."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:127
-#, no-wrap
-msgid "game-values/attacks-hits-armour.webp"
 msgstr ""
 
 #. type: Table
@@ -402,12 +391,6 @@ msgid ""
 "statistics or ‘stat line’ as shown below."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:209
-#, no-wrap
-msgid "game-values/boar-riders.webp"
-msgstr ""
-
 #. type: Table
 #: en/revolution/modules/rules/pages/game-values.adoc:216
 #, no-wrap
@@ -432,12 +415,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:227
 msgid "The command value of a General, Hero or Wizard."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:228
-#, no-wrap
-msgid "Unit size"
 msgstr ""
 
 #. type: Plain text
@@ -554,24 +531,12 @@ msgid ""
 "measuring rule, between the observer and observed."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:323
-#, no-wrap
-msgid "game-values/line-of-sight-target.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:329
 msgid ""
 "It is not permitted to draw a line of light over the top of unit stands from "
 "either side. These are said to ‘block’ the line of sight (see <<line-of-"
 "sight-blocked>>)."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:331
-#, no-wrap
-msgid "game-values/line-of-sight-blocked.svg"
 msgstr ""
 
 #. type: Plain text
@@ -592,12 +557,6 @@ msgid ""
 "Wolf Riders in the Orc army."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:348
-#, no-wrap
-msgid "game-values/line-of-sight-360.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/game-values.adoc:351
 #, no-wrap
@@ -616,35 +575,9 @@ msgid ""
 "adoc#terrain[Terrain] explains the rules governing this."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:364
-#, no-wrap
-msgid "game-values/line-of-sight-terrain.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/game-values.adoc:370
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#line-of-sight-"
 "questions[section on Line of Sight] with further examples."
-msgstr ""
-
-#
-#. // This is in Ancients and Bo5A, but seems to conflict with
-#. // flying units being able to see 100cm (at least) for their move/charge.
-#. // I can't find it in the Revolution PDF.
-#. [.ancients]
-#. === Maximum visibility
-#. [.bo5a]
-#. It is convenient to set a limit upon the maximum distance a unit
-#. can see. The maximum visibility in ordinary circumstances is
-#. 60cm. It would be easy to imagine situations where visibility
-#. would be considerably reduced – persistent rain, mist or at night
-#. for example. Rather than worry about these exceptions for the
-#. moment, a maximum visibility of 60cm is taken as standard
-#. and units more distant than this are assumed to be hidden from view.
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/game-values.adoc:389
-#, no-wrap
-msgid "game-values/goblins-advance.webp"
 msgstr ""

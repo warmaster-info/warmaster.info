@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -231,12 +231,6 @@ msgid ""
 "adoc#retreats[retreats from combat]."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:106
-#, no-wrap
-msgid "confusion/hammer-infantry.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/rules/pages/confusion.adoc:108
 #: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:22
@@ -342,18 +336,6 @@ msgid ""
 "formation as they do so.  See <<f-moving-aside>>."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:177
-#, no-wrap
-msgid "confusion/moving-aside.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:179
-#, no-wrap
-msgid "confusion/troll.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/confusion.adoc:186
 msgid ""
@@ -370,12 +352,6 @@ msgid ""
 "when all the stands of the unit that is making way lie in the path of the "
 "friendly unit, it can be moved behind its friends and stands can be arranged "
 "into support. See <<f-move-back>>."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:198
-#, no-wrap
-msgid "confusion/move-back.svg"
 msgstr ""
 
 #. type: Title ===
@@ -421,10 +397,4 @@ msgid ""
 "Note that making way does sometimes give units the opportunity to redress "
 "formations to their benefit.  Making way is not necessarily a disadvantage "
 "other than the attendant risk of confusion."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/confusion.adoc:229
-#, no-wrap
-msgid "confusion/soldier-mace.webp"
 msgstr ""

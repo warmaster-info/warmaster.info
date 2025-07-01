@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -182,13 +182,6 @@ msgid ""
 "the leadership abilities of Generals, Wizards and Heroes)."
 msgstr ""
 
-#.  Moved earlier
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/magic.adoc:118
-#, no-wrap
-msgid "magic/witch.webp"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/magic.adoc:120
 #, no-wrap
@@ -354,12 +347,6 @@ msgid ""
 "the dice again, including any that have scored hits, so it is possible to be "
 "very unfortunate and roll an even worse score! The Banner of Fortune works "
 "only once during the game."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/magic.adoc:214
-#, no-wrap
-msgid "magic/boar-riders.webp"
 msgstr ""
 
 #. type: Title ===
@@ -681,16 +668,4 @@ msgstr ""
 msgid ""
 "First spell (could be Teleport) → Rod of Repetition to cast Teleport → third "
 "spell."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/magic.adoc:382
-#, no-wrap
-msgid "magic/mortar.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/magic.adoc:384
-#, no-wrap
-msgid "magic/dwarf-runesmith.webp"
 msgstr ""

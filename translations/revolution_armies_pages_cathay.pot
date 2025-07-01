@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,12 +223,6 @@ msgid ""
 "weapons in exchange for decent pay and regular meals."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/cathay.adoc:70
-#, no-wrap
-msgid "cathay/cathay.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/cathay.adoc:72
 #, no-wrap
@@ -407,12 +401,6 @@ msgid ""
 "they are using the Qilin’s magic before rolling to see if the spell works."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/cathay.adoc:166
-#, no-wrap
-msgid "cathay/maneaters.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/cathay.adoc:168
 #, no-wrap
@@ -517,10 +505,4 @@ msgstr ""
 msgid ""
 "All friendly units within 15cm of Sorcerer count as immune to terror until "
 "the end of the enemy player’s next turn."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/cathay.adoc:230
-#, no-wrap
-msgid "cathay/rockets.webp"
 msgstr ""

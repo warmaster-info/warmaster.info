@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -134,12 +134,6 @@ msgid ""
 "skaven. Those states that adjoin these borderlands maintain large mobile "
 "armies to see off the inevitable raiding parties that issue from the "
 "mountain passes every spring."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/empire.adoc:56
-#, no-wrap
-msgid "empire/empire.webp"
 msgstr ""
 
 #. type: Title ==
@@ -275,7 +269,7 @@ msgid ""
 "|*Misfire.* The gun fails to go off – no shots at all hit this\n"
 "turn. Disregard all hits this turn.\n"
 "\n"
-"h|4\n"
+"h|4+\n"
 "|*Ka-boom!* The weapon explodes destroying itself and\n"
 "mortally surprising its crew. The Helblaster stand is\n"
 "removed as a casualty. No hits are struck against the\n"
@@ -334,7 +328,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/empire.adoc:209
+#: en/revolution/modules/armies/pages/empire.adoc:213
 #, no-wrap
 msgid ""
 "h|1\n"
@@ -359,22 +353,26 @@ msgid ""
 "further this turn. It can move in future turns but\n"
 "suffers a command penalty of −1 for the remainder of\n"
 "the game. The Steam Tank can shoot as normal.\n"
-"Momentary Halt. The Steam Tank cannot move\n"
+"\n"
+"h|5\n"
+"|*Momentary Halt.* The Steam Tank cannot move\n"
 "further this turn but is otherwise unaffected.\n"
-"Steam Overload. The Steam Tank cannot move\n"
+"\n"
+"h|6\n"
+"|*Steam Overload.* The Steam Tank cannot move\n"
 "further this turn but can shoot with double the usual\n"
 "number of Attacks (6) to represent steam being\n"
 "uncontrollably diverted into weaponry.\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:211
+#: en/revolution/modules/armies/pages/empire.adoc:215
 #, no-wrap
 msgid "[[griffon,†7]]7. Griffon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:217
+#: en/revolution/modules/armies/pages/empire.adoc:221
 msgid ""
 "Generals, Wizards and Heroes can ride Griffons.  The Griffon can fly "
 "increasing its rider’s Movement from 60cm to 100cm. It adds +2 Attacks to "
@@ -384,13 +382,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:218
+#: en/revolution/modules/armies/pages/empire.adoc:222
 #, no-wrap
 msgid "[[war-altar,†8]]8. War Altar"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:227
+#: en/revolution/modules/armies/pages/empire.adoc:231
 msgid ""
 "There is only one War Altar of Sigmar.  Consequently an army, no matter how "
 "large, can only ever include one. A War Altar can only be included as a "
@@ -402,7 +400,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/empire.adoc:228
+#: en/revolution/modules/armies/pages/empire.adoc:232
 #, no-wrap
 msgid "Empire spells"
 msgstr ""

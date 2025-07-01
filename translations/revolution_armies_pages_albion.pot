@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -116,12 +116,6 @@ msgid ""
 "chieftains who lead the armies, there are heroic warriors who help to "
 "marshal the army and the enigmatic druids who are not only the army’s "
 "wizards but also its law makers, judges and soothsayers."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/albion.adoc:82
-#, no-wrap
-msgid "albion/albion.webp"
 msgstr ""
 
 #. type: Title ==
@@ -282,12 +276,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:134
 msgid "A Fenbeast causes terror in its enemies."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/albion.adoc:135
-#, no-wrap
-msgid "albion/general.webp"
 msgstr ""
 
 #. type: Title ==
@@ -482,10 +470,4 @@ msgid ""
 "Fenbeasts may only be given orders by Druids. Fenbeasts may not be brigaded "
 "with other troops, not even other Fenbeasts. An army cannot have more "
 "summoned Fenbeasts in play than it has Druids."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/albion.adoc:206
-#, no-wrap
-msgid "albion/druid.webp"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,15 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#. type: Positional ($1) AttributeList argument for macro 'image'
-#: en/home/modules/ROOT/pages/index.adoc:1
-#: en/revolution/modules/armies/pages/index.adoc:4
-#: en/revolution/modules/rules/pages/index.adoc:1
-#: en/revolution/modules/rules/pages/index.adoc:4
-#, no-wrap
-msgid "Warmaster Revolution"
-msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:4
@@ -193,12 +184,6 @@ msgstr ""
 msgid "Warmaster Revolution Armies"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/index.adoc:4
-#, no-wrap
-msgid "rules:index/warmaster-revolution.webp"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/armies/pages/index.adoc:14
 #, no-wrap
@@ -307,10 +292,4 @@ msgstr ""
 msgid ""
 "_For convenience, the armies are listed in alphabetical order in the website "
 "navigation menu._"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/index.adoc:89
-#, no-wrap
-msgid "index/drummer.jpg"
 msgstr ""

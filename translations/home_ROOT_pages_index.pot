@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Positional ($1) AttributeList argument for macro 'image'
+#. type: Title =
 #: en/home/modules/ROOT/pages/index.adoc:1
-#: en/revolution/modules/armies/pages/index.adoc:4
 #: en/revolution/modules/rules/pages/index.adoc:1
-#: en/revolution/modules/rules/pages/index.adoc:4
 #, no-wrap
 msgid "Warmaster Revolution"
 msgstr ""

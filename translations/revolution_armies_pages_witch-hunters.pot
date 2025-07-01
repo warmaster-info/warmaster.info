@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -236,12 +236,6 @@ msgid ""
 "have committed."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:52
-#, no-wrap
-msgid "witch-hunters/witch-hunters.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:54
 #, no-wrap
@@ -358,12 +352,6 @@ msgstr ""
 msgid "in the Warmaster Rulebook."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:124
-#, no-wrap
-msgid "witch-hunters/pistoliers.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:126
 #, no-wrap
@@ -467,10 +455,4 @@ msgid ""
 "like everyone else. However, if the target is Undead or Daemon it will not "
 "count enemies as terrifying although all other penalties apply as described "
 "(Undead and Daemons are hard to spook)."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:189
-#, no-wrap
-msgid "witch-hunters/witch-hunters-battle.jpg"
 msgstr ""

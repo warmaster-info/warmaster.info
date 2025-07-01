@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -150,12 +150,6 @@ msgid ""
 "presented as follows:"
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:94
-#, no-wrap
-msgid "picking-the-army/battle-line.webp"
-msgstr ""
-
 #. type: Table
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:101
 #, no-wrap
@@ -233,20 +227,41 @@ msgid "Command"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:123
-msgid ""
-"The Command value of a character.  Unit Size. The number of stands in a "
-"unit.  Points per Unit. The points value of a unit or character of that type."
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:120
+msgid "The Command value of a character."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:121
+#: en/revolution/modules/rules/pages/game-values.adoc:228
+#, no-wrap
+msgid "Unit size"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:122
+msgid "The number of stands in a unit."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:123
+#, no-wrap
+msgid "Points per unit"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:125
+msgid "The points value of a unit or character of that type."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:126
 #, no-wrap
 msgid "Min/Max"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:128
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:130
 msgid ""
 "This defines the minimum and maximum number of units of that type which an "
 "army must include per 1000 points of army size. A dash indicates there is no "
@@ -254,13 +269,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:129
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:131
 #, no-wrap
 msgid "Selecting the army"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:135
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:137
 msgid ""
 "Choose units and characters to make up the army. You can choose up to a "
 "maximum total value appropriate to the size of game. For example, High Elf "
@@ -268,7 +283,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:147
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:149
 msgid ""
 "Players are not entirely free to select forces as they want.  Some units "
 "must always be included and some other units can only be included in limited "
@@ -281,7 +296,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:154
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:156
 msgid ""
 "For example, in a Bretonnian army, Squires are min/max 1/4. This means that "
 "in a 1000 point army the player must include at least 1 unit but cannot "
@@ -290,7 +305,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:162
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:164
 msgid ""
 "If an entry includes a dash instead of a number this means no minimum or "
 "maximum applies. The player can chose as few or as many of this troop types "
@@ -300,7 +315,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:172
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:174
 msgid ""
 "All armies must include a single General. An army can never include more "
 "than one General no matter what its size. The Min/Max column is given as 1 "
@@ -312,7 +327,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:179
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:181
 msgid ""
 "If your chosen army size is less than 1000 points then use the 1000 point "
 "maximums but ignore the minimums.  Very small games can be a useful exercise "
@@ -322,7 +337,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:188
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:190
 msgid ""
 "The value of any permitted magic items is added to that of the unit or "
 "character that carries them. Magic items must be allocated to specific "
@@ -330,10 +345,4 @@ msgid ""
 "the unit or character appropriately, and the total cost must be taken into "
 "account when working out victory points. See Magic in the rulebook p.76 or a "
 "Magic Items Overview on p.88 in this book."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:189
-#, no-wrap
-msgid "picking-the-army/undead.webp"
 msgstr ""

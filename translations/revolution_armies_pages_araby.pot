@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -211,12 +211,6 @@ msgid ""
 "luxuries, and prestige as a result. As well as these regular and garrison "
 "troops there are the irregular fighters from the desert tribes, including "
 "camel mounted warriors from the lands to the south and east."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:73
-#, no-wrap
-msgid "araby/araby.webp"
 msgstr ""
 
 #. type: Title ==
@@ -438,18 +432,6 @@ msgid ""
 "If the Wizard is accompanied by a Djinn then any unit he joins causes Terror."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:209
-#, no-wrap
-msgid "araby/hero.webp"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:211
-#, no-wrap
-msgid "araby/wizard.webp"
-msgstr ""
-
 #. type: Title ==
 #: en/revolution/modules/armies/pages/araby.adoc:213
 #, no-wrap
@@ -593,10 +575,4 @@ msgstr ""
 msgid ""
 "If the Sorcerer has a Djinn then he adds +1 to his dice roll when casting "
 "this spell, and therefore casts successfully on a 5+."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/araby.adoc:292
-#, no-wrap
-msgid "araby/infantry.webp"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,27 +30,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:255
 #, no-wrap
 msgid "Contact with other enemy"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/combat.adoc:899
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:353
-#, no-wrap
-msgid "combat-phase/pursuit-supporting.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:508
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:245
-#, no-wrap
-msgid "combat-phase/maximise-frontage-1.svg"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/movement.adoc:533
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:247
-#, no-wrap
-msgid "combat-phase/maximise-frontage-2.svg"
 msgstr ""
 
 #. type: Title =
@@ -333,12 +312,6 @@ msgstr ""
 msgid "The only exceptions are units that have 360 degree line of sight."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:111
-#, no-wrap
-msgid "questions-and-answers/line-of-sight-flank.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:114
 msgid ""
@@ -449,12 +422,6 @@ msgid ""
 "with a failed order and a half pace move of 5cm. See diagram below."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:181
-#, no-wrap
-msgid "questions-and-answers/pivot.svg"
-msgstr ""
-
 #. type: Title ===
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:184
 #, no-wrap
@@ -546,12 +513,6 @@ msgid ""
 "is illegal."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:252
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-illegal.svg"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:266
 msgid ""
@@ -572,23 +533,11 @@ msgid ""
 "so they must do this."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:275
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-multiple.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:279
 msgid ""
 "In this diagram, the charging unit has not maximised frontage. This charge "
 "is illegal."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:280
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-multiple-illegal.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -599,12 +548,6 @@ msgid ""
 "enemy unit that is closer to the charging stands, all charging stands can be "
 "placed with all of their frontage in contact with the original target enemy, "
 "so they must do this."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:290
-#, no-wrap
-msgid "questions-and-answers/maximise-frontage-original.svg"
 msgstr ""
 
 #. type: Title ===
@@ -799,12 +742,6 @@ msgid ""
 "the combat.)  Units A and B are in combat with units C and D."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:392
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-1.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:397
 msgid ""
@@ -812,23 +749,11 @@ msgid ""
 "from both units then retreat."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:398
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-2.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:402
 msgid ""
 "The stands from units C and D able to pursue straight forward into front "
 "edge contact with the enemy must do so:"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:403
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-3.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -840,12 +765,6 @@ msgid ""
 "rest of their units, as the player wishes, including into the flank or rear "
 "where possible.  No pursuing stand may move further than a full-pace move.  "
 "This shows one option:"
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:413
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-4.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -861,23 +780,11 @@ msgstr ""
 msgid "The examples continue with this arrangement."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:422
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-5.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:426
 msgid ""
 "After the second round of combat, unit B has been wiped out, and unit A has "
 "retreated again.  All units have lost a stand."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:427
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-6.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -888,12 +795,6 @@ msgid ""
 "still see the retreating enemy, so it can make an Indirect Pursuit."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:433
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-7.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:439
 msgid ""
@@ -902,21 +803,9 @@ msgid ""
 "now in the front or the flank of unit A.  They are in the flank."
 msgstr ""
 
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:440
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-8.svg"
-msgstr ""
-
 #. type: delimited block =
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:443
 msgid "Unit D moves one stand into contact with the flank of unit A."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:444
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-9.svg"
 msgstr ""
 
 #. type: delimited block =
@@ -924,12 +813,6 @@ msgstr ""
 msgid ""
 "Finally, the remaining stand can be placed as in basic pursuit, for example "
 "to the rear."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:449
-#, no-wrap
-msgid "questions-and-answers/combat-pursuits-10.svg"
 msgstr ""
 
 #. type: Title ===

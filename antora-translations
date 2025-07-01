@@ -35,7 +35,7 @@ echo -e "${RED}Generate po4a.conf for document translation.${NC}"
 cd en
 echo "[po4a_langs] $languages" > ../po4a.conf
 echo '[po4a_paths] translations/$master.pot $lang:translations/$master.$lang.po' >> ../po4a.conf
-echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0"' >> ../po4a.conf
+echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0 -o noimagetargets -o entry=dragon"' >> ../po4a.conf
 echo >> ../po4a.conf
 for i in **/*.adoc; do
     component=$(echo $i | sed s/modules[/]//)
@@ -80,25 +80,22 @@ fi
 # If a POT file has only one changed line, it's the "POT-Creation-Date", and we don't want to commit that.
 commit=no
 for i in translations/**/*.pot; do
+    git status --short $i
     git_status=$(git status --short $i)
     if [[ -z "$git_status" ]]; then
-	# echo "File unchanged"
+	echo "File unchanged"
 	true
-    elif [[ $(git diff --numstat $i | cut -f 1) -le 1 ]]; then
-	if find -name $(basename $i .pot) > /dev/null; then
-	    if [[ $(echo $git_status | awk '{print $1}') == 'M' ]]; then
-		echo "Ignoring trivial change to $i"
-		git checkout $i
-	    else
-		echo Changed lines $(git diff --numstat $i) → $(git diff --numstat $i | cut -f 1)
-		git status --short $i
-		echo "New file $i"
-		git add $i
-		commit=yes
-	    fi
-	else
-	    echo "WARNING: translation source for $i may have been removed"
-	fi
+    elif [[ $(echo $git_status | awk '{print $1}') == '??' ]]; then
+	echo "New file $i"
+	git add $i
+	commit=yes
+    elif [[ $(echo $git_status | awk '{print $1}') == 'D' ]]; then
+        # This probably doesn't work
+	echo "Deleted file $i"
+	echo "WARNING: translation source for $i may have been removed"
+    elif git diff --quiet --exit-code --ignore-matching-lines='^"POT-Creation-Date:' $i; then
+	echo "Ignoring trivial change to $i"
+	git checkout $i
     else
 	git add $i
 	commit=yes

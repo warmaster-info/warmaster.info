@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 14:37+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -185,12 +185,6 @@ msgid ""
 "Norsemen whenever they have more than the slightest drop of Mead go into a "
 "berserk frenzy, where they feel no pain and fear nothing. A bit annoying in "
 "the Mead Hall, but very useful on the battlefield."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/norse.adoc:42
-#, no-wrap
-msgid "norse/norse.webp"
 msgstr ""
 
 #. type: Title ==
@@ -462,10 +456,4 @@ msgid ""
 "as with all normal blunders, it counts as a failed order. The only exception "
 "is the enemy general, as he cannot blunder. The spell lasts until the end of "
 "enemy Command phase."
-msgstr ""
-
-#. type: Target for macro image
-#: en/revolution/modules/armies/pages/norse.adoc:208
-#, no-wrap
-msgid "norse/berserker.jpg"
 msgstr ""
