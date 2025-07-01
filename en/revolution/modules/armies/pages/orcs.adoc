@@ -72,6 +72,7 @@ cause first.
 
 image::orcs/orcs.webp[]
 
+[#army-selector]
 == Orcs army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -79,6 +80,7 @@ image::orcs/orcs.webp[]
 include::partial$orcs.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 [[goblins,†1]]1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
@@ -123,8 +125,10 @@ character in a chariot adds +1 to his Attacks.
 
 image::orcs/hero.webp[]
 
+[#spells]
 == Orc spells
 
+[#foot-of-gork]
 === Foot of Gork
 
 [.cost]#6+ to cast# [.points]#Range 50cm#
@@ -141,6 +145,7 @@ The unit suffers six attacks worked out in the usual way. A unit
 cannot be driven back by the Foot of Gork because Gork’s foot
 descends from above!.
 
+[#gotcha]
 === Gotcha
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -163,6 +168,7 @@ Engaged units cannot be driven back by the Gotcha but carry
 over any hits scored into the first round of combat; any hits
 scored count as having been struck in the combat itself.
 
+[#gerroff]
 === Gerroff!!!
 
 [.cost]#5+ to cast# [.points]#Range 60cm#
@@ -181,6 +187,7 @@ the shortest route to the table edge. A unit cannot be routed by
 a drive back from a Gerroff spell. If the unit leaves the table
 edge it must roll as described in the main Warmaster rules.
 
+[#waagh]
 === Waagh!
 
 [.cost]#4+ to cast# [.points]#Range 30cm#

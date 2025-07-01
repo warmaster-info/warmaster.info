@@ -1,6 +1,7 @@
 = Confusion at a Glance
 :page-role: -toc at-a-glance
 
+[#units-become-confused-if]
 == Units become confused if:
 
 . Burst through by evaders.
@@ -19,6 +20,7 @@
 
 . Unable to fall back to [.bo5a]#at least# 1cm from enemy [.bo5a]#following# combat.
 
+[#confused-units]
 == Confused units
 
 . Cannot move in the Command phase by either initiative or orders.
@@ -27,6 +29,7 @@
 . Cease to be confused at the end of their Command phase.
 
 [.bo5a]
+[#making-way]
 == Making way
 
 . Units can make way for friends that are:
@@ -37,12 +40,14 @@
 . Units engaged in combat, constricted by terrain, or otherwise unable to move cannot make way.
 . Units can make way by moving aside or moving back.
 
+[#moving-aside]
 == Moving aside
 
 . All stands in the path of the friend are moved – all other stands remain in place. Stands are rearranged around those that remain in place.
 
 . If all stands are in the path of the friend, move [.edit]#whichever# stand needs to move the shortest distance to get out of the path.  Rearrange the other stands around this stand.
 
+[#moving-back]
 == Moving back
 
 . The entire unit moves back in the same direction as the friend.

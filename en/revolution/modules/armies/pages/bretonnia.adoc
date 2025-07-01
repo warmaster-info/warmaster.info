@@ -73,6 +73,7 @@ hearted for few who begin the quest are ever fated to succeed.
 
 image::bretonnia/bretonnia.webp[]
 
+[#army-selector]
 == Bretonnian army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -80,8 +81,10 @@ image::bretonnia/bretonnia.webp[]
 include::partial$bretonnia.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Feudal Society:: The Bretonnian army is essentially an army of
@@ -94,6 +97,7 @@ only the number of units of Knights, Grail Knights and Pegasus
 Knights. Once the army has lost half or more of its units of
 Knights/Grail Knights/Pegasus Knights it must withdraw.
 
+[#special-special-rules]
 === Special rules
 
 [[peasants,†1]]1. Peasants:: A unit of Peasants suffers an additional −1 Command
@@ -176,8 +180,10 @@ not they are simple Peasants.
 
 image::bretonnia/green-knight.webp[]
 
+[#spells]
 == Bretonnian spells
 
+[#shield-of-combat]
 === Shield of Combat
 
 [.cost]#4+ to cast# [.points]#Range N/A#
@@ -198,6 +204,7 @@ Note that only a single re-roll is permitted regardless of what
 other factors apply. It is never permitted to re-roll a re-roll in
 any circumstances.
 
+[#eerie-mist]
 === Eerie Mist
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -213,6 +220,7 @@ The unit cannot use its initiative. Any order given to the unit,
 or to any brigade of which it is a part, suffers a −1 Command
 penalty.
 
+[#aerial-shield]
 === Aerial Shield
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -231,6 +239,7 @@ shooting rolls. But keep in mind that regardless of all other
 circumstances the shooting may never get worse than 6+. So
 even if the enchanted unit is fortified all enemies still hit on 6+.
 
+[#ladys-favour]
 === Lady’s Favour
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

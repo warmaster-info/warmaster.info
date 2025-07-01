@@ -1,5 +1,6 @@
 = Battlefields
 
+[#setting-up-armies]
 == Setting up armies
 
 There are several different but equally acceptable
@@ -42,6 +43,7 @@ the first turn.
 *Scouts.* This way of setting up the armies is described in
 detail <<scouting,below>>.
 
+[#setting-up-scenery]
 == Setting up scenery
 
 It is entirely up to the players to decide on how to set
@@ -94,6 +96,7 @@ symmetrically so that no advantage is conferred to either
 side. This is a bit mechanical and rather unrealistic but
 it’s certainly fair in principle.
 
+[#table-size-and-deployment-areas]
 == Table size and deployment areas
 
 // Metric dimensions added
@@ -161,6 +164,7 @@ places the remainder of his units in his deployment zone.
 [.edit]#This player# must move second in the first turn.
 ****
 
+[#how-long-does-the-battle-last]
 == How long does the battle last?
 
 There are several ways to determine how long the battle
@@ -201,6 +205,7 @@ most victory points is the winner. Alternatively the
 death clock can be used, in which case the side that runs
 out of time first is the loser.
 
+[#scenarios]
 == Scenarios
 
 The simplest way to start a game is by lining the
@@ -215,6 +220,7 @@ are no rules when it comes to creating a battle. It’s up to
 you to invent an entertaining plot or spin a fantastic yarn
 to underpin the game.
 
+[#victory-points]
 == Victory points
 
 Victory Points in following scenarios are designed so
@@ -237,6 +243,7 @@ Victory Points difference with the following table:
 If both sides have an equal number of Victory Points,
 then the game is a draw.
 
+[#take-and-hold]
 == Take and hold
 
 The aim of this scenario is to fight over certain objectives
@@ -244,6 +251,7 @@ rather than just breaking your opponent. The battle
 can be played at any number of points; however, we
 recommend 2000 or more.
 
+[#take-and-hold-special-rules]
 === Special rules
 
 // Reorder around 15cm
@@ -261,6 +269,7 @@ and at least 30cm from each other.
 After the objectives are placed, roll for sides and deploy
 your armies within the deployment zones.
 
+[#take-and-hold-victory-points]
 === Victory points
 
 // is → are
@@ -290,6 +299,7 @@ image::battlefields/take-and-hold.svg[id=f-take-and-hold]
 
 image::battlefields/swordsmen.webp[]
 
+[#battle-for-the-tower]
 == Battle for the tower
 
 This scenario features a bloody struggle for a tower
@@ -297,6 +307,7 @@ positioned in the middle of the battlefield. The battle
 can be played at any number of points; however, we
 recommend 2000 or more.
 
+[#battle-for-the-tower-special-rules]
 === Special rules
 
 Along with other terrain, place a tower (or any similar
@@ -311,6 +322,7 @@ units of infantry, cavalry or chariots (in any
 combination) are touching the tower and are not in
 combat, and no enemy unit is touching the tower.
 
+[#battle-for-the-tower-victory-points]
 === Victory points
 
 // Spelling important, controls
@@ -340,6 +352,7 @@ image::battlefields/battle-for-the-tower.svg[id=f-battle-for-the-tower]
 
 image::battlefields/dwarf-gunners.webp[]
 
+[#defending-the-village]
 == Defending the village
 
 In this scenario one player is defending
@@ -349,6 +362,7 @@ as many buildings as possible, while the defender
 is trying to prevent this from happening. The scenario is
 designed for 2000 point armies.
 
+[#defending-the-village-special-rules]
 === Special rules
 
 Along with the other terrain, place a village in the
@@ -375,6 +389,7 @@ village counts as one [.edit]#building# for this purpose.
 The game ends when one side withdraws or in a pre-agreed
 way (see <<how-long-does-the-battle-last>>).
 
+[#defending-the-village-victory-points]
 === Victory points
 
 Victory Points are gained for defending and destroying
@@ -407,6 +422,7 @@ image::battlefields/defending-the-village.svg[id=f-defending-the-village]
 
 image::battlefields/chaos-axe.webp[]
 
+[#wagon-train]
 == Wagon train
 
 // sp defender's. Bring
@@ -417,6 +433,7 @@ The attacker’s aim is to destroy the wagons and loot
 them for bounty. The scenario is designed for 2000 point
 armies.
 
+[#wagon-train-special-rules]
 === Special rules
 
 // halfway
@@ -453,6 +470,7 @@ wagons.
 The game ends when one side withdraws or in a pre-agreed
 way (see <<how-long-does-the-battle-last>>).
 
+[#wagon-train-victory-points]
 === Victory points
 
 // every → each

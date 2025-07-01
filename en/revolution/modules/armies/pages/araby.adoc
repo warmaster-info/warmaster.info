@@ -72,6 +72,7 @@ camel mounted warriors from the lands to the south and east.
 
 image::araby/araby.webp[]
 
+[#army-selector]
 == Araby army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -79,6 +80,7 @@ image::araby/araby.webp[]
 include::partial$araby.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -210,8 +212,10 @@ image::araby/hero.webp[]
 
 image::araby/wizard.webp[]
 
+[#spells]
 == Araby spells
 
+[#sand-storm]
 === Sand Storm
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -229,6 +233,7 @@ All enemy units within 30cm of the Arabian Sorcerer suffer a
 is issued. For example, a unit might therefore be within 30cm
 of the Sorcerer for one order but not for a second, for example.
 
+[#mirage]
 === Mirage
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
@@ -257,6 +262,7 @@ cast any other spells – if the player wishes the Wizard to cast a
 new spell the Mirage comes to an end and the Wizard can then
 attempt a new spell as normal.
 
+[#sunstrike]
 === Sunstrike
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -275,6 +281,7 @@ Engaged units cannot be driven back but carry over any hits
 that are scored into the first round of combat. Hits caused by
 the Sunstrike count as having been struck in the combat itself.
 
+[#curse-of-the-djinn]
 === Curse of the Djinn
 
 [.cost]#6+ to cast# [.points]#Rage 30cm#

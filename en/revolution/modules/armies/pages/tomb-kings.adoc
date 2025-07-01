@@ -64,6 +64,7 @@ of the lives that they once led.
 
 image::tomb-kings/tomb-kings.webp[]
 
+[#army-selector]
 == Tomb kings army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -71,8 +72,10 @@ image::tomb-kings/tomb-kings.webp[]
 include::partial$tomb-kings.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Undead:: Undead units never act on initiative. An Undead unit
@@ -88,6 +91,7 @@ fighting terrifying troops.
 Undead units are unaffected by the Confusion rule – they
 cannot become confused for any reason.
 
+[#special-special-rules]
 === Special rules
 
 ////
@@ -142,8 +146,10 @@ A character riding a chariot adds +1 to his Attacks.
 
 image::tomb-kings/tomb-king.webp[]
 
+[#spells]
 == Tomb King spells
 
+[#raise-dead]
 === Raise Dead
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -176,6 +182,7 @@ fails. Raised dead do not count as charging in the first round of
 combat. Raised dead are ignored for working out break point
 and victory points at the end of the game.
 
+[#touch-of-death]
 === Touch of Death
 
 [.cost]#4+ to cast# [.points]#Range N/A#
@@ -192,6 +199,7 @@ Any hits scored are carried over into the first round of combat
 and count as having been struck in the first round for purposes
 of working out combat results.
 
+[#doom-and-despair]
 === Doom and Despair
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
@@ -211,6 +219,7 @@ otherwise obliged to charge, pursue, or advance will not do so
 if affected by Doom and Despair. Note that even other Undead
 are not immune – they are overcome by the ennui of the tomb!
 
+[#death-bolt]
 === Death Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

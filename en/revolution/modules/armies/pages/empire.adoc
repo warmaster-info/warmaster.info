@@ -55,6 +55,7 @@ issue from the mountain passes every spring.
 
 image::empire/empire.webp[]
 
+[#army-selector]
 == Empire army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -62,6 +63,7 @@ image::empire/empire.webp[]
 include::partial$empire.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -229,6 +231,7 @@ spell once during the battle. The player must announce that he
 is using the power of the War Altar before rolling the dice for
 the spell.
 
+[#spells]
 == Empire spells
 
 include::partial$empire-spells.adoc[]

@@ -75,6 +75,7 @@ battlefield conditions.
 
 image::nippon/infantry.webp[]
 
+[#army-selector]
 == Nippon army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -82,8 +83,10 @@ image::nippon/infantry.webp[]
 include::partial$nippon.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Honour and Duty:: A Nipponese army mustered for war is
@@ -98,6 +101,7 @@ nine units are destroyed.
 
 image::nippon/shrine.webp[]
 
+[#special-special-rules]
 === Special rules
 
 // 4: for the purpose

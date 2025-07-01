@@ -13,6 +13,7 @@ fighting is represented by means of the rules in this
 section.
 
 [.h-bo5a]
+[#combat-sequence]
 == Combat sequence
 
 ////
@@ -80,6 +81,7 @@ those fighting (see <<advance>>).
 |===
 ****
 
+[#combat-engagement]
 == Combat engagement
 
 ////
@@ -114,6 +116,7 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 [.moved]
 --
 [discrete]
+[#moving-chargers]
 == Moving chargers
 
 [.moved]
@@ -123,78 +126,91 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 [%collapsible]
 ====
 [discrete]
+[#sequence-of-charges]
 === Sequence of charges
 
 [.moved]
 → Moved to xref:movement.adoc#sequence-of-charges[Sequence of charges].
 
 [discrete]
+[#enemy-in-sight]
 === Enemy in sight
 
 [.moved]
 → Moved to xref:movement.adoc#enemy-in-sight[Enemy in sight].
 
 [discrete]
+[#zones]
 === Zones
 
 [.moved]
 → Moved to xref:movement.adoc#front-flank-and-rear[Front, flank and rear].
 
 [discrete]
+[#the-charge-move]
 === The charge move
 
 [.moved]
 → Moved to xref:movement.adoc#the-charge-move[The charge move].
 
 [discrete]
+[#forming-a-battle-line]
 === Forming a battle line
 
 [.moved]
 → Moved to xref:movement.adoc#forming-a-battle-line[Forming a battle line].
 
 [discrete]
+[#contact-with-other-enemy]
 === Contact with other enemy
 
 [.moved]
 → Moved to xref:movement.adoc#contact-with-other-enemy[Contact with other enemy].
 
 [discrete]
+[#exceptions-anomalies]
 === Exceptions & anomalies
 
 [.moved]
 → Moved to xref:movement.adoc#exceptions-anomalies[Exceptions & anomalies].
 
 [discrete]
+[#unable-to-contact-centre-to-centre]
 === Unable to contact centre-to-centre
 
 [.moved]
 → Moved to xref:movement.adoc#unable-to-contact-centre-to-centre[Unable to contact centre-to-centre].
 
 [discrete]
+[#unable-to-form-a-battle-line]
 === Unable to form a battle line
 
 [.moved]
 → Moved to xref:movement.adoc#unable-to-form-a-battle-line[Unable to form a battle line].
 
 [discrete]
+[#blocked-edges]
 === Blocked edges
 
 [.moved]
 → Moved to xref:movement.adoc#blocked-edges[Blocked edges].
 
 [discrete]
+[#pinned-targets]
 === Pinned targets
 
 [.moved]
 → Moved to xref:movement.adoc#pinned-targets[Pinned targets].
 
 [discrete]
+[#irregular-formations]
 === Irregular formations
 
 [.moved]
 → Moved to xref:movement.adoc#irregular-formations[Irregular formations].
 
 [discrete]
+[#enveloping-charge]
 === Enveloping charge
 
 [.moved]
@@ -204,6 +220,7 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 
 image::combat-phase/dwarf-slayer-hero.webp[]
 
+[#attacks]
 == Attacks
 
 // "can" removed to align with Q&A.
@@ -212,6 +229,7 @@ engaged in [.qa]#combat fight# in the Combat phase.
 [.bo5a]#Both sides make their attacks and either
 side can potentially win any combat engagement.#
 
+[#attack-value]
 === Attack value
 
 All stands have an Attack value which determines how
@@ -279,6 +297,7 @@ following list of priorities:
 
 image::combat-phase/dark-elves.webp[]
 
+[#attack-modifiers]
 === Attack modifiers
 
 ****
@@ -288,6 +307,7 @@ situations by means of bonuses or penalties.
 include::partial$combat-attack-modifiers.adoc[]
 ****
 
+[#charging-against-enemy-in-the-open]
 ==== Charging against enemy in the open
 
 // Extra space e.g.
@@ -298,6 +318,7 @@ enemy are not in the open, i.e. when a stand is fighting
 against infantry or artillery in a defended or fortified
 position as described later.
 
+[#monster-chariot-charging]
 ==== Monster/chariot charging
 
 This bonus is applied to Monster and Chariot stands
@@ -305,6 +326,7 @@ charging in addition to the basic charging bonus. This
 means that Monsters and Chariots receive a total bonus
 of +2 when charging against enemy stands in the open.
 
+[#pursuit-attack]
 ==== Pursuit attack
 
 This bonus applies to stands from pursuing units that
@@ -314,6 +336,7 @@ Pursuit bonuses only apply in subsequent rounds of
 combat, including the first round of unresolved combats
 fought in the previous turn.
 
+[#pursuit-attack-per-full-3cm]
 ==== Pursuit attack per full 3cm
 
 This bonus applies to stands whose units pursue enemies
@@ -324,6 +347,7 @@ enemy retreats adds a further +1. So a unit which forces
 its enemy to retreat 6cm gets a +1 pursuit bonus plus a
 further +1 for each full 3cm, making +3 in total.
 
+[#fighting-terrifying-enemy]
 ==== Fighting terrifying enemy
 
 This penalty applies to all individual stands which
@@ -334,6 +358,7 @@ which are terrifying themselves... you can’t terrify a
 terrifying creature! Creatures which terrorise their foes
 are indicated in the Army List section.
 
+[#enemy-facing-own-side-or-rear]
 ==== Enemy facing own side or rear
 
 This penalty applies to individual stands which have an
@@ -343,6 +368,7 @@ enemy front edges and corners impose this penalty.
 Opposing stands touching side to side don’t impose a
 mutual penalty for example.
 
+[#confused]
 ==== Confused
 
 This penalty applies to all stands in a confused unit.
@@ -350,6 +376,7 @@ Units can become confused as a result of missile fire
 or by moving into other friendly units or impassable
 terrain. See the section on xref:confusion.adoc[Confusion].
 
+[#the-last-ditch-dice]
 ==== The last ditch dice
 
 Attack modifiers can potentially reduce a stand’s Attack
@@ -358,6 +385,7 @@ Attack dice regardless.
 
 image::combat-phase/harpy-hero.webp[]
 
+[#how-to-calculate-damage]
 === How to calculate damage
 
 To work out the damage inflicted by a unit in combat,
@@ -374,6 +402,7 @@ the enemy.
 If enemies are in defended or fortified positions, the roll
 needed to hit will be 5+ and 6 respectively. See <<defended-fortified-troops>>.
 
+[#armour]
 === Armour
 
 As already described for shooting, if a unit has armour
@@ -389,6 +418,7 @@ them.
 
 include::partial$divider-axe.adoc[]
 
+[#casualties]
 === Casualties
 
 A stand can take a number of hits before it is destroyed,
@@ -442,6 +472,7 @@ forward into the next.
 
 image::combat-phase/wolf-rider.webp[]
 
+[#combat-results]
 == Combat results
 
 After [.bo5a]#all# units have attacked it is time to work out the result. If one side is destroyed then the combat is automatically
@@ -454,6 +485,7 @@ only count actual hits taken. Excess hits are ignored for purposes of working ou
 ****
 --
 [discrete]
+[#hits-equal-draw]
 == Hits Equal – Draw!
 
 If both sides score the same number of hits, the result is a draw and both sides must *fall back.*
@@ -468,6 +500,7 @@ falling back. Players may decide to fall back with such units if they prefer. Se
 for rules about fighting in defended and fortified positions.
 
 [discrete]
+[#one-side-scores-more-hits-win]
 == One Side Scores More Hits – Win!
 
 If one side scores more hits than the other, it wins the combat round.
@@ -500,6 +533,7 @@ existing one. See [.edit]#<<pursuit-and-destroyed-enemy>>#.
 ****
 
 [.h-bo5a]
+[#support]
 === Support
 
 [.qa]#Infantry stands adjacent to fighting infantry units
@@ -539,6 +573,7 @@ causalities. Units benefit from support throughout a
 combat round even where causalities might remove
 supported or supporting stands.
 
+[#supporting-combat]
 === Supporting combat
 
 // Bo5a rules differ
@@ -557,11 +592,13 @@ interlinked via the supporting unit.
 
 [discrete]
 [.moved]
+[#supporting-charges]
 === Supporting charges
 
 [.moved]
 → Moved to xref:movement.adoc#supporting-charges[Movement, Supporting charges].
 
+[#retreats]
 == Retreats
 
 A unit that loses a combat round must retreat by the
@@ -637,6 +674,7 @@ that stands have a path to their final position.
 
 image::combat-phase/fan.webp[]
 
+[#blocked-retreats]
 === Blocked retreats
 
 A retreating stand is destroyed if its retreat move is
@@ -691,6 +729,7 @@ longer engaged in combat, one of the remaining stands is
 automatically destroyed. [.edit]#The# owning player decides which
 [.edit]#stand to remove#.
 
+[#retreating-units-and-incidental-contacts]
 === Retreating units and incidental contacts
 
 A stand can potentially retreat into contact – but not
@@ -704,6 +743,7 @@ on what the winner decides to do.
 
 image::combat-phase/retreat-incidental-contact.svg[id=retreat-incidental-contact]
 
+[#retreating-artillery]
 === Retreating artillery
 
 An artillery unit which is forced to retreat is
@@ -711,6 +751,7 @@ automatically destroyed. Its weapons are overrun and the
 crew massacred or scattered beyond hope of recovery.
 
 [.h-bo5a]
+[#winners]
 == Winners
 
 A winning unit can stand, fall back, pursue, or in the
@@ -729,6 +770,7 @@ to make way and removed any stands whose retreat is
 blocked.
 
 [.bo5a]
+[#stand]
 === Stand
 
 If a unit stands, it simply stays where it is and does not move.
@@ -736,6 +778,7 @@ If a unit stands, it simply stays where it is and does not move.
 [.wmr]
 image::combat-phase/skeleton-infantry.webp[]
 
+[#pursuit]
 == Pursuit
 
 A unit which wins the first round of an engagement can
@@ -750,6 +793,7 @@ following turn.
 The Q&A has a xref:questions-and-answers.adoc#wrapping-pursuit[detailed example with diagrams] showing a full combat sequence including pursuit.
 ====
 
+[#which-units-can-pursue]
 === Which units can pursue?
 
 A victorious unit can pursue enemies retreating from
@@ -792,6 +836,7 @@ irregular formation in the round it charged. For
 further exceptions see <<infantry-contact-with-cavalry>>.
 ****
 
+[#moving-pursuers]
 === Moving pursuers
 
 // NB The whole Pursuit section is significantly edited for Bo5A,
@@ -833,6 +878,7 @@ again by a circuitous route.
 
 image::combat-phase/punk-orc.webp[]
 
+[#basic-pursuit]
 === Basic pursuit
 
 Choose a unit to make a pursuit move. Every stand that
@@ -864,6 +910,7 @@ turn.
 
 image::combat-phase/pursuit-direct.svg[id=pursuit-direct]
 
+[#indirect-pursuit]
 === Indirect pursuit
 
 Occasionally, you will find that no stands can pursue by
@@ -881,6 +928,7 @@ for basic pursuits.
 
 image::combat-phase/pursuit-indirect.svg[id=pursuit-indirect]
 
+[#supporting-pursuits]
 === Supporting pursuits
 
 A unit that cannot see a retreating enemy cannot pursue
@@ -922,6 +970,7 @@ supporting position.
 
 include::partial$divider-axe.adoc[]
 
+[#incidental-contact]
 === Incidental contact
 
 When moving a pursuer into contact with retreating
@@ -961,6 +1010,7 @@ If the incidental contact occurs as a result of a second
 round of combat, the newly engaged units do not get to
 fight in this combat phase.
 
+[#infantry-contact-with-cavalry]
 === Infantry contact with cavalry
 
 It can sometimes happen that infantry maintain contact
@@ -979,6 +1029,7 @@ non-flying units pursuing flyers.
 
 image::combat-phase/pursuit-maintain-contact.svg[id=pursuit-maintain-contact]
 
+[#impossible-to-pursue]
 === Impossible to pursue
 
 It can happen that it is impossible for a unit to pursue
@@ -992,6 +1043,7 @@ allowed to <<advance>> instead.
 
 image::combat-phase/goblin-wolves.webp[]
 
+[#pursuit-and-destroyed-enemy]
 === Pursuit and destroyed enemy
 
 A unit is destroyed once all of its stands have been
@@ -1001,6 +1053,7 @@ been entirely destroyed. In such a case the victorious
 units can advance. Pursuit is not possible because there
 are no retreating enemies to pursue against. See <<advance>>.
 
+[#pursuit-and-combat-dropouts]
 === Pursuit and combat dropouts
 
 It can happen that several units retreat on one side but
@@ -1016,6 +1069,7 @@ by pursuers during subsequent rounds of combat, in
 which case they are treated as new incidental contacts.
 See <<incidental-contact>>.
 
+[#pursuit-in-terrain]
 === Pursuit in terrain
 
 Visibility within woods [.edit]#and villages# is restricted to 2cm for
@@ -1028,6 +1082,7 @@ that combatants would actually move together without
 one side necessarily losing sight of the other as they
 retreat.
 
+[#advance]
 == Advance
 
 // Bold altered
@@ -1111,6 +1166,7 @@ combat, the advancing unit gets a charge bonus as
 per normal charge.
 ****
 
+[#fall-backs]
 == Fall backs
 
 In a drawn combat both sides must fall back unless one
@@ -1168,6 +1224,7 @@ dint of being within 1cm of enemy.
 
 image::combat-phase/village.webp[]
 
+[#moving-back]
 === Moving back
 
 When a unit falls back, the player selects any one stand
@@ -1188,6 +1245,7 @@ image::combat-phase/fall-back-line.svg[id=fall-back-line]
 .{empty}
 image::combat-phase/fall-back-corner.svg[id=fall-back-corner]
 
+[#unresolved-combats]
 == Unresolved combats
 
 // Spelling pursue fixed
@@ -1209,6 +1267,7 @@ players which bonuses apply to which combatants.
 // Bo5A has rules on Reforming, not included in WMR.
 // Reason: https://www.specialist-arms.com/forum/index.php?topic=8716.0
 
+[#remove-odd-hits]
 == Remove odd hits
 
 Once all combat engagements have been fought, remove
@@ -1220,6 +1279,7 @@ units that are only supporting.
 
 image::combat-phase/cold-combat.webp[]
 
+[#defended-fortified-troops]
 == Defended & fortified troops
 
 Only infantry, flying troops, and giants can move into
@@ -1254,6 +1314,7 @@ chart below.
 |All other targets/circumstances |4+
 |===
 
+[#defended]
 === Defended
 
 A stand is defended if it is placed wholly or partially;
@@ -1280,6 +1341,7 @@ charged from the direction it can get advantage of the
 terrain feature, e.g. from the other side of the fence or
 up the hill slope.
 
+[#fortified]
 === Fortified
 
 A stand is fortified if it is placed on the ramparts of a
@@ -1294,6 +1356,7 @@ it is constructed and positioned in such a way that troops
 must resort to climbing or scrambling up a steep slope in
 order to attack.
 
+[#defended-fortified-enemy]
 === Defended & fortified enemy
 
 Only infantry, flying troops, and giants can move into

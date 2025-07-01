@@ -68,6 +68,7 @@ protect themselves from the sun’s rays.
 
 image::goblins/goblins.webp[]
 
+[#army-selector]
 == Goblin army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -75,6 +76,7 @@ image::goblins/goblins.webp[]
 include::partial$goblins.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -155,8 +157,10 @@ Wyvern rider causes terror in its enemies.
 
 image::goblins/wolf-riders.webp[]
 
+[#spells]
 == Goblin spells
 
+[#mork-save-uz]
 === Mork Save Uz!
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -170,6 +174,7 @@ manner until the beginning of their next turn. If the unit
 already has a saving roll then it can choose which one to make,
 but may not take both.
 
+[#gerroff]
 === Gerroff!!!
 
 [.cost]#5+ to cast# [.points]#Range 60cm#
@@ -188,6 +193,7 @@ the shortest route to the table edge. A unit cannot be routed by
 a drive back from a Gerroff spell. If the unit leaves the table
 edge it must roll as described in the main Warmaster rules.
 
+[#brain-busta]
 === Brain Busta
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -202,6 +208,7 @@ saves have no effect (all targets count as having no armour).
 A unit can be driven back by Brain Busta as with ordinary
 shooting.
 
+[#waaagh]
 === Waaagh!
 
 [.cost]#4+ to cast# [.points]#Range 30cm#

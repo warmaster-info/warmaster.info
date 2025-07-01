@@ -8,6 +8,7 @@ works out how many victory points it has scored. The
 higher your score the better you have done and the
 player who scores the most is the winner.
 
+[#turns-complete]
 == Turns complete
 
 Many players like to play to the bitter end, others prefer
@@ -22,6 +23,7 @@ players may agree on random end during the battle. Roll
 a dice at the end of 5th, 6th and 7th turn. On roll 4+ the
 battle ends. Battle definitively ends at the end of 8th turn.
 
+[#player-concedes]
 == Player concedes
 
 A player may surrender at any time he wishes. If he
@@ -29,6 +31,7 @@ surrenders then his army earns no victory points.
 
 image::end-of-the-battle/hero-dog.webp[]
 
+[#withdraw]
 == Withdraw
 
 An army is forced to withdraw in two circumstances. It
@@ -58,6 +61,7 @@ Victory points are calculated to establish the victor.
 
 include::partial$divider-sword.adoc[]
 
+[#victory-points]
 == Victory points
 
 Victory points are earned as follows:

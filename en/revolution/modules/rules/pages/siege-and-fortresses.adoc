@@ -1,5 +1,6 @@
 = Siege & Fortresses
 
+[#introduction]
 == Introduction
 
 In the game of Warmaster it is possible to represent
@@ -29,6 +30,7 @@ uncomplicated Siege games.#
 That does not mean that [.edit]#longer# Siege Campaigns cannot be
 supported by these rules. Special scenarios or campaigns might still follow.
 
+[#model-fortresses]
 == Model fortresses
 
 Walls, castles and towers can be handmade from card, plastic,
@@ -53,6 +55,7 @@ sections between 40 to 50mm, so when building a castle you
 should consider either making sections of this width or
 at least think of a way of marking those sections.
 
+[#general-siege-rules]
 == General siege rules
 
 Generally in siege scenarios the Breakpoint for both
@@ -86,6 +89,7 @@ tower, this includes the entirety of the tower.
 //defined in the Warmaster rulebook as well as the rules
 //that follow.
 
+[#movement]
 == Movement
 
 High walls, tall towers and substantial tall buildings are
@@ -140,6 +144,7 @@ This is explained further under <<assaults>>.
 // Moved to end of paragraph
 image::siege-and-fortresses/moon.webp[]
 
+[#shooting]
 == Shooting
 
 Fortress walls, towers and gateways are sturdy constructions,
@@ -185,6 +190,7 @@ friendly troops on lower ramparts or the ground.
 
 image::siege-and-fortresses/crossbowmen.webp[]
 
+[#structure-tests]
 == Structure tests
 
 To resolve the effect of hits on a wall, gate or tower
@@ -249,6 +255,7 @@ tower is destroyed when it collapses. Where practical,
 the tower should be replaced with model rubble to show
 that it has collapsed.
 
+[#battering]
 == Battering
 
 Walls, towers and gates can also be breached by means
@@ -308,6 +315,7 @@ allowed to advance into the next enemy he can see.
 
 image::siege-and-fortresses/siege-tower.webp[]
 
+[#breaches]
 == Breaches
 
 When a breach is caused, either by the destruction of a
@@ -380,6 +388,7 @@ the wall or tower itself has been knocked down.
 // Removed "and breaches" as it's mostly not about them,
 // promote to level 2.
 [.h-edit]
+[#gateways]
 == Gateways
 
 // General: a door or gate is the piece of wood,
@@ -468,6 +477,7 @@ attacks in the same way as if an adjacent wall section
 
 include::partial$divider-sword.adoc[]
 
+[#assaults]
 == Assaults
 
 It is possible for infantry to attack an enemy on the
@@ -566,6 +576,7 @@ thrown back and must retreat in the usual manner.
 The defenders remain in place. Defenders will not (and
 cannot!) pursue over ramparts.
 
+[#counter-attacks-on-ramparts]
 === Counter attacks on ramparts
 
 Once attackers have taken a fortress’ walls it is likely
@@ -634,6 +645,7 @@ away from the Ogres.
 
 image::siege-and-fortresses/elves-planning.webp[]
 
+[#giants]
 == Giants
 
 // "Warhammer" changed to "Warmaster"
@@ -662,6 +674,7 @@ he must fight the defenders instead. When attempting
 to batter walls, each Giant inflicts one automatic hit and
 damage is calculated in the same way as for Rams.
 
+[#towers]
 == Towers
 
 // Mistaken paragraph break removed
@@ -804,6 +817,7 @@ the attackers.
 
 image::siege-and-fortresses/defended-tower.webp[]
 
+[#flyers-attacking-fortifications]
 == Flyers attacking fortifications
 
 Flyers may attack fortified targets in the same way as
@@ -833,6 +847,7 @@ attacks cannot be used against them.
 
 image::siege-and-fortresses/dragon-ogre.webp[]
 
+[#character-movement]
 == Character movement
 
 As commanders are too valuable to risk their lives
@@ -847,6 +862,7 @@ enemy unit it [.edit]#must# join a friendly unit within 30cm.
 The buildings or the height of the walls do not restrict
 the movement of the character, [.edit]#regardless of any mount#.
 
+[#magic]
 == Magic
 
 [.edit]#Fortress builders are wise to the ways of wizards and
@@ -869,6 +885,7 @@ any units in combat.
 // FROM HERE
 // TODO TODO TODO TODO TODO
 
+[#siege-machines]
 == Siege machines
 
 No besieging army would be complete without siege
@@ -888,6 +905,7 @@ Sows may use initiative to attack the nearest wall section
 
 image::siege-and-fortresses/siege.webp[]
 
+[#siege-towers]
 === Siege towers
 
 [.unit,frame=none]
@@ -1003,6 +1021,7 @@ walls count as being defended from a Siege Tower rather
 than being fortified. Targets in higher towers still count
 as being fortified.
 
+[#battering-rams]
 === Battering rams
 
 [.unit,frame=none]
@@ -1057,6 +1076,7 @@ time.
 
 image::siege-and-fortresses/battering-ram-unit.svg[id=fbattering-ram-unit]
 
+[#sows]
 === Sows
 
 [.unit,frame=none]
@@ -1081,6 +1101,7 @@ effectively means the Sow counts as destroyed.
 
 image::siege-and-fortresses/sow.webp[]
 
+[#mantlets]
 === Mantlets
 
 These are large mobile shields made from stout wood.
@@ -1115,6 +1136,7 @@ overturned or cast aside and removed from the battle.
 // Picture moved here from below
 image::siege-and-fortresses/mantlets.webp[]
 
+[#boiling-oil-or-rock-droppers]
 === Boiling oil or rock droppers
 
 Defenders are liable to throw anything they can get
@@ -1180,6 +1202,7 @@ armour saves.
 
 image::siege-and-fortresses/projectiles.webp[]
 
+[#tribock]
 === Tribock
 
 [.unit,frame=none]
@@ -1221,6 +1244,7 @@ units that charge it.
 
 image::siege-and-fortresses/tribock.webp[]
 
+[#bombard]
 == Bombard
 
 [.unit,frame=none]
@@ -1259,6 +1283,7 @@ Bombards may not be used by Elves or Bretonnians.
 
 image::siege-and-fortresses/bombard.webp[]
 
+[#mangonel]
 === Mangonel
 
 [.unit,frame=none]
@@ -1289,6 +1314,7 @@ Earthworks
 
 image::siege-and-fortresses/mangonel.webp[]
 
+[#earthworks]
 === Earthworks
 
 These are defensive works built by both defending
@@ -1327,6 +1353,7 @@ declare exactly which earthwork sections each stand is
 attacking, as each 40×10mm section is effectively counted
 as a separate unit for these purposes.
 
+[#log-rams]
 === Log rams
 
 Log rams are effectively Battering rams but without
@@ -1359,6 +1386,7 @@ unit has to retreat 1cm.
 
 image::siege-and-fortresses/log-rams.webp[]
 
+[#ladders]
 === Ladders
 
 Infantry units may only assault the walls of a fortress
@@ -1368,6 +1396,7 @@ based as cavalry cannot climb ladders.
 
 image::siege-and-fortresses/ladders.webp[]
 
+[#siege-equipment-lists]
 == Siege equipment lists
 
 There are three distinct siege equipment lists; the
@@ -1387,6 +1416,7 @@ No army may ever have more than two wallbreaching
 artillery per 1000 points. Remember that also cannons
 and rock lobbers count as wall breaching!
 
+[#fortification]
 == Fortification
 
 [.unit,frame=none]
@@ -1404,6 +1434,7 @@ and rock lobbers count as wall breaching!
 |Earthwork      |Building |– |–     |Special |– |40×10mm |15  |–/– |†3, †4
 |===
 
+[#fortification-special-rules]
 === Special rules
 
 **†1** Only defenders are allowed to invest points into
@@ -1433,6 +1464,7 @@ and rolling a 6 with their attacks.
 
 image::siege-and-fortresses/cannon-hill.webp[]
 
+[#siege-equipment-list]
 == Siege equipment list
 
 [.unit,frame=none]
@@ -1449,6 +1481,7 @@ rock dropper    |Machine |– |–  |Special |– |1 |5  |–/– |†1
 |Battering ram  |Machine |1 |3  |3+      |– |1 |10 |–/– |†2, †3, †5
 |===
 
+[#siege-equipment-special-rules]
 === Special rules
 
 **†1** Defenders Only – Only defenders in a siege scenario
@@ -1464,6 +1497,7 @@ charging or are driven back more than half their move.
 
 **†5** Rams always make one automatic hit when battering.
 
+[#siege-artillery-list]
 == Siege artillery list
 
 [.unit,frame=none]
@@ -1492,8 +1526,10 @@ Cannons.
 in the corridor that extends straight forward in the width
 of the front edge.
 
+[#scenarios]
 == Scenarios
 
+[#into-the-breach]
 === Into the breach
 
 ‘Into the breach’ can be played on a 1.2×1.2m (4′×4′) table.
@@ -1503,6 +1539,7 @@ his points in fortifications, but only has to pay for the
 front side of the fortress i.e. the one facing the enemy.
 The other sides are of no relevance.
 
+[#set-up]
 ==== Set-up
 
 // Spelling centre
@@ -1529,6 +1566,7 @@ same in the next turn. The game ends automatically after
 
 The attacker has the first move.
 
+[#victory-conditions]
 ==== Victory conditions
 
 // Spelling/bold: neither/nor.
@@ -1548,6 +1586,7 @@ image::siege-and-fortresses/elephant-rider.webp[]
 
 image::siege-and-fortresses/into-the-breach.svg[id=f-into-the-breach]
 
+[#the-watchtower]
 === The watchtower
 
 The Watch Tower can be played on a 1.8×1.2m (6′×4′) table
@@ -1569,6 +1608,7 @@ defending troops are the relief force.
 
 The attacker may only buy sows or mantlets.
 
+[#set-up]
 ==== Set-up
 
 The watchtower is placed in the middle of the table with
@@ -1597,6 +1637,7 @@ if the units were placed just outside the table edge). The
 relief force may be ordered immediately.
 
 // Heading level increased
+[#special-situations]
 ==== Special situations
 
 Characters may not join units defending the tower.
@@ -1617,6 +1658,7 @@ the game units defending the tower may not leave it nor
 may any defending units enter the tower to restock the
 troops in there (even if the gate would be accessible).
 
+[#victory-conditions]
 ==== Victory conditions
 
 The game ends after 8 turns.

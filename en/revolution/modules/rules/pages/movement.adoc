@@ -21,6 +21,7 @@ covers all the general movement rules for units including rules
 for various types of terrain. Rules for moving characters can be
 found under the xref:characters.adoc[Generals, Heroes and Wizards] section.
 
+[#movement-distances]
 == Movement distances
 
 [.bo5a]#The maximum distance a unit can move depends upon its troop
@@ -63,6 +64,7 @@ don’t need to worry about these oddities.
 image::movement/daemon.webp[]
 
 [.h-bo5a]
+[#formation]
 == Formation
 
 ////
@@ -140,6 +142,7 @@ distances are not affected by the unit’s formation.
 include::partial$divider-axe.adoc[]
 
 [.h-bo5a]
+[#the-move]
 == The move
 
 When moving a unit, move each stand one at a time.
@@ -210,6 +213,7 @@ The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Move
 image::movement/helm.webp[]
 
 [.h-bo5a]
+[#moving-through-gaps]
 === Moving through gaps
 
 When a stand moves, it can be oriented to pass through
@@ -266,6 +270,7 @@ image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
 
 [discrete]
 [.moved]
+[#moving-by-initiative]
 == Moving by initiative
 
 [.moved]
@@ -274,6 +279,7 @@ image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
 image::movement/anvil.webp[]
 
 [.h-bo5a]
+[#the-evade]
 == The evade
 
 ////
@@ -353,6 +359,7 @@ image::movement/treemen.webp[]
 
 [discrete]
 [.moved]
+[#character-movement]
 === Character movement
 
 [.moved]
@@ -361,6 +368,7 @@ image::movement/treemen.webp[]
 image::movement/sun.webp[]
 
 [.h-bo5a]
+[#the-charge]
 == The charge
 // Moved from Combat chapter (was Moving Chargers)
 
@@ -370,6 +378,7 @@ obvious way. Many of the following rules are intended
 to overcome any unusual circumstances you might come
 across where care may be needed.
 
+[#sequence-of-charges]
 === Sequence of charges
 
 The term ‘charge’ describes a unit’s movement into
@@ -394,6 +403,7 @@ regardless of the unit’s formation at the stand of the move.
 
 image::combat-phase/orc-boss.webp[]
 
+[#enemy-in-sight]
 === Enemy in sight
 
 At least one stand from the charging unit must be able to
@@ -409,6 +419,7 @@ care when deciding which units to move and
 in what sequence.
 
 [.h-bo5a]
+[#front-flank-and-rear]
 === Front, flank and rear
 
 [.bo5a]
@@ -452,6 +463,7 @@ to decide – e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
 
 image::combat-phase/chaos-knights.webp[]
 
+[#the-charge-move]
 === The charge move
 
 In most situations it is a simple matter to position the
@@ -509,6 +521,7 @@ image::combat-phase/maximise-frontage-1.svg[id=maximise-frontage-1]
 
 image::combat-phase/chaos-knight-hero.webp[]
 
+[#forming-a-battle-line]
 === Forming a battle line
 
 Once the first charging stand has been positioned, the
@@ -543,6 +556,7 @@ stands will be drawn into the combat.
 
 image::combat-phase/dwarf-warriors.webp[]
 
+[#contact-with-other-enemy]
 === Contact with other enemy
 
 If there are other enemy units adjacent to the target unit
@@ -564,6 +578,7 @@ shoot at the chargers as described in the Shooting section.
 
 image::combat-phase/helm.webp[]
 
+[#supporting-charges]
 === Supporting charges
 
 // Moved from Combat section.  It's maybe not ideal to have
@@ -611,6 +626,7 @@ to join combat by moving into the *supporting position*.
 
 image::combat-phase/sword-banner.webp[]
 
+[#exceptions-anomalies]
 === Exceptions & anomalies
 
 In some situations the proximity of scenery or other
@@ -620,6 +636,7 @@ charge is not permitted, in others that chargers can
 be repositioned to accommodate the situation. These
 circumstances are covered in the following rules sections.
 
+[#unable-to-contact-centre-to-centre]
 === Unable to contact centre-to-centre
 
 The first charging stand is always positioned centre-to-centre
@@ -637,6 +654,7 @@ image::combat-phase/charge-blocked.svg[id=charge-blocked]
 
 image::combat-phase/dwarf-hero.webp[]
 
+[#unable-to-form-a-battle-line]
 === Unable to form a battle line
 
 If a stand has insufficient room or insufficient move
@@ -663,6 +681,7 @@ Shooting section.
 .{empty}
 image::combat-phase/unable-to-form-a-battle-line.svg[id=f-unable-to-form-a-battle-line]
 
+[#blocked-edges]
 === Blocked edges
 
 // Spelling available
@@ -691,6 +710,7 @@ front edge and the charger is positioned in the target’s
 front zone. The exception to this is a ‘pinned’ enemy unit
 as described below.
 
+[#pinned-targets]
 === Pinned targets
 
 If the indicated edge of the entire enemy target unit
@@ -720,6 +740,7 @@ charge edge-to-edge. See <<f-pinned-target>>.
 .{empty}
 image::combat-phase/pinned-target.webp[id=f-pinned-target]
 
+[#irregular-formations]
 === Irregular formations
 
 If the target unit is in irregular formation then it might
@@ -741,6 +762,7 @@ their front.
 
 image::combat-phase/irregular-formations.svg[id=f-irregular-formations]
 
+[#enveloping-charge]
 === Enveloping charge
 
 The ‘envelop’ rule applies when a unit is charged in the
@@ -790,6 +812,7 @@ image::combat-phase/enveloping-charge.svg[id=f-enveloping-charge]
 
 image::combat-phase/battle-view.webp[id=battle-view]
 
+[#units-which-move-off-the-table]
 == Units which move off the table
 
 Sometimes units or characters are obliged to move
@@ -857,6 +880,7 @@ xref:end-of-the-battle.adoc[End of the Battle] section.
 
 image::movement/griffon.webp[]
 
+[#terrain]
 == Terrain
 
 [.edit]
@@ -964,6 +988,7 @@ By the same token, troops further inside the woods or village
 can see and be seen by other troops up to 2cm away.
 
 [.h-edit]
+[#types-of-terrain]
 === Types of terrain
 
 // Minor spelling/grammar
@@ -1119,6 +1144,7 @@ include::partial$terrain-restrictions.tsv[]
 ****
 
 [.h-bo5a]
+[#units-forced-into-impenetrable-terrain]
 === Units forced into impenetrable terrain
 
 The rules occasionally oblige units to move into terrain they

@@ -51,6 +51,7 @@ for the sins they may have committed.
 
 image::witch-hunters/witch-hunters.webp[]
 
+[#army-selector]
 == Witch Hunter army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -58,8 +59,10 @@ image::witch-hunters/witch-hunters.webp[]
 include::partial$witch-hunters.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 // Add the, the
@@ -69,6 +72,7 @@ Beastmen army, Chaos Dwarf army and Skaven army. ‘Undead’
 means the Tomb Kings army and Vampire Counts army
 (including units of Ghouls!).
 
+[#special-special-rules]
 === Special rules
 
 ////
@@ -123,8 +127,10 @@ xref:rules:artillery-and-machines.adoc#cannons[Cannons] in the Warmaster Ruleboo
 
 image::witch-hunters/pistoliers.webp[]
 
+[#spells]
 == Witch Hunter spells
 
+[#sanctuary]
 === Sanctuary
 
 [.cost]#5+ to cast# [.points]#Range N/A#
@@ -139,6 +145,7 @@ Cavalry units, even though they are not normally able to receive
 this bonus. The effect lasts until the unit moves or Priest leaves
 it or he casts another spell.
 
+[#doctrine-of-sigmar]
 === Doctrine of Sigmar
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -155,6 +162,7 @@ The unit can be moved just as if it had received an order in the
 Command phase. Character stands that have joined the unit
 will not move with it: they remain where they are.
 
+[#holy-fervour]
 === Holy Fervour
 
 [.cost]#4+ to cast# [.points]#Range N/A#
@@ -166,6 +174,7 @@ The Wizard must be with the unit to affect it. If successfully
 cast on a friendly unit, each stand including character stands
 gains +1 Attack during the following Combat phase.
 
+[#divine-curse]
 === Divine Curse
 
 [.cost]#4+ to cast# [.points]#Range 30cm#

@@ -65,6 +65,7 @@ inhabitants.
 
 image::ogre-kingdoms/ogre-kingdoms.webp[]
 
+[#army-selector]
 == Ogre Kingdoms army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -72,6 +73,7 @@ image::ogre-kingdoms/ogre-kingdoms.webp[]
 include::partial$ogre-kingdoms.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -152,8 +154,10 @@ huge beast causes terror in enemies.
 
 image::ogre-kingdoms/infantry.webp[]
 
+[#spells]
 == Ogre Kingdoms spells
 
+[#tooth-cracker]
 === Tooth Cracker
 
 [.cost]#3+ to cast# [.points]#Range 30cm#
@@ -166,6 +170,7 @@ the Butcher more than a couple of teeth._
 Target friendly unit can’t be driven back or confused until your
 next turn.
 
+[#bone-cruncher]
 === Bone Cruncher
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -179,6 +184,7 @@ Counts as three shooting attacks with no armour save. The spell
 causes drive back as for normal shooting. The Wizard must be
 able to see the target and can’t cast the spell into a combat.
 
+[#bull-gorger]
 === Bull Gorger
 
 [.cost]#4+ to cast# [.points]#Range N/A#
@@ -192,6 +198,7 @@ The spell adds +1 Attack for each stand in a unit the Butcher
 has joined, including his own stand. The spell lasts for the
 duration of the following Combat phase.
 
+[#troll-guts]
 === Troll Guts
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

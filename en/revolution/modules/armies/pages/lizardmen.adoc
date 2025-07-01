@@ -75,6 +75,7 @@ to this day the intent of the Old Ones if not their understanding.
 
 image::lizardmen/lizardmen.webp[]
 
+[#army-selector]
 == Lizardmen army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -82,8 +83,10 @@ image::lizardmen/lizardmen.webp[]
 include::partial$lizardmen.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Born in Jungle:: No command penalty is applied to any units
@@ -93,6 +96,7 @@ terrain and they are used to communicating through thick
 jungle and narrow tunnels by a mix of instinct and bizarre sub-sonic
 noises inaudible to other races.
 
+[#special-special-rules]
 === Special rules
 
 [[skinks,†1]]1. Skinks:: Skinks have a shooting range of 15cm and 360° vision –
@@ -199,8 +203,10 @@ terror. No other character can ride a Carnosaur.
 
 image::lizardmen/slann.webp[]
 
+[#spells]
 == Lizardmen spells
 
+[#gaze-of-sotek]
 === Gaze of Sotek
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -218,6 +224,7 @@ attacks except that armour has no effect (all targets count as
 having no armour). A unit can be driven back by the Gaze of
 Sotek as with ordinary shooting.
 
+[#mazdamundis-revenge]
 === Mazdamundi’s Revenge
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
@@ -236,6 +243,7 @@ in combat will not pursue or advance. Even units that are
 otherwise obliged to charge, pursue, or advance will not do so
 if affected by Mazdamundi’s Revenge.
 
+[#wings-of-the-jungle]
 === Wings of the Jungle
 
 [.cost]#5+ to cast# [.points]#Range N/A#
@@ -254,6 +262,7 @@ and remains joined with it. Other character stands that have
 joined the unit will not move with it: they remain where they
 are.
 
+[#shield-of-the-old-ones]
 === Shield of the Old Ones
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

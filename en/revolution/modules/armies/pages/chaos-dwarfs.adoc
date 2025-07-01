@@ -65,6 +65,7 @@ west, work at the enterprises of the Chaos Dwarfs.
 
 image::chaos-dwarfs/chaos-dwarfs.webp[]
 
+[#army-selector]
 == Chaos Dwarf army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -72,6 +73,7 @@ image::chaos-dwarfs/chaos-dwarfs.webp[]
 include::partial$chaos-dwarfs.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -183,8 +185,10 @@ spell.
 
 image::chaos-dwarfs/earthshaker.webp[]
 
+[#spells]
 == Chaos Dwarf spells
 
+[#flaming-hand]
 === Flaming Hand
 
 [.cost]#4+ to cast# [.points]#Range N/A#
@@ -199,6 +203,7 @@ worked out in the usual way. Any hits scored are carried over
 into the first round of combat and count as having been struck
 in combat.
 
+[#volcanic-eruption]
 === Volcanic Eruption
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
@@ -213,6 +218,7 @@ hits scored into the first round of combat and hits caused by the
 Volcanic Eruption count as having been struck in the combat
 itself.
 
+[#word-of-fear]
 === Word of Fear
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -225,6 +231,7 @@ This spell can only be cast on any friendly unit within range
 regardless of whether the Sorcerer can see it or not. The unit
 counts as causing terror for the duration of the Combat phase.
 
+[#meteor-storm]
 === Meteor Storm
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

@@ -1,14 +1,17 @@
 = Shooting at a Glance
 :page-role: -toc at-a-glance
 
+[#targets]
 == Targets
 
 . Units shoot once per turn at the closest visible enemy unit.
 
+[#range]
 == Range
 
 . Most missile armed troops can shoot at the enemy up to 30cm away.
 
+[#attacks]
 == Attacks
 
 . Total the Attack value for the shooting unit.
@@ -22,6 +25,7 @@ Rolls of 6+ are needed to score hits on a fortified target.
 . Record final hits scored.
 . Remove stands where sufficient hits are scored.
 
+[#drive-back]
 == Drive back
 
 . Roll a dice for each hit taken, rolling 1 less dice for defended units and 2 less
@@ -35,11 +39,13 @@ Rolls of 6+ are needed to score hits on a fortified target.
 . Friendly units making way for driven back units are confused on the roll of a 6.
 . A unit driven back further than its full pace move is destroyed.
 
+[#shooting-at-chargers]
 == Shooting at chargers
 
 . Hits inflicted on chargers carry over into the first combat round.
 . Chargers cannot be driven back.
 
+[#disregard-odd-hits]
 == Disregard odd hits
 
 . At the end of the Shooting phase any odd hits are disregarded.

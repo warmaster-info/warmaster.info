@@ -53,6 +53,7 @@ Riders, Khalag’s Sure Shots, and the renowned Golgfag’s Ogres.
 
 image::regiments-of-renown/birdmen.webp[]
 
+[#army-selector]
 == Regiments of Renown army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -60,8 +61,10 @@ image::regiments-of-renown/birdmen.webp[]
 include::partial$regiments-of-renown.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 // Everywhere: RoR → Regiments of Renown
@@ -115,6 +118,7 @@ roll a dice and decide who got the ‘authentic’ one and who
 ‘impersonated’ one. Roll just for fun, without impact in the
 further game.
 
+[#unit-rules]
 === Unit rules
 
 ////
@@ -258,6 +262,7 @@ include::partial$regiments-of-renown-allies-table.tsv[]
 ·:: Not available for this army.
 ****
 
+[#hiring-regiments-of-renown]
 === Hiring Regiments of Renown
 
 // In the whole section, p → points

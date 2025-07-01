@@ -72,6 +72,7 @@ life of ease and luxury.
 
 image::dogs-of-war/dogs-of-war.webp[]
 
+[#army-selector]
 == Dogs of War army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -79,6 +80,7 @@ image::dogs-of-war/dogs-of-war.webp[]
 include::partial$dogs-of-war.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -179,6 +181,7 @@ causes terror in its enemies.
 
 image::dogs-of-war/infantry.webp[]
 
+[#spells]
 == Dogs of War spells
 
 include::partial$empire-spells.adoc[]

@@ -85,6 +85,7 @@ of the Dwarfs.
 
 image::dwarfs/anvil.webp[]
 
+[#army-selector]
 == Dwarf army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -92,6 +93,7 @@ image::dwarfs/anvil.webp[]
 include::partial$dwarfs.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 [[handgunners,†1]]1. Handgunners:: A handgun shot can pierce armour far more

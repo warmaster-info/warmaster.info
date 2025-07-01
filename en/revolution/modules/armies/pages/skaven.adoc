@@ -64,6 +64,7 @@ sorcerers of the Skaven Race.
 
 image::skaven/skaven.webp[]
 
+[#army-selector]
 == Skaven army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -71,8 +72,10 @@ image::skaven/skaven.webp[]
 include::partial$skaven.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Strength in Numbers:: Brigades may be of any size and are not
@@ -92,6 +95,7 @@ Generals have a Command range of 20cm. Skaven are very
 good at directing their underlings – but only so long as they
 remain close at hand. We call it ‘under the lash’.
 
+[#special-special-rules]
 === Special rules
 
 ////
@@ -204,8 +208,10 @@ adds +1 to his Attacks.
 
 image::skaven/hero.webp[]
 
+[#spells]
 == Skaven spells
 
+[#wither]
 === Wither
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -220,6 +226,7 @@ the duration of the following Combat phase. Every stand in the
 unit, including characters that have joined the unit, deducts −1
 from its Attacks value.
 
+[#warp-lightning]
 === Warp Lightning
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -236,6 +243,7 @@ except that armour has no effect (all targets count as having no
 armour). A unit can be driven back by Warp Lightning as with
 ordinary shooting.
 
+[#death-frenzy]
 === Death Frenzy
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -268,6 +276,7 @@ Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each
 round. 1+4+1 = 6 Attacks upon the Skaven unit in the first
 round.
 
+[#plague]
 === Plague
 
 [.cost]#6+ to cast# [.points]#Range 30cm#

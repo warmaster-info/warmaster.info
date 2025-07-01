@@ -69,6 +69,7 @@ pay and regular meals.
 
 image::cathay/cathay.webp[]
 
+[#army-selector]
 == Cathay army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -76,8 +77,10 @@ image::cathay/cathay.webp[]
 include::partial$cathay.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Structure and Discipline:: To reflect their empire’s high-quality
@@ -87,6 +90,7 @@ of the usual 4. However, those 6-unit brigades must include at
 least 2 units of Bannermen. The 6-unit brigade cannot include
 chariots, cavalry, or Terracotta Warriors.
 
+[#special-special-rules]
 === Special rules
 
 ////
@@ -165,8 +169,10 @@ magic before rolling to see if the spell works.
 
 image::cathay/maneaters.webp[]
 
+[#spells]
 == Cathay spells
 
+[#glory-of-cathay]
 === Glory of Cathay
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -185,6 +191,7 @@ When a unit shoots twice due to Glory of Cathay the second
 shot is always at a minus 1 penalty and will therefore hit on a
 5+.
 
+[#lion-dogs-attack]
 === Lion Dogs Attack
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -201,6 +208,7 @@ not pursue or advance. Even units that are otherwise obliged
 to charge, pursue, or advance will not do so if affected by this
 spell.
 
+[#ferocity-of-tigers]
 === Ferocity of Tigers
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -216,6 +224,7 @@ target or not. The spell lasts for the duration of the following
 combat phase. Every stand in the unit adds +1 to its attacks
 value. The unit also becomes immune to terror.
 
+[#tranquility-of-heaven]
 === Tranquility of Heaven
 
 [.cost]#5+ to cast# [.points]#Range 15cm#

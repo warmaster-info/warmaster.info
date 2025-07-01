@@ -43,6 +43,7 @@ sating the murderous desires that gleam in their blood-red eyes.
 
 image::beastmen/beastmen.webp[]
 
+[#army-selector]
 == Beastmen army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -50,14 +51,17 @@ image::beastmen/beastmen.webp[]
 include::partial$beastmen.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 The things in the woods:: Beastmen infantry do not suffer the
 usual −1 Command penalty when within woodland.
 
 // Heading is missing in book
+[#special-special-rules]
 === Special rules
 
 ////
@@ -157,8 +161,10 @@ Chariot. A character riding a chariot adds +1 to his Attacks.
 
 image::beastmen/infantry.webp[]
 
+[#spells]
 == Beastmen spells
 
+[#traitor-kin]
 === Traitor Kin
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -173,6 +179,7 @@ player’s next turn. Whilst the spell lasts the unit cannot use
 its Initiative. Any order given to the unit, or to any brigade of
 which the unit is a part, suffers a −1 Command penalty.
 
+[#hunting-for-gore]
 === Hunting for Gore!
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -189,6 +196,7 @@ moved just as if it had received an order in the Command phase.
 Character stands that have joined the unit will not move with
 it – they remain where they are.
 
+[#chaos-bolt]
 === Chaos Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -204,6 +212,7 @@ like three ordinary shooting attacks except that armour has no
 effect (all targets count as having no armour). A unit can be
 driven back by a Chaos Bolt as with ordinary shooting.
 
+[#power-of-herd]
 === Power of Herd
 
 [.cost]#6+ to cast# [.points]#Range 30cm#

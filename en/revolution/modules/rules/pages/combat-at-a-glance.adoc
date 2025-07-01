@@ -1,11 +1,13 @@
 = Combat at a Glance
 :page-role: -toc at-a-glance
 
+[#combat-engagement]
 == Combat engagement
 
 . Interlinked units form a single combat engagement. Work out results for each
   engagement separately.
 
+[#attacks]
 == Attacks
 
 . Total the Attack value for each unit.
@@ -17,6 +19,7 @@
 . Record hits scored.
 . Remove stands where sufficient hits are scored.
 
+[#results]
 == Results
 
 . Compare the hits scored by each side.
@@ -26,6 +29,7 @@
 |===
 .3+^a|
 [discrete]
+[#draw]
 === Draw!
 |Both sides score the same hits.
 |Both sides fall back from zero cm (but at least 1cm from the enemy) to
@@ -34,6 +38,7 @@
 
 .4+^a|
 [discrete]
+[#win]
 === Win!
 |One side scores more hits.
 |Losers retreat by the difference (divided by number of units in
@@ -43,12 +48,14 @@ multiple combats rounded up).
 
 .2+^a|
 [discrete]
+[#aftermath]
 === Aftermath!
 |If winner pursues in the first round, fight a second round.
 |If winner pursues in the second round, leave the combat
 unresolved.
 |===
 
+[#pursuit-advance]
 == Pursuit / Advance
 
 . Infantry [.bo5a]#cannot# pursue retreating cavalry or chariots unless infantry charged their
@@ -59,10 +66,12 @@ unresolved.
 . Advancing units charge nearest visible enemy unit within 20cm.
 . [.bo5a]#All pursuing, advancing or retreating units lose defended or fortified status.#
 
+[#attack-modifiers]
 == Attack modifiers
 
 include::partial$combat-attack-modifiers.adoc[]
 
+[#end-of-combat]
 == End of combat
 
 . At the end of the Combat phase, any odd hits are discounted from units that are

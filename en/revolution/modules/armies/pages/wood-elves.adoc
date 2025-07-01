@@ -50,6 +50,7 @@ death awaits.
 
 image::wood-elves/wood-elves.webp[]
 
+[#army-selector]
 == Wood Elf army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -57,14 +58,17 @@ image::wood-elves/wood-elves.webp[]
 include::partial$wood-elves.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Woodland Folk:: Due to living amongst the forests of Loren
 all Wood Elf infantry does not suffer the usual −1 Command
 penalty when within woodland.
 
+[#special-special-rules]
 === Special rules
 
 ////
@@ -176,8 +180,10 @@ include::partial$dragon.adoc[]
 
 image::wood-elves/infantry.webp[]
 
+[#spells]
 == Wood Elf spells
 
+[#tree-singing]
 === Tree Singing
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -192,6 +198,7 @@ can see them or not. The spell lasts until the start of the caster’s
 next turn, or until the target unit moves in any way. The target
 Infantry unit counts as Defended, even if it is in open terrain.
 
+[#twilight-host]
 === Twilight Host
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -200,6 +207,7 @@ _A weird enchantment forms around the target unit._
 
 The target unit causes terror until Wood Elf next magic phase.
 
+[#call-of-the-hunt]
 === Call of the Hunt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -212,6 +220,7 @@ Unit may make a charge move into contact with the nearest
 visible enemy unit in the same way as when charging. Enemy
 may not shoot at chargers.
 
+[#fury-of-the-forest]
 === Fury of the Forest
 
 [.cost]#6+ to cast# [.points]#Range 60cm#

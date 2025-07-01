@@ -59,6 +59,7 @@ Gospodars.
 
 image::kislev/kislev.webp[]
 
+[#army-selector]
 == Kislev army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -66,6 +67,7 @@ image::kislev/kislev.webp[]
 include::partial$kislev.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 [[winged-lancers,†1]]1. Winged Lancers:: Winged Lancers receive +1 Attack in the
@@ -170,8 +172,10 @@ used before rolling for the spell.
 
 image::kislev/general.webp[]
 
+[#spells]
 == Kislev spells
 
+[#monster-bear]
 === Monster Bear!
 
 [.cost]#5+ to cast# [.points]#Range N/A#
@@ -188,6 +192,7 @@ bonus that he adds to the unit in the regular way. Note that if
 the Tzarina uses this spell she adds +4 Attacks: +2 as General
 and +2 from Monster Bear.
 
+[#icy-blast]
 === Icy Blast
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -202,6 +207,7 @@ like three ordinary shooting attacks except that armour has no
 effect (all targets count as having no armour). A unit can be
 driven back by an Icy Blast as with ordinary shooting.
 
+[#chill]
 === Chill
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -216,6 +222,7 @@ the duration of the following Combat phase. Every stand in the
 unit, including characters that have joined the unit, deducts −1
 from its Attacks value.
 
+[#freeze]
 === Freeze
 
 [.cost]#6+ to cast# [.points]#Range 60cm#

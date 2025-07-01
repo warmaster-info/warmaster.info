@@ -5,6 +5,7 @@ armies make use of some sort of sorcery so it is
 important to have a grasp of the arcane abilities that lie
 at your command.
 
+[#spells]
 == Spells
 
 Only Wizards can cast spells. The term ‘Wizard’ includes
@@ -14,6 +15,7 @@ Every army’s magic is different and some are better
 than others as we shall see. Individual spells are listed in
 the xref:revolution:armies:index.adoc[Army Lists].
 
+[#magic-items]
 == Magic items
 
 Magic items are devices such as banners, swords or
@@ -30,6 +32,7 @@ Magic items cannot be given to monsters or war
 machines. Some items can only be given to characters or
 to a Wizard as described later.
 
+[#casting-spells]
 == Casting spells
 
 In his Shooting phase, each Wizard can cast one spell
@@ -94,6 +97,7 @@ selectively augmenting conventional weaponry, but are
 prohibited from picking out single units for annihilation
 with the same destructive spell cast over and over again.
 
+[#magic-items]
 == Magic items
 
 Our armies rely on brute strength, courage and
@@ -117,6 +121,7 @@ and Heroes).
 // Moved earlier
 image::magic/witch.webp[]
 
+[#magic-standards]
 === Magic standards
 
 // Spelling available
@@ -140,6 +145,7 @@ may only appear in an army once. You cannot have two
 Banners of Fortitude or three Swords of Cleaving, for
 example.
 
+[#battle-banner]
 ==== The Battle Banner
 
 [.cost]#Cost# [.points]#30 pts#
@@ -151,6 +157,7 @@ battle, including rounds of pursuit combat during the same
 engagement and any further engagements which result from
 an advance.
 
+[#banner-of-shielding]
 ==== The Banner of Shielding
 
 [.cost]#Cost – superior (units with Armour 4+ only)# [.points]#50 pts#
@@ -167,6 +174,7 @@ of 3+ then this banner has no effect. This bonus lasts until the
 unit loses a stand. After the unit has lost a stand, the banner
 has no further effect.
 
+[#banner-of-fortitude]
 ==== The Banner of Fortitude
 
 [.cost]#Cost – major (units with 4 Hits only)# [.points]#50 pts#
@@ -182,6 +190,7 @@ from an advance. Discard odd hits at the end of the Combat
 engagement before discounting the effect of the Banner of
 Fortitude.
 
+[#banner-of-steadfastness]
 ==== The Banner of Steadfastness
 
 [.cost]#Cost – superior (units with 4+ Armour only)# [.points]#20 pts#
@@ -197,6 +206,7 @@ spells inflicted in the Shooting phase. This effect lasts until the
 unit loses a stand. After the unit has lost a stand the banner has
 no further effect.
 
+[#banner-of-fortune]
 ==== The Banner of Fortune
 
 [.cost]#Cost# [.points]#15 pts#
@@ -213,12 +223,14 @@ Fortune works only once during the game.
 
 image::magic/boar-riders.webp[]
 
+[#magic-weapons]
 === Magic weapons
 
 _Magic weapons can be carried by an infantry, cavalry or chariot
 unit or by a character. Only a single example of each type of
 magic weapon can be included in an army._
 
+[#sword-of-destruction]
 ==== Sword of Destruction
 
 [.cost]#Cost# [.points]#10 pts#
@@ -229,6 +241,7 @@ of combat. For example, if three hits are scored and one is saved by
 armour then the successful roll must be taken again. Only one enemy
 unit can be affected by this.
 
+[#sword-of-fate]
 ==== Sword of Fate
 
 [.cost]#Cost# [.points]#5 pts#
@@ -239,6 +252,7 @@ Attack bonus of a character. The Sword of Fate only works once in
 the entire game. Note that this gives +1 Attack in total and not +1 to
 each stand!
 
+[#sword-of-cleaving]
 ==== Sword of Cleaving
 
 [.cost]#Cost# [.points]#10 pts#
@@ -246,6 +260,7 @@ each stand!
 A unit with this sword can re-roll one unsuccessful Attack dice each
 round of combat.
 
+[#sword-of-might]
 ==== Sword of Might
 
 [.cost]#Cost# [.points]#10 pts#
@@ -257,11 +272,13 @@ stand, similar to the Attack bonus of a character. Note that this gives
 // Added to separate section
 include::partial$divider-sword.adoc[]
 
+[#devices-of-power]
 === Devices of power
 
 _Devices of power can be carried by characters. Only a single
 example of each device can be included in an army._
 
+[#crown-of-command]
 ==== Crown of Command
 
 [.cost]#General only# [.points]#70 pts#
@@ -273,6 +290,7 @@ only applies to the General’s first order each turn, subsequent orders
 must be given normally. Should the General fail to issue his first order,
 by rolling an 11 or 12, then the Crown of Command ceases to work.
 
+[#helm-of-dominion]
 ==== Helm of Dominion
 
 [.cost]#General only# [.points]#40 pts#
@@ -283,6 +301,7 @@ up to a maximum value of 10. The Helm of Dominion works for one
 turn only during the entire battle, the player must specify at the start
 of the turn if he wishes to employ its powers.
 
+[#orb-of-majesty]
 ==== Orb of Majesty
 
 [.cost]#General only# [.points]#30 pts#
@@ -297,6 +316,7 @@ issuing orders in the usual way with his normal Command value.
 The Orb of Majesty will only work once in the entire game and only
 affects an order that has been issued by the General.
 
+[#ring-of-magic]
 ==== Ring of Magic
 
 [.cost]#Wizard only# [.points]#30 pts#
@@ -304,6 +324,7 @@ affects an order that has been issued by the General.
 A Wizard with this ring is able to cast a spell without making the usual
 dice roll to do so. This item will only work once in the entire game.
 
+[#staff-of-spellbinding]
 ==== Staff of Spellbinding
 
 [.cost]#Wizard or Dwarf Runesmith only# [.points]#30 pts#
@@ -314,6 +335,7 @@ tries to cast a spell. The Staff of Spellbinding ceases to work once it has
 been used successfully. It follows that only one enemy Wizard can be
 spellbound as a result.
 
+[#sceptre-of-sovreignty]
 ==== Sceptre of Sovreignty
 
 [.cost]#General only# [.points]#30 pts#
@@ -327,6 +349,7 @@ Command test is passed and the character may continue issuing orders
 as normal. The steely will of the Sceptre of Sovereignty reaches out and
 stays the incompetent wretch before the deed is done.
 
+[#scroll-of-dispelling]
 ==== Scroll of Dispelling
 
 [.cost]#Wizard or Dwarf runesmith only# [.points]#20 pts#
@@ -337,6 +360,7 @@ once to nullify the effect of a spell an enemy Wizard has successfully
 cast. In the case of a Runesmith, the Scroll can be used after a normal
 Dwarf anti-magic roll has failed.
 
+[#wand-of-power]
 ==== Wand of Power
 
 [.cost]#Wizard only# [.points]#10 pts#
@@ -346,6 +370,7 @@ working once during the game. The player must decide that he is using
 the Wand of Power before rolling the dice. As always a spell fails on
 the roll of a 1 even when using the Wand of Power.
 
+[#rod-of-repetition]
 ==== Rod of Repetition
 
 [.cost]#Wizard only# [.points]#10 pts#

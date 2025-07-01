@@ -41,6 +41,7 @@ Mead Hall, but very useful on the battlefield.
 
 image::norse/norse.webp[]
 
+[#army-selector]
 == Norse army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -48,6 +49,7 @@ image::norse/norse.webp[]
 include::partial$norse.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -125,8 +127,10 @@ the Horn is used the Shaman inspires the units around him to
 fight harder. He may add +1 to all of his Command checks for
 a single turn only.
 
+[#spells]
 == Norse spells
 
+[#aspect-of-wulfen]
 === Aspect of Wulfen
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -138,6 +142,7 @@ This spell can only be cast on any friendly unit within range
 regardless of whether the Shaman can see it or not. The unit
 counts as causing terror for the duration of the Combat phase.
 
+[#thunder-of-fowor]
 === Thunder of Fo’Wor
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -162,6 +167,7 @@ of Fo’Wor but carry over any hits scored into the first round
 of combat; any hits scored count as having been struck in the
 combat itself.
 
+[#eye-of-the-raven]
 === Eye of the Raven
 
 [.cost]#5+ to cast# [.points]#Range N/A#
@@ -190,6 +196,7 @@ successful command.
 Only one Eye of the Raven spell may be
 in effect per turn.
 
+[#spite-of-lowkey]
 === Spite of Low’Key
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

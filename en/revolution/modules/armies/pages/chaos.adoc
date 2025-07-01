@@ -58,6 +58,7 @@ of Praag destroyed.
 
 image::chaos/chaos.webp[]
 
+[#army-selector]
 == Chaos army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -65,6 +66,7 @@ image::chaos/chaos.webp[]
 include::partial$chaos.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 [[ogres,†1]]1. Ogres:: If an Ogre unit can use its initiative to charge an enemy
@@ -118,8 +120,10 @@ Chariots. An extra +1 Attack is added to those of its rider.
 
 image::chaos/warriors.webp[]
 
+[#spells]
 == Chaos spells
 
+[#boon-of-chaos]
 === Boon of Chaos
 
 [.cost]#4+ to cast# [.points]#Range N/A#
@@ -137,6 +141,7 @@ the unit to cast the spell this includes the Sorcerer himself, but
 it is possible for other characters to join the unit as well, in
 which case the +1 is applied to whichever character fights.
 
+[#anger-of-the-gods]
 === Anger of the Gods
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -156,6 +161,7 @@ Command penalty. This penalty is applied when each order is
 issued: a unit might therefore be within 30cm of the Sorcerer
 for one order but not for a second, for example.
 
+[#rage-of-chaos]
 === Rage of Chaos
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -189,6 +195,7 @@ the first round of combat: they are not struck each round.
 Example, 1 + 4 + 6 = 11 extra attacks for the Chaos unit each
 round. 1 + 4 + 1 = 6 Attacks upon the Chaos unit in the first round.
 
+[#curse-of-chaos]
 === Curse of Chaos
 
 [.cost]#5+ to cast# [.points]#Range 30cm#

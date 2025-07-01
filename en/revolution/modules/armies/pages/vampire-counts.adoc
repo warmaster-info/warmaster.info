@@ -64,6 +64,7 @@ the moon.
 
 image::vampire-counts/vampire-counts.webp[]
 
+[#army-selector]
 == Vampire Counts army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -71,8 +72,10 @@ image::vampire-counts/vampire-counts.webp[]
 include::partial$vampire-counts.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 The following rules for Undead apply to all units except for
@@ -94,6 +97,7 @@ fighting terrifying troops.
 Undead units are unaffected by the Confusion rule – they
 cannot become confused for any reason.
 
+[#special-special-rules]
 === Special rules
 
 [[ethereal-host,†1]]1. Ethereal Host:: Ethereal Host Attacks always inflict a hit on
@@ -135,8 +139,10 @@ its enemies.
 
 image::vampire-counts/nightmare.webp[]
 
+[#spells]
 == Vampire Counts spells
 
+[#raise-dead]
 === Raise Dead
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -169,6 +175,7 @@ fails. Raised dead do not count as charging in the first round of
 combat. Raised dead are ignored for working out break point
 and victory points at the end of the game.
 
+[#vanhels-danse-macabre]
 === Vanhel’s Danse Macabre
 
 [.cost]#5+ to cast# [.points]#Range 40cm#
@@ -186,6 +193,7 @@ The unit can be moved just as if it had received an order in the
 Command phase. Character stands that have joined the unit
 will not move with it: they remain where they are.
 
+[#death-bolt]
 === Death Bolt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -200,6 +208,7 @@ except that armour has no effect (all targets count as having
 no armour). A unit can be driven back by Deathbolt as with
 ordinary shooting.
 
+[#curse-of-years]
 === Curse of Years
 
 [.cost]#6+ to cast# [.points]#Range N/A#

@@ -6,6 +6,7 @@ impassable terrain or in the Shooting phase when a unit is driven back by missil
 we have summarised all the circumstances where units can become confused in this section,
 [.bo5a]#together with the rules for making way.#
 
+[#when-do-units-become-confused]
 == When do units become confused?
 
 // First one is not in Bo5A.
@@ -83,6 +84,7 @@ make way at the same time. In these situations make the
 appropriate number of tests.
 
 [.h-bo5a]
+[#retreats-confusion]
 == Retreats & confusion
 
 ////
@@ -105,6 +107,7 @@ rules for Combat for details on xref:combat.adoc#retreats[retreats from combat].
 
 image::confusion/hammer-infantry.webp[]
 
+[#confused-units]
 == Confused units
 
 A confused unit is judged to have become disheartened
@@ -142,6 +145,7 @@ it is often better to use a marker or turn a stand round,
 as disturbing the unit’s formation may make it hard to
 work out retreat moves.
 
+[#making-way]
 == Making way
 
 Unengaged units are allowed to make way for friendly
@@ -155,6 +159,7 @@ When a unit makes way, stands can move up to the
 normal move distance for their formation. When a unit
 makes way, it can either *move aside* or *move back*.
 
+[#moving-aside]
 === Moving aside
 
 When moving aside, [.bo5a]#those# stands in the path of the friendly
@@ -178,6 +183,7 @@ image::confusion/moving-aside.svg[id=f-moving-aside]
 
 image::confusion/troll.webp[]
 
+[#moving-back]
 === Moving back
 
 When moving back, a unit simply keeps pace with its
@@ -198,6 +204,7 @@ its friends and stands can be arranged into support. See
 image::confusion/move-back.svg[id=f-move-back]
 
 [.h-bo5a]
+[#tests-for-making-way]
 === Tests for making way
 
 Making way for friendly troops may result in several

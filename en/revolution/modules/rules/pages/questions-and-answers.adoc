@@ -5,6 +5,7 @@ This Questions and Answers section can be found in https://drive.google.com/file
 [.qa]
 [.qa]#Small edits within the main rules to incorporate these clarifications are shown like this.#
 
+[#general-questions]
 == General questions
 
 [#more-units]
@@ -82,6 +83,7 @@ This means the enemy will hit them on a 5+ and enemy chargers gain no Charge bon
 xref:combat.adoc#attack-modifiers[Combat – Attack modifiers],
 xref:combat.adoc#defended-fortified-enemy[Defended & fortified enemy].
 
+[#line-of-sight-questions]
 == Line of sight questions
 
 [#los-when]
@@ -137,6 +139,7 @@ between them.
 → Rulebook: xref:game-values.adoc#the-effect-of-terrain[Game Values – The effect of terrain],
 xref:movement.adoc#terrain[Movement – Terrain].
 
+[#movement-questions]
 == Movement questions
 
 [#pivot]
@@ -221,6 +224,7 @@ without touching any adjacent enemy stands, it will do this.
 xref:movement.adoc#forming-a-battle-line[Forming a battle line],
 xref:movement.adoc#contact-with-other-enemy[Contact with other enemy]
 
+[#forming-a-battle-line]
 ==== Forming a battle line
 
 Each stand must be placed in the battle line in
@@ -252,6 +256,7 @@ maximised frontage. This charge is illegal.
 image::questions-and-answers/maximise-frontage-illegal.svg[]
 ====
 
+[#contact-with-other-enemy]
 ==== Contact with other enemy
 
 If there are other enemy units adjacent to the
@@ -306,6 +311,7 @@ more than 20cm from *all* friendly characters
 
 → Rulebook: xref:flying-units.adoc#home-back[Flying Units – Home back].
 
+[#combat-questions]
 == Combat questions
 
 [#combat-required]
@@ -457,6 +463,7 @@ works in the same way as cavalry being charged into flank or rear by infantry.
 
 → Rulebook: xref:combat.adoc#which-units-can-pursue[Combat – Which units can pursue?].
 
+[#unit-specific-questions]
 == Unit specific questions
 
 [#trolls-regenerate]

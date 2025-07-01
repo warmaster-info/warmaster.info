@@ -54,6 +54,7 @@ many a theologist has been burned for saying as much.
 
 image::daemons/daemons.webp[]
 
+[#army-selector]
 == Daemon army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -61,8 +62,10 @@ image::daemons/daemons.webp[]
 include::partial$daemons.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
+[#army-rules]
 === Army rules
 
 Ignore Terror:: All units ignore the −1 Attack penalty in combat
@@ -103,6 +106,7 @@ direction. If it is impossible to position the stand in
 in this manner then the stand cannot be added.
 |===
 
+[#special-special-rules]
 === Special rules
 
 [[daemon-swarms,†1]]1. Daemon Swarms:: These cannot be driven back by shooting
@@ -146,8 +150,10 @@ Warmaster rulebook.
 
 image::daemons/infantry.webp[]
 
+[#spells]
 == Daemonic spells
 
+[#summon-daemons]
 === Summon Daemons
 
 [.cost]#4+ to cast# [.points]#Range 60cm#
@@ -167,6 +173,7 @@ and will count as charging if the unit charged. If it is impossible
 to position the stand in this manner, the spell cannot be cast
 and will not work.
 
+[#daemonic-rage]
 === Daemonic Rage
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -182,6 +189,7 @@ Every unit gains a bonus +1 attack. This attack can be allocated
 to any stand in the unit and can be allocated to a different stand
 in each combat round.
 
+[#sorcerous-blast]
 === Sorcerous Blast
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -199,6 +207,7 @@ attacks except that armour has no effect (all targets count as
 having no armour). A unit can be driven back by a Sorcerous
 Blast as with ordinary shooting.
 
+[#frenzy-of-chaos]
 === Frenzy of Chaos
 
 [.cost]#6+ to cast# [.points]#Range 30cm#

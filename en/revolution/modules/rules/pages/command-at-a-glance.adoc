@@ -2,6 +2,7 @@
 :page-role: -toc at-a-glance
 
 [.bo5a]
+[#sequence]
 == Sequence
 
 [.bo5a]
@@ -11,6 +12,7 @@
 . Characters
 
 [.bo5a]
+[#initiative]
 == Initiative
 
 [.bo5a]
@@ -25,11 +27,13 @@
 ////
 
 [.h-edit]
+[#home-back]
 == Home back
 
 // Copied from WMR later
 . Flying units more than 20cm from [.edit]#all friendly# characters can xref::flying-units.adoc#home-back[home back] up to 1D6 × 10cm towards any character before orders are issued.
 
+[#orders]
 == Orders
 
 . [.bo5a]#A unit can move once each time it is given an order.#
@@ -46,6 +50,7 @@
 . If the General fails to give an order, no further orders can be given by
   any other characters.
 
+[#command-penalties]
 == Command penalties
 
 [cols="<,^",frame=none,grid=rows]
@@ -58,6 +63,7 @@
 |===
 
 [.h-bo5a]
+[#brigade-orders]
 == Brigade orders
 
 // Bo5A words this slightly differently.
@@ -65,6 +71,7 @@
 . Units moving as a brigade complete their entire move as a brigade unless one
   or more units are charging.
 
+[#charge]
 == Charge
 
 . A unit that moves into [.bo5a]#contact with# an enemy is said to have charged.
@@ -74,6 +81,7 @@
 
 // Moved (by me) from the Movement-at-a-glance page, as the rules are in this section.
 [.h-edit]
+[#generals-wizards-heroes]
 == Generals, Wizards & Heroes
 
 . Characters move once [.edit]#in the Characters sub-phase# and can move up to 60cm.

@@ -50,6 +50,7 @@ The distances moved by each type of unit vary, and are given in
 the Movement section.
 
 [.h-bo5a]
+[#initiative-movement]
 == Initiative movement
 
 ////
@@ -186,6 +187,7 @@ xref::combat-phase.adoc#combat-engagement[Combat phase section] for rules for ch
 ////
 
 [.ancients]
+[#sequence-of-movement]
 === Sequence of movement
 
 ////
@@ -235,6 +237,7 @@ image::movement/initiative-charge-1.webp[id=initiative-charge-1]
 image::movement/initiative-charge-2.webp[id=initiative-charge-2]
 
 [.ancients]
+[#charge-or-evade]
 === Charge or evade
 
 [.ancients]
@@ -247,6 +250,7 @@ described in the Movement section.
 image::the-command-phase/giant.webp[]
 
 [.h-ancients]
+[#orders]
 == Orders
 
 Issuing orders is one of the most important features
@@ -278,6 +282,7 @@ order, it is moved and can be given a further order and
 moved again, up to a maximum of *three* times in total.
 This process is described in detail in the rules that follow.
 
+[#giving-an-order]
 === Giving an order
 
 The player [.bo5a]#first nominates a unit a unit that#
@@ -300,6 +305,7 @@ limited extent.
 // NB: Half-pace failed orders not in Ancients/Bo5A.
 
 [.h-bo5a]
+[#order-sequence]
 === Order sequence
 
 Once a character has begun to issue orders, he must
@@ -343,6 +349,7 @@ nearby enemy action and killed).
 
 image::the-command-phase/skinks.webp[]
 
+[#giving-further-orders]
 === Giving further orders
 
 When a unit is given an order, it moves to a new position.
@@ -376,6 +383,7 @@ annoying things that bedevil the process of waging war.
 
 image::the-command-phase/goblins.webp[]
 
+[#command-penalties]
 == Command penalties
 
 Circumstances can sometimes make it harder to issue an
@@ -389,6 +397,7 @@ we apply the following penalties:
 // Reformatted with headings similar to Bo5A
 
 [.h-bo5a]
+[#distance]
 === Distance
 
 If the distance between the character and the unit you
@@ -409,6 +418,7 @@ way, measure the shortest distance between them.
 |===
 
 [.h-bo5a]
+[#multiple-orders]
 === Multiple orders
 
 If a unit has already been issued an order during the
@@ -429,6 +439,7 @@ is at −1, its third order is at −2.
 |===
 
 [.h-bo5a]
+[#enemy-close]
 === Enemy close
 
 If the distance between the unit you wish to move
@@ -448,6 +459,7 @@ harder to give them a specific order.
 |===
 
 [.h-bo5a]
+[#dense-terrain]
 === Dense terrain
 
 If the unit you want to move is in dense terrain then
@@ -465,6 +477,7 @@ for more about dense terrain].
 |===
 
 [.h-bo5a]
+[#casualties]
 === Casualties
 
 If the unit has lost one or more stands as casualties
@@ -517,6 +530,7 @@ that the Command value can never exceed 10.
 
 image::the-command-phase/triskelion.webp[]
 
+[#charge]
 == Charge!
 
 A move which brings a unit into contact with the enemy
@@ -535,6 +549,7 @@ section] for further explanation.
 image::the-command-phase/cavalry-charge.webp[]
 
 [.h-bo5a]
+[#character-movement]
 == Character movement
 
 // Moved here from Movement chapter
@@ -569,6 +584,7 @@ See the xref::characters.adoc[Generals, Wizards and Heroes section].
 // End moved here
 
 [.h-bo5a]
+[#brigade-orders]
 == Brigade orders
 // also Further Brigade Orders
 
@@ -676,6 +692,7 @@ image::the-command-phase/charge-from-brigade-3.svg[]
 image::the-command-phase/charge-from-brigade-4.svg[]
 
 [.h-bo5a]
+[#further-brigade-orders]
 === Further brigade orders
 
 Once a brigade has moved, the player may not want to

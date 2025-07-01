@@ -6,6 +6,7 @@ categorise the different kinds of troops, and assign suitable
 game values to each.
 
 [.ancients]
+[#armies]
 == Armies
 
 [.ancients]
@@ -18,6 +19,7 @@ and fighting.
 // Here Ancients has a note about multiple players.
 
 [.ancients]
+[#stands]
 == Stands
 
 [.bo5a]
@@ -40,6 +42,7 @@ as indicated by the direction faced by the models. It is
 important that the direction faced by the stand is obvious
 as in the examples below.
 
+[#units]
 == Units
 
 Infantry, cavalry and most other types of troops fight in
@@ -72,6 +75,7 @@ Up to four units can be temporarily placed together to
 form a *brigade*. We’ll be covering brigades in much more
 detail in the rules that follow.
 
+[#characters]
 == Characters
 
 In addition to the troops described, armies always include
@@ -81,6 +85,7 @@ the mighty individual as well as assorted helpmates and
 hangers on. These stands are referred to as characters.
 
 // Moved up like Ancients/Bo5A
+[#infantry-cavalry-chariots-monsters-artillery-machines]
 == Infantry, cavalry, chariots, monsters, artillery & machines
 
 Broadly speaking, armies consist of infantry, cavalry,
@@ -115,6 +120,7 @@ as demonstrated by the units shown to the right. Any
 exceptions are indicated in the Army Lists section.
 
 [.h-bo5a]
+[#attacks-hits-armour-values]
 == Attacks, hits & armour values
 
 Some troops are better fighters than others, some are
@@ -164,6 +170,7 @@ that the stand has
 no armour.
 |===
 
+[#shooting-attacks]
 === Shooting attacks
 
 If troops carry bows or other missile weapons then they
@@ -175,6 +182,7 @@ value is that used for shooting.
 include::partial$attack-values.adoc[]
 
 [.h-ancients]
+[#command-values]
 == Command values
 
 // Removed: your General and other important
@@ -190,6 +198,7 @@ do what you want them to.#
 More about command in due course.
 
 [.ancients]
+[#points-values]
 == Points values
 
 [.bo5a]
@@ -236,6 +245,7 @@ Special:: [.bo5a]#This column indicates if any special rules apply.#
 
 ////
 //Ancients/Bo5A: moved to introducing-warmaster.adoc
+[#measuring]
 == Measuring
 
 Players are free to measure distances at any time, and
@@ -245,6 +255,7 @@ on measurement during play itself; players can take
 measurements as and when they wish.
 ////
 
+[#anything-else-to-learn]
 == Anything else to learn?
 
 Most armies have unique troops of one kind or another,
@@ -255,6 +266,7 @@ them. Later you’ll see that this is what makes each army
 a different and challenging force to command.
 
 [.bo5a]
+[#visibility-on-the-battlefield]
 == Visibility on the battlefield
 
 [.bo5a]
@@ -279,6 +291,7 @@ commanders, is positioned to observe and react cohesively to the
 presence of the enemy.
 
 [.ancients]
+[#line-of-sight]
 === Line of sight
 
 ////
@@ -348,6 +361,7 @@ for example, Wolf Riders in the Orc army.
 image::game-values/line-of-sight-360.svg[id=line-of-sight-360]
 
 [.ancients]
+[#the-effect-of-terrain]
 === The effect of terrain
 
 [.ancients]
@@ -374,6 +388,7 @@ The Q&A has a xref:questions-and-answers.adoc#line-of-sight-questions[section on
 // flying units being able to see 100cm (at least) for their move/charge.
 // I can't find it in the Revolution PDF.
 [.ancients]
+[#maximum-visibility]
 === Maximum visibility
 
 [.bo5a]

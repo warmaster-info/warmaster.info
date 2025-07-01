@@ -81,6 +81,7 @@ but also its law makers, judges and soothsayers.
 
 image::albion/albion.webp[]
 
+[#army-selector]
 == Albion army selector
 
 [%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
@@ -88,6 +89,7 @@ image::albion/albion.webp[]
 include::partial$albion.tsv[]
 |===
 
+[#special-rules]
 == Special rules
 
 ////
@@ -134,8 +136,10 @@ A Fenbeast causes terror in its enemies.
 
 image::albion/general.webp[]
 
+[#spells]
 == Albion spells
 
+[#downpour]
 === Downpour
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
@@ -147,6 +151,7 @@ upon his foes._
 Until the start of the Druid player’s next turn all enemy units
 within 30cm of the casting Druid suffer −1 to their command.
 
+[#storm-of-hail]
 === Storm of Hail
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -159,6 +164,7 @@ can see. This has the effect of three shooting attacks except that
 it ignores any armour save the target may have. The target unit
 may be driven back in the same way as for shooting.
 
+[#mists-of-albion]
 === Mists of Albion
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
@@ -173,6 +179,7 @@ can see them or not. The spell lasts until the start of the caster’s
 next turn, or until the target unit moves in any way. The target
 Infantry unit counts as Defended, even if in the open terrain.
 
+[#summon-fenbeast]
 === Summon Fenbeast
 
 [.cost]#6+ to cast# [.points]#Range 30cm#
