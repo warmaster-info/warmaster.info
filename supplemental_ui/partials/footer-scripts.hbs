@@ -6,15 +6,3 @@
 <script src="{{uiRootPath}}/js/medium-zoom.min.js"></script>
 <script src="{{uiRootPath}}/js/medium-zoom.config.js"></script>
 <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
-<script type="text/javascript">
-;(function () {
-  'use strict'
-  var article = document.querySelector('article.doc')
-  if (!article) return
-
-  // Remove the event listeners set up in 03-fragment-jumper.js, as we use CSS to set the jump position which accounts for the sticky TOC.
-  Array.prototype.slice.call(document.querySelectorAll('a[href^="#"]')).forEach(function (el) {
-    el.replaceWith(el.cloneNode(true))
-  })
-})()
-</script>
