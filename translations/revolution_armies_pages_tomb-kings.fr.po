@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:40+0200\n"
-"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"POT-Creation-Date: 2025-07-01 17:51+0200\n"
+"PO-Revision-Date: 2025-07-01 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_tomb-kings/fr/>\n"
@@ -75,9 +75,9 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:219
 #: en/revolution/modules/armies/pages/bretonnia.adoc:237
 #: en/revolution/modules/armies/pages/cathay.adoc:207
-#: en/revolution/modules/armies/pages/chaos.adoc:161
-#: en/revolution/modules/armies/pages/chaos.adoc:194
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos.adoc:195
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -95,14 +95,14 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:217
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:183
-#: en/revolution/modules/armies/pages/wood-elves.adoc:197
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -113,7 +113,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/daemons.adoc:154
 #: en/revolution/modules/armies/pages/dark-elves.adoc:203
 #: en/revolution/modules/armies/pages/lizardmen.adoc:224
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:196
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:198
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
@@ -136,10 +136,10 @@ msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:184
-#: en/revolution/modules/armies/pages/chaos.adoc:125
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:190
+#: en/revolution/modules/armies/pages/chaos.adoc:126
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:191
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:185
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:180
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:182
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
@@ -148,7 +148,7 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 #: en/revolution/modules/armies/pages/daemons.adoc:196
 #: en/revolution/modules/armies/pages/lizardmen.adoc:215
 #: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:222
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:224
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -159,7 +159,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:230
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:202
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:204
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Wizard can see it or not."
@@ -169,7 +169,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:233
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:205
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:207
 msgid ""
 "The spell takes effect until the end of the opposing player’s next turn."
 msgstr "Les effets du sort durent jusqu’à la fin du tour suivant de l’ennemi."
@@ -183,7 +183,7 @@ msgstr "Rois des Tombes"
 #. type: Attribute :dragon:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:5
 #, no-wrap
-msgid "Zombie"
+msgid "Zombie Dragon"
 msgstr ""
 
 #.  TODO: Logo is half the resolution of all the others.
@@ -334,8 +334,8 @@ msgstr ""
 msgid ""
 "Undead units are unaffected by the −1 Command penalty for enemy within 20cm."
 msgstr ""
-"Les morts-vivants sont immunisés au malus de Commandement de -1 pour une "
-"présence ennemie à moins de 20 cm."
+"Les morts-vivants sont immunisés au malus de Commandement de -1 provoqué par "
+"une présence ennemie à moins de 20 cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:87
@@ -345,7 +345,7 @@ msgid ""
 "troops."
 msgstr ""
 "Les morts-vivants sont aussi immunisés contre le malus de -1 pour toucher au "
-"combat quand on affronte des troupes provoquant la terreur."
+"combat quand ils affrontent des troupes provoquant la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:90
@@ -416,15 +416,30 @@ msgstr ""
 "ses Points de Vie sont réduits de moitié pour le reste de la partie (2 "
 "Attaques et 3 PV). Le Sphinx cause la terreur."
 
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:116
+#, no-wrap
+msgid "[[skull-chukka,†4]]4. Skull Chukka"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:124
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:125
+#, fuzzy
+#| msgid ""
+#| "but with the following additional rule.  When a unit is driven back as a "
+#| "result of hits scored by a Skull Chukka, then any dice rolled in respect "
+#| "to those hits will cause Confusion on the roll of 4, 5 or 6 (rather than "
+#| "6 as normal). Note that if a unit has taken other hits as well it will be "
+#| "necessary to roll the Skull Chukka dice separately. See the Artillery and "
+#| "Machines section of the rulebook for the Stone Thrower rules."
 msgid ""
-"but with the following additional rule.  When a unit is driven back as a "
-"result of hits scored by a Skull Chukka, then any dice rolled in respect to "
-"those hits will cause Confusion on the roll of 4, 5 or 6 (rather than 6 as "
-"normal). Note that if a unit has taken other hits as well it will be "
-"necessary to roll the Skull Chukka dice separately. See the Artillery and "
-"Machines section of the rulebook for the Stone Thrower rules."
+"The Skull Chukka is a xref:rules:artillery-and-machines.adoc#stone-"
+"thrower[Stone Thrower] but with the following additional rule.  When a unit "
+"is driven back as a result of hits scored by a Skull Chukka, then any dice "
+"rolled in respect to those hits will cause Confusion on the roll of 4, 5 or "
+"6 (rather than 6 as normal). Note that if a unit has taken other hits as "
+"well it will be necessary to roll the Skull Chukka dice separately. See the "
+"Artillery and Machines section of the rulebook for the Stone Thrower rules."
 msgstr ""
 "mais dispose de la règle spéciale suivante.   Lorsqu’une unité est repoussée "
 "en raison de touches infligées par une Catapulte à Crânes, tous les jets de "
@@ -435,13 +450,13 @@ msgstr ""
 "règles du Lance-rocs."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:125
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:126
 #, no-wrap
 msgid "[[bone-thrower,†5]]5. Bone Thrower"
 msgstr "[[bone-thrower,†5]]5. Baliste à Ossements"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:127
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:128
 msgid ""
 "The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-"
 "thrower[Bolt Thrower] as described in the Rulebook."
@@ -450,13 +465,13 @@ msgstr ""
 "thrower[Baliste] comme décrit dans la section Artillerie du Livre de Règles."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:129
 #, no-wrap
 msgid "[[tomb-king,†6]]6. Tomb King"
 msgstr "[[tomb-king,†6]]6. Roi des Tombes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:133
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:134
 msgid ""
 "The Tomb King is empowered by the spells cast upon him when buried. He can "
 "use this power to increase the Combat Attacks value of all the stands in one "
@@ -470,7 +485,7 @@ msgstr ""
 "utilisable qu’une seule fois par partie."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:134
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:135
 #, no-wrap
 msgid "[[zombie-dragon,†7]]7. Zombie Dragon"
 msgstr "[[zombie-dragon,†7]]7. Dragon Zombie"
@@ -481,13 +496,13 @@ msgid "A Tomb King or Liche Priest may ride a Zombie Dragon."
 msgstr "Un Roi des Tombes ou un Prêtre Liche peut monter un Dragon Zombie."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:138
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:140
 #, no-wrap
 msgid "[[liche-chariot,†8]]8. Liche Chariot"
 msgstr "[[liche-chariot,†8]]8. Char Liche"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:140
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:142
 msgid ""
 "A Tomb King or Liche Priest can ride a chariot.  A character riding a "
 "chariot adds +1 to his Attacks."
@@ -496,28 +511,30 @@ msgstr ""
 "personnage monté sur un char gagne +1 Attaque."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:143
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:145
 #, no-wrap
 msgid "Tomb King spells"
 msgstr "Sorts des Rois des Tombes"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:145
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:147
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:140
 #, no-wrap
 msgid "Raise Dead"
 msgstr "Invoquer les Morts"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:151
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:153
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:146
 msgid ""
 "_At the Wizard’s beckoning the mangled corpses that litter the battleground "
 "rise from the dead to continue the slaughter._"
 msgstr ""
+"_Sur l’ordre du Sorcier, les corps mutilés qui jonchent le champ de bataille "
+"se relèvent pour continuer à tuer par-delà la mort._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:162
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:164
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:157
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
@@ -529,9 +546,16 @@ msgid ""
 "cast the spell is rolled: so it is possible for pursuit or advances to bring "
 "two units of raised dead into the same engagement later on."
 msgstr ""
+"Ce sort peut être lancé sur un combat à moins de 30 cm du Sorcier. Il n’est "
+"pas nécessaire que le sorcier puisse voir une unité engagée dans le combat. "
+"Un même combat ne peut être affecté qu’une seule fois par ce sort lors d’un "
+"même tour, quel que soit le nombre d’unités impliquées. Pour ce faire, on "
+"considère les combats tels qu’ils sont durant la phase de tir, où le sort "
+"est lancé, il est donc possible que deux unités de morts invoqués se "
+"retrouvent dans un même combat selon le jeu des avances et des poursuites."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:176
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:178
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:171
 msgid ""
 "A Skeleton unit of three stands is created. Each stand in the raised unit "
@@ -546,51 +570,73 @@ msgid ""
 "not count as charging in the first round of combat. Raised dead are ignored "
 "for working out break point and victory points at the end of the game."
 msgstr ""
+"Une nouvelle unité de trois socles d’infanterie Squelette apparaît. Elle "
+"doit être placée de façon à ce que son front avant soit en contact avec un "
+"socle ennemi de l'engagement ciblé, ou de façon à soutenir une unité amie "
+"déjà engagée dans ce combat, en incluant d'autres potentiels socles "
+"invoqués. Ce placement ne peut pas provoquer la séparation de l'engagement "
+"en de multiples plus petites occurrences. Si les socles invoqués provoquent "
+"un contact avec des unités ennemies non engagées, ces unités rejoindront le "
+"combat une fois que l'unité invoquée aura été placée, comme un contact "
+"accidentel durant une poursuite. S’il est impossible de placer l’unité en "
+"contact avec des amis ou des ennemis, l'unité n'est pas déployée et le sort "
+"échoue. Les morts invoqués ne comptent pas comme ayant chargé lorsqu’ils "
+"apparaissent et sont ignorés lors du calcul du point de rupture, et des "
+"points de victoire à la fin de la partie."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:177
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:179
 #, no-wrap
 msgid "Touch of Death"
-msgstr ""
+msgstr "Toucher Mortel"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 msgid ""
 "_The Wizard’s enemies crumble to dust as he smites them with the corrupting "
 "Touch of Death._"
 msgstr ""
+"_Les ennemis du Sorcier tombent en poussière tandis qu’il les frappe de son "
+"Toucher Mortel._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:187
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:189
 msgid ""
 "The Wizard can cast this spell if he has joined a unit in combat.  The spell "
 "can be cast on any single enemy unit that it is touching the unit the Wizard "
 "has joined."
 msgstr ""
+"Ce sort ne peut être lancé que si le Sorcier a rejoint une unité amie "
+"engagée au combat, et affecte une seule unité ennemie au contact de celle-ci."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:192
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:194
 msgid ""
 "The target unit takes three attacks worked out in the usual way.  Any hits "
 "scored are carried over into the first round of combat and count as having "
 "been struck in the first round for purposes of working out combat results."
 msgstr ""
+"L’unité visée subit trois attaques résolues de la manière habituelle.  Toute "
+"touche infligée est reportée dans le premier round de combat et compte comme "
+"ayant été infligée au combat pour le calcul du résultat de combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:193
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:195
 #, no-wrap
 msgid "Doom and Despair"
-msgstr ""
+msgstr "Désespoir"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:199
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:201
 msgid ""
 "_A dark cloud of doom and despair settles over the enemy, sapping their "
 "courage and dampening their warlike spirit._"
 msgstr ""
+"_Un sombre nuage de désespoir tombe sur l’ennemi, sapant son courage et "
+"refroidissant son ardeur guerrière._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:211
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:213
 msgid ""
 "Whilst the spell lasts the unit cannot charge and if engaged in combat will "
 "not pursue or advance. Even units that are otherwise obliged to charge, "
@@ -598,26 +644,36 @@ msgid ""
 "even other Undead are not immune – they are overcome by the ennui of the "
 "tomb!"
 msgstr ""
+"Tant que le sort dure, l'unité ciblée ne peut pas charger et ne peut pas non "
+"plus poursuivre ou avancer si elle est engagée au combat. Même les unités "
+"normalement obligées de charger, avancer ou poursuivre sont affectées. Notez "
+"que même les autres Morts-vivants ne sont pas immunisés - ils sont submergés "
+"par la mélancolie de la tombe !"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:212
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:214
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:189
 #, no-wrap
 msgid "Death Bolt"
-msgstr ""
+msgstr "Éclair de Mort"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:218
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:220
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:195
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
 "finger tips and strikes an enemy unit._"
 msgstr ""
+"_Un terrifiant éclair d’énergie magique jaillit des doigts du Sorcier et "
+"frappe une unité ennemie._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:227
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:229
 msgid ""
 "The Death Bolt is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "
 "driven back by a Death Bolt as with ordinary shooting."
 msgstr ""
+"Éclair de Mort est résolu de la même manière que par des tirs ordinaires, à "
+"l'exception du fait qu'aucune sauvegarde d'armure n'est permise. Une unité "
+"peut être repoussée par l'Éclair de Mort comme pour des tirs ordinaires."

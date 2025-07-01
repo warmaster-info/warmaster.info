@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:40+0200\n"
+"POT-Creation-Date: 2025-07-01 17:51+0200\n"
 "PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -75,9 +75,9 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:219
 #: en/revolution/modules/armies/pages/bretonnia.adoc:237
 #: en/revolution/modules/armies/pages/cathay.adoc:207
-#: en/revolution/modules/armies/pages/chaos.adoc:161
-#: en/revolution/modules/armies/pages/chaos.adoc:194
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos.adoc:195
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -95,14 +95,14 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:217
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:183
-#: en/revolution/modules/armies/pages/wood-elves.adoc:197
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -127,7 +127,7 @@ msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:222
-#: en/revolution/modules/armies/pages/wood-elves.adoc:217
+#: en/revolution/modules/armies/pages/wood-elves.adoc:218
 msgid "[.cost]#6+ to cast# [.points]#Range 60cm#"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 #. type: Attribute :dragon:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:5
 #, no-wrap
-msgid "Forest"
+msgid "Forest Dragon"
 msgstr ""
 
 #. type: Plain text
@@ -444,32 +444,32 @@ msgid "[[forest-dragon,†13]]13. Forest Dragon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:175
+#: en/revolution/modules/armies/pages/wood-elves.adoc:174
 msgid "Generals, Nobles and Spell Weavers may ride Forest Dragons."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/wood-elves.adoc:178
+#: en/revolution/modules/armies/pages/wood-elves.adoc:179
 #, no-wrap
 msgid "Wood Elf spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:180
+#: en/revolution/modules/armies/pages/wood-elves.adoc:181
 #, no-wrap
 msgid "Tree Singing"
 msgstr ""
 
 #.  Spelling their
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:187
+#: en/revolution/modules/armies/pages/wood-elves.adoc:188
 msgid ""
 "_The Spell Weaver calls force a mass of tangling branches to surround their "
 "troops, protecting them form harm._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:193
+#: en/revolution/modules/armies/pages/wood-elves.adoc:194
 msgid ""
 "This spell may be cast upon a single unengaged friendly Infantry unit within "
 "range, regardless of whether the caster can see them or not. The spell lasts "
@@ -479,49 +479,49 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:194
+#: en/revolution/modules/armies/pages/wood-elves.adoc:195
 #, no-wrap
 msgid "Twilight Host"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:199
+#: en/revolution/modules/armies/pages/wood-elves.adoc:200
 msgid "_A weird enchantment forms around the target unit._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:201
+#: en/revolution/modules/armies/pages/wood-elves.adoc:202
 msgid "The target unit causes terror until Wood Elf next magic phase."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:202
+#: en/revolution/modules/armies/pages/wood-elves.adoc:203
 #, no-wrap
 msgid "Call of the Hunt"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:209
+#: en/revolution/modules/armies/pages/wood-elves.adoc:210
 msgid ""
 "_The Spell Weaver’s voice sings out across the battlefield directing troops "
 "above the tumult of combat with the magical Call of the Hunt._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:213
+#: en/revolution/modules/armies/pages/wood-elves.adoc:214
 msgid ""
 "Unit may make a charge move into contact with the nearest visible enemy unit "
 "in the same way as when charging. Enemy may not shoot at chargers."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/wood-elves.adoc:215
 #, no-wrap
 msgid "Fury of the Forest"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:221
+#: en/revolution/modules/armies/pages/wood-elves.adoc:222
 msgid ""
 "_The spell makes three shooting attacks on all enemy units within 10cm of "
 "chosen wooded terrain piece. Units get no armour save if within wooded "
@@ -529,7 +529,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:226
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
 msgid ""
 "Unengaged units are not driven back by this spell (the assault comes form "
 "the ground beneath their feet). Engaged units carry over any hits scored "

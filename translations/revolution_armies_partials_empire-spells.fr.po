@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 01:07+0200\n"
+"POT-Creation-Date: 2025-07-01 17:51+0200\n"
 "PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -25,8 +25,8 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:204
 #: en/revolution/modules/armies/pages/cathay.adoc:173
 #: en/revolution/modules/armies/pages/cathay.adoc:191
-#: en/revolution/modules/armies/pages/chaos.adoc:142
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/chaos.adoc:143
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:219
 #: en/revolution/modules/armies/pages/goblins.adoc:208
 #: en/revolution/modules/armies/pages/high-elves.adoc:175
 #: en/revolution/modules/armies/pages/kislev.adoc:208
@@ -47,9 +47,9 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:219
 #: en/revolution/modules/armies/pages/bretonnia.adoc:237
 #: en/revolution/modules/armies/pages/cathay.adoc:207
-#: en/revolution/modules/armies/pages/chaos.adoc:161
-#: en/revolution/modules/armies/pages/chaos.adoc:194
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos.adoc:195
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -67,14 +67,14 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:217
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:183
-#: en/revolution/modules/armies/pages/wood-elves.adoc:197
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -109,8 +109,8 @@ msgstr ""
 "L’unité se déplace à demi-vitesse, en toutes circonstances, même pour "
 "charger. Elle considère que tous ses ennemis causent la terreur (malus de -1 "
 "en Attaques) même si elle est normalement immunisée. Si l’unité cause elle-"
-"même la terreur, elle cesse de le faire pour toute la durée de l’"
-"enchantement et considère tous ses ennemis comme terrifiants exactement "
+"même la terreur, elle cesse de le faire pour toute la durée de "
+"l’enchantement et considère tous ses ennemis comme terrifiants exactement "
 "comme n’importe quelle autre unité. Cependant, les Morts-vivants et les "
 "démons ne comptent pas leurs ennemis comme étant terrifiants, mais les "
 "autres effets du sort s’appliquent à eux."
@@ -185,9 +185,9 @@ msgid ""
 "unit, never a brigade and there is no supporting charge possible."
 msgstr ""
 "Ce sort peut être lancé sur une unité amie non engagée au corps à corps à "
-"portée, que le Sorcier puisse la voir ou non. Le sort n’affecte jamais qu’"
-"une seule unité, en aucun cas une brigade et il n'est pas possible de faire "
-"une charge de soutien."
+"portée, que le Sorcier puisse la voir ou non. Le sort n’affecte jamais "
+"qu’une seule unité, en aucun cas une brigade et il n'est pas possible de "
+"faire une charge de soutien."
 
 #. type: Title ===
 #: en/revolution/modules/armies/partials/empire-spells.adoc:41

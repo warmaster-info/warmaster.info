@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
-"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"POT-Creation-Date: 2025-07-01 17:51+0200\n"
+"PO-Revision-Date: 2025-07-01 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_vampire-counts/fr/>\n"
@@ -75,9 +75,9 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:219
 #: en/revolution/modules/armies/pages/bretonnia.adoc:237
 #: en/revolution/modules/armies/pages/cathay.adoc:207
-#: en/revolution/modules/armies/pages/chaos.adoc:161
-#: en/revolution/modules/armies/pages/chaos.adoc:194
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos.adoc:195
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -95,14 +95,14 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:217
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:183
-#: en/revolution/modules/armies/pages/wood-elves.adoc:197
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:184
+#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:4
 #: en/revolution/modules/armies/partials/empire-spells.adoc:27
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -152,8 +152,8 @@ msgstr "Mort-vivant"
 msgid ""
 "Undead units are unaffected by the −1 Command penalty for enemy within 20cm."
 msgstr ""
-"Les morts-vivants sont immunisés au malus de Commandement de -1 pour une "
-"présence ennemie à moins de 20 cm."
+"Les morts-vivants sont immunisés au malus de Commandement de -1 provoqué par "
+"une présence ennemie à moins de 20 cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:87
@@ -163,7 +163,7 @@ msgid ""
 "troops."
 msgstr ""
 "Les morts-vivants sont aussi immunisés contre le malus de -1 pour toucher au "
-"combat quand on affronte des troupes provoquant la terreur."
+"combat quand ils affrontent des troupes provoquant la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:90
@@ -176,22 +176,24 @@ msgstr ""
 "Confusion. Ils ne peuvent jamais devenir confus."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:145
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:147
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:140
 #, no-wrap
 msgid "Raise Dead"
 msgstr "Invoquer les Morts"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:151
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:153
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:146
 msgid ""
 "_At the Wizard’s beckoning the mangled corpses that litter the battleground "
 "rise from the dead to continue the slaughter._"
 msgstr ""
+"_Sur l’ordre du Sorcier, les corps mutilés qui jonchent le champ de bataille "
+"se relèvent pour continuer à tuer par-delà la mort._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:162
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:164
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:157
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
@@ -203,9 +205,16 @@ msgid ""
 "cast the spell is rolled: so it is possible for pursuit or advances to bring "
 "two units of raised dead into the same engagement later on."
 msgstr ""
+"Ce sort peut être lancé sur un combat à moins de 30 cm du Sorcier. Il n’est "
+"pas nécessaire que le sorcier puisse voir une unité engagée dans le combat. "
+"Un même combat ne peut être affecté qu’une seule fois par ce sort lors d’un "
+"même tour, quel que soit le nombre d’unités impliquées. Pour ce faire, on "
+"considère les combats tels qu’ils sont durant la phase de tir, où le sort "
+"est lancé, il est donc possible que deux unités de morts invoqués se "
+"retrouvent dans un même combat selon le jeu des avances et des poursuites."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:176
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:178
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:171
 msgid ""
 "A Skeleton unit of three stands is created. Each stand in the raised unit "
@@ -220,21 +229,36 @@ msgid ""
 "not count as charging in the first round of combat. Raised dead are ignored "
 "for working out break point and victory points at the end of the game."
 msgstr ""
+"Une nouvelle unité de trois socles d’infanterie Squelette apparaît. Elle "
+"doit être placée de façon à ce que son front avant soit en contact avec un "
+"socle ennemi de l'engagement ciblé, ou de façon à soutenir une unité amie "
+"déjà engagée dans ce combat, en incluant d'autres potentiels socles "
+"invoqués. Ce placement ne peut pas provoquer la séparation de l'engagement "
+"en de multiples plus petites occurrences. Si les socles invoqués provoquent "
+"un contact avec des unités ennemies non engagées, ces unités rejoindront le "
+"combat une fois que l'unité invoquée aura été placée, comme un contact "
+"accidentel durant une poursuite. S’il est impossible de placer l’unité en "
+"contact avec des amis ou des ennemis, l'unité n'est pas déployée et le sort "
+"échoue. Les morts invoqués ne comptent pas comme ayant chargé lorsqu’ils "
+"apparaissent et sont ignorés lors du calcul du point de rupture, et des "
+"points de victoire à la fin de la partie."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:212
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:214
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:189
 #, no-wrap
 msgid "Death Bolt"
-msgstr ""
+msgstr "Éclair de Mort"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:218
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:220
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:195
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
 "finger tips and strikes an enemy unit._"
 msgstr ""
+"_Un terrifiant éclair d’énergie magique jaillit des doigts du Sorcier et "
+"frappe une unité ennemie._"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:1
