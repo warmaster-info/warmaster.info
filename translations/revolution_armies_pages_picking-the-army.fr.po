@@ -7,20 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_armies_pages_picking-the-army/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:1
 #, no-wrap
 msgid "Picking the Army"
-msgstr ""
+msgstr "Choisir une Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:6
@@ -29,6 +31,8 @@ msgid ""
 "matched armies to take part in a battle and updates the original section in "
 "the main rulebook."
 msgstr ""
+"Cette section explique comment choisir des armées équilibrées pour prendre "
+"part à la bataille et remplace donc la section originelle du livre de règle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:12
@@ -38,6 +42,11 @@ msgid ""
 "same fighting value. To facilitate this, all units are allocated a points "
 "value that reflects their worth in a typical battle."
 msgstr ""
+"En théorie, rien ne vous oblige à choisir des armées de valeur égale, mais "
+"la plupart des joueurs préfèrent disputer des batailles opposant des armées "
+"équilibrées, ne serait-ce que théoriquement. Dans cette idée, chaque type d’"
+"unité s’est vu allouer une valeur en points qui reflète ses qualités et ses "
+"faiblesses en termes de jeu."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:20
@@ -48,12 +57,18 @@ msgid ""
 "This is intentional. In these cases the marginal difference in points is "
 "done to restrict or increase the choices available to the player."
 msgstr ""
+"En règle générale, la valeur en points d’une unité a été estimée en fonction "
+"de l’armée dont elle est issue, il est donc possible que certaines troupes "
+"aux performances similaires aient un coût légèrement différent d’une liste à "
+"l’autre. Ceci est entièrement intentionnel. Dans ce cas la différence en "
+"points (minime) a alors pour but d’encourager ou de limiter le recrutement "
+"de telle ou telle unité."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:21
 #, no-wrap
 msgid "The Army"
-msgstr ""
+msgstr "L'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:29
@@ -63,12 +78,17 @@ msgid ""
 "included on the following pages and you may wish to skip forward to your "
 "favoured army as you read through the rest of this section."
 msgstr ""
+"Les listes et règles de 25 armées de Warmaster sont proposées. Toutes les "
+"armées sont choisies de la même façon en utilisant la liste adéquate. Ces "
+"dernières sont incluses dans les pages suivantes et vous pouvez tout à fait "
+"passer directement à votre armée préférée après avoir lu le reste de cette "
+"section."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:30
 #, no-wrap
 msgid "Army size"
-msgstr ""
+msgstr "Taille de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:37
@@ -78,6 +98,11 @@ msgid ""
 "battles, or battles with intermediate points values, can also be arranged as "
 "discussed later."
 msgstr ""
+"Les deux camps sélectionnent des troupes et personnages jusqu'à une valeur "
+"en points maximale équivalente. Nous considérons qu’il existe trois tailles "
+"standards de bataille. Les parties plus petites, plus importantes, ou "
+"impliquant des forces intermédiaires, peuvent néanmoins être jouées comme "
+"expliqué plus loin."
 
 #. type: Table
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:43
@@ -87,6 +112,9 @@ msgid ""
 "|Medium battle  |2000 points per side\n"
 "|Large battle   |3000 points per side\n"
 msgstr ""
+"|Petite bataille   |1000 points par camp\n"
+"|Bataille moyenne  |2000 points par camp\n"
+"|Grande bataille   |3000 points par camp\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:55
@@ -98,6 +126,12 @@ msgid ""
 "play – although experienced players have been known to cram four or more "
 "such battles into a single day."
 msgstr ""
+"Une petite bataille est idéale pour des débutants ou pour une partie de "
+"démonstration, mais les possibilités tactiques qu’elle permet sont limitées. "
+"Le hasard y a un impact plus grand que dans les batailles plus importantes. "
+"Les parties moyennes sont souvent vues comme la taille standard et dureront "
+"généralement une soirée entière, encore que des joueurs expérimentés "
+"puissent parfois en disputer plus de quatre par jour."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:66
@@ -111,6 +145,15 @@ msgid ""
 "With very large armies it helps to have additional players to help move "
 "troops and roll dice."
 msgstr ""
+"Les grandes parties demandent plus de temps, mais laissent la part belle aux "
+"subtilités du système d’ordre, qui est au cœur du jeu.  Il est possible de "
+"disputer des parties impliquant bien plus de points par camps si c'est le "
+"souhait des joueurs. Cependant n’oubliez pas qu’une bataille vraiment épique "
+"peut prendre une journée entière, voire plusieurs jours. Il n’existe "
+"toutefois pas de limite, si ce n’est celle des figurines disponibles et de "
+"la taille de la surface de jeu. Des parties à 10 000 points sont donc tout à "
+"fait envisageables.  Pour des armées de cette taille il peut être pratique "
+"que plusieurs joueurs aident à manœuvrer les troupes et lancer les dés."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:75
@@ -122,6 +165,13 @@ msgid ""
 "2000 point army as far as we are concerned. It is the maximum permitted "
 "value that determines the army size not the actual points spent."
 msgstr ""
+"Notez que la taille de l’armée indique le nombre maximum de points "
+"disponibles. Une armée peut comporter moins de points, mais elle ne peut en "
+"aucun cas dépasser la taille maximale. Il est souvent impossible de dépenser "
+"tous les points jusqu’au dernier ; ainsi, une armée de 2 000 points n’en "
+"fait souvent que 1 995. Mais elle est quand même considérée comme une armée "
+"de 2 000 points. La taille de l'armée est déterminée par sa valeur en points "
+"maximale, pas par sa valeur en points réelle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:83
@@ -132,12 +182,18 @@ msgid ""
 "if players are still building their armies and want to use units as they are "
 "purchased. This is explained under Selecting the Army."
 msgstr ""
+"Les listes d’armées sont conçues pour fonctionner avec des valeurs en points "
+"multiples de mille (1000, 2000, 3000 points, etc.) Mais vous pouvez vous "
+"entendre avec votre adversaire pour jouer à des valeurs intermédiaires, "
+"comme 1 500 ou 750 points.  Ces valeurs sont un peu moins pratiques mais "
+"sont souvent nécessaires selon la collection de figurines des joueurs. Voir "
+"la section Choisir son Armée."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:84
 #, no-wrap
 msgid "Army lists"
-msgstr ""
+msgstr "Listes d'Armées"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:93
@@ -149,6 +205,13 @@ msgid ""
 "is noted as special rules after the army list itself. Stat lines are "
 "presented as follows:"
 msgstr ""
+"Commencez par consulter votre liste d’armée. Les différentes listes "
+"indiquent toutes les unités dont dispose une armée, ainsi que leurs "
+"caractéristiques, leur valeur en points et leurs règles spéciales le cas "
+"échéant. La plupart de ces informations sont concentrées dans le profil de l’"
+"unité. Les informations supplémentaires sont notées en tant que règles "
+"spéciales après la liste d’armée elle-même. Les profils sont présentés comme "
+"suit :"
 
 #. type: Target for macro image
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:94
@@ -164,13 +227,17 @@ msgid ""
 "\n"
 "|Halberdiers |Infantry |3 |3 |6+ |– |3 |45 |2/– |–\n"
 msgstr ""
+"|Troupes |Type |Attaques |PV |Armure |Cdt|Taille d'unité |Points |Min/max |"
+"Special\n"
+"\n"
+"|Hallebardiers |Infanterie |3 |3 |6+ |– |3 |45 |2/– |–\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:103
 #: en/revolution/modules/rules/pages/game-values.adoc:218
 #, no-wrap
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:108
@@ -180,32 +247,38 @@ msgid ""
 "characters are sometimes optional and are included as a separate line as "
 "Monstrous Mount or Chariot Mount."
 msgstr ""
+"Il s’agit de la classification du personnage ou de l’unité : Infanterie, "
+"Cavalerie, Monstre, Artillerie, Machine, Char, Général, Sorcier ou Héros. "
+"Les Montures pour les personnages sont parfois en option et reprises sur une "
+"ligne séparée : Monture Monstrueuse ou Char."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:109
 #: en/revolution/modules/rules/pages/game-values.adoc:220
 #, no-wrap
 msgid "Attack"
-msgstr ""
+msgstr "Attaques"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:111
 #: en/revolution/modules/rules/pages/game-values.adoc:221
 msgid "The basic number of dice rolled in combat by each stand in the unit."
-msgstr ""
+msgstr "Le nombre de dés lancés par chaque socle en combat."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:112
 #: en/revolution/modules/rules/pages/game-values.adoc:222
 #, no-wrap
 msgid "Hits"
-msgstr ""
+msgstr "Points de Vie (PV)"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:114
 #: en/revolution/modules/rules/pages/game-values.adoc:223
 msgid "The number of hits the unit can suffer before one stand is removed."
 msgstr ""
+"Le nombre de touches que peut subir chaque socle de l’unité avant d’être "
+"détruit."
 
 #.  TODO: bo5a Open, Defended and Fortified box example
 #. type: Title ===
@@ -215,7 +288,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/shooting.adoc:214
 #, no-wrap
 msgid "Armour"
-msgstr ""
+msgstr "Armure"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:118
@@ -223,6 +296,9 @@ msgid ""
 "The score required to nullify a hit struck on the unit if it has armour (3+, "
 "4+, 5+ or 6+). A unit with no armour has a value of 0."
 msgstr ""
+"Si l’unité possède une valeur d’Armure, ce chiffre est le résultat requis "
+"pour annuler une touche (3+, 4+, 5+ or 6+). Une unité avec une Armure de 0 "
+"ne peut pas annuler de touches."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:119
@@ -230,7 +306,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:226
 #, no-wrap
 msgid "Command"
-msgstr ""
+msgstr "Commandement (Cdt)"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:123
@@ -243,7 +319,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:124
 #, no-wrap
 msgid "Min/Max"
-msgstr ""
+msgstr "Min/Max"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:128
@@ -252,12 +328,15 @@ msgid ""
 "army must include per 1000 points of army size. A dash indicates there is no "
 "restriction."
 msgstr ""
+"Cette catégorie définit le nombre minimum ou maximum de personnages ou d’"
+"unités de ce type par tranche de 1 000 points d’armée. Un tiret indique qu’"
+"il n’existe pas de minimum ou de maximum requis pour ce type de troupes."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:129
 #, no-wrap
 msgid "Selecting the army"
-msgstr ""
+msgstr "Choisir son Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:135
@@ -266,6 +345,9 @@ msgid ""
 "maximum total value appropriate to the size of game. For example, High Elf "
 "Spearmen are 60 points per unit so 5 such units are worth 300 points."
 msgstr ""
+"Choisissez les personnages et les unités qui composeront votre armée, jusqu’"
+"à la valeur en points maximale de celle-ci. Par exemple, les Lanciers Hauts "
+"Elfes valent 60 points, cinq unités de lanciers coûtent donc 300 points."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:147
@@ -279,6 +361,15 @@ msgid ""
 "size. The second number shows the maximum number of that unit/character the "
 "army can include for every 1000 points of army size."
 msgstr ""
+"Les joueurs ne sont toutefois pas totalement libres au moment de choisir "
+"leur armée.  Certaines unités doivent y être incluses, tandis que d’autres "
+"ne peuvent l’être qu’en quantité limitée. Ces restrictions sont indiquées "
+"par la colonne minimum/maximum (min/max) de la liste d’armée. Ce paramètre "
+"consiste en deux chiffres séparés par une barre oblique, par exemple 1/2. Le "
+"premier chiffre indique le nombre minimum d’unités de ce type que doit "
+"inclure une armée par tranche de 1 000 points. Le deuxième chiffre indique "
+"le nombre maximum d’unités de ce type que peut inclure une armée par tranche "
+"de 1 000 points."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:154
@@ -288,6 +379,11 @@ msgid ""
 "include more than 4. In a 2000 point army the minimum is therefore 2 and the "
 "maximum 8, in a 3000 point army minimum 3 maximum 12, and so on."
 msgstr ""
+"Par exemple, dans une armée Bretonnienne, les Écuyers sont notés min/max : 1/"
+"4. Cela signifie qu’une armée Bretonnienne de 1 000 points doit inclure au "
+"moins 1 unité d’Écuyers mais ne peut pas en inclure plus de 4. De la même "
+"manière, une armée de 2 000 points doit en inclure 2 unités mais ne peut pas "
+"en inclure plus de 8, une armée de 3000 points de 3 à 12, et ainsi de suite."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:162
@@ -298,6 +394,13 @@ msgid ""
 "–/2 means that in a 1000 points army there is no minimum and the maximum is "
 "2, while 1/– means there is a minimum of 1 and no maximum."
 msgstr ""
+"Si la colonne inclut un tiret (-) à la place d’un chiffre, cela signifie qu’"
+"aucun minimum ou maximum ne s’applique. Le joueur peut donc choisir autant "
+"ou aussi peu de ce type de troupe qu’il le souhaite. Par exemple, -/2 "
+"signifie que dans une armée de 1000 points, vous n’êtes pas obligé de "
+"prendre une unité de ce type, mais que vous pouvez en avoir 2 au maximum. 1/-"
+" signifie que vous devez en avoir une et que vous pouvez en avoir autant que "
+"vous voulez en plus de celle-là."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:172
@@ -310,6 +413,15 @@ msgid ""
 "point army is selected using the minimums and maximums for a 1000 point "
 "army, a 2250 point army is the same as a 2000 and so on."
 msgstr ""
+"Une armée doit toujours inclure un seul Général, quelle que soit sa taille. "
+"Elle ne peut jamais en inclure plus ou moins. Pour refléter cela, la colonne "
+"min/max est notée 1.  Si vous jouez une bataille d’une valeur n’étant pas un "
+"multiple de 1 000, par exemple 1500 ou 2 750 points, les valeurs min/max "
+"utilisées sont celles de la valeur en points entière (c-à-d multiple de 1 "
+"000) la plus proche. Par exemple, une armée de 1 500 points est sélectionnée "
+"selon les minima et maxima applicables aux parties de 1 000 points, une "
+"partie de 2 250 points suit les limitations des armées de 2 000 points, et "
+"ainsi de suite."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:179
@@ -320,6 +432,11 @@ msgid ""
 "particularly well with extremely small forces and battles may feel "
 "bewilderingly rapid."
 msgstr ""
+"Si votre armée fait moins de 1 000 points, utilisez les maxima d’une armée "
+"de 1 000 points, mais ignorez les minima.  Les parties de taille très "
+"réduite sont un excellent moyen d’apprendre les règles, mais gardez à l’"
+"esprit que celles-ci sont prévues pour des armées plus vastes, et que les "
+"petites batailles vous paraîtront sans doute très rapides et meurtrières."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:188
@@ -331,6 +448,12 @@ msgid ""
 "account when working out victory points. See Magic in the rulebook p.76 or a "
 "Magic Items Overview on p.88 in this book."
 msgstr ""
+"La valeur d’un objet magique est ajoutée à celle de l’unité ou du personnage "
+"qui le porte. Les objets magiques doivent être alloués précisément, et "
+"clairement notés. Ils ajoutent leur valeur en points à celle de l’unité ou "
+"du personnage qui les portent, et le total est pris en compte lorsqu’il s’"
+"agit de déterminer les points de victoire. Voir Magie, page 76 du livre de "
+"règles."
 
 #. type: Target for macro image
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:189

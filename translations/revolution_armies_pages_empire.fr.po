@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 01:07+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_armies_pages_empire/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:91
@@ -62,7 +64,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
 #, no-wrap
 msgid "Special rules"
-msgstr ""
+msgstr "Règles Spéciales"
 
 #. 3: – changed to :
 #. type: Labeled list
@@ -70,7 +72,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/empire.adoc:71
 #, no-wrap
 msgid "[[handgunners,†1]]1. Handgunners"
-msgstr ""
+msgstr "[[handgunners,†1]]1. Arquebusiers"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/empire.adoc:1
@@ -146,7 +148,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/empire.adoc:58
 #, no-wrap
 msgid "Empire army selector"
-msgstr ""
+msgstr "Sélecteur d’Armée de l’Empire"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/empire.adoc:63
@@ -164,6 +166,13 @@ msgid ""
 "in price) while still counting for the Crossbowmen min/max value. Note that "
 "this unit also counts for min/max value of Handgunners."
 msgstr ""
+"Lorsque vous tirez avec une arquebuse, retirez 1 à l’Armure de la cible : "
+"une Armure de 3+ passe à 4+, une armure de 4+ à 5+, une de 5+ à 6+. Une "
+"Armure de 6+ n’arrête pas les tirs d’arquebuse. Une unité d'Arbalétriers par "
+"tranche de 1000 points peut être remplacées par des Arquebusiers (en "
+"incluant le surcoût de 10 points) tout en comptant pour la valeur min/max "
+"des Arbalétriers. Notez que cette unité compte aussi pour la valeur min/max "
+"des Arquebusiers."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:80
@@ -182,12 +191,20 @@ msgid ""
 "enemies that cause terror in combat, so they do not suffer the usual −1 "
 "Attack modifier."
 msgstr ""
+"Les Flagellants sont si pressés de rencontrer leur créateur qu’ils utilisent "
+"toujours l’initiative pour charger un ennemi si possible et ne peuvent pas "
+"recevoir d’ordres à la place. Ils n’utilisent jamais l’initiative pour "
+"éviter. Ils ne sont jamais repoussés par des tirs et n’effectuent donc "
+"jamais de jet de repoussement. En cas de victoire en corps à corps, ils "
+"doivent poursuivre ou avancer lorsque cela est possible. Les Flagellants ne "
+"sont pas affectés par les créatures provoquant la terreur et donc ne "
+"subissent pas le malus de -1 Attaque."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:89
 #, no-wrap
 msgid "[[skirmishers,†3]]3. Skirmishers"
-msgstr ""
+msgstr "[[skirmishers,†3]]3. Tirailleurs"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:94
@@ -197,6 +214,10 @@ msgid ""
 "brings the size of the unit to 4 stands: 3 regular stands plus the "
 "Skirmisher stand."
 msgstr ""
+"Les socles de Tirailleurs ne combattent jamais comme unité indépendante. À "
+"la place, vous pouvez ajouter un seul socle de Tirailleurs à toute unité d’"
+"infanterie, sauf les Flagellants. Cela fait passer la taille de l’unité de 3 "
+"à 4 socles, trois socles ordinaires et un de Tirailleurs."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:98
@@ -205,6 +226,9 @@ msgid ""
 "They fight as part of their unit and can be removed as a unit casualty if "
 "the player wishes."
 msgstr ""
+"Les Tirailleurs ont la même Armure que l’unité. Ils combattent comme s’ils "
+"faisaient partie de l’unité et peuvent être retirés comme pertes si le "
+"joueur le décide."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:102
@@ -213,6 +237,9 @@ msgid ""
 "never cause the parent unit to be in Irregular Formation no matter how they "
 "are placed."
 msgstr ""
+"La perte de Tirailleurs ne compte pas pour la pénalités de Commandement.  "
+"Les Tirailleurs ne provoque jamais de Formation Irrégulière pour l'unité "
+"parente, quelque soit leur placement."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:103
@@ -229,12 +256,17 @@ msgid ""
 "Note that this unit still needs Line of Sight from its front edge to charge "
 "an enemy."
 msgstr ""
+"Les Pistoliers n’ont qu’une portée de 15cm, mais ils ont une vision à 360° - "
+"c'est-à-dire que les socles de l'unité peuvent tracer une ligne de vue "
+"depuis n'importe quel bord de leur socle, ceci afin d'éviter ou de tirer, "
+"incluant le tir sur les ennemis en charge. Notez que l'unité a tout de même "
+"besoin d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/empire.adoc:110
 #, no-wrap
 msgid "[[helblaster,†5]]5. Helblaster"
-msgstr ""
+msgstr "[[helblaster,†5]]5. Canon Feu d’Enfer"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:114
