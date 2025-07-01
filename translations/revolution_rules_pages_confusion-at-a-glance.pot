@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,30 +17,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:1170
-#: en/revolution/modules/rules/pages/confusion.adoc:181
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:46
+#: en/revolution/modules/rules/pages/combat.adoc:1228
+#: en/revolution/modules/rules/pages/confusion.adoc:187
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:51
 #, no-wrap
 msgid "Moving back"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/confusion.adoc:108
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:22
+#: en/revolution/modules/rules/pages/confusion.adoc:111
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:24
 #, no-wrap
 msgid "Confused units"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/confusion.adoc:145
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:30
+#: en/revolution/modules/rules/pages/confusion.adoc:149
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:33
 #, no-wrap
 msgid "Making way"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/confusion.adoc:158
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:40
+#: en/revolution/modules/rules/pages/confusion.adoc:163
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:44
 #, no-wrap
 msgid "Moving aside"
 msgstr ""
@@ -52,114 +52,114 @@ msgid "Confusion at a Glance"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:4
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:5
 #, no-wrap
 msgid "Units become confused if:"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:7
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:8
 msgid "Burst through by evaders."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:9
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:10
 msgid "Driven back by missile fire on any Drive Back roll of a 6."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:11
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:12
 msgid "Driven back or falling back into impassable terrain on the roll of a 6."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:14
 msgid "Driven back or falling back into enemies or combat."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:15
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:16
 msgid "Forcing friends to make way on the roll of a 6."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:17
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:18
 msgid "Driven back/falling back into unyielding friends."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:19
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:20
 msgid "Making way on the roll of a 6."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:21
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:22
 msgid ""
 "Unable to fall back to [.bo5a]#at least# 1cm from enemy [.bo5a]#following# "
 "combat."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:25
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:27
 msgid "Cannot move in the Command phase by either initiative or orders."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:26
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:28
 msgid "Suffer a −1 Attacks modifier in combat."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:27
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:29
 msgid "Cannot support in combat."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:28
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:30
 msgid "Cease to be confused at the end of their Command phase."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:33
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:36
 msgid "Units can make way for friends that are:"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:34
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:37
 msgid "Driven back by shooting"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:35
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:38
 msgid "Retreating from combat"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:36
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:39
 msgid "Making way for another unit"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:38
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:41
 msgid ""
 "Units engaged in combat, constricted by terrain, or otherwise unable to move "
 "cannot make way."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:39
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:42
 msgid "Units can make way by moving aside or moving back."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:43
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:47
 msgid ""
 "All stands in the path of the friend are moved – all other stands remain in "
 "place. Stands are rearranged around those that remain in place."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:45
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:49
 msgid ""
 "If all stands are in the path of the friend, move [.edit]#whichever# stand "
 "needs to move the shortest distance to get out of the path.  Rearrange the "
@@ -167,12 +167,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:49
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:54
 msgid "The entire unit moves back in the same direction as the friend."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:50
+#: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:55
 msgid ""
 "If infantry move back for other infantry, they can be arranged into support."
 msgstr ""

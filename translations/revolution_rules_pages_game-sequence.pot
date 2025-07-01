@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:119
-#: en/revolution/modules/rules/pages/game-sequence.adoc:48
-#: en/revolution/modules/rules/pages/game-values.adoc:226
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:122
+#: en/revolution/modules/rules/pages/game-sequence.adoc:51
+#: en/revolution/modules/rules/pages/game-values.adoc:235
 #, no-wrap
 msgid "Command"
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:20
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:23
 #: en/revolution/modules/rules/pages/combat.adoc:1
-#: en/revolution/modules/rules/pages/game-sequence.adoc:72
+#: en/revolution/modules/rules/pages/game-sequence.adoc:77
 #, no-wrap
 msgid "Combat"
 msgstr ""
@@ -52,20 +52,20 @@ msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:11
-#: en/revolution/modules/rules/pages/game-sequence.adoc:26
-#: en/revolution/modules/rules/pages/game-sequence.adoc:87
-#: en/revolution/modules/rules/pages/game-sequence.adoc:108
+#: en/revolution/modules/rules/pages/game-sequence.adoc:27
+#: en/revolution/modules/rules/pages/game-sequence.adoc:92
+#: en/revolution/modules/rules/pages/game-sequence.adoc:114
 msgid "a|"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/game-sequence.adoc:12
+#: en/revolution/modules/rules/pages/game-sequence.adoc:13
 #, no-wrap
 msgid "Deploy Armies"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:23
+#: en/revolution/modules/rules/pages/game-sequence.adoc:24
 msgid ""
 "At the start of the battle both players line up their armies at least 80cm "
 "apart.  |Armies are deployed secretly by making a map of the battlefield "
@@ -74,19 +74,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:24
+#: en/revolution/modules/rules/pages/game-sequence.adoc:25
 #, no-wrap
 msgid "2"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:27
+#: en/revolution/modules/rules/pages/game-sequence.adoc:29
 #, no-wrap
 msgid "Commence Battle"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:47
+#: en/revolution/modules/rules/pages/game-sequence.adoc:49
 msgid ""
 "Each side takes a turn one after the other, starting with the player who "
 "rolls the highest score on a D6.  | | | |A turn is divided into three "
@@ -97,7 +97,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:58
+#: en/revolution/modules/rules/pages/game-sequence.adoc:61
 msgid ""
 "[.bo5a]#Troops are moved# |The player whose turn it is [.bo5a]#can move his "
 "forces in the# Command phase Command phase. [.bo5a]#Units# can either move "
@@ -106,15 +106,15 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:59
+#: en/revolution/modules/rules/pages/game-sequence.adoc:63
 #: en/revolution/modules/rules/pages/shooting.adoc:1
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:143
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:148
 #, no-wrap
 msgid "Shooting"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:71
+#: en/revolution/modules/rules/pages/game-sequence.adoc:75
 msgid ""
 "Troops shoot with missile weapons.  |The player whose turn it is can now "
 "direct missile fire.  Shooting includes short-ranged weapons such as bows, "
@@ -125,12 +125,12 @@ msgstr ""
 
 #.  Deleted "After shooting is complete, the players work out any hand-to-hand combat."
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:75
+#: en/revolution/modules/rules/pages/game-sequence.adoc:80
 msgid "Both sides fight hand-to-hand combat."
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:84
+#: en/revolution/modules/rules/pages/game-sequence.adoc:89
 msgid ""
 "|In the Combat phase both sides fight. This phase is a bit different to the "
 "other phases because it is not just the player whose turn it is that takes "
@@ -139,19 +139,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:85
+#: en/revolution/modules/rules/pages/game-sequence.adoc:90
 #, no-wrap
 msgid "3"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:88
+#: en/revolution/modules/rules/pages/game-sequence.adoc:94
 #, no-wrap
 msgid "The Battle Ends"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:105
+#: en/revolution/modules/rules/pages/game-sequence.adoc:111
 msgid ""
 "The game finishes when one player concedes defeat or an army is forced to "
 "withdraw from the battle or, if players prefer, when an agreed number of "
@@ -164,19 +164,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:106
+#: en/revolution/modules/rules/pages/game-sequence.adoc:112
 #, no-wrap
 msgid "4"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:109
+#: en/revolution/modules/rules/pages/game-sequence.adoc:116
 #, no-wrap
 msgid "Hail the victor!"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-sequence.adoc:119
+#: en/revolution/modules/rules/pages/game-sequence.adoc:126
 msgid ""
 "Once the game is over and the dust of battle settles, it is time to work out "
 "who has won.  | Once the battle is over, both players add up the number of "

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,37 +17,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:267
-#: en/revolution/modules/rules/pages/command.adoc:535
-#: en/revolution/modules/rules/pages/movement.adoc:356
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:836
+#: en/revolution/modules/rules/pages/characters.adoc:273
+#: en/revolution/modules/rules/pages/command.adoc:553
+#: en/revolution/modules/rules/pages/movement.adoc:363
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:851
 #, no-wrap
 msgid "Character movement"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/command.adoc:250
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:33
-#: en/revolution/modules/rules/pages/flying-units.adoc:17
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:14
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
+#: en/revolution/modules/rules/pages/command.adoc:254
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
+#: en/revolution/modules/rules/pages/flying-units.adoc:19
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
 #, no-wrap
 msgid "Orders"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:391
-#: en/revolution/modules/rules/pages/command.adoc:468
+#: en/revolution/modules/rules/pages/combat.adoc:422
+#: en/revolution/modules/rules/pages/command.adoc:481
 #, no-wrap
 msgid "Casualties"
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/combat.adoc:1106
-#: en/revolution/modules/rules/pages/command.adoc:506
-#: en/revolution/modules/rules/pages/flying-units.adoc:192
-#: en/revolution/modules/rules/pages/movement.adoc:322
+#: en/revolution/modules/rules/pages/combat.adoc:1162
+#: en/revolution/modules/rules/pages/command.adoc:522
+#: en/revolution/modules/rules/pages/flying-units.adoc:201
+#: en/revolution/modules/rules/pages/movement.adoc:328
 #, no-wrap
 msgid "Optional rule"
 msgstr ""
@@ -145,7 +145,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:53
+#: en/revolution/modules/rules/pages/command.adoc:54
 #, no-wrap
 msgid "Initiative movement"
 msgstr ""
@@ -158,7 +158,7 @@ msgstr ""
 #. the Movement section of the rulebook.
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:71
+#: en/revolution/modules/rules/pages/command.adoc:72
 msgid ""
 "The Initiative rule represents the ability of a unit’s commanding officer to "
 "lead his troops to the attack or guide them away from danger. Once the enemy "
@@ -187,7 +187,7 @@ msgstr ""
 #. If two or more enemy units are equally close a player
 #. may choose which to charge or evade.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:103
+#: en/revolution/modules/rules/pages/command.adoc:104
 msgid ""
 "[.ancients]#During the Initiative sub-phase,# a unit can use its own "
 "initiative to either charge or evade from the *closest visible enemy unit* "
@@ -199,7 +199,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:110
+#: en/revolution/modules/rules/pages/command.adoc:111
 msgid ""
 "A unit can only react to the closest visible enemy unit and not other units "
 "even if they are within 20cm and visible. If two or more enemy units are "
@@ -208,7 +208,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:126
+#: en/revolution/modules/rules/pages/command.adoc:127
 msgid ""
 "A unit moving by initiative can move in one of two ways. It can either "
 "*charge* the enemy unit it is reacting to, assuming it is able to do so, or "
@@ -219,7 +219,7 @@ msgstr ""
 
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:132
+#: en/revolution/modules/rules/pages/command.adoc:133
 msgid ""
 "If you want a unit to do something else, such as move around a flank or "
 "attack an enemy other than the closest, then you will have to issue an order "
@@ -232,7 +232,7 @@ msgstr ""
 #.  unit.
 #.  Removed: potentially
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:146
+#: en/revolution/modules/rules/pages/command.adoc:147
 msgid ""
 "Some units can see all round – they have 360 degree vision – and you will "
 "find this indicated in the unit’s description (for example, Wolf Riders in "
@@ -244,7 +244,7 @@ msgstr ""
 
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:152
+#: en/revolution/modules/rules/pages/command.adoc:153
 msgid ""
 "Artillery cannot use their initiative to charge, although they can use it to "
 "evade. The crews of artillery, such as cannons or stone throwers have no "
@@ -253,7 +253,7 @@ msgstr ""
 
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:161
+#: en/revolution/modules/rules/pages/command.adoc:162
 msgid ""
 "Enemy infantry or artillery in fortified positions can be ignored when it "
 "comes to using initiative – these units are considered either unable to move "
@@ -265,7 +265,7 @@ msgstr ""
 #.  Warmaster Original text from Movement chapter:
 #.  (NB Ancients is the opposite to this!)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:174
+#: en/revolution/modules/rules/pages/command.adoc:175
 msgid ""
 "A unit can also ignore the presence of enemy units if they are divided by a "
 "mutually impassable barrier so long as neither the unit itself nor the enemy "
@@ -278,7 +278,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:181
+#: en/revolution/modules/rules/pages/command.adoc:182
 msgid ""
 "In certain circumstances, a charging unit can carry a supporting unit with "
 "it. This is an exception in that it allows the supporting unit to "
@@ -287,13 +287,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:189
+#: en/revolution/modules/rules/pages/command.adoc:191
 #, no-wrap
 msgid "Sequence of movement"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:213
+#: en/revolution/modules/rules/pages/command.adoc:215
 msgid ""
 "During the Initiative sub-phase, units move one at a time in any sequence "
 "the player wishes.  Initiative is determined as each unit begins its move "
@@ -301,7 +301,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:226
+#: en/revolution/modules/rules/pages/command.adoc:228
 msgid ""
 "Note that because units move one at a time, it is possible for one unit’s "
 "move to block the line of sight of another so that it is subsequently unable "
@@ -317,7 +317,7 @@ msgstr ""
 #.  Warmaster Original diagram from Movement chapter:
 #.  TODO: Low-priority diagram text
 #. type: Block title
-#: en/revolution/modules/rules/pages/command.adoc:229
+#: en/revolution/modules/rules/pages/command.adoc:231
 #, no-wrap
 msgid "Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position."
 msgstr ""
@@ -325,19 +325,19 @@ msgstr ""
 #.  Warmaster Original diagram from Movement chapter:
 #.  TODO: Low-priority diagram text
 #. type: Block title
-#: en/revolution/modules/rules/pages/command.adoc:234
+#: en/revolution/modules/rules/pages/command.adoc:236
 #, no-wrap
 msgid "Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:238
+#: en/revolution/modules/rules/pages/command.adoc:241
 #, no-wrap
 msgid "Charge or evade"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:245
+#: en/revolution/modules/rules/pages/command.adoc:248
 msgid ""
 "As explained above, there are two types of initiative move: charge and "
 "evade.  A unit *cannot* use initiative to move in any other way. The rules "
@@ -346,7 +346,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:260
+#: en/revolution/modules/rules/pages/command.adoc:264
 msgid ""
 "Issuing orders is one of the most important features of Warmaster.  [."
 "bo5a]#Only characters can issue orders – this is their primary function in "
@@ -356,7 +356,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:280
+#: en/revolution/modules/rules/pages/command.adoc:284
 msgid ""
 "[.bo5a]#An order must be issued to a unit to enable it to move in the Orders "
 "sub-phase.# Once a unit has been given an order, it is moved and can be "
@@ -365,13 +365,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:281
+#: en/revolution/modules/rules/pages/command.adoc:286
 #, no-wrap
 msgid "Giving an order"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:289
+#: en/revolution/modules/rules/pages/command.adoc:294
 msgid ""
 "The player [.bo5a]#first nominates a unit a unit that# he wishes to move [."
 "bo5a]#and indicates the character that will give the necessary order#.  He "
@@ -382,7 +382,7 @@ msgstr ""
 #.  Spelling i.e.
 #.  NB: Half-pace failed orders not in Ancients/Bo5A.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:300
+#: en/revolution/modules/rules/pages/command.adoc:305
 msgid ""
 "Roll 2D6 (i.e., roll two dice and add the results to get a score of between "
 "2 and 12). If the score is equal to or less than the character’s Command "
@@ -394,13 +394,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:303
+#: en/revolution/modules/rules/pages/command.adoc:309
 #, no-wrap
 msgid "Order sequence"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:310
+#: en/revolution/modules/rules/pages/command.adoc:316
 msgid ""
 "Once a character has begun to issue orders, he must finish issuing all of "
 "his orders before another character can start to do so. It is not permitted "
@@ -426,7 +426,7 @@ msgstr ""
 #. |===
 #. ****
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:343
+#: en/revolution/modules/rules/pages/command.adoc:349
 msgid ""
 "Once a character has failed to give an order, he cannot issue any more "
 "orders in that Command phase. Once the General has failed to give an order, "
@@ -439,13 +439,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:346
+#: en/revolution/modules/rules/pages/command.adoc:353
 #, no-wrap
 msgid "Giving further orders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:352
+#: en/revolution/modules/rules/pages/command.adoc:359
 msgid ""
 "When a unit is given an order, it moves to a new position.  Usually this "
 "enables the unit to move 20cm if it is infantry or 30cm if cavalry, but some "
@@ -453,7 +453,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:366
+#: en/revolution/modules/rules/pages/command.adoc:373
 msgid ""
 "Once a unit has moved, the character can give it a further order to move "
 "again or he can attempt to give an order to a different unit. However, he is "
@@ -469,7 +469,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:376
+#: en/revolution/modules/rules/pages/command.adoc:383
 msgid ""
 "The player continues issuing orders and moving his units until he no longer "
 "wishes to move or until he can issue no more orders. It is possible to fail "
@@ -481,14 +481,15 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:379
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:49
+#: en/revolution/modules/rules/pages/command.adoc:387
+#: en/revolution/modules/rules/pages/command.adoc:501
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:54
 #, no-wrap
 msgid "Command penalties"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:388
+#: en/revolution/modules/rules/pages/command.adoc:396
 msgid ""
 "Circumstances can sometimes make it harder to issue an order. For example, a "
 "unit might be a far distant speck on the horizon or it might be obscured "
@@ -498,14 +499,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:392
-#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:4
+#: en/revolution/modules/rules/pages/command.adoc:401
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:5
 #, no-wrap
 msgid "Distance"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:399
+#: en/revolution/modules/rules/pages/command.adoc:408
 msgid ""
 "If the distance between the character and the unit you wish to move is more "
 "than 20cm, the character suffers a Command penalty of −1 per full 20cm of "
@@ -514,7 +515,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/command.adoc:409
+#: en/revolution/modules/rules/pages/command.adoc:418
 #, no-wrap
 msgid ""
 "|Distance to Unit |Command Penalty\n"
@@ -527,13 +528,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:412
+#: en/revolution/modules/rules/pages/command.adoc:422
 #, no-wrap
 msgid "Multiple orders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:421
+#: en/revolution/modules/rules/pages/command.adoc:431
 msgid ""
 "If a unit has already been issued an order during the Command phase then "
 "there is a Command penalty of −1 each time the character gives it a further "
@@ -543,7 +544,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/command.adoc:429
+#: en/revolution/modules/rules/pages/command.adoc:439
 #, no-wrap
 msgid ""
 "|Order  |Command Penalty\n"
@@ -554,13 +555,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:432
+#: en/revolution/modules/rules/pages/command.adoc:443
 #, no-wrap
 msgid "Enemy close"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:441
+#: en/revolution/modules/rules/pages/command.adoc:452
 msgid ""
 "If the distance between the unit you wish to move and the closest enemy unit "
 "is 20cm or less, there is a Command penalty of −1. Units close to the enemy "
@@ -571,7 +572,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/command.adoc:448
+#: en/revolution/modules/rules/pages/command.adoc:459
 #, no-wrap
 msgid ""
 "|Closest Enemy  |Command Penalty\n"
@@ -581,14 +582,14 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/command.adoc:451
-#: en/revolution/modules/rules/pages/movement.adoc:948
+#: en/revolution/modules/rules/pages/command.adoc:463
+#: en/revolution/modules/rules/pages/movement.adoc:972
 #, no-wrap
 msgid "Dense terrain"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:459
+#: en/revolution/modules/rules/pages/command.adoc:471
 msgid ""
 "If the unit you want to move is in dense terrain then there is a Command "
 "penalty of −1. The penalty applies if at least one stand is even partially "
@@ -598,7 +599,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/command.adoc:465
+#: en/revolution/modules/rules/pages/command.adoc:477
 #, no-wrap
 msgid ""
 "|Dense Terrain  |Command Penalty\n"
@@ -607,7 +608,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:474
+#: en/revolution/modules/rules/pages/command.adoc:487
 msgid ""
 "If the unit has lost one or more stands as casualties then there is a "
 "Command penalty of −1 per stand lost.  Units which have suffered casualties "
@@ -615,7 +616,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/command.adoc:480
+#: en/revolution/modules/rules/pages/command.adoc:493
 #, no-wrap
 msgid ""
 "|Casualties  |Command Penalty\n"
@@ -623,32 +624,31 @@ msgid ""
 "|Each Stand  |−1\n"
 msgstr ""
 
-#. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:499
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/command.adoc:514
 msgid ""
-"_Example: The General has a Command value of 9.  He has already moved his "
-"cavalry forward once.  Now he wishes to move them again, hoping to capture a "
-"hill that lies on the enemy’s flank. The cavalry are 65cm away and have "
-"already moved once, which means a whopping −4 Command penalty (−3 for "
-"distance and −1 for the second move). The player will have to roll 5 or less "
-"to give the unit an order.  He knows this is unlikely but decides to take "
-"the risk anyway as he considers the hill an important objective. He rolls "
-"2D6 and scores 4… success! The player moves the cavalry into their new "
-"position._"
+"The General has a Command value of 9.  He has already moved his cavalry "
+"forward once.  Now he wishes to move them again, hoping to capture a hill "
+"that lies on the enemy’s flank. The cavalry are 65cm away and have already "
+"moved once, which means a whopping −4 Command penalty (−3 for distance and "
+"−1 for the second move). The player will have to roll 5 or less to give the "
+"unit an order.  He knows this is unlikely but decides to take the risk "
+"anyway as he considers the hill an important objective. He rolls 2D6 and "
+"scores 4… success! The player moves the cavalry into their new position."
 msgstr ""
 
-#. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:505
+#. type: delimited block =
+#: en/revolution/modules/rules/pages/command.adoc:520
 msgid ""
-"_[.bo5a]#Next, he attempts to give orders to a unit of infantry 10cm away# "
-"(no penalty) and within a wood (−1 dense terrain penalty). [.bo5a]#Although "
-"he only needs 8 or less, this time he is unlucky and rolls a 10. The unit "
-"does not move – the General has failed an order so the Orders sub-phase "
-"comes to an end.#_"
+"Next, he attempts to give orders to a unit of infantry 10cm away# [.wmr]#(no "
+"penalty) and within a wood (−1 dense terrain penalty).# Although he only "
+"needs 8 or less, this time he is unlucky and rolls a 10. The unit does not "
+"move – the General has failed an order so the Orders sub-phase comes to an "
+"end."
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/command.adoc:513
+#: en/revolution/modules/rules/pages/command.adoc:529
 msgid ""
 "All Characters have +1 bonus to their Command value for their first command "
 "of the first turn.  This represents a better state of organisation and "
@@ -657,13 +657,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:517
+#: en/revolution/modules/rules/pages/command.adoc:534
 #, no-wrap
 msgid "Charge!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:525
+#: en/revolution/modules/rules/pages/command.adoc:542
 msgid ""
 "A move which brings a unit into contact with the enemy is called a charge. A "
 "charge does not imply that the unit concerned covers the whole distance at a "
@@ -673,7 +673,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:530
+#: en/revolution/modules/rules/pages/command.adoc:547
 msgid ""
 "Once it has charged, a unit cannot receive any further orders that turn. It "
 "is committed to battle and must fight in the ensuing Combat phase. See the "
@@ -681,14 +681,14 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/command.adoc:531
+#: en/revolution/modules/rules/pages/command.adoc:548
 #, no-wrap
 msgid "A unit of cavalry charging into combat with a unit of infantry"
 msgstr ""
 
 #.  Moved here from Movement chapter
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:546
+#: en/revolution/modules/rules/pages/command.adoc:564
 msgid ""
 "Characters move at the end of the Command phase after unit movement has been "
 "completed. Characters never move with units during the Command phase, not "
@@ -699,7 +699,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:554
+#: en/revolution/modules/rules/pages/command.adoc:572
 msgid ""
 "Each character can move once and up to 60cm, or 100cm if flying. Characters "
 "can always move at full pace and, unless mounted on a monstrous mount or "
@@ -709,7 +709,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:564
+#: en/revolution/modules/rules/pages/command.adoc:582
 msgid ""
 "Due to their unique role in Warmaster, characters are treated differently to "
 "other types of units. Character stands are essentially ‘tokens’ that are "
@@ -722,13 +722,13 @@ msgstr ""
 
 #.  End moved here
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:566
+#: en/revolution/modules/rules/pages/command.adoc:584
 msgid "See the xref::characters.adoc[Generals, Wizards and Heroes section]."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:569
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:61
+#: en/revolution/modules/rules/pages/command.adoc:588
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:67
 #, no-wrap
 msgid "Brigade orders"
 msgstr ""
@@ -738,7 +738,7 @@ msgstr ""
 #.  but to avoid rewriting the entire rulebook I'm
 #.  leaving the Warmaster text here as it's still OK.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:585
+#: en/revolution/modules/rules/pages/command.adoc:604
 msgid ""
 "In order to save time, it is permitted for an order to be issued to up to "
 "four adjacent units simultaneously. This means that fewer tests need to be "
@@ -750,7 +750,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:594
+#: en/revolution/modules/rules/pages/command.adoc:613
 msgid ""
 "A brigade consists of up to four units arranged so that they touch, forming "
 "a single body. Units comprising a brigade at the start of the ordered "
@@ -761,7 +761,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:605
+#: en/revolution/modules/rules/pages/command.adoc:624
 msgid ""
 "Bear in mind that it is not obligatory to move units as a brigade simply "
 "because they happen to be touching at the start of the Command phase. A "
@@ -774,19 +774,19 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/command.adoc:607
+#: en/revolution/modules/rules/pages/command.adoc:626
 #, no-wrap
 msgid "These three units can be formed into a brigade."
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/command.adoc:610
+#: en/revolution/modules/rules/pages/command.adoc:629
 #, no-wrap
 msgid "These four units can also be formed into a brigade. Each unit is arranged into a column that is three stands deep."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:631
+#: en/revolution/modules/rules/pages/command.adoc:650
 msgid ""
 "To give orders to a brigade, measure to the most distant unit in the brigade "
 "and [.ancients]#apply the appropriate distance penalty. Also# apply the −1 "
@@ -803,7 +803,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:636
+#: en/revolution/modules/rules/pages/command.adoc:655
 msgid ""
 "Assuming an order is successfully issued, the brigade can move. Except when "
 "units wish to charge, brigades move as a body, with each unit remaining in "
@@ -811,7 +811,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:643
+#: en/revolution/modules/rules/pages/command.adoc:662
 msgid ""
 "Individual units in the brigade can change their relative positions but must "
 "still form a brigade once its move is complete. Individual units in the "
@@ -820,7 +820,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:654
+#: en/revolution/modules/rules/pages/command.adoc:673
 msgid ""
 "Conceivably, some units in a brigade might wish to charge the enemy whilst "
 "others do not, as shown in <<f-brigade-orders,the following diagrams>>.  Any "
@@ -832,13 +832,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/command.adoc:676
+#: en/revolution/modules/rules/pages/command.adoc:696
 #, no-wrap
 msgid "Further brigade orders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:686
+#: en/revolution/modules/rules/pages/command.adoc:706
 msgid ""
 "Once a brigade has moved, the player may not want to move the whole brigade "
 "again but might wish to move an individual unit or subset of touching units. "
@@ -849,7 +849,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:694
+#: en/revolution/modules/rules/pages/command.adoc:714
 msgid ""
 "Once a brigade has moved, the player must finish moving all the units in the "
 "original brigade before he moves other units. If he divides a brigade into "
@@ -859,14 +859,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:698
+#: en/revolution/modules/rules/pages/command.adoc:718
 msgid ""
 "Brigades cannot use initiative as a body. Units using initiative must be "
 "moved at the start of the Command phase in the usual way."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/command.adoc:707
+#: en/revolution/modules/rules/pages/command.adoc:727
 msgid ""
 "During a battle, units may be moved into touch to form a new brigade. "
 "However, a brigade cannot be formed and subsequently moved in the same "

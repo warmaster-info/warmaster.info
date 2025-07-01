@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,42 +17,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:46
-#: en/revolution/modules/rules/pages/flying-units.adoc:104
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:21
-#: en/revolution/modules/rules/pages/movement.adoc:262
-#: en/revolution/modules/rules/pages/movement.adoc:860
-#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:28
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:49
+#: en/revolution/modules/rules/pages/flying-units.adoc:110
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
+#: en/revolution/modules/rules/pages/movement.adoc:266
+#: en/revolution/modules/rules/pages/movement.adoc:884
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:4
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/flying-units.adoc:166
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:26
-#: en/revolution/modules/rules/pages/game-values.adoc:75
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/flying-units.adoc:175
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
+#: en/revolution/modules/rules/pages/game-values.adoc:79
 #, no-wrap
 msgid "Characters"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/command.adoc:250
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:33
-#: en/revolution/modules/rules/pages/flying-units.adoc:17
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:14
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
+#: en/revolution/modules/rules/pages/command.adoc:254
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
+#: en/revolution/modules/rules/pages/flying-units.adoc:19
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
 #, no-wrap
 msgid "Orders"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:10
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:28
-#: en/revolution/modules/rules/pages/flying-units.adoc:23
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:9
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
+#: en/revolution/modules/rules/pages/flying-units.adoc:26
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:11
 #, no-wrap
 msgid "Home back"
 msgstr ""
@@ -64,57 +64,57 @@ msgid "Flying Units at a Glance"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:4
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:5
 #, no-wrap
 msgid "Initative"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:8
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:9
 msgid ""
 "Flying units can use Initiative to charge if within 20cm of enemy.+ Flying "
 "units cannot evade."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:15
 msgid ""
 "Flying units more than 20cm from a character can home back up to 1D6 × 10cm "
 "towards any character before orders are issued."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:18
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:21
 msgid ""
 "Flying units can only be issued orders if they are within 20cm of a "
 "character."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:19
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:22
 msgid "[.edit]#Flying units can take orders to charge enemy within 60cm.#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:20
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:23
 msgid "Flying units under orders can move up to 100cm."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:29
 msgid ""
 "Flying units ignore terrain (they fly right over it) but cannot end their "
 "move in a wood."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:30
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:35
 msgid ""
 "Characters riding a flying Monstrous Mount add its Attack value to their own."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:36
 msgid ""
 "Characters who ride a flying creature can move up to 100cm rather than 60cm."
 msgstr ""

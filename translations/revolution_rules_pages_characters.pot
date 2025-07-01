@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #. type: Title =
 #: en/revolution/modules/rules/pages/characters.adoc:1
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:77
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
 #: en/revolution/modules/rules/pages/generals-wizards-and-heroes.adoc:1
 #, no-wrap
 msgid "Generals, Wizards & Heroes"
@@ -56,13 +56,13 @@ msgid "Generals, Wizards and Heroes are immediately recognisable pieces."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:28
+#: en/revolution/modules/rules/pages/characters.adoc:29
 #, no-wrap
 msgid "Game values"
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/characters.adoc:36
+#: en/revolution/modules/rules/pages/characters.adoc:37
 msgid ""
 "In some armies, Generals, Wizards and Heroes have different names such as "
 "Liche priests in the Undead army and Shamans in the Orc army. Names apart, "
@@ -71,7 +71,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/characters.adoc:46
+#: en/revolution/modules/rules/pages/characters.adoc:47
 msgid ""
 "Unlike troop stands Character stands don’t have a value for Hits or Armour. "
 "Instead they have a Command value. They have no Hits value at all. They have "
@@ -81,7 +81,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/characters.adoc:57
+#: en/revolution/modules/rules/pages/characters.adoc:58
 #, no-wrap
 msgid ""
 "|↙ |⤸ |⤹ |↘\n"
@@ -93,13 +93,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:61
+#: en/revolution/modules/rules/pages/characters.adoc:63
 #, no-wrap
 msgid "Characters as game pieces"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:70
+#: en/revolution/modules/rules/pages/characters.adoc:72
 msgid ""
 "Characters are different from other pieces in the game.  Most stands of "
 "infantry or other warriors represent a substantial body of troops defined by "
@@ -109,7 +109,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:76
+#: en/revolution/modules/rules/pages/characters.adoc:78
 msgid ""
 "The character stand’s prime function is to provide a fixed point from which "
 "orders are issued. In addition a character stand can bolster a unit’s combat "
@@ -118,7 +118,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:82
+#: en/revolution/modules/rules/pages/characters.adoc:84
 msgid ""
 "Because of their unique place in the game, character stands are treated "
 "differently to units of troops. A character stand is used much more in the "
@@ -127,7 +127,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:92
+#: en/revolution/modules/rules/pages/characters.adoc:94
 msgid ""
 "Units from their own side can move through characters without penalty and "
 "they, in turn, can move through units from their own side. If friendly units "
@@ -138,13 +138,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:95
+#: en/revolution/modules/rules/pages/characters.adoc:97
 msgid ""
 "If moved through by enemies, characters are repositioned as described below."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:100
+#: en/revolution/modules/rules/pages/characters.adoc:102
 msgid ""
 "Characters can also be seen through and, where appropriate, shot through by "
 "troops from both sides.  Their presence is not considered to block a unit’s "
@@ -152,7 +152,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:107
+#: en/revolution/modules/rules/pages/characters.adoc:109
 msgid ""
 "It follows that characters cannot be specifically shot at, targeted with "
 "spells or attacked in combat. Characters don’t suffer hits from shooting or "
@@ -162,7 +162,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:114
+#: en/revolution/modules/rules/pages/characters.adoc:116
 msgid ""
 "It is worth bearing in mind that character stands are always ignored when "
 "considering which enemy target is the closest and when measuring between "
@@ -172,13 +172,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:119
+#: en/revolution/modules/rules/pages/characters.adoc:122
 #, no-wrap
 msgid "Orders from wizards & heroes"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:125
+#: en/revolution/modules/rules/pages/characters.adoc:128
 msgid ""
 "We have already described how characters give orders in the Command phase.  "
 "[.bo5a]#This section summarises the principle rules – for details see the "
@@ -186,7 +186,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:132
+#: en/revolution/modules/rules/pages/characters.adoc:135
 msgid ""
 "Any character can issue an order to any unit or brigade within his command "
 "range. The General’s command range extends over the whole battlefield but a "
@@ -195,7 +195,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/characters.adoc:140
+#: en/revolution/modules/rules/pages/characters.adoc:143
 #, no-wrap
 msgid ""
 "|Character |Command Range\n"
@@ -206,7 +206,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:147
+#: en/revolution/modules/rules/pages/characters.adoc:150
 msgid ""
 "A player can issue orders from his characters in any sequence he wishes but "
 "must finish issuing orders from each character before moving to the next. "
@@ -215,7 +215,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:152
+#: en/revolution/modules/rules/pages/characters.adoc:155
 msgid ""
 "Once a Hero or Wizard has failed to issue an order, that character can issue "
 "no more orders in that Command phase. However, other characters can continue "
@@ -223,7 +223,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:162
+#: en/revolution/modules/rules/pages/characters.adoc:165
 msgid ""
 "Once the General has failed to give an order, *no further orders* can be "
 "issued in that Command phase by *any* characters even if they have issued no "
@@ -234,13 +234,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:163
+#: en/revolution/modules/rules/pages/characters.adoc:167
 #, no-wrap
 msgid "Blunders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:174
+#: en/revolution/modules/rules/pages/characters.adoc:178
 msgid ""
 "Wizards and Heroes are not always reliable. We presume that the General has "
 "briefed them concerning his battle plan, carefully instructed them in their "
@@ -252,7 +252,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:188
+#: en/revolution/modules/rules/pages/characters.adoc:192
 msgid ""
 "This wayward inclination is taken into account whenever a Wizard or Hero "
 "fails to issue an order as a result of rolling a 12. If the player rolls a "
@@ -267,7 +267,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:193
+#: en/revolution/modules/rules/pages/characters.adoc:197
 msgid ""
 "A General doesn’t blunder – [.bo5a]#they are above such things.# However, if "
 "the General rolls a 12 the unit/brigade cannot move even if it was its first "
@@ -275,19 +275,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/characters.adoc:197
+#: en/revolution/modules/rules/pages/characters.adoc:202
 #, no-wrap
 msgid "D6 Blunder"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/characters.adoc:199
+#: en/revolution/modules/rules/pages/characters.adoc:204
 #, no-wrap
 msgid "*1 You must be crazy!*"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:217
+#: en/revolution/modules/rules/pages/characters.adoc:222
 msgid ""
 "The unit’s officers are seriously bewildered by their orders and insist on "
 "disputing their interpretation.  This takes a long time during which tempers "
@@ -303,13 +303,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/characters.adoc:219
+#: en/revolution/modules/rules/pages/characters.adoc:224
 #, no-wrap
 msgid "*2–3 Blimey Sir! There’s thousands of ’em!*"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:235
+#: en/revolution/modules/rules/pages/characters.adoc:240
 msgid ""
 "The unit’s officers mistake a shabby group of curious locals for a huge "
 "enemy force. If there are no visible enemy units within a full pace move of "
@@ -323,13 +323,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/characters.adoc:237
+#: en/revolution/modules/rules/pages/characters.adoc:242
 #, no-wrap
 msgid "*4–5 No sense in getting killed sir!*"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:245
+#: en/revolution/modules/rules/pages/characters.adoc:250
 msgid ""
 "The unit’s officers are timorous and hesitant, convinced that the unit is "
 "surrounded by enemy and unseen dangers. The unit/brigade may not move and "
@@ -337,13 +337,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/characters.adoc:247
+#: en/revolution/modules/rules/pages/characters.adoc:252
 #, no-wrap
 msgid "*6 Up and ’at ’em, men!*"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:263
+#: en/revolution/modules/rules/pages/characters.adoc:268
 msgid ""
 "The troops are overcome by a sudden and uncontrollable lust for glory and "
 "surge forwards out of control. The unit must move at its maximum full pace "
@@ -357,37 +357,37 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:267
-#: en/revolution/modules/rules/pages/command.adoc:535
-#: en/revolution/modules/rules/pages/movement.adoc:356
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:836
+#: en/revolution/modules/rules/pages/characters.adoc:273
+#: en/revolution/modules/rules/pages/command.adoc:553
+#: en/revolution/modules/rules/pages/movement.adoc:363
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:851
 #, no-wrap
 msgid "Character movement"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:271
+#: en/revolution/modules/rules/pages/characters.adoc:277
 msgid ""
 "We have already covered the essentials of character movement in the Command "
 "section. To summarise:"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:275
+#: en/revolution/modules/rules/pages/characters.adoc:281
 msgid ""
 "Characters move at the end of the Command phase and never move in company "
 "with units during the Command phase."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:279
+#: en/revolution/modules/rules/pages/characters.adoc:285
 msgid ""
 "A character can move once up to 60cm (100cm if flying). No Command test is "
 "required for a character to move."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:285
+#: en/revolution/modules/rules/pages/characters.adoc:291
 msgid ""
 "Characters move in company with units they have joined in other phases. For "
 "example, if they are driven back by missile fire, move to make way for other "
@@ -396,7 +396,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/characters.adoc:286
+#: en/revolution/modules/rules/pages/characters.adoc:293
 #, no-wrap
 msgid "Characters & terrain"
 msgstr ""
@@ -404,7 +404,7 @@ msgstr ""
 #.  Spelling i.e.
 #.  "Monstrous and Chariot Mounts" is "Character Mounts".
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:299
+#: en/revolution/modules/rules/pages/characters.adoc:306
 msgid ""
 "Unless riding monsters or chariots, character stands [.bo5a]#treat# terrain "
 "in the same way as infantry [.bo5a]#regardless of whether the actual model "
@@ -416,13 +416,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:302
+#: en/revolution/modules/rules/pages/characters.adoc:310
 #, no-wrap
 msgid "Joining a unit"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:311
+#: en/revolution/modules/rules/pages/characters.adoc:319
 msgid ""
 "A character may join a unit by moving into touch with it at the end of the "
 "Command phase. The player declares that the character is now with the unit. "
@@ -433,7 +433,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:316
+#: en/revolution/modules/rules/pages/characters.adoc:324
 msgid ""
 "A character must also join a unit if he is obliged to move as a result of "
 "enemy troop movement. In this case, he must move into touch with a friendly "
@@ -441,7 +441,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:321
+#: en/revolution/modules/rules/pages/characters.adoc:329
 msgid ""
 "If a character is joined with a unit which is confused, this does not "
 "prevent the character from moving at the end of the Command phase. Nor does "
@@ -449,7 +449,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:339
+#: en/revolution/modules/rules/pages/characters.adoc:347
 msgid ""
 "The precise position of the character stand relative to a unit he has joined "
 "is not critical. Once he has joined a unit, the character himself is assumed "
@@ -467,13 +467,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:340
+#: en/revolution/modules/rules/pages/characters.adoc:349
 #, no-wrap
 msgid "Enemy moving through characters"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:350
+#: en/revolution/modules/rules/pages/characters.adoc:359
 msgid ""
 "If a lone character gets in the way of enemy units as they move then the "
 "character stand must be moved up to 30cm to join a friendly unit. Flying "
@@ -484,7 +484,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:355
+#: en/revolution/modules/rules/pages/characters.adoc:364
 msgid ""
 "If a character cannot move to a friendly unit, he is considered to have been "
 "slain and is removed from the battle. If the General is slain, the battle is "
@@ -492,7 +492,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:361
+#: en/revolution/modules/rules/pages/characters.adoc:370
 msgid ""
 "This is an important rule because it obliges characters to remain fairly "
 "close to their own troops, especially Wizards who might otherwise exploit "
@@ -501,7 +501,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:371
+#: en/revolution/modules/rules/pages/characters.adoc:380
 msgid ""
 "If a character is with a unit when it makes contact with a moving enemy then "
 "the character can be repositioned out of the way as convenient, so long as "
@@ -512,13 +512,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:372
+#: en/revolution/modules/rules/pages/characters.adoc:382
 #, no-wrap
 msgid "Characters & shooting"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:378
+#: en/revolution/modules/rules/pages/characters.adoc:388
 msgid ""
 "Characters cannot be shot at but may have joined a unit which is shot at and "
 "either been driven back or destroyed as a result. If a character is with a "
@@ -526,7 +526,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:382
+#: en/revolution/modules/rules/pages/characters.adoc:392
 msgid ""
 "If a character has joined a unit that is subsequently destroyed by shooting "
 "or which is routed and destroyed as a result of a drive back then the "
@@ -534,13 +534,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:384
+#: en/revolution/modules/rules/pages/characters.adoc:395
 #, no-wrap
 msgid "Characters that shoot"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:390
+#: en/revolution/modules/rules/pages/characters.adoc:401
 msgid ""
 "All characters have an Attack bonus expressed as +1, +2 or +3.  If a "
 "character can shoot, it has an Attack bonus expressed as +1/1, with the "
@@ -548,7 +548,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:394
+#: en/revolution/modules/rules/pages/characters.adoc:405
 msgid ""
 "A character that has a shooting attack can only use it when joined to a unit."
 msgstr ""
@@ -557,7 +557,7 @@ msgstr ""
 #. If several characters have joined a unit, only one
 #. can use its shooting attack.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:409
+#: en/revolution/modules/rules/pages/characters.adoc:420
 msgid ""
 "Monster mounted characters or other characters that have a shooting attack "
 "when joined to units are assumed to be within the unit’s formation "
@@ -568,7 +568,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:417
+#: en/revolution/modules/rules/pages/characters.adoc:428
 msgid ""
 "All shots taken at the same enemy unit have to be worked out from the same "
 "stand, but otherwise the character can ‘move’ from stand to stand during the "
@@ -578,13 +578,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:418
+#: en/revolution/modules/rules/pages/characters.adoc:430
 #, no-wrap
 msgid "Characters in combat"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:426
+#: en/revolution/modules/rules/pages/characters.adoc:438
 msgid ""
 "When one or more characters join a unit in combat, the character with the "
 "highest Attack value can add this as a bonus to the Attack value of any one "
@@ -594,7 +594,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:431
+#: en/revolution/modules/rules/pages/characters.adoc:443
 msgid ""
 "Character stands which have joined a unit in combat must remain with it "
 "whilst the combat lasts and must fall back, stand their ground, retreat, "
@@ -602,7 +602,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:436
+#: en/revolution/modules/rules/pages/characters.adoc:448
 msgid ""
 "A General, Wizard or Hero is slain if the unit he is with is destroyed. This "
 "is of particular importance as it makes combat an extremely risky business "
@@ -610,14 +610,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:437
+#: en/revolution/modules/rules/pages/characters.adoc:450
 #, no-wrap
 msgid "Character mounts"
 msgstr ""
 
 #.  Spelling modelled
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:450
+#: en/revolution/modules/rules/pages/characters.adoc:463
 msgid ""
 "If you read the Army Lists section you’ll see that Generals, Wizards and "
 "Heroes are often allowed to ride on some sort of monster or in a chariot. In "
@@ -630,7 +630,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:461
+#: en/revolution/modules/rules/pages/characters.adoc:474
 msgid ""
 "If a character rides either a Monstrous or Chariot Mount this does not "
 "affect the rules described above. The stand is still a General, Wizard or "
@@ -642,7 +642,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:465
+#: en/revolution/modules/rules/pages/characters.adoc:478
 msgid ""
 "It is quite common for characters to ride some sort of flying creature such "
 "as a Griffon or a Dragon. This increases the rider’s maximum movement to "
@@ -650,14 +650,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:469
+#: en/revolution/modules/rules/pages/characters.adoc:482
 msgid ""
 "A flying character is not affected by normally impassable terrain because it "
 "can fly right over it in the same way as other flying stands."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:481
+#: en/revolution/modules/rules/pages/characters.adoc:494
 msgid ""
 "A character riding a chariot or a monster cannot move into terrain that his "
 "mount could not enter. He cannot enter a wood for example. He cannot join a "
@@ -670,7 +670,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:486
+#: en/revolution/modules/rules/pages/characters.adoc:499
 msgid ""
 "Note that common mounts such as horses, wolves, boars and similar creatures "
 "are not accorded any special rules, and characters riding these are simply "
@@ -678,13 +678,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:487
+#: en/revolution/modules/rules/pages/characters.adoc:501
 #, no-wrap
 msgid "Odd size character bases"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:495
+#: en/revolution/modules/rules/pages/characters.adoc:509
 msgid ""
 "Characters are mounted on standard sized bases in the same way as troop "
 "stands – however many players prefer to mount their characters on round "
@@ -694,7 +694,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:501
+#: en/revolution/modules/rules/pages/characters.adoc:515
 msgid ""
 "Character stands can be mounted onto round bases up to 25mm in diameter "
 "using the normal rules. Simply measure distances to the stand’s edge as you "
@@ -703,7 +703,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/characters.adoc:511
+#: en/revolution/modules/rules/pages/characters.adoc:525
 msgid ""
 "Character stands can be mounted onto larger bases, whether rectangular, "
 "round or whatever, but in these cases all distances must be measured either "

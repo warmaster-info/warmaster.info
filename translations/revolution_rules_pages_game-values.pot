@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,82 +18,81 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/armies/nav.adoc:2
-#: en/revolution/modules/rules/pages/game-values.adoc:9
+#: en/revolution/modules/rules/pages/game-values.adoc:10
 #, no-wrap
 msgid "Armies"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:103
-#: en/revolution/modules/rules/pages/game-values.adoc:218
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:106
+#: en/revolution/modules/rules/pages/game-values.adoc:227
 #, no-wrap
 msgid "Type"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:109
-#: en/revolution/modules/rules/pages/game-values.adoc:220
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:112
+#: en/revolution/modules/rules/pages/game-values.adoc:229
 #, no-wrap
 msgid "Attack"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:111
-#: en/revolution/modules/rules/pages/game-values.adoc:221
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:114
+#: en/revolution/modules/rules/pages/game-values.adoc:230
 msgid "The basic number of dice rolled in combat by each stand in the unit."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:112
-#: en/revolution/modules/rules/pages/game-values.adoc:222
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:115
+#: en/revolution/modules/rules/pages/game-values.adoc:231
 #, no-wrap
 msgid "Hits"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:114
-#: en/revolution/modules/rules/pages/game-values.adoc:223
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:117
+#: en/revolution/modules/rules/pages/game-values.adoc:232
 msgid "The number of hits the unit can suffer before one stand is removed."
 msgstr ""
 
-#.  TODO: bo5a Open, Defended and Fortified box example
 #. type: Title ===
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:115
-#: en/revolution/modules/rules/pages/combat.adoc:376
-#: en/revolution/modules/rules/pages/game-values.adoc:224
-#: en/revolution/modules/rules/pages/shooting.adoc:214
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:118
+#: en/revolution/modules/rules/pages/combat.adoc:406
+#: en/revolution/modules/rules/pages/game-values.adoc:233
+#: en/revolution/modules/rules/pages/shooting.adoc:221
 #, no-wrap
 msgid "Armour"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:119
-#: en/revolution/modules/rules/pages/game-sequence.adoc:48
-#: en/revolution/modules/rules/pages/game-values.adoc:226
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:122
+#: en/revolution/modules/rules/pages/game-sequence.adoc:51
+#: en/revolution/modules/rules/pages/game-values.adoc:235
 #, no-wrap
 msgid "Command"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:121
-#: en/revolution/modules/rules/pages/game-values.adoc:228
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
+#: en/revolution/modules/rules/pages/game-values.adoc:237
 #, no-wrap
 msgid "Unit size"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:19
-#: en/revolution/modules/rules/pages/game-values.adoc:21
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:20
+#: en/revolution/modules/rules/pages/game-values.adoc:23
 #, no-wrap
 msgid "Stands"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:4
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/flying-units.adoc:166
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:26
-#: en/revolution/modules/rules/pages/game-values.adoc:75
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/flying-units.adoc:175
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
+#: en/revolution/modules/rules/pages/game-values.adoc:79
 #, no-wrap
 msgid "Characters"
 msgstr ""
@@ -102,23 +101,23 @@ msgstr ""
 #. // charging stand is allowed to wrap around to the
 #. // flank (in the illustrated example)
 #. type: Block title
-#: en/revolution/modules/rules/pages/combat.adoc:102
-#: en/revolution/modules/rules/pages/combat.adoc:526
-#: en/revolution/modules/rules/pages/combat.adoc:1184
-#: en/revolution/modules/rules/pages/combat.adoc:1187
-#: en/revolution/modules/rules/pages/confusion.adoc:176
-#: en/revolution/modules/rules/pages/confusion.adoc:197
-#: en/revolution/modules/rules/pages/game-values.adoc:322
-#: en/revolution/modules/rules/pages/game-values.adoc:330
-#: en/revolution/modules/rules/pages/game-values.adoc:347
-#: en/revolution/modules/rules/pages/game-values.adoc:363
-#: en/revolution/modules/rules/pages/movement.adoc:429
-#: en/revolution/modules/rules/pages/movement.adoc:432
-#: en/revolution/modules/rules/pages/movement.adoc:481
-#: en/revolution/modules/rules/pages/movement.adoc:484
-#: en/revolution/modules/rules/pages/movement.adoc:507
-#: en/revolution/modules/rules/pages/movement.adoc:663
-#: en/revolution/modules/rules/pages/movement.adoc:720
+#: en/revolution/modules/rules/pages/combat.adoc:105
+#: en/revolution/modules/rules/pages/combat.adoc:561
+#: en/revolution/modules/rules/pages/combat.adoc:1242
+#: en/revolution/modules/rules/pages/combat.adoc:1245
+#: en/revolution/modules/rules/pages/confusion.adoc:181
+#: en/revolution/modules/rules/pages/confusion.adoc:203
+#: en/revolution/modules/rules/pages/game-values.adoc:335
+#: en/revolution/modules/rules/pages/game-values.adoc:343
+#: en/revolution/modules/rules/pages/game-values.adoc:360
+#: en/revolution/modules/rules/pages/game-values.adoc:377
+#: en/revolution/modules/rules/pages/movement.adoc:440
+#: en/revolution/modules/rules/pages/movement.adoc:443
+#: en/revolution/modules/rules/pages/movement.adoc:493
+#: en/revolution/modules/rules/pages/movement.adoc:496
+#: en/revolution/modules/rules/pages/movement.adoc:519
+#: en/revolution/modules/rules/pages/movement.adoc:681
+#: en/revolution/modules/rules/pages/movement.adoc:740
 #, no-wrap
 msgid "{empty}"
 msgstr ""
@@ -137,7 +136,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:17
+#: en/revolution/modules/rules/pages/game-values.adoc:18
 msgid ""
 "A game of Warmaster is played between two opposing model armies. Each side "
 "is controlled by a single player who plans and executes his army’s moves and "
@@ -145,7 +144,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:30
+#: en/revolution/modules/rules/pages/game-values.adoc:32
 msgid ""
 "The playing pieces of the game are called *stands*.  There are two kinds of "
 "stands: 40mm × 20mm unit stands and [.edit]#character stands, often round "
@@ -156,7 +155,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:36
+#: en/revolution/modules/rules/pages/game-values.adoc:38
 msgid ""
 "Models are mounted onto the stands so that they form representative bodies "
 "of troops or characters. The actual number of models and their positioning "
@@ -164,7 +163,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:42
+#: en/revolution/modules/rules/pages/game-values.adoc:44
 msgid ""
 "All unit stands have front, side and rear edges as indicated by the "
 "direction faced by the models. It is important that the direction faced by "
@@ -172,13 +171,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:43
+#: en/revolution/modules/rules/pages/game-values.adoc:46
 #, no-wrap
 msgid "Units"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:53
+#: en/revolution/modules/rules/pages/game-values.adoc:56
 msgid ""
 "Infantry, cavalry and most other types of troops fight in formations of "
 "several stands [.ancients]#called *units*#.  A number of stands form a "
@@ -191,7 +190,7 @@ msgstr ""
 #. //Removed WMR:
 #. For convenience, we shall refer to all of these formations as *units*.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:62
+#: en/revolution/modules/rules/pages/game-values.adoc:65
 msgid ""
 "Units usually consist of three stands of the same type but this can vary and "
 "sometimes a unit can be just a single stand, as we shall see later."
@@ -203,14 +202,14 @@ msgstr ""
 #. one. This page shows typical infantry and cavalry units.
 #.  TODO Remove/move later (WMR)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:74
+#: en/revolution/modules/rules/pages/game-values.adoc:77
 msgid ""
 "Up to four units can be temporarily placed together to form a *brigade*. "
 "We’ll be covering brigades in much more detail in the rules that follow."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:82
+#: en/revolution/modules/rules/pages/game-values.adoc:86
 msgid ""
 "In addition to the troops described, armies always include a General and can "
 "include other Heroes and Wizards as well. These consist of a single stand "
@@ -218,15 +217,14 @@ msgid ""
 "hangers on. These stands are referred to as characters."
 msgstr ""
 
-#.  Moved up like Ancients/Bo5A
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:84
+#: en/revolution/modules/rules/pages/game-values.adoc:89
 #, no-wrap
 msgid "Infantry, cavalry, chariots, monsters, artillery & machines"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:90
+#: en/revolution/modules/rules/pages/game-values.adoc:95
 msgid ""
 "Broadly speaking, armies consist of infantry, cavalry, chariots, monsters, "
 "artillery and machines – this last category includes various oddball "
@@ -234,7 +232,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:96
+#: en/revolution/modules/rules/pages/game-values.adoc:101
 msgid ""
 "The rules distinguish between these six types of troops.  Monstrous "
 "creatures of small to medium size are usually classified as either cavalry "
@@ -244,20 +242,20 @@ msgstr ""
 
 #.  Moved out of the box.
 #. type: Block title
-#: en/revolution/modules/rules/pages/game-values.adoc:98
+#: en/revolution/modules/rules/pages/game-values.adoc:103
 #, no-wrap
 msgid "An Empire infantry unit"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:104
+#: en/revolution/modules/rules/pages/game-values.adoc:109
 msgid ""
 "Infantry stands are always oriented along the long edge of the base as "
 "demonstrated by the Empire unit shown above."
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/game-values.adoc:105
+#: en/revolution/modules/rules/pages/game-values.adoc:110
 #, no-wrap
 msgid "An Empire cavalry unit"
 msgstr ""
@@ -265,7 +263,7 @@ msgstr ""
 #.  Replace with a monster or artillery
 #.  image::game-values/cavalry-2.webp[]
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:116
+#: en/revolution/modules/rules/pages/game-values.adoc:121
 msgid ""
 "Generally speaking, all other troops, including monsters and artillery as "
 "well as chariots, cavalry and machines are oriented towards the short edge "
@@ -274,13 +272,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:118
+#: en/revolution/modules/rules/pages/game-values.adoc:124
 #, no-wrap
 msgid "Attacks, hits & armour values"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:126
+#: en/revolution/modules/rules/pages/game-values.adoc:132
 msgid ""
 "Some troops are better fighters than others, some are better trained, some "
 "are more naturally violent and so on. So that we can represent these "
@@ -290,7 +288,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-values.adoc:165
+#: en/revolution/modules/rules/pages/game-values.adoc:171
 #, no-wrap
 msgid ""
 "|Attacks |Hits |Armour\n"
@@ -330,13 +328,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/game-values.adoc:167
+#: en/revolution/modules/rules/pages/game-values.adoc:174
 #, no-wrap
 msgid "Shooting attacks"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:174
+#: en/revolution/modules/rules/pages/game-values.adoc:181
 msgid ""
 "If troops carry bows or other missile weapons then they will have two Attack "
 "dice values divided by a slash, for example 3/1 or 2/2. In this case, the "
@@ -345,14 +343,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:178
+#: en/revolution/modules/rules/pages/game-values.adoc:186
 #, no-wrap
 msgid "Command values"
 msgstr ""
 
 #.  Removed: your General and other important
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:191
+#: en/revolution/modules/rules/pages/game-values.adoc:199
 msgid ""
 "Command is another game value and a very important one too! Only characters "
 "have a Command value and they use it when issuing orders. Values vary from "
@@ -363,13 +361,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:193
+#: en/revolution/modules/rules/pages/game-values.adoc:202
 #, no-wrap
 msgid "Points values"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:203
+#: en/revolution/modules/rules/pages/game-values.adoc:212
 msgid ""
 "Each unit and character in the game is assigned a points value which "
 "reflects its worth in the game – the more effective units and characters "
@@ -379,20 +377,20 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/game-values.adoc:205
+#: en/revolution/modules/rules/pages/game-values.adoc:214
 #, no-wrap
 msgid "Stat line"
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/game-values.adoc:208
+#: en/revolution/modules/rules/pages/game-values.adoc:217
 msgid ""
 "A unit’s game values can be conveniently expressed as a single line of "
 "statistics or ‘stat line’ as shown below."
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/game-values.adoc:216
+#: en/revolution/modules/rules/pages/game-values.adoc:225
 #, no-wrap
 msgid ""
 "|Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max | Special\n"
@@ -401,35 +399,35 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:219
+#: en/revolution/modules/rules/pages/game-values.adoc:228
 msgid ""
 "[.edit]#The types are Infantry, Cavalry, Chariot, Monster, Artillery, "
 "Machine, General, Hero, Wizard.#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:225
+#: en/revolution/modules/rules/pages/game-values.adoc:234
 msgid "The dice score required to negate a hit inflicted on the unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:227
+#: en/revolution/modules/rules/pages/game-values.adoc:236
 msgid "The command value of a General, Hero or Wizard."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:229
+#: en/revolution/modules/rules/pages/game-values.adoc:238
 msgid "The number of stands in the unit – this is usually 3."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:230
+#: en/revolution/modules/rules/pages/game-values.adoc:239
 #, no-wrap
 msgid "Min/max"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:231
+#: en/revolution/modules/rules/pages/game-values.adoc:240
 msgid ""
 "This values is used to delimit the number of units and characters that can "
 "be chosen for the army – see the xref:revolution:armies:index.adoc[Army "
@@ -437,43 +435,35 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:232
+#: en/revolution/modules/rules/pages/game-values.adoc:241
 #, no-wrap
 msgid "Points"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:233
+#: en/revolution/modules/rules/pages/game-values.adoc:242
 msgid "The points value of a unit of that type."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:234
+#: en/revolution/modules/rules/pages/game-values.adoc:243
 #, no-wrap
 msgid "Special"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:235
+#: en/revolution/modules/rules/pages/game-values.adoc:244
 msgid "[.bo5a]#This column indicates if any special rules apply.#"
 msgstr ""
 
-#
-#. //Ancients/Bo5A: moved to introducing-warmaster.adoc
-#. == Measuring
-#. Players are free to measure distances at any time, and
-#. in many cases this will be necessary to determine which
-#. target to shoot at or charge. There is no restriction
-#. on measurement during play itself; players can take
-#. measurements as and when they wish.
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:248
+#: en/revolution/modules/rules/pages/game-values.adoc:259
 #, no-wrap
 msgid "Anything else to learn?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:256
+#: en/revolution/modules/rules/pages/game-values.adoc:267
 msgid ""
 "Most armies have unique troops of one kind or another, many of which have "
 "special rules to reflect their sorcerous and fantastical abilities. You "
@@ -483,13 +473,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-values.adoc:258
+#: en/revolution/modules/rules/pages/game-values.adoc:270
 #, no-wrap
 msgid "Visibility on the battlefield"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:265
+#: en/revolution/modules/rules/pages/game-values.adoc:277
 msgid ""
 "During the game, players will want their units to shoot at or charge enemies "
 "or evade them. In these, and many other cases, it is important to know if "
@@ -498,7 +488,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:280
+#: en/revolution/modules/rules/pages/game-values.adoc:292
 msgid ""
 "[.ancients]#This concept underpins many parts of the game rules – so we’re "
 "going to explain it here before anything else.# As players we can easily see "
@@ -514,13 +504,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/game-values.adoc:282
+#: en/revolution/modules/rules/pages/game-values.adoc:295
 #, no-wrap
 msgid "Line of sight"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:321
+#: en/revolution/modules/rules/pages/game-values.adoc:334
 msgid ""
 "A unit can see another if it is possible to draw a straight, uninterrupted "
 "line of sight between the *front edge* of any of the unit’s stands and *any "
@@ -532,7 +522,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:329
+#: en/revolution/modules/rules/pages/game-values.adoc:342
 msgid ""
 "It is not permitted to draw a line of light over the top of unit stands from "
 "either side. These are said to ‘block’ the line of sight (see <<line-of-"
@@ -540,7 +530,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:338
+#: en/revolution/modules/rules/pages/game-values.adoc:351
 msgid ""
 "Character stands never block line of sight. They represent only a few "
 "individuals so it is assumed units see through them as if they were not "
@@ -548,7 +538,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:346
+#: en/revolution/modules/rules/pages/game-values.adoc:359
 msgid ""
 "Some units can see all round – they have 360 degree vision [.edit]#as shown "
 "in <<line-of-sight-360>># – and you will find this indicated in the unit’s "
@@ -558,13 +548,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/game-values.adoc:351
+#: en/revolution/modules/rules/pages/game-values.adoc:365
 #, no-wrap
 msgid "The effect of terrain"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:362
+#: en/revolution/modules/rules/pages/game-values.adoc:376
 msgid ""
 "Some terrain (such as areas of ruins, hills and woods)  block line of sight "
 "as described in the Movement rules.  In principle, line of sight is blocked "
@@ -576,7 +566,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/game-values.adoc:370
+#: en/revolution/modules/rules/pages/game-values.adoc:384
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#line-of-sight-"
 "questions[section on Line of Sight] with further examples."
