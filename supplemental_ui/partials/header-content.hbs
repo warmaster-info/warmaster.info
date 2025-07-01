@@ -17,23 +17,16 @@
     </div>
     <div id="topbar-nav" class="navbar-menu">
       <div class="navbar-end">
+        {{!--#with (resolvePage 'ROOT::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Home</a>{{/with--}}
         {{#with (resolvePage 'revolution:rules:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Rules</a>{{/with}}
         {{#with (resolvePage 'revolution:armies:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Armies</a>{{/with}}
-        <!--
-        {{#with (resolvePage 'ROOT::index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Home</a>{{/with}}
-        <div class="navbar-item has-dropdown is-hoverable">
-          {{#with (resolvePage 'ROOT::index.adoc')}}<a class="navbar-link" href="{{relativize url}}">Warmaster Revolution</a>{{/with}}
+        <div class="navbar-languagemenu navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">文A</a>
           <div class="navbar-dropdown">
-            {{#with (resolvePage 'revolution:rules:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Rules</a>{{/with}}
-            {{#with (resolvePage 'revolution:armies:index.adoc')}}<a class="navbar-item" href="{{relativize url}}">Armies</a>{{/with}}
+            <a id="lang-en" class="navbar-item" href="{{siteRootPath}}/../en{{page.url}}#">&#x1F1EC;&#x1F1E7;</a>
+            <a id="lang-fr" class="navbar-item" href="{{siteRootPath}}/../fr{{page.url}}#">&#x1F1EB;&#x1F1F7;</a>
           </div>
         </div>
-        -->
-        <!--div class="navbar-item">
-          <span class="control">
-            <a class="button is-primary" href="#">Download</a>
-          </span>
-        </div-->
       </div>
     </div>
   </nav>
