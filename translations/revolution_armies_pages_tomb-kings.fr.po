@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 17:51+0200\n"
-"PO-Revision-Date: 2025-07-01 16:04+0000\n"
+"PO-Revision-Date: 2025-07-01 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_tomb-kings/fr/>\n"
@@ -184,7 +184,7 @@ msgstr "Rois des Tombes"
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:5
 #, no-wrap
 msgid "Zombie Dragon"
-msgstr ""
+msgstr "Dragon Zombie"
 
 #.  TODO: Logo is half the resolution of all the others.
 #. type: Plain text
@@ -420,18 +420,10 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:116
 #, no-wrap
 msgid "[[skull-chukka,†4]]4. Skull Chukka"
-msgstr ""
+msgstr "[[skull-chukka,†4]]4. Catapulte à Crânes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:125
-#, fuzzy
-#| msgid ""
-#| "but with the following additional rule.  When a unit is driven back as a "
-#| "result of hits scored by a Skull Chukka, then any dice rolled in respect "
-#| "to those hits will cause Confusion on the roll of 4, 5 or 6 (rather than "
-#| "6 as normal). Note that if a unit has taken other hits as well it will be "
-#| "necessary to roll the Skull Chukka dice separately. See the Artillery and "
-#| "Machines section of the rulebook for the Stone Thrower rules."
 msgid ""
 "The Skull Chukka is a xref:rules:artillery-and-machines.adoc#stone-"
 "thrower[Stone Thrower] but with the following additional rule.  When a unit "
@@ -441,13 +433,14 @@ msgid ""
 "well it will be necessary to roll the Skull Chukka dice separately. See the "
 "Artillery and Machines section of the rulebook for the Stone Thrower rules."
 msgstr ""
-"mais dispose de la règle spéciale suivante.   Lorsqu’une unité est repoussée "
-"en raison de touches infligées par une Catapulte à Crânes, tous les jets de "
-"dés de repoussement entraînés par ces touches rendront la cible confuse sur "
-"un résultat de 4+ au lieu du 6 habituel. Notez que si l’unité a subi des "
-"touches d’un autre type, les jets de dés infligés par la Catapulte doivent "
-"être effectués séparément. Voyez la section Artillerie & Machines pour les "
-"règles du Lance-rocs."
+"La Catapulte à Crâne est un xref:rules:artillery-and-machines.adoc#stone-"
+"thrower[Lance-rocs]]  mais dispose de la règle spéciale suivante.   Lorsqu’"
+"une unité est repoussée en raison de touches infligées par une Catapulte à "
+"Crânes, tous les jets de dés de repoussement entraînés par ces touches "
+"rendront la cible confuse sur un résultat de 4+ au lieu du 6 habituel. Notez "
+"que si l’unité a subi des touches d’un autre type, les jets de dés infligés "
+"par la Catapulte doivent être effectués séparément. Voyez la section "
+"Artillerie & Machines pour les règles du Lance-rocs."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:126
