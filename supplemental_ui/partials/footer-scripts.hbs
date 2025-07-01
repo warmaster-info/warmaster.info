@@ -6,3 +6,67 @@
 <script src="{{uiRootPath}}/js/medium-zoom.min.js"></script>
 <script src="{{uiRootPath}}/js/medium-zoom.config.js"></script>
 <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+<script type="text/javascript">
+/* As the page is scrolled, update the language changing links to
+ * point to the same section on that page.
+ *
+ * Except this won't work unless the translator adds links for the
+ * English headings...
+ */
+;(function () {
+  'use strict'
+
+  var langEn = document.getElementById('lang-en')
+  if (!langEn) return
+  var langFr = document.getElementById('lang-fr')
+
+  var articleSelector = 'article.doc'
+  var article = document.querySelector(articleSelector)
+  if (!article) return
+
+  var headings = find('h1, [id]', article.parentNode)
+  if (!headings.length) return
+
+  var lastActiveFragment
+
+  window.addEventListener('load', function () {
+    onScroll()
+    window.addEventListener('scroll', onScroll)
+  })
+
+  function onScroll () {
+    var scrolledBy = window.pageYOffset
+    var buffer = getNumericStyleVal(document.documentElement, 'fontSize') * 1.15
+    var ceil = article.offsetTop
+
+    var activeFragment
+    headings.some(function (heading) {
+      if (heading.getBoundingClientRect().top + getNumericStyleVal(heading, 'paddingTop') - buffer > ceil) return true
+      activeFragment = '#' + heading.id
+    })
+    if (activeFragment) {
+      if (activeFragment === lastActiveFragment) return
+      updateFragment(langEn, activeFragment);
+      updateFragment(langFr, activeFragment);
+      lastActiveFragment = activeFragment
+    } else if (lastActiveFragment) {
+      updateFragment(langEn, "#");
+      updateFragment(langFr, "#");
+      lastActiveFragment = undefined
+    }
+  }
+
+  function find (selector, from) {
+    return [].slice.call((from || document).querySelectorAll(selector))
+  }
+
+  function getNumericStyleVal (el, prop) {
+    return parseFloat(window.getComputedStyle(el)[prop])
+  }
+
+  function updateFragment (el, fragment) {
+    el.href = el.href.replace(/#.*/, fragment)
+  }
+})()
+</script>
