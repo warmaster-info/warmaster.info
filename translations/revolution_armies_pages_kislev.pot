@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-01 17:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/cathay.adoc:173
 #: en/revolution/modules/armies/pages/cathay.adoc:191
 #: en/revolution/modules/armies/pages/chaos.adoc:142
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:219
 #: en/revolution/modules/armies/pages/goblins.adoc:208
 #: en/revolution/modules/armies/pages/high-elves.adoc:175
 #: en/revolution/modules/armies/pages/kislev.adoc:208
@@ -95,7 +95,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/cathay.adoc:207
 #: en/revolution/modules/armies/pages/chaos.adoc:161
 #: en/revolution/modules/armies/pages/chaos.adoc:194
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -113,8 +113,8 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:149
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:216
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
@@ -303,15 +303,22 @@ msgid ""
 "Bear or Shaman that have transformed in Monster Bear."
 msgstr ""
 
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/kislev.adoc:105
+#, no-wrap
+msgid "[[war-wagon,†6]]6. War Wagon"
+msgstr ""
+
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:114
 msgid ""
-"The War Wagon consists of a wagon stand and a horse team stand. The wagon "
-"cannot charge and moves 20cm at full pace. The unit moving up to 5 cm after "
-"a successful order can end its move in a laager formation. A unit moving "
-"more than 5 cm must end its move in a column formation. Terrain restrictions "
-"are the same as Artillery. Either stand can be removed as causality. The War "
-"Wagon can move only when the team stand remains."
+"image:kislev/wagon-laagered.webp[width=250,height=253,float=\"right\"]"
+"{empty} The War Wagon consists of a wagon stand and a horse team stand. The "
+"wagon cannot charge and moves 20cm at full pace. The unit moving up to 5 cm "
+"after a successful order can end its move in a laager formation. A unit "
+"moving more than 5 cm must end its move in a column formation. Terrain "
+"restrictions are the same as Artillery. Either stand can be removed as "
+"causality. The War Wagon can move only when the team stand remains."
 msgstr ""
 
 #. type: Plain text

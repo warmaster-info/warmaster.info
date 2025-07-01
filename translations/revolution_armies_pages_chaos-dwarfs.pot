@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-01 17:34+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/cathay.adoc:173
 #: en/revolution/modules/armies/pages/cathay.adoc:191
 #: en/revolution/modules/armies/pages/chaos.adoc:142
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:219
 #: en/revolution/modules/armies/pages/goblins.adoc:208
 #: en/revolution/modules/armies/pages/high-elves.adoc:175
 #: en/revolution/modules/armies/pages/kislev.adoc:208
@@ -95,7 +95,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/cathay.adoc:207
 #: en/revolution/modules/armies/pages/chaos.adoc:161
 #: en/revolution/modules/armies/pages/chaos.adoc:194
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #: en/revolution/modules/armies/pages/daemons.adoc:173
 #: en/revolution/modules/armies/pages/daemons.adoc:188
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -113,8 +113,8 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:147
 #: en/revolution/modules/armies/pages/skaven.adoc:226
 #: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:148
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:149
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:216
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:143
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:192
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:145
@@ -129,7 +129,7 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:179
 #: en/revolution/modules/armies/pages/beastmen.adoc:210
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:204
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:205
 #: en/revolution/modules/armies/pages/daemons.adoc:205
 #: en/revolution/modules/armies/pages/high-elves.adoc:144
 #: en/revolution/modules/armies/pages/skaven.adoc:274
@@ -139,9 +139,9 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:184
 #: en/revolution/modules/armies/pages/chaos.adoc:125
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:190
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:191
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:185
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:180
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:181
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:161
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr ""
@@ -378,19 +378,27 @@ msgid ""
 "instead of the normal 1D6.\n"
 msgstr ""
 
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:158
+#, no-wrap
+msgid "[[bolt-thrower,†6]]6. Bolt Thrower"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:160
-msgid "as described in main Rulebook."
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:161
+msgid ""
+"The Hobgoblin Bolt Thrower is a xref:rules:artillery-and-machines.adoc#bolt-"
+"thrower[Bolt Thrower] as described in main Rulebook."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:161
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:162
 #, no-wrap
 msgid "[[great-taurus,†7]]7. Great Taurus"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:164
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:165
 msgid ""
 "Any character may be mounted on a Great Taurus. This mighty beast is "
 "fearsome to face on the battlefield.  The Great Taurus causes terror and is "
@@ -398,20 +406,20 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:165
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:166
 #, no-wrap
 msgid "[[lammasu,†8]]8. Lammasu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:168
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:169
 msgid ""
 "The Lammasu is a magical creature trained to serve the Chaos Dwarfs. A Chaos "
 "Dwarf Sorcerer may be mounted on a Lammasu. A Lammasu is able to fly."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:173
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:174
 msgid ""
 "In addition once per turn you can attempt to dispel one hostile spell cast "
 "on one friendly unit within 30cm of the Lammasu on a roll of 4+ on a D6. "
@@ -419,13 +427,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:174
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:175
 #, no-wrap
 msgid "[[sorcerer-lord,†9]]9. Sorcerer Lord"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:182
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:183
 msgid ""
 "The General may be true Sorcerer Lord, maybe even one of the living "
 "ancestors from Zharr-Naggrund.  Sorcerer Lord can cast spells like a Wizard "
@@ -436,26 +444,26 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:185
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:186
 #, no-wrap
 msgid "Chaos Dwarf spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:187
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:188
 #, no-wrap
 msgid "Flaming Hand"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:193
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:194
 msgid ""
 "_The Sorcerer’s hand glows like molten steel as he calls forth the strength "
 "of the forges of the earth._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:200
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:201
 msgid ""
 "This can only be cast if the Sorcerer has joined a unit in combat.  The "
 "spell automatically makes three attacks on one enemy unit which is touching "
@@ -465,18 +473,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:201
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:202
 #, no-wrap
 msgid "Volcanic Eruption"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:207
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:208
 msgid "_The Sorcerer’s calls forth a storm of magma from beneath the earth._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:214
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:215
 msgid ""
 "Each enemy unit within 30cm of the Sorcerer’s stand takes 3 Attacks worked "
 "out in the normal way. A unit is not driven back by the Volcanic Eruption. "
@@ -486,21 +494,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:215
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:216
 #, no-wrap
 msgid "Word of Fear"
 msgstr ""
 
 #.  instils
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:222
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:223
 msgid ""
 "_The Sorcerer speaks a blasphemous litany that instils fear in the hearts of "
 "his enemies._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:226
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:227
 msgid ""
 "This spell can only be cast on any friendly unit within range regardless of "
 "whether the Sorcerer can see it or not. The unit counts as causing terror "
@@ -508,13 +516,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:227
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:228
 #, no-wrap
 msgid "Meteor Storm"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:233
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:234
 msgid ""
 "_The Sorcerer hurls flaming stones from his fingertips toward the enemy, "
 "battering everything in its path._"
@@ -522,7 +530,7 @@ msgstr ""
 
 #.  scored
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:245
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:246
 msgid ""
 "Draw an imaginary line 30cm long extending from the Sorcerer’s stand in any "
 "direction you wish. Each unit under the line takes three shooting attacks "
