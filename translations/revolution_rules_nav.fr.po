@@ -7,20 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-01 00:06+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-01 01:04+0000\n"
+"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_rules_nav/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:3
 #: en/revolution/modules/rules/nav.adoc:3
+#, fuzzy
 msgid "xref:index.adoc[]"
-msgstr ""
+msgstr "xref:index.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:2
@@ -30,74 +33,86 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:4
 #: en/revolution/modules/rules/pages/index.adoc:50
+#, fuzzy
 msgid "xref:editors-note.adoc[]"
-msgstr ""
+msgstr "xref:editors-note.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:5
 #: en/revolution/modules/rules/pages/index.adoc:51
+#, fuzzy
 msgid "xref:introducing-warmaster.adoc[]"
-msgstr ""
+msgstr "xref:introducing-warmaster.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:6
 #: en/revolution/modules/rules/pages/index.adoc:52
+#, fuzzy
 msgid "xref:game-values.adoc[]"
-msgstr ""
+msgstr "xref:game-values.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:7
 #: en/revolution/modules/rules/pages/index.adoc:53
+#, fuzzy
 msgid "xref:game-sequence.adoc[]"
-msgstr ""
+msgstr "xref:game-sequence.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:8
 #: en/revolution/modules/rules/pages/index.adoc:54
+#, fuzzy
 msgid "xref:command-at-a-glance.adoc[]"
-msgstr ""
+msgstr "xref:command-at-a-glance.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:9
 #: en/revolution/modules/rules/pages/index.adoc:55
+#, fuzzy
 msgid "xref:command.adoc[]"
-msgstr ""
+msgstr "xref:command.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:10
 #: en/revolution/modules/rules/pages/index.adoc:56
+#, fuzzy
 msgid "xref:movement-at-a-glance.adoc[]"
-msgstr ""
+msgstr "xref:movement-at-a-glance.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:11
 #: en/revolution/modules/rules/pages/index.adoc:57
+#, fuzzy
 msgid "xref:movement.adoc[]"
-msgstr ""
+msgstr "xref:movement.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:12
 #: en/revolution/modules/rules/pages/index.adoc:58
+#, fuzzy
 msgid "xref:shooting-at-a-glance.adoc[]"
-msgstr ""
+msgstr "xref:shooting-at-a-glance.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:13
 #: en/revolution/modules/rules/pages/index.adoc:59
+#, fuzzy
 msgid "xref:shooting.adoc[]"
-msgstr ""
+msgstr "xref:shooting.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:14
 #: en/revolution/modules/rules/pages/index.adoc:60
+#, fuzzy
 msgid "xref:combat-at-a-glance.adoc[]"
-msgstr ""
+msgstr "xref:combat-at-a-glance.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:15
 #: en/revolution/modules/rules/pages/index.adoc:61
+#, fuzzy
 msgid "xref:combat.adoc[]"
-msgstr ""
+msgstr "xref:combat.adoc[]"
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:16
