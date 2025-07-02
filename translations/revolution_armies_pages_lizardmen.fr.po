@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"PO-Revision-Date: 2025-07-02 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
@@ -160,7 +160,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:1
 #, no-wrap
 msgid "Lizardmen"
-msgstr ""
+msgstr "Hommes-Lézards"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:21
@@ -279,6 +279,11 @@ msgid ""
 "shooting, including shooting at charging enemies. Note that this unit still "
 "needs Line of Sight from its front edge to charge an enemy."
 msgstr ""
+"Les Skinks ont une portée de tir de 15cm et une vision à 360° - c'est-à-dire "
+"que les socles de l'unité peuvent tracer une ligne de vue depuis n'importe "
+"quel bord de leur socle, ceci afin d'éviter ou de tirer, incluant le tir sur "
+"les ennemis en charge. Notez que l'unité a tout de même besoin d'avoir une "
+"Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:108
@@ -341,6 +346,10 @@ msgid ""
 "in the same way as Skinks. If their unit is charged then Salamanders can "
 "shoot in the same way as any other shooting stand."
 msgstr ""
+"Les socles de Salamandres ont 2 attaques de tir, une portée de 15cm et une "
+"vision à 360°, comme les Skinks. Si leur unité est chargée, les Salamandres "
+"peuvent tirer de la même façon que n'importe quel autre socle d'unité de "
+"tireur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:138
@@ -357,6 +366,12 @@ msgid ""
 "Note that this unit still needs Line of Sight from its front edge to charge "
 "an enemy."
 msgstr ""
+"Les Terradons peuvent voler. Les Chevaucheurs de Terradons ont une portée de "
+"tir de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
+"peuvent tracer une ligne de vue depuis n'importe quel bord de leur socle, "
+"ceci afin d'éviter ou de tirer, incluant le tir sur les ennemis en charge. "
+"Notez que l'unité a tout de même besoin d'avoir une Ligne de Vue depuis son "
+"bord avant pour charger un ennemi."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:144
@@ -392,6 +407,11 @@ msgid ""
 "evading and shooting, including shooting at charging enemies. Note that this "
 "unit still needs Line of Sight from its front edge to charge an enemy."
 msgstr ""
+"L'équipage du Stégadon a une portée de tir de 15cm et une vision à 360° - "
+"c'est-à-dire que les socles de l'unité peuvent tracer une ligne de vue "
+"depuis n'importe quel bord de leur socle, ceci afin d'éviter ou de tirer, "
+"incluant le tir sur les ennemis en charge. Notez que l'unité a tout de même "
+"besoin d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:168

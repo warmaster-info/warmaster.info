@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-01 09:04+0000\n"
+"PO-Revision-Date: 2025-07-02 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dogs-of-war/fr/>\n"
@@ -70,7 +70,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:1
 #, no-wrap
 msgid "Dogs of War"
-msgstr ""
+msgstr "Mercenaires"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:17
@@ -262,6 +262,16 @@ msgid ""
 "Note that this unit still needs Line of Sight from its front edge to charge "
 "an enemy."
 msgstr ""
+"Les armées Mercenaires font grand usage des cavaleries légères expertes "
+"venant du monde entier. Les Pistoliers impériaux, les Cavaliers du Déserts "
+"arabéens, les Chevaucheurs de Loups Hobgobelins, et les Archers à Cheval "
+"kislévites sont particulièrement habiles quand il s'agit de déborder "
+"l'ennemi et d'harasser ses flancs. La Cavalerie légère a une portée de tir "
+"de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
+"peuvent tracer une ligne de vue depuis n'importe quel bord de leur socle, "
+"ceci afin d'éviter ou de tirer, incluant le tir sur les ennemis en charge. "
+"Notez que l'unité a tout de même besoin d'avoir une Ligne de Vue depuis son "
+"bord avant pour charger un ennemi."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:145

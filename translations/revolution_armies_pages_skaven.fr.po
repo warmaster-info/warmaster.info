@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-02 10:04+0000\n"
+"PO-Revision-Date: 2025-07-02 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -192,7 +192,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/skaven.adoc:1
 #, no-wrap
 msgid "Skaven"
-msgstr ""
+msgstr "Skavens"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:26
@@ -386,6 +386,12 @@ msgid ""
 "enemies. Note that this unit still needs Line of Sight from its front edge "
 "to charge an enemy."
 msgstr ""
+"Les Coureurs d'Égouts sont armés d'étoiles de lancer et de dards, et peuvent "
+"tirer avec une portée de 15cm et une vision à 360° - c'est-à-dire que les "
+"socles de l'unité peuvent tracer une ligne de vue depuis n'importe quel bord "
+"de leur socle, ceci afin d'éviter ou de tirer, incluant le tir sur les "
+"ennemis en charge. Notez que l'unité a tout de même besoin d'avoir une Ligne "
+"de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:154
