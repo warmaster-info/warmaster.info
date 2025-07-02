@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,27 +18,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
-#.  TODO: bo5a Open, Defended and Fortified box example
 #. type: Title ===
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:115
-#: en/revolution/modules/rules/pages/combat.adoc:376
-#: en/revolution/modules/rules/pages/game-values.adoc:224
-#: en/revolution/modules/rules/pages/shooting.adoc:214
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:118
+#: en/revolution/modules/rules/pages/combat.adoc:406
+#: en/revolution/modules/rules/pages/game-values.adoc:233
+#: en/revolution/modules/rules/pages/shooting.adoc:221
 #, no-wrap
 msgid "Armour"
 msgstr "Armure"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:214
-#: en/revolution/modules/rules/pages/shooting.adoc:11
+#: en/revolution/modules/rules/pages/combat.adoc:233
+#: en/revolution/modules/rules/pages/shooting.adoc:12
 #, no-wrap
 msgid "Attack value"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:59
+#: en/revolution/modules/rules/pages/game-sequence.adoc:63
 #: en/revolution/modules/rules/pages/shooting.adoc:1
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:143
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:148
 #, no-wrap
 msgid "Shooting"
 msgstr ""
@@ -54,7 +53,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:18
+#: en/revolution/modules/rules/pages/shooting.adoc:19
 msgid ""
 "Troops that carry missile weapons such as bows, crossbows and handguns have "
 "a separate Attack value.  This is expressed as a number following a slash, "
@@ -63,14 +62,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:21
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:8
+#: en/revolution/modules/rules/pages/shooting.adoc:23
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:10
 #, no-wrap
 msgid "Range"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:35
+#: en/revolution/modules/rules/pages/shooting.adoc:37
 msgid ""
 "Most troops have a range of 30cm with their weapons regardless of whether "
 "they carry bows, crossbows or whatever. The range represents the tactical "
@@ -84,7 +83,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:40
+#: en/revolution/modules/rules/pages/shooting.adoc:42
 msgid ""
 "The distance between units is measured stand by stand.  An individual stand "
 "must be in range in order to shoot.  This may result in some stands being "
@@ -92,14 +91,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:41
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:4
+#: en/revolution/modules/rules/pages/shooting.adoc:44
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:5
 #, no-wrap
 msgid "Targets"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:47
+#: en/revolution/modules/rules/pages/shooting.adoc:50
 msgid ""
 "Units equipped with missile weapons can shoot once in their turn if they are "
 "in range of a [.bo5a]#visible# target.  Units engaged in combat cannot shoot "
@@ -108,7 +107,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:52
+#: en/revolution/modules/rules/pages/shooting.adoc:55
 msgid ""
 "[.qa]#If a unit chooses to shoot, it# automatically shoots at the closest "
 "enemy unit it can see. All stands shoot at the same target unit where "
@@ -117,7 +116,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:57
+#: en/revolution/modules/rules/pages/shooting.adoc:60
 msgid ""
 "Enemy units in combat are judged to be intermingled with their opponents and "
 "don’t therefore present a clear visible target to missile fire. They are "
@@ -125,14 +124,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:62
+#: en/revolution/modules/rules/pages/shooting.adoc:65
 msgid ""
 "If it’s impossible for every stand to shoot at the same enemy unit then "
 "shooting can be divided stand by stand, though this tends to be ineffective."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:82
+#: en/revolution/modules/rules/pages/shooting.adoc:85
 msgid ""
 "In addition to the normal rules for xref:game-values.adoc#line-of-sight[Line "
 "of Sight], at least 1cm of the shooting stand should have clear visibility "
@@ -140,7 +139,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:105
+#: en/revolution/modules/rules/pages/shooting.adoc:108
 msgid ""
 "Note that some kinds of terrain affect a unit’s ability to see a target. For "
 "example, it is impossible to draw a line of sight through a wood or village "
@@ -154,13 +153,13 @@ msgstr ""
 
 #.  Caption added
 #. type: Block title
-#: en/revolution/modules/rules/pages/shooting.adoc:107
+#: en/revolution/modules/rules/pages/shooting.adoc:110
 #, no-wrap
 msgid "Targets in and out of sight."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:115
+#: en/revolution/modules/rules/pages/shooting.adoc:118
 msgid ""
 "Some units can see all round – they have 360 degree vision – and you will "
 "find this indicated in the unit’s description (for example, Wolf Riders). "
@@ -169,13 +168,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:128
+#: en/revolution/modules/rules/pages/shooting.adoc:132
 #, no-wrap
 msgid "Calculating casualties"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:134
+#: en/revolution/modules/rules/pages/shooting.adoc:138
 msgid ""
 "To work out the effect of missile fire, begin by adding up the unit’s total "
 "shooting Attack value. For example, a unit of three stands, each with a "
@@ -183,7 +182,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:140
+#: en/revolution/modules/rules/pages/shooting.adoc:144
 msgid ""
 "The total [.bo5a]#Attack# value is the number of dice rolled to determine "
 "how many hits are scored on the target. The minimum dice roll required for a "
@@ -192,7 +191,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:147
+#: en/revolution/modules/rules/pages/shooting.adoc:151
 msgid ""
 "Players may find it convenient to resolve shooting attacks from several "
 "units at once if they are firing at the same target. This saves time rolling "
@@ -201,20 +200,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/shooting.adoc:148
+#: en/revolution/modules/rules/pages/shooting.adoc:154
 #, no-wrap
-msgid "[.bo5a]#Defended or fortified targets#"
+msgid "Defended or fortified targets"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:152
+#: en/revolution/modules/rules/pages/shooting.adoc:158
 msgid ""
 "It is harder to score a hit on a target if it is in a defended or fortified "
 "position."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:155
+#: en/revolution/modules/rules/pages/shooting.adoc:161
 msgid ""
 "The chart below shows the [.bo5a]#minimum dice roll needed to score a hit on "
 "the target#."
@@ -222,13 +221,13 @@ msgstr ""
 
 #.  TODO Table consistency
 #. type: Block title
-#: en/revolution/modules/rules/pages/shooting.adoc:158
+#: en/revolution/modules/rules/pages/shooting.adoc:164
 #, no-wrap
 msgid "Scores to hit"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/shooting.adoc:171
+#: en/revolution/modules/rules/pages/shooting.adoc:177
 #, no-wrap
 msgid ""
 "|[.bo5a]#Target status# |[.bo5a]#Score to hit#\n"
@@ -244,7 +243,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:194
+#: en/revolution/modules/rules/pages/shooting.adoc:200
 msgid ""
 "If some stands in the target unit are defended or fortified whilst others "
 "are not, shooters will always target the least protected stands as long as "
@@ -253,7 +252,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:200
+#: en/revolution/modules/rules/pages/shooting.adoc:206
 msgid ""
 "If a target unit includes defended or fortified stands as well as stands "
 "that are in the open, stands in the open must be removed as casualties first "
@@ -262,7 +261,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:209
+#: en/revolution/modules/rules/pages/shooting.adoc:215
 msgid ""
 "It can sometimes be necessary to divide the dice rolling into batches as the "
 "score required to hit will change once all stands in the open are destroyed. "
@@ -273,21 +272,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:218
+#: en/revolution/modules/rules/pages/shooting.adoc:225
 msgid ""
 "If a target unit has armour then the number of hits scored by shooters may "
 "be potentially reduced."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:223
+#: en/revolution/modules/rules/pages/shooting.adoc:230
 msgid ""
 "The target’s Armour value is expressed as a number 6+, 5+, 4+ or 3+, "
 "indicating the minimum dice score required to nullify a hit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:230
+#: en/revolution/modules/rules/pages/shooting.adoc:237
 msgid ""
 "[.bo5a]#The players whose unit has been shot at# rolls one dice for each hit "
 "scored on the unit. Any dice that scores equal to or more than the Armour "
@@ -297,7 +296,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:237
+#: en/revolution/modules/rules/pages/shooting.adoc:244
 msgid ""
 "For example, a unit of Empire Knights (Armour 4+) is shot at by two units of "
 "archers which score four hits. Four dice are rolled for Armour (one dice per "
@@ -306,13 +305,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/shooting.adoc:238
+#: en/revolution/modules/rules/pages/shooting.adoc:246
 #, no-wrap
 msgid "Removing casualties"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:245
+#: en/revolution/modules/rules/pages/shooting.adoc:253
 msgid ""
 "Units can sustain a number of hits before a stand is destroyed and this "
 "number varies depending upon how tough and how determined the target is. Men "
@@ -321,7 +320,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:250
+#: en/revolution/modules/rules/pages/shooting.adoc:258
 msgid ""
 "Once a unit has taken a number of hits equal to its Hits value, [.bo5a]#its "
 "player# removes a stand.  [.bo5a]#Always take a stand from the edge of the "
@@ -329,7 +328,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:257
+#: en/revolution/modules/rules/pages/shooting.adoc:265
 msgid ""
 "If the unit takes insufficient hits to destroy a stand, or if it suffers "
 "enough to remove a stand with some remaining, record any hits left over. "
@@ -338,7 +337,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:262
+#: en/revolution/modules/rules/pages/shooting.adoc:270
 msgid ""
 "If a unit is shot at by several enemies during the Shooting phase it may "
 "take further hits and the total may mount up. Remove stands as casualties "
@@ -346,7 +345,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:271
+#: en/revolution/modules/rules/pages/shooting.adoc:279
 msgid ""
 "Once the Shooting phase is over, any odd hits are discounted. Hits are not "
 "recorded from one phase to another or from one turn to the next.  We assume "
@@ -359,14 +358,14 @@ msgstr ""
 #.  Difference: Bo5A allows changing formation.
 #.  Caption added.
 #. type: Block title
-#: en/revolution/modules/rules/pages/shooting.adoc:274
-#: en/revolution/modules/rules/pages/shooting.adoc:332
+#: en/revolution/modules/rules/pages/shooting.adoc:283
+#: en/revolution/modules/rules/pages/shooting.adoc:341
 #, no-wrap
 msgid "Driving back enemies"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:282
+#: en/revolution/modules/rules/pages/shooting.adoc:291
 msgid ""
 "At the end of the Shooting phase, units that have taken hits during the "
 "phase are driven back by the hail of missiles. This can be thought of as an "
@@ -376,7 +375,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:288
+#: en/revolution/modules/rules/pages/shooting.adoc:297
 msgid ""
 "Work out how far units are driven back once all shooting is complete but "
 "*before* disregarding odd hits at the end of the Shooting phase. The player "
@@ -385,7 +384,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:296
+#: en/revolution/modules/rules/pages/shooting.adoc:305
 msgid ""
 "To determine how far units are driven back, the opposing player rolls one "
 "dice for each hit suffered. Don’t forget to include hits from any stands "
@@ -395,7 +394,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:301
+#: en/revolution/modules/rules/pages/shooting.adoc:310
 msgid ""
 "A unit that has one or more stands in a defended position disregards the "
 "first hit suffered when working out drive backs. This means one hit cannot "
@@ -404,7 +403,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:307
+#: en/revolution/modules/rules/pages/shooting.adoc:316
 msgid ""
 "A unit that has 1 or more stands in a fortified position disregards the "
 "first two hits suffered when working out drive backs. This means one or two "
@@ -413,7 +412,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:315
+#: en/revolution/modules/rules/pages/shooting.adoc:324
 msgid ""
 "Units that are driven back move directly away from the closest enemy stand "
 "that shot at them regardless of whether that enemy inflicted any hits – this "
@@ -423,7 +422,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:328
+#: en/revolution/modules/rules/pages/shooting.adoc:337
 msgid ""
 "When a unit is driven back, it is moved directly away from the enemy without "
 "changing its formation or orientation. The direction of the drive back is "
@@ -437,13 +436,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/shooting.adoc:335
+#: en/revolution/modules/rules/pages/shooting.adoc:345
 #, no-wrap
 msgid "Units confused during drive backs"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:341
+#: en/revolution/modules/rules/pages/shooting.adoc:351
 msgid ""
 "Units that have been driven back may become confused amidst the turmoil of a "
 "disorderly recoil. This is a marked disadvantage because it means that units "
@@ -451,14 +450,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:344
+#: en/revolution/modules/rules/pages/shooting.adoc:354
 msgid ""
 "When rolling for drive back distances, any dice roll of a 6 means that the "
 "unit becomes *confused*."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:349
+#: en/revolution/modules/rules/pages/shooting.adoc:359
 msgid ""
 "Units may also become confused if they are driven back into terrain which "
 "they can’t enter or if they are driven back into other units, whether they "
@@ -467,13 +466,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/shooting.adoc:350
+#: en/revolution/modules/rules/pages/shooting.adoc:361
 #, no-wrap
 msgid "Units routed by drive backs"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:357
+#: en/revolution/modules/rules/pages/shooting.adoc:368
 msgid ""
 "If the Drive back dice roll is greater than the unit’s full pace movement "
 "distance, then the unit is automatically deemed to have fled from the battle "
@@ -482,7 +481,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:362
+#: en/revolution/modules/rules/pages/shooting.adoc:373
 msgid ""
 "This happens rarely because units taking many hits are usually destroyed as "
 "a result. Large monsters with many hits are more likely to be destroyed in "
@@ -490,13 +489,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:365
+#: en/revolution/modules/rules/pages/shooting.adoc:377
 #, no-wrap
 msgid "Shooting at charging enemy"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:374
+#: en/revolution/modules/rules/pages/shooting.adoc:386
 msgid ""
 "Stands capable of shooting (including artillery, appropriate monsters and "
 "some machines) can shoot at enemy units charging their own unit.  These "
@@ -506,21 +505,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:378
+#: en/revolution/modules/rules/pages/shooting.adoc:390
 msgid ""
 "Shooting in this way is an exception to the normal turn sequence because it "
 "happens in the [.bo5a]#Command phase of the# enemy’s turn."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:383
+#: en/revolution/modules/rules/pages/shooting.adoc:395
 msgid ""
 "Remember, a unit is ‘charged’ so long as it is contacted by a charging stand "
 "– it does not matter if the unit was not the original target of the charge."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:395
+#: en/revolution/modules/rules/pages/shooting.adoc:407
 msgid ""
 "A stand can shoot at charging enemy even if its own unit is already engaged "
 "in combat. In this case, only stands that are not already touching an enemy "
@@ -528,7 +527,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:407
+#: en/revolution/modules/rules/pages/shooting.adoc:419
 msgid ""
 "Shots are worked out as soon as the charging unit has finished its move. "
 "Shooting stands must be able to draw a line of sight to the enemy unit at "
@@ -541,7 +540,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:413
+#: en/revolution/modules/rules/pages/shooting.adoc:425
 msgid ""
 "Calculate the effect of shots and remove any whole stand casualties straight "
 "away before moving any further units.  Because casualties are removed at "
@@ -550,7 +549,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:420
+#: en/revolution/modules/rules/pages/shooting.adoc:432
 msgid ""
 "Note that shots from bolt throwers can penetrate enemy stands and affect "
 "other stands or units behind the target.  Shots are always calculated from "
@@ -560,7 +559,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:431
+#: en/revolution/modules/rules/pages/shooting.adoc:443
 msgid ""
 "Hits inflicted on the charging enemy unit are carried over into the combat. "
 "When it comes to working out combat results, these hits count as having been "
@@ -573,7 +572,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:439
+#: en/revolution/modules/rules/pages/shooting.adoc:451
 msgid ""
 "_For example, if an Archer unit inflicts two hits on a unit of charging "
 "Knights, the Knights start the combat with two hits outstanding and these "
@@ -583,7 +582,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:447
+#: en/revolution/modules/rules/pages/shooting.adoc:459
 msgid ""
 "Hits on charging units don’t cause drive backs. This is partly for "
 "convenience, as the game would quickly become very cluttered otherwise, but "
@@ -594,13 +593,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/shooting.adoc:448
+#: en/revolution/modules/rules/pages/shooting.adoc:460
 #, no-wrap
 msgid "The Archers shoot as the Knights charge."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:458
+#: en/revolution/modules/rules/pages/shooting.adoc:470
 msgid ""
 "If a missile-armed unit is charged by two or more enemy units, one after the "
 "other, then it can potentially shoot more than once. When shooting at a "
@@ -612,22 +611,21 @@ msgstr ""
 #.  TODO: Low-priority diagram.
 #.  2 changed to Two to avoid adjacent figure number.
 #. type: Block title
-#: en/revolution/modules/rules/pages/shooting.adoc:461
+#: en/revolution/modules/rules/pages/shooting.adoc:473
 #, no-wrap
 msgid "Two hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round."
 msgstr ""
 
-#.  Heading level increased
 #. type: Title ====
-#: en/revolution/modules/rules/pages/shooting.adoc:466
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1600
+#: en/revolution/modules/rules/pages/shooting.adoc:479
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1641
 #, no-wrap
 msgid "Special situations"
 msgstr ""
 
 #.  Edit grammar
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:476
+#: en/revolution/modules/rules/pages/shooting.adoc:489
 msgid ""
 "When a unit hit by shooting or magic is engaged in combat, or becomes "
 "engaged in combat by the end of shooting phase, it cannot be driven back. "
@@ -637,13 +635,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:479
+#: en/revolution/modules/rules/pages/shooting.adoc:493
 #, no-wrap
 msgid "The role of missile troops"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:488
+#: en/revolution/modules/rules/pages/shooting.adoc:502
 msgid ""
 "You may have realised by now that missile fire isn’t a terribly effective "
 "way of destroying enemy units. The number of hits inflicted will probably be "
@@ -653,7 +651,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting.adoc:495
+#: en/revolution/modules/rules/pages/shooting.adoc:509
 msgid ""
 "However, shooting is a very effective way of pinning down enemy troops and "
 "driving them from strongly defended positions. Good generals will recognise "

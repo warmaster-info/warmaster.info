@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:149
-#: en/revolution/modules/rules/pages/movement.adoc:512
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:224
+#: en/revolution/modules/rules/pages/combat.adoc:158
+#: en/revolution/modules/rules/pages/movement.adoc:525
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:241
 #, no-wrap
 msgid "Forming a battle line"
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:155
-#: en/revolution/modules/rules/pages/movement.adoc:546
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:255
+#: en/revolution/modules/rules/pages/combat.adoc:165
+#: en/revolution/modules/rules/pages/movement.adoc:560
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:273
 #, no-wrap
 msgid "Contact with other enemy"
 msgstr ""
@@ -57,19 +57,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:8
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:9
 #, no-wrap
 msgid "General questions"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:11
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:13
 #, no-wrap
 msgid "Why aren't more units from Warhammer / Warhammer Total War in the army lists?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:19
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:21
 msgid ""
 "Warmaster Revolution seeks to preserve the original game designed by Rick "
 "Priestly as far as possible.  This means the Warmaster army lists are based "
@@ -84,18 +84,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:21
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:23
 msgid "→ Rulebook: xref:introducing-warmaster.adoc[Introducing Warmaster]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:23
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:26
 #, no-wrap
 msgid "How are different types of units based?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:27
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:30
 msgid ""
 "Infantry is based facing the long edge (40mm) of the stand. All other unit "
 "types – Cavalry, Chariots, Monsters, Artillery and Machines – are based "
@@ -103,7 +103,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:31
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:34
 msgid ""
 "There are some exceptions to this rule which are clearly listed in the unit "
 "special rules for their army list. For example, Pikemen are Infantry that "
@@ -112,18 +112,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:33
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:36
 msgid "→ Rulebook: xref:game-values.adoc#Stands[Game Values – Stands]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:35
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:39
 #, no-wrap
 msgid "On what base size do I mount Warmaster characters?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:42
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:46
 msgid ""
 "Characters may be mounted on either a standard rectangular base of 40mm × "
 "20mm, or a circular base up to 25mm in diameter.  [.edit]#In either case, "
@@ -131,7 +131,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:49
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:53
 msgid ""
 "[.edit]#Alternatively#, you may mount characters on larger base sizes, for "
 "example to make a diorama. If you do so, you must measure distances from one "
@@ -139,20 +139,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:51
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:55
 msgid ""
 "→ Rulebook: xref:characters.adoc#odd-size-character-bases[Generals, Wizards "
 "& Heroes – Odd size character bases]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:53
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:58
 #, no-wrap
 msgid "When do stands count as In the Open?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:57
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:62
 msgid ""
 "All stands are considered to be In the Open, unless they are Defended or "
 "Fortified. Only Infantry and Artillery can ever claim Defended or Fortified "
@@ -160,85 +160,85 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:59
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:64
 msgid ""
 "This is worked out on a stand-by-stand basis. A unit may have some stands In "
 "the Open and some that are Defended, for example."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:61
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:66
 msgid ""
 "Stands of Cavalry, Chariots, Monsters, and Machines, count as being In the "
 "Open regardless of the terrain they occupy."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:63
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:68
 msgid ""
 "When a unit is In the Open, attacks will hit them on a 4+ and normal charge "
 "bonus attacks apply."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:66
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:71
 msgid ""
 "In addition, Infantry which is Charging, Pursuing, Retreating or Advancing "
 "can never claim Defended status, regardless of terrain or spell effects."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:68
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:73
 msgid "The only exceptions to this rule are the following:"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:71
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:76
 msgid "The Empire Steam Tank"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:72
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:77
 msgid "The Kislev War Wagon in laager formation."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:74
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:79
 msgid ""
 "These units always count as Defended, even though they are machines, and "
 "regardless of terrain."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:76
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:81
 msgid ""
 "This means the enemy will hit them on a 5+ and enemy chargers gain no Charge "
 "bonus attacks against them."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:77
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:82
 msgid ""
 "Cannon shots *ignore* the target's Defended status, so will hit Defended "
 "stands on 4+."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:79
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:84
 msgid ""
 "Undead Ethereal Hosts always hit the target in combat on a 4+, but still get "
 "no charge bonus against Defended targets."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:80
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:85
 msgid ""
 "Stands in Loose Terrain are In the Open, but attackers gain no charge bonus "
 "against them."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:84
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:89
 msgid ""
 "→ Rulebook: xref:shooting.adoc#defended-or-fortified-targets[Shooting – "
 "Defended or fortified targets], xref:combat.adoc#attack-modifiers[Combat – "
@@ -247,19 +247,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:85
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:91
 #, no-wrap
 msgid "Line of sight questions"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:88
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:95
 #, no-wrap
 msgid "Do units require Line of Sight at the beginning of their turn in order to charge?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:92
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:99
 msgid ""
 "No. Units require Line of Sight to charge at the beginning of their move, "
 "not that start of the turn. So it is entirely possible for one unit that is "
@@ -268,7 +268,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:94
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:101
 msgid ""
 "→ Rulebook: xref:command.adoc#sequence-of-movement[Command – Sequence of "
 "movement] (xref:command.adoc#initiative-charge-1[Figure 1], "
@@ -276,13 +276,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:96
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:104
 #, no-wrap
 msgid "Can stands draw Line of Sight at 180 degrees from their front corners?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:102
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:110
 msgid ""
 "No. In order to draw Line of Sight, the target must be in front of the line "
 "that extends 180 degrees from the front corners of a stand. If in doubt "
@@ -293,7 +293,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:105
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:113
 msgid ""
 "Units wishing to shoot at chargers that connect with their flank cannot do "
 "so unless any stand from the charging unit is forward of the 180 degree line "
@@ -301,7 +301,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:108
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:116
 msgid ""
 "Remember, the Line of Sight is blocked by the presence of other stands, "
 "friendly or enemy. This prevents missile units in column drawing line of "
@@ -309,25 +309,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:110
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:118
 msgid "The only exceptions are units that have 360 degree line of sight."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:114
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:122
 msgid ""
 "→ Rulebook: xref:game-values.adoc#line-of-sight[Game Values – Line of sight] "
 "(xref:game-values.adoc#line-of-sight-target[Figure 3])."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:116
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:125
 #, no-wrap
 msgid "When Shooting, can a unit draw Line of Sight through gaps of less than 1 cm?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:119
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:128
 msgid ""
 "No. To draw Line of Sight when shooting, a unit must have at least 1cm width "
 "unobstructed on the edge from which it is rdawing line of sight, *and* be "
@@ -335,18 +335,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:121
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:130
 msgid "→ Rulebook: xref:shooting.adoc#targets[Shooting – Targets]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:123
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:133
 #, no-wrap
 msgid "How do Hills block Line of Sight?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:136
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:146
 msgid ""
 "Hills block Line of Sight beyond their highest elevation point. Line of "
 "Sight is blocked by a hill terrain piece that lies completely between two "
@@ -358,26 +358,26 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:139
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:149
 msgid ""
 "→ Rulebook: xref:game-values.adoc#the-effect-of-terrain[Game Values – The "
 "effect of terrain], xref:movement.adoc#terrain[Movement – Terrain]."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:140
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:151
 #, no-wrap
 msgid "Movement questions"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:143
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:155
 #, no-wrap
 msgid "When stands in a unit pivot to turn 180 degrees, how much movement does this cost?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:150
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:162
 msgid ""
 "Pivoting a unit’s stands can occur as part of a unit’s directional move, or "
 "stands in a unit can make a 180 degree pivot on the spot. To work out how "
@@ -385,13 +385,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:152
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:165
 #, no-wrap
 msgid "Pivot 180 degrees during a move"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:159
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:172
 msgid ""
 "Measure the distance travelled by the corner moving the furthest distance. "
 "This will be from the corner of the stand diagonally opposite to the stand’s "
@@ -399,19 +399,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:161
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:180
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:174
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:194
 msgid "→ Rulebook: xref:movement.adoc#the-move[Movement – The move]."
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:163
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:177
 #, no-wrap
 msgid "Pivot on the spot"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:178
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:192
 msgid ""
 "Stands can pivot on the spot without physically rotating in a circle. "
 "Imagine the troops performing an about face manoeuvre on their own base, "
@@ -424,13 +424,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:184
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:199
 #, no-wrap
 msgid "How does the displacement of a character that is touched by an enemy unit work?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:200
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:215
 msgid ""
 "A character piece that is not already joined to a friendly unit may move to "
 "join a friendly unit within 30cm when an enemy unit touches their base. Move "
@@ -444,7 +444,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:207
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:222
 msgid ""
 "Once the character has been displaced, the enemy unit may continue its move "
 "if possible. Remember that a flying unit that is moved via an order to "
@@ -453,20 +453,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:209
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:224
 msgid ""
 "→ Rulebook: xref:characters.adoc#enemy-moving-through-characters[Generals, "
 "Wizards & Heroes – Enemy moving through characters]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:211
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:227
 #, no-wrap
 msgid "How does Maximising Frontage work, including when charging more than one enemy?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:219
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:235
 msgid ""
 "Charging stands must place as much of the front edge of the base as possible "
 "in contact with the enemy when they form a battle line. This also extends to "
@@ -480,7 +480,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:223
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:239
 msgid ""
 "→ Rulebook: xref:movement.adoc#the-charge-move[Movement – The charge move], "
 "xref:movement.adoc#forming-a-battle-line[Forming a battle line], "
@@ -488,7 +488,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:236
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:253
 msgid ""
 "Each stand must be placed in the battle line in such a way that as much of "
 "its front edge as possible makes contact with the enemy. This is called "
@@ -499,7 +499,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:244
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:261
 msgid ""
 "The diagrams below show how a charging unit will maximise frontage against "
 "an enemy that has a different base orientation to them. All charging stands "
@@ -508,14 +508,14 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:251
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:268
 msgid ""
 "In this Diagram, the charging unit has not maximised frontage. This charge "
 "is illegal."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:266
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:284
 msgid ""
 "If there are other enemy units adjacent to the target unit then the "
 "obligation to ‘maximise frontage’ extends to these other units too. So, "
@@ -526,7 +526,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:274
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:292
 msgid ""
 "The diagrams below show how a charging unit will maximise frontage against "
 "two enemy units that have a different base orientation to them. All charging "
@@ -535,14 +535,14 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:279
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:297
 msgid ""
 "In this diagram, the charging unit has not maximised frontage. This charge "
 "is illegal."
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:289
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:307
 msgid ""
 "This diagram shows how a charging unit will maximise frontage against the "
 "unit it originally charged when able to do so. Although there is a second "
@@ -552,75 +552,75 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:294
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:313
 #, no-wrap
 msgid "Can a Flying unit make a Home Back move to disengage from combat?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:297
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:547
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:316
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:585
 msgid "No."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:299
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:308
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:318
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:328
 msgid "→ Rulebook: xref:flying-units.adoc#home-back[Flying Units – Home back]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:301
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:321
 #, no-wrap
 msgid "Does a flying unit need to be more than 20cm from all friendly characters, or just one, to be able to home back?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:306
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:326
 msgid ""
 "Flyers may only Home Back if they are more than 20cm from *all* friendly "
 "characters [.edit]#at the start of# the Command phase."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:309
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:330
 #, no-wrap
 msgid "Combat questions"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:312
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:334
 #, no-wrap
 msgid "Does a unit in close combat have to make attacks?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:316
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:338
 msgid ""
 "Yes. A stand in close combat must direct their attacks against a single "
 "enemy unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:318
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:340
 msgid "→ Rulebook: xref:combat.adoc#attacks[Combat – Attacks]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:320
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:343
 #, no-wrap
 msgid "Are missile armed units obliged to shoot if they are able to do so? Do they have to shoot at enemy units that charge them?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:325
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:348
 msgid ""
 "No, a unit doesn't have to shoot. They can hold fire. But if the unit does "
 "choose to shoot, all stands must do so if they can."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:328
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:351
 msgid ""
 "→ Rulebook: xref:shooting.adoc#targets[Shooting – Targets], "
 "xref:shooting.adoc#shooting-at-charging-enemy[Shooting – Shooting at "
@@ -628,13 +628,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:330
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:354
 #, no-wrap
 msgid "Can a stand in combat be reduced to 0 Attacks?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:336
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:360
 msgid ""
 "Yes, but remember that if all a unit’s stands in combat have been reduced to "
 "0 Attacks then the unit as a whole gets to make 1 Attack as per the Last "
@@ -642,45 +642,45 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:338
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:360
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:362
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:386
 msgid ""
 "→ Rulebook: xref:combat.adoc#attack-modifiers[Combat – Attack modifiers]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:340
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:365
 #, no-wrap
 msgid "If a stand can support in combat, must it support?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:344
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:369
 msgid ""
 "Yes. Support is not optional. Any Infantry stand that is in a supporting "
 "position will provide support towards the combat result."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:347
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:372
 msgid ""
 "Also remember that an infantry stand placed into a supporting position means "
 "the entire infantry unit counts as \"in combat\"."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:349
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:374
 msgid "→ Rulebook: xref:combat.adoc#support[Combat – Support]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:351
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:377
 #, no-wrap
 msgid "The diagram under xref:combat.adoc#pursuit-supporting[Supporting pursuits] shows a victorious unit pursuing a unit that has retreated. The stand on the right of this is now contacting a unit to the front, and along its left edge. Is it being flanked in this example image?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:358
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:384
 msgid ""
 "No. Stands do not apply the enemy in flank or rear penalty to attacks for "
 "side to side contact that often occurs in pursuits. The enemy in flank or "
@@ -689,18 +689,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:362
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:389
 #, no-wrap
 msgid "If a unit pursues an enemy that has retreated, can it wrap around to surround all edges of the enemy unit, as long as the stands remain touching? Or does it need to maximise contact to the front first?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:365
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:392
 msgid "Work out each pursuing unit's pursuit on a stand-by-stand basis."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:370
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:397
 #, no-wrap
 msgid ""
 "*Basic pursuit* – If a stand can pursue straight forwards so that its front edge contacts a retreating enemy stand,\n"
@@ -710,7 +710,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:376
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:403
 #, no-wrap
 msgid ""
 "*Indirect pursuit* – If there are no enemy stands directly in front of a pursuing unit's stands, and it can draw line\n"
@@ -721,7 +721,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:380
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:407
 msgid ""
 "→ Rulebook: xref:combat.adoc#moving-pursuers[Combat – Moving pursuers], "
 "xref:combat.adoc#basic-pursuit[Combat – Basic pursuit], "
@@ -729,13 +729,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:381
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:408
 #, no-wrap
 msgid "Typical combat with pursuits"
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:391
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:418
 msgid ""
 "The following diagrams show a typical combat.  Units A and B are infantry in "
 "line, with A supporting B.  Units C (infantry) and D (cavalry) are the "
@@ -745,21 +745,21 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:397
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:424
 msgid ""
 "A and B lose the combat.  B removes casualties, and the surviving stands "
 "from both units then retreat."
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:402
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:429
 msgid ""
 "The stands from units C and D able to pursue straight forward into front "
 "edge contact with the enemy must do so:"
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:412
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:439
 msgid ""
 "Note that one stand from unit C has to contact unit A, and is therefore "
 "flank-to-flank with unit B.  In the next diagram, pursuing stands that do "
@@ -770,7 +770,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:419
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:446
 msgid ""
 "Note there is no requirement for stands that do not have to pursue straight "
 "forwards to be moved into contact with the enemy.  Unit C could move a stand "
@@ -778,19 +778,19 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:421
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:448
 msgid "The examples continue with this arrangement."
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:426
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:453
 msgid ""
 "After the second round of combat, unit B has been wiped out, and unit A has "
 "retreated again.  All units have lost a stand."
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:432
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:459
 msgid ""
 "Unit C pursues straight forwards again, keeping one stand in support.  "
 "However unit D no longer has any enemy stands directly in front.  It can "
@@ -798,7 +798,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:439
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:466
 msgid ""
 "An Indirect Pursuit requires the unit to pick one stand and align it to the "
 "retreating enemy as if for a charge, so we check to see if the cavalry are "
@@ -806,25 +806,25 @@ msgid ""
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:443
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:470
 msgid "Unit D moves one stand into contact with the flank of unit A."
 msgstr ""
 
 #. type: delimited block =
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:448
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:475
 msgid ""
 "Finally, the remaining stand can be placed as in basic pursuit, for example "
 "to the rear."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:453
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:481
 #, no-wrap
 msgid "Can a non-flying unit pursue flyers when charging into their flank or rear?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:457
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:485
 msgid ""
 "Yes, non-flying units can pursue flyers when the charging unit charged a "
 "flying unit in the flank or rear. It works in the same way as cavalry being "
@@ -832,26 +832,26 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:459
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:487
 msgid ""
 "→ Rulebook: xref:combat.adoc#which-units-can-pursue[Combat – Which units can "
 "pursue?]."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:460
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:489
 #, no-wrap
 msgid "Unit specific questions"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:463
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:493
 #, no-wrap
 msgid "When Trolls regenerate, does each stand heal one wound, or does the unit heal a wound?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:470
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:500
 msgid ""
 "The unit recovers one outstanding hit that round, after casualties are "
 "removed. Remember hits are recorded against units as a whole, rather than "
@@ -863,7 +863,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:474
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:504
 msgid ""
 "Armies book: xref:armies:chaos.adoc#special-rules[Chaos – Special rule 2], "
 "xref:armies:goblins.adoc#special-rules[Goblins – Special rule 2], "
@@ -871,33 +871,33 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:476
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:507
 #, no-wrap
 msgid "Can Dogs of War Pikemen be supported by two stands per side, as their long edge base allows two units with conventional basing to be placed in base to base contact?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:480
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:511
 msgid ""
 "Yes, provided the supporting Infantry stands can fit all of the side edge of "
 "their base adjacent to the Pikemen stands side."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:482
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:513
 msgid ""
 "Armies book: xref:armies:dogs-of-war.adoc#special-rules[Dogs of War – "
 "Special rule 1]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:484
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:516
 #, no-wrap
 msgid "If a unit has a special rule that states not to roll for being driven back from shooting (e.g. Flagellants), is that unit immune to confusion from shooting, or do you still roll to see if they’re confused?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:489
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:521
 msgid ""
 "The unit special rules for fanatic style units will state that “They can't "
 "be driven back by shooting and do not roll for drive backs.” As you don't "
@@ -906,62 +906,62 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:491
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:523
 msgid ""
 "Armies book: xref:armies:empire.adoc#special-rules[Empire – Special rule 2], "
 "several others."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:493
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:526
 #, no-wrap
 msgid "For the Daemonic Instability table, does a General with a Wizard upgrade count as a wizard?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:495
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:506
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:528
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:541
 msgid "Yes."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:497
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:530
 msgid "Armies book: xref:armies:daemons.adoc#army-rules[Daemons – Army rules]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:499
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:533
 #, no-wrap
 msgid "Does a wizard need line of sight to a target a unit with a spell?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:502
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:536
 msgid ""
 "Refer to the spell description for the spell. It will state whether the "
 "caster requires line of sight or not."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:504
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:539
 #, no-wrap
 msgid "Some spells such as the Empire _Ball of Flame_ state that the caster draws a line from themselves to work out the spell's effect. Does this have to be a straight line?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:508
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:543
 msgid ""
 "Armies book: xref:armies:empire.adoc#ball-of-flame[Empire – Ball of Flame]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:510
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:546
 #, no-wrap
 msgid "Are there any restrictions on placing Raised Dead units?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:526
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:562
 msgid ""
 "Yes. Raised Dead cannot be placed so that they split one combat engagement "
 "into two or more smaller engagements. This can happen when Raised Dead are "
@@ -974,7 +974,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:529
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:565
 msgid ""
 "Armies book: xref:armies:tomb-kings.adoc#raise-dead[Tomb Kings – Raise "
 "Dead], xref:armies:vampire-counts.adoc#raise-dead[Vampire Counts – Raise "
@@ -982,13 +982,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:531
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:568
 #, no-wrap
 msgid "How does laagering and unlaagering of a War Wagon work?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:540
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:577
 msgid ""
 "At the beginning of the move, if you have your War Wagon in a column "
 "formation and you desire to form a laager move any one stand up to 5 cm "
@@ -1003,63 +1003,63 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:542
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:579
 msgid ""
 "Armies book: xref:armies:kislev.adoc#special-rules[Kislev – Special rules 6]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:544
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:582
 #, no-wrap
 msgid "Should the Skaven Doomwheel gain its bonus D6 attacks when using the xref:combat.adoc#advances[optional rules for advances] when the enemy is destroyed in one round?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:549
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:587
 msgid ""
 "Armies book: xref:armies:skaven.adoc#special-rules[Skaven – Special rules 6]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:551
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:590
 #, no-wrap
 msgid "Can the Norse spell _Eye of the Raven_ be used to reroll an opponent’s D6 dice roll?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:555
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:594
 msgid "No. The spell only affects a single D6 rolled by the Norse player."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:557
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:596
 msgid ""
 "Armies book: xref:armies:norse.adoc#eye-of-the-raven[Norse – Eye of the "
 "Raven]."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:559
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:599
 #, no-wrap
 msgid "Do Skirmishers count towards the army break point? How about Chaos Spawn? If one does and the other doesn’t, why?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:563
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:603
 msgid ""
 "Skirmishers are not separate units so add nothing to break point. "
 "Skirmishers are stands that increase the size of an existing unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:566
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:606
 msgid ""
 "A Chaos Spawn *is* a separate unit so does add to the break point. A Spawn "
 "is a unit that may be brigaded with other units."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:568
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:608
 msgid ""
 "Armies book: xref:armies:empire.adoc#special-rules[Empire – Special rule 3] "
 "(and others), xref:armies:chaos.adoc#special-rules[Chaos – Special rule 5] "

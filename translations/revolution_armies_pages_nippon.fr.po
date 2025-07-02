@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,66 +19,66 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:91
-#: en/revolution/modules/armies/pages/araby.adoc:82
-#: en/revolution/modules/armies/pages/beastmen.adoc:53
-#: en/revolution/modules/armies/pages/beastmen.adoc:61
-#: en/revolution/modules/armies/pages/bretonnia.adoc:83
-#: en/revolution/modules/armies/pages/bretonnia.adoc:97
-#: en/revolution/modules/armies/pages/cathay.adoc:79
-#: en/revolution/modules/armies/pages/cathay.adoc:90
-#: en/revolution/modules/armies/pages/chaos.adoc:68
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
-#: en/revolution/modules/armies/pages/daemons.adoc:64
-#: en/revolution/modules/armies/pages/daemons.adoc:106
-#: en/revolution/modules/armies/pages/dark-elves.adoc:85
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
-#: en/revolution/modules/armies/pages/dwarfs.adoc:95
-#: en/revolution/modules/armies/pages/empire.adoc:65
-#: en/revolution/modules/armies/pages/goblins.adoc:78
-#: en/revolution/modules/armies/pages/high-elves.adoc:84
-#: en/revolution/modules/armies/pages/kislev.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:85
-#: en/revolution/modules/armies/pages/lizardmen.adoc:96
-#: en/revolution/modules/armies/pages/nippon.adoc:85
-#: en/revolution/modules/armies/pages/nippon.adoc:101
-#: en/revolution/modules/armies/pages/norse.adoc:51
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
-#: en/revolution/modules/armies/pages/orcs.adoc:82
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
-#: en/revolution/modules/armies/pages/skaven.adoc:74
-#: en/revolution/modules/armies/pages/skaven.adoc:95
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
-#: en/revolution/modules/armies/pages/wood-elves.adoc:60
-#: en/revolution/modules/armies/pages/wood-elves.adoc:68
-#: en/revolution/modules/rules/pages/battlefields.adoc:247
-#: en/revolution/modules/rules/pages/battlefields.adoc:300
-#: en/revolution/modules/rules/pages/battlefields.adoc:352
-#: en/revolution/modules/rules/pages/battlefields.adoc:420
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#: en/revolution/modules/armies/pages/albion.adoc:93
+#: en/revolution/modules/armies/pages/araby.adoc:84
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/beastmen.adoc:65
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/bretonnia.adoc:101
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/cathay.adoc:94
+#: en/revolution/modules/armies/pages/chaos.adoc:70
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/daemons.adoc:110
+#: en/revolution/modules/armies/pages/dark-elves.adoc:87
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
+#: en/revolution/modules/armies/pages/dwarfs.adoc:97
+#: en/revolution/modules/armies/pages/empire.adoc:67
+#: en/revolution/modules/armies/pages/goblins.adoc:80
+#: en/revolution/modules/armies/pages/high-elves.adoc:86
+#: en/revolution/modules/armies/pages/kislev.adoc:71
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/lizardmen.adoc:100
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:105
+#: en/revolution/modules/armies/pages/norse.adoc:53
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
+#: en/revolution/modules/armies/pages/orcs.adoc:84
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/skaven.adoc:99
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
+#: en/revolution/modules/armies/pages/wood-elves.adoc:62
+#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/rules/pages/battlefields.adoc:255
+#: en/revolution/modules/rules/pages/battlefields.adoc:311
+#: en/revolution/modules/rules/pages/battlefields.adoc:366
+#: en/revolution/modules/rules/pages/battlefields.adoc:437
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1438
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
+#: en/revolution/modules/armies/pages/beastmen.adoc:58
+#: en/revolution/modules/armies/pages/bretonnia.adoc:88
+#: en/revolution/modules/armies/pages/cathay.adoc:84
+#: en/revolution/modules/armies/pages/daemons.adoc:69
+#: en/revolution/modules/armies/pages/lizardmen.adoc:90
+#: en/revolution/modules/armies/pages/nippon.adoc:90
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:68
+#: en/revolution/modules/armies/pages/skaven.adoc:79
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:79
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:79
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:66
+#: en/revolution/modules/armies/pages/wood-elves.adoc:65
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
@@ -173,25 +173,25 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/nippon.adoc:78
+#: en/revolution/modules/armies/pages/nippon.adoc:79
 #, no-wrap
 msgid "Nippon army selector"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/nippon.adoc:83
+#: en/revolution/modules/armies/pages/nippon.adoc:84
 #, no-wrap
 msgid "include::partial$nippon.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:89
+#: en/revolution/modules/armies/pages/nippon.adoc:92
 #, no-wrap
 msgid "Honour and Duty"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:98
+#: en/revolution/modules/armies/pages/nippon.adoc:101
 msgid ""
 "A Nipponese army mustered for war is a force unlike any other. Values of "
 "honour and duty are so ingrained in the culture of Nipponese society that "
@@ -206,13 +206,13 @@ msgstr ""
 #.  5: reword casualty
 #.  9: dispel
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:106
+#: en/revolution/modules/armies/pages/nippon.adoc:110
 #, no-wrap
 msgid "[[ashigaru-teppo,†1]]1. Ashigaru Teppo"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:110
+#: en/revolution/modules/armies/pages/nippon.adoc:114
 msgid ""
 "These units use black powder handguns.  Their projectiles can pierce armour "
 "far easier than an arrow.  Therefore, units hit by Ashigaru Teppo get a −1 "
@@ -220,13 +220,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:111
+#: en/revolution/modules/armies/pages/nippon.adoc:115
 #, no-wrap
 msgid "[[bushido,†2]]2. Bushido"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:114
+#: en/revolution/modules/armies/pages/nippon.adoc:118
 msgid ""
 "Samurai live their lives by a strict code of honour and ideals. The troops "
 "do not like losing face, so they cannot use Initiative to evade and they "
@@ -234,13 +234,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:115
+#: en/revolution/modules/armies/pages/nippon.adoc:119
 #, no-wrap
 msgid "[[mikata,†3]]3. Mikata"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:122
+#: en/revolution/modules/armies/pages/nippon.adoc:126
 msgid ""
 "A unit of Mikata will always use its initiative to charge an enemy if "
 "possible and cannot be given orders instead.  They will never use their "
@@ -251,13 +251,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:123
+#: en/revolution/modules/armies/pages/nippon.adoc:127
 #, no-wrap
 msgid "[[ninja,†4]]4. Ninja"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:128
+#: en/revolution/modules/armies/pages/nippon.adoc:132
 msgid ""
 "Ninja have a shooting range of 15cm and 360° vision – stands in this unit "
 "can draw line of sight from all edges for the purpose of evading and "
@@ -266,7 +266,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:152
+#: en/revolution/modules/armies/pages/nippon.adoc:156
 msgid ""
 "Ninja do not have to be deployed before the game if the player does not wish "
 "to do so. Instead, individual units can be infiltrated onto the battlefield "
@@ -290,20 +290,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:155
+#: en/revolution/modules/armies/pages/nippon.adoc:159
 msgid ""
 "Ninjas ignore penalties for Dense Terrain. Ninja count as Gutter Runners for "
 "the purpose of Scout Rules."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:156
+#: en/revolution/modules/armies/pages/nippon.adoc:160
 #, no-wrap
 msgid "[[temple-daemons,†5]]5. Temple Daemons"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:163
+#: en/revolution/modules/armies/pages/nippon.adoc:167
 msgid ""
 "Temple Daemons are immune to terror and cannot be given magic items. They "
 "also suffer from Daemonic Instability. At the start of the Nippon player’s "
@@ -314,7 +314,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/nippon.adoc:188
+#: en/revolution/modules/armies/pages/nippon.adoc:192
 #, no-wrap
 msgid ""
 "h|0–1\n"
@@ -342,13 +342,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:190
+#: en/revolution/modules/armies/pages/nippon.adoc:194
 #, no-wrap
 msgid "[[komainu,†6]]6. Komainu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:194
+#: en/revolution/modules/armies/pages/nippon.adoc:198
 msgid ""
 "If the unit charges against an enemy in the open it receives an additional "
 "+1 Attack modifier in the same way as chariots and monsters. Komainu are "
@@ -356,13 +356,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:195
+#: en/revolution/modules/armies/pages/nippon.adoc:199
 #, no-wrap
 msgid "[[tengu,†7]]7. Tengu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:200
+#: en/revolution/modules/armies/pages/nippon.adoc:204
 msgid ""
 "Tengu can fly. They are an exception to the normal conventions for basing "
 "monsters in that they face the long edge of the stand in the same way as "
@@ -371,13 +371,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:201
+#: en/revolution/modules/armies/pages/nippon.adoc:205
 #, no-wrap
 msgid "[[shogun,†8]]8. Shogun"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:209
+#: en/revolution/modules/armies/pages/nippon.adoc:213
 msgid ""
 "If a Nippon Hero (Daimyo or Shugenja, not the Shogun) rolls a double 6 when "
 "issuing orders, the player must roll on the Blunder table with a −1 penalty "
@@ -389,13 +389,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:210
+#: en/revolution/modules/armies/pages/nippon.adoc:214
 #, no-wrap
 msgid "[[shugenja,†9]]9. Shugenja"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:215
+#: en/revolution/modules/armies/pages/nippon.adoc:219
 msgid ""
 "If an enemy wizard who is within 50cm of the Shugenja casts a spell the "
 "Shugenja can attempt to dispel it. Note that it does not matter what the "
@@ -404,7 +404,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:224
+#: en/revolution/modules/armies/pages/nippon.adoc:228
 msgid ""
 "To determine if this works, roll a D6. On the score of 4, 5 or 6 the "
 "Shugenja has succeeded and the spell doesn’t work, it is dispelled by the "
@@ -416,7 +416,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:229
+#: en/revolution/modules/armies/pages/nippon.adoc:233
 msgid ""
 "The Shugenja adds +1 to any rolls on the Daemonic Instability table if he is "
 "within 20cm of the affected Daemon unit. This benefit only applies when "
@@ -424,18 +424,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:231
+#: en/revolution/modules/armies/pages/nippon.adoc:235
 msgid "Shugenjas may take a Dispel scroll."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:232
+#: en/revolution/modules/armies/pages/nippon.adoc:236
 #, no-wrap
 msgid "[[tatsu,†10]]10. Tatsu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:235
+#: en/revolution/modules/armies/pages/nippon.adoc:239
 msgid ""
 "Generals and Heroes can ride Tatsu, a kind of dragon native to Nippon. Tatsu "
 "can fly and cause terror in their enemies.  An extra +2 Attacks are added to "
@@ -443,20 +443,20 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:236
+#: en/revolution/modules/armies/pages/nippon.adoc:240
 #, no-wrap
 msgid "[[shrine,†11]]11. Shrine"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:238
+#: en/revolution/modules/armies/pages/nippon.adoc:242
 msgid ""
 "The army can only include a single Shrine and it is incorporated onto the "
 "stand of a Shugenja."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:242
+#: en/revolution/modules/armies/pages/nippon.adoc:246
 msgid ""
 "If a Shugenja stand includes the Shrine, once per battle he can add +1 to "
 "his dice roll when he attempts to dispel enemy magic spells using the "
@@ -464,7 +464,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:250
+#: en/revolution/modules/armies/pages/nippon.adoc:254
 msgid ""
 "In addition, the Shugenja can invoke the gods using the Shrine during the "
 "Shooting phase of his own turn. The shrine’s invocation fills the Nippon "

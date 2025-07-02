@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/armies/nav.adoc:2
-#: en/revolution/modules/rules/pages/game-values.adoc:9
+#: en/revolution/modules/rules/pages/game-values.adoc:10
 #, no-wrap
 msgid "Armies"
 msgstr "Armées"
@@ -33,162 +33,162 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:4
-#: en/revolution/modules/armies/pages/index.adoc:50
+#: en/revolution/modules/armies/pages/index.adoc:55
 msgid "xref:picking-the-army.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:5
-#: en/revolution/modules/armies/pages/index.adoc:67
+#: en/revolution/modules/armies/pages/index.adoc:72
 msgid "xref:albion.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:6
-#: en/revolution/modules/armies/pages/index.adoc:64
+#: en/revolution/modules/armies/pages/index.adoc:69
 msgid "xref:araby.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:7
-#: en/revolution/modules/armies/pages/index.adoc:72
+#: en/revolution/modules/armies/pages/index.adoc:77
 msgid "xref:beastmen.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:8
-#: en/revolution/modules/armies/pages/index.adoc:59
+#: en/revolution/modules/armies/pages/index.adoc:64
 msgid "xref:bretonnia.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:9
-#: en/revolution/modules/armies/pages/index.adoc:74
+#: en/revolution/modules/armies/pages/index.adoc:79
 msgid "xref:cathay.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:10
-#: en/revolution/modules/armies/pages/index.adoc:53
+#: en/revolution/modules/armies/pages/index.adoc:58
 msgid "xref:chaos.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:11
-#: en/revolution/modules/armies/pages/index.adoc:70
+#: en/revolution/modules/armies/pages/index.adoc:75
 msgid "xref:chaos-dwarfs.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:12
-#: en/revolution/modules/armies/pages/index.adoc:62
+#: en/revolution/modules/armies/pages/index.adoc:67
 msgid "xref:daemons.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:13
-#: en/revolution/modules/armies/pages/index.adoc:61
+#: en/revolution/modules/armies/pages/index.adoc:66
 msgid "xref:dark-elves.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:14
-#: en/revolution/modules/armies/pages/index.adoc:65
+#: en/revolution/modules/armies/pages/index.adoc:70
 msgid "xref:dogs-of-war.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:15
-#: en/revolution/modules/armies/pages/index.adoc:56
+#: en/revolution/modules/armies/pages/index.adoc:61
 msgid "xref:dwarfs.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:16
-#: en/revolution/modules/armies/pages/index.adoc:51
+#: en/revolution/modules/armies/pages/index.adoc:56
 msgid "xref:empire.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:17
-#: en/revolution/modules/armies/pages/index.adoc:68
+#: en/revolution/modules/armies/pages/index.adoc:73
 msgid "xref:goblins.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:18
-#: en/revolution/modules/armies/pages/index.adoc:55
+#: en/revolution/modules/armies/pages/index.adoc:60
 msgid "xref:high-elves.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:19
-#: en/revolution/modules/armies/pages/index.adoc:60
+#: en/revolution/modules/armies/pages/index.adoc:65
 msgid "xref:kislev.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:20
-#: en/revolution/modules/armies/pages/index.adoc:58
+#: en/revolution/modules/armies/pages/index.adoc:63
 msgid "xref:lizardmen.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:21
-#: en/revolution/modules/armies/pages/index.adoc:75
+#: en/revolution/modules/armies/pages/index.adoc:80
 msgid "xref:nippon.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:22
-#: en/revolution/modules/armies/pages/index.adoc:73
+#: en/revolution/modules/armies/pages/index.adoc:78
 msgid "xref:norse.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:23
-#: en/revolution/modules/armies/pages/index.adoc:66
+#: en/revolution/modules/armies/pages/index.adoc:71
 msgid "xref:ogre-kingdoms.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:24
-#: en/revolution/modules/armies/pages/index.adoc:54
+#: en/revolution/modules/armies/pages/index.adoc:59
 msgid "xref:orcs.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:25
-#: en/revolution/modules/armies/pages/index.adoc:57
+#: en/revolution/modules/armies/pages/index.adoc:62
 msgid "xref:skaven.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:26
-#: en/revolution/modules/armies/pages/index.adoc:52
+#: en/revolution/modules/armies/pages/index.adoc:57
 msgid "xref:tomb-kings.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:27
-#: en/revolution/modules/armies/pages/index.adoc:63
+#: en/revolution/modules/armies/pages/index.adoc:68
 msgid "xref:vampire-counts.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:28
-#: en/revolution/modules/armies/pages/index.adoc:69
+#: en/revolution/modules/armies/pages/index.adoc:74
 msgid "xref:witch-hunters.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:29
-#: en/revolution/modules/armies/pages/index.adoc:71
+#: en/revolution/modules/armies/pages/index.adoc:76
 msgid "xref:wood-elves.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/nav.adoc:29
-#: en/revolution/modules/armies/pages/index.adoc:76
+#: en/revolution/modules/armies/pages/index.adoc:81
 msgid "xref:regiments-of-renown.adoc[]"
 msgstr ""

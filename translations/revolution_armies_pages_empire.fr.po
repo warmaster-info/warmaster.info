@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,57 +19,57 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:91
-#: en/revolution/modules/armies/pages/araby.adoc:82
-#: en/revolution/modules/armies/pages/beastmen.adoc:53
-#: en/revolution/modules/armies/pages/beastmen.adoc:61
-#: en/revolution/modules/armies/pages/bretonnia.adoc:83
-#: en/revolution/modules/armies/pages/bretonnia.adoc:97
-#: en/revolution/modules/armies/pages/cathay.adoc:79
-#: en/revolution/modules/armies/pages/cathay.adoc:90
-#: en/revolution/modules/armies/pages/chaos.adoc:68
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
-#: en/revolution/modules/armies/pages/daemons.adoc:64
-#: en/revolution/modules/armies/pages/daemons.adoc:106
-#: en/revolution/modules/armies/pages/dark-elves.adoc:85
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
-#: en/revolution/modules/armies/pages/dwarfs.adoc:95
-#: en/revolution/modules/armies/pages/empire.adoc:65
-#: en/revolution/modules/armies/pages/goblins.adoc:78
-#: en/revolution/modules/armies/pages/high-elves.adoc:84
-#: en/revolution/modules/armies/pages/kislev.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:85
-#: en/revolution/modules/armies/pages/lizardmen.adoc:96
-#: en/revolution/modules/armies/pages/nippon.adoc:85
-#: en/revolution/modules/armies/pages/nippon.adoc:101
-#: en/revolution/modules/armies/pages/norse.adoc:51
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
-#: en/revolution/modules/armies/pages/orcs.adoc:82
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
-#: en/revolution/modules/armies/pages/skaven.adoc:74
-#: en/revolution/modules/armies/pages/skaven.adoc:95
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
-#: en/revolution/modules/armies/pages/wood-elves.adoc:60
-#: en/revolution/modules/armies/pages/wood-elves.adoc:68
-#: en/revolution/modules/rules/pages/battlefields.adoc:247
-#: en/revolution/modules/rules/pages/battlefields.adoc:300
-#: en/revolution/modules/rules/pages/battlefields.adoc:352
-#: en/revolution/modules/rules/pages/battlefields.adoc:420
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#: en/revolution/modules/armies/pages/albion.adoc:93
+#: en/revolution/modules/armies/pages/araby.adoc:84
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/beastmen.adoc:65
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/bretonnia.adoc:101
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/cathay.adoc:94
+#: en/revolution/modules/armies/pages/chaos.adoc:70
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/daemons.adoc:110
+#: en/revolution/modules/armies/pages/dark-elves.adoc:87
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
+#: en/revolution/modules/armies/pages/dwarfs.adoc:97
+#: en/revolution/modules/armies/pages/empire.adoc:67
+#: en/revolution/modules/armies/pages/goblins.adoc:80
+#: en/revolution/modules/armies/pages/high-elves.adoc:86
+#: en/revolution/modules/armies/pages/kislev.adoc:71
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/lizardmen.adoc:100
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:105
+#: en/revolution/modules/armies/pages/norse.adoc:53
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
+#: en/revolution/modules/armies/pages/orcs.adoc:84
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/skaven.adoc:99
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
+#: en/revolution/modules/armies/pages/wood-elves.adoc:62
+#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/rules/pages/battlefields.adoc:255
+#: en/revolution/modules/rules/pages/battlefields.adoc:311
+#: en/revolution/modules/rules/pages/battlefields.adoc:366
+#: en/revolution/modules/rules/pages/battlefields.adoc:437
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1438
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. 3: – changed to :
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:71
+#: en/revolution/modules/armies/pages/dwarfs.adoc:99
+#: en/revolution/modules/armies/pages/empire.adoc:73
 #, no-wrap
 msgid "[[handgunners,†1]]1. Handgunners"
 msgstr "[[handgunners,†1]]1. Arquebusiers"
@@ -177,19 +177,19 @@ msgstr ""
 "repousser les armées d’invasion qui se déversent des cols à chaque printemps."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/empire.adoc:58
+#: en/revolution/modules/armies/pages/empire.adoc:59
 #, no-wrap
 msgid "Empire army selector"
 msgstr "Sélecteur d’Armée de l’Empire"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/empire.adoc:63
+#: en/revolution/modules/armies/pages/empire.adoc:64
 #, no-wrap
 msgid "include::partial$empire.tsv[]\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:79
+#: en/revolution/modules/armies/pages/empire.adoc:81
 msgid ""
 "Count enemy Armour values as one worse than normal when shot by a handgun. "
 "So an Armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an "
@@ -207,13 +207,13 @@ msgstr ""
 "des Arquebusiers."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:80
+#: en/revolution/modules/armies/pages/empire.adoc:82
 #, no-wrap
 msgid "[[flagellants,†2]]2. Flagellants"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:88
+#: en/revolution/modules/armies/pages/empire.adoc:90
 msgid ""
 "So keen are they to meet their maker that a unit of Flagellants will always "
 "use its initiative to charge an enemy if possible and can’t be given orders "
@@ -233,13 +233,13 @@ msgstr ""
 "subissent pas le malus de -1 Attaque."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:89
+#: en/revolution/modules/armies/pages/empire.adoc:91
 #, no-wrap
 msgid "[[skirmishers,†3]]3. Skirmishers"
 msgstr "[[skirmishers,†3]]3. Tirailleurs"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:94
+#: en/revolution/modules/armies/pages/empire.adoc:96
 msgid ""
 "Skirmisher stands are not deployed as independent units. Instead, any "
 "infantry unit apart from Flagellants may add one stand of Skirmishers. This "
@@ -252,7 +252,7 @@ msgstr ""
 "3 à 4 socles, trois socles ordinaires et un de Tirailleurs."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/empire.adoc:100
 msgid ""
 "Skirmishers always have the same Armour value as the rest of their unit. "
 "They fight as part of their unit and can be removed as a unit casualty if "
@@ -263,7 +263,7 @@ msgstr ""
 "joueur le décide."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:102
+#: en/revolution/modules/armies/pages/empire.adoc:104
 msgid ""
 "Skirmisher casualties never count for Command penalties.  Skirmisher stands "
 "never cause the parent unit to be in Irregular Formation no matter how they "
@@ -274,13 +274,13 @@ msgstr ""
 "parente, quelque soit leur placement."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:103
+#: en/revolution/modules/armies/pages/empire.adoc:105
 #, no-wrap
 msgid "[[pistoliers,†4]]4. Pistoliers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:109
+#: en/revolution/modules/armies/pages/empire.adoc:111
 msgid ""
 "Pistoliers have a shooting range of only 15cm however they have 360° vision "
 "– i.e. stands in this unit can draw line of sight from all edges for the "
@@ -295,13 +295,13 @@ msgstr ""
 "besoin d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:110
+#: en/revolution/modules/armies/pages/empire.adoc:112
 #, no-wrap
 msgid "[[helblaster,†5]]5. Helblaster"
 msgstr "[[helblaster,†5]]5. Canon Feu d’Enfer"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:114
+#: en/revolution/modules/armies/pages/empire.adoc:116
 msgid ""
 "The Helblaster is a primitive type of crankdriven and unreliable machine "
 "gun. It has maximum range of 30cm. Its attacks value varies according to "
@@ -312,7 +312,7 @@ msgstr ""
 "plus elle est courte, plus le tir est dévastateur."
 
 #. type: Table
-#: en/revolution/modules/armies/pages/empire.adoc:119
+#: en/revolution/modules/armies/pages/empire.adoc:121
 #, no-wrap
 msgid ""
 "h|Range  |1–10cm |11–20cm |21–30cm\n"
@@ -322,7 +322,7 @@ msgstr ""
 "h|Attaques |8      |4       |2\n"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:126
+#: en/revolution/modules/armies/pages/empire.adoc:128
 msgid ""
 "Targets struck by a Helblaster count their Armour value as one worse than "
 "normal – so 3+ counts as 4+, 4+ as 5+, whilst 6+ is ignored. When shooting "
@@ -336,7 +336,7 @@ msgstr ""
 "tableau suivant et appliquez son résultat avant de résoudre les effets."
 
 #. type: Table
-#: en/revolution/modules/armies/pages/empire.adoc:147
+#: en/revolution/modules/armies/pages/empire.adoc:149
 #, no-wrap
 msgid ""
 "|№ of 1s |Result\n"
@@ -378,13 +378,13 @@ msgstr ""
 "de Feu d'Enfer.\n"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:149
+#: en/revolution/modules/armies/pages/empire.adoc:151
 #, no-wrap
 msgid "[[steam-tank,†6]]6. Steam Tank"
 msgstr "[[steam-tank,†6]]6. Tank à Vapeur"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:160
+#: en/revolution/modules/armies/pages/empire.adoc:162
 msgid ""
 "The Steam Tank forms a unit on its own, it moves up to 20cm, and must be "
 "given its own orders. The Steam Tank cannot be given a brigade order with "
@@ -408,7 +408,7 @@ msgstr ""
 "l'arrière contre l'ennemi le plus proche."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:165
+#: en/revolution/modules/armies/pages/empire.adoc:167
 msgid ""
 "Count enemy armour values as one worse than normal when shot by a Steam "
 "Tank. So, for example, an armour value of 3+ counts as 4+, 5+ counts as 6+, "
@@ -421,7 +421,7 @@ msgstr ""
 "Un Tank à Vapeur peut tirer sur un ennemi qui le charge."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:171
+#: en/revolution/modules/armies/pages/empire.adoc:173
 msgid ""
 "Because of its exceptionally heavy armour plating, a Steam Tank always "
 "counts as defended – so a 5 or 6 is normally required to inflict a hit from "
@@ -434,7 +434,7 @@ msgstr ""
 "Les Tanks à Vapeur ne peuvent être repoussés ou dispersés par des tirs."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:178
+#: en/revolution/modules/armies/pages/empire.adoc:180
 msgid ""
 "If the player attempts to issue an order to a Steam Tank and rolls double "
 "six then the order is failed as usual and the machine does not move. Ignore "
@@ -450,7 +450,7 @@ msgstr ""
 "d’incidents."
 
 #. type: Table
-#: en/revolution/modules/armies/pages/empire.adoc:213
+#: en/revolution/modules/armies/pages/empire.adoc:215
 #, no-wrap
 msgid ""
 "h|1\n"
@@ -499,16 +499,14 @@ msgstr ""
 "et à se battre normalement.\n"
 "\n"
 "h|3\n"
-"|*Bloqué:* Le Tank ne peut plus se déplacer lors de ce tour, et ne pourra "
-"pas\n"
+"|*Bloqué:* Le Tank ne peut plus se déplacer lors de ce tour, et ne pourra pas\n"
 "tirer. Il ne subit pas d’autres effets néfastes et pourra se déplacer\n"
 "normalement lors des tours suivants.\n"
 "\n"
 "h|4\n"
 "|*Commandant tué:* Le Tank ne peut plus se déplacer lors de ce tour. Il\n"
 "pourra bouger normalement lors des tours suivants mais subit une pénalité\n"
-"de -1 sur ses ordres pour le reste de la bataille. Il peut tirer normalement."
-"\n"
+"de -1 sur ses ordres pour le reste de la bataille. Il peut tirer normalement.\n"
 "\n"
 "h|5\n"
 "|*Halte momentanée:* : Le Tank ne peut plus se déplacer lors de ce tour\n"
@@ -520,13 +518,13 @@ msgstr ""
 "pour représenter l’excès de vapeur dirigé vers ses armes.\n"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:215
+#: en/revolution/modules/armies/pages/empire.adoc:217
 #, no-wrap
 msgid "[[griffon,†7]]7. Griffon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:221
+#: en/revolution/modules/armies/pages/empire.adoc:223
 msgid ""
 "Generals, Wizards and Heroes can ride Griffons.  The Griffon can fly "
 "increasing its rider’s Movement from 60cm to 100cm. It adds +2 Attacks to "
@@ -541,13 +539,13 @@ msgstr ""
 "légère anxiété dans ses propres rangs)."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/empire.adoc:222
+#: en/revolution/modules/armies/pages/empire.adoc:224
 #, no-wrap
 msgid "[[war-altar,†8]]8. War Altar"
 msgstr "[[war-altar,†8]]8. Autel de Guerre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/empire.adoc:231
+#: en/revolution/modules/armies/pages/empire.adoc:233
 msgid ""
 "There is only one War Altar of Sigmar.  Consequently an army, no matter how "
 "large, can only ever include one. A War Altar can only be included as a "
@@ -566,7 +564,7 @@ msgstr ""
 "qu’il utilise le pouvoir de l’Autel avant de lancer le sort."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/empire.adoc:232
+#: en/revolution/modules/armies/pages/empire.adoc:235
 #, no-wrap
 msgid "Empire spells"
 msgstr "Sorts de l'Empire"

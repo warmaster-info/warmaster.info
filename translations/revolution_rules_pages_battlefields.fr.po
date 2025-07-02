@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,49 +19,49 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:91
-#: en/revolution/modules/armies/pages/araby.adoc:82
-#: en/revolution/modules/armies/pages/beastmen.adoc:53
-#: en/revolution/modules/armies/pages/beastmen.adoc:61
-#: en/revolution/modules/armies/pages/bretonnia.adoc:83
-#: en/revolution/modules/armies/pages/bretonnia.adoc:97
-#: en/revolution/modules/armies/pages/cathay.adoc:79
-#: en/revolution/modules/armies/pages/cathay.adoc:90
-#: en/revolution/modules/armies/pages/chaos.adoc:68
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
-#: en/revolution/modules/armies/pages/daemons.adoc:64
-#: en/revolution/modules/armies/pages/daemons.adoc:106
-#: en/revolution/modules/armies/pages/dark-elves.adoc:85
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
-#: en/revolution/modules/armies/pages/dwarfs.adoc:95
-#: en/revolution/modules/armies/pages/empire.adoc:65
-#: en/revolution/modules/armies/pages/goblins.adoc:78
-#: en/revolution/modules/armies/pages/high-elves.adoc:84
-#: en/revolution/modules/armies/pages/kislev.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:85
-#: en/revolution/modules/armies/pages/lizardmen.adoc:96
-#: en/revolution/modules/armies/pages/nippon.adoc:85
-#: en/revolution/modules/armies/pages/nippon.adoc:101
-#: en/revolution/modules/armies/pages/norse.adoc:51
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
-#: en/revolution/modules/armies/pages/orcs.adoc:82
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
-#: en/revolution/modules/armies/pages/skaven.adoc:74
-#: en/revolution/modules/armies/pages/skaven.adoc:95
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
-#: en/revolution/modules/armies/pages/wood-elves.adoc:60
-#: en/revolution/modules/armies/pages/wood-elves.adoc:68
-#: en/revolution/modules/rules/pages/battlefields.adoc:247
-#: en/revolution/modules/rules/pages/battlefields.adoc:300
-#: en/revolution/modules/rules/pages/battlefields.adoc:352
-#: en/revolution/modules/rules/pages/battlefields.adoc:420
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#: en/revolution/modules/armies/pages/albion.adoc:93
+#: en/revolution/modules/armies/pages/araby.adoc:84
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/beastmen.adoc:65
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/bretonnia.adoc:101
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/cathay.adoc:94
+#: en/revolution/modules/armies/pages/chaos.adoc:70
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/daemons.adoc:110
+#: en/revolution/modules/armies/pages/dark-elves.adoc:87
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
+#: en/revolution/modules/armies/pages/dwarfs.adoc:97
+#: en/revolution/modules/armies/pages/empire.adoc:67
+#: en/revolution/modules/armies/pages/goblins.adoc:80
+#: en/revolution/modules/armies/pages/high-elves.adoc:86
+#: en/revolution/modules/armies/pages/kislev.adoc:71
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/lizardmen.adoc:100
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:105
+#: en/revolution/modules/armies/pages/norse.adoc:53
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
+#: en/revolution/modules/armies/pages/orcs.adoc:84
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/skaven.adoc:99
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
+#: en/revolution/modules/armies/pages/wood-elves.adoc:62
+#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/rules/pages/battlefields.adoc:255
+#: en/revolution/modules/rules/pages/battlefields.adoc:311
+#: en/revolution/modules/rules/pages/battlefields.adoc:366
+#: en/revolution/modules/rules/pages/battlefields.adoc:437
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1438
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
@@ -73,13 +73,13 @@ msgid "Battlefields"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:3
+#: en/revolution/modules/rules/pages/battlefields.adoc:4
 #, no-wrap
 msgid "Setting up armies"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:13
+#: en/revolution/modules/rules/pages/battlefields.adoc:14
 msgid ""
 "There are several different but equally acceptable ways of setting up armies "
 "for a battle. In the scenarios it is often specified which side deploys "
@@ -90,7 +90,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:24
+#: en/revolution/modules/rules/pages/battlefields.adoc:25
 #, no-wrap
 msgid ""
 "*One unit at a time.* Each side deploys one unit at a time\n"
@@ -104,7 +104,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:30
+#: en/revolution/modules/rules/pages/battlefields.adoc:31
 #, no-wrap
 msgid ""
 "*Maps.* Each player makes a sketch map of his table edge\n"
@@ -115,7 +115,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:35
+#: en/revolution/modules/rules/pages/battlefields.adoc:36
 #, no-wrap
 msgid ""
 "*Screens.* A screen is set up across the centre of the table\n"
@@ -125,7 +125,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:41
+#: en/revolution/modules/rules/pages/battlefields.adoc:42
 #, no-wrap
 msgid ""
 "*One side first.* Both players roll a dice and the highest\n"
@@ -136,7 +136,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:44
+#: en/revolution/modules/rules/pages/battlefields.adoc:45
 #, no-wrap
 msgid ""
 "*Scouts.* This way of setting up the armies is described in\n"
@@ -144,13 +144,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:45
+#: en/revolution/modules/rules/pages/battlefields.adoc:47
 #, no-wrap
 msgid "Setting up scenery"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:51
+#: en/revolution/modules/rules/pages/battlefields.adoc:53
 msgid ""
 "It is entirely up to the players to decide on how to set up the scenery "
 "before the armies deploy. However, we recommend you use between 6 and 10 "
@@ -158,7 +158,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:75
+#: en/revolution/modules/rules/pages/battlefields.adoc:77
 msgid ""
 "_For example, a battlefield might include 2-3 forests, 2-3 hills, 2-3 areas "
 "of broken or marshy ground, 2-3 low walls and 1-3 other pieces.  Terrain "
@@ -167,12 +167,12 @@ msgstr ""
 
 #.  Tweaked grammar
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:78
+#: en/revolution/modules/rules/pages/battlefields.adoc:80
 msgid "Here are some ways to set up scenery."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:84
+#: en/revolution/modules/rules/pages/battlefields.adoc:86
 #, no-wrap
 msgid ""
 "*Dice for Edges.* Both players help to construct the\n"
@@ -183,7 +183,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:91
+#: en/revolution/modules/rules/pages/battlefields.adoc:93
 #, no-wrap
 msgid ""
 "*One player sets up and his opponent chooses which\n"
@@ -195,7 +195,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:96
+#: en/revolution/modules/rules/pages/battlefields.adoc:98
 #, no-wrap
 msgid ""
 "*Symmetrical set up.* The scenery is laid out perfectly\n"
@@ -205,14 +205,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:97
+#: en/revolution/modules/rules/pages/battlefields.adoc:100
 #, no-wrap
 msgid "Table size and deployment areas"
 msgstr ""
 
 #.  Metric dimensions added
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:105
+#: en/revolution/modules/rules/pages/battlefields.adoc:108
 msgid ""
 "Warmaster has been developed for [.edit]#1.8m × 1.2m# (6′×4′) gaming tables. "
 "It can be played on a slightly smaller or much larger table using suitably "
@@ -221,14 +221,14 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/battlefields.adoc:109
+#: en/revolution/modules/rules/pages/battlefields.adoc:112
 #, no-wrap
 msgid "Scouting"
 msgstr ""
 
 #.  of, They
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/battlefields.adoc:116
+#: en/revolution/modules/rules/pages/battlefields.adoc:119
 msgid ""
 "Scouting rules are an alternative way of deploying your armies. They "
 "represent the pre-battle struggle for information between opposing armies’ "
@@ -236,7 +236,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/battlefields.adoc:121
+#: en/revolution/modules/rules/pages/battlefields.adoc:124
 msgid ""
 "Before the game starts, players must indicate on their army lists which "
 "units and/or characters they wish to commit to scouting. Using the table "
@@ -244,7 +244,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/battlefields.adoc:142
+#: en/revolution/modules/rules/pages/battlefields.adoc:145
 #, no-wrap
 msgid ""
 "|Role |Scouting points |Troop types\n"
@@ -268,7 +268,7 @@ msgstr ""
 
 #.  do need
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:153
+#: en/revolution/modules/rules/pages/battlefields.adoc:156
 msgid ""
 "Each player then rolls 2D6 and adds this to their scouting points "
 "[.edit]#total#. The player with the higher [.edit]#result# chooses the table "
@@ -281,7 +281,7 @@ msgstr ""
 
 #.  Paragraph break added
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:157
+#: en/revolution/modules/rules/pages/battlefields.adoc:160
 msgid ""
 "Next the player with the lower total must place all of his units and "
 "characters within his deployment zone."
@@ -289,7 +289,7 @@ msgstr ""
 
 #.  Paragraph break added
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:162
+#: en/revolution/modules/rules/pages/battlefields.adoc:165
 msgid ""
 "Finally, the player who ‘won’ the scouting roll then places the remainder of "
 "his units in his deployment zone.  [.edit]#This player# must move second in "
@@ -297,13 +297,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:164
+#: en/revolution/modules/rules/pages/battlefields.adoc:168
 #, no-wrap
 msgid "How long does the battle last?"
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/battlefields.adoc:170
+#: en/revolution/modules/rules/pages/battlefields.adoc:174
 msgid ""
 "There are several ways to determine how long the battle will last. Here are "
 "some of them described in detail.  In any case the battle ends when one side "
@@ -311,7 +311,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/battlefields.adoc:175
+#: en/revolution/modules/rules/pages/battlefields.adoc:179
 #, no-wrap
 msgid ""
 "*Unlimited time.* Players may prefer to play a battle\n"
@@ -321,7 +321,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/battlefields.adoc:178
+#: en/revolution/modules/rules/pages/battlefields.adoc:182
 #, no-wrap
 msgid ""
 "*Agreed on beforehand.* Players may simply agree on the\n"
@@ -329,7 +329,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block *
-#: en/revolution/modules/rules/pages/battlefields.adoc:182
+#: en/revolution/modules/rules/pages/battlefields.adoc:186
 #, no-wrap
 msgid ""
 "*Random length decided beforehand.* Roll a dice and\n"
@@ -338,7 +338,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/battlefields.adoc:190
+#: en/revolution/modules/rules/pages/battlefields.adoc:194
 #, no-wrap
 msgid ""
 "|D6  |Game Length\n"
@@ -349,7 +349,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:196
+#: en/revolution/modules/rules/pages/battlefields.adoc:200
 #, no-wrap
 msgid ""
 "*Random length.* At the end of the 5th turn, roll a dice. On\n"
@@ -359,7 +359,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:203
+#: en/revolution/modules/rules/pages/battlefields.adoc:207
 #, no-wrap
 msgid ""
 "*Time limit.* Apart from the number of turns, the length\n"
@@ -371,14 +371,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:204
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1495
+#: en/revolution/modules/rules/pages/battlefields.adoc:209
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1530
 #, no-wrap
 msgid "Scenarios"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:217
+#: en/revolution/modules/rules/pages/battlefields.adoc:222
 msgid ""
 "The simplest way to start a game is by lining the armies up across the "
 "battlefield 80cm apart using one of the methods described. Although easy, "
@@ -391,19 +391,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:218
-#: en/revolution/modules/rules/pages/battlefields.adoc:264
-#: en/revolution/modules/rules/pages/battlefields.adoc:314
-#: en/revolution/modules/rules/pages/battlefields.adoc:378
-#: en/revolution/modules/rules/pages/battlefields.adoc:456
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:61
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:17
+#: en/revolution/modules/rules/pages/battlefields.adoc:224
+#: en/revolution/modules/rules/pages/battlefields.adoc:273
+#: en/revolution/modules/rules/pages/battlefields.adoc:326
+#: en/revolution/modules/rules/pages/battlefields.adoc:393
+#: en/revolution/modules/rules/pages/battlefields.adoc:474
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:65
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:20
 #, no-wrap
 msgid "Victory points"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:225
+#: en/revolution/modules/rules/pages/battlefields.adoc:231
 msgid ""
 "Victory Points in following scenarios are designed so they fit into the "
 "campaign system presented further in this Rulebook. In these scenarios the "
@@ -412,7 +412,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:229
+#: en/revolution/modules/rules/pages/battlefields.adoc:235
 msgid ""
 "As usual, the player with the most Victory Points is the winner. To see how "
 "decisive the victory was, consult the Victory Points difference with the "
@@ -420,7 +420,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/battlefields.adoc:235
+#: en/revolution/modules/rules/pages/battlefields.adoc:241
 #, no-wrap
 msgid ""
 "|1–2 Victory Points |Minor victory\n"
@@ -429,20 +429,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:239
+#: en/revolution/modules/rules/pages/battlefields.adoc:245
 msgid ""
 "If both sides have an equal number of Victory Points, then the game is a "
 "draw."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:240
+#: en/revolution/modules/rules/pages/battlefields.adoc:247
 #, no-wrap
 msgid "Take and hold"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:246
+#: en/revolution/modules/rules/pages/battlefields.adoc:253
 msgid ""
 "The aim of this scenario is to fight over certain objectives rather than "
 "just breaking your opponent. The battle can be played at any number of "
@@ -451,7 +451,7 @@ msgstr ""
 
 #.  Reorder around 15cm
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:260
+#: en/revolution/modules/rules/pages/battlefields.adoc:268
 msgid ""
 "After terrain is set, players take turns in placing four game objectives. "
 "These can be any kind of markers or preferably some terrain features, such "
@@ -464,7 +464,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
+#: en/revolution/modules/rules/pages/battlefields.adoc:271
 msgid ""
 "After the objectives are placed, roll for sides and deploy your armies "
 "within the deployment zones."
@@ -472,7 +472,7 @@ msgstr ""
 
 #.  is → are
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:275
+#: en/revolution/modules/rules/pages/battlefields.adoc:284
 msgid ""
 "Victory Points are awarded not only for breaking the opponent but for "
 "holding the objectives during the game.  Victory Points for holding an "
@@ -484,13 +484,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:277
+#: en/revolution/modules/rules/pages/battlefields.adoc:286
 #, no-wrap
 msgid "*1 point* for holding the objective on your side of the table.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:280
+#: en/revolution/modules/rules/pages/battlefields.adoc:289
 #, no-wrap
 msgid ""
 "*2 points* for holding an objective on the enemy side of\n"
@@ -498,36 +498,36 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:282
-#: en/revolution/modules/rules/pages/battlefields.adoc:332
+#: en/revolution/modules/rules/pages/battlefields.adoc:291
+#: en/revolution/modules/rules/pages/battlefields.adoc:344
 #, no-wrap
 msgid "*2 points* for forcing the enemy to withdraw.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:285
-#: en/revolution/modules/rules/pages/battlefields.adoc:335
+#: en/revolution/modules/rules/pages/battlefields.adoc:294
+#: en/revolution/modules/rules/pages/battlefields.adoc:347
 msgid ""
 "The game ends when one player collects 10 Victory Points, one side withdraws "
 "or in a pre-agreed way (see <<how-long-does-the-battle-last>>)."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:288
-#: en/revolution/modules/rules/pages/battlefields.adoc:338
+#: en/revolution/modules/rules/pages/battlefields.adoc:297
+#: en/revolution/modules/rules/pages/battlefields.adoc:350
 msgid ""
 "An army that withdrew cannot win but can draw at best, even when it has more "
 "Victory Points than the enemy."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:293
+#: en/revolution/modules/rules/pages/battlefields.adoc:303
 #, no-wrap
 msgid "Battle for the tower"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:299
+#: en/revolution/modules/rules/pages/battlefields.adoc:309
 msgid ""
 "This scenario features a bloody struggle for a tower positioned in the "
 "middle of the battlefield. The battle can be played at any number of points; "
@@ -535,7 +535,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:306
+#: en/revolution/modules/rules/pages/battlefields.adoc:317
 msgid ""
 "Along with other terrain, place a tower (or any similar significant terrain "
 "feature such as farm house, monolith, shrine etc.) right in the middle of "
@@ -543,12 +543,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:308
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 msgid "Deploy your armies as usual."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:313
+#: en/revolution/modules/rules/pages/battlefields.adoc:324
 msgid ""
 "A player controls the tower if at least two of their non-confused units of "
 "infantry, cavalry or chariots (in any combination) are touching the tower "
@@ -557,7 +557,7 @@ msgstr ""
 
 #.  Spelling important, controls
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:322
+#: en/revolution/modules/rules/pages/battlefields.adoc:334
 msgid ""
 "It is important who controls the tower no matter which side withdrew. From "
 "the 3rd turn on, a player will be awarded Victory Points at the end of his "
@@ -565,13 +565,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:324
+#: en/revolution/modules/rules/pages/battlefields.adoc:336
 #, no-wrap
 msgid "*3 points* for controlling the tower.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:327
+#: en/revolution/modules/rules/pages/battlefields.adoc:339
 #, no-wrap
 msgid ""
 "*1 additional point* if there are no enemy units within 10cm of\n"
@@ -579,7 +579,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:330
+#: en/revolution/modules/rules/pages/battlefields.adoc:342
 #, no-wrap
 msgid ""
 "*1 additional point* if there are no enemy units within 20cm of\n"
@@ -587,13 +587,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:343
+#: en/revolution/modules/rules/pages/battlefields.adoc:356
 #, no-wrap
 msgid "Defending the village"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:351
+#: en/revolution/modules/rules/pages/battlefields.adoc:364
 msgid ""
 "In this scenario one player is defending a village and farmsteads against "
 "the attacker’s army raiding the country. The attacker’s aim is to burn down "
@@ -602,7 +602,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:363
+#: en/revolution/modules/rules/pages/battlefields.adoc:377
 msgid ""
 "Along with the other terrain, place a village in the defender’s corner. The "
 "village should be approximately 20cm × 20cm. Starting with the attacker, "
@@ -613,14 +613,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:367
+#: en/revolution/modules/rules/pages/battlefields.adoc:381
 msgid ""
 "The attacker deploys first in his deployment zone (see the diagram below). "
 "The defender then deploys, and goes first."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:374
+#: en/revolution/modules/rules/pages/battlefields.adoc:388
 msgid ""
 "Any stand from an attacker’s unit of non-flying infantry, cavalry or "
 "chariots that is not in combat or confused and is touching a building can "
@@ -630,15 +630,15 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:377
-#: en/revolution/modules/rules/pages/battlefields.adoc:455
+#: en/revolution/modules/rules/pages/battlefields.adoc:391
+#: en/revolution/modules/rules/pages/battlefields.adoc:472
 msgid ""
 "The game ends when one side withdraws or in a pre-agreed way (see <<how-long-"
 "does-the-battle-last>>)."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:382
+#: en/revolution/modules/rules/pages/battlefields.adoc:397
 msgid ""
 "Victory Points are gained for defending and destroying the buildings, "
 "[.edit]#according to each army’s role#."
@@ -646,14 +646,14 @@ msgstr ""
 
 #.  every → each
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:385
-#: en/revolution/modules/rules/pages/battlefields.adoc:460
+#: en/revolution/modules/rules/pages/battlefields.adoc:400
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
 #, no-wrap
 msgid "*2 points* for breaking the enemy.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:388
+#: en/revolution/modules/rules/pages/battlefields.adoc:403
 #, no-wrap
 msgid ""
 "*1 point* for the attacker for every burnt building on\n"
@@ -661,7 +661,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:391
+#: en/revolution/modules/rules/pages/battlefields.adoc:406
 #, no-wrap
 msgid ""
 "*2 points* for the attacker for every burnt building on\n"
@@ -669,19 +669,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:393
+#: en/revolution/modules/rules/pages/battlefields.adoc:408
 #, no-wrap
 msgid "*3 points* for the attacker for burning the village.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:395
+#: en/revolution/modules/rules/pages/battlefields.adoc:410
 #, no-wrap
 msgid "*1 point* for the defender for defending the village.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:398
+#: en/revolution/modules/rules/pages/battlefields.adoc:413
 #, no-wrap
 msgid ""
 "*2 point* for the defender for every unburnt building on\n"
@@ -689,7 +689,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:401
+#: en/revolution/modules/rules/pages/battlefields.adoc:416
 #, no-wrap
 msgid ""
 "*3 points* for the defender for every unburnt building on\n"
@@ -697,20 +697,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:404
-#: en/revolution/modules/rules/pages/battlefields.adoc:474
+#: en/revolution/modules/rules/pages/battlefields.adoc:419
+#: en/revolution/modules/rules/pages/battlefields.adoc:492
 msgid "A broken army cannot win the game. It can either lose or draw."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:410
+#: en/revolution/modules/rules/pages/battlefields.adoc:426
 #, no-wrap
 msgid "Wagon train"
 msgstr ""
 
 #.  sp defender's. Bring
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:419
+#: en/revolution/modules/rules/pages/battlefields.adoc:435
 msgid ""
 "A supply wagon train escorted by a patrol force is suddenly ambushed by the "
 "enemy. The defender’s task is to protect and bring to safety as many wagons "
@@ -720,7 +720,7 @@ msgstr ""
 
 #.  halfway
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:430
+#: en/revolution/modules/rules/pages/battlefields.adoc:447
 msgid ""
 "Along with the other terrain place a road running through the middle of the "
 "table. The defender places 6 wagons on the road so that no wagon is more "
@@ -731,7 +731,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:441
+#: en/revolution/modules/rules/pages/battlefields.adoc:458
 msgid ""
 "Wagons can move 20cm once in the Command phase, heading in the direction "
 "leading away from the defender’s side of the table. They don’t need to be "
@@ -744,7 +744,7 @@ msgstr ""
 
 #.  Spelling 'its own', a/the etc.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:452
+#: en/revolution/modules/rules/pages/battlefields.adoc:469
 msgid ""
 "The wagons can be simply destroyed, or destroyed and then looted. A wagon is "
 "destroyed when at least one attack (shooting, magic or close combat) is "
@@ -755,7 +755,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:463
+#: en/revolution/modules/rules/pages/battlefields.adoc:481
 #, no-wrap
 msgid ""
 "*1 point* for the attacker for each wagon destroyed in\n"
@@ -763,7 +763,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:467
+#: en/revolution/modules/rules/pages/battlefields.adoc:485
 #, no-wrap
 msgid ""
 "*3 points* for the attacker for each wagon destroyed and\n"
@@ -772,13 +772,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:469
+#: en/revolution/modules/rules/pages/battlefields.adoc:487
 #, no-wrap
 msgid "*1 point* for the defender for every non destroyed wagon.\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/battlefields.adoc:471
+#: en/revolution/modules/rules/pages/battlefields.adoc:489
 #, no-wrap
 msgid "*3 points* for the defender for every wagon saved.\n"
 msgstr ""

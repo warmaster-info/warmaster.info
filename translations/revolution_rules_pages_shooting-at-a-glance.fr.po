@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,53 +17,53 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:206
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:9
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:12
+#: en/revolution/modules/rules/pages/combat.adoc:224
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:11
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
 #, no-wrap
 msgid "Attacks"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:13
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:16
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:15
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:19
 msgid "Roll the number of dice indicated."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:14
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:17
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:16
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:20
 msgid "Rolls of 4+ score hits."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:15
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:19
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:17
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:22
 msgid "Rolls of 5+ are needed to score hits on a defended target."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:16
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:21
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:18
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:24
 msgid "Rolls of 6+ are needed to score hits on a fortified target."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:19
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:24
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:21
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:27
 msgid "Remove stands where sufficient hits are scored."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:21
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:8
+#: en/revolution/modules/rules/pages/shooting.adoc:23
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:10
 #, no-wrap
 msgid "Range"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:41
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:4
+#: en/revolution/modules/rules/pages/shooting.adoc:44
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:5
 #, no-wrap
 msgid "Targets"
 msgstr ""
@@ -75,103 +75,103 @@ msgid "Shooting at a Glance"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:7
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:8
 msgid "Units shoot once per turn at the closest visible enemy unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:11
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:13
 msgid "Most missile armed troops can shoot at the enemy up to 30cm away."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:18
 msgid "Total the Attack value for the shooting unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:22
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:25
 msgid "Roll an Armour save for each hit scored."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:23
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:26
 msgid "Record final hits scored."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:25
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:29
 #, no-wrap
 msgid "Drive back"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:29
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:33
 msgid ""
 "Roll a dice for each hit taken, rolling 1 less dice for defended units and 2 "
 "less dice for fortified units."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:30
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:34
 msgid ""
 "Add the dice scores together and drive back the target unit by this distance."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:31
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:35
 msgid "If any drive back dice roll 6s, the unit becomes confused."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:33
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:37
 msgid ""
 "Units driven into enemy units, engaged units or friends who do *not* make "
 "way become confused."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:35
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:39
 msgid ""
 "Units driven into impassable terrain or into friends who *do* make way are "
 "confused on the roll of a 6."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:36
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:40
 msgid ""
 "Friendly units making way for driven back units are confused on the roll of "
 "a 6."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:37
-msgid "A unit driven back further than its full pace move is destroyed."
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:38
-#, no-wrap
-msgid "Shooting at chargers"
-msgstr ""
-
-#. type: Plain text
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:41
-msgid "Hits inflicted on chargers carry over into the first combat round."
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:42
-msgid "Chargers cannot be driven back."
+msgid "A unit driven back further than its full pace move is destroyed."
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:43
 #, no-wrap
+msgid "Shooting at chargers"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:46
+msgid "Hits inflicted on chargers carry over into the first combat round."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:47
+msgid "Chargers cannot be driven back."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:49
+#, no-wrap
 msgid "Disregard odd hits"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:45
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:51
 msgid "At the end of the Shooting phase any odd hits are disregarded."
 msgstr ""

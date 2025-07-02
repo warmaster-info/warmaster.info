@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 17:51+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,102 +19,102 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:91
-#: en/revolution/modules/armies/pages/araby.adoc:82
-#: en/revolution/modules/armies/pages/beastmen.adoc:53
-#: en/revolution/modules/armies/pages/beastmen.adoc:61
-#: en/revolution/modules/armies/pages/bretonnia.adoc:83
-#: en/revolution/modules/armies/pages/bretonnia.adoc:97
-#: en/revolution/modules/armies/pages/cathay.adoc:79
-#: en/revolution/modules/armies/pages/cathay.adoc:90
-#: en/revolution/modules/armies/pages/chaos.adoc:68
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:75
-#: en/revolution/modules/armies/pages/daemons.adoc:64
-#: en/revolution/modules/armies/pages/daemons.adoc:106
-#: en/revolution/modules/armies/pages/dark-elves.adoc:85
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:82
-#: en/revolution/modules/armies/pages/dwarfs.adoc:95
-#: en/revolution/modules/armies/pages/empire.adoc:65
-#: en/revolution/modules/armies/pages/goblins.adoc:78
-#: en/revolution/modules/armies/pages/high-elves.adoc:84
-#: en/revolution/modules/armies/pages/kislev.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:85
-#: en/revolution/modules/armies/pages/lizardmen.adoc:96
-#: en/revolution/modules/armies/pages/nippon.adoc:85
-#: en/revolution/modules/armies/pages/nippon.adoc:101
-#: en/revolution/modules/armies/pages/norse.adoc:51
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:75
-#: en/revolution/modules/armies/pages/orcs.adoc:82
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:63
-#: en/revolution/modules/armies/pages/skaven.adoc:74
-#: en/revolution/modules/armies/pages/skaven.adoc:95
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:74
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:74
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:97
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:61
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:72
-#: en/revolution/modules/armies/pages/wood-elves.adoc:60
-#: en/revolution/modules/armies/pages/wood-elves.adoc:68
-#: en/revolution/modules/rules/pages/battlefields.adoc:247
-#: en/revolution/modules/rules/pages/battlefields.adoc:300
-#: en/revolution/modules/rules/pages/battlefields.adoc:352
-#: en/revolution/modules/rules/pages/battlefields.adoc:420
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1407
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#: en/revolution/modules/armies/pages/albion.adoc:93
+#: en/revolution/modules/armies/pages/araby.adoc:84
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/beastmen.adoc:65
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/bretonnia.adoc:101
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/cathay.adoc:94
+#: en/revolution/modules/armies/pages/chaos.adoc:70
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/daemons.adoc:110
+#: en/revolution/modules/armies/pages/dark-elves.adoc:87
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
+#: en/revolution/modules/armies/pages/dwarfs.adoc:97
+#: en/revolution/modules/armies/pages/empire.adoc:67
+#: en/revolution/modules/armies/pages/goblins.adoc:80
+#: en/revolution/modules/armies/pages/high-elves.adoc:86
+#: en/revolution/modules/armies/pages/kislev.adoc:71
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/lizardmen.adoc:100
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:105
+#: en/revolution/modules/armies/pages/norse.adoc:53
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
+#: en/revolution/modules/armies/pages/orcs.adoc:84
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/skaven.adoc:99
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
+#: en/revolution/modules/armies/pages/wood-elves.adoc:62
+#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/rules/pages/battlefields.adoc:255
+#: en/revolution/modules/rules/pages/battlefields.adoc:311
+#: en/revolution/modules/rules/pages/battlefields.adoc:366
+#: en/revolution/modules/rules/pages/battlefields.adoc:437
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1438
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:153
-#: en/revolution/modules/armies/pages/albion.adoc:165
-#: en/revolution/modules/armies/pages/araby.adoc:263
-#: en/revolution/modules/armies/pages/beastmen.adoc:179
-#: en/revolution/modules/armies/pages/beastmen.adoc:195
-#: en/revolution/modules/armies/pages/bretonnia.adoc:219
-#: en/revolution/modules/armies/pages/bretonnia.adoc:237
-#: en/revolution/modules/armies/pages/cathay.adoc:207
-#: en/revolution/modules/armies/pages/chaos.adoc:162
-#: en/revolution/modules/armies/pages/chaos.adoc:195
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
-#: en/revolution/modules/armies/pages/daemons.adoc:173
-#: en/revolution/modules/armies/pages/daemons.adoc:188
-#: en/revolution/modules/armies/pages/dark-elves.adoc:168
-#: en/revolution/modules/armies/pages/goblins.adoc:163
-#: en/revolution/modules/armies/pages/goblins.adoc:194
-#: en/revolution/modules/armies/pages/high-elves.adoc:160
-#: en/revolution/modules/armies/pages/high-elves.adoc:193
-#: en/revolution/modules/armies/pages/kislev.adoc:194
-#: en/revolution/modules/armies/pages/lizardmen.adoc:207
-#: en/revolution/modules/armies/pages/lizardmen.adoc:260
-#: en/revolution/modules/armies/pages/norse.adoc:144
-#: en/revolution/modules/armies/pages/norse.adoc:196
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:172
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:198
-#: en/revolution/modules/armies/pages/orcs.adoc:147
-#: en/revolution/modules/armies/pages/skaven.adoc:226
-#: en/revolution/modules/armies/pages/skaven.adoc:242
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:217
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:143
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:192
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:145
-#: en/revolution/modules/armies/pages/wood-elves.adoc:184
-#: en/revolution/modules/armies/pages/wood-elves.adoc:198
-#: en/revolution/modules/armies/pages/wood-elves.adoc:206
-#: en/revolution/modules/armies/partials/empire-spells.adoc:4
-#: en/revolution/modules/armies/partials/empire-spells.adoc:27
+#: en/revolution/modules/armies/pages/albion.adoc:158
+#: en/revolution/modules/armies/pages/albion.adoc:171
+#: en/revolution/modules/armies/pages/araby.adoc:269
+#: en/revolution/modules/armies/pages/beastmen.adoc:186
+#: en/revolution/modules/armies/pages/beastmen.adoc:203
+#: en/revolution/modules/armies/pages/bretonnia.adoc:227
+#: en/revolution/modules/armies/pages/bretonnia.adoc:246
+#: en/revolution/modules/armies/pages/cathay.adoc:215
+#: en/revolution/modules/armies/pages/chaos.adoc:168
+#: en/revolution/modules/armies/pages/chaos.adoc:202
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
+#: en/revolution/modules/armies/pages/daemons.adoc:180
+#: en/revolution/modules/armies/pages/daemons.adoc:196
+#: en/revolution/modules/armies/pages/dark-elves.adoc:172
+#: en/revolution/modules/armies/pages/goblins.adoc:167
+#: en/revolution/modules/armies/pages/goblins.adoc:200
+#: en/revolution/modules/armies/pages/high-elves.adoc:165
+#: en/revolution/modules/armies/pages/high-elves.adoc:200
+#: en/revolution/modules/armies/pages/kislev.adoc:199
+#: en/revolution/modules/armies/pages/lizardmen.adoc:213
+#: en/revolution/modules/armies/pages/lizardmen.adoc:269
+#: en/revolution/modules/armies/pages/norse.adoc:149
+#: en/revolution/modules/armies/pages/norse.adoc:203
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
+#: en/revolution/modules/armies/pages/orcs.adoc:152
+#: en/revolution/modules/armies/pages/skaven.adoc:233
+#: en/revolution/modules/armies/pages/skaven.adoc:250
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
+#: en/revolution/modules/armies/pages/wood-elves.adoc:190
+#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/partials/empire-spells.adoc:5
+#: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:184
-#: en/revolution/modules/armies/pages/chaos.adoc:126
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:191
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:185
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:182
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:161
+#: en/revolution/modules/armies/pages/bretonnia.adoc:190
+#: en/revolution/modules/armies/pages/chaos.adoc:130
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:195
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:191
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:189
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:169
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
@@ -201,13 +201,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:68
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:69
 #, no-wrap
 msgid "Ogre Kingdoms army selector"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:73
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:74
 #, no-wrap
 msgid "include::partial$ogre-kingdoms.tsv[]\n"
 msgstr ""
@@ -217,13 +217,13 @@ msgstr ""
 #. 5: standard −1 command penalty, the usual
 #. 6: Paragraph break moved
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:83
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:85
 #, no-wrap
 msgid "[[bull-ogres,†1]]1. Bull Ogres"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:89
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:91
 msgid ""
 "If an Ogre unit can use its initiative to charge an enemy unit of humans at "
 "the start of the Command phase then it must do so. This happens "
@@ -233,26 +233,26 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:90
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:92
 #, no-wrap
 msgid "[[leadbelchers,†2]]2. Leadbelchers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:93
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:95
 msgid ""
 "Leadbelchers’ cannons have a range of 15cm.  Leadbelchers’ shooting attacks "
 "impose a −1 penalty to armour rolls."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:94
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:96
 #, no-wrap
 msgid "[[yhetees,†3]]3. Yhetees"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:100
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:102
 msgid ""
 "If the unit of Yhetees is charging against an enemy in the open it receives "
 "an additional +1 Attack modifier in the same way as chariots and monsters. A "
@@ -262,13 +262,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:101
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:103
 #, no-wrap
 msgid "[[gnoblars,†4]]4. Gnoblars"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:107
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:109
 msgid ""
 "This unit is allowed to shoot as if it had bows but its range is reduced to "
 "15cm. A Gnoblar stand cannot be supported by other kinds of infantry – only "
@@ -278,13 +278,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:108
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:110
 #, no-wrap
 msgid "[[gorgers,†5]]5. Gorgers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:113
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:115
 msgid ""
 "When trying to issue an order to a unit of Gorgers or to a brigade that "
 "contains a unit of Gorgers, there is always a −1 Command penalty due their "
@@ -293,7 +293,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:136
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:138
 msgid ""
 "Gorgers do not have to be deployed before the game if the player does not "
 "wish to do so.  Instead individual units can be infiltrated onto the "
@@ -317,18 +317,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:138
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:140
 msgid "Gorgers don’t suffer the usual −1 Command penalty for Dense Terrain."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:139
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:141
 #, no-wrap
 msgid "[[rhinox-riders,†6]]6. Rhinox Riders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:142
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:144
 msgid ""
 "Units of Rhinox Riders are unaffected by terror. Rhinox Riders receive +1 "
 "Attack when charging against an enemy in open in the same way as chariots "
@@ -336,56 +336,56 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:143
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:145
 #, no-wrap
 msgid "[[slave-giant,†7]]7. Slave Giant"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:146
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:148
 #, no-wrap
 msgid "[[scrap-launcher,†8]]8. Scrap Launcher"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:148
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:150
 msgid ""
 "Scrap Launcher is a xref:rules:artillery-and-machines.adoc#stone-"
 "thrower[Stone Thrower] as described in the Warmaster Rulebook."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:149
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:151
 #, no-wrap
 msgid "[[bull-rhinox,†9]]9. Bull Rhinox"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:152
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:154
 msgid ""
 "Tyrants, Bruisers and Butchers may ride the Bull Rhinox. A unit that is "
 "joined with a character mounted on this huge beast causes terror in enemies."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:155
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:158
 #, no-wrap
 msgid "Ogre Kingdoms spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:157
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:161
 #, no-wrap
 msgid "Tooth Cracker"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:160
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:164
 msgid "[.cost]#3+ to cast# [.points]#Range 30cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:165
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:169
 msgid ""
 "_The Butcher grinds his way through a lump of earth encrusted bedrock taken "
 "from the peak of a mountain, imbuing himself and his fellows with "
@@ -394,19 +394,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:168
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:172
 msgid ""
 "Target friendly unit can’t be driven back or confused until your next turn."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:169
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:174
 #, no-wrap
 msgid "Bone Cruncher"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:182
 msgid ""
 "_Shovelling dry bones into his mouth, the Butcher painfully crunches his way "
 "through femurs, ribs and skulls. As he points at his foes and spits his "
@@ -414,7 +414,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:181
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:186
 msgid ""
 "Counts as three shooting attacks with no armour save. The spell causes drive "
 "back as for normal shooting. The Wizard must be able to see the target and "
@@ -422,13 +422,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:182
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:188
 #, no-wrap
 msgid "Bull Gorger"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:190
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:196
 msgid ""
 "_The Butcher greedily devours the heart of a Bull Rhinox, no doubt enjoying "
 "the feast of healthy blood and muscle whilst he imbues himself and his "
@@ -436,7 +436,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:194
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:200
 msgid ""
 "The spell adds +1 Attack for each stand in a unit the Butcher has joined, "
 "including his own stand. The spell lasts for the duration of the following "
@@ -444,13 +444,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:195
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:202
 #, no-wrap
 msgid "Troll Guts"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:203
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
 msgid ""
 "_The Ogre Butcher forces down the toxic guts of a Stone Troll, great "
 "quantities of acid and bile ravaging his much abused gut as he transfers the "
@@ -458,7 +458,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:212
 msgid ""
 "This spell can be cast on friendly unit in combat. Each stand in affected "
 "unit gain +1 Hit during the following Combat phase."

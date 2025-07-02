@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,20 +17,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:218
-#: en/revolution/modules/rules/pages/battlefields.adoc:264
-#: en/revolution/modules/rules/pages/battlefields.adoc:314
-#: en/revolution/modules/rules/pages/battlefields.adoc:378
-#: en/revolution/modules/rules/pages/battlefields.adoc:456
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:61
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:17
+#: en/revolution/modules/rules/pages/battlefields.adoc:224
+#: en/revolution/modules/rules/pages/battlefields.adoc:273
+#: en/revolution/modules/rules/pages/battlefields.adoc:326
+#: en/revolution/modules/rules/pages/battlefields.adoc:393
+#: en/revolution/modules/rules/pages/battlefields.adoc:474
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:65
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:20
 #, no-wrap
 msgid "Victory points"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:32
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:10
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:35
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:12
 #, no-wrap
 msgid "Withdraw"
 msgstr ""
@@ -42,71 +42,71 @@ msgid "End of the Battle at a Glance"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:4
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:5
 #, no-wrap
 msgid "The battle ends"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:7
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:8
 msgid "Once both players have taken the predetermined number of turns."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:8
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:9
 msgid "Once one player concedes."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:9
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:10
 msgid "Once one army withdraws."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:15
 msgid "An army must withdraw if:"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:14
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:16
 msgid "The General is slain."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:15
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:17
 msgid "The army has lost 50% or more of its units."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:16
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:18
 msgid "Once an army withdraws, the game is immediately over."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:20
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:23
 msgid ""
 "Each player earns victory points for enemy units and characters he destroys "
 "including magic items."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:22
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:25
 msgid ""
 "Each player earns half victory points for enemy units reduced from three or "
 "four stands to one."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:23
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:26
 msgid "The player who amasses the most victory points wins the battle."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:24
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:27
 msgid "A player who concedes earns no victory points."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:24
+#: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:27
 msgid "An army which withdraws cannot win the battle, though it can draw."
 msgstr ""

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 14:37+0200\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -51,14 +51,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:19
-#: en/revolution/modules/rules/pages/game-values.adoc:21
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:20
+#: en/revolution/modules/rules/pages/game-values.adoc:23
 #, no-wrap
 msgid "Stands"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:26
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:27
 msgid ""
 "Artillery pieces are mounted on stands which include the weapon itself plus "
 "any necessary crew. For our purposes, the two are inseparable. After all, an "
@@ -67,19 +67,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:28
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:29
 msgid "Machine models are based on a single stand."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:29
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:31
 #, no-wrap
 msgid "Artillery in combat"
 msgstr ""
 
 #.  See the Command phase p.13–17. removed as there's nothing particular to artillery here
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:37
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:39
 msgid ""
 "Artillery cannot use initiative to charge. The role of artillery is to shoot "
 "at the enemy from a distance, not to fight. A player can order artillery to "
@@ -88,32 +88,32 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:41
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:43
 msgid ""
 "Artillery is vulnerable in combat. An artillery unit that wins a round of "
 "combat never pursues and if it retreats it is automatically destroyed."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:45
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:47
 msgid ""
 "Machines are more complex then artillery and some have their own rules for "
 "fighting in combat, as described in particular army lists."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:46
-#: en/revolution/modules/rules/pages/flying-units.adoc:104
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:21
-#: en/revolution/modules/rules/pages/movement.adoc:262
-#: en/revolution/modules/rules/pages/movement.adoc:860
-#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:28
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:49
+#: en/revolution/modules/rules/pages/flying-units.adoc:110
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
+#: en/revolution/modules/rules/pages/movement.adoc:266
+#: en/revolution/modules/rules/pages/movement.adoc:884
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:52
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:55
 msgid ""
 "As discussed in xref:movement.adoc#terrain[Movement – Terrain], artillery "
 "cannot move into or over terrain features on the battlefield except for "
@@ -121,7 +121,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:56
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:59
 msgid ""
 "Except where noted, machines treat terrain in the same way as chariots. Some "
 "machines have special rules of their own, as described in individual army "
@@ -129,13 +129,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:57
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:61
 #, no-wrap
 msgid "Shooting overhead"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:64
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:68
 msgid ""
 "As we described in the Shooting section, stands cannot see through other "
 "stands. Consequently, missile-armed troops cannot shoot through or over a "
@@ -144,7 +144,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:76
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:80
 msgid ""
 "Whilst this is perfectly true and satisfactory for the majority of troops, "
 "when it comes to artillery fire it is felt that an exception is called for. "
@@ -157,7 +157,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:92
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:96
 msgid ""
 "Artillery stands that are positioned on high ground can shoot over the top "
 "of intervening troops on a lower level.  Artillery stands can shoot over the "
@@ -174,7 +174,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:96
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:100
 msgid ""
 "Artillery placed on the ramparts of a castle or upper storey of a watch "
 "tower is assumed to be higher than the corresponding ground level of the "
@@ -182,13 +182,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:99
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:104
 #, no-wrap
 msgid "Cannons"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:109
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:114
 msgid ""
 "These are large calibre guns that fire a heavy cannon ball. Gunpowder "
 "weapons like these are primitive and unreliable compared to the tried and "
@@ -199,10 +199,10 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:115
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:206
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:246
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:279
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:120
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:212
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:253
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:287
 #, no-wrap
 msgid ""
 "|Range\n"
@@ -211,19 +211,19 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:115
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:246
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:120
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:253
 #, no-wrap
 msgid "3+.^|60cm"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:123
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:128
 msgid "2+| 1/2 + bounce ^|↙ ^|↘ <|Close Combat >|Shooting"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:130
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:135
 msgid ""
 "Cannons ignore a target’s Armour because no armour can nullify a hit caused "
 "by a cannon ball. No Armour roll is made. In addition, fortified targets "
@@ -232,7 +232,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:141
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:146
 msgid ""
 "Cannon balls can bounce through densely packed ranks causing immense "
 "destruction. To represent this, a shot is deemed to strike the closest point "
@@ -245,7 +245,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:150
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:155
 msgid ""
 "A shot that bounces into a different unit inflicts one attack on that unit "
 "for each stand bounced through. This can result in units normally ineligible "
@@ -255,7 +255,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:156
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:161
 msgid ""
 "If a cannon is charged it can shoot at the enemy by firing ‘grapeshot’. Like "
 "cannon balls, grapeshot has an Attack value of 2 but it doesn’t bounce and "
@@ -264,7 +264,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:171
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:176
 msgid ""
 "Although grapeshot is pretty effective compared to, say, a shot from a "
 "single archer stand, it is actually less effective than ordinary cannon "
@@ -279,7 +279,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:190
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:195
 msgid ""
 "Because cannons can cause additional damage by bouncing shots, it is "
 "possible to inflict hits upon friends or upon units from either side that "
@@ -296,13 +296,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:191
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:197
 #, no-wrap
 msgid "Elven bolt thrower"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:200
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:206
 msgid ""
 "This elegant device was devised many years ago by the High Elves for use "
 "onboard their ships. Since then it has become a feature of many Elven armies "
@@ -312,20 +312,20 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:206
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:279
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:212
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:287
 #, no-wrap
 msgid "3+.^|40cm"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:214
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:254
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:220
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:261
 msgid "2+| 1/3 ^|↙ ^|↘ <|Close Combat >|Shooting"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:223
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:229
 msgid ""
 "The Elven Bolt Thrower can shoot at a charging enemy in the same way as a "
 "missile-armed infantry or cavalry unit. Unlike many artillery pieces, the "
@@ -335,13 +335,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:226
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:233
 #, no-wrap
 msgid "Stone throwers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:240
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:247
 msgid ""
 "Stone Throwers are big machines which employ a system of counterweights or "
 "torsion power to chuck either one big rock, several small rocks or what (or "
@@ -355,14 +355,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:258
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:265
 msgid ""
 "Stone Throwers shoot with such a high trajectory that they cannot shoot at "
 "charging enemies."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:266
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:273
 msgid ""
 "Because of the high trajectory Stone Throwers can shoot blind at targets "
 "they cannot see. The targets are assumed to be reported by scouts or "
@@ -373,13 +373,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:267
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:275
 #, no-wrap
 msgid "Bolt thrower"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:273
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:281
 msgid ""
 "A Bolt Thrower is a device fashioned to hurl large missiles upon the enemy. "
 "It is essentially a big crossbow... a very big crossbow indeed! The missiles "
@@ -387,12 +387,12 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:287
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:295
 msgid "2+| 1/2 + skewer ^|↙ ^|↘ <|Close Combat >|Shooting"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:292
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:300
 msgid ""
 "Targets always ignore their armour when shot at by a Bolt Thrower. No Armour "
 "roll is made. The Bolt Thrower’s heavy dart can pierce even the thickest "
@@ -400,7 +400,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:299
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:307
 msgid ""
 "When you shoot with a Bolt Thrower it will strike up to two touching stands "
 "within the missile’s line of flight.  These can be stands from the same or a "
@@ -409,7 +409,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:306
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:314
 msgid ""
 "The target unit suffers two attacks plus +1 for [.edit]#an# additional stand "
 "from the same unit within the missile’s path. A shot that skewers into a "
@@ -419,7 +419,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:320
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:328
 msgid ""
 "Because a bolt thrower can cause hits on different units by skewering shots, "
 "it is possible to inflict hits upon enemy units that are engaged in combat. "
@@ -434,7 +434,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:324
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:332
 msgid ""
 "Bolt Throwers can shoot at a charging enemy and can do so at any point as "
 "the enemy charges, including the start of the move or when the charger has "
