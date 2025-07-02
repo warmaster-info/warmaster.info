@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-02 08:04+0000\n"
+"PO-Revision-Date: 2025-07-02 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dark-elves/fr/>\n"
@@ -319,6 +319,9 @@ msgid ""
 "and-machines.adoc#elven-bolt-thrower[Artillery and Machines] section in the "
 "Rulebook."
 msgstr ""
+"Les règles pour la Balistes à Répétition sont décrites dans la section "
+"xref:rules:artillery-and-machines.adoc#elven-bolt-thrower"
+"[Artillerie et Machines] du Livre de Règles."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:133

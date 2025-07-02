@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-02 08:04+0000\n"
+"PO-Revision-Date: 2025-07-02 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_high-elves/fr/>\n"
@@ -70,7 +70,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/albion.adoc:110
 #: en/revolution/modules/armies/pages/high-elves.adoc:95
 msgid "Giant Eagles can fly."
-msgstr ""
+msgstr "Les Aigles Géants peuvent voler."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:146
@@ -142,7 +142,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/high-elves.adoc:148
 #: en/revolution/modules/armies/pages/skaven.adoc:283
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:118
@@ -155,7 +155,7 @@ msgstr "Char Monté"
 #: en/revolution/modules/armies/pages/daemons.adoc:185
 #: en/revolution/modules/armies/pages/high-elves.adoc:170
 msgid "This spell affects every friendly unit within range."
-msgstr ""
+msgstr "Ce sort affecte toutes les unités amies à portée."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:132
@@ -165,12 +165,15 @@ msgid ""
 "and-machines.adoc#elven-bolt-thrower[Artillery and Machines] section in the "
 "Rulebook."
 msgstr ""
+"Les règles pour la Balistes à Répétition sont décrites dans la section "
+"xref:rules:artillery-and-machines.adoc#elven-bolt-thrower"
+"[Artillerie et Machines] du Livre de Règles."
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/high-elves.adoc:1
 #, no-wrap
 msgid "High Elves"
-msgstr ""
+msgstr "Hauts Elfes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:18
@@ -186,6 +189,16 @@ msgid ""
 "High Elves pursue their age-long studies of art, sorcery and the world both "
 "natural and otherwise."
 msgstr ""
+"image:high-elves/logo.webp[width=91,height=90,float=\"right\"] Les Elfes "
+"sont la plus ancienne et la plus développée des races du monde, à l’"
+"exception des Hommes-Lézards à sang-froid. Bien avant que les maisons "
+"grossières des humains ne sortent de terre, les Elfes avaient déjà construit "
+"de magnifiques cités dans leur lointaine île-continent d’Ulthuan. Après "
+"plusieurs milliers d’années, presque toutes ces cités existent toujours. "
+"Elles sont ornées de tours graciles, d’arches délicates ainsi que d’autres "
+"merveilles architecturales dont les humains ne peuvent même pas rêver. Dans "
+"leurs tours, les Hauts Elfes poursuivent leurs études des arts, de la nature "
+"et de la magie."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:28
@@ -198,6 +211,14 @@ msgid ""
 "graceful human seem oafish in comparison. These qualities make them "
 "dangerous warriors as well as unparalleled craftsmen and sorcerers."
 msgstr ""
+"Les Hauts Elfes ont une forme d’esprit tendant vers la recherche de la "
+"perfection, dont l’acuité est parfaitement servie par leur longévité. Les "
+"Elfes ressemblent aux hommes mais en plus grands et plus gracieux. Ils ont "
+"de beaux visages, aux traits fins, respirant l’intelligence, des oreilles "
+"pointues et de séduisants yeux en amande. La grâce de leurs mouvements "
+"ferait passer le plus agile des hommes pour un singe pataud. Ces qualités "
+"font des Hauts Elfes des guerriers dangereux ainsi que des artisans et "
+"sorciers inégalables."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:35
@@ -208,6 +229,12 @@ msgid ""
 "Dwarfs fought a long and bitter war over possession of the Old World – a war "
 "fuelled by pride and suspicion on both sides."
 msgstr ""
+"Les Elfes ne sont pas belliqueux par nature comme le sont, par exemple, les "
+"Orques ou, dans une moindre mesure, les Nains et les hommes. Ils sont "
+"cependant orgueilleux, certains disent même arrogants. Voici des "
+"millénaires, les Elfes et les Nains se livrèrent une guerre interminable "
+"pour le contrôle du Vieux Monde, nourrie des deux côtés par la fierté et la "
+"méfiance."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:44
@@ -219,6 +246,13 @@ msgid ""
 "Sundering. Elves and Dwarfs have never forgotten that war and it remains a "
 "source of recrimination and antagonism between them to this day."
 msgstr ""
+"Ce conflit eut pour effet d’affaiblir les deux races à un point tel qu’elles "
+"furent pratiquement détruites. Par la suite, la majeure partie des royaumes "
+"Nains fut envahie par les peaux-vertes, tandis que les Elfes étaient chassés "
+"de leur colonie du Vieux Monde et, à leur retour en Ulthuan, se retrouvèrent "
+"plongés dans une guerre civile appelée la Déchirure. Ni les Elfes ni les "
+"Nains n’ont oublié cette guerre, et elle demeure aujourd’hui encore un sujet "
+"de reproche et de discorde entre les deux races."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:62
@@ -238,6 +272,20 @@ msgid ""
 "magic and mortal creatures would cease to exist – at least in any form "
 "recognisable as such."
 msgstr ""
+"Bien que leur puissance ne soit plus que l’ombre de ce qu’elle fut, les "
+"royaumes Elfes constituent encore le plus solide bastion dressé contre les "
+"forces du Chaos. Il y a des milliers d’années, lorsque commença l’Âge du "
+"Chaos, les plus doués des mages Hauts Elfes érigèrent un gigantesque vortex "
+"de puissance au centre du continent d’Ulthuan, au cœur des royaumes "
+"elfiques, dont le but était d’aspirer les énergies magiques qui parcouraient "
+"le monde et y faisaient grouiller démons et autres créatures "
+"surnaturelles.   Par le biais d’un agencement de monolithes répartis dans l’"
+"île comme une toile d’araignée, le pouvoir du Chaos fut graduellement "
+"affaibli et l’équilibre revint. Les armées des démons furent détruites ou "
+"renvoyées dans le Royaume du Chaos d’où elles s’étaient échappées. Aujourd’"
+"hui encore, les Elfes se chargent de ce fardeau. Si Ulthuan venait à tomber, "
+"le monde serait rapidement consumé par la magie, et toute vie disparaîtrait -"
+" ou tout du moins sous sa forme actuelle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:74
@@ -252,12 +300,21 @@ msgid ""
 "human realms fell it would be only a question of time before Ulthuan itself "
 "would be overwhelmed by the tides of Chaos."
 msgstr ""
+"Les royaumes Elfiques doivent rester éternellement vigilants face à la "
+"menace du Chaos. Leurs flottes sont les maîtresses indiscutées des mers, et "
+"leurs forteresses se dressent en des points stratégiques sur tout le "
+"globe.   De là, ils scrutent les cieux nordiques à la recherche des lueurs "
+"qui annonceront une nouvelle incursion. Hélas, leur population a décru au "
+"fur et à mesure que l’ampleur de leur tâche grandissait. Par conséquent, les "
+"Elfes considèrent que les royaumes humains sont devenus vitaux dans cette "
+"lutte éternelle contre le Chaos, car si ces derniers devaient faillir, "
+"Ulthuan serait à son tour, inévitablement, submergée par le Chaos."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/high-elves.adoc:78
 #, no-wrap
 msgid "High Elf army selector"
-msgstr ""
+msgstr "Sélecteur d'Armée des Hauts Elfes"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/high-elves.adoc:83
@@ -279,12 +336,15 @@ msgid ""
 "against targets that are defended on a 4 or more, and against fortified "
 "targets on a 5 or more."
 msgstr ""
+"Les Archers Hauts Elfes rajoutent +1 lorsqu’elles lancent leurs dés pour "
+"tirer : elles toucheront donc des cibles à découvert sur 3+, les cibles en "
+"défense sur 4+ et les cibles fortifiées sur 5+."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:94
 #, no-wrap
 msgid "[[giant-eagles,†2]]2. Giant Eagles"
-msgstr ""
+msgstr "[[giant-eagles,†2]]2. Aigles Géants"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:96
@@ -298,6 +358,8 @@ msgid ""
 "Dragons can fly. Dragon rider units and any other units that include a "
 "Dragon riding character cause terror in their enemies."
 msgstr ""
+"Les Dragons peuvent voler. Les Chevaucheurs de Dragons et les unités "
+"rejointes par un personnage monté sur un Dragon provoquent la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:110
@@ -311,6 +373,14 @@ msgid ""
 "hurt all accumulated hits are discounted and its maximum hits value and "
 "Attacks are halved for the rest of the battle (to 3 Hits and 3/2 Attacks)."
 msgstr ""
+"Un Chevaucheur de Dragon possède beaucoup de Points de Vie (6). Il serait "
+"donc très difficile d’en venir à bout en un tour et, pour compenser cette "
+"apparente invulnérabilité, la règle suivante s’applique : si un Chevaucheur "
+"de Dragon a accumulé entre 4 et 5 touches à la fin d’une phase de Tir ou de "
+"Combat, et qu'il n'est plus engagé, il est grièvement blessé. Une fois qu’un "
+"Chevaucheur de Dragon est grièvement blessé, toutes les touches accumulées "
+"jusque-là sont annulées mais ses Attaques et ses Points de Vie sont réduits "
+"de moitié pour le reste de la partie (3/2 Attaques et 3 Points de Vie)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
@@ -320,6 +390,11 @@ msgid ""
 "of its rider. A Dragon can breathe fire if the character has joined a unit "
 "that isn’t engaged in combat."
 msgstr ""
+"Les Généraux, Sorciers et Héros peuvent chevaucher des dragons. Un Dragon "
+"peut voler, le mouvement du cavalier passe ainsi à 100 cm, et il ajoute "
+"[.edit]#+3/3# Attaques à son cavalier. Un dragon chevauché par un personnage "
+"ne peut cracher du feu que s’il a rejoint une unité qui n'est pas engagée au "
+"corps-à-corps."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:123
@@ -330,18 +405,24 @@ msgid ""
 "one target as for normal shooting and has 3 Attacks that are worked out in "
 "the usual way at 4+ to hit."
 msgstr ""
+"Les Dragons ont une attaque de tir spéciale : ils peuvent cracher du feu ! "
+"Cela s’applique aux Chevaucheurs de Dragons aussi bien qu’aux Dragons "
+"utilisés comme monture. Le souffle du Dragon fonctionne comme suit : le jet "
+"de flammes a une portée de 20cm. Le Dragon peut choisir normalement sa cible "
+"et lui inflige 3 Attaques de tir résolues de façon classique, touchant sur "
+"4+."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:124
 #, no-wrap
 msgid "[[elven-bolt-thrower,†4]]4. Elven Bolt Thrower"
-msgstr ""
+msgstr "[[elven-bolt-thrower,†4]]4. Baliste à Répétition"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:127
 #, no-wrap
 msgid "[[wizard,†5]]5. Wizard"
-msgstr ""
+msgstr "[[wizard,†5]]5. Sorcier"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:131
@@ -350,12 +431,15 @@ msgid ""
 "roll a failed spell on any dice result except a 1. If a spell is failed "
 "because a 1 is rolled then no re-roll is permitted."
 msgstr ""
+"Les Mages Hauts Elfes sont de puissants sorciers. Pour représenter cela, en "
+"cas d’échec, ils peuvent relancer le dé pour jeter un sort, à moins d’avoir "
+"obtenu un 1. Si le sort est raté sur un 1, le dé ne peut pas être relancé."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:132
 #, no-wrap
 msgid "[[giant-eagle-mount,†6]]6. Giant Eagle Mount"
-msgstr ""
+msgstr "[[giant-eagle-mount,†6]]6. Aigle Géant Monté"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:135
@@ -364,6 +448,9 @@ msgid ""
 "increasing its rider’s move from 60 to 100cm. An extra +2 Attacks are added "
 "to those of its rider."
 msgstr ""
+"Les Généraux, Sorciers et Héros peuvent monter des Aigles Géants. Les Aigles "
+"Géants volent ; ils font donc passer le mouvement de leur cavalier de 60 à "
+"100 cm, et lui ajoutent +2 Attaques."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:138
@@ -371,18 +458,20 @@ msgid ""
 "Generals, Wizards and Heroes can ride Chariots. An extra +1 Attack is added "
 "to those of its rider."
 msgstr ""
+"Un Général, un Sorcier ou un Héros peut combattre sur un Char. Le personnage "
+"gagne alors +1 Attaque."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/high-elves.adoc:142
 #, no-wrap
 msgid "High Elf spells"
-msgstr ""
+msgstr "Sorts Hauts Elfes"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/high-elves.adoc:145
 #, no-wrap
 msgid "Storm of Stone"
-msgstr ""
+msgstr "Tempête de Pierres"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:151

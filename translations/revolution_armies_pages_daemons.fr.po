@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-01 14:04+0000\n"
+"PO-Revision-Date: 2025-07-02 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_daemons/fr/>\n"
@@ -116,7 +116,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/high-elves.adoc:148
 #: en/revolution/modules/armies/pages/skaven.adoc:283
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
-msgstr ""
+msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:240
@@ -429,7 +429,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/daemons.adoc:185
 #: en/revolution/modules/armies/pages/high-elves.adoc:170
 msgid "This spell affects every friendly unit within range."
-msgstr ""
+msgstr "Ce sort affecte toutes les unités amies à portée."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:187
