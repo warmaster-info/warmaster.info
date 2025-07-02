@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-02 10:04+0000\n"
+"PO-Revision-Date: 2025-07-02 13:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_high-elves/fr/>\n"
@@ -374,10 +374,11 @@ msgid ""
 "Attacks are halved for the rest of the battle (to 3 Hits and 3/2 Attacks)."
 msgstr ""
 "Un Chevaucheur de Dragon possède beaucoup de Points de Vie (6). Il serait "
-"donc très difficile d’en venir à bout en un tour et, pour compenser cette "
-"apparente invulnérabilité, la règle suivante s’applique : si un Chevaucheur "
-"de Dragon a accumulé entre 4 et 5 touches à la fin d’une phase de Tir ou de "
-"Combat, et qu'il n'est plus engagé, il est grièvement blessé. Une fois qu’un "
+"donc très difficile d’en venir à bout même lors d'un même combat. À cause de "
+"cela, nous devons considérer la possibilité que les blessures subies "
+"réduisent son efficacité au combat. De ce fait, si un Chevaucheur de Dragon "
+"a accumulé entre 4 et 5 touches à la fin d’une phase de Tir ou de Combat, et "
+"qu'il n'est plus engagé, il est grièvement blessé. Une fois qu’un "
 "Chevaucheur de Dragon est grièvement blessé, toutes les touches accumulées "
 "jusque-là sont annulées mais ses Attaques et ses Points de Vie sont réduits "
 "de moitié pour le reste de la partie (3/2 Attaques et 3 Points de Vie)."
@@ -449,7 +450,7 @@ msgid ""
 "to those of its rider."
 msgstr ""
 "Les Généraux, Sorciers et Héros peuvent monter des Aigles Géants. Les Aigles "
-"Géants volent ; ils font donc passer le mouvement de leur cavalier de 60 à "
+"Géants volent ; ils font donc passer le mouvement de leur cavalier de 60 à "
 "100 cm, et lui ajoutent +2 Attaques."
 
 #. type: Plain text
@@ -479,11 +480,13 @@ msgid ""
 "_The ground erupts around the Mage, and a hail of stones, rocks and dirt "
 "hurls itself upon his foes._"
 msgstr ""
+"_Le sol se soulève autour du mage et une pluie de pierres et de terre s’abat "
+"sur ses ennemis._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:153
 msgid "This spell affects every enemy unit within range."
-msgstr ""
+msgstr "Ce sort affecte toutes les unités ennemies à portée."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:160
@@ -494,12 +497,18 @@ msgid ""
 "scored into the first round of combat; any hits scored count as having been "
 "struck in the combat itself."
 msgstr ""
+"Chaque unité ennemie dans un rayon de 30 cm autour du mage est affectée et "
+"subit 3 attaques de tir résolues de la manière habituelle. La Tempête de "
+"Pierres ne repousse pas ses victimes non engagées (le sol se soulève sous "
+"leurs pieds). Les unités engagées reportent les touches infligées par ce "
+"sort dans le premier round de combat, et ces dernières comptent comme ayant "
+"été infligées lors du combat lui-même."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/high-elves.adoc:162
 #, no-wrap
 msgid "Light of Battle"
-msgstr ""
+msgstr "Aura de Bataille"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:168
@@ -507,6 +516,8 @@ msgid ""
 "_A radiant light shines forth upon the Mage’s companions filling them with "
 "magical vigour._"
 msgstr ""
+"_Une lumière chaude irradie du mage et emplit ses compagnons d’une force "
+"surnaturelle._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:176
@@ -516,12 +527,17 @@ msgid ""
 "attacks can be allocated to any stand in the unit and can be allocated to a "
 "different stand in each combat round."
 msgstr ""
+"Le sort dure le temps de la phase de Combat suivante et ajoute +1 Attaque à "
+"toute unité amie dans un rayon de 30cm, y compris les personnages qui leur "
+"sont rattachés. Cette Attaque supplémentaire peut être allouée à n’importe "
+"quel socle, et peut être allouée à un socle différent d’un round de combat à "
+"l’autre."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/high-elves.adoc:178
 #, no-wrap
 msgid "Heaven’s Fire"
-msgstr ""
+msgstr "Feu Céleste"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:184
@@ -529,6 +545,8 @@ msgid ""
 "_The mage imbues the Elven archers with an unearthly swiftness enabling them "
 "to rain death upon the enemy._"
 msgstr ""
+"_Le mage dote les archers elfes d’une rapidité surnaturelle qui leur permet "
+"de faire pleuvoir la mort sur l’ennemi._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:189
@@ -537,6 +555,10 @@ msgid ""
 "infantry or cavalry within range. It cannot be cast on artillery. The Mage "
 "does not need to be able to see the friendly unit nor their intended target."
 msgstr ""
+"Le Mage peut lancer ce sort sur n’importe quelle unité amie d’infanterie ou "
+"de cavalerie disposant d’armes de tir, non engagée, à portée. Il ne peut pas "
+"le lancer sur de l’artillerie. Il n’est pas nécessaire qu’il puisse voir l’"
+"unité en question ou sa cible."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:195
@@ -547,12 +569,17 @@ msgid ""
 "shoots twice due to Heaven’s Fire the second shot is always at a −1 penalty "
 "to hit."
 msgstr ""
+"Lorsque le Feu Céleste est lancé sur une unité, elle peut tirer deux fois "
+"lors de ce tour au lieu d’une seule. Si elle a déjà tiré ce tour-ci, elle "
+"peut immédiatement tirer une deuxième fois. Si ce n’est pas encore le cas, "
+"elle pourra tirer deux fois. Lorsqu’une unité tire deux fois grâce au Feu "
+"Céleste, son deuxième tir se fait toujours avec un malus de -1 pour toucher."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/high-elves.adoc:197
 #, no-wrap
 msgid "Hail of Destruction"
-msgstr ""
+msgstr "Pluie de Destruction"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:203
@@ -560,6 +587,8 @@ msgid ""
 "_A hail of fiery arrows flies from the Mage’s outstretched finger tips and "
 "strikes an enemy unit._"
 msgstr ""
+"_Une pluie de flèches s’élance des doigts tendus du mage pour aller frapper "
+"une unité ennemie_"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:207
@@ -568,6 +597,9 @@ msgid ""
 "target to use this spell. The spell cannot be directed at a unit engaged in "
 "combat."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie à portée. Le mage doit pouvoir "
+"voir sa cible pour utiliser ce sort. Il ne peut pas le lancer sur un ennemi "
+"engagé au combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:212
@@ -577,3 +609,8 @@ msgid ""
 "armour). A unit can be driven back by a Hail of Destruction as with ordinary "
 "shooting."
 msgstr ""
+"L’unité victime de la Pluie de Destruction subit trois attaques résolues "
+"comme des attaques de tir ordinaires (4+ pour toucher) mais son Armure est "
+"ignorée (quelle que soit la cible de ce sort, elle compte comme n’ayant "
+"aucune armure). Une unité peut être repoussée par une Pluie de Destruction "
+"comme par des tirs ordinaires."
