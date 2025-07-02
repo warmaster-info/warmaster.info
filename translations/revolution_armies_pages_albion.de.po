@@ -1,0 +1,473 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. type: Title =
+#: en/revolution/modules/armies/pages/albion.adoc:1
+#, no-wrap
+msgid "Albion"
+msgstr ""
+
+#.  Aeon is the British spelling
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:23
+msgid ""
+"image:albion/logo.webp[width=118,height=117,float=\"right\"] Aeons ago, the "
+"Isle of Albion was the site of a sprawling techo-arcane complex created by "
+"an unspeakably ancient spacefaring race called the Slann. Their carefully "
+"aligned stone circles and thousands of miles of impressively taut laylines "
+"once served to harness the mysterious psychomagical power of the warp. This "
+"power was used to control the gigantic interspatial portals through which "
+"Slann craft traversed the galaxy. At some time there was an unfortunate "
+"accident; the portals became unstable, opening a rift into the void and "
+"creating the zone of contamination and temporal instability that is now "
+"known as the Chaos Wastes. In order to stop their damaged portals running "
+"out of control and engulfing the entire world, the Slann destroyed or "
+"disabled their control complex on Albion.  A vast quantity of dangerous "
+"psycho-active energy was released as a result."
+msgstr ""
+
+#.  Removed "the isle of"
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:35
+msgid ""
+"This catastrophe turned Albion into a warped land that was ever afterwards "
+"shrouded by chilling mists and ceaseless drizzle. The explosive release of "
+"warp energy had the effect of distorting local time and space in surprising "
+"ways. As a result, the island proved almost impossible to find afterwards "
+"and many Old Worlders came to doubt its very existence. Isolated from the "
+"world and from reality, the island’s inhabitants degenerated physically and "
+"culturally, coming to live an ape-like existence alongside the other "
+"malformed monsters of their devastated land."
+msgstr ""
+
+#.  Moved "centre of the"
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:42
+msgid ""
+"Despite this, they still retain some vestigial memory of a time of greatness "
+"when their ancestors helped build the stone circles and other wonders that "
+"once formed the nerve centre of the Slanns’ techo-arcane warp mechanism."
+msgstr ""
+
+#.  mist-wreathed, remove "of Albion", extra .
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:51
+msgid ""
+"The mist-wreathed isle has seen as much bloodshed and warfare as the rest of "
+"the known world. Albion is seen as a damp, bog-ridden backwater and reports "
+"of recent incursions have concentrated on the clashes between the supposedly "
+"more advanced invaders. However, a closer examination of the campaigns in "
+"Albion show that its native armies are every bit as lethal as those of any "
+"of the more so called ‘civilised’ nations."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:58
+msgid ""
+"The core of any Albion army comprises nobles in chariots and warbands of "
+"warriors on foot, screened by youths armed with slings and javelins led by "
+"the local chieftain. Poorer nobles and richer warriors are mounted on hardy "
+"native ponies and form the cavalry used to both scout and to support the "
+"noble chariot warriors."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:66
+msgid ""
+"Albion is famed for the great wolfhounds the natives breed.  They are "
+"exported widely, but most especially to Bretonnia and the Empire where their "
+"size, strength and ferocity are much prized by noble huntsmen. In times of "
+"war these wolfhounds are gathered into huge slavering packs and are used to "
+"supplement the cavalry, screening attacks and harassing vulnerable enemy "
+"flanks."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:73
+msgid ""
+"In time of war some Chieftains can also call on the giant eagles whose "
+"eyries dot the highest peaks of the land. Few of Albion’s chieftains will "
+"pass up the chance to recruit some of their island’s largest inhabitants – "
+"the famed giants of Albion. Just like those giants that accompany Orc "
+"armies, these massive warriors make up for in brawn what they lack in brains!"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:81
+msgid ""
+"Not quite so strong, but then again not quite so dim, are the bands of ogres "
+"which flock to join the armies of Albion – for a share of the loot and the "
+"chance to turn a former enemy into a quick snack! In addition to the warrior "
+"chieftains who lead the armies, there are heroic warriors who help to "
+"marshal the army and the enigmatic druids who are not only the army’s "
+"wizards but also its law makers, judges and soothsayers."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/albion.adoc:85
+#, no-wrap
+msgid "Albion army selector"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/armies/pages/albion.adoc:90
+#, no-wrap
+msgid "include::partial$albion.tsv[]\n"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:93
+#: en/revolution/modules/armies/pages/araby.adoc:84
+#: en/revolution/modules/armies/pages/beastmen.adoc:55
+#: en/revolution/modules/armies/pages/beastmen.adoc:65
+#: en/revolution/modules/armies/pages/bretonnia.adoc:85
+#: en/revolution/modules/armies/pages/bretonnia.adoc:101
+#: en/revolution/modules/armies/pages/cathay.adoc:81
+#: en/revolution/modules/armies/pages/cathay.adoc:94
+#: en/revolution/modules/armies/pages/chaos.adoc:70
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
+#: en/revolution/modules/armies/pages/daemons.adoc:66
+#: en/revolution/modules/armies/pages/daemons.adoc:110
+#: en/revolution/modules/armies/pages/dark-elves.adoc:87
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
+#: en/revolution/modules/armies/pages/dwarfs.adoc:97
+#: en/revolution/modules/armies/pages/empire.adoc:67
+#: en/revolution/modules/armies/pages/goblins.adoc:80
+#: en/revolution/modules/armies/pages/high-elves.adoc:86
+#: en/revolution/modules/armies/pages/kislev.adoc:71
+#: en/revolution/modules/armies/pages/lizardmen.adoc:87
+#: en/revolution/modules/armies/pages/lizardmen.adoc:100
+#: en/revolution/modules/armies/pages/nippon.adoc:87
+#: en/revolution/modules/armies/pages/nippon.adoc:105
+#: en/revolution/modules/armies/pages/norse.adoc:53
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
+#: en/revolution/modules/armies/pages/orcs.adoc:84
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/skaven.adoc:76
+#: en/revolution/modules/armies/pages/skaven.adoc:99
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
+#: en/revolution/modules/armies/pages/wood-elves.adoc:62
+#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/rules/pages/battlefields.adoc:255
+#: en/revolution/modules/rules/pages/battlefields.adoc:311
+#: en/revolution/modules/rules/pages/battlefields.adoc:366
+#: en/revolution/modules/rules/pages/battlefields.adoc:437
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1438
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
+#, no-wrap
+msgid "Special rules"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/albion.adoc:100
+#: en/revolution/modules/armies/pages/chaos.adoc:72
+#, no-wrap
+msgid "[[ogres,†1]]1. Ogres"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:105
+#: en/revolution/modules/armies/pages/chaos.adoc:77
+#: en/revolution/modules/armies/pages/orcs.adoc:105
+msgid ""
+"If an Ogre unit can use its initiative to charge an enemy unit of humans at "
+"the start of the Command phase then it must do so. This happens "
+"automatically and their commander can do nothing about it. ‘Humans’ "
+"encompasses all ‘men’ including Chaos Warriors and Marauders, but not "
+"Dwarfs, Elves etc."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/albion.adoc:106
+#, no-wrap
+msgid "[[giant,†2]]2. Giant"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/albion.adoc:109
+#, no-wrap
+msgid "[[giant-eagles,†3]]3. Giant Eagles"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:110
+#: en/revolution/modules/armies/pages/high-elves.adoc:95
+msgid "Giant Eagles can fly."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/albion.adoc:111
+#, no-wrap
+msgid "[[giant-eagle-mount,†4]]4. Giant Eagle Mount"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:114
+msgid ""
+"Giant Eagles can be ridden only by Druids An Eagle can fly, increasing its "
+"rider’s move from 60 to 100cm, and it adds +2 Attacks to those of its rider."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/albion.adoc:115
+#, no-wrap
+msgid "[[chariot-mount,†5]]5. Chariot Mount"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:117
+msgid ""
+"Generals, Druids and Heroes can ride Chariots. An extra +1 Attack is added "
+"to those of its rider."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/albion.adoc:118
+#, no-wrap
+msgid "[[fenbeast,†6]]6. Fenbeast"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:122
+msgid ""
+"A Fenbeast is an individual troop unit, but it is not fielded in the "
+"standard way. Fenbeasts appear on the battlefield only after a Druid casts "
+"the Summon Fenbeast spell."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:129
+msgid ""
+"A Fenbeast cannot be brigaded with other troop units, not even other "
+"Fenbeasts. Fenbeasts never use their initiative to move in the Command "
+"phase. Because they are completely dominated by the will of the Druid who "
+"summoned them, that Druid counts as having a Command value of +1 when "
+"commanding the Fenbeast – that is 8 rather than 7."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:134
+msgid ""
+"Fenbeast can move through bogs as though they were open terrain. Unlike the "
+"wild Bog Beasts from the ‘Dark Shadows’ campaign, Fenbeast will make way for "
+"friendly troops."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:136
+msgid "A Fenbeast causes terror in its enemies."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/armies/pages/albion.adoc:140
+#, no-wrap
+msgid "Albion spells"
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:143
+#, no-wrap
+msgid "Downpour"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:146
+#: en/revolution/modules/armies/pages/araby.adoc:222
+#: en/revolution/modules/armies/pages/beastmen.adoc:171
+#: en/revolution/modules/armies/pages/bretonnia.adoc:211
+#: en/revolution/modules/armies/pages/cathay.adoc:179
+#: en/revolution/modules/armies/pages/cathay.adoc:198
+#: en/revolution/modules/armies/pages/chaos.adoc:148
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:225
+#: en/revolution/modules/armies/pages/goblins.adoc:215
+#: en/revolution/modules/armies/pages/high-elves.adoc:181
+#: en/revolution/modules/armies/pages/kislev.adoc:214
+#: en/revolution/modules/armies/pages/norse.adoc:137
+#: en/revolution/modules/armies/pages/orcs.adoc:194
+#: en/revolution/modules/armies/pages/skaven.adoc:218
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
+#: en/revolution/modules/armies/partials/empire-spells.adoc:47
+msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:149
+msgid ""
+"_The Druid brings down a localised shower of fine, freezing rain upon his "
+"foes._"
+msgstr ""
+
+#.  cms → cm
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:153
+msgid ""
+"Until the start of the Druid player’s next turn all enemy units within 30cm "
+"of the casting Druid suffer −1 to their command."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:155
+#, no-wrap
+msgid "Storm of Hail"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:158
+#: en/revolution/modules/armies/pages/albion.adoc:171
+#: en/revolution/modules/armies/pages/araby.adoc:269
+#: en/revolution/modules/armies/pages/beastmen.adoc:186
+#: en/revolution/modules/armies/pages/beastmen.adoc:203
+#: en/revolution/modules/armies/pages/bretonnia.adoc:227
+#: en/revolution/modules/armies/pages/bretonnia.adoc:246
+#: en/revolution/modules/armies/pages/cathay.adoc:215
+#: en/revolution/modules/armies/pages/chaos.adoc:168
+#: en/revolution/modules/armies/pages/chaos.adoc:202
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
+#: en/revolution/modules/armies/pages/daemons.adoc:180
+#: en/revolution/modules/armies/pages/daemons.adoc:196
+#: en/revolution/modules/armies/pages/dark-elves.adoc:172
+#: en/revolution/modules/armies/pages/goblins.adoc:167
+#: en/revolution/modules/armies/pages/goblins.adoc:200
+#: en/revolution/modules/armies/pages/high-elves.adoc:165
+#: en/revolution/modules/armies/pages/high-elves.adoc:200
+#: en/revolution/modules/armies/pages/kislev.adoc:199
+#: en/revolution/modules/armies/pages/lizardmen.adoc:213
+#: en/revolution/modules/armies/pages/lizardmen.adoc:269
+#: en/revolution/modules/armies/pages/norse.adoc:149
+#: en/revolution/modules/armies/pages/norse.adoc:203
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
+#: en/revolution/modules/armies/pages/orcs.adoc:152
+#: en/revolution/modules/armies/pages/skaven.adoc:233
+#: en/revolution/modules/armies/pages/skaven.adoc:250
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
+#: en/revolution/modules/armies/pages/wood-elves.adoc:190
+#: en/revolution/modules/armies/pages/wood-elves.adoc:205
+#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/partials/empire-spells.adoc:5
+#: en/revolution/modules/armies/partials/empire-spells.adoc:29
+msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:161
+msgid ""
+"_The Druid harnesses the power of the weather to attack his enemies with "
+"enormous hailstones._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:166
+msgid ""
+"The Druid targets a single enemy unit within range and that he can see. This "
+"has the effect of three shooting attacks except that it ignores any armour "
+"save the target may have. The target unit may be driven back in the same way "
+"as for shooting."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:168
+#, no-wrap
+msgid "Mists of Albion"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:175
+msgid ""
+"_The Druid breathes out some of the mystical mist that surrounds his "
+"enigmatic homeland and envelopes his compatriots, making them hard to target "
+"by enemy troops._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:181
+msgid ""
+"This spell may be cast upon a single unengaged friendly Infantry unit within "
+"range, regardless of whether the caster can see them or not. The spell lasts "
+"until the start of the caster’s next turn, or until the target unit moves in "
+"any way. The target Infantry unit counts as Defended, even if in the open "
+"terrain."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/armies/pages/albion.adoc:183
+#, no-wrap
+msgid "Summon Fenbeast"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:186
+#: en/revolution/modules/armies/pages/beastmen.adoc:219
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:210
+#: en/revolution/modules/armies/pages/daemons.adoc:214
+#: en/revolution/modules/armies/pages/high-elves.adoc:148
+#: en/revolution/modules/armies/pages/skaven.adoc:283
+msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:190
+msgid ""
+"_The Druid performs one of the most arcane rituals known to his order, using "
+"his power over the elements to bind together the horrific creature known as "
+"the Fenbeast._"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:193
+msgid ""
+"The Druid summons forth a Fenbeast. Once summoned, the Fenbeast is under the "
+"control of the summoning player."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:201
+msgid ""
+"Since it is summoned in the Shooting phase it cannot be given orders until "
+"the following turn. It may be summoned into contact with an enemy unit only "
+"if that unit is already in combat. It may be removed from play if destroyed "
+"(like any other unit) or if the loss of a Druid character reduces the number "
+"of Druids to less than the number of Fenbeasts – the owning player chooses a "
+"Fenbeast and removes it from play."
+msgstr ""
+
+#.  Summoned
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:206
+msgid ""
+"Summoned Fenbeast units do not influence army withdrawal calculations in any "
+"way and do not have a points value."
+msgstr ""
+
+#.  Paragraphs added.
+#. type: Plain text
+#: en/revolution/modules/armies/pages/albion.adoc:212
+msgid ""
+"Fenbeasts may only be given orders by Druids. Fenbeasts may not be brigaded "
+"with other troops, not even other Fenbeasts. An army cannot have more "
+"summoned Fenbeasts in play than it has Druids."
+msgstr ""
