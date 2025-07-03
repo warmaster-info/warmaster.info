@@ -7,14 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-03 13:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_rules_pages_end-of-the-battle/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/battlefields.adoc:224
@@ -93,7 +95,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:12
 #, no-wrap
 msgid "Withdraw"
-msgstr ""
+msgstr "Déroute"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/end-of-the-battle.adoc:44

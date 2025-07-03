@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-02 15:04+0000\n"
+"PO-Revision-Date: 2025-07-03 13:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -178,6 +178,10 @@ msgid ""
 "phase. Every stand in the unit, including characters that have joined the "
 "unit, deducts −1 from its Attacks value."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie à portée et engagée en combat, "
+"que le Sorcier puisse la voir ou non. Il dure jusqu'à la fin de la prochaine "
+"phase de Combat. Chaque socle de l’unité, y compris les personnages qui l’"
+"ont rejointe, voit son nombre d’Attaques réduit de -1."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:276
@@ -187,6 +191,8 @@ msgid ""
 "which is within range. The Wizard does not have to be able to see the target "
 "to cast the spell."
 msgstr ""
+"Ce sort peut être lancé sur une unité amie à portée et engagée au combat. Le "
+"Sorcier n’est pas obligé de voir sa cible pour lancer le sort."
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/skaven.adoc:1
@@ -215,6 +221,24 @@ msgid ""
 "insane – but such is its hold over the whole race that they delve for it "
 "beneath the earth wherever it may be found."
 msgstr ""
+"image:skaven/logo.webp[width=120,height=108,float=\"right\"] Les Skavens ne "
+"sont ni des hommes ni des rats, mais un mélange impie des deux espèces, dont "
+"les origines restent voilées de mystère. Il est probable qu’ils mutèrent à l’"
+"aube de l’Âge du Chaos, lorsque les vents de magie soufflèrent sur le monde ;"
+" des millions de tonnes de matière chargée d’énergie magique furent "
+"précipitées au-dessus de la planète sous la forme d’une averse de "
+"météorites. Certaines étaient d’immenses rochers aussi gros que des maisons, "
+"d’autres un simple amas de poussière qui imprégna le sol même. Les créatures "
+"qui respirèrent la poussière ou demeurèrent à proximité des plus grosses "
+"météorites se transformèrent en horribles monstres. Les Skavens sont peut-"
+"être des rongeurs ordinaires ayant évolué en absorbant cette matière "
+"corruptrice, qu’ils appellent malepierre. À ce jour, ils se nourrissent "
+"encore de malepierre. De simples résidus de cette substance sont capables de "
+"tuer la plupart des créatures, mais pour les Skavens, il s’agit d’un "
+"stimulant puissant, qui confère de grands pouvoirs à leurs sorciers. Elle a "
+"aussi pour effets secondaires de les tuer à petit feu et de les rendre fous, "
+"mais l’emprise de cette matière sur leur race est telle qu’ils sont prêts à "
+"creuser la terre à sa recherche où qu’elle se trouve."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:38
@@ -229,6 +253,18 @@ msgid ""
 "Dwarfs are undermined by the underworld of the Skaven and the two races have "
 "fought many battles beneath the earth."
 msgstr ""
+"À l’instar des rats ordinaires, les Skavens n’aiment pas la lumière du jour "
+"et évitent les lieux découverts. Ils percent leurs tunnels sous la terre et "
+"envahissent souvent les anciennes mines des Nains et les terriers abandonnés "
+"des Gobelins. Bien que rares soient ceux qui soupçonnent leur présence, ils "
+"vivent aussi sous les cités des hommes, dans les égouts et les caves, parmi "
+"les ruines, et n’en sortent qu’à la nuit tombée pour s’en prendre aux "
+"vagabonds et autres malheureux. Au fil des siècles, les Skavens ont creusé "
+"des centaines de milliers de lieues de tunnels et des nids aussi vastes que "
+"des villes, si bien que la totalité de la planète peut être victime de leurs "
+"manigances. Même les demeures des Nains sont minées par les réseaux "
+"souterrains des Skavens, et les deux races ont livré plus d’une fois "
+"bataille sous la terre."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:52
@@ -245,6 +281,16 @@ msgid ""
 "form of germ warfare, spreading pestilence and corruption by means of "
 "noxious vapours and poisons."
 msgstr ""
+"Les Skavens prospèrent là où règnent corruption et décrépitude, mais leur "
+"société et rigidement hiérarchisée, depuis les Seigneurs de la Ruine qui les "
+"dirigent jusqu’aux esclaves. Les Skavens vivent en vastes groupes appelés "
+"clans. Les plus puissants clans règnent sur les autres, et eux-mêmes sont "
+"soumis au Conseil des Treize, dont les membres sont les terribles Seigneurs "
+"de la Ruine. C’est ce conseil qui coordonne les efforts des Skavens visant à "
+"conquérir le monde. Les clans ordinaires sont essentiellement composés de "
+"milliers de guerriers et d’esclaves, mais certains se sont spécialisés. Les "
+"maîtres du clan Pestilens ont développé une forme de guerre bactériologique, "
+"et ils répandent épidémie et corruption par le biais de gaz et de poisons."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:64
@@ -259,12 +305,21 @@ msgid ""
 "beyond the understanding of mere humans. Most powerful of all are the Grey "
 "Seers the supreme sorcerers of the Skaven Race."
 msgstr ""
+"Le clan Eshin regroupe des maîtres du subterfuge, dont les agents rampent "
+"sur les toits des villes humaines pour assassiner, saboter et espionner. Les "
+"sorciers du clan Moulder usent d’une magie corruptrice et ont créé bien des "
+"monstres en nourrissant des animaux de malepierre, leur plus grande réussite "
+"étant les rats-ogres, de grandes bêtes faisant plusieurs fois la taille d’un "
+"Skaven. Le clan Skryre est célèbre pour ses machines qui fonctionnent par un "
+"mélange de magie et de science inaccessible aux humains. Les plus puissants "
+"Skavens de tous restent les Prophètes Gris, les sorciers suprêmes de leur "
+"race."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/skaven.adoc:68
 #, no-wrap
 msgid "Skaven army selector"
-msgstr ""
+msgstr "Sélecteur d'Armée des Skavens"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/skaven.adoc:73
@@ -276,7 +331,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/skaven.adoc:81
 #, no-wrap
 msgid "Strength in Numbers"
-msgstr ""
+msgstr "L'Union fait la Force"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:83
@@ -284,12 +339,14 @@ msgid ""
 "Brigades may be of any size and are not restricted to the normal four unit "
 "maximum."
 msgstr ""
+"Les brigades Skavens peuvent faire n’importe quelle taille, et ne sont pas "
+"limitées au maximum habituel de quatre unités."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:84
 #, no-wrap
 msgid "Vermintide"
-msgstr ""
+msgstr "Marée de Vermine"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:91
@@ -301,12 +358,19 @@ msgid ""
 "constrained by terrain and fortified status the same as other armies – e.g. "
 "they cannot pursue if fortified."
 msgstr ""
+"Les unités Skavens qui remportent un round de combat peuvent poursuivre n’"
+"importe quel ennemi, quel que soit son type. Toute unité Skaven (y compris "
+"l’artillerie) peut poursuivre n’importe quelle unité ennemie (y compris les "
+"volants, la cavalerie et les chars). Bien qu’ils aient le droit de "
+"poursuivre quelle que soit la nature de l’ennemi, les Skavens restent soumis "
+"aux contraintes du terrain et du statut fortifié comme n’importe quelle "
+"armée. Par exemple, ils ne peuvent pas poursuivre lorsqu’ils sont fortifiés."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:92
 #, no-wrap
 msgid "Under the Lash"
-msgstr ""
+msgstr "La Loi du Fouet"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:97
@@ -316,6 +380,9 @@ msgid ""
 "very good at directing their underlings – but only so long as they remain "
 "close at hand. We call it ‘under the lash’."
 msgstr ""
+"Tous les personnages Skavens ont une portée de Commandement de 20 cm, qu’ils "
+"soient Généraux, Héros ou Sorciers. Les Skavens savent s’y prendre pour "
+"diriger leurs sous-fifres, tant que ces derniers restent à portée de fouet…"
 
 #. 4: Paragraph breaks added
 #. type: Labeled list
@@ -331,12 +398,15 @@ msgid ""
 "So, for example, an armour value of 3+ counts as 4+, 5+ counts as 6+, and 6+ "
 "can’t save against a jezzail."
 msgstr ""
+"Les Jezzails comptent l’armure de leur cible comme étant inférieure d’1 "
+"point à sa valeur ordinaire. Ainsi, une valeur d’armure de 3+ passe à 4+, 5+ "
+"passe à 6+ et les Armures de 6+ sont inutiles contre un Jezzail."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:110
 #, no-wrap
 msgid "[[plague-monks,†2]]2. Plague Monks"
-msgstr ""
+msgstr "[[plague-monks,†2]]2. Moines de la Peste"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:116
@@ -347,6 +417,12 @@ msgid ""
 "for drive backs. If victorious in combat they must pursue or advance where "
 "possible."
 msgstr ""
+"Une unité de Moines de la Peste utilisera toujours l’initiative pour charger "
+"un ennemi si elle le peut, et ne pourra pas recevoir d’ordre à la place. "
+"Elle n’utilise jamais l’initiative pour éviter.  Les Moines de la Peste ne "
+"peuvent pas être repoussés par des tirs et ne font jamais de jets de "
+"repoussement. S’ils remportent un round de combat, ils doivent poursuivre s’"
+"ils sont en mesure de le faire."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:119
@@ -354,12 +430,14 @@ msgid ""
 "Plague Monks are unaffected by enemies that cause terror in combat, they do "
 "not suffer the usual −1 Attack modifier."
 msgstr ""
+"Les Moines de la Peste ne sont pas affectés par les ennemis qui causent la "
+"terreur et ne subissent pas le malus habituel de -1 Attaque."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:120
 #, no-wrap
 msgid "[[rat-swarms,†3]]3. Rat Swarms"
-msgstr ""
+msgstr "[[rat-swarms,†3]]3. Nuées de Rats"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:126
@@ -369,12 +447,18 @@ msgid ""
 "only by other Ratswarm stands. Note, however, that Rat Swarms can support "
 "other kinds of infantry as normal. A Rat Swarm cannot be given magic items."
 msgstr ""
+"Les Nuées de Rats ne peuvent pas être repoussées par les tirs et ne font pas "
+"de jets de repoussement. Un socle de Nuée de Rats ne peut pas être soutenu "
+"par un autre type d'infanterie : seul un socle de Nuée de Rats peut en "
+"soutenir un autre. Notez toutefois que les socles de Nuées de Rats peuvent "
+"soutenir normalement les autres types d’infanterie. Une Nuée de Rats ne peut "
+"pas recevoir d'objets magiques."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:127
 #, no-wrap
 msgid "[[gutter-runners,†4]]4. Gutter Runners"
-msgstr ""
+msgstr "[[gutter-runners,†4]]4. Coureurs d'Égouts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:134
@@ -413,6 +497,23 @@ msgid ""
 "Once deployed, orders can be given to the unit by the same character that "
 "gave the infiltration order."
 msgstr ""
+"De plus, une unité de Coureurs d'Égouts n'a pas à être déployée au début de "
+"la bataille si le joueur le désire. À la place, l’unité peut s’infiltrer sur "
+"le champ de bataille une fois la partie commencée. Pour infiltrer une unité, "
+"le joueur Skaven désigne le point où il veut la faire apparaître et doit lui "
+"donner un ordre d’infiltration avec l’un de ses personnages. Le personnage "
+"ne tient pas compte des portées d’ordre pour donner l’ordre d’infiltration : "
+"on considère que sa portée d’ordre s’étend à l’ensemble du champ de bataille "
+"pour ce qui est de donner un tel ordre. Considérez que l’ordre est donné au "
+"point où l’unité doit apparaître, et appliquez tous les modificateurs de "
+"portée, de proximité de l’ennemi, etc. mais ignorez les pénalités dues au "
+"terrain difficile. Le point d’apparition de l'unité doit être situé en "
+"terrain dense ou sur un bord de table n’étant pas celui du joueur adverse. "
+"Si l’ordre d’infiltration est donné avec succès, placez un socle de l’unité "
+"sur le point indiqué et positionnez les autres en formation autour de celui-"
+"ci. L’unité infiltrée ne peut pas être placée de façon à toucher l’ennemi. "
+"Une fois qu’elle est déployée, elle peut recevoir des ordres du personnage "
+"qui a donné l’ordre d’infiltration."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:162
@@ -424,17 +525,26 @@ msgid ""
 "cannot infiltrate that turn, it can attempt to infiltrate in a subsequent "
 "turn at the same or a different place."
 msgstr ""
+"Les personnages Skavens peuvent ignorer la règle La Loi du Fouet quand ils "
+"donnent des ordres aux Coureurs d'Égouts. Utilisez la portée normale de "
+"commandement pour le type du personnage. On considère que l'unité infiltrée "
+"a utilisé son premier ordre pour se déployer. Si l’ordre d’infiltration est "
+"un échec, l’unité n’est pas déployée et ne peut pas s’infiltrer lors de ce "
+"tour. Elle pourra essayer de nouveau lors d’un tour suivant, au même endroit "
+"ou en un autre lieu."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:165
 msgid "Gutter Runners don’t suffer −1 Command penalty for Dense Terrain."
 msgstr ""
+"Les Coureurs d'Égouts ne subissent pas de pénalité de -1 au Commandement à "
+"cause du Terrain Difficile."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:166
 #, no-wrap
 msgid "[[warp-lightning-cannon,†5]]5. Warp Lightning Cannon"
-msgstr ""
+msgstr "[[warp-lightning-cannon,†5]]5. Canon à Malefoudre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:172
@@ -445,12 +555,16 @@ msgid ""
 "Warp Lightning Cannon unit to become confused. This includes stand and shoot "
 "attacks."
 msgstr ""
+"Le Canon à Malefoudre bénéficie d’une portée de 40cm et suit les règles "
+"normales de l'Artillerie, mais peuvent se déplacer jusqu'à 20cm. Leur Demi-"
+"vitesse est de 10cm. Lors d'un tir, tout double 1 obtenu rend le confus le "
+"Canon à Malefoudre. Ceci inclut les tirs de contre-charge."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:173
 #, no-wrap
 msgid "[[doom-wheel,†6]]6. Doom Wheel"
-msgstr ""
+msgstr "[[doom-wheel,†6]]6. Roue Infernale"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:178
@@ -460,17 +574,21 @@ msgid ""
 "bonus applies only when charging – not during pursuits, advances and not "
 "when the Doom Wheel is charged itself."
 msgstr ""
+"Lorsqu’une Roue Infernale charge un ennemi à découvert, elle reçoit un bonus "
+"de +1D6 Attaques en plus du bonus habituel de +1 Attaque pour une charge. "
+"Notez que ce bonus ne s’applique que lors d’une charge, et pas lors d’une "
+"poursuite, avance, ou si la Roue est chargée."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:180
 msgid "The Doom Wheel has a move of 20cm and causes terror."
-msgstr ""
+msgstr "La Roue Infernale dispose d’un mouvement de 20cm et cause la terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:181
 #, no-wrap
 msgid "[[grey-seer,†7]]7. Grey Seer"
-msgstr ""
+msgstr "[[grey-seer,†7]]7. Prophète Gris"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:184
@@ -479,12 +597,15 @@ msgid ""
 "manner as a Warlock and can be given a magic item restricted to either a "
 "General or a Wizard."
 msgstr ""
+"Le Prophète Gris est le Général de l’Armée et utilise la magie Skaven de la "
+"même manière que les Technomages et peuvent utiliser des objets magiques "
+"limités aux Généraux ou aux Sorciers."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:185
 #, no-wrap
 msgid "[[screaming-bell,†8]]8. Screaming Bell"
-msgstr ""
+msgstr "[[screaming-bell,†8]]8. Cloche Hurlante"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:204
@@ -506,12 +627,31 @@ msgid ""
 "value. A Skaven army can only ever include a maximum of 1 Screaming Bell no "
 "matter how large."
 msgstr ""
+"La Cloche Hurlante est un engin gigantesque et utilise un socle de 40 x "
+"60mm, le bord le plus petit vers l'avant. Elle ne peut pas se déplacer seule "
+"mais est poussée par une masse de Skavens. De ce fait, la Cloche Hurlante ne "
+"peut se déplacer durant la phase d’Ordres que si elle forme une brigade avec "
+"au moins une unité d’infanterie. Elle peut alors se déplacer de 20 cm, à la "
+"vitesse de l’infanterie. Elle ne peut pas se déplacer par initiative, ni "
+"être repoussée par des tirs. Elle n’effectue pas de jets de repoussement. Au "
+"combat, elle est automatiquement détruite si elle est forcée de se replier, "
+"mais poursuivra, reculera et avancera normalement du moment qu’elle est en "
+"contact avec une unité d’infanterie Skaven au début et à la fin de son "
+"mouvement. Autrement, elle ne peut pas poursuivre, avancer ou reculer, car "
+"elle ne peut pas se déplacer toute seule. Toute unité Skaven en contact avec "
+"la Cloche est immunisée aux effets de la Terreur et ne subit pas la pénalité "
+"habituelle tant qu’elle reste à son contact. De plus, tout Technomage ou "
+"Héros Skaven dans un rayon de 30cm autour de la Cloche Hurlante ajoute +1 à "
+"sa valeur de Commandement. Tout personnage ennemi se trouvant dans un rayon "
+"de 30cm autour de la Cloche subit une pénalité de -1 à sa valeur de "
+"Commandement. Une armée Skaven ne peut jamais inclure qu’une seule Cloche "
+"Hurlante maximum, quelle que soit sa taille."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:205
 #, no-wrap
 msgid "[[rat-ogre-bodyguard,†9]]9. Rat Ogre Bodyguard"
-msgstr ""
+msgstr "[[rat-ogre-bodyguard,†9]]9. Garde du Corps Rat Ogre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:208
@@ -519,18 +659,20 @@ msgid ""
 "The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard.A character "
 "with a bodyguard adds +1 to his Attacks."
 msgstr ""
+"Les Prophètes Gris, Héros, et Technomages peuvent avoir un Garde du Corps "
+"Rat Ogre. Ce personnage ajoute +1 à sa valeur d'Attaques."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/skaven.adoc:212
 #, no-wrap
 msgid "Skaven spells"
-msgstr ""
+msgstr "Sorts Skavens"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/skaven.adoc:215
 #, no-wrap
 msgid "Wither"
-msgstr ""
+msgstr "Flétrissement"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:221
@@ -538,12 +680,14 @@ msgid ""
 "_Chanting a vile curse, the caster inflicts a wasting, shrinking sickness on "
 "the enemy._"
 msgstr ""
+"_Le sorcier incante une malédiction vicieuse et inflige une maladie "
+"débilitante à l'ennemi._"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/skaven.adoc:230
 #, no-wrap
 msgid "Warp Lightning"
-msgstr ""
+msgstr "Malefoudre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:236
@@ -551,6 +695,9 @@ msgid ""
 "_An arc of pure warp energy strikes the foe wreaking strange changes, "
 "melting flesh and twisting bone into monstrous forms._"
 msgstr ""
+"_Un arc d’énergie maléfique pure frappe l’ennemi et lui inflige de "
+"douloureuses transformations, faisant fondre sa chair et façonner ses os en "
+"de monstrueuses formes ._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:245
@@ -559,12 +706,16 @@ msgid ""
 "armour has no effect (all targets count as having no armour). A unit can be "
 "driven back by Warp Lightning as with ordinary shooting."
 msgstr ""
+"La Malefoudre est résolue comme 3 Attaques de tir ordinaires, si ce n’est "
+"que l’Armure de la cible n’a aucun effet (la cible compte comme ayant une "
+"valeur d’Armure nulle). Une unité touchée par la Malefoudre peut être "
+"repoussée comme par des tirs ordinaires."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/skaven.adoc:247
 #, no-wrap
 msgid "Death Frenzy"
-msgstr ""
+msgstr "Frénésie Mortelle"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:254
@@ -572,6 +723,8 @@ msgid ""
 "_The Skaven screams a blasphemous litany to the Horned Rat driving the "
 "Skaven masses into a frenzy of warpdust fuelled destruction._"
 msgstr ""
+"_Le Skaven hurle une litanie blasphématoire au Rat Cornu et emplit les "
+"masses Skavens de fureur sanguinaire et d'appétit de destruction._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:262
@@ -579,6 +732,9 @@ msgid ""
 "The effect lasts for the duration of the following combat phase and the "
 "indicated bonus attacks are added to the unit’s total attacks each round."
 msgstr ""
+"Les effets du sort durent jusqu’à la fin de la prochaine phase de combat, et "
+"le bonus d’Attaque indiqué est ajouté au nombre total d’Attaques de l’unité "
+"à chaque round."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:274
@@ -594,6 +750,16 @@ msgid ""
 "struck only once in the first round of combat: they are not struck each "
 "round."
 msgstr ""
+"L'unité gagne les attaques supplémentaires de la Frénésie Mortelle pour "
+"toute la phase de Combat suivante. Pour déterminer le nombre d’Attaques "
+"supplémentaires, jetez 1D6 à la fois et ajoutez les résultats. Le joueur "
+"peut jeter autant de dés qu’il le souhaite, jusqu’à un maximum d’un dé par "
+"socle de l’unité. Le joueur jette ses dés un par un, et peut décider d’"
+"arrêter à tout moment. Cependant, s’il obtient sur le dé qu’il vient de "
+"lancer un résultat similaire à celui d’un dé qu’il a précédemment jeté, le "
+"nombre total d’Attaques supplémentaires est dirigé contre l’unité "
+"bénéficiant du sort plutôt que contre l’ennemi. Dans ce cas, ces Attaques ne "
+"sont résolues que lors du premier round de combat, pas lors des suivants."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:278
@@ -601,12 +767,15 @@ msgid ""
 "Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. 1+4+1 "
 "= 6 Attacks upon the Skaven unit in the first round."
 msgstr ""
+"Par exemple : 1 + 4 + 6 = 11 Attaques supplémentaires pour l’unité Skaven à "
+"chaque round. 1 + 4 + 1 = 6 Attaques infligées à l’unité Skaven durant le "
+"premier round de combat."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/skaven.adoc:280
 #, no-wrap
 msgid "Plague"
-msgstr ""
+msgstr "Peste"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:288
@@ -616,6 +785,9 @@ msgid ""
 "their joints to swell with buboes and their hair to crawl with lice and "
 "fleas._"
 msgstr ""
+"_Un nuage néfaste enveloppe les troupes ennemies et couvre leurs corps de "
+"pustules, leur peau se fend et se parsème d’escarres, leurs articulations "
+"gonflent tandis que leurs cheveux s’emplissent de vermine._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:292
@@ -624,6 +796,9 @@ msgid ""
 "of whether the Wizard can see it or not. The spell cannot be cast on a unit "
 "engaged in combat."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie à portée, que le Sorcier "
+"puisse la voir ou non. Il ne peut pas être lancé sur une unité engagée au "
+"combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:296
@@ -631,3 +806,5 @@ msgid ""
 "The unit suffers six attacks worked out in the usual way. A unit cannot be "
 "driven back by Plague (the vile Plague erupts from within!)."
 msgstr ""
+"L’unité subit six Attaques résolues de la manière habituelle. Une unité ne "
+"peut pas être repoussée par la Peste (l’épidémie frappe en son sein même !)."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-02 15:04+0000\n"
+"PO-Revision-Date: 2025-07-03 13:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_kislev/fr/>\n"
@@ -135,7 +135,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/norse.adoc:174
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:137
 msgid "[.cost]#5+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/kislev.adoc:1
@@ -501,6 +501,10 @@ msgid ""
 "phase. Every stand in the unit, including characters that have joined the "
 "unit, deducts −1 from its Attacks value."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie à portée et engagée en combat, "
+"que le Sorcier puisse la voir ou non. Il dure jusqu'à la fin de la prochaine "
+"phase de Combat. Chaque socle de l’unité, y compris les personnages qui l’"
+"ont rejointe, voit son nombre d’Attaques réduit de -1."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/kislev.adoc:226
