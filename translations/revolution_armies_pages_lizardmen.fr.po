@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-03 13:04+0000\n"
+"PO-Revision-Date: 2025-07-03 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
@@ -310,7 +310,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:92
 #, no-wrap
 msgid "Born in Jungle"
-msgstr ""
+msgstr "Natifs de la Jungle"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:98
@@ -321,12 +321,17 @@ msgid ""
 "narrow tunnels by a mix of instinct and bizarre sub-sonic noises inaudible "
 "to other races."
 msgstr ""
+"Aucune pénalité de Commandement due au terrain dense ne s’applique aux "
+"Hommes-Lézards. Leur patrie est en grande partie recouverte de ruines et de "
+"végétations, aussi sont-ils habitués à communiquer dans les jungles "
+"épaisses, par un mélange de signaux et de sons inaudibles pour les autres "
+"races."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:102
 #, no-wrap
 msgid "[[skinks,†1]]1. Skinks"
-msgstr ""
+msgstr "[[skinks,†1]]1. Skinks"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:107
@@ -346,7 +351,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:108
 #, no-wrap
 msgid "[[reptilian,†2]]2. Reptilian"
-msgstr ""
+msgstr "[[reptilian,†2]]2. Reptiliennes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:113
@@ -356,12 +361,18 @@ msgid ""
 "reptilian units are within 20cm of the character issuing the order. This "
 "rule represents the creatures being cold-blooded brutes and slow to react."
 msgstr ""
+"Les troupes reptiliennes ne peuvent recevoir un ordre que si le personnage "
+"qui le donne se trouve à 20cm d’elles ou moins. Si des unités reptiliennes "
+"font partie d’une brigade, un ordre peut lui être donné tant que toutes les "
+"unités reptiliennes se trouvent à 20cm ou moins du personnage qui donne l’"
+"ordre. Cette règle représente le fait que ces créatures sont des brutes à "
+"sang-froid qui mettent un petit moment à réagir."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:114
 #, no-wrap
 msgid "[[salamander,†3]]3. Salamander"
-msgstr ""
+msgstr "[[salamander,†3]]3. Salamandres"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:118
@@ -370,6 +381,10 @@ msgid ""
 "infantry unit may add one stand of Salamanders. This brings the size of the "
 "unit to 4 stands – 3 regular stands plus the Salamander."
 msgstr ""
+"Les socles de Salamandres ne combattent pas comme des unités indépendantes. "
+"À la place, vous pouvez inclure un socle de Salamandre à chaque unité d’"
+"infanterie Skink. La taille de l’unité passe ainsi à 4 socles (3 socles de "
+"Skinks et 1 de Salamandres)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:122
@@ -378,6 +393,9 @@ msgid ""
 "They fight as part of their unit and can be removed as a unit casualty if "
 "the player wishes."
 msgstr ""
+"Les Salamandres ont la même valeur d'Armure que le reste de leur unité. "
+"Elles combattent avec leur unité et sont retirées comme pertes si le joueur "
+"le désire."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:126
@@ -386,6 +404,9 @@ msgid ""
 "never cause the parent unit to be in Irregular Formation no matter how they "
 "are placed."
 msgstr ""
+"Un socle de Salamandres ne compte toutefois pas comme perte pour ce qui est "
+"des malus de Commandement.  Les socles de Salamandres ne rende jamais la "
+"Formation de l'unité parente Irrégulière, peu importe leur placement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:132
@@ -395,6 +416,12 @@ msgid ""
 "Enemy Armour saving throws suffer a – 1 penalty when hit by Salamander Venom "
 "(e.g. 5+ save requires a roll of 6)."
 msgstr ""
+"Si un socle de Salamandres est rattaché à une unité de Skinks, l’unité "
+"entière, y compris les Skinks, compte comme employant des attaques de tir de "
+"venin de Salamandre. L’Armure de l’ennemi est réduite d’1 point lorsqu’il "
+"doit effectuer une sauvegarde des attaques de venin de Salamandre (par "
+"exemple, une Armure de 5+ doit obtenir un résultat de 6 pour annuler la "
+"touche)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:137
@@ -412,7 +439,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:138
 #, no-wrap
 msgid "[[terradon,†4]]4. Terradon"
-msgstr ""
+msgstr "[[terradon,†4]]4. Téradon"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:143
@@ -423,8 +450,8 @@ msgid ""
 "Note that this unit still needs Line of Sight from its front edge to charge "
 "an enemy."
 msgstr ""
-"Les Terradons peuvent voler. Les Chevaucheurs de Terradons ont une portée de "
-"tir de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
+"Les Téradons peuvent voler. Les cavaliers des Téradons ont une portée de tir "
+"de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
 "peuvent tracer une ligne de vue depuis n'importe quel bord de leur socle, "
 "ceci afin d'éviter ou de tirer, incluant le tir sur les ennemis en charge. "
 "Notez que l'unité a tout de même besoin d'avoir une Ligne de Vue depuis son "
@@ -434,7 +461,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/lizardmen.adoc:144
 #, no-wrap
 msgid "[[stegadon,†5]]5. Stegadon"
-msgstr ""
+msgstr "[[stegadon,†5]]5. Stégadon"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:146
@@ -442,11 +469,13 @@ msgid ""
 "As the Stegadon is so gargantuan, it uses a 40 x 60mm base, with the short "
 "edge being the front."
 msgstr ""
+"Le Stégadon est si énorme qu'il utilise un socle de 40 x 60mm, le plus petit "
+"côté vers l'avant."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:148
 msgid "The Stegadon causes terror in its foes."
-msgstr ""
+msgstr "Le Stégadon cause la terreur à ses ennemis."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:153
@@ -455,6 +484,10 @@ msgid ""
 "with Skink units that have attached Salamanders.  It cannot be brigaded with "
 "any other units including with other Stegadons."
 msgstr ""
+"Un Stégadon ne peut être placé en brigade qu’avec des unités de Skinks, mais "
+"pas avec des unités de Skinks incorporant des socles de Salamandres.  Il ne "
+"peut pas rejoindre une brigade qui incorpore d’autres types d’unités, y "
+"compris d’autres Stégadons."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:159
@@ -481,12 +514,19 @@ msgid ""
 "Attack values are halved for the remainder of the battle to 5/2 Attacks and "
 "5 Hits."
 msgstr ""
+"Vu le nombre de Points de Vie élevé du Stégadon (10), nous devons considérer "
+"la possibilité que les blessures subies réduisent son efficacité au combat. "
+"Si un Stégadon a accumulé entre 6 et 9 touches à la fin d’une phase de Tir "
+"ou de Combat et n'est plus engagé, il est grièvement blessé. Une fois qu’un "
+"Stégadon est grièvement blessé, toutes les touches sont annulées mais ses "
+"Attaques et ses Points de Vie sont réduits de moitié pour le reste de la "
+"partie (5/2 Attaques et 5 PV)."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:169
 #, no-wrap
 msgid "[[slann-mage,†6]]6. Slann Mage"
-msgstr ""
+msgstr "[[slann-mage,†6]]6. Mage Slann"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:183
@@ -504,6 +544,17 @@ msgid ""
 "turn, their confusion over the mixup is represented by adding +1 to their "
 "first order rolls."
 msgstr ""
+"Le Mage Slann est monté sur un palanquin porté par sa garde de Saurus ; le "
+"bonus d’attaques reflète cette escorte. Le Mage Slann est le Général de l’"
+"armée, mais contrairement aux autres commandants, il ne peut pas donner d’"
+"ordre, mais à déjà prévu le déroulement de la bataille et donné des "
+"instructions à ses serviteurs Skinks. Pour représenter ceci, tout personnage "
+"Skink situé à 20 cm ou moins du Mage peut bénéficier de ses Conseils Divins, "
+"ce qui lui permet d’ôter -1 au résultat de ses tests de Commandement. Du "
+"coup, un résultat de 8 devient 7, 10 devient 9, etc. Si un jet de "
+"Commandement bénéficiant des Conseils Divins est raté, aucun autre "
+"personnage ne peut plus en bénéficier pour ce tour, leur confusion est "
+"représentée en ajoutant +1 à leur premiers jets de Commandement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:194
@@ -518,12 +569,22 @@ msgid ""
 "Shaman. This does not affect the Shaman’s own ability to cast spells that "
 "turn."
 msgstr ""
+"De plus, le Slann est un puissant magicien. Il peut lancer des sorts comme "
+"un Sorcier et peut recevoir un objet magique normalement réservé aux "
+"Sorciers ou aux Généraux si vous le désirez. Pour représenter leur "
+"incroyable puissance, les Slanns peuvent relancer leurs sorts ratés, à moins "
+"d’avoir obtenu un 1 sur leur jet de dé. Si un sort échoue sur un résultat de "
+"1, il ne peut pas être relancé. Le Mage peut également lancer un sort par le "
+"biais d’un Chaman Skink. Déterminez simplement les effets du sort comme s’il "
+"était lancé par le Skink, en mesurant la portée et les lignes de vue à "
+"partir de ce dernier. Ceci n’affecte pas la capacité du Chaman à lancer un "
+"sort lors de ce tour."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:195
 #, no-wrap
 msgid "[[stegadon-mount,†7]]7. Stegadon Mount"
-msgstr ""
+msgstr "[[stegadon-mount,†7]]7. Monture Stegadon"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:199
