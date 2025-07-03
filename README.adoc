@@ -1,0 +1,17 @@
+= warmaster.info
+
+https://warmaster.info[warmaster.info] contains the rules and army lists for _Warmaster Revolution_ in HTML format.
+
+Corrections and any other feedback are welcome as issues or pull requests (or see https://warmaster.info/en/revolution/rules/editors-note#feedback[Feedback]).  Please create an issue for discussion before working on a larger change!
+
+== Technical details
+
+The website is written in https://docs.asciidoctor.org/asciidoc/latest/[AsciiDoc], and generated using https://docs.antora.org/antora/[Antora].
+
+The AsciiDoc source includes comments showing where text was altered from the original, and sometimes why it was altered (see https://warmaster.info/en/revolution/rules/editors-note#website-editors-note[Website editor’s note]).  Some, but not all, spelling and grammar corrections are marked with comments.
+
+Line breaks within a paragraph have no meaning in AsciiDoc – paragraphs are separated by a blank line.  Most of the text has the same line breaks as the _Warmaster Revolution_ rulebook to aid comparison and any future changes.  Please maintain this when proposing changes.
+
+== Translation
+
+Translations are *not* managed in Github, therefore don’t make pull requests changing the `*.xx.po` files.  See https://warmaster.info/en/revolution/rules/editors-note#translations[Translations].
