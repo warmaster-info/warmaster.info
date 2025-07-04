@@ -34,7 +34,7 @@ jobs:
     - name: Generate Site
       run: |
         ./antora-translations
-        npx antora antora-playbook.yml
+        npx antora antora-playbook_en.yml
         npx antora antora-playbook_fr.yml
     - name: Duplicate English index page as home page and set favicon
       run: |

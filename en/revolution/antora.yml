@@ -5,3 +5,5 @@ start_page: rules:index.adoc
 nav:
 - modules/rules/nav.adoc
 - modules/armies/nav.adoc
+- modules/experimental-rules/nav.adoc
+- modules/experimental-units/nav.adoc
