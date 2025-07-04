@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-03 13:04+0000\n"
+"PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_kislev/fr/>\n"
@@ -141,7 +141,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 #: en/revolution/modules/armies/pages/kislev.adoc:1
 #, no-wrap
 msgid "Kislev"
-msgstr ""
+msgstr "Kislev"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:14
@@ -154,6 +154,12 @@ msgid ""
 "saying that in Kislev the winters are long, the snow lies deep, and enemies "
 "are never far away."
 msgstr ""
+"image:kislev/logo.webp[width=100,height=113,float=\"right\"] Kislev se "
+"trouve dans le coin nord-est du Vieux Monde, bordé par des pics majestueux à "
+"l’est, le maussade Pays des Trolls à l’ouest et la frontière de l’Empire au "
+"sud. Au fur et à mesure que l’on voyage vers Kislev, les pins font place aux "
+"bouleaux, puis à la toundra. On dit qu’à Kislev les hivers sont longs et "
+"rudes, la neige recouvre la terre, et le danger n’est jamais loin."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:25
@@ -167,6 +173,15 @@ msgid ""
 "south. With typically grim humour Kislevites describe their land as lying "
 "between the hammer and the anvil (meaning Chaos and the Empire)."
 msgstr ""
+"Kislev partage sa frontière méridionale avec l’Empire, mais elle est "
+"entourée d’ennemis dans toutes les autres directions. Les montagnes "
+"orientales grouillent de gobelins et autres peaux-vertes, et derrière elles "
+"s’étalent le pays des maraudeurs. Au nord-ouest, la Norsca est le foyer de "
+"barbares voués aux dieux du Chaos. Lorsque les armées des ténèbres se "
+"rassemblent, Kislev se trouve directement sur le chemin qui les conduira "
+"vers les terres du sud. Les kislévites ont pour habitude de dire qu’ils "
+"reposent entre le marteau et l’enclume (le Chaos et l’Empire) avec leur "
+"humour noir habituel."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:39
@@ -183,6 +198,18 @@ msgid ""
 "powers. This mixture of southern and northern blood makes the Kislevites "
 "seem exotic and dangerous to the people of the Empire."
 msgstr ""
+"Comparée à l’Empire et aux autres nations plus au sud, Kislev est souvent "
+"vue comme un pays barbare et arriéré. Certains affirment même que les "
+"kislévites ne valent guère mieux que les sauvages tribus de maraudeurs du "
+"Chaos. Ceci n’est pas totalement infondé, dans la mesure où le peuple "
+"kislévite est un mélange de populations indigènes à la région, comme les "
+"gens de l’Empire, et d’une féroce tribu de nomades kurgans, les Gospodars. À "
+"l’instar des peuples inféodés au Chaos, certains kislévites jouissent du don "
+"de prophétie, ou sont capables d’utiliser la magie. La famille régnante des "
+"Tzars est issue directement des Reines-khans sorcières des Gospodars, et ses "
+"membres féminins possèdent souvent des pouvoirs extraordinaires. Leur "
+"mélange de sang nordique et méridional rend les kislévites exotiques et "
+"forcément suspects aux yeux des étrangers."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:50
@@ -196,6 +223,15 @@ msgid ""
 "buildings constructed from masonry. Gilded domes distinguish the temples of "
 "the strange Kislevite gods from those of the Empire."
 msgstr ""
+"Une grande partie des sujets du Tzar est constituée de féroces cavaliers "
+"nomades vivant de chasse. Ces nomades sont les plus sauvages des kislévites, "
+"et ils se font forts de perpétuer les traditions et la pureté ethnique des "
+"Gospodars de jadis. Les villes kislévites sont principalement faites de "
+"larges rondins de bois, car les carrières de pierre sont rares tandis que "
+"les grands arbres abondent. Seules les cités majeures sont ceintes de murs "
+"de pierre, et leurs bâtiments officiels sont parfois eux aussi construits en "
+"dur. Les temples kislévites sont surmontés de dômes bulbeux et dorés, ce qui "
+"les différencie de ceux dédiés aux dieux impériaux."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:59
@@ -207,12 +243,19 @@ msgid ""
 "is both abhorred and feared by her people, especially by the nomadic tribes "
 "who believe her to be favoured by the ancient gods of the Gospodars."
 msgstr ""
+"Depuis de nombreuses années, les kislévites jouissent de l’amitié de l’"
+"Empire et entretiennent de bonnes relations avec les nains. Leur souverain "
+"actuel est la Tzarine Katarina, une sorcière connue dans son pays comme "
+"ailleurs sous le nom de Reine des Glaces de Kislev. En elle, les antiques "
+"pouvoirs des Reines-khans ressurgissent, et elle est à la fois vénérée et "
+"crainte par son peuple, en particulier par les tribus nomades qui voient en "
+"elle l’élue des dieux Gospodars."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/kislev.adoc:63
 #, no-wrap
 msgid "Kislev army selector"
-msgstr ""
+msgstr "Sélecteur d’Armée de Kislev"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/kislev.adoc:68
@@ -224,7 +267,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/kislev.adoc:73
 #, no-wrap
 msgid "[[winged-lancers,†1]]1. Winged Lancers"
-msgstr ""
+msgstr "[[winged-lancers,†1]]1. Lanciers Ailées"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:76
@@ -232,12 +275,14 @@ msgid ""
 "Winged Lancers receive +1 Attack in the first round of every combat when "
 "fighting to the front and are Immune to Terror."
 msgstr ""
+"Les Lanciers Ailées reçoivent un bonus de +1 Attaque le premier tour de "
+"chaque combat quand ils attaquent de front et sont immunisés à la Terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:77
 #, no-wrap
 msgid "[[horse-archers-cossacks,†2]]2. Horse Archers, Cossacks"
-msgstr ""
+msgstr "[[horse-archers-cossacks,†2]]2. Archers à Cheval, Kossars"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:82
@@ -258,7 +303,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/kislev.adoc:83
 #, no-wrap
 msgid "[[bowmen,†3]]3. Bowmen"
-msgstr ""
+msgstr "[[bowmen,†3]]3. Archers"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:86
@@ -266,12 +311,14 @@ msgid ""
 "One unit of Bowmen per full 1000 points can replace a unit of Axemen while "
 "still counting for Axemen min/max value."
 msgstr ""
+"Une unité d'Archers par tranche de 1000 points peut remplacer une unité de "
+"Bucherons tout en comptant dans la valeur de min/max des Bucherons."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:87
 #, no-wrap
 msgid "[[red-guard,†4]]4. Red Guard"
-msgstr ""
+msgstr "[[red-guard,†4]]4. Streltsi"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:92
@@ -281,12 +328,16 @@ msgid ""
 "handgun. So an armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, "
 "whilst an armour value of 6+ can’t save against a handgun."
 msgstr ""
+"En plus de la traditionnelle grande hache kislévite, les Streltsis sont "
+"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à l’"
+"Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, une "
+"de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:93
 #, no-wrap
 msgid "[[bears,†5]]5. Bears"
-msgstr ""
+msgstr "[[bears,†5]]5. Ours"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:97
@@ -295,6 +346,9 @@ msgid ""
 "appropriate mobility for such creatures, but they add +1 Attack when they "
 "charge an enemy in the open in the same way as monsters and chariots."
 msgstr ""
+"Les Ours sont considérés comme de l’infanterie pour ce qui est des règles, "
+"car cela reflète leur mobilité, mais ils bénéficient de +1 Attaque lorsqu’"
+"ils chargent un ennemi à découvert, comme les chars et les monstres."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:102
@@ -303,6 +357,10 @@ msgid ""
 "must pursue retreating enemy where possible and must advance if they are "
 "able to do so. Also, Bears never count as defended outside a dense terrain."
 msgstr ""
+"Une unité d'Ours peut seulement donner et recevoir le support d'une autre "
+"unité d'Ours, et doit poursuivre ou avancer lorsque cela est possible. Les "
+"Ours ne sont jamais considérés comme étant défendus dans un terrain "
+"difficile."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:106
@@ -310,12 +368,15 @@ msgid ""
 "Note that these rules apply only to Bear units – not to characters riding a "
 "Bear or Shaman that have transformed in Monster Bear."
 msgstr ""
+"Notez que ces règles ne s'appliquent qu'aux unités d'Ours - pas aux "
+"personnages chevauchant des Ours ou aux Chamans qui se seraient transformés "
+"en Ours."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:107
 #, no-wrap
 msgid "[[war-wagon,†6]]6. War Wagon"
-msgstr ""
+msgstr "[[war-wagon,†6]]6. Chariot de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:116

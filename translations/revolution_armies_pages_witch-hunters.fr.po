@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-03 13:04+0000\n"
+"PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_witch-hunters/fr/>\n"
@@ -289,6 +289,9 @@ msgid ""
 "So an armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an "
 "Armour value of 6+ can’t save against a handgun."
 msgstr ""
+"Lorsque vous tirez avec une arquebuse, retirez 1 à l’Armure de la cible : "
+"une Armure de 3+ passe à 4+, une armure de 4+ à 5+, une de 5+ à 6+. Une "
+"Armure de 6+ n’arrête pas les tirs d’arquebuse."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:95

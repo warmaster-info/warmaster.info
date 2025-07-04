@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-04 09:04+0000\n"
+"PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_bretonnia/fr/>\n"
@@ -680,6 +680,9 @@ msgid ""
 "_The enemy’s missiles sparkle in the sunlight and vanish magically in mid-"
 "air causing no harm to their target._"
 msgstr ""
+"_Les projectiles lancés par l’ennemi se mettent à scintiller au milieu de "
+"leur vol et disparaissent comme par enchantement sans causer le moindre mal "
+"à leur cible._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:233
@@ -687,12 +690,14 @@ msgid ""
 "This spell can be cast on a friendly unit whether the Enchantress can see it "
 "or not."
 msgstr ""
+"Ce sort peut être lancé sur une unité amie, que l'Enchanteresse puisse la "
+"voir ou non."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:236
 msgid ""
 "The spell lasts until the beginning of the next Bretonnian Shooting phase."
-msgstr ""
+msgstr "Ce sort dure jusqu'au début de la prochaine phase de Tir Bretonnienne."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:241
@@ -702,12 +707,16 @@ msgid ""
 "never get worse than 6+. So even if the enchanted unit is fortified all "
 "enemies still hit on 6+."
 msgstr ""
+"Toute unité ennemie qui tire sur l'unité ciblée subit un malus de -1 à ses "
+"jets pour toucher. Notez que le jet ne pourra jamais être pire qu'un 6+ "
+"quelque soient les modificateurs. Donc même si l'unité enchantée est "
+"fortifiée, les ennemis la toucheront quand même sur un 6+."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/bretonnia.adoc:243
 #, no-wrap
 msgid "Lady’s Favour"
-msgstr ""
+msgstr "Faveur de la Dame"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:249
@@ -715,6 +724,8 @@ msgid ""
 "_A vision of The Lady appears to lead the Bretonnians into the midst of "
 "battle or away from danger._"
 msgstr ""
+"_Une vision de la Dame apparaît pour conduire les bretonniens au milieu des "
+"combats ou au contraire loin de tout danger._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:254
@@ -723,6 +734,10 @@ msgid ""
 "of whether the Enchantress can see it or not.  The spell affects only a "
 "single unit, never a brigade and there is no supporting charge possible.."
 msgstr ""
+"Ce sort peut être lancé sur une unité amie non engagée à portée, que l’"
+"Enchanteresse puisse la voir ou non.  Le sort n’affecte qu’une seule unité, "
+"jamais la brigade dont elle fait partie, et elle ne peut pas effectuer de "
+"charge de soutien."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:258
