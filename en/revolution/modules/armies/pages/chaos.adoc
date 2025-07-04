@@ -174,7 +174,8 @@ This spell can be cast upon a friendly unit that is engaged in
 combat and which is within range. The Sorcerer does not have
 to be able to see the target to cast the spell.
 
-The affect lasts for the duration of the following combat phase
+// affect → effect
+The effect lasts for the duration of the following combat phase
 and the indicated bonus attacks are added to the unit’s total
 attacks each round.
 
@@ -200,8 +201,9 @@ round. 1 + 4 + 1 = 6 Attacks upon the Chaos unit in the first round.
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-An arc of pure energy strikes the foe, wreaking monstrous
-changes, melting flesh and twisting bones into monstrous form.
+_An arc of pure energy strikes the foe, wreaking monstrous
+changes, melting flesh and twisting bones into monstrous form._
+
 This spell can be cast on an enemy unit. The Sorcerer must
 be able to see his target to use this spell. The spell cannot be
 directed at a unit engaged in combat.
