@@ -3,10 +3,10 @@
 :page-role: armylist
 :page-toclevels: 1
 
-// list, little, possibilities
-Regiments of Renown is an army list expansion designed to add a little extra flavour and expand the possibilities of
-standard army lists. It presents mercenary units that can be added (hired) to your existing armies. Their rules are described
-on the following pages. Both players have to agree on using Regiments of Renown before the battle.
+// The, list, little, possibilities
+The Regiments of Renown is an army list expansion designed to add a little extra flavour and expand the possibilities of
+standard army lists. It presents mercenary units that can be added to (hired by) your existing armies. Their rules are described
+on this page. Both players have to agree on using Regiments of Renown before the battle.
 
 Mercenaries are a common sight on the battlefields of the
 Warhammer world. Not all of them are human, although most
@@ -14,10 +14,11 @@ are. Amongst the Dogs of War, freebooters from the frozen
 wastes of Norsca rub shoulders with Corsairs from Araby and
 mysterious warrior monks from the east.
 
+// sold → sell, happened → happens
 Sellswords are assured of ready and profitable employment.
 The demand for soldiery in the Warhammer world has led to
 the establishment of numerous mercenary bands – soldiers who
-sold their services to whichever general happened to require
+sell their services to whichever general happens to require
 them. Although some generals are willing to hire mercenary
 troops on a more or less permanent basis, most mercenaries
 are hired only when needed. Besides, the fees charged by the
@@ -26,30 +27,36 @@ on a long-term basis. The most successful mercenary captains
 become rich and influential in their own right, and their services
 are soon in demand throughout the Old World and beyond.
 
+// Remove from, add for, for, especially,
 There are many mercenaries around the Old World. They
-mostly recruit from outlaws, pirates and renegades as well as
-simple adventurers looking for a fight, wealth and fame. They
+mostly recruit outlaws, pirates and renegades as well as
+simple adventurers looking for a fight, for wealth and for fame. They
 gather in wandering bands, companies and even entire armies
 around a charismatic and usually infamous leader and look
-for an opportunity to fight... especialy to fight for a proper
-payment. They call themselves – The Dogs of War.
+for an opportunity to fight… especially to fight for a proper
+payment. They call themselves The Dogs of War.
 
-Around them some are more recognisable than others, mostly
-by the name of their leader. In the land of Tilea – traditional
-home of mercenaries – that specific and the greatest formations
+// Amongst → between, remove 'that specific...', accomplished,
+// for → only by, of course if → assuming
+// usually have full hands of work to do → have no shortage of work.
+Between them some are more recognisable than others, mostly
+by the name of their leader. In the land of Tilea – the traditional
+home of mercenaries – the greatest formations
 are named Regiments of Renown. They are the most skilled,
-acomplished and noble mercenaries affordable for the
+accomplished and noble mercenaries affordable only by the
 wealthiest leaders such as kings, princes and mighty warlords.
 Sometimes they may be hired even by a Dogs of War leader,
-of course if he can pay enough. In the restless Old World they
-usually have full hands of work to do.
+assuming he can pay enough. In the restless Old World they
+have no shortage of work.
 
+// Add Mercenary
+// TODO: only one of the named leaders exists below.
 Mercenaries commonly form into itinerant bands under the
 leadership of a charismatic or especially brutal leader. The most
 famous of these bands are, more often than not, known by the
 name of their leader, such as Verthhold Brekt’s Halberdiers,
 Hagar Whitefang’s Were-Marauders, Bradan Swiftleaf’s Glade
-Riders, Khalag’s Sure Shots, and the renowned Golgfag’s Ogres.
+Riders, Khalag’s Sure Shots, and the renowned Golgfag’s Mercenary Ogres.
 
 image::regiments-of-renown/birdmen.webp[]
 
@@ -77,25 +84,33 @@ Table. Hired units count towards the maximum
 allowance per 1000 points of the unit type indicated in the
 Hiring Regimens of Renown section.
 
+// brackets/type
+// other → standard
 // the extra point value is included in the
+// They also
 // remove therefore
 // melee → combat
 // or heroes
+// magic items.
 Led by the Hero:: To represent the presence of a strong leader,
-Regiments of Renown units including artillery and hero type cost 10 points more
-than their equivalents in the other armies (the extra point value is
-included in Regiments of Renown unit profile) and receive a +1 bonus
+Regiments of Renown units (including artillery and heroes) cost 10 points more
+than their equivalents in the standard armies (the extra point value is
+included in Regiments of Renown unit profile). They also receive a +1 bonus
 to the combat Attack value of one stand. Note that this gives +1
 Attack in total, not +1 to each stand! This extra attack is not
 included in the Army Selector profile.
 +
-No magic item may be given to hired Regiments of Renown units or heroes
+No magic items may be given to hired Regiments of Renown units or heroes
 
 // humanised
 // a lot → greatly
 // stay independent → are unaffected by
+// a separate Blunder
 // friendly spells
+// and → or, add comma
 // unique listed unit
+// remove just
+// This, impact in the game
 Independent and Exclusive:: Mercenaries recruit from many
 races and lands of the Old World. Living in the Empire
 greatly ‘humanised’ them, but they still stay individual. Therefore,
@@ -104,19 +119,19 @@ neither bonuses nor drawbacks.
 +
 Hired units can be ordered and brigaded without penalties, just
 like the other units in your army. In case of a blunder make
-separate Blunder roll for Regiments of Renown units if they are brigaded with
+a separate Blunder roll for Regiments of Renown units if they are brigaded with
 other troops. That means one roll for your armylist troops and
 one roll for Regiments of Renown troops.
 +
 They cannot be targeted by friendly spellcaster’s spells and do
-not receive any benefit from friendly spells and effects including
+not receive any benefit from friendly spells or effects, including
 area spells and effects.
 +
-Additionally your army may contain only one of each unique
-listed unit. If your opponent hired the same regiment, just
+Additionally, your army may contain only one of each unique
+listed unit. If your opponent hired the same regiment,
 roll a dice and decide who got the ‘authentic’ one and who
-‘impersonated’ one. Roll just for fun, without impact in the
-further game.
+‘impersonated’ one. This roll is just for fun, without any impact in the
+game.
 
 [#unit-rules]
 === Unit rules
@@ -228,9 +243,9 @@ make up for their lighter shot by producing a higher volume
 of fire.
 +
 Galloper Guns move 20cm. All the normal rules for artillery
-applies as well as cannon’s rules for shooting (bounce through,
+apply as well as the xref:rules:artillery-and-machines.adoc#cannons[Cannon] rules for shooting (bounce through,
 no saves and reduction of cover values). Because they are light
-guns they have a range of only 40cm. They still may shoot at the
+guns they have a range of only 40cm. They still may shoot at
 charging enemy by firing ‘grapeshot’ as normal.
 
 [[dragons,†11]]11. Dragons:: Asarnil rides a Dragon. The Dragon can fly,
@@ -244,7 +259,7 @@ The fire breath has a range of 20cm and
 can be directed against one target as for normal shooting with
 3 Attacks that are worked out in the usual way.
 +
-Additionaly
+Additionally
 Asarnil causes terror in his enemies.
 
 image::regiments-of-renown/manflyers.webp[]
@@ -267,38 +282,39 @@ include::partial$regiments-of-renown-allies-table.tsv[]
 
 // In the whole section, p → points
 
-// Additionally, dwarfs, "a bad idea"
+// Additionally, colon, dwarfs, "a bad idea"
 Each Regiments of Renown unit counts towards the maximum
 allowance per 1000 points of the unit type indicated in this
 section. Additionally there are some restrictions in hiring
-specified units, i.e. Dwarfs would never fight together with
+specified units: Dwarfs would never fight together with
 Greenskins or Elves, and hiring _The Cursed Company_ together
 with _The Witch Hunters_ is a bad idea.
 
-Examples:
+.Hiring examples
+====
+// chosen, the, move 1000 point value
+* The player hiring the _Alcatani Fellowship_ in a 1000 point value Dwarf army
+  may field up to one Ranger unit instead of up to two.
+  Rangers are the highest point value limited infantry
+  type unit in the Dwarf army.
 
-// chosen
-* _The player hiring the Alcatani fellowship in a Dwarf army
-  may field up to one Ranger unit instead of up to two in a 1000 point
-  value army. Rangers are highest point value limited infantry
-  type unit in the Dwarf army._
+* The player hiring the _Marksmen of Miragliano_ in a Chaos
+  army does not restrict any of his units.
 
-* _The player hiring the Marksmen of Miragliano in a Chaos
-  army does not restrict any of his units._
-
-* _The player hiring Braganza’s Besiegers in a Tomb Kings army
+* The player hiring _Braganza’s Besiegers_ in a Tomb Kings army
   may field up to two monster types (chosen by the player)
-  instead of the three available in the army list for every 1000 points._
+  instead of the three available in the army list for every 1000 points.
 
-* _The player hiring Voland’s Venators in a High Elf army may
+* The player hiring _Voland’s Venators_ in a High Elf army may
   field up to two Chariot units instead of three in a 1000 point value
   army or five chariots instead of six in a 2000 point value army.
   Chariots are the highest point value limited units of cavalry or
-  chariot type in the High Elf army._
+  chariot type in the High Elf army.
 
-* _The player hiring Asarnil the Dragonlord in a 1000 point Araby
+* The player hiring _Asarnil the Dragonlord_ in a 1000 point Araby
   army can’t field a Djinn monster mount as the limit is one per
-  1000 points. In 2000 point army player may field one Djinn instead of two._
+  1000 points. In a 2000 point army player may field one Djinn instead of two.
+====
 
 // Grammar singular/plurals improved
 Pirazzo’s Lost Legion:: Count as one highest point value limited
