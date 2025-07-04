@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-02 00:57+0200\n"
-"PO-Revision-Date: 2025-07-03 15:04+0000\n"
+"PO-Revision-Date: 2025-07-04 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
@@ -593,12 +593,16 @@ msgid ""
 "rider. If he rides a Stegadon then any unit he joins will cause terror and "
 "the usual Combat modifier will apply. No other character can ride a Stegadon."
 msgstr ""
+"Le Mage Slann peut se déplacer à dos de Stégadon, ajoutant +3 Attaques à son "
+"profil. S’il chevauche un Stégadon, toute unité rejointe par le Mage cause "
+"la terreur et le modificateur habituel de combat s’applique. Aucun autre "
+"personnage ne peut chevaucher un Stégadon."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:200
 #, no-wrap
 msgid "[[carnosaur,†8]]8. Carnosaur"
-msgstr ""
+msgstr "[[carnosaur,†8]]8. Carnosaure"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:203
@@ -606,18 +610,21 @@ msgid ""
 "A Saurus Hero can ride a Carnosaur. If a character rides a Carnosaur then "
 "any unit he joins will cause terror. No other character can ride a Carnosaur."
 msgstr ""
+"Un Héros Saurus peut chevaucher un Carnosaure. Si un personnage chevauche un "
+"Carnosaure, toute unité qu’il rejoint cause la terreur. Aucun autre type de "
+"personnage ne peut monter un Carnosaure."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/lizardmen.adoc:207
 #, no-wrap
 msgid "Lizardmen spells"
-msgstr ""
+msgstr "Sorts Hommes-Lézards"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/lizardmen.adoc:210
 #, no-wrap
 msgid "Gaze of Sotek"
-msgstr ""
+msgstr "Regard de Sotek"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:217
@@ -625,6 +632,8 @@ msgid ""
 "_Burning jade coloured rays leap from the wizard’s lidded eyes enshrouding "
 "and choking his enemies in writhing coils of magic._"
 msgstr ""
+"_Des serpents brûlants de couleur jade jaillissent des yeux du sorcier et "
+"enveloppent l’ennemi, l’étouffant dans leurs anneaux._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:226
@@ -633,12 +642,16 @@ msgid ""
 "that armour has no effect (all targets count as having no armour). A unit "
 "can be driven back by the Gaze of Sotek as with ordinary shooting."
 msgstr ""
+"Le Regard de Sotek est traité comme 3 attaques de tir ordinaires, si ce n’"
+"est que l’armure de la cible est ignorée (elle compte comme n’ayant pas "
+"d’Armure). Une unité peut être repoussée par le Regard de Sotek comme par n’"
+"importe quelle attaque de tir."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/lizardmen.adoc:228
 #, no-wrap
 msgid "Mazdamundi’s Revenge"
-msgstr ""
+msgstr "Vengeance de Mazdamundi"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:234
@@ -646,6 +659,9 @@ msgid ""
 "_The wizard’s foes bowels melt with dread or possibly something much worse, "
 "hindering their movement as if hobbled._"
 msgstr ""
+"_Les entrailles des ennemis du Sorcier se contractent de terreur - ou à "
+"cause de quelque chose d’encore pire - ce qui gène considérablement ses "
+"mouvements._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:237
@@ -671,12 +687,16 @@ msgid ""
 "not pursue or advance. Even units that are otherwise obliged to charge, "
 "pursue, or advance will not do so if affected by Mazdamundi’s Revenge."
 msgstr ""
+"Tant que le sort dure, l’unité ne peut pas charger et si elle est engagée au "
+"combat, elle ne pourra pas poursuivre ou avancer. Même les unités "
+"normalement obligées de charger, de poursuivre ou d’avancer ne peuvent pas "
+"le faire si elles sont affectées par la Vengeance de Mazdamundi."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/lizardmen.adoc:247
 #, no-wrap
 msgid "Wings of the Jungle"
-msgstr ""
+msgstr "Ailes de la Jungle"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:254
@@ -684,6 +704,8 @@ msgid ""
 "_An eerie aura surrounds the Wizard and his companions lifting them into the "
 "air and transporting them effortlessly from one place to another._"
 msgstr ""
+"_Une aura mystérieuse entoure le Sorcier et ses compagnons, les emporte dans "
+"les airs et les amène rapidement en un autre lieu._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:258
@@ -692,6 +714,10 @@ msgid ""
 "joined. The spell affects only a single unit, never a brigade and there is "
 "no supporting charge possible."
 msgstr ""
+"Ce sort peut être lancé sur une unité amie n’étant pas engagée au corps à "
+"corps, et rejointe par le Sorcier. Ce sort n’affecte qu’une seule unité, "
+"jamais une brigade entière, et ne permet pas d'effectuer une charge de "
+"soutien."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:264
@@ -701,12 +727,16 @@ msgid ""
 "it. Other character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
+"L’unité peut se déplacer comme si elle avait reçu un ordre durant la phase d’"
+"Ordres. Le Sorcier est déplacé en même temps que l’unité et reste avec elle. "
+"Si d’autres personnages ont rejoint l’unité, ils restent sur place et ne se "
+"déplacent pas avec elle."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/lizardmen.adoc:266
 #, no-wrap
 msgid "Shield of the Old Ones"
-msgstr ""
+msgstr "Bouclier des Anciens"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:272
@@ -714,6 +744,8 @@ msgid ""
 "_The enemy’s blows are magically turned aside by the strange power of the "
 "Old Ones._"
 msgstr ""
+"_Les coups de l’ennemi sont magiquement détournés par l’étrange pouvoir des "
+"Anciens._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:276
@@ -729,7 +761,7 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:278
 msgid "The effect lasts for the duration of the following combat phase."
-msgstr ""
+msgstr "Les effets s’appliquent pour la durée de la prochaine phase de combat."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:282
@@ -738,3 +770,7 @@ msgid ""
 "counts as 6+, 6+ as 5+ and 5+ as 4+. If the unit’s Armour value is already "
 "4+, or another bonus brings it to 4+, this spell has no effect."
 msgstr ""
+"La valeur d’Armure de l’unité est améliorée d’1 point, jusqu’à une valeur "
+"maximale de 4+. Ainsi, une Armure de 0 passe à 6+, une armure de 6+ passe à "
+"5+ et 5+ passe à 4+. Si l’Armure de l’unité est déjà de 4+ ou qu’un autre "
+"bonus la porte à 4+, le sort n’a aucun effet."
