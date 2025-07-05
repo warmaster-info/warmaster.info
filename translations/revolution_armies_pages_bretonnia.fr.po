@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 00:23+0200\n"
-"PO-Revision-Date: 2025-07-04 11:04+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2025-07-05 22:53+0000\n"
+"Last-Translator: Weblate Admin <editor@weblate.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_bretonnia/fr/>\n"
 "Language: fr\n"
@@ -185,7 +185,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:23
 #, no-wrap
 msgid "Knights"
-msgstr ""
+msgstr "Chevaliers"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:89
@@ -221,7 +221,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:22
 #, no-wrap
 msgid "Peasants"
-msgstr ""
+msgstr "Paysans"
 
 #. type: Attribute :squires:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:23
@@ -233,51 +233,50 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:25
 #, no-wrap
 msgid "Grail Knights"
-msgstr ""
+msgstr "Chevaliers du Graal"
 
 #. type: Attribute :pegasus-knights:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:26
-#, fuzzy, no-wrap
-#| msgid "Pegasus Knights can fly."
+#, no-wrap
 msgid "Pegasus Knights"
-msgstr "Les Chevaliers Pégases peuvent voler."
+msgstr "Chevaliers Pégases"
 
 #. type: Attribute :trebuchet:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:27
 #, no-wrap
 msgid "Trebuchet"
-msgstr ""
+msgstr "Trébuchet"
 
 #. type: Attribute :enchantress:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:30
 #, no-wrap
 msgid "Enchantress"
-msgstr ""
+msgstr "Enchanteresse"
 
 #. type: Attribute :unicorn:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:31
 #: en/revolution/modules/armies/pages/wood-elves.adoc:40
 #, no-wrap
 msgid "Unicorn"
-msgstr ""
+msgstr "Licorne"
 
 #. type: Attribute :pegasus:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:32
 #, no-wrap
 msgid "Pegasus"
-msgstr ""
+msgstr "Pégase"
 
 #. type: Attribute :hippogriff:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:33
 #, no-wrap
 msgid "Hippogriff"
-msgstr ""
+msgstr "Hippogriffe"
 
 #. type: Attribute :grail-reliquae:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:34
 #, no-wrap
 msgid "Grail Reliquae"
-msgstr ""
+msgstr "Reliquaire du Graal"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:45

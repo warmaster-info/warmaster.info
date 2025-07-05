@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 00:23+0200\n"
-"PO-Revision-Date: 2025-07-02 15:04+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2025-07-05 22:53+0000\n"
+"Last-Translator: Weblate Admin <editor@weblate.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_regiments-of-renown/fr/>\n"
 "Language: fr\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:94
 #, no-wrap
 msgid "Albion"
-msgstr ""
+msgstr "Albion"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -78,14 +78,14 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:91
 #, no-wrap
 msgid "Araby"
-msgstr ""
+msgstr "Arabie"
 
 #. type: Attribute :beastmen:
 #: en/revolution/modules/armies/pages/beastmen.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:99
 #, no-wrap
 msgid "Beastmen"
-msgstr ""
+msgstr "Hommes-Bêtes"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:89
@@ -109,7 +109,7 @@ msgstr "Règles de l'Armée"
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:86
 #, no-wrap
 msgid "Bretonnia"
-msgstr ""
+msgstr "Bretonnie"
 
 #. type: Attribute :cathay:
 #: en/revolution/modules/armies/pages/cathay.adoc:1
@@ -131,28 +131,28 @@ msgstr ""
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:97
 #, no-wrap
 msgid "Chaos Dwarfs"
-msgstr ""
+msgstr "Nains du Chaos"
 
 #. type: Attribute :daemons:
 #: en/revolution/modules/armies/pages/daemons.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:89
 #, no-wrap
 msgid "Daemons"
-msgstr ""
+msgstr "Démons"
 
 #. type: Attribute :dark-elves:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:88
 #, no-wrap
 msgid "Dark Elves"
-msgstr ""
+msgstr "Elfes Noirs"
 
 #. type: Attribute :dogs-of-war:
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:92
 #, no-wrap
 msgid "Dogs of War"
-msgstr ""
+msgstr "Mercenaires"
 
 #. type: Attribute :dwarfs:
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:28
@@ -160,7 +160,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:83
 #, no-wrap
 msgid "Dwarfs"
-msgstr ""
+msgstr "Nains"
 
 #. 1: Minor rewording of description, reworded diagram description
 #.    Same as Dogs of War
@@ -217,28 +217,28 @@ msgstr ""
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:95
 #, no-wrap
 msgid "Goblins"
-msgstr ""
+msgstr "Gobelins"
 
 #. type: Attribute :high-elves:
 #: en/revolution/modules/armies/pages/high-elves.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:82
 #, no-wrap
 msgid "High Elves"
-msgstr ""
+msgstr "Hauts Elfes"
 
 #. type: Attribute :kislev:
 #: en/revolution/modules/armies/pages/kislev.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:87
 #, no-wrap
 msgid "Kislev"
-msgstr ""
+msgstr "Kislev"
 
 #. type: Attribute :lizardmen:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:85
 #, no-wrap
 msgid "Lizardmen"
-msgstr ""
+msgstr "Hommes-Lézards"
 
 #. type: Attribute :nippon:
 #: en/revolution/modules/armies/pages/nippon.adoc:1
@@ -259,14 +259,14 @@ msgstr ""
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:93
 #, no-wrap
 msgid "Ogre Kingdoms"
-msgstr ""
+msgstr "Royaumes Ogres"
 
 #. type: Attribute :orcs:
 #: en/revolution/modules/armies/pages/orcs.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:81
 #, no-wrap
 msgid "Orcs"
-msgstr ""
+msgstr "Orques"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:1
@@ -448,35 +448,35 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:1
 #, no-wrap
 msgid "Tomb Kings"
-msgstr ""
+msgstr "Rois des Tombes"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:84
 #: en/revolution/modules/armies/pages/skaven.adoc:1
 #, no-wrap
 msgid "Skaven"
-msgstr ""
+msgstr "Skavens"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:90
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:1
 #, no-wrap
 msgid "Vampire Counts"
-msgstr ""
+msgstr "Comtes Vampires"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:96
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:1
 #, no-wrap
 msgid "Witch Hunters"
-msgstr ""
+msgstr "Répurgateurs"
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:98
 #: en/revolution/modules/armies/pages/wood-elves.adoc:1
 #, no-wrap
 msgid "Wood Elves"
-msgstr ""
+msgstr "Elfes Sylvains"
 
 #.  The, list, little, possibilities
 #. type: Plain text
