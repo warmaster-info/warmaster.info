@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,7 +61,7 @@ msgstr ""
 msgid "Game values"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/characters.adoc:37
 msgid ""
 "In some armies, Generals, Wizards and Heroes have different names such as "
@@ -70,7 +70,7 @@ msgid ""
 "as indicated in the Army Lists section of the rulebook."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/characters.adoc:47
 msgid ""
 "Unlike troop stands Character stands don’t have a value for Hits or Armour. "

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 17:27+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -414,7 +414,7 @@ msgid ""
 "characters.adoc[Generals, Heroes and Wizards section]."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/movement.adoc:211
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
@@ -544,7 +544,7 @@ msgstr ""
 msgid "The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/movement.adoc:334
 #, no-wrap
 msgid ""
@@ -1570,7 +1570,7 @@ msgstr ""
 msgid "Units forced into impenetrable terrain"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/movement.adoc:1155
 msgid ""
 "The rules occasionally oblige units to move into terrain they cannot [."
@@ -1580,7 +1580,7 @@ msgid ""
 msgstr ""
 
 #.  TODO: link, and be more definite.
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/movement.adoc:1164
 msgid ""
 "If they are *driven back* into impassable terrain as a result of shooting or "
@@ -1591,7 +1591,7 @@ msgid ""
 "Retreats])."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/movement.adoc:1169
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-05 22:25+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -575,7 +575,7 @@ msgstr ""
 
 #.  In the whole section, p → points
 #.  Additionally, colon, dwarfs, "a bad idea"
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:292
 msgid ""
 "Each Regiments of Renown unit counts towards the maximum allowance per 1000 "
@@ -592,7 +592,7 @@ msgid "Hiring examples"
 msgstr ""
 
 #.  chosen, the, move 1000 point value
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:300
 msgid ""
 "The player hiring the _Alcatani Fellowship_ in a 1000 point value Dwarf army "
@@ -600,14 +600,14 @@ msgid ""
 "highest point value limited infantry type unit in the Dwarf army."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:303
 msgid ""
 "The player hiring the _Marksmen of Miragliano_ in a Chaos army does not "
 "restrict any of his units."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:307
 msgid ""
 "The player hiring _Braganza’s Besiegers_ in a Tomb Kings army may field up "
@@ -615,7 +615,7 @@ msgid ""
 "in the army list for every 1000 points."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:313
 msgid ""
 "The player hiring _Voland’s Venators_ in a High Elf army may field up to two "
@@ -624,7 +624,7 @@ msgid ""
 "value limited units of cavalry or chariot type in the High Elf army."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:317
 msgid ""
 "The player hiring _Asarnil the Dragonlord_ in a 1000 point Araby army can’t "

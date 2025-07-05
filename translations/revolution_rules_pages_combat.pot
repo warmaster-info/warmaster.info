@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 17:27+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -222,7 +222,7 @@ msgstr ""
 msgid "Sequence of charges"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:134
 msgid "→ Moved to xref:movement.adoc#sequence-of-charges[Sequence of charges]."
 msgstr ""
@@ -234,7 +234,7 @@ msgstr ""
 msgid "Enemy in sight"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:141
 msgid "→ Moved to xref:movement.adoc#enemy-in-sight[Enemy in sight]."
 msgstr ""
@@ -245,7 +245,7 @@ msgstr ""
 msgid "Zones"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:148
 msgid ""
 "→ Moved to xref:movement.adoc#front-flank-and-rear[Front, flank and rear]."
@@ -258,7 +258,7 @@ msgstr ""
 msgid "The charge move"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:155
 msgid "→ Moved to xref:movement.adoc#the-charge-move[The charge move]."
 msgstr ""
@@ -271,7 +271,7 @@ msgstr ""
 msgid "Forming a battle line"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:162
 msgid ""
 "→ Moved to xref:movement.adoc#forming-a-battle-line[Forming a battle line]."
@@ -285,7 +285,7 @@ msgstr ""
 msgid "Contact with other enemy"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:169
 msgid ""
 "→ Moved to xref:movement.adoc#contact-with-other-enemy[Contact with other "
@@ -299,7 +299,7 @@ msgstr ""
 msgid "Exceptions & anomalies"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:176
 msgid ""
 "→ Moved to xref:movement.adoc#exceptions-anomalies[Exceptions & anomalies]."
@@ -312,7 +312,7 @@ msgstr ""
 msgid "Unable to contact centre-to-centre"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:183
 msgid ""
 "→ Moved to xref:movement.adoc#unable-to-contact-centre-to-centre[Unable to "
@@ -326,7 +326,7 @@ msgstr ""
 msgid "Unable to form a battle line"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:190
 msgid ""
 "→ Moved to xref:movement.adoc#unable-to-form-a-battle-line[Unable to form a "
@@ -340,7 +340,7 @@ msgstr ""
 msgid "Blocked edges"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:197
 msgid "→ Moved to xref:movement.adoc#blocked-edges[Blocked edges]."
 msgstr ""
@@ -352,7 +352,7 @@ msgstr ""
 msgid "Pinned targets"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:204
 msgid "→ Moved to xref:movement.adoc#pinned-targets[Pinned targets]."
 msgstr ""
@@ -364,7 +364,7 @@ msgstr ""
 msgid "Irregular formations"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:211
 msgid ""
 "→ Moved to xref:movement.adoc#irregular-formations[Irregular formations]."
@@ -377,7 +377,7 @@ msgstr ""
 msgid "Enveloping charge"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:218
 msgid "→ Moved to xref:movement.adoc#enveloping-charge[Enveloping charge]."
 msgstr ""
@@ -497,7 +497,7 @@ msgstr ""
 msgid "Attack modifiers"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:306
 msgid ""
 "The *Attack value* of a stand is modified by tactical factors as shown "
@@ -759,14 +759,14 @@ msgstr ""
 msgid "Hits Equal – Draw!"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:492
 msgid ""
 "If both sides score the same number of hits, the result is a draw and both "
 "sides must *fall back.*"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:497
 msgid ""
 "To find out how far a unit falls back, roll three dice. The unit can fall "
@@ -776,7 +776,7 @@ msgid ""
 "disengaged the combat is over. See <<fall-backs>> for more details."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:501
 msgid ""
 "The exception to the fall back rule is that defended or fortified units can "
@@ -791,12 +791,12 @@ msgstr ""
 msgid "One Side Scores More Hits – Win!"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:507
 msgid "If one side scores more hits than the other, it wins the combat round."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:512
 msgid ""
 "The loser must retreat 1cm for each hit taken in excess of hits inflicted. "
@@ -805,7 +805,7 @@ msgid ""
 "about how to move retreating units."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:515
 msgid ""
 "[.bo5a]#The winner# has a choice of what to do [.bo5a]#once the enemy has "
@@ -814,20 +814,20 @@ msgid ""
 "but can advance instead."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:517
 #, no-wrap
 msgid "*Fall Back.* The victorious unit falls back up to 3D6cm (see <<fall-backs>>). The combat is over.\n"
 msgstr ""
 
 #.  TODO link maybe
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:520
 #, no-wrap
 msgid "*Stand its Ground.* The victorious unit remains where it is. The combat is over.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:528
 #, no-wrap
 msgid ""
@@ -841,7 +841,7 @@ msgid ""
 msgstr ""
 
 #.  "See Enemy Destroyed" is actually "Pursuit and destroyed enemy"
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:532
 #, no-wrap
 msgid ""
@@ -1204,7 +1204,7 @@ msgid ""
 "following turn."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/combat.adoc:794
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#wrapping-pursuit[detailed "
@@ -1224,7 +1224,7 @@ msgid ""
 "engagement. However, pursuit is not allowed in the following circumstances:"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:809
 #, no-wrap
 msgid ""
@@ -1235,7 +1235,7 @@ msgid ""
 "of friends in some situations.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:817
 msgid ""
 "There are a few exception to this rule. If an infantry unit charges a "
@@ -1245,7 +1245,7 @@ msgid ""
 "<<infantry-contact-with-cavalry>>."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:819
 #, no-wrap
 msgid ""
@@ -1253,7 +1253,7 @@ msgid ""
 "kind and must stand or fall back instead.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:821
 #, no-wrap
 msgid ""
@@ -1261,7 +1261,7 @@ msgid ""
 "they must fall back or stand their ground.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:826
 #, no-wrap
 msgid ""
@@ -1272,7 +1272,7 @@ msgid ""
 "edge outside the wood.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:831
 #, no-wrap
 msgid ""
@@ -1283,7 +1283,7 @@ msgid ""
 "touching enemy flyers then it must fall back.#\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:837
 msgid ""
 "Exceptions: a flying unit can be pursued by a non-flying unit when charged "
@@ -1720,7 +1720,7 @@ msgstr ""
 msgid "Optional rule"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/combat.adoc:1167
 msgid ""
 "If the enemy is destroyed in the first round of combat, the advancing unit "
