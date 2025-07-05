@@ -2,6 +2,37 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry bowmen
+//po4a: entry men-at-arms
+//po4a: entry peasants
+//po4a: entry squires
+//po4a: entry knights
+//po4a: entry grail-knights
+//po4a: entry pegasus-knights
+//po4a: entry trebuchet
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry enchantress
+//po4a: entry unicorn
+//po4a: entry pegasus
+//po4a: entry hippogriff
+//po4a: entry grail-reliquae
+:bowmen: Bowmen
+:men-at-arms: Men-at-arms
+:peasants: Peasants
+:squires: Squires
+:knights: Knights
+:grail-knights: Grail Knights
+:pegasus-knights: Pegasus Knights
+:trebuchet: Trebuchet
+:general: General
+:hero: Hero
+:enchantress: Enchantress
+:unicorn: Unicorn
+:pegasus: Pegasus
+:hippogriff: Hippogriff
+:grail-reliquae: Grail Reliquae
+include::partial$table-attributes.adoc[]
 
 image:bretonnia/logo.webp[width=92,height=106,float="right"]
 Bretonnia has grown into a powerful and influential nation

@@ -2,6 +2,41 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry bannermen
+//po4a: entry crossbows
+//po4a: entry handguns
+//po4a: entry terracotta-warriors
+//po4a: entry maneaters
+//po4a: entry chariots
+//po4a: entry imperial-cavalry
+//po4a: entry hu-cavalry
+//po4a: entry rocket-launcher
+//po4a: entry triple-bows
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry sorcerer
+//po4a: entry chariot
+//po4a: entry celestial-dragon
+//po4a: entry tiger
+//po4a: entry qilin
+:bannermen: Bannermen
+:crossbows: Crossbows
+:handguns: Handguns
+:terracotta-warriors: Terracotta Warriors
+:maneaters: Maneaters
+:chariots: Chariots
+:imperial-cavalry: Imperial Cavalry
+:hu-cavalry: Hu Cavalry
+:rocket-launcher: Rocket Launcher
+:triple-bows: Triple Bows
+:general: General
+:hero: Hero
+:sorcerer: Sorcerer
+:chariot: Chariot
+:celestial-dragon: Celestial Dragon
+:tiger: Tiger
+:qilin: Qilin
+include::partial$table-attributes.adoc[]
 
 image:cathay/logo.webp[width=170,height=172,float="right"]
 Locate far to the east of the Old World, the Grand Empire of

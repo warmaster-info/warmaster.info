@@ -2,7 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
-
+//po4a: entry bull-ogres
+//po4a: entry leadbelchers
+//po4a: entry ironguts
+//po4a: entry yhetees
+//po4a: entry gnoblars
+//po4a: entry gorgers
+//po4a: entry rhinox-riders
+//po4a: entry sabretusks
+//po4a: entry slave-giant
+//po4a: entry scrap-launcher
+//po4a: entry tyrant
+//po4a: entry bruiser
+//po4a: entry butcher
+//po4a: entry bull-rhinox
+:bull-ogres: Bull Ogres
+:leadbelchers: Leadbelchers
+:ironguts: Ironguts
+:yhetees: Yhetees
+:gnoblars: Gnoblars
+:gorgers: Gorgers
+:rhinox-riders: Rhinox Riders
+:sabretusks: Sabretusks
+:slave-giant: Slave Giant
+:scrap-launcher: Scrap Launcher
+:tyrant: Tyrant
+:bruiser: Bruiser
+:butcher: Butcher
+:bull-rhinox: Bull Rhinox
+include::partial$table-attributes.adoc[]
 
 image:ogre-kingdoms/logo.webp[width=141,height=116,float="right"]
 Far to the east of the Old World lie the savage Ogre Kingdoms.

@@ -2,6 +2,37 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry gor
+//po4a: entry ungor
+//po4a: entry bestigors
+//po4a: entry minotaurs
+//po4a: entry centigors
+//po4a: entry chaos-hounds
+//po4a: entry tuskgor-chariots
+//po4a: entry dragon-ogres
+//po4a: entry chaos-spawn
+//po4a: entry dragon-ogre-shaggoth
+//po4a: entry beastlord
+//po4a: entry doombull
+//po4a: entry wargor
+//po4a: entry bray-shaman
+//po4a: entry tuskgor-chariot
+:gor: Gor
+:ungor: Ungor
+:bestigors: Bestigors
+:minotaurs: Minotaurs
+:centigors: Centigors
+:chaos-hounds: Chaos Hounds
+:tuskgor-chariots: Tuskgor Chariots
+:dragon-ogres: Dragon Ogres
+:chaos-spawn: Chaos Spawn
+:dragon-ogre-shaggoth: Dragon Ogre Shaggoth
+:beastlord: Beastlord
+:doombull: Doombull
+:wargor: Wargor
+:bray-shaman: Bray Shaman
+:tuskgor-chariot: Tuskgor Chariot
+include::partial$table-attributes.adoc[]
 
 image:beastmen/logo.webp[width=116,height=117,float="right"]
 In the dark forests of the Old World dwell the favoured

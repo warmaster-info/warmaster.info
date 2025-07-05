@@ -1,18 +1,18 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Chaos Warriors	Infantry	4	4	4+	–	3	140	1/–	–
-Chaos Marauders	Infantry	3	3	5+	–	3	60	1/–	–
-Ogres	Infantry	4	4	5+	–	3	105	–/1	<<ogres>>
-Trolls	Infantry	5	3	5+	–	3	110	–/3	<<trolls>>
-Marauder Horsemen	Cavalry	3	3	5+	–	3	90	–/4	–
-Chaos Knights	Cavalry	4	4	4+	–	3	180	–/2	–
-Chaos Hounds	Cavalry	3	3	–	–	3	40	–/2	–
-Chaos Chariots	Chariot	3	3	5+	–	3	95	–/3	–
-Harpies	Monster	2	3	6+	–	3	65	–/1	<<harpies>>
-Dragon Ogres	Monster	6	4	5+	–	3	230	–/1	<<dragon-ogres>>
-Chaos Spawn	Monster	3/3	4	3+	–	1	110	–/2	<<spawn>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{chaos-warriors}	{infantry}	4	4	4+	–	3	140	1/–	–
+{chaos-marauders}	{infantry}	3	3	5+	–	3	60	1/–	–
+{ogres}	{infantry}	4	4	5+	–	3	105	–/1	<<ogres>>
+{trolls}	{infantry}	5	3	5+	–	3	110	–/3	<<trolls>>
+{marauder-horsemen}	{cavalry}	3	3	5+	–	3	90	–/4	–
+{chaos-knights}	{cavalry}	4	4	4+	–	3	180	–/2	–
+{chaos-hounds}	{cavalry}	3	3	–	–	3	40	–/2	–
+{chaos-chariots}	{chariot}	3	3	5+	–	3	95	–/3	–
+{harpies}	{monster}	2	3	6+	–	3	65	–/1	<<harpies>>
+{dragon-ogres}	{monster}	6	4	5+	–	3	230	–/1	<<dragon-ogres>>
+{chaos-spawn}	{monster}	3/3	4	3+	–	1	110	–/2	<<spawn>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-General	General	+2	–	–	9	1	125	1	–
-Hero	Hero	+1	–	–	8	1	80	–/1	–
-Sorcerer	Wizard	+1	–	–	8	1	90	–/1	–
-Chaos Dragon	Monstrous Mount	+3/3	–	–	–	–	+100	–/1	<<chaos-dragon>>
-Chariot	Chariot Mount	+1	–	–	–	–	+10	–/1	<<chariot-mount>>
+{general}	{general}	+2	–	–	9	1	125	1	–
+{hero}	{hero}	+1	–	–	8	1	80	–/1	–
+{sorcerer}	{wizard}	+1	–	–	8	1	90	–/1	–
+{chaos-dragon}	{monstrous-mount}	+3/3	–	–	–	–	+100	–/1	<<chaos-dragon>>
+{chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	<<chariot-mount>>

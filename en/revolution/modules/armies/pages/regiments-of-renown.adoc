@@ -2,6 +2,106 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry pirazzos-lost-legion
+//po4a: entry alcatani-fellowship
+//po4a: entry riccos-republican-guard
+//po4a: entry leopolds-leopard-company
+//po4a: entry marksmen-of-miragliano
+//po4a: entry braganzas-besiegers
+//po4a: entry lumpin-croops-cocks
+//po4a: entry vesperos-vendetta
+//po4a: entry the-cursed-company
+//po4a: entry mengils-manflyers
+//po4a: entry anakondas-amazons
+//po4a: entry bearmen-of-urslo
+//po4a: entry rugluds-armoured-orcs
+//po4a: entry long-drongs-slayer-pirates
+//po4a: entry golgfags-mercenary-ogres
+//po4a: entry volands-venators
+//po4a: entry al-muktars-desert-dogs
+//po4a: entry oglah-khans-wolfboyz
+//po4a: entry tichi-huichis-raiders
+//po4a: entry birdmen-of-catrazza
+//po4a: entry bronzinos-galloper-guns
+//po4a: entry asarnil-the-dragonlord
+//po4a: entry gotrek-and-felix
+//po4a: entry the-witch-hunters
+:pirazzos-lost-legion: Pirazzo’s Lost Legion
+:alcatani-fellowship: Alcatani Fellowship
+:riccos-republican-guard: Ricco’s Republican Guard
+:leopolds-leopard-company: Leopold’s Leopard Company
+:marksmen-of-miragliano: Marksmen of Miragliano
+:braganzas-besiegers: Braganza’s Besiegers
+:lumpin-croops-cocks: Lumpin Croop’s Cocks
+:vesperos-vendetta: Vespero’s Vendetta
+:the-cursed-company: The Cursed Company
+:mengils-manflyers: Mengil’s Manflyers
+:anakondas-amazons: Anakonda’s Amazons
+:bearmen-of-urslo: Bearmen of Urslo
+:rugluds-armoured-orcs: Ruglud’s Armoured Orcs
+:long-drongs-slayer-pirates: Long Drong’s Slayer Pirates
+:golgfags-mercenary-ogres: Golgfag’s Mercenary Ogres
+:volands-venators: Voland’s Venators
+:al-muktars-desert-dogs: Al Muktar’s Desert Dogs
+:oglah-khans-wolfboyz: Oglah Khan’s Wolfboyz
+:tichi-huichis-raiders: Tichi Huichi’s Raiders
+:birdmen-of-catrazza: Birdmen of Catrazza
+:bronzinos-galloper-guns: Bronzino’s Galloper Guns
+:asarnil-the-dragonlord: Asarnil The Dragonlord
+:gotrek-and-felix: Gotrek and Felix
+:the-witch-hunters: The Witch Hunters
+//po4a: entry the-empire
+//po4a: entry tomb-kings
+//po4a: entry chaos
+//po4a: entry orcs
+//po4a: entry high-elves
+//po4a: entry dwarfs
+//po4a: entry skaven
+//po4a: entry lizardmen
+//po4a: entry bretonnia
+//po4a: entry kislev
+//po4a: entry dark-elves
+//po4a: entry daemons
+//po4a: entry vampire-counts
+//po4a: entry araby
+//po4a: entry dogs-of-war
+//po4a: entry ogre-kingdoms
+//po4a: entry albion
+//po4a: entry goblins
+//po4a: entry witch-hunters
+//po4a: entry chaos-dwarfs
+//po4a: entry wood-elves
+//po4a: entry beastmen
+//po4a: entry norse
+//po4a: entry cathay
+//po4a: entry nippon
+:the-empire: The Empire
+:tomb-kings: Tomb Kings
+:chaos: Chaos
+:orcs: Orcs
+:high-elves: High Elves
+:dwarfs: Dwarfs
+:skaven: Skaven
+:lizardmen: Lizardmen
+:bretonnia: Bretonnia
+:kislev: Kislev
+:dark-elves: Dark Elves
+:daemons: Daemons
+:vampire-counts: Vampire Counts
+:araby: Araby
+:dogs-of-war: Dogs of War
+:ogre-kingdoms: Ogre Kingdoms
+:albion: Albion
+:goblins: Goblins
+:witch-hunters: Witch Hunters
+:chaos-dwarfs: Chaos Dwarfs
+:wood-elves: Wood Elves
+:beastmen: Beastmen
+:norse: Norse
+:cathay: Cathay
+:nippon: Nippon
+
+include::partial$table-attributes.adoc[]
 
 // The, list, little, possibilities
 The Regiments of Renown is an army list expansion designed to add a little extra flavour and expand the possibilities of

@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry winged-lancers
+//po4a: entry horse-archers
+//po4a: entry cossacks
+//po4a: entry bowmen
+//po4a: entry red-guard
+//po4a: entry axemen
+//po4a: entry bears
+//po4a: entry war-wagon
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry shaman
+//po4a: entry bear
+//po4a: entry yozhin
+//po4a: entry tzarina
+:winged-lancers: Winged Lancers
+:horse-archers: Horse Archers
+:cossacks: Cossacks
+:bowmen: Bowmen
+:red-guard: Red Guard
+:axemen: Axemen
+:bears: Bears
+:war-wagon: War Wagon
+:general: General
+:hero: Hero
+:shaman: Shaman
+:bear: Bear
+:yozhin: Yozhin
+:tzarina: Tzarina
+include::partial$table-attributes.adoc[]
 
 image:kislev/logo.webp[width=100,height=113,float="right"]
 The land of Kislev lies in the north-eastern portion of the Old

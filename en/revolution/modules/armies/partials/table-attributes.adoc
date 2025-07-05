@@ -1,0 +1,51 @@
+// Stat table header line
+//po4a: entry troop
+//po4a: entry type
+//po4a: entry attacks
+//po4a: entry hits
+//po4a: entry armour
+//po4a: entry command
+//po4a: entry unit-size
+//po4a: entry points-per-unit
+//po4a: entry min-max
+//po4a: entry special-rules
+:troop: Troop
+:type: Type
+:attacks: Attacks
+:hits: Hits
+:armour: Armour
+:command: Command
+:unit-size: Unit size
+:points-per-unit: Points per unit
+:min-max: Min/max
+:special-rules: Special
+
+// Unit types
+//po4a: entry infantry
+//po4a: entry cavalry
+//po4a: entry chariot
+//po4a: entry monster
+//po4a: entry artillery
+//po4a: entry machine
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry wizard
+//po4a: entry chariot-mount
+//po4a: entry monstrous-mount
+//po4a: entry special-mount
+//po4a: entry special-bonus
+//po4a: entry special-type
+:infantry: Infantry
+:cavalry: Cavalry
+:chariot: Chariot
+:monster: Monster
+:artillery: Artillery
+:machine: Machine
+:general: General
+:hero: Hero
+:wizard: Wizard
+:chariot-mount: Chariot mount
+:monstrous-mount: Monstrous mount
+:special-mount: Special mount
+:special-bonus: Special bonus
+:special-type: Special

@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry skinks
+//po4a: entry saurus
+//po4a: entry temple-guard
+//po4a: entry salamanders
+//po4a: entry kroxigor
+//po4a: entry cold-one-riders
+//po4a: entry terradons
+//po4a: entry stegadon
+//po4a: entry slann-mage-palanquin
+//po4a: entry saurus-hero
+//po4a: entry skink-hero
+//po4a: entry skink-shaman
+//po4a: entry stegadon-mount
+//po4a: entry carnosaur
+:skinks: Skinks
+:saurus: Saurus
+:temple-guard: Temple Guard
+:salamanders: Salamanders
+:kroxigor: Kroxigor
+:cold-one-riders: Cold One Riders
+:terradons: Terradons
+:stegadon: Stegadon
+:slann-mage-palanquin: Slann Mage Palanquin
+:saurus-hero: Saurus Hero
+:skink-hero: Skink Hero
+:skink-shaman: Skink Shaman
+:stegadon-mount: Stegadon Mount
+:carnosaur: Carnosaur
+include::partial$table-attributes.adoc[]
 
 image:lizardmen/logo.webp[width=99,height=92,float="right"]
 Before Chaos came into the world there was a more ancient

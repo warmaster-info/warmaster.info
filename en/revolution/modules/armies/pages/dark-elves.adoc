@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry spearmen
+//po4a: entry crossbowmen
+//po4a: entry witch-elves
+//po4a: entry dark-riders
+//po4a: entry cold-one-knights
+//po4a: entry harpies
+//po4a: entry war-hydra
+//po4a: entry elven-bolt-thrower
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry sorceress
+//po4a: entry manticore
+//po4a: entry chariot
+//po4a: entry cauldron-of-blood
+:spearmen: Spearmen
+:crossbowmen: Crossbowmen
+:witch-elves: Witch Elves
+:dark-riders: Dark Riders
+:cold-one-knights: Cold One Knights
+:harpies: Harpies
+:war-hydra: War Hydra
+:elven-bolt-thrower: Elven Bolt Thrower
+:general: General
+:hero: Hero
+:sorceress: Sorceress
+:manticore: Manticore
+:chariot: Chariot
+:cauldron-of-blood: Cauldron of Blood
+include::partial$table-attributes.adoc[]
 
 image:dark-elves/logo.webp[width=111,height=92,float="right"]
 Over five thousand years ago a great civil war erupted

@@ -2,7 +2,46 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
-:dragon: Forest Dragon
+//po4a: entry glade-guard
+//po4a: entry eternal-guard
+//po4a: entry wardancers
+//po4a: entry waywatchers
+//po4a: entry dryads
+//po4a: entry treekin
+//po4a: entry glade-riders
+//po4a: entry wild-riders
+//po4a: entry warhawk-riders
+//po4a: entry treeman
+//po4a: entry general
+//po4a: entry noble
+//po4a: entry treeman-ancient
+//po4a: entry branchwraith
+//po4a: entry spell-weaver
+//po4a: entry giant-stag
+//po4a: entry unicorn
+//po4a: entry warhawk
+//po4a: entry forest-dragon
+:glade-guard: Glade Guard
+:eternal-guard: Eternal Guard
+:wardancers: Wardancers
+:waywatchers: Waywatchers
+:dryads: Dryads
+:treekin: Treekin
+:glade-riders: Glade Riders
+:wild-riders: Wild Riders
+:warhawk-riders: Warhawk Riders
+:treeman: Treeman
+:general: General
+:noble: Noble
+:treeman-ancient: Treeman Ancient
+:branchwraith: Branchwraith
+:spell-weaver: Spell Weaver
+:giant-stag: Giant Stag
+:unicorn: Unicorn
+:warhawk: Warhawk
+:forest-dragon: Forest Dragon
+:dragon: {forest-dragon}
+include::partial$table-attributes.adoc[]
 
 image:wood-elves/logo.webp[width=105,height=99,float="right"]
 Elves first settled in the forest of Loren long before the

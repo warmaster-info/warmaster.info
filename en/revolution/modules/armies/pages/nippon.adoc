@@ -2,6 +2,37 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry ashigaru
+//po4a: entry ashigaru-bowmen
+//po4a: entry ashigaru-teppo
+//po4a: entry samurai
+//po4a: entry mikata
+//po4a: entry ninja
+//po4a: entry oni
+//po4a: entry samurai-cavalry
+//po4a: entry komainu
+//po4a: entry tengu
+//po4a: entry shogun
+//po4a: entry daimyo
+//po4a: entry shugenja
+//po4a: entry tatsu
+//po4a: entry shrine
+:ashigaru: Ashigaru
+:ashigaru-bowmen: Ashigaru Bowmen
+:ashigaru-teppo: Ashigaru Teppo
+:samurai: Samurai
+:mikata: Mikata (Ronin & Monks)
+:ninja: Ninja
+:oni: Oni
+:samurai-cavalry: Samurai Cavalry
+:komainu: Komainu
+:tengu: Tengu
+:shogun: Shogun
+:daimyo: Daimyo
+:shugenja: Shugenja
+:tatsu: Tatsu
+:shrine: Shrine
+include::partial$table-attributes.adoc[]
 
 // Initial large letter is missing
 // Bretonnian, Shogun:

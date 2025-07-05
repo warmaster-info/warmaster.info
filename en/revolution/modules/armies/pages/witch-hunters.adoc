@@ -2,6 +2,31 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry zealots
+//po4a: entry halberdiers
+//po4a: entry crossbowmen
+//po4a: entry handgunners
+//po4a: entry flagellants
+//po4a: entry warhounds
+//po4a: entry knights
+//po4a: entry pistoliers
+//po4a: entry cannon
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry warrior-priest
+:zealots: Zealots
+:halberdiers: Halberdiers
+:crossbowmen: Crossbowmen
+:handgunners: Handgunners
+:flagellants: Flagellants
+:warhounds: Warhounds
+:knights: Knights
+:pistoliers: Pistoliers
+:cannon: Cannon
+:general: General
+:hero: Hero
+:warrior-priest: Warrior Priest
+include::partial$table-attributes.adoc[]
 
 image:witch-hunters/logo.webp[width=109,height=108,float="right"]
 Witch Hunters are some of the most characterful and

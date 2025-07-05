@@ -1,16 +1,16 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Spearmen 	Infantry 	3	3	5+ 	– 	3	60	2/– 	– 
-Crossbowmen 	Infantry 	3/2 	3	6+ 	– 	3	75	1/– 	<<crossbowmen-and-dark-riders>>
-Witch Elves 	Infantry 	5	3	0	– 	3	70	–/2 	<<witch-elves>>
-Dark Riders 	Cavalry 	3/2 	3	6+ 	– 	3	95	–/3 	<<crossbowmen-and-dark-riders>>
-Cold One Knights 	Cavalry 	3	3	4+ 	– 	3	130	–/3 	<<cold-one-knights>>
-Harpies 	Monster 	2	3	6+ 	– 	3	65	–/1 	<<harpies>>
-War Hydra 	Monster 	6/2 	4	4+ 	– 	1	125	–/1 	<<war-hydra>>
-Elven Bolt Thrower 	Artillery 	1/3 	2	0	– 	2	55	–/1 	<<elven-bolt-thrower>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{spearmen}	{infantry}	3	3	5+ 	– 	3	60	2/– 	– 
+{crossbowmen}	{infantry}	3/2 	3	6+ 	– 	3	75	1/– 	<<crossbowmen-and-dark-riders>>
+{witch-elves}	{infantry}	5	3	0	– 	3	70	–/2 	<<witch-elves>>
+{dark-riders}	{cavalry}	3/2 	3	6+ 	– 	3	95	–/3 	<<crossbowmen-and-dark-riders>>
+{cold-one-knights}	{cavalry}	3	3	4+ 	– 	3	130	–/3 	<<cold-one-knights>>
+{harpies}	{monster}	2	3	6+ 	– 	3	65	–/1 	<<harpies>>
+{war-hydra}	{monster}	6/2 	4	4+ 	– 	1	125	–/1 	<<war-hydra>>
+{elven-bolt-thrower}	{artillery}	1/3 	2	0	– 	2	55	–/1 	<<elven-bolt-thrower>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-General 	General 	+2	– 	– 	10	1	155	1	<<general>>
-Hero 	Hero 	+1	– 	– 	8	1	80	–/1 	– 
-Sorceress 	Wizard 	+0	– 	– 	8	1	80	–/1 	– 
-Manticore 	Monstrous Mount	+2	– 	– 	– 	– 	+80	–/1 	<<manticore>>
-Chariot 	Chariot Mount 	+1	– 	– 	– 	– 	+10	–/1 	– 
-Cauldron of Blood 	Chariot Mount 	+2	– 	– 	– 	– 	+15	–/1 	<<cauldron-of-blood>>
+{general}	{general} 	+2	– 	– 	10	1	155	1	<<general>>
+{hero}	{hero}	+1	– 	– 	8	1	80	–/1 	– 
+{sorceress}	{wizard}	+0	– 	– 	8	1	80	–/1 	– 
+{manticore}	{monstrous-mount}	+2	– 	– 	– 	– 	+80	–/1 	<<manticore>>
+{chariot}	{chariot-mount}	+1	– 	– 	– 	– 	+10	–/1 	– 
+{cauldron-of-blood}	{chariot-mount}	+2	– 	– 	– 	– 	+15	–/1 	<<cauldron-of-blood>>

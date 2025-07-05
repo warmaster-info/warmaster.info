@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-05 22:25+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,44 +16,103 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#. type: Attribute :ogres:
+#: en/revolution/modules/armies/pages/albion.adoc:21
+#: en/revolution/modules/armies/pages/chaos.adoc:23
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:27
+#: en/revolution/modules/armies/pages/orcs.adoc:26
+#, no-wrap
+msgid "Ogres"
+msgstr ""
+
+#. type: Attribute :giant:
+#: en/revolution/modules/armies/pages/albion.adoc:25
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:33
+#: en/revolution/modules/armies/pages/goblins.adoc:25
+#: en/revolution/modules/armies/pages/orcs.adoc:30
+#, no-wrap
+msgid "Giant"
+msgstr ""
+
+#. type: Attribute :general:
+#: en/revolution/modules/armies/pages/albion.adoc:28
+#: en/revolution/modules/armies/pages/araby.adoc:27
+#: en/revolution/modules/armies/pages/bretonnia.adoc:28
+#: en/revolution/modules/armies/pages/cathay.adoc:32
+#: en/revolution/modules/armies/pages/chaos.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/dark-elves.adoc:27
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
+#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/empire.adoc:30
+#: en/revolution/modules/armies/pages/high-elves.adoc:27
+#: en/revolution/modules/armies/pages/kislev.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/wood-elves.adoc:34
+#: en/revolution/modules/armies/partials/table-attributes.adoc:44
+#, no-wrap
+msgid "General"
+msgstr ""
+
+#. type: Attribute :hero:
+#: en/revolution/modules/armies/pages/albion.adoc:29
+#: en/revolution/modules/armies/pages/araby.adoc:28
+#: en/revolution/modules/armies/pages/bretonnia.adoc:29
+#: en/revolution/modules/armies/pages/cathay.adoc:33
+#: en/revolution/modules/armies/pages/chaos.adoc:33
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/dark-elves.adoc:28
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
+#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/empire.adoc:31
+#: en/revolution/modules/armies/pages/high-elves.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/norse.adoc:29
+#: en/revolution/modules/armies/pages/skaven.adoc:30
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/partials/table-attributes.adoc:45
+#, no-wrap
+msgid "Hero"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:72
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -64,14 +123,116 @@ msgstr ""
 msgid "Special rules"
 msgstr ""
 
-#. type: Title =
+#. type: Attribute :knights:
+#: en/revolution/modules/armies/pages/araby.adoc:22
+#: en/revolution/modules/armies/pages/bretonnia.adoc:24
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:31
+#: en/revolution/modules/armies/pages/empire.adoc:25
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:23
+#, no-wrap
+msgid "Knights"
+msgstr ""
+
+#. type: Attribute :wizard:
+#: en/revolution/modules/armies/pages/araby.adoc:29
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:38
+#: en/revolution/modules/armies/pages/empire.adoc:32
+#: en/revolution/modules/armies/pages/high-elves.adoc:29
+#: en/revolution/modules/armies/partials/table-attributes.adoc:46
+#, no-wrap
+msgid "Wizard"
+msgstr ""
+
+#. type: Attribute :crossbowmen:
+#: en/revolution/modules/armies/pages/dark-elves.adoc:20
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:24
+#: en/revolution/modules/armies/pages/empire.adoc:22
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:19
+#, no-wrap
+msgid "Crossbowmen"
+msgstr ""
+
+#. type: Attribute :dogs-of-war:
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:92
 #, no-wrap
 msgid "Dogs of War"
 msgstr ""
 
+#. type: Attribute :pikemen:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:23
+#, no-wrap
+msgid "Pikemen"
+msgstr ""
+
+#. type: Attribute :handgunners:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:25
+#: en/revolution/modules/armies/pages/dwarfs.adoc:17
+#: en/revolution/modules/armies/pages/empire.adoc:21
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:20
+#, no-wrap
+msgid "Handgunners"
+msgstr ""
+
+#. type: Attribute :swordsmen:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:26
+#, no-wrap
+msgid "Swordsmen"
+msgstr ""
+
+#. type: Attribute :dwarfs:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:28
+#: en/revolution/modules/armies/pages/dwarfs.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:83
+#, no-wrap
+msgid "Dwarfs"
+msgstr ""
+
+#. type: Attribute :marauders:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:29
+#, no-wrap
+msgid "Marauders"
+msgstr ""
+
+#. type: Attribute :light-cavalry:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:30
+#, no-wrap
+msgid "Light Cavalry"
+msgstr ""
+
+#. type: Attribute :galloper-guns:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:32
+#, no-wrap
+msgid "Galloper Guns"
+msgstr ""
+
+#. type: Attribute :birdmen:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:34
+#, no-wrap
+msgid "Birdmen"
+msgstr ""
+
+#. type: Attribute :paymaster:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:37
+#, no-wrap
+msgid "Paymaster"
+msgstr ""
+
+#. type: Attribute :griffon:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:39
+#: en/revolution/modules/armies/pages/empire.adoc:33
+#, no-wrap
+msgid "Griffon"
+msgstr ""
+
+#. type: Attribute :pay-wagon:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:40
+#, no-wrap
+msgid "Pay Wagon"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:17
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:54
 msgid ""
 "image:dogs-of-war/logo.webp[width=84,height=102,float=\"right\"] Unlike "
 "other Warmaster armies, the Dogs of War do not come from a particular place, "
@@ -85,7 +246,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:29
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:66
 msgid ""
 "As already explained, not all mercenaries are human, although many are. "
 "Amongst the Dogs of War, freebooters from the frozen wastes of Norsca rub "
@@ -99,7 +260,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:43
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:80
 msgid ""
 "Mercenary armies of Dogs of War fight all over the world.  They are drawn to "
 "places where fortunes can be won by ruthless adventurers. The treasure-"
@@ -114,7 +275,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:58
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:95
 msgid ""
 "Although Dogs of War ply their bloody trade to every point of the compass, "
 "the most notorious breeding-ground of mercenaries is the land of Tilea in "
@@ -131,7 +292,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:72
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:109
 msgid ""
 "Tilea is also a melting-pot to which all kinds of mercenaries come with the "
 "notion of joining whatever overseas adventure is flavour of the month. Such "
@@ -147,13 +308,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:76
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:113
 #, no-wrap
 msgid "Dogs of War army selector"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:81
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:118
 #, no-wrap
 msgid "include::partial$dogs-of-war.tsv[]\n"
 msgstr ""
@@ -167,15 +328,15 @@ msgstr ""
 #. 8: have, its
 #. 11: breath fire, duplicate sentence removed, its → his
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:94
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:150
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:131
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:250
 #, no-wrap
 msgid "[[pikemen,†1]]1. Pikemen"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:105
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:161
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:142
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:261
 msgid ""
 "The pike is the traditional weapon of the mercenaries of Tilea. Twice as "
 "long as a spear and even longer than a cavalryman’s lance this is a truly "
@@ -188,8 +349,8 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:112
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:168
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:149
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:268
 msgid ""
 "Pikemen stands may only give or receive support by other infantry or Pikemen "
 "stands that are facing the same direction and touching their flank with the "
@@ -199,22 +360,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:115
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:171
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:152
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:271
 msgid ""
 "Pikemen are based as cavalry – i.e. the models are orientated towards the "
 "narrow edge of the base."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:118
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:90
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:155
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:115
 #, no-wrap
 msgid "[[handgunners,†2]]2. Handgunners"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:125
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:162
 msgid ""
 "A handgun shot can pierce armour far more easily than an arrow or a crossbow "
 "bolt. Therefore, count enemy Armour values as one worse (−1) than normal. "
@@ -225,14 +386,14 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:126
-#: en/revolution/modules/armies/pages/orcs.adoc:100
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:163
+#: en/revolution/modules/armies/pages/orcs.adoc:135
 #, no-wrap
 msgid "[[ogres,†3]]3. Ogres"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:134
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:171
 msgid ""
 "Ogres flock to Dogs of War armies for the chance of a good fight and as much "
 "as they can eat. These creatures are notoriously fond of fresh human meat, "
@@ -243,13 +404,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:135
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:172
 #, no-wrap
 msgid "[[light-cavalry,†4]]4. Light Cavalry"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:144
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:181
 msgid ""
 "Dogs of War armies make great use of expert light cavalry from all around "
 "the world. Empire Pistoliers, Arabian Desert Riders, Hobgoblin Wolf Riders "
@@ -262,13 +423,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:145
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:182
 #, no-wrap
 msgid "[[galloper-guns,†5]]5. Galloper Guns"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:154
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:191
 msgid ""
 "These are lighter artillery than Dwarf or Empire cannons; due to this they "
 "are shorter ranged, but can make up for their lighter shot by producing a "
@@ -281,19 +442,19 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:155
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:192
 #, no-wrap
 msgid "[[giant,†6]]6. Giant"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:158
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:195
 #, no-wrap
 msgid "[[birdmen,†7]]7. Birdmen"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:164
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:201
 msgid ""
 "Only half-mad nutters like Tileans would try to fly! The Birdmen wear insane "
 "contraptions of light wood covered in canvas that are shaped like wings and "
@@ -303,20 +464,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:167
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:204
 msgid ""
 "Birdmen are based facing the long edge of the base in the same way as other "
 "infantry."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:168
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:205
 #, no-wrap
 msgid "[[paymaster-pay-wagon,†8]]8. Paymaster, Pay Wagon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:173
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:210
 msgid ""
 "There may only ever be one Paymaster in the army. Only the Paymaster may use "
 "the Wagon. If the Pay Wagon is used the Paymaster may bribe the units around "
@@ -325,13 +486,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:174
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:211
 #, no-wrap
 msgid "[[griffon,†9]]9. Griffon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:181
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:218
 msgid ""
 "Generals, Wizards and Heroes may ride Griffons.  The Griffon combines the "
 "appearance of a lion and an eagle.  These creatures are hatched from stolen "
@@ -342,7 +503,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:185
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:222
 #, no-wrap
 msgid "Dogs of War spells"
 msgstr ""

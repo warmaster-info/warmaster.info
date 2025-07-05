@@ -2,6 +2,37 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry halberdiers
+//po4a: entry handgunners
+//po4a: entry crossbowmen
+//po4a: entry flagellants
+//po4a: entry skirmishers
+//po4a: entry knights
+//po4a: entry pistoliers
+//po4a: entry helblaster
+//po4a: entry cannon
+//po4a: entry steam-tank
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry wizard
+//po4a: entry griffon
+//po4a: entry war-altar
+:halberdiers: Halberdiers
+:handgunners: Handgunners
+:crossbowmen: Crossbowmen
+:flagellants: Flagellants
+:skirmishers: Skirmishers
+:knights: Knights
+:pistoliers: Pistoliers
+:helblaster: Helblaster
+:cannon: Cannon
+:steam-tank: Steam Tank
+:general: General
+:hero: Hero
+:wizard: Wizard
+:griffon: Griffon
+:war-altar: War Altar
+include::partial$table-attributes.adoc[]
 
 image:empire/logo.webp[width=83,height=82,float="right"]
 The Empire is by far the largest and most powerful of the

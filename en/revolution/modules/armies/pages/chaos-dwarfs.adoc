@@ -2,6 +2,39 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry chaos-dwarfs
+//po4a: entry blunderbusses
+//po4a: entry hobgoblins
+//po4a: entry black-orcs
+//po4a: entry orc-slaves
+//po4a: entry hobgoblin-wolf-riders
+//po4a: entry bull-centaurs
+//po4a: entry earthshaker-cannon
+//po4a: entry death-rocket
+//po4a: entry bolt-thrower
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry sorcerer
+//po4a: entry great-taurus
+//po4a: entry lammasu
+//po4a: entry sorcerer-lord
+:chaos-dwarfs: Chaos Dwarfs
+:blunderbusses: Blunderbusses
+:hobgoblins: Hobgoblins
+:black-orcs: Black Orcs
+:orc-slaves: Orc Slaves
+:hobgoblin-wolf-riders: Hobgoblin Wolf Riders
+:bull-centaurs: Bull Centaurs
+:earthshaker-cannon: Earthshaker Cannon
+:death-rocket: Death Rocket
+:bolt-thrower: Bolt Thrower
+:general: General
+:hero: Hero
+:sorcerer: Sorcerer
+:great-taurus: Great Taurus
+:lammasu: Lammasu
+:sorcerer-lord: Sorcerer Lord
+include::partial$table-attributes.adoc[]
 
 image:chaos-dwarfs/logo.webp[width=108,height=103,float="right"]
 Many thousands of years ago the Dwarf race moved

@@ -1,19 +1,19 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Orc Warriors	Infantry	4	3	6+	–	3	60	2/–	–
-Black Orcs	Infantry	4	4	5+	–	3	110	–/1	–
-Goblins	Infantry	2/1	3	–	–	3	30	2/–	<<goblins>>
-Trolls	Infantry	5	3	5+	–	3	110	–/3	<<trolls>>
-Ogres	Infantry	4	4	5+	–	3	105	–/1	<<ogres>>
-Boar Riders	Cavalry	4	3	5+	–	3	110	–/–	–
-Wolf Riders	Cavalry	2/1	3	6+	–	3	60	–/–	<<wolf-riders>>
-Wolf Chariots	Chariot	3	3	6+	–	3	75	–/3	–
-Giant	Monster	8	8	5+	–	1	135	–/1	<<giant>>
-Rock Lobber	Artillery	1/3	3	–	–	1	75	–/1	<<rock-lobber>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{orc-warriors}	{infantry}	4	3	6+	–	3	60	2/–	–
+{black-orcs}	{infantry}	4	4	5+	–	3	110	–/1	–
+{goblins}	{infantry}	2/1	3	–	–	3	30	2/–	<<goblins>>
+{trolls}	{infantry}	5	3	5+	–	3	110	–/3	<<trolls>>
+{ogres}	{infantry}	4	4	5+	–	3	105	–/1	<<ogres>>
+{boar-riders}	{cavalry}	4	3	5+	–	3	110	–/–	–
+{wolf-riders}	{cavalry}	2/1	3	6+	–	3	60	–/–	<<wolf-riders>>
+{wolf-chariots}	{chariot}	3	3	6+	–	3	75	–/3	–
+{giant}	{monster}	8	8	5+	–	1	135	–/1	<<giant>>
+{rock-lobber}	{artillery}	1/3	3	–	–	1	75	–/1	<<rock-lobber>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-Orc General	General	+2	–	–	8	1	95	1	–
-Orc Hero	Hero	+1	–	–	8	1	80	–/2	–
-Orc Shaman	Wizard	+0	–	–	7	1	45	–/1	–
-Goblin Hero	Hero	+1	–	–	7	1	45	–/2	–
-Goblin Shaman	Wizard	+0	–	–	6	1	30	–/1	–
-Wyvern	Monstrous Mount	+2	–	–	–	–	+80	–/1	<<wyverns>>
-Chariot	Chariot Mount	+1	–	–	–	–	+10	–/1	<<chariots>>
+{orc-general}	{general}	+2	–	–	8	1	95	1	–
+{orc-hero}	{hero}	+1	–	–	8	1	80	–/2	–
+{orc-shaman}	{wizard}	+0	–	–	7	1	45	–/1	–
+{goblin-hero}	{hero}	+1	–	–	7	1	45	–/2	–
+{goblin-shaman}	{wizard}	+0	–	–	6	1	30	–/1	–
+{wyvern}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<wyverns>>
+{chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	<<chariots>>

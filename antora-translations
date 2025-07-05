@@ -35,7 +35,7 @@ echo -e "${RED}Generate po4a.conf for document translation.${NC}"
 cd en
 echo "[po4a_langs] $languages" > ../po4a.conf
 echo '[po4a_paths] translations/$master.pot $lang:translations/$master.$lang.po' >> ../po4a.conf
-echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0 -o compat=asciidoctor -o noimagetargets -o entry=dragon"' >> ../po4a.conf
+echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0 -o compat=asciidoctor -o noimagetargets"' >> ../po4a.conf
 echo >> ../po4a.conf
 for i in **/*.adoc; do
     component=$(echo $i | sed s/modules[/]//)

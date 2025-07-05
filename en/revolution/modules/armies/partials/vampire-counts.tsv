@@ -1,15 +1,15 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Skeletons	Infantry	2	3	6+	–	3	30	2/–	–
-Zombies	Infantry	2	4	–	–	3	35	2/–	–
-Ghouls	Infantry	4	3	–	–	3	55	–/–	–
-Grave Guard	Infantry	3	3	5+	–	3	60	–/4	–
-Ethereal Host	Infantry	3	4	–	–	3	90	–/2	<<ethereal-host>>
-Black Knights	Cavalry	3	3	4+	–	3	110	–/4	–
-Dire Wolves	Cavalry	2	3	–	–	3	40	–/4	<<dire-wolves>>
-Fell Bats	Monster	2	3	6+	–	3	65	–/1	<<fell-bats>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{skeletons}	{infantry}	2	3	6+	–	3	30	2/–	–
+{zombies}	{infantry}	2	4	–	–	3	35	2/–	–
+{ghouls}	{infantry}	4	3	–	–	3	55	–/–	–
+{grave-guard}	{infantry}	3	3	5+	–	3	60	–/4	–
+{ethereal-host}	{infantry}	3	4	–	–	3	90	–/2	<<ethereal-host>>
+{black-knights}	{cavalry}	3	3	4+	–	3	110	–/4	–
+{dire-wolves}	{cavalry}	2	3	–	–	3	40	–/4	<<dire-wolves>>
+{fell-bats}	{monster}	2	3	6+	–	3	65	–/1	<<fell-bats>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-Vampire Lord	General	+2	–	–	9	1	150	1	<<vampire-lord>>
-Vampire	Hero	+1	–	–	8	1	80	–/2	–
-Necromancer	Wizard	+0	–	–	7	1	45	–/1	–
-Winged Nightmare	Monstrous Mount	+2	–	–	–	–	+80	–/1	<<winged-nightmare>>
-Black Coach	Chariot Mount	+1	–	–	–	–	+40	–/1	<<black-coach>>
+{vampire-lord}	{general}	+2	–	–	9	1	150	1	<<vampire-lord>>
+{vampire}	{hero}	+1	–	–	8	1	80	–/2	–
+{necromancer}	{wizard}	+0	–	–	7	1	45	–/1	–
+{winged-nightmare}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<winged-nightmare>>
+{black-coach}	{chariot-mount}	+1	–	–	–	–	+40	–/1	<<black-coach>>

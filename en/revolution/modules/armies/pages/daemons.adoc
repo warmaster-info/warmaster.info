@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry daemon-hordes
+//po4a: entry daemon-swarm
+//po4a: entry daemon-cavalry
+//po4a: entry daemon-hounds
+//po4a: entry daemon-chariots
+//po4a: entry daemon-beasts
+//po4a: entry daemon-flyers
+//po4a: entry greater-daemon
+//po4a: entry daemon-overlord
+//po4a: entry daemon-lord-hero
+//po4a: entry daemon-sorcerer
+//po4a: entry daemonic-wings
+//po4a: entry favour-of-the-gods
+//po4a: entry wizard-powers
+:daemon-hordes: Daemon Hordes
+:daemon-swarm: Daemon Swarm
+:daemon-cavalry: Daemon Cavalry
+:daemon-hounds: Daemon Hounds
+:daemon-chariots: Daemon Chariots
+:daemon-beasts: Daemon Beasts
+:daemon-flyers: Daemon Flyers
+:greater-daemon: Greater Daemon
+:daemon-overlord: Daemon Overlord
+:daemon-lord-hero: Daemon Lord Hero
+:daemon-sorcerer: Daemon Sorcerer
+:daemonic-wings: Daemonic Wings
+:favour-of-the-gods: Favour of the Gods
+:wizard-powers: Wizard Powers
+include::partial$table-attributes.adoc[]
 
 image:daemons/logo.webp[width=128,height=117,float="right"]
 The world is awash with unseen magic that comes from the

@@ -1,16 +1,16 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Goblins	Infantry	2/1	3	–	–	3	30	4/–	<<goblins>>
-Squig Herd	Infantry	3	3	–	–	3	30	–/–	–
-Trolls	Infantry	5	3	5+	–	3	110	–/4	<<trolls>>
-Wolf Riders	Cavalry	2/1	3	6+	–	3	60	2/–	<<wolf-riders>>
-Wolf Chariots	Chariot	3	3	6+	–	3	75	–/4	–
-Pump Wagon	Chariot	D6	3	5+	–	1	50	–/2	<<pump-wagon>>
-Giant	Monster	8	8	5+	–	1	135	–/1	<<giant>>
-Doom Diver	Artillery	1/3	2	–	–	2	80	–/1	<<doom-diver>>
-Spear Chukka	Artillery	1/2 per stand	2	–	–	2	65	–/2	<<spear-chukka>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{goblins}	{infantry}	2/1	3	–	–	3	30	4/–	<<goblins>>
+{squig-herd}	{infantry}	3	3	–	–	3	30	–/–	–
+{trolls}	{infantry}	5	3	5+	–	3	110	–/4	<<trolls>>
+{wolf-riders}	{cavalry}	2/1	3	6+	–	3	60	2/–	<<wolf-riders>>
+{wolf-chariots}	{chariot}	3	3	6+	–	3	75	–/4	–
+{pump-wagon}	{chariot}	D6	3	5+	–	1	50	–/2	<<pump-wagon>>
+{giant}	{monster}	8	8	5+	–	1	135	–/1	<<giant>>
+{doom-diver}	{artillery}	1/3	2	–	–	2	80	–/1	<<doom-diver>>
+{spear-chukka}	{artillery}	1/2 per stand	2	–	–	2	65	–/2	<<spear-chukka>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-Goblin Warboss	General	+1	–	–	8	1	80	1	–
-Goblin Hero	Hero	+1	–	–	7	1	45	–/4	–
-Goblin Shaman	Wizard	+0	–	–	6	1	30	–/2	–
-Wolf Chariot	Chariot Mount	+1	–	–	–	–	+10	–/1	–
-Wyvern	Monstrous Mount	+2	–	–	–	–	+80	–/1	<<wyvern>>
+{goblin-warboss}	{general}	+1	–	–	8	1	80	1	–
+{goblin-{hero}}	{hero}	+1	–	–	7	1	45	–/4	–
+{goblin-shaman}	{wizard}	+0	–	–	6	1	30	–/2	–
+{wolf-chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	–
+{wyvern}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<wyvern>>

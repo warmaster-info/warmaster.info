@@ -2,6 +2,43 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry pikemen
+//po4a: entry crossbowmen
+//po4a: entry handgunners
+//po4a: entry swordsmen
+//po4a: entry ogres
+//po4a: entry dwarfs
+//po4a: entry marauders
+//po4a: entry light-cavalry
+//po4a: entry knights
+//po4a: entry galloper-guns
+//po4a: entry giant
+//po4a: entry birdmen
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry paymaster
+//po4a: entry wizard
+//po4a: entry griffon
+//po4a: entry pay-wagon
+:pikemen: Pikemen
+:crossbowmen: Crossbowmen
+:handgunners: Handgunners
+:swordsmen: Swordsmen
+:ogres: Ogres
+:dwarfs: Dwarfs
+:marauders: Marauders
+:light-cavalry: Light Cavalry
+:knights: Knights
+:galloper-guns: Galloper Guns
+:giant: Giant
+:birdmen: Birdmen
+:general: General
+:hero: Hero
+:paymaster: Paymaster
+:wizard: Wizard
+:griffon: Griffon
+:pay-wagon: Pay Wagon
+include::partial$table-attributes.adoc[]
 
 image:dogs-of-war/logo.webp[width=84,height=102,float="right"]
 Unlike other Warmaster armies, the Dogs of War do not

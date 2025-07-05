@@ -2,7 +2,34 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
-:dragon: Zombie Dragon
+//po4a: entry skeletons
+//po4a: entry skeleton-bowmen
+//po4a: entry skeleton-cavalry
+//po4a: entry skeleton-chariots
+//po4a: entry carrion
+//po4a: entry bone-giant
+//po4a: entry sphinx
+//po4a: entry skull-chukka
+//po4a: entry bone-thrower
+//po4a: entry tomb-king
+//po4a: entry liche-priest
+//po4a: entry zombie-dragon
+//po4a: entry liche-chariot
+:skeletons: Skeletons
+:skeleton-bowmen: Skeleton Bowmen
+:skeleton-cavalry: Skeleton Cavalry
+:skeleton-chariots: Skeleton Chariots
+:carrion: Carrion
+:bone-giant: Bone Giant
+:sphinx: Sphinx
+:skull-chukka: Skull Chukka
+:bone-thrower: Bone Thrower
+:tomb-king: Tomb King
+:liche-priest: Liche Priest
+:zombie-dragon: Zombie Dragon
+:liche-chariot: Liche Chariot
+:dragon: {zombie-dragon}
+include::partial$table-attributes.adoc[]
 
 // TODO: Logo is half the resolution of all the others.
 

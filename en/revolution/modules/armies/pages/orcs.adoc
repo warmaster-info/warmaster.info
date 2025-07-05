@@ -2,6 +2,41 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry orc-warriors
+//po4a: entry black-orcs
+//po4a: entry goblins
+//po4a: entry trolls
+//po4a: entry ogres
+//po4a: entry boar-riders
+//po4a: entry wolf-riders
+//po4a: entry wolf-chariots
+//po4a: entry giant
+//po4a: entry rock-lobber
+//po4a: entry orc-general
+//po4a: entry orc-hero
+//po4a: entry orc-shaman
+//po4a: entry goblin-hero
+//po4a: entry goblin-shaman
+//po4a: entry wyvern
+//po4a: entry chariot
+:orc-warriors: Orc Warriors
+:black-orcs: Black Orcs
+:goblins: Goblins
+:trolls: Trolls
+:ogres: Ogres
+:boar-riders: Boar Riders
+:wolf-riders: Wolf Riders
+:wolf-chariots: Wolf Chariots
+:giant: Giant
+:rock-lobber: Rock Lobber
+:orc-general: Orc General
+:orc-hero: Orc Hero
+:orc-shaman: Orc Shaman
+:goblin-hero: Goblin Hero
+:goblin-shaman: Goblin Shaman
+:wyvern: Wyvern
+:chariot: Chariot
+include::partial$table-attributes.adoc[]
 
 image:orcs/logo.webp[width=90,height=102,float="right"]
 Once Orcs ruled the whole of the Old World as well as the

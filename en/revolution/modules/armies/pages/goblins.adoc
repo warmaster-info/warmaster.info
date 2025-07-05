@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry goblins
+//po4a: entry squig-herd
+//po4a: entry trolls
+//po4a: entry wolf-riders
+//po4a: entry wolf-chariots
+//po4a: entry pump-wagon
+//po4a: entry giant
+//po4a: entry doom-diver
+//po4a: entry spear-chukka
+//po4a: entry goblin-warboss
+//po4a: entry goblin-hero
+//po4a: entry goblin-shaman
+//po4a: entry wolf-chariot
+//po4a: entry wyvern
+:goblins: Goblins
+:squig-herd: Squig Herd
+:trolls: Trolls
+:wolf-riders: Wolf Riders
+:wolf-chariots: Wolf Chariots
+:pump-wagon: Pump Wagon
+:giant: Giant
+:doom-diver: Doom Diver
+:spear-chukka: Spear Chukka
+:goblin-warboss: Goblin Warboss
+:goblin-hero: Goblin Hero
+:goblin-shaman: Goblin Shaman
+:wolf-chariot: Wolf Chariot
+:wyvern: Wyvern
+include::partial$table-attributes.adoc[]
 
 image:goblins/logo.webp[width=108,height=108,float="right"]
 Goblins are small, green, vicious, mean-spirited and generally

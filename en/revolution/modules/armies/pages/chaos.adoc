@@ -2,7 +2,40 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
-:dragon: Chaos Dragon
+//po4a: entry chaos-warriors
+//po4a: entry chaos-marauders
+//po4a: entry ogres
+//po4a: entry trolls
+//po4a: entry marauder-horsemen
+//po4a: entry chaos-knights
+//po4a: entry chaos-hounds
+//po4a: entry chaos-chariots
+//po4a: entry harpies
+//po4a: entry dragon-ogres
+//po4a: entry chaos-spawn
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry sorcerer
+//po4a: entry chaos-dragon
+//po4a: entry chariot
+:chaos-warriors: Chaos Warriors
+:chaos-marauders: Chaos Marauders
+:ogres: Ogres
+:trolls: Trolls
+:marauder-horsemen: Marauder Horsemen
+:chaos-knights: Chaos Knights
+:chaos-hounds: Chaos Hounds
+:chaos-chariots: Chaos Chariots
+:harpies: Harpies
+:dragon-ogres: Dragon Ogres
+:chaos-spawn: Chaos Spawn
+:general: General
+:hero: Hero
+:sorcerer: Sorcerer
+:chaos-dragon: Chaos Dragon
+:chariot: Chariot
+:dragon: {chaos-dragon}
+include::partial$table-attributes.adoc[]
 
 image:chaos/logo.webp[width=83,height=77,float="right"]
 The tribes of the northlands are called Marauders by the

@@ -1,17 +1,17 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Gor	Infantry	4	3	6+	–	3	60	2/–	<<gor-ungor>>
-Ungor	Infantry	3/1	3	–	–	3	45	2/–	<<gor-ungor>>
-Bestigors	Infantry	4	3	5+	–	3	75	–/2	–
-Minotaurs	Infantry	5	4	–	–	3	80	–/2	<<minotaurs>>
-Centigors	Cavalry	3/1	3	6+	–	3	75	–/2	<<centigors>>
-Chaos Hounds	Cavalry	3	3	–	–	3	40	–/6	–
-Tuskgor Chariots	Chariot	3	3	5+	–	3	95	–/4	–
-Dragon Ogres	Monster	6	4	5+	–	3	230	–/1	<<dragon-ogres>>
-Chaos Spawn	Monster	3/3	4	3+	–	1	110	–/2	<<chaos-spawn>>
-Dragon Ogre Shaggoth	Monster	8	8	5+	–	1	160	–/1	<<dragon-ogre-shaggoth>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{gor}	{infantry}	4	3	6+	–	3	60	2/–	<<gor-ungor>>
+{ungor}	{infantry}	3/1	3	–	–	3	45	2/–	<<gor-ungor>>
+{bestigors}	{infantry}	4	3	5+	–	3	75	–/2	–
+{minotaurs}	{infantry}	5	4	–	–	3	80	–/2	<<minotaurs>>
+{centigors}	{cavalry}	3/1	3	6+	–	3	75	–/2	<<centigors>>
+{chaos-hounds}	{cavalry}	3	3	–	–	3	40	–/6	–
+{tuskgor-chariots}	{chariot}	3	3	5+	–	3	95	–/4	–
+{dragon-ogres}	{monster}	6	4	5+	–	3	230	–/1	<<dragon-ogres>>
+{chaos-spawn}	{monster}	3/3	4	3+	–	1	110	–/2	<<chaos-spawn>>
+{dragon-ogre-shaggoth}	{monster}	8	8	5+	–	1	160	–/1	<<dragon-ogre-shaggoth>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
-Beastlord	General	+2	–	–	9	1	125	1	–
-Doombull	Hero	+2	–	–	6	1	80	0–1	<<doombull>>
-Wargor	Hero	+1	–	–	8	1	80	–/1	–
-Bray Shaman	Wizard	+0	–	–	8	1	80	–/1	–
-Tuskgor Chariot	Chariot Mount	+1	–	–	–	–	+10	–/1	<<tuskgor-chariot>>
+{beastlord}	{general}	+2	–	–	9	1	125	1	–
+{doombull}	{hero}	+2	–	–	6	1	80	0–1	<<doombull>>
+{wargor}	{hero}	+1	–	–	8	1	80	–/1	–
+{bray-shaman}	{wizard}	+0	–	–	8	1	80	–/1	–
+{tuskgor-chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	<<tuskgor-chariot>>

@@ -1,21 +1,21 @@
-Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Glade Guard 	Infantry 	3/1 	3	0	– 	3	65	2/4 	<<glade-guard>>
-Eternal Guard 	Infantry 	3	3	5+ 	– 	3	60	–/3 	–
-Wardancers 	Infantry 	4	3	0 or 5+ 	– 	1	30	–/4 	<<wardancers>>
-Waywatchers 	Infantry 	1/2 	3	0	– 	2	60	–/1 	<<waywatchers>>
-Dryads 	Infantry 	4	3	6+ 	– 	3	60	1/– 	<<forest-spirits>>
-Treekin 	Infantry 	4	4	5+ 	– 	3	110	–/2 	<<forest-spirits>>
-Glade Riders 	Cavalry 	3/1 	3	6+ 	– 	3	90	–/3 	–
-Wild Riders 	Cavalry 	3	3	5+ 	– 	3	110	–/2 	<<forest-spirits>>, <<wild-riders>>
-Warhawk Riders 	Monster 	2/1 	3	6+ 	– 	3	85	–/1 	<<warhawk-riders>>
-Treeman 	Monster 	6	4	4+ 	– 	1	130	–/1 	<<forest-spirits>>, <<treeman>>
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
+{glade-guard}	{infantry}	3/1 	3	0	– 	3	65	2/4 	<<glade-guard>>
+{eternal-guard}	{infantry}	3	3	5+ 	– 	3	60	–/3 	–
+{wardancers}	{infantry}	4	3	0 or 5+ 	– 	1	30	–/4 	<<wardancers>>
+{waywatchers}	{infantry}	1/2 	3	0	– 	2	60	–/1 	<<waywatchers>>
+{dryads}	{infantry}	4	3	6+ 	– 	3	60	1/– 	<<forest-spirits>>
+{treekin}	{infantry}	4	4	5+ 	– 	3	110	–/2 	<<forest-spirits>>
+{glade-riders}	{cavalry}	3/1 	3	6+ 	– 	3	90	–/3 	–
+{wild-riders}	{cavalry}	3	3	5+ 	– 	3	110	–/2 	<<forest-spirits>>, <<wild-riders>>
+{warhawk-riders}	{monster}	2/1 	3	6+ 	– 	3	85	–/1 	<<warhawk-riders>>
+{treeman}	{monster}	6	4	4+ 	– 	1	130	–/1 	<<forest-spirits>>, <<treeman>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
-General 	General 	+2	– 	– 	10	1	155	1	–
-Noble 	Hero 	+1	– 	– 	8	1	80	–/1 	–
-Treeman Ancient 	Hero 	+3	– 	– 	8	1	130	0–1 	<<treeman-ancient>>
-Branchwraith 	Hero 	+2	– 	– 	8	1	90	–/1 	<<branchwraith>>
-Spell Weaver 	Wizard 	+0	– 	– 	8	1	80	–/1 	–
-Giant Stag 	Special Mount 	+1	– 	– 	– 	– 	+10	–/1 	<<giant-stag>>
-Unicorn 	Special Mount 	+1	– 	– 	– 	– 	+15	–/1 	<<unicorn>>
-Warhawk 	Monstrous Mount	+1	– 	– 	– 	– 	+15	–/1 	<<warhawk>>
-Forest Dragon 	Monstrous Mount	+3/3	– 	– 	– 	– 	+100	–/1 	<<forest-dragon>>
+{general}	{general} 	+2	– 	– 	10	1	155	1	–
+{noble}	{hero}	+1	– 	– 	8	1	80	–/1 	–
+{treeman-ancient}	{hero}	+3	– 	– 	8	1	130	0–1 	<<treeman-ancient>>
+{branchwraith}	{hero}	+2	– 	– 	8	1	90	–/1 	<<branchwraith>>
+{spell-weaver}	{wizard}	+0	– 	– 	8	1	80	–/1 	–
+{giant-stag}	{special-mount}	+1	– 	– 	– 	– 	+10	–/1 	<<giant-stag>>
+{unicorn}	{special-mount}	+1	– 	– 	– 	– 	+15	–/1 	<<unicorn>>
+{warhawk}	{monstrous-mount}	+1	– 	– 	– 	– 	+15	–/1 	<<warhawk>>
+{forest-dragon}	{monstrous-mount}	+3/3	– 	– 	– 	– 	+100	–/1 	<<forest-dragon>>

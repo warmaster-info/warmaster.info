@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry bondsmen
+//po4a: entry huscarls
+//po4a: entry huntsmen
+//po4a: entry berserkers
+//po4a: entry ulfwerener
+//po4a: entry cavalry
+//po4a: entry storm-giant
+//po4a: entry war-mammoth
+//po4a: entry valkyries
+//po4a: entry jarl
+//po4a: entry hero
+//po4a: entry shaman
+//po4a: entry were-kin
+//po4a: entry horn-of-resounding
+:bondsmen: Bondsmen
+:huscarls: Huscarls
+:huntsmen: Huntsmen
+:berserkers: Berserkers
+:ulfwerener: Ulfwerener
+:cavalry: Cavalry
+:storm-giant: Storm Giant
+:war-mammoth: War Mammoth
+:valkyries: Valkyries
+:jarl: Jarl
+:hero: Hero
+:shaman: Shaman
+:were-kin: Were Kin
+:horn-of-resounding: Horn of Resounding
+include::partial$table-attributes.adoc[]
 
 image:norse/logo.webp[width=109,height=96,float="right"]
 The northern regions of the Old World suffer from extremes

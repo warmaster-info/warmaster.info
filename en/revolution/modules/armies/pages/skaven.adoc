@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry clanrats
+//po4a: entry stormvermin
+//po4a: entry jezzails
+//po4a: entry plague-monks
+//po4a: entry rat-swarms
+//po4a: entry gutter-runners
+//po4a: entry rat-ogres
+//po4a: entry warp-lightning-cannon
+//po4a: entry doom-wheel
+//po4a: entry screaming-bell
+//po4a: entry grey-seer
+//po4a: entry hero
+//po4a: entry warlock
+//po4a: entry rat-ogre-bodyguard
+:clanrats: Clanrats
+:stormvermin: Stormvermin
+:jezzails: Jezzails
+:plague-monks: Plague Monks
+:rat-swarms: Rat Swarms
+:gutter-runners: Gutter Runners
+:rat-ogres: Rat Ogres
+:warp-lightning-cannon: Warp Lightning-Cannon
+:doom-wheel: Doom Wheel
+:screaming-bell: Screaming Bell
+:grey-seer: Grey Seer
+:hero: Hero
+:warlock: Warlock
+:rat-ogre-bodyguard: Rat Ogre-Bodyguard
+include::partial$table-attributes.adoc[]
 
 image:skaven/logo.webp[width=120,height=108,float="right"]
 Skaven are neither rats nor human but a vile combination of

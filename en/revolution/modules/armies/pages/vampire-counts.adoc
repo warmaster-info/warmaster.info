@@ -2,6 +2,33 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry skeletons
+//po4a: entry zombies
+//po4a: entry ghouls
+//po4a: entry grave-guard
+//po4a: entry ethereal-host
+//po4a: entry black-knights
+//po4a: entry dire-wolves
+//po4a: entry fell-bats
+//po4a: entry vampire-lord
+//po4a: entry vampire
+//po4a: entry necromancer
+//po4a: entry winged-nightmare
+//po4a: entry black-coach
+:skeletons: Skeletons
+:zombies: Zombies
+:ghouls: Ghouls
+:grave-guard: Grave Guard
+:ethereal-host: Ethereal Host
+:black-knights: Black Knights
+:dire-wolves: Dire Wolves
+:fell-bats: Fell Bats
+:vampire-lord: Vampire Lord
+:vampire: Vampire
+:necromancer: Necromancer
+:winged-nightmare: Winged Nightmare
+:black-coach: Black Coach
+include::partial$table-attributes.adoc[]
 
 image:vampire-counts/logo.webp[width=116,height=84,float="right"]
 Upon the eastern marches of the Empire lies the blighted

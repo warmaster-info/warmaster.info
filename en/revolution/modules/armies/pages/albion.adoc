@@ -2,6 +2,35 @@
 :page-layout: armylist
 :page-role: armylist
 :page-toclevels: 1
+//po4a: entry warriors
+//po4a: entry slingers
+//po4a: entry ogres
+//po4a: entry wolfhounds
+//po4a: entry cavalry
+//po4a: entry chariots
+//po4a: entry giant
+//po4a: entry giant-eagles
+//po4a: entry fenbeast
+//po4a: entry general
+//po4a: entry hero
+//po4a: entry druid
+//po4a: entry giant-eagle
+//po4a: entry chariot
+:warriors: Warriors
+:slingers: Slingers
+:ogres: Ogres
+:wolfhounds: Wolfhounds
+:cavalry: Cavalry
+:chariots: Chariots
+:giant: Giant
+:giant-eagles: Giant Eagles
+:fenbeast: Fenbeast
+:general: General
+:hero: Hero
+:druid: Druid
+:giant-eagle: Giant Eagle
+:chariot: Chariot
+include::partial$table-attributes.adoc[]
 
 // Aeon is the British spelling
 image:albion/logo.webp[width=118,height=117,float="right"]
