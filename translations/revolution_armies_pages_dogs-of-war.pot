@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:53
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
 #: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:72
 #: en/revolution/modules/armies/pages/skaven.adoc:76
 #: en/revolution/modules/armies/pages/skaven.adoc:99
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:76
@@ -168,14 +168,14 @@ msgstr ""
 #. 11: breath fire, duplicate sentence removed, its → his
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:94
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:135
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:150
 #, no-wrap
 msgid "[[pikemen,†1]]1. Pikemen"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:105
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:146
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:161
 msgid ""
 "The pike is the traditional weapon of the mercenaries of Tilea. Twice as "
 "long as a spear and even longer than a cavalryman’s lance this is a truly "
@@ -189,7 +189,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:112
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:153
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:168
 msgid ""
 "Pikemen stands may only give or receive support by other infantry or Pikemen "
 "stands that are facing the same direction and touching their flank with the "
@@ -200,7 +200,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:115
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:156
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:171
 msgid ""
 "Pikemen are based as cavalry – i.e. the models are orientated towards the "
 "narrow edge of the base."

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:53
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
 #: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:72
 #: en/revolution/modules/armies/pages/skaven.adoc:76
 #: en/revolution/modules/armies/pages/skaven.adoc:99
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:76
@@ -113,7 +113,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:246
 #: en/revolution/modules/armies/pages/cathay.adoc:215
 #: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
+#: en/revolution/modules/armies/pages/chaos.adoc:203
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
 #: en/revolution/modules/armies/pages/daemons.adoc:180
 #: en/revolution/modules/armies/pages/daemons.adoc:196
@@ -442,15 +442,16 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:180
+#: en/revolution/modules/armies/pages/chaos.adoc:181
+#: en/revolution/modules/armies/pages/skaven.adoc:262
 msgid ""
-"The affect lasts for the duration of the following combat phase and the "
+"The effect lasts for the duration of the following combat phase and the "
 "indicated bonus attacks are added to the unit’s total attacks each round."
 msgstr ""
 
 #.  – changed to ,
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:193
+#: en/revolution/modules/armies/pages/chaos.adoc:194
 msgid ""
 "The unit gains bonus Rage of Chaos attacks for the following combat phase. "
 "To determine the number of bonus attacks roll one D6 at a time and add the "
@@ -466,29 +467,35 @@ msgstr ""
 
 #.  Spacing around + fixed.
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:197
+#: en/revolution/modules/armies/pages/chaos.adoc:198
 msgid ""
 "Example, 1 + 4 + 6 = 11 extra attacks for the Chaos unit each round. 1 + 4 + "
 "1 = 6 Attacks upon the Chaos unit in the first round."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos.adoc:199
+#: en/revolution/modules/armies/pages/chaos.adoc:200
 #, no-wrap
 msgid "Curse of Chaos"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:208
+#: en/revolution/modules/armies/pages/chaos.adoc:206
 msgid ""
-"An arc of pure energy strikes the foe, wreaking monstrous changes, melting "
-"flesh and twisting bones into monstrous form.  This spell can be cast on an "
-"enemy unit. The Sorcerer must be able to see his target to use this spell. "
-"The spell cannot be directed at a unit engaged in combat."
+"_An arc of pure energy strikes the foe, wreaking monstrous changes, melting "
+"flesh and twisting bones into monstrous form._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:213
+#: en/revolution/modules/armies/pages/chaos.adoc:210
+msgid ""
+"This spell can be cast on an enemy unit. The Sorcerer must be able to see "
+"his target to use this spell. The spell cannot be directed at a unit engaged "
+"in combat."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/chaos.adoc:215
 msgid ""
 "The Curse of Chaos is treated like three ordinary shooting attacks except "
 "that armour has no effect (all targets count as having no armour). A unit "
