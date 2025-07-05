@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: 2025-07-01 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -45,7 +45,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:53
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
 #: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:72
 #: en/revolution/modules/armies/pages/skaven.adoc:76
 #: en/revolution/modules/armies/pages/skaven.adoc:99
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:76
@@ -227,7 +227,7 @@ msgid "Scouting"
 msgstr ""
 
 #.  of, They
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/battlefields.adoc:119
 msgid ""
 "Scouting rules are an alternative way of deploying your armies. They "
@@ -235,7 +235,7 @@ msgid ""
 "scouts, and their commanders carrying out personal reconnaissance."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/battlefields.adoc:124
 msgid ""
 "Before the game starts, players must indicate on their army lists which "
@@ -302,7 +302,7 @@ msgstr ""
 msgid "How long does the battle last?"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/battlefields.adoc:174
 msgid ""
 "There are several ways to determine how long the battle will last. Here are "
@@ -310,7 +310,7 @@ msgid ""
 "concedes or withdraws."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/battlefields.adoc:179
 #, no-wrap
 msgid ""
@@ -320,7 +320,7 @@ msgid ""
 "slain, or their break point is reached.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/battlefields.adoc:182
 #, no-wrap
 msgid ""
@@ -328,7 +328,7 @@ msgid ""
 "number of turns before the game begins.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/battlefields.adoc:186
 #, no-wrap
 msgid ""

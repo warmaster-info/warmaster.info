@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-02 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,43 +19,43 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -67,85 +67,179 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:146
-#: en/revolution/modules/armies/pages/araby.adoc:222
-#: en/revolution/modules/armies/pages/beastmen.adoc:171
-#: en/revolution/modules/armies/pages/bretonnia.adoc:211
-#: en/revolution/modules/armies/pages/cathay.adoc:179
-#: en/revolution/modules/armies/pages/cathay.adoc:198
-#: en/revolution/modules/armies/pages/chaos.adoc:148
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:225
-#: en/revolution/modules/armies/pages/goblins.adoc:215
-#: en/revolution/modules/armies/pages/high-elves.adoc:181
-#: en/revolution/modules/armies/pages/kislev.adoc:214
-#: en/revolution/modules/armies/pages/norse.adoc:137
-#: en/revolution/modules/armies/pages/orcs.adoc:194
-#: en/revolution/modules/armies/pages/skaven.adoc:218
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
+#: en/revolution/modules/armies/pages/albion.adoc:175
+#: en/revolution/modules/armies/pages/araby.adoc:251
+#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/bretonnia.adoc:242
+#: en/revolution/modules/armies/pages/cathay.adoc:214
+#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/chaos.adoc:181
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
+#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/high-elves.adoc:210
+#: en/revolution/modules/armies/pages/kislev.adoc:243
+#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/orcs.adoc:229
+#: en/revolution/modules/armies/pages/skaven.adoc:247
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:158
-#: en/revolution/modules/armies/pages/albion.adoc:171
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/beastmen.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:203
-#: en/revolution/modules/armies/pages/bretonnia.adoc:227
-#: en/revolution/modules/armies/pages/bretonnia.adoc:246
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
-#: en/revolution/modules/armies/pages/daemons.adoc:180
-#: en/revolution/modules/armies/pages/daemons.adoc:196
-#: en/revolution/modules/armies/pages/dark-elves.adoc:172
-#: en/revolution/modules/armies/pages/goblins.adoc:167
-#: en/revolution/modules/armies/pages/goblins.adoc:200
-#: en/revolution/modules/armies/pages/high-elves.adoc:165
-#: en/revolution/modules/armies/pages/high-elves.adoc:200
-#: en/revolution/modules/armies/pages/kislev.adoc:199
-#: en/revolution/modules/armies/pages/lizardmen.adoc:213
-#: en/revolution/modules/armies/pages/lizardmen.adoc:269
-#: en/revolution/modules/armies/pages/norse.adoc:149
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/araby.adoc:298
+#: en/revolution/modules/armies/pages/beastmen.adoc:217
+#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/bretonnia.adoc:258
+#: en/revolution/modules/armies/pages/bretonnia.adoc:277
+#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/chaos.adoc:201
+#: en/revolution/modules/armies/pages/chaos.adoc:236
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
+#: en/revolution/modules/armies/pages/daemons.adoc:209
+#: en/revolution/modules/armies/pages/daemons.adoc:225
+#: en/revolution/modules/armies/pages/dark-elves.adoc:201
+#: en/revolution/modules/armies/pages/goblins.adoc:196
+#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/high-elves.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:229
+#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:242
+#: en/revolution/modules/armies/pages/lizardmen.adoc:298
+#: en/revolution/modules/armies/pages/norse.adoc:178
+#: en/revolution/modules/armies/pages/norse.adoc:232
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/orcs.adoc:152
-#: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/skaven.adoc:250
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
-#: en/revolution/modules/armies/pages/wood-elves.adoc:190
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:262
+#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
+#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:244
+#: en/revolution/modules/armies/pages/wood-elves.adoc:253
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:219
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:210
-#: en/revolution/modules/armies/pages/daemons.adoc:214
-#: en/revolution/modules/armies/pages/high-elves.adoc:148
-#: en/revolution/modules/armies/pages/skaven.adoc:283
+#: en/revolution/modules/armies/pages/albion.adoc:215
+#: en/revolution/modules/armies/pages/beastmen.adoc:250
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:243
+#: en/revolution/modules/armies/pages/daemons.adoc:243
+#: en/revolution/modules/armies/pages/high-elves.adoc:177
+#: en/revolution/modules/armies/pages/skaven.adoc:312
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
-#. type: Title =
+#. type: Attribute :beastmen:
 #: en/revolution/modules/armies/pages/beastmen.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:99
 #, no-wrap
 msgid "Beastmen"
 msgstr "Hommes-Bêtes"
 
+#. type: Attribute :gor:
+#: en/revolution/modules/armies/pages/beastmen.adoc:20
+#, no-wrap
+msgid "Gor"
+msgstr ""
+
+#. type: Attribute :ungor:
+#: en/revolution/modules/armies/pages/beastmen.adoc:21
+#, no-wrap
+msgid "Ungor"
+msgstr ""
+
+#. type: Attribute :bestigors:
+#: en/revolution/modules/armies/pages/beastmen.adoc:22
+#, no-wrap
+msgid "Bestigors"
+msgstr ""
+
+#. type: Attribute :minotaurs:
+#: en/revolution/modules/armies/pages/beastmen.adoc:23
+#, no-wrap
+msgid "Minotaurs"
+msgstr ""
+
+#. type: Attribute :centigors:
+#: en/revolution/modules/armies/pages/beastmen.adoc:24
+#, no-wrap
+msgid "Centigors"
+msgstr ""
+
+#. type: Attribute :chaos-hounds:
+#: en/revolution/modules/armies/pages/beastmen.adoc:25
+#: en/revolution/modules/armies/pages/chaos.adoc:27
+#, no-wrap
+msgid "Chaos Hounds"
+msgstr ""
+
+#. type: Attribute :tuskgor-chariots:
+#: en/revolution/modules/armies/pages/beastmen.adoc:26
+#, no-wrap
+msgid "Tuskgor Chariots"
+msgstr ""
+
+#. type: Attribute :dragon-ogres:
+#: en/revolution/modules/armies/pages/beastmen.adoc:27
+#: en/revolution/modules/armies/pages/chaos.adoc:30
+#, no-wrap
+msgid "Dragon Ogres"
+msgstr ""
+
+#. type: Attribute :chaos-spawn:
+#: en/revolution/modules/armies/pages/beastmen.adoc:28
+#: en/revolution/modules/armies/pages/chaos.adoc:31
+#, no-wrap
+msgid "Chaos Spawn"
+msgstr ""
+
+#. type: Attribute :dragon-ogre-shaggoth:
+#: en/revolution/modules/armies/pages/beastmen.adoc:29
+#, no-wrap
+msgid "Dragon Ogre Shaggoth"
+msgstr ""
+
+#. type: Attribute :beastlord:
+#: en/revolution/modules/armies/pages/beastmen.adoc:30
+#, no-wrap
+msgid "Beastlord"
+msgstr ""
+
+#. type: Attribute :doombull:
+#: en/revolution/modules/armies/pages/beastmen.adoc:31
+#, no-wrap
+msgid "Doombull"
+msgstr ""
+
+#. type: Attribute :wargor:
+#: en/revolution/modules/armies/pages/beastmen.adoc:32
+#, no-wrap
+msgid "Wargor"
+msgstr ""
+
+#. type: Attribute :bray-shaman:
+#: en/revolution/modules/armies/pages/beastmen.adoc:33
+#, no-wrap
+msgid "Bray Shaman"
+msgstr ""
+
+#. type: Attribute :tuskgor-chariot:
+#: en/revolution/modules/armies/pages/beastmen.adoc:34
+#, no-wrap
+msgid "Tuskgor Chariot"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:19
+#: en/revolution/modules/armies/pages/beastmen.adoc:50
 msgid ""
 "image:beastmen/logo.webp[width=116,height=117,float=\"right\"] In the dark "
 "forests of the Old World dwell the favoured Children of Chaos: foul and "
@@ -160,7 +254,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:26
+#: en/revolution/modules/armies/pages/beastmen.adoc:57
 msgid ""
 "Beastmen are not natural creatures; they first came into existence when the "
 "polar gateway of the Old Ones collapsed, showering the world with corrupting "
@@ -170,7 +264,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:33
+#: en/revolution/modules/armies/pages/beastmen.adoc:64
 msgid ""
 "Neither fully man nor fully animal, Beastmen willingly embrace their "
 "heritage of Chaos — they have the intelligence of a man, but employ it with "
@@ -180,7 +274,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:43
+#: en/revolution/modules/armies/pages/beastmen.adoc:74
 msgid ""
 "Malformed, base and evil, the Beastmen hate all natural and wholesome "
 "creatures. They are wild and crude creatures of animal lusts and an "
@@ -193,42 +287,42 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/beastmen.adoc:47
+#: en/revolution/modules/armies/pages/beastmen.adoc:78
 #, no-wrap
 msgid "Beastmen army selector"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/beastmen.adoc:52
+#: en/revolution/modules/armies/pages/beastmen.adoc:83
 #, no-wrap
 msgid "include::partial$beastmen.tsv[]\n"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:58
-#: en/revolution/modules/armies/pages/bretonnia.adoc:88
-#: en/revolution/modules/armies/pages/cathay.adoc:84
-#: en/revolution/modules/armies/pages/daemons.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:90
-#: en/revolution/modules/armies/pages/nippon.adoc:90
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:68
-#: en/revolution/modules/armies/pages/skaven.adoc:79
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:79
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:79
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:66
-#: en/revolution/modules/armies/pages/wood-elves.adoc:65
+#: en/revolution/modules/armies/pages/beastmen.adoc:89
+#: en/revolution/modules/armies/pages/bretonnia.adoc:119
+#: en/revolution/modules/armies/pages/cathay.adoc:119
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/lizardmen.adoc:119
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:175
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:106
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:106
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:91
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:60
+#: en/revolution/modules/armies/pages/beastmen.adoc:91
 #, no-wrap
 msgid "The things in the woods"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:62
+#: en/revolution/modules/armies/pages/beastmen.adoc:93
 msgid ""
 "Beastmen infantry do not suffer the usual −1 Command penalty when within "
 "woodland."
@@ -237,13 +331,13 @@ msgstr ""
 #. 3: its
 #. 5: if not → unless, roll, its
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:71
+#: en/revolution/modules/armies/pages/beastmen.adoc:102
 #, no-wrap
 msgid "[[gor-ungor,†1]]1. Gor/Ungor"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:76
+#: en/revolution/modules/armies/pages/beastmen.adoc:107
 msgid ""
 "Up to half the Gor units (rounded down) and half the Ungor units (rounded "
 "down) may be designated as Ambushers. At the start of the game, you must "
@@ -252,7 +346,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:84
+#: en/revolution/modules/armies/pages/beastmen.adoc:115
 msgid ""
 "Ambushers are deployed during any Command phase, not at the start of the "
 "game. To deploy ambushers, nominate a character, the ambushing units and a "
@@ -263,7 +357,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:92
+#: en/revolution/modules/armies/pages/beastmen.adoc:123
 msgid ""
 "If the Ambush order is successful, place one stand from the unit at the "
 "point, then deploy the rest in formation around it.  Brigade units form up "
@@ -274,7 +368,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/beastmen.adoc:128
 msgid ""
 "After deployment, Ambushers may receive further orders if in the Command "
 "range, but the Ambush order counts as their first order. If the Ambush order "
@@ -282,23 +376,23 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:99
+#: en/revolution/modules/armies/pages/beastmen.adoc:130
 msgid "Once deployed, Ambushers operate like normal units."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:101
+#: en/revolution/modules/armies/pages/beastmen.adoc:132
 msgid "Ungor have a shooting range of 15 cm."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:102
+#: en/revolution/modules/armies/pages/beastmen.adoc:133
 #, no-wrap
 msgid "[[minotaurs,†2]]2. Minotaurs"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:108
+#: en/revolution/modules/armies/pages/beastmen.adoc:139
 msgid ""
 "Minotaurs are subject for Bloodlust – they always use initiative to charge "
 "if possible and cannot be given orders instead. A unit with Bloodlust never "
@@ -308,13 +402,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:109
+#: en/revolution/modules/armies/pages/beastmen.adoc:140
 #, no-wrap
 msgid "[[centigors,†3]]3. Centigors"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:114
+#: en/revolution/modules/armies/pages/beastmen.adoc:145
 msgid ""
 "Centigors have a shooting range of only 15cm and 360° vision – stands in "
 "this unit can draw line of sight from all edges for the purpose of evading "
@@ -328,26 +422,26 @@ msgstr ""
 "d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:115
-#: en/revolution/modules/armies/pages/chaos.adoc:94
+#: en/revolution/modules/armies/pages/beastmen.adoc:146
+#: en/revolution/modules/armies/pages/chaos.adoc:127
 #, no-wrap
 msgid "[[dragon-ogres,†4]]4. Dragon Ogres"
 msgstr "[[dragon-ogres,†4]]4. Dragons Ogres"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:116
-#: en/revolution/modules/armies/pages/chaos.adoc:95
+#: en/revolution/modules/armies/pages/beastmen.adoc:147
+#: en/revolution/modules/armies/pages/chaos.adoc:128
 msgid "Dragon Ogres are immune to terror."
 msgstr "Les Dragons Ogres sont immunisés à la terreur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:148
 #, no-wrap
 msgid "[[chaos-spawn,†5]]5. Chaos Spawn"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:122
+#: en/revolution/modules/armies/pages/beastmen.adoc:153
 msgid ""
 "Spawn units have −1 Command penalty unless part of a brigade that includes "
 "more non-Spawn units than Spawn units. Up to two Spawn units can be included "
@@ -355,8 +449,8 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:128
-#: en/revolution/modules/armies/pages/chaos.adoc:106
+#: en/revolution/modules/armies/pages/beastmen.adoc:159
+#: en/revolution/modules/armies/pages/chaos.adoc:139
 msgid ""
 "Spawn units cause terror in combat – enemies suffer the −1 Combat modifier "
 "for fighting terrifying creatures. Spawn units cannot be driven back by "
@@ -370,8 +464,8 @@ msgstr ""
 "lors d'un combat, quand cela leur est permis."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:134
-#: en/revolution/modules/armies/pages/chaos.adoc:112
+#: en/revolution/modules/armies/pages/beastmen.adoc:165
+#: en/revolution/modules/armies/pages/chaos.adoc:145
 msgid ""
 "Spawn units have a shooting range of 15cm and 360° vision – the unit can "
 "draw line of sight from all edges of its stand for the purpose of evading "
@@ -385,20 +479,20 @@ msgstr ""
 "besoin d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:135
+#: en/revolution/modules/armies/pages/beastmen.adoc:166
 #, no-wrap
 msgid "[[dragon-ogre-shaggoth,†6]]6. Dragon Ogre Shaggoth"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:138
+#: en/revolution/modules/armies/pages/beastmen.adoc:169
 msgid ""
 "Dragon Ogre Shaggoth must always be given a separate order. It cannot be "
 "brigaded with other troops even with other Shaggoths."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:150
+#: en/revolution/modules/armies/pages/beastmen.adoc:181
 msgid ""
 "Shaggoth has a great many hits, 8 in fact, which are almost impossible to "
 "inflict during even a fairly lengthy combat engagement. Because Shaggoths "
@@ -421,18 +515,18 @@ msgstr ""
 "partie (4 Attaques et 4 Points de Vie)."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:153
+#: en/revolution/modules/armies/pages/beastmen.adoc:184
 msgid "A Dragon Ogre Shaggoth causes terror in its enemies."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:154
+#: en/revolution/modules/armies/pages/beastmen.adoc:185
 #, no-wrap
 msgid "[[doombull,†7]]7. Doombull"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:158
+#: en/revolution/modules/armies/pages/beastmen.adoc:189
 msgid ""
 "A unit joined by a Doombull cause terror. Also, Gors, Ungors and Bestigors "
 "joined by a Doombull will become subject to Bloodlust in the same way as "
@@ -440,39 +534,39 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/beastmen.adoc:159
+#: en/revolution/modules/armies/pages/beastmen.adoc:190
 #, no-wrap
 msgid "[[tuskgor-chariot,†8]]8. Tuskgor Chariot"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:161
+#: en/revolution/modules/armies/pages/beastmen.adoc:192
 msgid ""
 "Beastlord or Wargors can ride a Tuskgor Chariot. A character riding a "
 "chariot adds +1 to his Attacks."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/beastmen.adoc:165
+#: en/revolution/modules/armies/pages/beastmen.adoc:196
 #, no-wrap
 msgid "Beastmen spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:168
+#: en/revolution/modules/armies/pages/beastmen.adoc:199
 #, no-wrap
 msgid "Traitor Kin"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:174
+#: en/revolution/modules/armies/pages/beastmen.adoc:205
 msgid ""
 "_The Shaman dominates the beasts used by the enemy, turning them on their "
 "masters._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:181
+#: en/revolution/modules/armies/pages/beastmen.adoc:212
 msgid ""
 "This spell can be cast on any enemy unit of Cavalry, Chariots or Monsters "
 "within range regardless of whether the Shaman can see it or not. The spell "
@@ -482,13 +576,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:183
+#: en/revolution/modules/armies/pages/beastmen.adoc:214
 #, no-wrap
 msgid "Hunting for Gore!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:191
+#: en/revolution/modules/armies/pages/beastmen.adoc:222
 msgid ""
 "_The Shaman’s magic power arouses in the herd an uncontrollable desire to "
 "tear asunder any enemy and feast on their bloody remains. Rows of wild "
@@ -496,7 +590,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:198
+#: en/revolution/modules/armies/pages/beastmen.adoc:229
 msgid ""
 "The spell can be cast on unengaged friendly unit within range regardless of "
 "whether the Shaman can see it or not. The spell affects only a single unit, "
@@ -506,13 +600,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:200
+#: en/revolution/modules/armies/pages/beastmen.adoc:231
 #, no-wrap
 msgid "Chaos Bolt"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:207
+#: en/revolution/modules/armies/pages/beastmen.adoc:238
 msgid ""
 "_The dark power of Chaos pulses through the Shaman. A foul incantation flows "
 "from his mouth which calls down a mighty lightning bolt from the heavens "
@@ -520,7 +614,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:214
+#: en/revolution/modules/armies/pages/beastmen.adoc:245
 msgid ""
 "This spell can be cast on an enemy unit. The Shaman must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -530,20 +624,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:216
+#: en/revolution/modules/armies/pages/beastmen.adoc:247
 #, no-wrap
 msgid "Power of Herd"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:223
+#: en/revolution/modules/armies/pages/beastmen.adoc:254
 msgid ""
 "_The Beastman Herd rise on the Shaman’s command.  Emboldened by his fervour "
 "they charge at the enemy with unbridled fury._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/beastmen.adoc:230
+#: en/revolution/modules/armies/pages/beastmen.adoc:261
 msgid ""
 "This spell can be cast on all Gor, Ungor and Centigor units engaged in close "
 "combat and within range regardless of whether the Shaman can see them or "

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-03 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,43 +19,43 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -67,88 +67,88 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:158
-#: en/revolution/modules/armies/pages/albion.adoc:171
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/beastmen.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:203
-#: en/revolution/modules/armies/pages/bretonnia.adoc:227
-#: en/revolution/modules/armies/pages/bretonnia.adoc:246
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
-#: en/revolution/modules/armies/pages/daemons.adoc:180
-#: en/revolution/modules/armies/pages/daemons.adoc:196
-#: en/revolution/modules/armies/pages/dark-elves.adoc:172
-#: en/revolution/modules/armies/pages/goblins.adoc:167
-#: en/revolution/modules/armies/pages/goblins.adoc:200
-#: en/revolution/modules/armies/pages/high-elves.adoc:165
-#: en/revolution/modules/armies/pages/high-elves.adoc:200
-#: en/revolution/modules/armies/pages/kislev.adoc:199
-#: en/revolution/modules/armies/pages/lizardmen.adoc:213
-#: en/revolution/modules/armies/pages/lizardmen.adoc:269
-#: en/revolution/modules/armies/pages/norse.adoc:149
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/araby.adoc:298
+#: en/revolution/modules/armies/pages/beastmen.adoc:217
+#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/bretonnia.adoc:258
+#: en/revolution/modules/armies/pages/bretonnia.adoc:277
+#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/chaos.adoc:201
+#: en/revolution/modules/armies/pages/chaos.adoc:236
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
+#: en/revolution/modules/armies/pages/daemons.adoc:209
+#: en/revolution/modules/armies/pages/daemons.adoc:225
+#: en/revolution/modules/armies/pages/dark-elves.adoc:201
+#: en/revolution/modules/armies/pages/goblins.adoc:196
+#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/high-elves.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:229
+#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:242
+#: en/revolution/modules/armies/pages/lizardmen.adoc:298
+#: en/revolution/modules/armies/pages/norse.adoc:178
+#: en/revolution/modules/armies/pages/norse.adoc:232
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/orcs.adoc:152
-#: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/skaven.adoc:250
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
-#: en/revolution/modules/armies/pages/wood-elves.adoc:190
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:262
+#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
+#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:244
+#: en/revolution/modules/armies/pages/wood-elves.adoc:253
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:240
-#: en/revolution/modules/armies/pages/daemons.adoc:160
-#: en/revolution/modules/armies/pages/dark-elves.adoc:209
-#: en/revolution/modules/armies/pages/lizardmen.adoc:231
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:206
+#: en/revolution/modules/armies/pages/araby.adoc:269
+#: en/revolution/modules/armies/pages/daemons.adoc:189
+#: en/revolution/modules/armies/pages/dark-elves.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:260
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:233
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:58
-#: en/revolution/modules/armies/pages/bretonnia.adoc:88
-#: en/revolution/modules/armies/pages/cathay.adoc:84
-#: en/revolution/modules/armies/pages/daemons.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:90
-#: en/revolution/modules/armies/pages/nippon.adoc:90
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:68
-#: en/revolution/modules/armies/pages/skaven.adoc:79
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:79
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:79
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:66
-#: en/revolution/modules/armies/pages/wood-elves.adoc:65
+#: en/revolution/modules/armies/pages/beastmen.adoc:89
+#: en/revolution/modules/armies/pages/bretonnia.adoc:119
+#: en/revolution/modules/armies/pages/cathay.adoc:119
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/lizardmen.adoc:119
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:175
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:106
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:106
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:91
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:190
-#: en/revolution/modules/armies/pages/chaos.adoc:130
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:195
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:191
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:189
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:169
+#: en/revolution/modules/armies/pages/bretonnia.adoc:221
+#: en/revolution/modules/armies/pages/chaos.adoc:163
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:228
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:216
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:194
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/daemons.adoc:204
-#: en/revolution/modules/armies/pages/lizardmen.adoc:221
-#: en/revolution/modules/armies/pages/skaven.adoc:240
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:233
+#: en/revolution/modules/armies/pages/daemons.adoc:233
+#: en/revolution/modules/armies/pages/lizardmen.adoc:250
+#: en/revolution/modules/armies/pages/skaven.adoc:269
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -158,8 +158,8 @@ msgstr ""
 "être lancé sur une unité engagée en combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:237
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:212
+#: en/revolution/modules/armies/pages/lizardmen.adoc:266
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:239
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Wizard can see it or not."
@@ -168,27 +168,102 @@ msgstr ""
 "puisse la voir ou non."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:240
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/lizardmen.adoc:269
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:242
 msgid ""
 "The spell takes effect until the end of the opposing player’s next turn."
 msgstr "Les effets du sort durent jusqu’à la fin du tour suivant de l’ennemi."
 
 #. type: Title =
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:79
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:1
 #, no-wrap
 msgid "Tomb Kings"
 msgstr "Rois des Tombes"
 
-#. type: Attribute :dragon:
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:5
+#. type: Attribute :skeletons:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:18
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:18
+#, no-wrap
+msgid "Skeletons"
+msgstr ""
+
+#. type: Attribute :skeleton-bowmen:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:19
+#, no-wrap
+msgid "Skeleton Bowmen"
+msgstr ""
+
+#. type: Attribute :skeleton-cavalry:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:20
+#, no-wrap
+msgid "Skeleton Cavalry"
+msgstr ""
+
+#. type: Attribute :skeleton-chariots:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:21
+#, no-wrap
+msgid "Skeleton Chariots"
+msgstr ""
+
+#. type: Attribute :carrion:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:22
+#, no-wrap
+msgid "Carrion"
+msgstr ""
+
+#. type: Attribute :bone-giant:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:23
+#, no-wrap
+msgid "Bone Giant"
+msgstr ""
+
+#. type: Attribute :sphinx:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:24
+#, no-wrap
+msgid "Sphinx"
+msgstr ""
+
+#. type: Attribute :skull-chukka:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:25
+#, no-wrap
+msgid "Skull Chukka"
+msgstr ""
+
+#. type: Attribute :bone-thrower:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:26
+#, no-wrap
+msgid "Bone Thrower"
+msgstr ""
+
+#. type: Attribute :tomb-king:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:27
+#, fuzzy, no-wrap
+#| msgid "Tomb Kings"
+msgid "Tomb King"
+msgstr "Rois des Tombes"
+
+#. type: Attribute :liche-priest:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:28
+#, no-wrap
+msgid "Liche Priest"
+msgstr ""
+
+#. type: Attribute :zombie-dragon:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:29
 #, no-wrap
 msgid "Zombie Dragon"
 msgstr "Dragon Zombie"
 
+#. type: Attribute :liche-chariot:
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:30
+#, no-wrap
+msgid "Liche Chariot"
+msgstr ""
+
 #.  TODO: Logo is half the resolution of all the others.
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:20
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:47
 msgid ""
 "image:tomb-kings/logo.webp[width=93,height=117,float=\"right\"] In ages past "
 "the land of Khemri was fertile, populous and prosperous thanks to the waters "
@@ -212,7 +287,7 @@ msgstr ""
 "réveil."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:31
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:58
 msgid ""
 "Unfortunately for the Priest Kings of Khemri their dreams of eternal life "
 "were to be realised only in the most horrific way.  A rebellious Liche "
@@ -235,7 +310,7 @@ msgstr ""
 "dans le sarcophage qui y était caché dans ses profondeurs."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:49
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
 msgid ""
 "Nagash’s vengeance upon his enemies was absolute. From deep within the Black "
 "Pyramid he worked upon a great spell of death that he eventually cast upon "
@@ -269,7 +344,7 @@ msgstr ""
 "Et ils comprirent qu’ils avaient été trahis."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:64
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:91
 msgid ""
 "From their tombs the Tomb Kings have re-ordered their kingdoms. Their "
 "peoples, mostly interred without the benefit of royal magic, are little more "
@@ -298,26 +373,26 @@ msgstr ""
 "anciennes conquêtes - réminiscence floue et ténébreuse de leur vie passée."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:68
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
 #, no-wrap
 msgid "Tomb kings army selector"
 msgstr "Sélecteur d'Armée des Rois des Tombes"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:73
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:100
 #, no-wrap
 msgid "include::partial$tomb-kings.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:81
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:85
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:108
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:112
 #, no-wrap
 msgid "Undead"
 msgstr "Mort-vivant"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:84
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:111
 msgid ""
 "Undead units never act on initiative. An Undead unit only moves in the "
 "Command phase if given orders (except Carrion who can also home back as "
@@ -329,8 +404,8 @@ msgstr ""
 "dessous)."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:87
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:93
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:114
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:120
 msgid ""
 "Undead units are unaffected by the −1 Command penalty for enemy within 20cm."
 msgstr ""
@@ -338,8 +413,8 @@ msgstr ""
 "une présence ennemie à moins de 20 cm."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:90
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:96
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:117
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:123
 msgid ""
 "Undead units are unaffected by the −1 Combat penalty for fighting terrifying "
 "troops."
@@ -348,8 +423,8 @@ msgstr ""
 "combat quand ils affrontent des troupes provoquant la terreur."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:93
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:99
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:120
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:126
 msgid ""
 "Undead units are unaffected by the Confusion rule – they cannot become "
 "confused for any reason."
@@ -359,13 +434,13 @@ msgstr ""
 
 #. 6: Space before +1
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:101
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:128
 #, no-wrap
 msgid "[[carrion,†1]]1. Carrion"
 msgstr "[[carrion,†1]]1. Charognards"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:104
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:131
 msgid ""
 "Carrion can fly. Note that Carrion can always return to a character by "
 "homing back at the start of the Command phase."
@@ -374,13 +449,13 @@ msgstr ""
 "personnage au début de la phase d’Ordres."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:105
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:132
 #, no-wrap
 msgid "[[bone-giant,†2]]2. Bone Giant"
 msgstr "[[bone-giant,†2]]2. Géants Squelettes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:109
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:136
 msgid ""
 "Bone Giants cause terror. When a Tomb King gives an order to a Bone Giant or "
 "a brigade that contains a Bone Giant there is a −1 Command penalty. There is "
@@ -392,13 +467,13 @@ msgstr ""
 "donner des ordres sans malus."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:110
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:137
 #, no-wrap
 msgid "[[sphinx,†3]]3. Sphinx"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:119
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:146
 msgid ""
 "Because the Sphinx has so many hits (6) we must consider the possibility of "
 "hurting the Sphinx and reducing its effectiveness in subsequent turns. "
@@ -417,13 +492,13 @@ msgstr ""
 "Attaques et 3 PV). Le Sphinx cause la terreur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:120
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:147
 #, no-wrap
 msgid "[[skull-chukka,†4]]4. Skull Chukka"
 msgstr "[[skull-chukka,†4]]4. Catapulte à Crânes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:129
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
 msgid ""
 "The Skull Chukka is a xref:rules:artillery-and-machines.adoc#stone-"
 "thrower[Stone Thrower] but with the following additional rule.  When a unit "
@@ -443,13 +518,13 @@ msgstr ""
 "Artillerie & Machines pour les règles du Lance-rocs."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:130
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:157
 #, no-wrap
 msgid "[[bone-thrower,†5]]5. Bone Thrower"
 msgstr "[[bone-thrower,†5]]5. Baliste à Ossements"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:132
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:159
 msgid ""
 "The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-"
 "thrower[Bolt Thrower] as described in the Rulebook."
@@ -458,13 +533,13 @@ msgstr ""
 "thrower[Baliste] comme décrit dans la section Artillerie du Livre de Règles."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:133
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:160
 #, no-wrap
 msgid "[[tomb-king,†6]]6. Tomb King"
 msgstr "[[tomb-king,†6]]6. Roi des Tombes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:138
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:165
 msgid ""
 "The Tomb King is empowered by the spells cast upon him when buried. He can "
 "use this power to increase the Combat Attacks value of all the stands in one "
@@ -478,24 +553,24 @@ msgstr ""
 "utilisable qu’une seule fois par partie."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:139
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:166
 #, no-wrap
 msgid "[[zombie-dragon,†7]]7. Zombie Dragon"
 msgstr "[[zombie-dragon,†7]]7. Dragon Zombie"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:141
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:168
 msgid "A Tomb King or Liche Priest may ride a Zombie Dragon."
 msgstr "Un Roi des Tombes ou un Prêtre Liche peut monter un Dragon Zombie."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:144
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:171
 #, no-wrap
 msgid "[[liche-chariot,†8]]8. Liche Chariot"
 msgstr "[[liche-chariot,†8]]8. Char Liche"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:146
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:173
 msgid ""
 "A Tomb King or Liche Priest can ride a chariot.  A character riding a "
 "chariot adds +1 to his Attacks."
@@ -504,21 +579,21 @@ msgstr ""
 "personnage monté sur un char gagne +1 Attaque."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:150
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:177
 #, no-wrap
 msgid "Tomb King spells"
 msgstr "Sorts des Rois des Tombes"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:153
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:146
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:180
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:173
 #, no-wrap
 msgid "Raise Dead"
 msgstr "Invoquer les Morts"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:159
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:152
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:186
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:179
 msgid ""
 "_At the Wizard’s beckoning the mangled corpses that litter the battleground "
 "rise from the dead to continue the slaughter._"
@@ -527,8 +602,8 @@ msgstr ""
 "se relèvent pour continuer à tuer par-delà la mort._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:170
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:163
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:197
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:190
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
 "the Wizard. The spell can be cast regardless of whether the Wizard can see "
@@ -548,8 +623,8 @@ msgstr ""
 "retrouvent dans un même combat selon le jeu des avances et des poursuites."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:184
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:177
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:211
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:204
 msgid ""
 "A Skeleton unit of three stands is created. Each stand in the raised unit "
 "must be placed so that its front edge contacts an enemy stand from the "
@@ -578,13 +653,13 @@ msgstr ""
 "points de victoire à la fin de la partie."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:186
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:213
 #, no-wrap
 msgid "Touch of Death"
 msgstr "Toucher Mortel"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:192
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:219
 msgid ""
 "_The Wizard’s enemies crumble to dust as he smites them with the corrupting "
 "Touch of Death._"
@@ -593,7 +668,7 @@ msgstr ""
 "Toucher Mortel._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:196
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:223
 msgid ""
 "The Wizard can cast this spell if he has joined a unit in combat.  The spell "
 "can be cast on any single enemy unit that it is touching the unit the Wizard "
@@ -603,7 +678,7 @@ msgstr ""
 "engagée au combat, et affecte une seule unité ennemie au contact de celle-ci."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:201
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:228
 msgid ""
 "The target unit takes three attacks worked out in the usual way.  Any hits "
 "scored are carried over into the first round of combat and count as having "
@@ -614,13 +689,13 @@ msgstr ""
 "ayant été infligée au combat pour le calcul du résultat de combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:203
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:230
 #, no-wrap
 msgid "Doom and Despair"
 msgstr "Désespoir"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:209
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:236
 msgid ""
 "_A dark cloud of doom and despair settles over the enemy, sapping their "
 "courage and dampening their warlike spirit._"
@@ -629,7 +704,7 @@ msgstr ""
 "refroidissant son ardeur guerrière._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:221
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:248
 msgid ""
 "Whilst the spell lasts the unit cannot charge and if engaged in combat will "
 "not pursue or advance. Even units that are otherwise obliged to charge, "
@@ -644,15 +719,15 @@ msgstr ""
 "par la mélancolie de la tombe !"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:223
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:197
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:250
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:224
 #, no-wrap
 msgid "Death Bolt"
 msgstr "Éclair de Mort"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:229
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:203
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:256
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:230
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
 "finger tips and strikes an enemy unit._"
@@ -661,7 +736,7 @@ msgstr ""
 "frappe une unité ennemie._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:238
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:265
 msgid ""
 "The Death Bolt is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "

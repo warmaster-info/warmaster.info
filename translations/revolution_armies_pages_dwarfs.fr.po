@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,44 +18,92 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
+#. type: Attribute :warriors:
+#: en/revolution/modules/armies/pages/albion.adoc:19
+#: en/revolution/modules/armies/pages/dwarfs.adoc:16
+#, no-wrap
+msgid "Warriors"
+msgstr ""
+
+#. type: Attribute :general:
+#: en/revolution/modules/armies/pages/albion.adoc:28
+#: en/revolution/modules/armies/pages/araby.adoc:27
+#: en/revolution/modules/armies/pages/bretonnia.adoc:28
+#: en/revolution/modules/armies/pages/cathay.adoc:32
+#: en/revolution/modules/armies/pages/chaos.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/dark-elves.adoc:27
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
+#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/empire.adoc:30
+#: en/revolution/modules/armies/pages/high-elves.adoc:27
+#: en/revolution/modules/armies/pages/kislev.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/wood-elves.adoc:34
+#: en/revolution/modules/armies/partials/table-attributes.adoc:44
+#, no-wrap
+msgid "General"
+msgstr ""
+
+#. type: Attribute :hero:
+#: en/revolution/modules/armies/pages/albion.adoc:29
+#: en/revolution/modules/armies/pages/araby.adoc:28
+#: en/revolution/modules/armies/pages/bretonnia.adoc:29
+#: en/revolution/modules/armies/pages/cathay.adoc:33
+#: en/revolution/modules/armies/pages/chaos.adoc:33
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/dark-elves.adoc:28
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
+#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/empire.adoc:31
+#: en/revolution/modules/armies/pages/high-elves.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/norse.adoc:29
+#: en/revolution/modules/armies/pages/skaven.adoc:30
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/partials/table-attributes.adoc:45
+#, no-wrap
+msgid "Hero"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -66,14 +114,70 @@ msgstr ""
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
-#. type: Title =
+#. type: Attribute :handgunners:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:25
+#: en/revolution/modules/armies/pages/dwarfs.adoc:17
+#: en/revolution/modules/armies/pages/empire.adoc:21
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:20
+#, no-wrap
+msgid "Handgunners"
+msgstr ""
+
+#. type: Attribute :dwarfs:
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:28
 #: en/revolution/modules/armies/pages/dwarfs.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:83
 #, no-wrap
 msgid "Dwarfs"
 msgstr "Nains"
 
+#. type: Attribute :rangers:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:18
+#, no-wrap
+msgid "Rangers"
+msgstr ""
+
+#. type: Attribute :troll-slayers:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:19
+#, no-wrap
+msgid "Troll Slayers"
+msgstr ""
+
+#. type: Attribute :cannon:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:20
+#: en/revolution/modules/armies/pages/empire.adoc:28
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:25
+#, no-wrap
+msgid "Cannon"
+msgstr ""
+
+#. type: Attribute :flame-cannon:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:21
+#, fuzzy, no-wrap
+#| msgid "Flame Cannon Misfire Chart"
+msgid "Flame Cannon"
+msgstr "Tableau d'Incident de Tir du Canon à Flammes"
+
+#. type: Attribute :gyrocopter:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:22
+#, no-wrap
+msgid "Gyrocopter"
+msgstr ""
+
+#. type: Attribute :runesmith:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:25
+#, no-wrap
+msgid "Runesmith"
+msgstr ""
+
+#. type: Attribute :anvil:
+#: en/revolution/modules/armies/pages/dwarfs.adoc:26
+#, no-wrap
+msgid "Anvil"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:16
+#: en/revolution/modules/armies/pages/dwarfs.adoc:39
 msgid ""
 "image:dwarfs/logo.webp[width=109,height=109,float=\"right\"] The Dwarfs live "
 "in fortified subterranean strongholds in the mountainous regions of the Old "
@@ -94,7 +198,7 @@ msgstr ""
 "dans pratiquement tous les endroits montagneux du Vieux Monde."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:33
+#: en/revolution/modules/armies/pages/dwarfs.adoc:56
 msgid ""
 "Dwarfs are attracted to these bleak places by hidden mineral wealth and "
 "especially gold. Dwarfs are utterly besotted with gold. They are also quite "
@@ -120,13 +224,13 @@ msgstr ""
 "nouveaux. Un nain qui se trouve devant un tas d’or suffisamment gros peut "
 "attraper la fièvre de l’or et devenir violent, au point de s’en prendre à "
 "ses amis, voire à sa famille, aux cris de “Y z’en veulent à mon or !” "
-"Lorsque l’on connaît le penchant matérialiste excessif des Nains, on ne s’"
-"étonne pas qu’ils soient artisans et marchands dans l’âme. Ils sont toujours "
-"prêts à traiter avec les autres races, mais pour affaires uniquement : l’or "
-"est bon d’où qu’il vienne."
+"Lorsque l’on connaît le penchant matérialiste excessif des Nains, on ne "
+"s’étonne pas qu’ils soient artisans et marchands dans l’âme. Ils sont "
+"toujours prêts à traiter avec les autres races, mais pour affaires "
+"uniquement : l’or est bon d’où qu’il vienne."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:49
+#: en/revolution/modules/armies/pages/dwarfs.adoc:72
 msgid ""
 "Dwarfs are shorter and far stouter than men or elves. They are also much "
 "stronger and more resilient. They consider humans and elves to be gangling "
@@ -156,7 +260,7 @@ msgstr ""
 "jugent rustres et grossiers."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:60
+#: en/revolution/modules/armies/pages/dwarfs.adoc:83
 msgid ""
 "Before the coming of men the Elves established colonies in the Old World so "
 "that they could trade with the Dwarfs. For many years the two races "
@@ -179,7 +283,7 @@ msgstr ""
 
 #.  was reduced
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:71
+#: en/revolution/modules/armies/pages/dwarfs.adoc:94
 msgid ""
 "After hundreds of years of continuous warfare both races were exhausted. The "
 "Elves returned to Ulthuan and abandoned the Old World. The Dwarfs considered "
@@ -193,14 +297,14 @@ msgstr ""
 "décliner. Les Elfes abandonnèrent le Vieux Monde et retournèrent en Ulthuan. "
 "Les Nains se considérèrent comme les vainqueurs, mais leur nombre avait "
 "tellement décru qu’ils pouvaient à peine défendre la totalité de leur "
-"empire. C’est ce moment que choisirent les hordes de peaux-vertes et d"
-"’hommes-rats pour attaquer de toutes parts les forteresses naines. Beaucoup "
+"empire. C’est ce moment que choisirent les hordes de peaux-vertes et "
+"d’hommes-rats pour attaquer de toutes parts les forteresses naines. Beaucoup "
 "furent détruites et les autres endommagées. L’empire Nain, autrefois vaste "
 "et rayonnant, était à présent réduit à quelques enclaves perpétuellement "
 "assiégées ou attaquées."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:85
+#: en/revolution/modules/armies/pages/dwarfs.adoc:108
 msgid ""
 "Today the Dwarf realm is much reduced in size and population.  Men have "
 "established themselves on the lands once fought over by Dwarfs and Elves. "
@@ -216,8 +320,8 @@ msgstr ""
 "Aujourd’hui l’empire Nain est réduit à sa plus simple expression. Les hommes "
 "se sont installés dans les territoires abandonnés par les Elfes. Les Nains "
 "ont appris à commercer avec les humains et ont instauré avec eux des "
-"relations pacifiques et durables. C’est une force combinée de Nains et d’"
-"humains qui chassa les peaux-vertes de l’Empire et ce sont les Nains qui "
+"relations pacifiques et durables. C’est une force combinée de Nains et "
+"d’humains qui chassa les peaux-vertes de l’Empire et ce sont les Nains qui "
 "construisirent la première cité humaine. Leurs relations avec les Elfes "
 "restent tendues car les Nains n’oublient jamais et, comme tout ce qu’ils "
 "font, leur rancune est faite pour durer. Mais leur haine la plus profonde "
@@ -225,27 +329,27 @@ msgstr ""
 "nombre de leurs forteresses."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/dwarfs.adoc:89
+#: en/revolution/modules/armies/pages/dwarfs.adoc:112
 #, no-wrap
 msgid "Dwarf army selector"
 msgstr "Sélecteur d’Armée des Nains"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/dwarfs.adoc:94
+#: en/revolution/modules/armies/pages/dwarfs.adoc:117
 #, no-wrap
 msgid "include::partial$dwarfs.tsv[]\n"
 msgstr ""
 
 #. 3: – changed to :
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:99
-#: en/revolution/modules/armies/pages/empire.adoc:73
+#: en/revolution/modules/armies/pages/dwarfs.adoc:122
+#: en/revolution/modules/armies/pages/empire.adoc:104
 #, no-wrap
 msgid "[[handgunners,†1]]1. Handgunners"
 msgstr "[[handgunners,†1]]1. Arquebusiers"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:106
+#: en/revolution/modules/armies/pages/dwarfs.adoc:129
 msgid ""
 "A handgun shot can pierce armour far more easily than an arrow or a crossbow "
 "bolt. Therefore, count enemy Armour values as one worse than normal when "
@@ -253,21 +357,21 @@ msgid ""
 "a unit of Warriors while still counting for the Warrior min/max value. Note "
 "that this unit still counts for max value of Handgunners."
 msgstr ""
-"Un tir d’arquebuse traverse une armure plus facilement qu’un carreau d’"
-"arbalète ou une flèche. Lorsque vous tirez avec une arquebuse, retirez 1 à l’"
-"Armure de la cible. Une unité d'Arquebusiers par tranche de 1000 points peut "
-"remplacer une unité de Guerriers tout en comptant dans la valeur de min/max "
-"des Guerriers. Notez que cette unité compte quand même pour la valeur "
+"Un tir d’arquebuse traverse une armure plus facilement qu’un carreau "
+"d’arbalète ou une flèche. Lorsque vous tirez avec une arquebuse, retirez 1 à "
+"l’Armure de la cible. Une unité d'Arquebusiers par tranche de 1000 points "
+"peut remplacer une unité de Guerriers tout en comptant dans la valeur de min/"
+"max des Guerriers. Notez que cette unité compte quand même pour la valeur "
 "maximum d'Arquebusiers."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:107
+#: en/revolution/modules/armies/pages/dwarfs.adoc:130
 #, no-wrap
 msgid "[[rangers,†2]]2. Rangers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:130
+#: en/revolution/modules/armies/pages/dwarfs.adoc:153
 msgid ""
 "One unit of Rangers per full 1000 points does not have to be deployed before "
 "the game if the player does not wish to do so. Instead the unit can be "
@@ -291,8 +395,8 @@ msgid ""
 "the same or a different place."
 msgstr ""
 "Une unité de Ranger par tranche de 1000 points n'a pas à être déployés au "
-"début de la bataille si le joueur le désire. À la place, l’unité peut s’"
-"infiltrer sur le champ de bataille une fois la partie commencée. Pour "
+"début de la bataille si le joueur le désire. À la place, l’unité peut "
+"s’infiltrer sur le champ de bataille une fois la partie commencée. Pour "
 "infiltrer une unité, le joueur Nain désigne le point où il veut la faire "
 "apparaître et doit lui donner un ordre d’infiltration avec l’un de ses "
 "personnages. Le personnage ne tient pas compte des portées d’ordre pour "
@@ -314,7 +418,7 @@ msgstr ""
 "ou en un autre lieu."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:133
+#: en/revolution/modules/armies/pages/dwarfs.adoc:156
 msgid ""
 "Although they are infantry, Rangers can pursue any type of retreating enemy."
 msgstr ""
@@ -322,13 +426,13 @@ msgstr ""
 "ennemis en retraite."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:134
+#: en/revolution/modules/armies/pages/dwarfs.adoc:157
 #, no-wrap
 msgid "[[troll-slayers,†3]]3. Troll Slayers"
 msgstr "[[troll-slayers,†3]]3. Tueurs de Trolls"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:144
+#: en/revolution/modules/armies/pages/dwarfs.adoc:167
 msgid ""
 "A Troll Slayer unit will always use its initiative to charge an enemy if "
 "possible and cannot be given orders instead. They will never use their "
@@ -341,8 +445,8 @@ msgid ""
 "Monster stand."
 msgstr ""
 "Une unité de Tueurs de Trolls utilisa toujours l’initiative pour charger un "
-"ennemi si elle le peut, et ne pourra pas recevoir d’ordres à la place. Ils n’"
-"utilisent jamais l’initiative pour éviter. Les Tueurs de Trolls ne sont "
+"ennemi si elle le peut, et ne pourra pas recevoir d’ordres à la place. Ils "
+"n’utilisent jamais l’initiative pour éviter. Les Tueurs de Trolls ne sont "
 "jamais repoussés par des tirs et ne font jamais de jet de repoussement. En "
 "cas de victoire en corps à corps, ils doivent poursuivre ou avancer lorsque "
 "cela est possible. Les Tueurs ne sont pas affectés par les créatures "
@@ -353,7 +457,7 @@ msgstr ""
 "affronte un Monstre."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:147
+#: en/revolution/modules/armies/pages/dwarfs.adoc:170
 msgid ""
 "Troll Slayer units earn victory points differently to other units as follows:"
 msgstr ""
@@ -361,7 +465,7 @@ msgstr ""
 "différemment des unités conventionnelles :"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:153
+#: en/revolution/modules/armies/pages/dwarfs.adoc:176
 msgid ""
 "If a Troll Slayer unit has any stands remaining at the end of the battle "
 "then the full points value of the unit is awarded to the opposing side as "
@@ -369,13 +473,13 @@ msgid ""
 "– if there are any stands left at all the enemy gets the full victory points."
 msgstr ""
 "Si une unité de Tueurs de Trolls compte encore un ou plusieurs socles à la "
-"fin d’une bataille, la totalité de ses points de victoire vont à l’"
-"adversaire. Peu importe qu’il lui reste un, deux ou trois socles, du moment "
-"qu’il en reste au moins un, l’adversaire empoche la totalité des points de "
-"victoire."
+"fin d’une bataille, la totalité de ses points de victoire vont à "
+"l’adversaire. Peu importe qu’il lui reste un, deux ou trois socles, du "
+"moment qu’il en reste au moins un, l’adversaire empoche la totalité des "
+"points de victoire."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:157
+#: en/revolution/modules/armies/pages/dwarfs.adoc:180
 msgid ""
 "If a Troll Slayer unit is destroyed no victory points are scored by either "
 "side.  +"
@@ -384,37 +488,37 @@ msgstr ""
 "marque des points de victoire.  +"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:160
+#: en/revolution/modules/armies/pages/dwarfs.adoc:183
 msgid ""
 "Slayer units that have been destroyed still count towards the Dwarf army’s "
 "losses for purposes of calculating withdrawal."
 msgstr ""
-"Les unités de Tueurs détruites comptent quand même parmi les pertes de l’"
-"armée pour ce qui est de déterminer son seuil de déroute."
+"Les unités de Tueurs détruites comptent quand même parmi les pertes de "
+"l’armée pour ce qui est de déterminer son seuil de déroute."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:162
+#: en/revolution/modules/armies/pages/dwarfs.adoc:185
 #, no-wrap
 msgid "[[cannon,†4]]4. Cannon"
 msgstr "[[cannon,†4]]4. Canon"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:163
+#: en/revolution/modules/armies/pages/dwarfs.adoc:186
 msgid ""
 "Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are "
 "in the main Rulebook."
 msgstr ""
-"Les règles complètes pour les xref:rules:artillery-and-machines.adoc#cannons"
-"[Canons] sont décrites dans le Livre de Règles."
+"Les règles complètes pour les xref:rules:artillery-and-"
+"machines.adoc#cannons[Canons] sont décrites dans le Livre de Règles."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:164
+#: en/revolution/modules/armies/pages/dwarfs.adoc:187
 #, no-wrap
 msgid "[[flame-cannon,†5]]5. Flame Cannon"
 msgstr "[[flame-cannon,†5]]5. Canon à Flammes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:171
+#: en/revolution/modules/armies/pages/dwarfs.adoc:194
 msgid ""
 "The Flame Cannon is an infernal device that shoots a gout of flame. It has "
 "range of 30cm and its attacks are slightly unusual. Rather than having a "
@@ -431,14 +535,14 @@ msgstr ""
 "fonction du double obtenu, quelque chose s'est très mal passé."
 
 #. type: Block title
-#: en/revolution/modules/armies/pages/dwarfs.adoc:172
+#: en/revolution/modules/armies/pages/dwarfs.adoc:195
 #, no-wrap
 msgid "Flame Cannon Misfire Chart"
 msgstr "Tableau d'Incident de Tir du Canon à Flammes"
 
 #.  2D6+4 is the clearer way round
 #. type: Table
-#: en/revolution/modules/armies/pages/dwarfs.adoc:181
+#: en/revolution/modules/armies/pages/dwarfs.adoc:204
 #, no-wrap
 msgid ""
 "|Double Rolled |What’s that gurgling noise?!\n"
@@ -457,7 +561,7 @@ msgstr ""
 
 #.  – replaced by but
 #. type: Table
-#: en/revolution/modules/armies/pages/dwarfs.adoc:198
+#: en/revolution/modules/armies/pages/dwarfs.adoc:221
 msgid ""
 "h|2.  |The Flame Cannon emits an enormous belch of fire inflicting a total "
 "of 2D6+4 attacks on the target before it explodes and destroys itself.  h|"
@@ -479,7 +583,7 @@ msgstr ""
 
 #.  12+D6 changed to D6+12
 #. type: Table
-#: en/revolution/modules/armies/pages/dwarfs.adoc:204
+#: en/revolution/modules/armies/pages/dwarfs.adoc:227
 msgid ""
 "h|5.  |The Flame Cannon chuffs out a great gout of soot, covering the target "
 "in black smoke and hot coals. Ten attacks are inflicted this turn but "
@@ -490,7 +594,7 @@ msgstr ""
 "attaques ce tour-ci et ne subit aucune autre pénalité."
 
 #. type: Table
-#: en/revolution/modules/armies/pages/dwarfs.adoc:209
+#: en/revolution/modules/armies/pages/dwarfs.adoc:232
 msgid ""
 "h|6.  |The Flame Cannon lurches in its mountings and heaves forth an "
 "especially huge flame inflicting D6+12 attacks on the target.  The Flame "
@@ -501,18 +605,18 @@ msgstr ""
 "subit pas d’autre pénalité."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:212
+#: en/revolution/modules/armies/pages/dwarfs.adoc:235
 msgid "A Flame Cannon can shoot at charging enemy in the usual way."
 msgstr "Un Canon à Flammes peut tirer sur un ennemi en charge."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:213
+#: en/revolution/modules/armies/pages/dwarfs.adoc:236
 #, no-wrap
 msgid "[[gyrocopter,†6]]6. Gyrocopter"
 msgstr "[[gyrocopter,†6]]6. Gyrocoptère"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/dwarfs.adoc:241
 msgid ""
 "The Gyrocopter is a flying machine, so all the usual flying rules apply. The "
 "model always forms a single unit on its own, must be given orders "
@@ -525,7 +629,7 @@ msgstr ""
 "brigade et ne peut pas être rejointe par un Personnage au combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:226
+#: en/revolution/modules/armies/pages/dwarfs.adoc:249
 msgid ""
 "The Gyrocopter’s fast-firing gun is light in weight and fires a small "
 "calibre shot. It counts Armour values as one worse than normal. The "
@@ -542,13 +646,13 @@ msgstr ""
 "d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:227
+#: en/revolution/modules/armies/pages/dwarfs.adoc:250
 #, no-wrap
 msgid "[[hero,†7]]7. Hero"
 msgstr "[[hero,†7]]7. Héros"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:233
+#: en/revolution/modules/armies/pages/dwarfs.adoc:256
 msgid ""
 "One Hero in the army may be upgraded to carry an Oathstone for +15 pts. Once "
 "per game, the Hero may use the Oathstone to inspire one unit that he has "
@@ -563,13 +667,13 @@ msgstr ""
 "immunisé à la Terreur, jusqu'à la fin de phase de Combat."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:234
+#: en/revolution/modules/armies/pages/dwarfs.adoc:257
 #, no-wrap
 msgid "[[runesmith,†8]]8. Runesmith"
 msgstr "[[runesmith,†8]]8. Maître des Runes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:249
+#: en/revolution/modules/armies/pages/dwarfs.adoc:272
 msgid ""
 "Although they are not wizards and cannot therefore cast spells, Dwarf "
 "Runesmiths can combat the magic of their enemies. If an enemy Wizard who is "
@@ -601,13 +705,13 @@ msgstr ""
 "dissipation du lanceur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dwarfs.adoc:250
+#: en/revolution/modules/armies/pages/dwarfs.adoc:273
 #, no-wrap
 msgid "[[anvil,†9]]9. Anvil"
 msgstr "[[anvil,†9]]9. Enclume du Destin"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:261
+#: en/revolution/modules/armies/pages/dwarfs.adoc:284
 msgid ""
 "The army can only include a single anvil and it is incorporated onto the "
 "stand of a Runesmith. If a Runesmith stand includes the Anvil, once per "
@@ -620,10 +724,10 @@ msgid ""
 "next turn. On a roll of less than 4 there is no effect."
 msgstr ""
 "Une armée ne peut inclure qu’une seule Enclume du Destin, incorporée au "
-"socle du Maître des Runes. Si le Maître des Runes est accompagné de l’"
-"Enclume du Destin, il peut, une fois par partie, ajouter +1 dé à son jet de "
-"dissipation d’un sort ennemi. De plus, le Maître des Runes peut utiliser l’"
-"Enclume du Destin durant la phase de Tir de son propre tour. Le chant "
+"socle du Maître des Runes. Si le Maître des Runes est accompagné de "
+"l’Enclume du Destin, il peut, une fois par partie, ajouter +1 dé à son jet "
+"de dissipation d’un sort ennemi. De plus, le Maître des Runes peut utiliser "
+"l’Enclume du Destin durant la phase de Tir de son propre tour. Le chant "
 "runique de l’artefact emplit les nains alentour d’une détermination encore "
 "plus inébranlable que de coutume ! Jetez 1D6. Sur un résultat de 4+, toutes "
 "les unités naines situées à 20 cm ou moins du Maître des Runes sont "

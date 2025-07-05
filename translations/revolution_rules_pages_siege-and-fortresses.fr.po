@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: 2025-07-04 13:48+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -45,7 +45,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:53
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
 #: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:72
 #: en/revolution/modules/armies/pages/skaven.adoc:76
 #: en/revolution/modules/armies/pages/skaven.adoc:99
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:76
@@ -406,7 +406,7 @@ msgid ""
 "current round."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:226
 msgid ""
 "Brognak, the orcish leader lets his two Rock Lobbers shoot at the gateway of "
@@ -418,14 +418,14 @@ msgid ""
 "successful shooting."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:230
 msgid ""
 "Next round Brognak only rolls one 6; even with the Destruction Token from "
 "the last round 2D6 is insufficient to break the gate."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:240
 msgid ""
 "After 5 rounds of shooting the gate still stands but there are 4 Destruction "
@@ -521,7 +521,7 @@ msgid ""
 "sufficiently large to do so."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:314
 msgid ""
 "One tower seems to be especially resistant.  Although the orcish rock "
@@ -586,7 +586,7 @@ msgid ""
 "adjacent troops that are on the same level as the attacked unit."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:363
 msgid ""
 "The last wall section of three has been breached by Brognak’s rock lobbers. "
@@ -925,7 +925,7 @@ msgstr ""
 msgid "Attacks on ramparts"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:626
 msgid ""
 "A unit of Chaos Ogres manages to take three rampart sections. At one end of "
@@ -933,7 +933,7 @@ msgid ""
 "rampart sections [.edit]#guarded by# a unit of [.edit]#Men-at-arms#."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:631
 msgid ""
 "In their next [.edit]#turn# the Bowmen in the tower may charge the Ogres "
@@ -941,7 +941,7 @@ msgid ""
 "Men-at-arms may charge using their initiative [.edit]#as described above.#"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:636
 msgid ""
 "[.edit]#When these units do so,# they are placed flank-to-flank with the "
@@ -949,7 +949,7 @@ msgid ""
 "side suffers an attack penalty from this#."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:644
 msgid ""
 "The result of the Bowmen’s four attacks is 6–6–3–2, the Men-at-arms’ is 6–4–"
@@ -1130,7 +1130,7 @@ msgid "Defending a tower"
 msgstr ""
 
 #.  Capital letter Sylvanian
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:781
 msgid ""
 "Manfred von Hornberg, commander of a lonely watchtower at the Sylvanian "
@@ -1138,7 +1138,7 @@ msgid ""
 "cannons and a helblaster."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:793
 msgid ""
 "First a unit of grave guards attacks the entrance of the tower. They are "
@@ -1151,7 +1151,7 @@ msgid ""
 "[.edit]#receive# 3 wounds. The second stand of the cannon counters the bats."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:804
 msgid ""
 "The grave guards attack 3 times and roll a total of three 6s, the bats roll "
@@ -1163,7 +1163,7 @@ msgid ""
 "helblaster survives and the guards have to retreat 1 cm out of the tower."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:807
 msgid ""
 "Manfred von Hornberg sighs in relief, but knows the worst is yet to come."
@@ -1234,7 +1234,7 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:864
 msgid ""
-"If a character [.edit]#is on# a fortress section [.edit#when it# is touched "
+"If a character [.edit]#is on# a fortress section [.edit]#when it# is touched "
 "by an enemy unit it [.edit]#must# join a friendly unit within 30cm.  The "
 "buildings or the height of the walls do not restrict the movement of the "
 "character, [.edit]#regardless of any mount#."

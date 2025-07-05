@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 17:58+0200\n"
+"POT-Creation-Date: 2025-07-05 22:25+0200\n"
 "PO-Revision-Date: 2025-07-02 19:13+0000\n"
 "Last-Translator: Weblate Admin <editor@weblate.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Plain text
-#: en/revolution/modules/armies/nav.adoc:7
+#: en/home/modules/ROOT/nav.adoc:1 en/revolution/modules/armies/nav.adoc:7
 #: en/revolution/modules/rules/nav.adoc:3
 msgid "xref:index.adoc[]"
 msgstr ""

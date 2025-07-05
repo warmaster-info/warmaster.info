@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: 2025-07-04 15:04+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -626,7 +626,7 @@ msgid ""
 "|Each Stand  |−1\n"
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/command.adoc:514
 msgid ""
 "The General has a Command value of 9.  He has already moved his cavalry "
@@ -639,7 +639,7 @@ msgid ""
 "scores 4… success! The player moves the cavalry into their new position."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/command.adoc:520
 msgid ""
 "Next, he attempts to give orders to a unit of infantry 10cm away# [.wmr]#(no "
@@ -649,7 +649,7 @@ msgid ""
 "end."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/command.adoc:529
 msgid ""
 "All Characters have +1 bonus to their Command value for their first command "

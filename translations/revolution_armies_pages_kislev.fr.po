@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,44 +18,85 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
+#. type: Attribute :general:
+#: en/revolution/modules/armies/pages/albion.adoc:28
+#: en/revolution/modules/armies/pages/araby.adoc:27
+#: en/revolution/modules/armies/pages/bretonnia.adoc:28
+#: en/revolution/modules/armies/pages/cathay.adoc:32
+#: en/revolution/modules/armies/pages/chaos.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/dark-elves.adoc:27
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
+#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/empire.adoc:30
+#: en/revolution/modules/armies/pages/high-elves.adoc:27
+#: en/revolution/modules/armies/pages/kislev.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/wood-elves.adoc:34
+#: en/revolution/modules/armies/partials/table-attributes.adoc:44
+#, no-wrap
+msgid "General"
+msgstr ""
+
+#. type: Attribute :hero:
+#: en/revolution/modules/armies/pages/albion.adoc:29
+#: en/revolution/modules/armies/pages/araby.adoc:28
+#: en/revolution/modules/armies/pages/bretonnia.adoc:29
+#: en/revolution/modules/armies/pages/cathay.adoc:33
+#: en/revolution/modules/armies/pages/chaos.adoc:33
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/dark-elves.adoc:28
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
+#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/empire.adoc:31
+#: en/revolution/modules/armies/pages/high-elves.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/norse.adoc:29
+#: en/revolution/modules/armies/pages/skaven.adoc:30
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/partials/table-attributes.adoc:45
+#, no-wrap
+msgid "Hero"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -67,84 +108,160 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:146
-#: en/revolution/modules/armies/pages/araby.adoc:222
-#: en/revolution/modules/armies/pages/beastmen.adoc:171
-#: en/revolution/modules/armies/pages/bretonnia.adoc:211
-#: en/revolution/modules/armies/pages/cathay.adoc:179
-#: en/revolution/modules/armies/pages/cathay.adoc:198
-#: en/revolution/modules/armies/pages/chaos.adoc:148
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:225
-#: en/revolution/modules/armies/pages/goblins.adoc:215
-#: en/revolution/modules/armies/pages/high-elves.adoc:181
-#: en/revolution/modules/armies/pages/kislev.adoc:214
-#: en/revolution/modules/armies/pages/norse.adoc:137
-#: en/revolution/modules/armies/pages/orcs.adoc:194
-#: en/revolution/modules/armies/pages/skaven.adoc:218
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
+#: en/revolution/modules/armies/pages/albion.adoc:175
+#: en/revolution/modules/armies/pages/araby.adoc:251
+#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/bretonnia.adoc:242
+#: en/revolution/modules/armies/pages/cathay.adoc:214
+#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/chaos.adoc:181
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
+#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/high-elves.adoc:210
+#: en/revolution/modules/armies/pages/kislev.adoc:243
+#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/orcs.adoc:229
+#: en/revolution/modules/armies/pages/skaven.adoc:247
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:158
-#: en/revolution/modules/armies/pages/albion.adoc:171
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/beastmen.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:203
-#: en/revolution/modules/armies/pages/bretonnia.adoc:227
-#: en/revolution/modules/armies/pages/bretonnia.adoc:246
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
-#: en/revolution/modules/armies/pages/daemons.adoc:180
-#: en/revolution/modules/armies/pages/daemons.adoc:196
-#: en/revolution/modules/armies/pages/dark-elves.adoc:172
-#: en/revolution/modules/armies/pages/goblins.adoc:167
-#: en/revolution/modules/armies/pages/goblins.adoc:200
-#: en/revolution/modules/armies/pages/high-elves.adoc:165
-#: en/revolution/modules/armies/pages/high-elves.adoc:200
-#: en/revolution/modules/armies/pages/kislev.adoc:199
-#: en/revolution/modules/armies/pages/lizardmen.adoc:213
-#: en/revolution/modules/armies/pages/lizardmen.adoc:269
-#: en/revolution/modules/armies/pages/norse.adoc:149
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/araby.adoc:298
+#: en/revolution/modules/armies/pages/beastmen.adoc:217
+#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/bretonnia.adoc:258
+#: en/revolution/modules/armies/pages/bretonnia.adoc:277
+#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/chaos.adoc:201
+#: en/revolution/modules/armies/pages/chaos.adoc:236
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
+#: en/revolution/modules/armies/pages/daemons.adoc:209
+#: en/revolution/modules/armies/pages/daemons.adoc:225
+#: en/revolution/modules/armies/pages/dark-elves.adoc:201
+#: en/revolution/modules/armies/pages/goblins.adoc:196
+#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/high-elves.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:229
+#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:242
+#: en/revolution/modules/armies/pages/lizardmen.adoc:298
+#: en/revolution/modules/armies/pages/norse.adoc:178
+#: en/revolution/modules/armies/pages/norse.adoc:232
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/orcs.adoc:152
-#: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/skaven.adoc:250
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
-#: en/revolution/modules/armies/pages/wood-elves.adoc:190
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:262
+#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
+#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:244
+#: en/revolution/modules/armies/pages/wood-elves.adoc:253
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
+#. type: Attribute :bowmen:
+#: en/revolution/modules/armies/pages/araby.adoc:20
+#: en/revolution/modules/armies/pages/bretonnia.adoc:20
+#: en/revolution/modules/armies/pages/kislev.adoc:22
+#, no-wrap
+msgid "Bowmen"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:228
-#: en/revolution/modules/armies/pages/kislev.adoc:182
-#: en/revolution/modules/armies/pages/lizardmen.adoc:250
-#: en/revolution/modules/armies/pages/norse.adoc:174
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:137
+#: en/revolution/modules/armies/pages/dark-elves.adoc:257
+#: en/revolution/modules/armies/pages/kislev.adoc:211
+#: en/revolution/modules/armies/pages/lizardmen.adoc:279
+#: en/revolution/modules/armies/pages/norse.adoc:203
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:162
 msgid "[.cost]#5+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 
-#. type: Title =
+#. type: Attribute :kislev:
 #: en/revolution/modules/armies/pages/kislev.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:87
 #, no-wrap
 msgid "Kislev"
 msgstr "Kislev"
 
+#. type: Attribute :winged-lancers:
+#: en/revolution/modules/armies/pages/kislev.adoc:19
+#, no-wrap
+msgid "Winged Lancers"
+msgstr ""
+
+#. type: Attribute :horse-archers:
+#: en/revolution/modules/armies/pages/kislev.adoc:20
+#, no-wrap
+msgid "Horse Archers"
+msgstr ""
+
+#. type: Attribute :cossacks:
+#: en/revolution/modules/armies/pages/kislev.adoc:21
+#, no-wrap
+msgid "Cossacks"
+msgstr ""
+
+#. type: Attribute :red-guard:
+#: en/revolution/modules/armies/pages/kislev.adoc:23
+#, no-wrap
+msgid "Red Guard"
+msgstr ""
+
+#. type: Attribute :axemen:
+#: en/revolution/modules/armies/pages/kislev.adoc:24
+#, no-wrap
+msgid "Axemen"
+msgstr ""
+
+#. type: Attribute :bears:
+#: en/revolution/modules/armies/pages/kislev.adoc:25
+#, no-wrap
+msgid "Bears"
+msgstr ""
+
+#. type: Attribute :war-wagon:
+#: en/revolution/modules/armies/pages/kislev.adoc:26
+#, no-wrap
+msgid "War Wagon"
+msgstr ""
+
+#. type: Attribute :shaman:
+#: en/revolution/modules/armies/pages/kislev.adoc:29
+#: en/revolution/modules/armies/pages/norse.adoc:30
+#, no-wrap
+msgid "Shaman"
+msgstr ""
+
+#. type: Attribute :bear:
+#: en/revolution/modules/armies/pages/kislev.adoc:30
+#, no-wrap
+msgid "Bear"
+msgstr ""
+
+#. type: Attribute :yozhin:
+#: en/revolution/modules/armies/pages/kislev.adoc:31
+#, no-wrap
+msgid "Yozhin"
+msgstr ""
+
+#. type: Attribute :tzarina:
+#: en/revolution/modules/armies/pages/kislev.adoc:32
+#, no-wrap
+msgid "Tzarina"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:14
+#: en/revolution/modules/armies/pages/kislev.adoc:43
 msgid ""
 "image:kislev/logo.webp[width=100,height=113,float=\"right\"] The land of "
 "Kislev lies in the north-eastern portion of the Old World between towering "
@@ -162,7 +279,7 @@ msgstr ""
 "rudes, la neige recouvre la terre, et le danger n’est jamais loin."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:25
+#: en/revolution/modules/armies/pages/kislev.adoc:54
 msgid ""
 "Kislev shares its southern border with the Empire but in every other "
 "direction it is surrounded by deadly foes. The eastern mountains are full of "
@@ -184,7 +301,7 @@ msgstr ""
 "humour noir habituel."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:39
+#: en/revolution/modules/armies/pages/kislev.adoc:68
 msgid ""
 "Kislev is reckoned a backward and barbarous country by the people of the "
 "southlands. Some even go as far as to say that the Kislevites are little "
@@ -212,7 +329,7 @@ msgstr ""
 "forcément suspects aux yeux des étrangers."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:50
+#: en/revolution/modules/armies/pages/kislev.adoc:79
 msgid ""
 "Many of the Tzar’s subjects are fierce nomadic horsemen and hunters rather "
 "than settled farmers and town-dwelling traders.  These nomads are the most "
@@ -234,7 +351,7 @@ msgstr ""
 "les différencie de ceux dédiés aux dieux impériaux."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:59
+#: en/revolution/modules/armies/pages/kislev.adoc:88
 msgid ""
 "For many years the Tzars of Kislev have enjoyed the friendship of the "
 "Emperor and the goodwill of the Dwarfs. The present ruler is the Tzarina "
@@ -243,8 +360,8 @@ msgid ""
 "is both abhorred and feared by her people, especially by the nomadic tribes "
 "who believe her to be favoured by the ancient gods of the Gospodars."
 msgstr ""
-"Depuis de nombreuses années, les kislévites jouissent de l’amitié de l’"
-"Empire et entretiennent de bonnes relations avec les nains. Leur souverain "
+"Depuis de nombreuses années, les kislévites jouissent de l’amitié de "
+"l’Empire et entretiennent de bonnes relations avec les nains. Leur souverain "
 "actuel est la Tzarine Katarina, une sorcière connue dans son pays comme "
 "ailleurs sous le nom de Reine des Glaces de Kislev. En elle, les antiques "
 "pouvoirs des Reines-khans ressurgissent, et elle est à la fois vénérée et "
@@ -252,25 +369,25 @@ msgstr ""
 "elle l’élue des dieux Gospodars."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/kislev.adoc:63
+#: en/revolution/modules/armies/pages/kislev.adoc:92
 #, no-wrap
 msgid "Kislev army selector"
 msgstr "Sélecteur d’Armée de Kislev"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/kislev.adoc:68
+#: en/revolution/modules/armies/pages/kislev.adoc:97
 #, no-wrap
 msgid "include::partial$kislev.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:73
+#: en/revolution/modules/armies/pages/kislev.adoc:102
 #, no-wrap
 msgid "[[winged-lancers,†1]]1. Winged Lancers"
 msgstr "[[winged-lancers,†1]]1. Lanciers Ailées"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:76
+#: en/revolution/modules/armies/pages/kislev.adoc:105
 msgid ""
 "Winged Lancers receive +1 Attack in the first round of every combat when "
 "fighting to the front and are Immune to Terror."
@@ -279,13 +396,13 @@ msgstr ""
 "chaque combat quand ils attaquent de front et sont immunisés à la Terreur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:77
+#: en/revolution/modules/armies/pages/kislev.adoc:106
 #, no-wrap
 msgid "[[horse-archers-cossacks,†2]]2. Horse Archers, Cossacks"
 msgstr "[[horse-archers-cossacks,†2]]2. Archers à Cheval, Kossars"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:82
+#: en/revolution/modules/armies/pages/kislev.adoc:111
 msgid ""
 "Kislevite Horsemen have a shooting range of 15 cm and 360° vision – stands "
 "in this unit can draw line of sight from all edges for the purpose of "
@@ -300,13 +417,13 @@ msgstr ""
 "un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:83
+#: en/revolution/modules/armies/pages/kislev.adoc:112
 #, no-wrap
 msgid "[[bowmen,†3]]3. Bowmen"
 msgstr "[[bowmen,†3]]3. Archers"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:86
+#: en/revolution/modules/armies/pages/kislev.adoc:115
 msgid ""
 "One unit of Bowmen per full 1000 points can replace a unit of Axemen while "
 "still counting for Axemen min/max value."
@@ -315,13 +432,13 @@ msgstr ""
 "Bucherons tout en comptant dans la valeur de min/max des Bucherons."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:87
+#: en/revolution/modules/armies/pages/kislev.adoc:116
 #, no-wrap
 msgid "[[red-guard,†4]]4. Red Guard"
 msgstr "[[red-guard,†4]]4. Streltsi"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:92
+#: en/revolution/modules/armies/pages/kislev.adoc:121
 msgid ""
 "In addition to traditional Kislevite long axes Red Guard is armed with "
 "handguns. Count enemy armour values as one worse than normal when shot by a "
@@ -329,29 +446,29 @@ msgid ""
 "whilst an armour value of 6+ can’t save against a handgun."
 msgstr ""
 "En plus de la traditionnelle grande hache kislévite, les Streltsis sont "
-"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à l’"
-"Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, une "
-"de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
+"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à "
+"l’Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, "
+"une de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:93
+#: en/revolution/modules/armies/pages/kislev.adoc:122
 #, no-wrap
 msgid "[[bears,†5]]5. Bears"
 msgstr "[[bears,†5]]5. Ours"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:97
+#: en/revolution/modules/armies/pages/kislev.adoc:126
 msgid ""
 "Bears are defined as infantry for rules purposes as this gives them the "
 "appropriate mobility for such creatures, but they add +1 Attack when they "
 "charge an enemy in the open in the same way as monsters and chariots."
 msgstr ""
 "Les Ours sont considérés comme de l’infanterie pour ce qui est des règles, "
-"car cela reflète leur mobilité, mais ils bénéficient de +1 Attaque lorsqu’"
-"ils chargent un ennemi à découvert, comme les chars et les monstres."
+"car cela reflète leur mobilité, mais ils bénéficient de +1 Attaque "
+"lorsqu’ils chargent un ennemi à découvert, comme les chars et les monstres."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:102
+#: en/revolution/modules/armies/pages/kislev.adoc:131
 msgid ""
 "A Bear unit can only give support and be supported by other Bear units and "
 "must pursue retreating enemy where possible and must advance if they are "
@@ -363,7 +480,7 @@ msgstr ""
 "difficile."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:106
+#: en/revolution/modules/armies/pages/kislev.adoc:135
 msgid ""
 "Note that these rules apply only to Bear units – not to characters riding a "
 "Bear or Shaman that have transformed in Monster Bear."
@@ -373,13 +490,13 @@ msgstr ""
 "en Ours."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:107
+#: en/revolution/modules/armies/pages/kislev.adoc:136
 #, no-wrap
 msgid "[[war-wagon,†6]]6. War Wagon"
 msgstr "[[war-wagon,†6]]6. Chariot de Guerre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:116
+#: en/revolution/modules/armies/pages/kislev.adoc:145
 msgid ""
 "image:kislev/wagon-laagered.webp[width=250,height=253,float=\"right\"]"
 "{empty} The War Wagon consists of a wagon stand and a horse team stand. The "
@@ -391,7 +508,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:125
+#: en/revolution/modules/armies/pages/kislev.adoc:154
 msgid ""
 "The War Wagon has 4+ Armour and total of 4 shooting and 4 close combat "
 "Attacks as long as the wagon stand remains. If the wagon stand is removed "
@@ -403,7 +520,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:136
+#: en/revolution/modules/armies/pages/kislev.adoc:165
 msgid ""
 "A laagered wagon counts as a defended unit. A wagon column counts as in the "
 "open. A laagered wagon has no sides or rear. A laagered wagon cannot be "
@@ -413,7 +530,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:145
+#: en/revolution/modules/armies/pages/kislev.adoc:174
 msgid ""
 "image:kislev/wagon-column.webp[width=132,height=499,float=\"right\"] "
 "Although it is an artillery unit, a wagon column cannot pursue but it is not "
@@ -425,7 +542,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:150
+#: en/revolution/modules/armies/pages/kislev.adoc:179
 msgid ""
 "Any Kislev infantry unit with a side edge of one stand touching wholly the "
 "short edge of a laagered wagon stand counts as defended for shooting and "
@@ -433,26 +550,26 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:151
+#: en/revolution/modules/armies/pages/kislev.adoc:180
 #, no-wrap
 msgid "[[bear-mount,†7]]7. Bear Mount"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:153
+#: en/revolution/modules/armies/pages/kislev.adoc:182
 msgid ""
 "Generals, Heroes and Shamans can ride a Bear mount. The Bear adds +1 Attack "
 "to that of its rider."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:154
+#: en/revolution/modules/armies/pages/kislev.adoc:183
 #, no-wrap
 msgid "[[yozhin,†8]]8. Yozhin"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:163
+#: en/revolution/modules/armies/pages/kislev.adoc:192
 msgid ""
 "This creature lives in swamps near the Praag since the great incursion of "
 "Chaos. Yozhin strongly hates any kind of Chaos, being (possibly) chaos-"
@@ -464,13 +581,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/kislev.adoc:164
+#: en/revolution/modules/armies/pages/kislev.adoc:193
 #, no-wrap
 msgid "[[tzarina,†9]]9. Tzarina"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:172
+#: en/revolution/modules/armies/pages/kislev.adoc:201
 msgid ""
 "The General may be a Tzarina of the royal blood – perhaps Tzarina Katrina "
 "herself. The Tzarina rides a horse-drawn sled – note this is not a chariot! "
@@ -482,26 +599,26 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/kislev.adoc:176
+#: en/revolution/modules/armies/pages/kislev.adoc:205
 #, no-wrap
 msgid "Kislev spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/kislev.adoc:179
+#: en/revolution/modules/armies/pages/kislev.adoc:208
 #, no-wrap
 msgid "Monster Bear!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:185
+#: en/revolution/modules/armies/pages/kislev.adoc:214
 msgid ""
 "_The wizard transforms himself into a gigantic ferocious supernatural bear "
 "and hurls himself into the enemy’s ranks._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:189
+#: en/revolution/modules/armies/pages/kislev.adoc:218
 msgid ""
 "The wizard can cast this spell on himself if he has joined a unit that is "
 "engaged in combat. The spell lasts for the duration of the following Combat "
@@ -509,7 +626,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:194
+#: en/revolution/modules/armies/pages/kislev.adoc:223
 msgid ""
 "The unit causes terror and the wizard gains a further +2 Attack bonus that "
 "he adds to the unit in the regular way. Note that if the Tzarina uses this "
@@ -517,20 +634,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/kislev.adoc:196
+#: en/revolution/modules/armies/pages/kislev.adoc:225
 #, no-wrap
 msgid "Icy Blast"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:202
+#: en/revolution/modules/armies/pages/kislev.adoc:231
 msgid ""
 "_An icy blast shoots from the wizard’s outstretched arm and strikes his "
 "foes._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:209
+#: en/revolution/modules/armies/pages/kislev.adoc:238
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -540,21 +657,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/kislev.adoc:211
+#: en/revolution/modules/armies/pages/kislev.adoc:240
 #, no-wrap
 msgid "Chill"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:217
+#: en/revolution/modules/armies/pages/kislev.adoc:246
 msgid ""
 "_A fierce chill envelops the unit, freezing its warriors and hindering its "
 "ability to fight._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:224
-#: en/revolution/modules/armies/pages/skaven.adoc:228
+#: en/revolution/modules/armies/pages/kislev.adoc:253
+#: en/revolution/modules/armies/pages/skaven.adoc:257
 msgid ""
 "This spell can be cast upon an enemy unit that is engaged in combat and "
 "which is within range. The Wizard does not have to be able to see the target "
@@ -564,30 +681,30 @@ msgid ""
 msgstr ""
 "Ce sort peut être lancé sur une unité ennemie à portée et engagée en combat, "
 "que le Sorcier puisse la voir ou non. Il dure jusqu'à la fin de la prochaine "
-"phase de Combat. Chaque socle de l’unité, y compris les personnages qui l’"
-"ont rejointe, voit son nombre d’Attaques réduit de -1."
+"phase de Combat. Chaque socle de l’unité, y compris les personnages qui "
+"l’ont rejointe, voit son nombre d’Attaques réduit de -1."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/kislev.adoc:226
+#: en/revolution/modules/armies/pages/kislev.adoc:255
 #, no-wrap
 msgid "Freeze"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:229
-#: en/revolution/modules/armies/pages/wood-elves.adoc:227
+#: en/revolution/modules/armies/pages/kislev.adoc:258
+#: en/revolution/modules/armies/pages/wood-elves.adoc:266
 msgid "[.cost]#6+ to cast# [.points]#Range 60cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:232
+#: en/revolution/modules/armies/pages/kislev.adoc:261
 msgid ""
 "_An ill wind turns the enemy so brittle that wood, flesh and even iron "
 "shatters and falls to the ground in splinters._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:236
+#: en/revolution/modules/armies/pages/kislev.adoc:265
 msgid ""
 "This spell can be cast at an enemy unit within range regardless of whether "
 "the wizard can see it or not. The spell cannot be directed at a unit engaged "
@@ -595,7 +712,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:241
+#: en/revolution/modules/armies/pages/kislev.adoc:270
 msgid ""
 "Roll a D6. If the score exceeds the number of hits that the target troop "
 "type has then one stand is destroyed. If not then the target is unscathed. "

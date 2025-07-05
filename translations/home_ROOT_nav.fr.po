@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-01 00:06+0200\n"
+"POT-Creation-Date: 2025-07-05 22:25+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#.  Not shown with the "home" layout.
 #. type: Plain text
-#: en/home/modules/ROOT/nav.adoc:2
-msgid "xref:index.adoc[Welcome]"
+#: en/home/modules/ROOT/nav.adoc:1 en/revolution/modules/armies/nav.adoc:7
+#: en/revolution/modules/rules/nav.adoc:3
+msgid "xref:index.adoc[]"
 msgstr ""

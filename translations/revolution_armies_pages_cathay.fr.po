@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,44 +18,105 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
+#. type: Attribute :chariots:
+#: en/revolution/modules/armies/pages/albion.adoc:24
+#: en/revolution/modules/armies/pages/cathay.adoc:27
+#: en/revolution/modules/armies/pages/high-elves.adoc:23
+#, no-wrap
+msgid "Chariots"
+msgstr ""
+
+#. type: Attribute :general:
+#: en/revolution/modules/armies/pages/albion.adoc:28
+#: en/revolution/modules/armies/pages/araby.adoc:27
+#: en/revolution/modules/armies/pages/bretonnia.adoc:28
+#: en/revolution/modules/armies/pages/cathay.adoc:32
+#: en/revolution/modules/armies/pages/chaos.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/dark-elves.adoc:27
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
+#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/empire.adoc:30
+#: en/revolution/modules/armies/pages/high-elves.adoc:27
+#: en/revolution/modules/armies/pages/kislev.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/wood-elves.adoc:34
+#: en/revolution/modules/armies/partials/table-attributes.adoc:44
+#, no-wrap
+msgid "General"
+msgstr ""
+
+#. type: Attribute :hero:
+#: en/revolution/modules/armies/pages/albion.adoc:29
+#: en/revolution/modules/armies/pages/araby.adoc:28
+#: en/revolution/modules/armies/pages/bretonnia.adoc:29
+#: en/revolution/modules/armies/pages/cathay.adoc:33
+#: en/revolution/modules/armies/pages/chaos.adoc:33
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/dark-elves.adoc:28
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
+#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/empire.adoc:31
+#: en/revolution/modules/armies/pages/high-elves.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/norse.adoc:29
+#: en/revolution/modules/armies/pages/skaven.adoc:30
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/partials/table-attributes.adoc:45
+#, no-wrap
+msgid "Hero"
+msgstr ""
+
+#. type: Attribute :chariot:
+#: en/revolution/modules/armies/pages/albion.adoc:32
+#: en/revolution/modules/armies/pages/cathay.adoc:35
+#: en/revolution/modules/armies/pages/chaos.adoc:36
+#: en/revolution/modules/armies/pages/dark-elves.adoc:31
+#: en/revolution/modules/armies/pages/high-elves.adoc:32
+#: en/revolution/modules/armies/pages/orcs.adoc:38
+#: en/revolution/modules/armies/partials/table-attributes.adoc:40
+#, no-wrap
+msgid "Chariot"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -67,92 +128,173 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:146
-#: en/revolution/modules/armies/pages/araby.adoc:222
-#: en/revolution/modules/armies/pages/beastmen.adoc:171
-#: en/revolution/modules/armies/pages/bretonnia.adoc:211
-#: en/revolution/modules/armies/pages/cathay.adoc:179
-#: en/revolution/modules/armies/pages/cathay.adoc:198
-#: en/revolution/modules/armies/pages/chaos.adoc:148
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:225
-#: en/revolution/modules/armies/pages/goblins.adoc:215
-#: en/revolution/modules/armies/pages/high-elves.adoc:181
-#: en/revolution/modules/armies/pages/kislev.adoc:214
-#: en/revolution/modules/armies/pages/norse.adoc:137
-#: en/revolution/modules/armies/pages/orcs.adoc:194
-#: en/revolution/modules/armies/pages/skaven.adoc:218
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
+#: en/revolution/modules/armies/pages/albion.adoc:175
+#: en/revolution/modules/armies/pages/araby.adoc:251
+#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/bretonnia.adoc:242
+#: en/revolution/modules/armies/pages/cathay.adoc:214
+#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/chaos.adoc:181
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
+#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/high-elves.adoc:210
+#: en/revolution/modules/armies/pages/kislev.adoc:243
+#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/orcs.adoc:229
+#: en/revolution/modules/armies/pages/skaven.adoc:247
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:158
-#: en/revolution/modules/armies/pages/albion.adoc:171
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/beastmen.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:203
-#: en/revolution/modules/armies/pages/bretonnia.adoc:227
-#: en/revolution/modules/armies/pages/bretonnia.adoc:246
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
-#: en/revolution/modules/armies/pages/daemons.adoc:180
-#: en/revolution/modules/armies/pages/daemons.adoc:196
-#: en/revolution/modules/armies/pages/dark-elves.adoc:172
-#: en/revolution/modules/armies/pages/goblins.adoc:167
-#: en/revolution/modules/armies/pages/goblins.adoc:200
-#: en/revolution/modules/armies/pages/high-elves.adoc:165
-#: en/revolution/modules/armies/pages/high-elves.adoc:200
-#: en/revolution/modules/armies/pages/kislev.adoc:199
-#: en/revolution/modules/armies/pages/lizardmen.adoc:213
-#: en/revolution/modules/armies/pages/lizardmen.adoc:269
-#: en/revolution/modules/armies/pages/norse.adoc:149
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/araby.adoc:298
+#: en/revolution/modules/armies/pages/beastmen.adoc:217
+#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/bretonnia.adoc:258
+#: en/revolution/modules/armies/pages/bretonnia.adoc:277
+#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/chaos.adoc:201
+#: en/revolution/modules/armies/pages/chaos.adoc:236
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
+#: en/revolution/modules/armies/pages/daemons.adoc:209
+#: en/revolution/modules/armies/pages/daemons.adoc:225
+#: en/revolution/modules/armies/pages/dark-elves.adoc:201
+#: en/revolution/modules/armies/pages/goblins.adoc:196
+#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/high-elves.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:229
+#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:242
+#: en/revolution/modules/armies/pages/lizardmen.adoc:298
+#: en/revolution/modules/armies/pages/norse.adoc:178
+#: en/revolution/modules/armies/pages/norse.adoc:232
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/orcs.adoc:152
-#: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/skaven.adoc:250
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
-#: en/revolution/modules/armies/pages/wood-elves.adoc:190
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:262
+#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
+#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:244
+#: en/revolution/modules/armies/pages/wood-elves.adoc:253
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:58
-#: en/revolution/modules/armies/pages/bretonnia.adoc:88
-#: en/revolution/modules/armies/pages/cathay.adoc:84
-#: en/revolution/modules/armies/pages/daemons.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:90
-#: en/revolution/modules/armies/pages/nippon.adoc:90
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:68
-#: en/revolution/modules/armies/pages/skaven.adoc:79
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:79
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:79
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:66
-#: en/revolution/modules/armies/pages/wood-elves.adoc:65
+#: en/revolution/modules/armies/pages/beastmen.adoc:89
+#: en/revolution/modules/armies/pages/bretonnia.adoc:119
+#: en/revolution/modules/armies/pages/cathay.adoc:119
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/lizardmen.adoc:119
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:175
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:106
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:106
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:91
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
 
-#. type: Title =
+#. type: Attribute :cathay:
 #: en/revolution/modules/armies/pages/cathay.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:101
 #, no-wrap
 msgid "Cathay"
 msgstr ""
 
-#. type: Plain text
+#. type: Attribute :bannermen:
+#: en/revolution/modules/armies/pages/cathay.adoc:22
+#, no-wrap
+msgid "Bannermen"
+msgstr ""
+
+#. type: Attribute :crossbows:
 #: en/revolution/modules/armies/pages/cathay.adoc:23
+#, no-wrap
+msgid "Crossbows"
+msgstr ""
+
+#. type: Attribute :handguns:
+#: en/revolution/modules/armies/pages/cathay.adoc:24
+#, no-wrap
+msgid "Handguns"
+msgstr ""
+
+#. type: Attribute :terracotta-warriors:
+#: en/revolution/modules/armies/pages/cathay.adoc:25
+#, no-wrap
+msgid "Terracotta Warriors"
+msgstr ""
+
+#. type: Attribute :maneaters:
+#: en/revolution/modules/armies/pages/cathay.adoc:26
+#, no-wrap
+msgid "Maneaters"
+msgstr ""
+
+#. type: Attribute :imperial-cavalry:
+#: en/revolution/modules/armies/pages/cathay.adoc:28
+#, no-wrap
+msgid "Imperial Cavalry"
+msgstr ""
+
+#. type: Attribute :hu-cavalry:
+#: en/revolution/modules/armies/pages/cathay.adoc:29
+#, no-wrap
+msgid "Hu Cavalry"
+msgstr ""
+
+#. type: Attribute :rocket-launcher:
+#: en/revolution/modules/armies/pages/cathay.adoc:30
+#, no-wrap
+msgid "Rocket Launcher"
+msgstr ""
+
+#. type: Attribute :triple-bows:
+#: en/revolution/modules/armies/pages/cathay.adoc:31
+#, no-wrap
+msgid "Triple Bows"
+msgstr ""
+
+#. type: Attribute :sorcerer:
+#: en/revolution/modules/armies/pages/cathay.adoc:34
+#: en/revolution/modules/armies/pages/chaos.adoc:34
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
+#, no-wrap
+msgid "Sorcerer"
+msgstr ""
+
+#. type: Attribute :celestial-dragon:
+#: en/revolution/modules/armies/pages/cathay.adoc:36
+#, no-wrap
+msgid "Celestial Dragon"
+msgstr ""
+
+#. type: Attribute :tiger:
+#: en/revolution/modules/armies/pages/cathay.adoc:37
+#, no-wrap
+msgid "Tiger"
+msgstr ""
+
+#. type: Attribute :qilin:
+#: en/revolution/modules/armies/pages/cathay.adoc:38
+#, no-wrap
+msgid "Qilin"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/cathay.adoc:58
 msgid ""
 "image:cathay/logo.webp[width=170,height=172,float=\"right\"] Locate far to "
 "the east of the Old World, the Grand Empire of Cathay is populous, wealth, "
@@ -171,7 +313,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:39
+#: en/revolution/modules/armies/pages/cathay.adoc:74
 msgid ""
 "Ruled by the immortal Dragon Emperor and his shape-shifting offspring, "
 "Cathay’s society is extremely hierarchical. Strong administrative structures "
@@ -189,7 +331,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:50
+#: en/revolution/modules/armies/pages/cathay.adoc:85
 msgid ""
 "Regular taxation upon the thriving economy, augmented by the imperial gold "
 "mines, provide great riches which the governing elite have channelled into "
@@ -202,7 +344,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:58
+#: en/revolution/modules/armies/pages/cathay.adoc:93
 msgid ""
 "Perennial wars have been fought along all borders, but Chaos incursions and "
 "Hobgoblin raiders have been the most challenging, while the Dark Elves have "
@@ -213,7 +355,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:69
+#: en/revolution/modules/armies/pages/cathay.adoc:104
 msgid ""
 "Cathay’s armies have relied primarily upon the iron discipline of their "
 "conscript troops. Fighting heroically, outnumbered forces will seek to wear "
@@ -226,25 +368,25 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/cathay.adoc:73
+#: en/revolution/modules/armies/pages/cathay.adoc:108
 #, no-wrap
 msgid "Cathay army selector"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/cathay.adoc:78
+#: en/revolution/modules/armies/pages/cathay.adoc:113
 #, no-wrap
 msgid "include::partial$cathay.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:86
+#: en/revolution/modules/armies/pages/cathay.adoc:121
 #, no-wrap
 msgid "Structure and Discipline"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:92
+#: en/revolution/modules/armies/pages/cathay.adoc:127
 msgid ""
 "To reflect their empire’s high-quality military organisation and command "
 "arrangements, Cathay commanders may issue orders to brigades of up to 6 "
@@ -255,13 +397,13 @@ msgstr ""
 
 #. 3: its, remove handguns,
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:100
+#: en/revolution/modules/armies/pages/cathay.adoc:135
 #, no-wrap
 msgid "[[handguns,†1]]1. Handguns"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:105
+#: en/revolution/modules/armies/pages/cathay.adoc:140
 msgid ""
 "Any or all of the army’s Crossbows units can be replaced by Handguns while "
 "still counting for the Crossbow min/max value. Their projectiles can pierce "
@@ -275,13 +417,13 @@ msgstr ""
 "d'Arquebusiers subit un malus de -1 à ses jets d'Armure."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:106
+#: en/revolution/modules/armies/pages/cathay.adoc:141
 #, no-wrap
 msgid "[[terracotta-warriors,†2]]2. Terracotta Warriors"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:112
+#: en/revolution/modules/armies/pages/cathay.adoc:147
 msgid ""
 "These warriors are Undead, so cannot act on initiative, are unaffected by "
 "terror or enemy within 20cm, and cannot be confused. They can only brigade "
@@ -290,13 +432,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:113
+#: en/revolution/modules/armies/pages/cathay.adoc:148
 #, no-wrap
 msgid "[[hu-cavalry,†3]]3. Hu Cavalry"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:153
 msgid ""
 "They have a shooting range of 15cm and 360° vision – stands in this unit can "
 "draw line of sight from all edges for the purpose of evading and shooting, "
@@ -310,13 +452,13 @@ msgstr ""
 "de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:119
+#: en/revolution/modules/armies/pages/cathay.adoc:154
 #, no-wrap
 msgid "[[rocket-launcher,†4]]4. Rocket Launcher"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:126
+#: en/revolution/modules/armies/pages/cathay.adoc:161
 msgid ""
 "The Rocket Launcher is treated as a xref:rules:artillery-and-"
 "machines.adoc#stone-thrower[Stone Thrower] as described in the Rulebook, "
@@ -327,13 +469,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/armies/pages/cathay.adoc:127
+#: en/revolution/modules/armies/pages/cathay.adoc:162
 #, no-wrap
 msgid "Rocket Launcher Misfire Chart"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/cathay.adoc:153
+#: en/revolution/modules/armies/pages/cathay.adoc:188
 #, no-wrap
 msgid ""
 "|D6 |Result\n"
@@ -362,26 +504,26 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:155
+#: en/revolution/modules/armies/pages/cathay.adoc:190
 #, no-wrap
 msgid "[[triple-bows,†5]]5. Triple Bows"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:157
+#: en/revolution/modules/armies/pages/cathay.adoc:192
 msgid ""
 "Triple Bows are xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt "
 "Throwers] as described in the main rulebook."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:158
+#: en/revolution/modules/armies/pages/cathay.adoc:193
 #, no-wrap
 msgid "[[celestial-dragon,†6]]6. Celestial Dragon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:162
+#: en/revolution/modules/armies/pages/cathay.adoc:197
 msgid ""
 "One Sorcerer per army can be upgraded to become a dragon which flies, gives "
 "orders, casts spells, and causes terror. The dragon cannot give orders to "
@@ -389,24 +531,24 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:163
+#: en/revolution/modules/armies/pages/cathay.adoc:198
 #, no-wrap
 msgid "[[tiger,†7]]7. Tiger"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:164
+#: en/revolution/modules/armies/pages/cathay.adoc:199
 msgid "Tigers cannot be ridden by Sorcerers."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/cathay.adoc:165
+#: en/revolution/modules/armies/pages/cathay.adoc:200
 #, no-wrap
 msgid "[[qilin,†8]]8. Qilin"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:169
+#: en/revolution/modules/armies/pages/cathay.adoc:204
 msgid ""
 "Only a Sorcerer can ride a Qilin. Once per battle the Qilin’s magical power "
 "adds +1 to the dice roll when casting a spell. The player must announce that "
@@ -414,19 +556,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/cathay.adoc:173
+#: en/revolution/modules/armies/pages/cathay.adoc:208
 #, no-wrap
 msgid "Cathay spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/cathay.adoc:176
+#: en/revolution/modules/armies/pages/cathay.adoc:211
 #, no-wrap
 msgid "Glory of Cathay"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:183
+#: en/revolution/modules/armies/pages/cathay.adoc:218
 msgid ""
 "_Channelling powerful lores, the sorcerer gifts remarkable accuracy and "
 "reloading dexterity to the empire’s defenders.  Their opponents are thereby "
@@ -434,7 +576,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:193
+#: en/revolution/modules/armies/pages/cathay.adoc:228
 msgid ""
 "This spell can be cast upon a friendly unit of unengaged missile-armed "
 "infantry or chariots within range. The Sorcerer does not need to be able to "
@@ -446,20 +588,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/cathay.adoc:195
+#: en/revolution/modules/armies/pages/cathay.adoc:230
 #, no-wrap
 msgid "Lion Dogs Attack"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:202
+#: en/revolution/modules/armies/pages/cathay.adoc:237
 msgid ""
 "_Complex astromancy allows the sorcerer to surround enemies with bright and "
 "disorientating illusions in the form of terrible beasts._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:210
+#: en/revolution/modules/armies/pages/cathay.adoc:245
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Sorcerer can see it or not. The spell takes effect until the end of the "
@@ -470,13 +612,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/cathay.adoc:212
+#: en/revolution/modules/armies/pages/cathay.adoc:247
 #, no-wrap
 msgid "Ferocity of Tigers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:220
+#: en/revolution/modules/armies/pages/cathay.adoc:255
 msgid ""
 "_Opening a portal to the past, the sorcerer imbues Cathay’s troops with the "
 "spirit and stoicism of their ancestors. Filled with an overwhelming resolve "
@@ -484,7 +626,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:226
+#: en/revolution/modules/armies/pages/cathay.adoc:261
 msgid ""
 "This spell can be cast on a friendly unit engaged in combat. The spell can "
 "be cast regardless of whether the Sorcerer can see the target or not. The "
@@ -494,18 +636,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/cathay.adoc:228
+#: en/revolution/modules/armies/pages/cathay.adoc:263
 #, no-wrap
 msgid "Tranquility of Heaven"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:231
+#: en/revolution/modules/armies/pages/cathay.adoc:266
 msgid "[.cost]#5+ to cast# [.points]#Range 15cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:235
+#: en/revolution/modules/armies/pages/cathay.adoc:270
 msgid ""
 "_Bestilling the sound and fury of battle, the sorcerer magically deadens the "
 "fears of wavering soldiers, thus allowing the commands of their officers to "
@@ -513,7 +655,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/cathay.adoc:238
+#: en/revolution/modules/armies/pages/cathay.adoc:273
 msgid ""
 "All friendly units within 15cm of Sorcerer count as immune to terror until "
 "the end of the enemy player’s next turn."

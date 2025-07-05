@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-04 09:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,43 +19,43 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -67,78 +67,78 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:158
-#: en/revolution/modules/armies/pages/albion.adoc:171
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/beastmen.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:203
-#: en/revolution/modules/armies/pages/bretonnia.adoc:227
-#: en/revolution/modules/armies/pages/bretonnia.adoc:246
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
-#: en/revolution/modules/armies/pages/daemons.adoc:180
-#: en/revolution/modules/armies/pages/daemons.adoc:196
-#: en/revolution/modules/armies/pages/dark-elves.adoc:172
-#: en/revolution/modules/armies/pages/goblins.adoc:167
-#: en/revolution/modules/armies/pages/goblins.adoc:200
-#: en/revolution/modules/armies/pages/high-elves.adoc:165
-#: en/revolution/modules/armies/pages/high-elves.adoc:200
-#: en/revolution/modules/armies/pages/kislev.adoc:199
-#: en/revolution/modules/armies/pages/lizardmen.adoc:213
-#: en/revolution/modules/armies/pages/lizardmen.adoc:269
-#: en/revolution/modules/armies/pages/norse.adoc:149
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/araby.adoc:298
+#: en/revolution/modules/armies/pages/beastmen.adoc:217
+#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/bretonnia.adoc:258
+#: en/revolution/modules/armies/pages/bretonnia.adoc:277
+#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/chaos.adoc:201
+#: en/revolution/modules/armies/pages/chaos.adoc:236
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
+#: en/revolution/modules/armies/pages/daemons.adoc:209
+#: en/revolution/modules/armies/pages/daemons.adoc:225
+#: en/revolution/modules/armies/pages/dark-elves.adoc:201
+#: en/revolution/modules/armies/pages/goblins.adoc:196
+#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/high-elves.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:229
+#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:242
+#: en/revolution/modules/armies/pages/lizardmen.adoc:298
+#: en/revolution/modules/armies/pages/norse.adoc:178
+#: en/revolution/modules/armies/pages/norse.adoc:232
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/orcs.adoc:152
-#: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/skaven.adoc:250
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
-#: en/revolution/modules/armies/pages/wood-elves.adoc:190
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:262
+#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
+#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:244
+#: en/revolution/modules/armies/pages/wood-elves.adoc:253
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:240
-#: en/revolution/modules/armies/pages/daemons.adoc:160
-#: en/revolution/modules/armies/pages/dark-elves.adoc:209
-#: en/revolution/modules/armies/pages/lizardmen.adoc:231
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:206
+#: en/revolution/modules/armies/pages/araby.adoc:269
+#: en/revolution/modules/armies/pages/daemons.adoc:189
+#: en/revolution/modules/armies/pages/dark-elves.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:260
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:233
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:58
-#: en/revolution/modules/armies/pages/bretonnia.adoc:88
-#: en/revolution/modules/armies/pages/cathay.adoc:84
-#: en/revolution/modules/armies/pages/daemons.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:90
-#: en/revolution/modules/armies/pages/nippon.adoc:90
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:68
-#: en/revolution/modules/armies/pages/skaven.adoc:79
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:79
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:79
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:66
-#: en/revolution/modules/armies/pages/wood-elves.adoc:65
+#: en/revolution/modules/armies/pages/beastmen.adoc:89
+#: en/revolution/modules/armies/pages/bretonnia.adoc:119
+#: en/revolution/modules/armies/pages/cathay.adoc:119
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/lizardmen.adoc:119
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:175
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:106
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:106
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:91
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/daemons.adoc:204
-#: en/revolution/modules/armies/pages/lizardmen.adoc:221
-#: en/revolution/modules/armies/pages/skaven.adoc:240
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:233
+#: en/revolution/modules/armies/pages/daemons.adoc:233
+#: en/revolution/modules/armies/pages/lizardmen.adoc:250
+#: en/revolution/modules/armies/pages/skaven.adoc:269
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -148,22 +148,107 @@ msgstr ""
 "être lancé sur une unité engagée en combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:228
-#: en/revolution/modules/armies/pages/kislev.adoc:182
-#: en/revolution/modules/armies/pages/lizardmen.adoc:250
-#: en/revolution/modules/armies/pages/norse.adoc:174
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:137
+#: en/revolution/modules/armies/pages/dark-elves.adoc:257
+#: en/revolution/modules/armies/pages/kislev.adoc:211
+#: en/revolution/modules/armies/pages/lizardmen.adoc:279
+#: en/revolution/modules/armies/pages/norse.adoc:203
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:162
 msgid "[.cost]#5+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 
-#. type: Title =
+#. type: Attribute :lizardmen:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:85
 #, no-wrap
 msgid "Lizardmen"
 msgstr "Hommes-Lézards"
 
-#. type: Plain text
+#. type: Attribute :skinks:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:19
+#, no-wrap
+msgid "Skinks"
+msgstr ""
+
+#. type: Attribute :saurus:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:20
+#, no-wrap
+msgid "Saurus"
+msgstr ""
+
+#. type: Attribute :temple-guard:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:21
+#, no-wrap
+msgid "Temple Guard"
+msgstr ""
+
+#. type: Attribute :salamanders:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:22
+#, no-wrap
+msgid "Salamanders"
+msgstr ""
+
+#. type: Attribute :kroxigor:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:23
+#, no-wrap
+msgid "Kroxigor"
+msgstr ""
+
+#. type: Attribute :cold-one-riders:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:24
+#, no-wrap
+msgid "Cold One Riders"
+msgstr ""
+
+#. type: Attribute :terradons:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:25
+#, no-wrap
+msgid "Terradons"
+msgstr ""
+
+#. type: Attribute :stegadon:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:26
+#, no-wrap
+msgid "Stegadon"
+msgstr ""
+
+#. type: Attribute :slann-mage-palanquin:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:27
+#, no-wrap
+msgid "Slann Mage Palanquin"
+msgstr ""
+
+#. type: Attribute :saurus-hero:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:28
+#, no-wrap
+msgid "Saurus Hero"
+msgstr ""
+
+#. type: Attribute :skink-hero:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:29
+#, no-wrap
+msgid "Skink Hero"
+msgstr ""
+
+#. type: Attribute :skink-shaman:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:30
+#, no-wrap
+msgid "Skink Shaman"
+msgstr ""
+
+#. type: Attribute :stegadon-mount:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:31
+#, no-wrap
+msgid "Stegadon Mount"
+msgstr ""
+
+#. type: Attribute :carnosaur:
+#: en/revolution/modules/armies/pages/lizardmen.adoc:32
+#, no-wrap
+msgid "Carnosaur"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/lizardmen.adoc:50
 msgid ""
 "image:lizardmen/logo.webp[width=99,height=92,float=\"right\"] Before Chaos "
 "came into the world there was a more ancient forgotten age – the Age of the "
@@ -187,12 +272,12 @@ msgstr ""
 "venaient pas de ce monde, mais du grand vide spatial. Ils voyageaient entre "
 "les étoiles dans leurs grandes nefs d’argent, au moyen d’immenses portails "
 "dimensionnels façonnés par leur mélange unique de sorcellerie et de science. "
-"En ces temps oubliés, les Anciens étaient les maîtres indiscutés de l’"
-"univers, du temps et de l’espace. Notre monde n’était qu’une colonie mineure "
-"dans une mer d’étoiles."
+"En ces temps oubliés, les Anciens étaient les maîtres indiscutés de "
+"l’univers, du temps et de l’espace. Notre monde n’était qu’une colonie "
+"mineure dans une mer d’étoiles."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:38
+#: en/revolution/modules/armies/pages/lizardmen.adoc:67
 msgid ""
 "According to the most ancient records preserved in Lustria, themselves a "
 "cryptic and much distorted copy of even older accounts now lost, the Old "
@@ -214,8 +299,8 @@ msgstr ""
 "perdu, les Anciens découvrirent un monde glaciaire désolé où ne vivaient que "
 "des reptiles primitifs. Les Anciens employèrent alors des techniques "
 "ésotériques pour faire de ces êtres des travailleurs et des serviteurs. Ils "
-"ordonnèrent tout d’abord à la race maîtresse des mystiques slanns d’"
-"accomplir leur volonté et de régner sur le monde en leur nom. Ceux-ci "
+"ordonnèrent tout d’abord à la race maîtresse des mystiques slanns "
+"d’accomplir leur volonté et de régner sur le monde en leur nom. Ceux-ci "
 "usèrent de leurs incommensurables pouvoirs pour modifier l’orbite de la "
 "planète, si bien que les températures devinrent plus clémentes et qu’une "
 "jungle poussa sur les régions équatoriales. Ils édifièrent également des "
@@ -225,7 +310,7 @@ msgstr ""
 "ancêtres des races à sang chaud que sont les Elfes, les Nains et les Hommes."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:55
+#: en/revolution/modules/armies/pages/lizardmen.adoc:84
 msgid ""
 "The Slann caused their lizardmen servants to raise great pyramid cities "
 "where from mighty Slann Mages observed the stars and contemplated the inner "
@@ -242,21 +327,21 @@ msgid ""
 "against the powers of Chaos gathering in the outer darkness."
 msgstr ""
 "Les Slanns firent ériger à leurs serviteurs à sang-froid de grandes "
-"pyramides, d’où ils purent contempler les étoiles et les secrets de l’"
-"univers. Leurs esprits prodigieux sondèrent les profondeurs de l’infini et "
+"pyramides, d’où ils purent contempler les étoiles et les secrets de "
+"l’univers. Leurs esprits prodigieux sondèrent les profondeurs de l’infini et "
 "remontèrent l’écheveau du temps, en quête d’océans de possibles. Les secrets "
 "des Anciens étaient à leur portée et leurs serviteurs prospéraient sur ce "
 "nouveau monde. De puissantes cités sortirent du sol pour accueillir les "
 "hommes-lézards. Les premiers Elfes foulèrent les plages d’Ulthuan et les "
-"Slanns les éduquèrent, préparant les jeunes races aux temps de ténèbres qu’"
-"ils avaient entrevus dans les étoiles. Car ils avaient prédit la venue du "
-"Chaos, et la destruction de l’antique civilisation des Anciens à cause de l’"
-"effondrement des portails dimensionnels. Étant des créatures d’une grande "
+"Slanns les éduquèrent, préparant les jeunes races aux temps de ténèbres "
+"qu’ils avaient entrevus dans les étoiles. Car ils avaient prédit la venue du "
+"Chaos, et la destruction de l’antique civilisation des Anciens à cause de "
+"l’effondrement des portails dimensionnels. Étant des créatures d’une grande "
 "sagesse, les Slanns se mirent en devoir de créer des races assez fortes pour "
 "résister au pouvoir croissant du Chaos."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:75
+#: en/revolution/modules/armies/pages/lizardmen.adoc:104
 msgid ""
 "The coming of Chaos to the world was the ultimate test of the Slann. Their "
 "civilisation was almost destroyed – many of the wise ones were slain – the "
@@ -276,11 +361,11 @@ msgid ""
 "preserve to this day the intent of the Old Ones if not their understanding."
 msgstr ""
 "La venue du Chaos fut le test ultime pour les Slanns. Leur civilisation "
-"entière fut balayée, et les plus sages d’entre eux périrent. Les portails s’"
-"effondrèrent et l’énergie magique recouvrit le monde. Mais comme les Slanns "
-"l’avaient prévu, leurs créations s’avérèrent être les plus fortes. Le monde "
-"fut sauvé grâce aux efforts des Hommes-lézards, des premiers Elfes, des "
-"ancêtres des Nains et des autres jeunes peuples que les Slanns avaient "
+"entière fut balayée, et les plus sages d’entre eux périrent. Les portails "
+"s’effondrèrent et l’énergie magique recouvrit le monde. Mais comme les "
+"Slanns l’avaient prévu, leurs créations s’avérèrent être les plus fortes. Le "
+"monde fut sauvé grâce aux efforts des Hommes-lézards, des premiers Elfes, "
+"des ancêtres des Nains et des autres jeunes peuples que les Slanns avaient "
 "formés. Mais le monde avait changé. Les derniers efforts des Slanns avaient "
 "achevé de les consumer. Leur splendeur avait passé et les derniers prêtres-"
 "mages sombrèrent dans un sommeil long de plusieurs siècles, d’où ils "
@@ -289,31 +374,31 @@ msgstr ""
 "néanmoins et continuèrent de protéger les pyramides et les cités-temples de "
 "leurs maîtres, attendant les instructions avec une patience toute "
 "reptilienne. Ainsi en est-il depuis des milliers d’années, et à présent les "
-"Slanns sont encore moins nombreux que par le passé, les plus éminents d’"
-"entre s’étant éteints. Les Hommes-lézards continuent de vivre parmi les "
+"Slanns sont encore moins nombreux que par le passé, les plus éminents "
+"d’entre s’étant éteints. Les Hommes-lézards continuent de vivre parmi les "
 "ruines et préservent encore à ce jour les idéaux des Anciens, faute de les "
 "comprendre."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/lizardmen.adoc:79
+#: en/revolution/modules/armies/pages/lizardmen.adoc:108
 #, no-wrap
 msgid "Lizardmen army selector"
 msgstr "Sélecteur d'Armée des Hommes-Lézards"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/lizardmen.adoc:84
+#: en/revolution/modules/armies/pages/lizardmen.adoc:113
 #, no-wrap
 msgid "include::partial$lizardmen.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:92
+#: en/revolution/modules/armies/pages/lizardmen.adoc:121
 #, no-wrap
 msgid "Born in Jungle"
 msgstr "Natifs de la Jungle"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:98
+#: en/revolution/modules/armies/pages/lizardmen.adoc:127
 msgid ""
 "No command penalty is applied to any units in the Lizardmen army on account "
 "of dense terrain. The Lizardmen’s ruin infested jungle homeland is mostly "
@@ -328,13 +413,13 @@ msgstr ""
 "races."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:102
+#: en/revolution/modules/armies/pages/lizardmen.adoc:131
 #, no-wrap
 msgid "[[skinks,†1]]1. Skinks"
 msgstr "[[skinks,†1]]1. Skinks"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:107
+#: en/revolution/modules/armies/pages/lizardmen.adoc:136
 msgid ""
 "Skinks have a shooting range of 15cm and 360° vision – stands in this unit "
 "can draw line of sight from all edges for the purpose of evading and "
@@ -348,13 +433,13 @@ msgstr ""
 "Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:108
+#: en/revolution/modules/armies/pages/lizardmen.adoc:137
 #, no-wrap
 msgid "[[reptilian,†2]]2. Reptilian"
 msgstr "[[reptilian,†2]]2. Reptiliennes"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:113
+#: en/revolution/modules/armies/pages/lizardmen.adoc:142
 msgid ""
 "Reptilian troops can only be issued an order by a character within 20cm. If "
 "reptilian units form part of a brigade an order can be issued so long as all "
@@ -364,30 +449,30 @@ msgstr ""
 "Les troupes reptiliennes ne peuvent recevoir un ordre que si le personnage "
 "qui le donne se trouve à 20cm d’elles ou moins. Si des unités reptiliennes "
 "font partie d’une brigade, un ordre peut lui être donné tant que toutes les "
-"unités reptiliennes se trouvent à 20cm ou moins du personnage qui donne l’"
-"ordre. Cette règle représente le fait que ces créatures sont des brutes à "
+"unités reptiliennes se trouvent à 20cm ou moins du personnage qui donne "
+"l’ordre. Cette règle représente le fait que ces créatures sont des brutes à "
 "sang-froid qui mettent un petit moment à réagir."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:114
+#: en/revolution/modules/armies/pages/lizardmen.adoc:143
 #, no-wrap
 msgid "[[salamander,†3]]3. Salamander"
 msgstr "[[salamander,†3]]3. Salamandres"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:118
+#: en/revolution/modules/armies/pages/lizardmen.adoc:147
 msgid ""
 "Salamander stands are not deployed as independent units. Instead, any Skink "
 "infantry unit may add one stand of Salamanders. This brings the size of the "
 "unit to 4 stands – 3 regular stands plus the Salamander."
 msgstr ""
 "Les socles de Salamandres ne combattent pas comme des unités indépendantes. "
-"À la place, vous pouvez inclure un socle de Salamandre à chaque unité d’"
-"infanterie Skink. La taille de l’unité passe ainsi à 4 socles (3 socles de "
+"À la place, vous pouvez inclure un socle de Salamandre à chaque unité "
+"d’infanterie Skink. La taille de l’unité passe ainsi à 4 socles (3 socles de "
 "Skinks et 1 de Salamandres)."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:122
+#: en/revolution/modules/armies/pages/lizardmen.adoc:151
 msgid ""
 "Salamanders always have the same Armour value as the rest of their unit. "
 "They fight as part of their unit and can be removed as a unit casualty if "
@@ -398,7 +483,7 @@ msgstr ""
 "le désire."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:126
+#: en/revolution/modules/armies/pages/lizardmen.adoc:155
 msgid ""
 "Salamander casualties never count for Command penalties.  Salamander stands "
 "never cause the parent unit to be in Irregular Formation no matter how they "
@@ -409,7 +494,7 @@ msgstr ""
 "Formation de l'unité parente Irrégulière, peu importe leur placement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:132
+#: en/revolution/modules/armies/pages/lizardmen.adoc:161
 msgid ""
 "If a Salamander stand is attached to a Skink unit the entire unit, including "
 "the Salamander, is considered to employ ‘Salamander Venom’ shooting attacks. "
@@ -424,7 +509,7 @@ msgstr ""
 "touche)."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:137
+#: en/revolution/modules/armies/pages/lizardmen.adoc:166
 msgid ""
 "Salamander stands have 2 shooting attacks, a range of 15cm, and 360° vision "
 "in the same way as Skinks. If their unit is charged then Salamanders can "
@@ -436,13 +521,13 @@ msgstr ""
 "tireur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:138
+#: en/revolution/modules/armies/pages/lizardmen.adoc:167
 #, no-wrap
 msgid "[[terradon,†4]]4. Terradon"
 msgstr "[[terradon,†4]]4. Téradon"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:143
+#: en/revolution/modules/armies/pages/lizardmen.adoc:172
 msgid ""
 "Terradons can fly. Terradon riders have a shooting range of 15cm and 360° "
 "vision – stands in this unit can draw line of sight from all edges for the "
@@ -458,13 +543,13 @@ msgstr ""
 "bord avant pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:144
+#: en/revolution/modules/armies/pages/lizardmen.adoc:173
 #, no-wrap
 msgid "[[stegadon,†5]]5. Stegadon"
 msgstr "[[stegadon,†5]]5. Stégadon"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:146
+#: en/revolution/modules/armies/pages/lizardmen.adoc:175
 msgid ""
 "As the Stegadon is so gargantuan, it uses a 40 x 60mm base, with the short "
 "edge being the front."
@@ -473,12 +558,12 @@ msgstr ""
 "côté vers l'avant."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:148
+#: en/revolution/modules/armies/pages/lizardmen.adoc:177
 msgid "The Stegadon causes terror in its foes."
 msgstr "Le Stégadon cause la terreur à ses ennemis."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:153
+#: en/revolution/modules/armies/pages/lizardmen.adoc:182
 msgid ""
 "The Stegadon can only be brigaded with Skink units. It cannot be brigaded "
 "with Skink units that have attached Salamanders.  It cannot be brigaded with "
@@ -490,7 +575,7 @@ msgstr ""
 "compris d’autres Stégadons."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:159
+#: en/revolution/modules/armies/pages/lizardmen.adoc:188
 msgid ""
 "The Stegadon’s crew has a shooting range of 15cm and 360° vision – the unit "
 "can draw line of sight from all edges of its stand for the purpose of "
@@ -504,7 +589,7 @@ msgstr ""
 "besoin d'avoir une Ligne de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:168
+#: en/revolution/modules/armies/pages/lizardmen.adoc:197
 msgid ""
 "Because the Stegadon has so many hits we must consider the possibility of "
 "hurting the beast and reducing its effectiveness.  Therefore, if a Stegadon "
@@ -523,13 +608,13 @@ msgstr ""
 "partie (5/2 Attaques et 5 PV)."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:169
+#: en/revolution/modules/armies/pages/lizardmen.adoc:198
 #, no-wrap
 msgid "[[slann-mage,†6]]6. Slann Mage"
 msgstr "[[slann-mage,†6]]6. Mage Slann"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:183
+#: en/revolution/modules/armies/pages/lizardmen.adoc:212
 msgid ""
 "The Slann Mage rides a palanquin carried by his bodyguard of fierce Saurus "
 "warriors – his combat bonus is due to his bodyguard. The Slann Mage is the "
@@ -545,9 +630,9 @@ msgid ""
 "first order rolls."
 msgstr ""
 "Le Mage Slann est monté sur un palanquin porté par sa garde de Saurus ; le "
-"bonus d’attaques reflète cette escorte. Le Mage Slann est le Général de l’"
-"armée, mais contrairement aux autres commandants, il ne peut pas donner d’"
-"ordre, mais à déjà prévu le déroulement de la bataille et donné des "
+"bonus d’attaques reflète cette escorte. Le Mage Slann est le Général de "
+"l’armée, mais contrairement aux autres commandants, il ne peut pas donner "
+"d’ordre, mais à déjà prévu le déroulement de la bataille et donné des "
 "instructions à ses serviteurs Skinks. Pour représenter ceci, tout personnage "
 "Skink situé à 20 cm ou moins du Mage peut bénéficier de ses Conseils Divins, "
 "ce qui lui permet d’ôter -1 au résultat de ses tests de Commandement. Du "
@@ -557,7 +642,7 @@ msgstr ""
 "représentée en ajoutant +1 à leur premiers jets de Commandement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:194
+#: en/revolution/modules/armies/pages/lizardmen.adoc:223
 msgid ""
 "In addition the Slann is a great sorcerer. He can cast spells as a Wizard "
 "and can be given a magic item restricted to either a general or wizard "
@@ -581,13 +666,13 @@ msgstr ""
 "sort lors de ce tour."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:195
+#: en/revolution/modules/armies/pages/lizardmen.adoc:224
 #, no-wrap
 msgid "[[stegadon-mount,†7]]7. Stegadon Mount"
 msgstr "[[stegadon-mount,†7]]7. Monture Stegadon"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:199
+#: en/revolution/modules/armies/pages/lizardmen.adoc:228
 msgid ""
 "The Slann Mage may ride on top of a Stegadon, adding +3 attacks to its "
 "rider. If he rides a Stegadon then any unit he joins will cause terror and "
@@ -599,13 +684,13 @@ msgstr ""
 "personnage ne peut chevaucher un Stégadon."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/lizardmen.adoc:200
+#: en/revolution/modules/armies/pages/lizardmen.adoc:229
 #, no-wrap
 msgid "[[carnosaur,†8]]8. Carnosaur"
 msgstr "[[carnosaur,†8]]8. Carnosaure"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:203
+#: en/revolution/modules/armies/pages/lizardmen.adoc:232
 msgid ""
 "A Saurus Hero can ride a Carnosaur. If a character rides a Carnosaur then "
 "any unit he joins will cause terror. No other character can ride a Carnosaur."
@@ -615,19 +700,19 @@ msgstr ""
 "personnage ne peut monter un Carnosaure."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/lizardmen.adoc:207
+#: en/revolution/modules/armies/pages/lizardmen.adoc:236
 #, no-wrap
 msgid "Lizardmen spells"
 msgstr "Sorts Hommes-Lézards"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/lizardmen.adoc:210
+#: en/revolution/modules/armies/pages/lizardmen.adoc:239
 #, no-wrap
 msgid "Gaze of Sotek"
 msgstr "Regard de Sotek"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:217
+#: en/revolution/modules/armies/pages/lizardmen.adoc:246
 msgid ""
 "_Burning jade coloured rays leap from the wizard’s lidded eyes enshrouding "
 "and choking his enemies in writhing coils of magic._"
@@ -636,25 +721,25 @@ msgstr ""
 "enveloppent l’ennemi, l’étouffant dans leurs anneaux._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:226
+#: en/revolution/modules/armies/pages/lizardmen.adoc:255
 msgid ""
 "The Gaze of Sotek is treated like three ordinary shooting attacks except "
 "that armour has no effect (all targets count as having no armour). A unit "
 "can be driven back by the Gaze of Sotek as with ordinary shooting."
 msgstr ""
-"Le Regard de Sotek est traité comme 3 attaques de tir ordinaires, si ce n’"
-"est que l’armure de la cible est ignorée (elle compte comme n’ayant pas "
-"d’Armure). Une unité peut être repoussée par le Regard de Sotek comme par n’"
-"importe quelle attaque de tir."
+"Le Regard de Sotek est traité comme 3 attaques de tir ordinaires, si ce "
+"n’est que l’armure de la cible est ignorée (elle compte comme n’ayant pas "
+"d’Armure). Une unité peut être repoussée par le Regard de Sotek comme par "
+"n’importe quelle attaque de tir."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/lizardmen.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:257
 #, no-wrap
 msgid "Mazdamundi’s Revenge"
 msgstr "Vengeance de Mazdamundi"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:234
+#: en/revolution/modules/armies/pages/lizardmen.adoc:263
 msgid ""
 "_The wizard’s foes bowels melt with dread or possibly something much worse, "
 "hindering their movement as if hobbled._"
@@ -664,8 +749,8 @@ msgstr ""
 "mouvements._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:237
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:212
+#: en/revolution/modules/armies/pages/lizardmen.adoc:266
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:239
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Wizard can see it or not."
@@ -674,14 +759,14 @@ msgstr ""
 "puisse la voir ou non."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:240
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:215
+#: en/revolution/modules/armies/pages/lizardmen.adoc:269
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:242
 msgid ""
 "The spell takes effect until the end of the opposing player’s next turn."
 msgstr "Les effets du sort durent jusqu’à la fin du tour suivant de l’ennemi."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:245
+#: en/revolution/modules/armies/pages/lizardmen.adoc:274
 msgid ""
 "Whilst the spell lasts the unit cannot charge and if engaged in combat will "
 "not pursue or advance. Even units that are otherwise obliged to charge, "
@@ -693,13 +778,13 @@ msgstr ""
 "le faire si elles sont affectées par la Vengeance de Mazdamundi."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/lizardmen.adoc:247
+#: en/revolution/modules/armies/pages/lizardmen.adoc:276
 #, no-wrap
 msgid "Wings of the Jungle"
 msgstr "Ailes de la Jungle"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:254
+#: en/revolution/modules/armies/pages/lizardmen.adoc:283
 msgid ""
 "_An eerie aura surrounds the Wizard and his companions lifting them into the "
 "air and transporting them effortlessly from one place to another._"
@@ -708,7 +793,7 @@ msgstr ""
 "les airs et les amène rapidement en un autre lieu._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:258
+#: en/revolution/modules/armies/pages/lizardmen.adoc:287
 msgid ""
 "The spell can be cast on any unengaged friendly unit that the Wizard has "
 "joined. The spell affects only a single unit, never a brigade and there is "
@@ -720,26 +805,26 @@ msgstr ""
 "soutien."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:264
+#: en/revolution/modules/armies/pages/lizardmen.adoc:293
 msgid ""
 "The unit can be moved just as if it had received an order in the Command "
 "phase. The Wizard is moved together with the unit and remains joined with "
 "it. Other character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
-"L’unité peut se déplacer comme si elle avait reçu un ordre durant la phase d’"
-"Ordres. Le Sorcier est déplacé en même temps que l’unité et reste avec elle. "
-"Si d’autres personnages ont rejoint l’unité, ils restent sur place et ne se "
-"déplacent pas avec elle."
+"L’unité peut se déplacer comme si elle avait reçu un ordre durant la phase "
+"d’Ordres. Le Sorcier est déplacé en même temps que l’unité et reste avec "
+"elle. Si d’autres personnages ont rejoint l’unité, ils restent sur place et "
+"ne se déplacent pas avec elle."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/lizardmen.adoc:266
+#: en/revolution/modules/armies/pages/lizardmen.adoc:295
 #, no-wrap
 msgid "Shield of the Old Ones"
 msgstr "Bouclier des Anciens"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:272
+#: en/revolution/modules/armies/pages/lizardmen.adoc:301
 msgid ""
 "_The enemy’s blows are magically turned aside by the strange power of the "
 "Old Ones._"
@@ -748,8 +833,8 @@ msgstr ""
 "Anciens._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:276
-#: en/revolution/modules/armies/pages/skaven.adoc:258
+#: en/revolution/modules/armies/pages/lizardmen.adoc:305
+#: en/revolution/modules/armies/pages/skaven.adoc:287
 msgid ""
 "This spell can be cast upon a friendly unit that is engaged in combat and "
 "which is within range. The Wizard does not have to be able to see the target "
@@ -759,12 +844,12 @@ msgstr ""
 "Sorcier n’est pas obligé de voir sa cible pour lancer le sort."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:278
+#: en/revolution/modules/armies/pages/lizardmen.adoc:307
 msgid "The effect lasts for the duration of the following combat phase."
 msgstr "Les effets s’appliquent pour la durée de la prochaine phase de combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:282
+#: en/revolution/modules/armies/pages/lizardmen.adoc:311
 msgid ""
 "The unit’s Armour value counts as 1 better up to maximum value of 4+. I.e 0 "
 "counts as 6+, 6+ as 5+ and 5+ as 4+. If the unit’s Armour value is already "

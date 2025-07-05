@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -449,7 +449,7 @@ msgid ""
 "|200\t|10.0%\t|1100\t|2200\t|3300\n"
 msgstr ""
 
-#. type: delimited block +
+#. type: delimited block + 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:296
 #, no-wrap
 msgid ""
@@ -458,7 +458,7 @@ msgid ""
 "    army = document.querySelector('#spend-gold-army');\n"
 msgstr ""
 
-#. type: delimited block +
+#. type: delimited block + 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:300
 #, no-wrap
 msgid ""
@@ -467,19 +467,19 @@ msgid ""
 "        display_pc = Math.round(pc*10000)/100 + \"%\";\n"
 msgstr ""
 
-#. type: delimited block +
+#. type: delimited block + 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:302
 #, no-wrap
 msgid "        points = army.value;\n"
 msgstr ""
 
-#. type: delimited block +
+#. type: delimited block + 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:304
 #, no-wrap
 msgid "        console.log(\"Gold \", gold.value, \"Army \", army.value);\n"
 msgstr ""
 
-#. type: delimited block +
+#. type: delimited block + 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:310
 #, no-wrap
 msgid ""
@@ -490,7 +490,7 @@ msgid ""
 "    }\n"
 msgstr ""
 
-#. type: delimited block +
+#. type: delimited block + 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:315
 #, no-wrap
 msgid ""
@@ -1029,7 +1029,7 @@ msgid ""
 "agree on that."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:630
 msgid ""
 "The Warmaster Rules Committee is developing rules for naval battles, based "
@@ -1087,7 +1087,7 @@ msgstr ""
 msgid "Optional rules"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:668
 msgid ""
 "These rules are designed to give a player an additional tool to turn the "
@@ -1101,7 +1101,7 @@ msgid "General’s abilities"
 msgstr ""
 
 #.  Spelling situations
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:677
 msgid ""
 "In the most critical of situations, a General can try to focus all his "
@@ -1110,13 +1110,13 @@ msgid ""
 "Abilities can be used once per game."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:679
 #, no-wrap
 msgid "*Reliable Courier:* One Hero or Wizard within 30cm of the General can re-roll a failed order.\n"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:682
 #, no-wrap
 msgid ""
@@ -1131,7 +1131,7 @@ msgid "Abstract battle resolution"
 msgstr ""
 
 #.  Change to "whatever the reason"
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:692
 msgid ""
 "To keep a campaign going players must be active.  However there are "
@@ -1139,7 +1139,7 @@ msgid ""
 "a battle, whatever the reason."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:699
 msgid ""
 "In case a player cannot fight a battle against his opponent(s) he can either "
@@ -1149,7 +1149,7 @@ msgid ""
 "dice room."
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:703
 msgid ""
 "In this roll-off the challenger is considered the attacker and the "

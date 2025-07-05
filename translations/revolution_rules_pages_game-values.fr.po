@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 17:58+0200\n"
+"POT-Creation-Date: 2025-07-05 22:28+0200\n"
 "PO-Revision-Date: 2025-07-03 13:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -386,7 +386,7 @@ msgstr ""
 msgid "Stat line"
 msgstr ""
 
-#. type: delimited block *
+#. type: delimited block * 4
 #: en/revolution/modules/rules/pages/game-values.adoc:217
 msgid ""
 "A unit’s game values can be conveniently expressed as a single line of "
@@ -570,7 +570,7 @@ msgid ""
 "xref:movement.adoc#terrain[Terrain] explains the rules governing this."
 msgstr ""
 
-#. type: delimited block =
+#. type: delimited block = 4
 #: en/revolution/modules/rules/pages/game-values.adoc:384
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#line-of-sight-"

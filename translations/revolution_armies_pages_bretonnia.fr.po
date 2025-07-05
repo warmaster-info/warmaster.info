@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 00:23+0200\n"
 "PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,44 +18,85 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
+#. type: Attribute :general:
+#: en/revolution/modules/armies/pages/albion.adoc:28
+#: en/revolution/modules/armies/pages/araby.adoc:27
+#: en/revolution/modules/armies/pages/bretonnia.adoc:28
+#: en/revolution/modules/armies/pages/cathay.adoc:32
+#: en/revolution/modules/armies/pages/chaos.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/dark-elves.adoc:27
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
+#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/empire.adoc:30
+#: en/revolution/modules/armies/pages/high-elves.adoc:27
+#: en/revolution/modules/armies/pages/kislev.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/wood-elves.adoc:34
+#: en/revolution/modules/armies/partials/table-attributes.adoc:44
+#, no-wrap
+msgid "General"
+msgstr ""
+
+#. type: Attribute :hero:
+#: en/revolution/modules/armies/pages/albion.adoc:29
+#: en/revolution/modules/armies/pages/araby.adoc:28
+#: en/revolution/modules/armies/pages/bretonnia.adoc:29
+#: en/revolution/modules/armies/pages/cathay.adoc:33
+#: en/revolution/modules/armies/pages/chaos.adoc:33
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/dark-elves.adoc:28
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
+#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/empire.adoc:31
+#: en/revolution/modules/armies/pages/high-elves.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/norse.adoc:29
+#: en/revolution/modules/armies/pages/skaven.adoc:30
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/partials/table-attributes.adoc:45
+#, no-wrap
+msgid "Hero"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:93
-#: en/revolution/modules/armies/pages/araby.adoc:84
-#: en/revolution/modules/armies/pages/beastmen.adoc:55
-#: en/revolution/modules/armies/pages/beastmen.adoc:65
-#: en/revolution/modules/armies/pages/bretonnia.adoc:85
-#: en/revolution/modules/armies/pages/bretonnia.adoc:101
-#: en/revolution/modules/armies/pages/cathay.adoc:81
-#: en/revolution/modules/armies/pages/cathay.adoc:94
-#: en/revolution/modules/armies/pages/chaos.adoc:70
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:77
-#: en/revolution/modules/armies/pages/daemons.adoc:66
-#: en/revolution/modules/armies/pages/daemons.adoc:110
-#: en/revolution/modules/armies/pages/dark-elves.adoc:87
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:84
-#: en/revolution/modules/armies/pages/dwarfs.adoc:97
-#: en/revolution/modules/armies/pages/empire.adoc:67
-#: en/revolution/modules/armies/pages/goblins.adoc:80
-#: en/revolution/modules/armies/pages/high-elves.adoc:86
-#: en/revolution/modules/armies/pages/kislev.adoc:71
-#: en/revolution/modules/armies/pages/lizardmen.adoc:87
-#: en/revolution/modules/armies/pages/lizardmen.adoc:100
-#: en/revolution/modules/armies/pages/nippon.adoc:87
-#: en/revolution/modules/armies/pages/nippon.adoc:105
-#: en/revolution/modules/armies/pages/norse.adoc:53
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:77
-#: en/revolution/modules/armies/pages/orcs.adoc:84
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:65
-#: en/revolution/modules/armies/pages/skaven.adoc:76
-#: en/revolution/modules/armies/pages/skaven.adoc:99
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:76
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:95
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:76
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:101
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:63
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:76
-#: en/revolution/modules/armies/pages/wood-elves.adoc:62
-#: en/revolution/modules/armies/pages/wood-elves.adoc:72
+#: en/revolution/modules/armies/pages/albion.adoc:122
+#: en/revolution/modules/armies/pages/araby.adoc:113
+#: en/revolution/modules/armies/pages/beastmen.adoc:86
+#: en/revolution/modules/armies/pages/beastmen.adoc:96
+#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:132
+#: en/revolution/modules/armies/pages/cathay.adoc:116
+#: en/revolution/modules/armies/pages/cathay.adoc:129
+#: en/revolution/modules/armies/pages/chaos.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
+#: en/revolution/modules/armies/pages/daemons.adoc:95
+#: en/revolution/modules/armies/pages/daemons.adoc:139
+#: en/revolution/modules/armies/pages/dark-elves.adoc:116
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
+#: en/revolution/modules/armies/pages/dwarfs.adoc:120
+#: en/revolution/modules/armies/pages/empire.adoc:98
+#: en/revolution/modules/armies/pages/goblins.adoc:109
+#: en/revolution/modules/armies/pages/high-elves.adoc:115
+#: en/revolution/modules/armies/pages/kislev.adoc:100
+#: en/revolution/modules/armies/pages/lizardmen.adoc:116
+#: en/revolution/modules/armies/pages/lizardmen.adoc:129
+#: en/revolution/modules/armies/pages/nippon.adoc:118
+#: en/revolution/modules/armies/pages/nippon.adoc:136
+#: en/revolution/modules/armies/pages/norse.adoc:82
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
+#: en/revolution/modules/armies/pages/orcs.adoc:119
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
+#: en/revolution/modules/armies/pages/skaven.adoc:105
+#: en/revolution/modules/armies/pages/skaven.adoc:128
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:101
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 #: en/revolution/modules/rules/pages/battlefields.adoc:255
 #: en/revolution/modules/rules/pages/battlefields.adoc:311
 #: en/revolution/modules/rules/pages/battlefields.adoc:366
@@ -67,92 +108,179 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:146
-#: en/revolution/modules/armies/pages/araby.adoc:222
-#: en/revolution/modules/armies/pages/beastmen.adoc:171
-#: en/revolution/modules/armies/pages/bretonnia.adoc:211
-#: en/revolution/modules/armies/pages/cathay.adoc:179
-#: en/revolution/modules/armies/pages/cathay.adoc:198
-#: en/revolution/modules/armies/pages/chaos.adoc:148
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:225
-#: en/revolution/modules/armies/pages/goblins.adoc:215
-#: en/revolution/modules/armies/pages/high-elves.adoc:181
-#: en/revolution/modules/armies/pages/kislev.adoc:214
-#: en/revolution/modules/armies/pages/norse.adoc:137
-#: en/revolution/modules/armies/pages/orcs.adoc:194
-#: en/revolution/modules/armies/pages/skaven.adoc:218
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
+#: en/revolution/modules/armies/pages/albion.adoc:175
+#: en/revolution/modules/armies/pages/araby.adoc:251
+#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/bretonnia.adoc:242
+#: en/revolution/modules/armies/pages/cathay.adoc:214
+#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/chaos.adoc:181
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
+#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/high-elves.adoc:210
+#: en/revolution/modules/armies/pages/kislev.adoc:243
+#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/orcs.adoc:229
+#: en/revolution/modules/armies/pages/skaven.adoc:247
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:158
-#: en/revolution/modules/armies/pages/albion.adoc:171
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/beastmen.adoc:186
-#: en/revolution/modules/armies/pages/beastmen.adoc:203
-#: en/revolution/modules/armies/pages/bretonnia.adoc:227
-#: en/revolution/modules/armies/pages/bretonnia.adoc:246
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/chaos.adoc:168
-#: en/revolution/modules/armies/pages/chaos.adoc:202
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
-#: en/revolution/modules/armies/pages/daemons.adoc:180
-#: en/revolution/modules/armies/pages/daemons.adoc:196
-#: en/revolution/modules/armies/pages/dark-elves.adoc:172
-#: en/revolution/modules/armies/pages/goblins.adoc:167
-#: en/revolution/modules/armies/pages/goblins.adoc:200
-#: en/revolution/modules/armies/pages/high-elves.adoc:165
-#: en/revolution/modules/armies/pages/high-elves.adoc:200
-#: en/revolution/modules/armies/pages/kislev.adoc:199
-#: en/revolution/modules/armies/pages/lizardmen.adoc:213
-#: en/revolution/modules/armies/pages/lizardmen.adoc:269
-#: en/revolution/modules/armies/pages/norse.adoc:149
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/araby.adoc:298
+#: en/revolution/modules/armies/pages/beastmen.adoc:217
+#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/bretonnia.adoc:258
+#: en/revolution/modules/armies/pages/bretonnia.adoc:277
+#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/chaos.adoc:201
+#: en/revolution/modules/armies/pages/chaos.adoc:236
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
+#: en/revolution/modules/armies/pages/daemons.adoc:209
+#: en/revolution/modules/armies/pages/daemons.adoc:225
+#: en/revolution/modules/armies/pages/dark-elves.adoc:201
+#: en/revolution/modules/armies/pages/goblins.adoc:196
+#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/high-elves.adoc:194
+#: en/revolution/modules/armies/pages/high-elves.adoc:229
+#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/lizardmen.adoc:242
+#: en/revolution/modules/armies/pages/lizardmen.adoc:298
+#: en/revolution/modules/armies/pages/norse.adoc:178
+#: en/revolution/modules/armies/pages/norse.adoc:232
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/orcs.adoc:152
-#: en/revolution/modules/armies/pages/skaven.adoc:233
-#: en/revolution/modules/armies/pages/skaven.adoc:250
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:156
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:226
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:149
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:200
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:152
-#: en/revolution/modules/armies/pages/wood-elves.adoc:190
-#: en/revolution/modules/armies/pages/wood-elves.adoc:205
-#: en/revolution/modules/armies/pages/wood-elves.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/orcs.adoc:187
+#: en/revolution/modules/armies/pages/skaven.adoc:262
+#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
+#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:244
+#: en/revolution/modules/armies/pages/wood-elves.adoc:253
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
+#. type: Attribute :bowmen:
+#: en/revolution/modules/armies/pages/araby.adoc:20
+#: en/revolution/modules/armies/pages/bretonnia.adoc:20
+#: en/revolution/modules/armies/pages/kislev.adoc:22
+#, no-wrap
+msgid "Bowmen"
+msgstr ""
+
+#. type: Attribute :knights:
+#: en/revolution/modules/armies/pages/araby.adoc:22
+#: en/revolution/modules/armies/pages/bretonnia.adoc:24
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:31
+#: en/revolution/modules/armies/pages/empire.adoc:25
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:23
+#, no-wrap
+msgid "Knights"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:58
-#: en/revolution/modules/armies/pages/bretonnia.adoc:88
-#: en/revolution/modules/armies/pages/cathay.adoc:84
-#: en/revolution/modules/armies/pages/daemons.adoc:69
-#: en/revolution/modules/armies/pages/lizardmen.adoc:90
-#: en/revolution/modules/armies/pages/nippon.adoc:90
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:68
-#: en/revolution/modules/armies/pages/skaven.adoc:79
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:79
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:79
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:66
-#: en/revolution/modules/armies/pages/wood-elves.adoc:65
+#: en/revolution/modules/armies/pages/beastmen.adoc:89
+#: en/revolution/modules/armies/pages/bretonnia.adoc:119
+#: en/revolution/modules/armies/pages/cathay.adoc:119
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/lizardmen.adoc:119
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:175
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:106
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:106
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:91
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
 
-#. type: Title =
+#. type: Attribute :bretonnia:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:1
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:86
 #, no-wrap
 msgid "Bretonnia"
 msgstr "Bretonnie"
 
+#. type: Attribute :men-at-arms:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:21
+#, no-wrap
+msgid "Men-at-arms"
+msgstr ""
+
+#. type: Attribute :peasants:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:22
+#, no-wrap
+msgid "Peasants"
+msgstr ""
+
+#. type: Attribute :squires:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:23
+#, no-wrap
+msgid "Squires"
+msgstr ""
+
+#. type: Attribute :grail-knights:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:25
+#, no-wrap
+msgid "Grail Knights"
+msgstr ""
+
+#. type: Attribute :pegasus-knights:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:26
+#, fuzzy, no-wrap
+#| msgid "Pegasus Knights can fly."
+msgid "Pegasus Knights"
+msgstr "Les Chevaliers Pégases peuvent voler."
+
+#. type: Attribute :trebuchet:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:27
+#, no-wrap
+msgid "Trebuchet"
+msgstr ""
+
+#. type: Attribute :enchantress:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:30
+#, no-wrap
+msgid "Enchantress"
+msgstr ""
+
+#. type: Attribute :unicorn:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:31
+#: en/revolution/modules/armies/pages/wood-elves.adoc:40
+#, no-wrap
+msgid "Unicorn"
+msgstr ""
+
+#. type: Attribute :pegasus:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:32
+#, no-wrap
+msgid "Pegasus"
+msgstr ""
+
+#. type: Attribute :hippogriff:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:33
+#, no-wrap
+msgid "Hippogriff"
+msgstr ""
+
+#. type: Attribute :grail-reliquae:
+#: en/revolution/modules/armies/pages/bretonnia.adoc:34
+#, no-wrap
+msgid "Grail Reliquae"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:14
+#: en/revolution/modules/armies/pages/bretonnia.adoc:45
 msgid ""
 "image:bretonnia/logo.webp[width=92,height=106,float=\"right\"] Bretonnia has "
 "grown into a powerful and influential nation under the leadership of its "
@@ -171,7 +299,7 @@ msgstr ""
 "souillé."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:27
+#: en/revolution/modules/armies/pages/bretonnia.adoc:58
 msgid ""
 "The realm of Bretonnia is not as ancient as that of the Empire.  For many "
 "hundreds of years the various tribes that inhabited this region fought "
@@ -193,11 +321,12 @@ msgstr ""
 "fondation de la nation grâce aux efforts du seigneur de guerre visionnaire "
 "Gilles le Breton. Non seulement ce grand guerrier soumit-il les autres chefs "
 "du pays, mais il instaura aussi des règles de chevalerie qui devaient les "
-"unir dans un but commun. Les luttes intestines se terminèrent donc par l’"
-"épée, tandis qu’une nation et un idéal émergeaient du bourbier de la guerre."
+"unir dans un but commun. Les luttes intestines se terminèrent donc par "
+"l’épée, tandis qu’une nation et un idéal émergeaient du bourbier de la "
+"guerre."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:39
+#: en/revolution/modules/armies/pages/bretonnia.adoc:70
 msgid ""
 "The laws of chivalry govern Bretonnian society to this day informing alike "
 "the high ideals of the knights and the simple coda of the peasants. Because "
@@ -209,8 +338,8 @@ msgid ""
 "definitions and distinctions within the strict social order, and the duties "
 "and responsibilities due to each class from the others."
 msgstr ""
-"Les lois de la chevalerie gouvernent encore les mœurs Bretonniennes, qu’il s’"
-"agisse des nobles idéaux de l’aristocratie ou des règles de vie de la "
+"Les lois de la chevalerie gouvernent encore les mœurs Bretonniennes, qu’il "
+"s’agisse des nobles idéaux de l’aristocratie ou des règles de vie de la "
 "paysannerie. Ces lois sont anciennes et sont passées par des interprétations "
 "plus ou moins erronées, ce qui signifie que certaines paraissent aujourd’hui "
 "désuètes ou incompréhensibles, mais les Bretonniens se font forts de les "
@@ -219,7 +348,7 @@ msgstr ""
 "devoirs de chaque classe envers les autres."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:46
+#: en/revolution/modules/armies/pages/bretonnia.adoc:77
 msgid ""
 "Much heed paid to proper modes of address between the classes, to the means "
 "of settling petty priorities between folk of comparable standing, and to the "
@@ -235,7 +364,7 @@ msgstr ""
 "sociale."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:60
+#: en/revolution/modules/armies/pages/bretonnia.adoc:91
 msgid ""
 "The nobles of Bretonnia aspire to the high ideals of knighthood and train "
 "from early youth in the arts of war. They are skilled and hardy warriors who "
@@ -264,7 +393,7 @@ msgstr ""
 "privilèges."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:73
+#: en/revolution/modules/armies/pages/bretonnia.adoc:104
 msgid ""
 "The most renowned of all Knights are those who quest for the Grail of the "
 "Lady of Bretonnia. The Lady is the protective deity of the nation and its "
@@ -285,30 +414,31 @@ msgstr ""
 "disparut. Gilles sut alors avec certitude ce qu’il devait faire, alla "
 "affronter ses ennemis, triompha et devint roi. Depuis ce temps, les "
 "Bretonniens ont élevé maints temples à la Dame de Bretonnie. La plus "
-"ambitieuse quête qu’un chevalier puisse s’imposer est la recherche du Graal :"
-" les Damoiselles du Graal ne l’assignent qu’aux plus braves et aux plus "
-"vaillants, car rares sont les élus des dieux qui la terminent avec succès."
+"ambitieuse quête qu’un chevalier puisse s’imposer est la recherche du "
+"Graal : les Damoiselles du Graal ne l’assignent qu’aux plus braves et aux "
+"plus vaillants, car rares sont les élus des dieux qui la terminent avec "
+"succès."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/bretonnia.adoc:77
+#: en/revolution/modules/armies/pages/bretonnia.adoc:108
 #, no-wrap
 msgid "Bretonnian army selector"
 msgstr "Sélecteur d’Armée des Bretonniens"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/bretonnia.adoc:82
+#: en/revolution/modules/armies/pages/bretonnia.adoc:113
 #, no-wrap
 msgid "include::partial$bretonnia.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:90
+#: en/revolution/modules/armies/pages/bretonnia.adoc:121
 #, no-wrap
 msgid "Feudal Society"
 msgstr "Société Féodale"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:99
+#: en/revolution/modules/armies/pages/bretonnia.adoc:130
 msgid ""
 "The Bretonnian army is essentially an army of Knights and it is the Knights’ "
 "contribution to the battle that counts – never mind the pot-washers and clod-"
@@ -330,13 +460,13 @@ msgstr ""
 "déroute."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:103
+#: en/revolution/modules/armies/pages/bretonnia.adoc:134
 #, no-wrap
 msgid "[[peasants,†1]]1. Peasants"
 msgstr "[[peasants,†1]]1. Paysans"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:110
+#: en/revolution/modules/armies/pages/bretonnia.adoc:141
 msgid ""
 "A unit of Peasants suffers an additional −1 Command penalty when given an "
 "order. However, this penalty is waived if the Peasant unit is part of a "
@@ -345,8 +475,8 @@ msgid ""
 "Peasants are able to make supporting charges. When they charge they receive "
 "no bonus attack modifier for doing so."
 msgstr ""
-"Une unité de Paysans subit un malus supplémentaire de -1 sur ses tests d’"
-"ordre. Cependant, cette pénalité est annulée si l’unité de Paysans fait "
+"Une unité de Paysans subit un malus supplémentaire de -1 sur ses tests "
+"d’ordre. Cependant, cette pénalité est annulée si l’unité de Paysans fait "
 "partie d’une brigade qui inclut au moins une unité n’étant pas composée de "
 "Paysans. Les Paysans ne peuvent pas utiliser l’initiative pour charger mais "
 "peuvent s’en servir pour éviter de la façon habituelle. Les Paysans peuvent "
@@ -354,13 +484,13 @@ msgstr ""
 "reçoivent aucun bonus d’Attaque dû à la charge."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:111
+#: en/revolution/modules/armies/pages/bretonnia.adoc:142
 #, no-wrap
 msgid "[[knights,†2]]2. Knights"
 msgstr "[[knights,†2]]2. Chevaliers"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:116
+#: en/revolution/modules/armies/pages/bretonnia.adoc:147
 msgid ""
 "A Knight unit will always use its initiative to charge an enemy if possible "
 "and cannot be given orders instead. They will never use their initiative to "
@@ -374,13 +504,13 @@ msgstr ""
 "malus habituel de -1 Attaque lorsqu’ils les affrontent."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:117
+#: en/revolution/modules/armies/pages/bretonnia.adoc:148
 #, no-wrap
 msgid "[[grail-knights,†3]]3. Grail Knights"
 msgstr "[[grail-knights,†3]]3. Chevaliers du Graal"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:120
+#: en/revolution/modules/armies/pages/bretonnia.adoc:151
 msgid ""
 "If the unit of Grail Knights is charging against an enemy in the open it "
 "receives an additional +1 Attack modifier in the same way as chariots and "
@@ -390,24 +520,24 @@ msgstr ""
 "bonus supplémentaire de +1 Attaque, comme un char ou monstre."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:121
+#: en/revolution/modules/armies/pages/bretonnia.adoc:152
 #, no-wrap
 msgid "[[pegasus-knights,†4]]4. Pegasus Knights"
 msgstr "[[pegasus-knights,†4]]4. Chevaliers Pégases"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:122
+#: en/revolution/modules/armies/pages/bretonnia.adoc:153
 msgid "Pegasus Knights can fly."
 msgstr "Les Chevaliers Pégases peuvent voler."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:123
+#: en/revolution/modules/armies/pages/bretonnia.adoc:154
 #, no-wrap
 msgid "[[trebuchet,†5]]5. Trebuchet"
 msgstr "[[trebuchet,†5]]5. Trébuchet"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:130
+#: en/revolution/modules/armies/pages/bretonnia.adoc:161
 msgid ""
 "The Bretonnian Trebuchet is one of the mightiest and most excellent stone "
 "throwers that are built in the Old World. At first it was designed to help "
@@ -423,7 +553,7 @@ msgstr ""
 "massif qu'il utilise un socle de 40x60mm, le plus petit bord vers l'avant."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:134
+#: en/revolution/modules/armies/pages/bretonnia.adoc:165
 msgid ""
 "To represent that the Trebuchet is such a bulky warmachine, which takes time "
 "to assemble and disassemble, the Trebuchets can move but cannot shoot in the "
@@ -434,20 +564,20 @@ msgstr ""
 "bouger, mais ne peut pas tirer s'il a bougé ce tour."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:139
+#: en/revolution/modules/armies/pages/bretonnia.adoc:170
 msgid ""
 "If a Trebuchet is driven back more than 10cm by shooting it is destroyed "
 "(drive backs of less than 10cm are simply ignored). If it is forced to "
 "retreat from combat it is also destroyed like any other artillery. A "
 "Trebuchet is not affected by Gerroff!!! spell."
 msgstr ""
-"Si un Trébuchet est repoussé de plus de 10cm par des tirs, il est détruit ("
-"ignorez tout repoussement de 10cm ou moins). S'il est forcé de se replier il "
-"est détruit comme n'importe quelle autre artillerie. Un Trébuchet n'est pas "
-"affecté par le sort Gerroff!!!."
+"Si un Trébuchet est repoussé de plus de 10cm par des tirs, il est détruit "
+"(ignorez tout repoussement de 10cm ou moins). S'il est forcé de se replier "
+"il est détruit comme n'importe quelle autre artillerie. Un Trébuchet n'est "
+"pas affecté par le sort Gerroff!!!."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:143
+#: en/revolution/modules/armies/pages/bretonnia.adoc:174
 msgid ""
 "The Trebuchet has a shooting range of 80cm. Fortified units count as "
 "defended and defended targets count as in the open.  No armour roll is made "
@@ -459,12 +589,12 @@ msgstr ""
 "tir de Trébuchet."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:145
+#: en/revolution/modules/armies/pages/bretonnia.adoc:176
 msgid "The Trebuchet may not shoot at charging enemies."
 msgstr "Le Trébuchet ne peut pas tirer sur un ennemi en charge."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:149
+#: en/revolution/modules/armies/pages/bretonnia.adoc:180
 msgid ""
 "The Trebuchet can shoot at targets that it can see as for all other "
 "artillery, and it can shoot over the heads of friends and obstacles on lower "
@@ -475,7 +605,7 @@ msgstr ""
 "comme les autres artilleries."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:154
+#: en/revolution/modules/armies/pages/bretonnia.adoc:185
 msgid ""
 "Shooting Blind: If there is no target in sight a Trebuchet may instead shoot "
 "at the nearest enemy unit in range it cannot see.  When Shooting Blind it "
@@ -488,13 +618,13 @@ msgstr ""
 "découvert, défendue ou même fortifiée."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:155
+#: en/revolution/modules/armies/pages/bretonnia.adoc:186
 #, no-wrap
 msgid "[[unicorn,†6]]6. Unicorn"
 msgstr "[[unicorn,†6]]6. Licorne"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:160
+#: en/revolution/modules/armies/pages/bretonnia.adoc:191
 msgid ""
 "Only an Enchantress can ride a Unicorn. The Unicorn adds +1 to the "
 "Enchantress’s Attacks. Once per battle the Unicorn’s magical power adds +1 "
@@ -509,13 +639,13 @@ msgstr ""
 "lancé avec succès."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:161
+#: en/revolution/modules/armies/pages/bretonnia.adoc:192
 #, no-wrap
 msgid "[[pegasus,†7]]7. Pegasus"
 msgstr "[[pegasus,†7]]7. Pégase"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:164
+#: en/revolution/modules/armies/pages/bretonnia.adoc:195
 msgid ""
 "The Pegasus can be ridden by a General, Hero or Enchantress and adds +1 "
 "Attack to the rider as well as allowing the character to fly."
@@ -524,13 +654,13 @@ msgstr ""
 "Il ajoute +1 Attaque à son cavalier et lui permet de voler."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:165
+#: en/revolution/modules/armies/pages/bretonnia.adoc:196
 #, no-wrap
 msgid "[[hippogriff,†8]]8. Hippogriff"
 msgstr "[[hippogriff,†8]]8. Hippogriffe"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:168
+#: en/revolution/modules/armies/pages/bretonnia.adoc:199
 msgid ""
 "Only a General can ride a Hippogriff. The Hippogriff can fly. A unit joined "
 "by the General on Hippogriff causes terror."
@@ -539,13 +669,13 @@ msgstr ""
 "unité rejointe par un Général sur Hippogriffe provoque la terreur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/bretonnia.adoc:169
+#: en/revolution/modules/armies/pages/bretonnia.adoc:200
 #, no-wrap
 msgid "[[grail-reliquae,†9]]9. Grail Reliquae"
 msgstr "[[grail-reliquae,†9]]9. Reliquaire du Graal"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:180
+#: en/revolution/modules/armies/pages/bretonnia.adoc:211
 msgid ""
 "This sacred item can be given to one unit of Peasants only in a whole army. "
 "This unit and all Peasant units touching it become Grail Pilgrims (for as "
@@ -570,29 +700,29 @@ msgstr ""
 "simple Paysans."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/bretonnia.adoc:184
+#: en/revolution/modules/armies/pages/bretonnia.adoc:215
 #, no-wrap
 msgid "Bretonnian spells"
 msgstr "Sorts Bretonniens"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/bretonnia.adoc:187
+#: en/revolution/modules/armies/pages/bretonnia.adoc:218
 #, no-wrap
 msgid "Shield of Combat"
 msgstr "Bouclier de Combat"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:190
-#: en/revolution/modules/armies/pages/chaos.adoc:130
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:195
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:191
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:189
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:169
+#: en/revolution/modules/armies/pages/bretonnia.adoc:221
+#: en/revolution/modules/armies/pages/chaos.adoc:163
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:228
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:216
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:194
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:193
+#: en/revolution/modules/armies/pages/bretonnia.adoc:224
 msgid ""
 "_The enemy’s blows are magically deflected by unseen forces and cause no "
 "harm._"
@@ -601,7 +731,7 @@ msgstr ""
 "causent aucun dommage._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:197
+#: en/revolution/modules/armies/pages/bretonnia.adoc:228
 msgid ""
 "An Enchantress can cast this spell upon a unit that she has joined. The "
 "spell lasts until the end of the opposing player’s following turn."
@@ -610,7 +740,7 @@ msgstr ""
 "effets du sort durent jusqu’à la fin du tour ennemi suivant."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:202
+#: en/revolution/modules/armies/pages/bretonnia.adoc:233
 msgid ""
 "The unit can re-roll any failed armour rolls during the Combat phase. This "
 "does not include hits suffered from enemy missile fire during a charge, as "
@@ -623,7 +753,7 @@ msgstr ""
 "par le sort Bouclier Éthéré."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:206
+#: en/revolution/modules/armies/pages/bretonnia.adoc:237
 msgid ""
 "Note that only a single re-roll is permitted regardless of what other "
 "factors apply. It is never permitted to re-roll a re-roll in any "
@@ -634,13 +764,13 @@ msgstr ""
 "peut être relancé qu’une seule fois quelles que soient les circonstances."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/bretonnia.adoc:208
+#: en/revolution/modules/armies/pages/bretonnia.adoc:239
 #, no-wrap
 msgid "Eerie Mist"
 msgstr "Brouillard Mystique"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:214
+#: en/revolution/modules/armies/pages/bretonnia.adoc:245
 msgid ""
 "_An eerie mist rises about the enemy unit stifling the sights and sounds of "
 "battle._"
@@ -649,7 +779,7 @@ msgstr ""
 "déroulement de la bataille._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:218
+#: en/revolution/modules/armies/pages/bretonnia.adoc:249
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Enchantress can see it or not. The spell lasts until the end of the "
@@ -660,7 +790,7 @@ msgstr ""
 "ennemi suivant."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:222
+#: en/revolution/modules/armies/pages/bretonnia.adoc:253
 msgid ""
 "The unit cannot use its initiative. Any order given to the unit, or to any "
 "brigade of which it is a part, suffers a −1 Command penalty."
@@ -669,13 +799,13 @@ msgstr ""
 "la brigade dont elle fait partie, subit une pénalité de -1 en Commandement."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/bretonnia.adoc:224
+#: en/revolution/modules/armies/pages/bretonnia.adoc:255
 #, no-wrap
 msgid "Aerial Shield"
 msgstr "Bouclier Éthéré"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:230
+#: en/revolution/modules/armies/pages/bretonnia.adoc:261
 msgid ""
 "_The enemy’s missiles sparkle in the sunlight and vanish magically in mid-"
 "air causing no harm to their target._"
@@ -685,7 +815,7 @@ msgstr ""
 "à leur cible._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:233
+#: en/revolution/modules/armies/pages/bretonnia.adoc:264
 msgid ""
 "This spell can be cast on a friendly unit whether the Enchantress can see it "
 "or not."
@@ -694,13 +824,13 @@ msgstr ""
 "voir ou non."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:236
+#: en/revolution/modules/armies/pages/bretonnia.adoc:267
 msgid ""
 "The spell lasts until the beginning of the next Bretonnian Shooting phase."
 msgstr "Ce sort dure jusqu'au début de la prochaine phase de Tir Bretonnienne."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:241
+#: en/revolution/modules/armies/pages/bretonnia.adoc:272
 msgid ""
 "All enemies that shoot at the enchanted unit get −1 on shooting rolls. But "
 "keep in mind that regardless of all other circumstances the shooting may "
@@ -713,13 +843,13 @@ msgstr ""
 "fortifiée, les ennemis la toucheront quand même sur un 6+."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/bretonnia.adoc:243
+#: en/revolution/modules/armies/pages/bretonnia.adoc:274
 #, no-wrap
 msgid "Lady’s Favour"
 msgstr "Faveur de la Dame"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:249
+#: en/revolution/modules/armies/pages/bretonnia.adoc:280
 msgid ""
 "_A vision of The Lady appears to lead the Bretonnians into the midst of "
 "battle or away from danger._"
@@ -728,21 +858,21 @@ msgstr ""
 "combats ou au contraire loin de tout danger._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:254
+#: en/revolution/modules/armies/pages/bretonnia.adoc:285
 msgid ""
 "The spell can be cast on any unengaged friendly unit within range regardless "
 "of whether the Enchantress can see it or not.  The spell affects only a "
 "single unit, never a brigade and there is no supporting charge possible.."
 msgstr ""
-"Ce sort peut être lancé sur une unité amie non engagée à portée, que l’"
-"Enchanteresse puisse la voir ou non.  Le sort n’affecte qu’une seule unité, "
-"jamais la brigade dont elle fait partie, et elle ne peut pas effectuer de "
-"charge de soutien."
+"Ce sort peut être lancé sur une unité amie non engagée à portée, que "
+"l’Enchanteresse puisse la voir ou non.  Le sort n’affecte qu’une seule "
+"unité, jamais la brigade dont elle fait partie, et elle ne peut pas "
+"effectuer de charge de soutien."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:258
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:195
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:164
+#: en/revolution/modules/armies/pages/bretonnia.adoc:289
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:222
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:189
 #: en/revolution/modules/armies/partials/empire-spells.adoc:42
 msgid ""
 "The unit can be moved just as if it had received an order in the Command "
