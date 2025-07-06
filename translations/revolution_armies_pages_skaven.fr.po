@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -238,19 +238,19 @@ msgstr "Skavens"
 #: en/revolution/modules/armies/pages/skaven.adoc:19
 #, no-wrap
 msgid "Clanrats"
-msgstr ""
+msgstr "Guerriers des Clans"
 
 #. type: Attribute :stormvermin:
 #: en/revolution/modules/armies/pages/skaven.adoc:20
 #, no-wrap
 msgid "Stormvermin"
-msgstr ""
+msgstr "Vermines de Choc"
 
 #. type: Attribute :jezzails:
 #: en/revolution/modules/armies/pages/skaven.adoc:21
 #, no-wrap
 msgid "Jezzails"
-msgstr ""
+msgstr "Jezzails"
 
 #. type: Attribute :plague-monks:
 #: en/revolution/modules/armies/pages/skaven.adoc:22
@@ -263,19 +263,19 @@ msgstr "Peste"
 #: en/revolution/modules/armies/pages/skaven.adoc:23
 #, no-wrap
 msgid "Rat Swarms"
-msgstr ""
+msgstr "Nuées de Rats"
 
 #. type: Attribute :gutter-runners:
 #: en/revolution/modules/armies/pages/skaven.adoc:24
 #, no-wrap
 msgid "Gutter Runners"
-msgstr ""
+msgstr "Coureurs d’Égouts"
 
 #. type: Attribute :rat-ogres:
 #: en/revolution/modules/armies/pages/skaven.adoc:25
 #, no-wrap
 msgid "Rat Ogres"
-msgstr ""
+msgstr "Rat Ogres"
 
 #. type: Attribute :warp-lightning-cannon:
 #: en/revolution/modules/armies/pages/skaven.adoc:26
@@ -288,31 +288,31 @@ msgstr "Malefoudre"
 #: en/revolution/modules/armies/pages/skaven.adoc:27
 #, no-wrap
 msgid "Doom Wheel"
-msgstr ""
+msgstr "Roue Infernale"
 
 #. type: Attribute :screaming-bell:
 #: en/revolution/modules/armies/pages/skaven.adoc:28
 #, no-wrap
 msgid "Screaming Bell"
-msgstr ""
+msgstr "Cloche Hurlante"
 
 #. type: Attribute :grey-seer:
 #: en/revolution/modules/armies/pages/skaven.adoc:29
 #, no-wrap
 msgid "Grey Seer"
-msgstr ""
+msgstr "Prophète Gris"
 
 #. type: Attribute :warlock:
 #: en/revolution/modules/armies/pages/skaven.adoc:31
 #, no-wrap
 msgid "Warlock"
-msgstr ""
+msgstr "Technomage"
 
 #. type: Attribute :rat-ogre-bodyguard:
 #: en/revolution/modules/armies/pages/skaven.adoc:32
 #, no-wrap
 msgid "Rat Ogre-Bodyguard"
-msgstr ""
+msgstr "Garde du corps Rat Ogre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:55
@@ -439,7 +439,7 @@ msgstr "Sélecteur d'Armée des Skavens"
 #: en/revolution/modules/armies/pages/skaven.adoc:102
 #, no-wrap
 msgid "include::partial$skaven.tsv[]\n"
-msgstr ""
+msgstr "include::partial$skaven.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:110
@@ -503,7 +503,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/skaven.adoc:134
 #, no-wrap
 msgid "[[jezzails,†1]]1. Jezzails"
-msgstr ""
+msgstr "[[jezzails,†1]]1. Jezzails"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:138

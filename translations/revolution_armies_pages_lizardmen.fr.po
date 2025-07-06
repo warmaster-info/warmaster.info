@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-05 22:53+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
 "Language: fr\n"
@@ -174,13 +174,13 @@ msgstr "Skinks"
 #: en/revolution/modules/armies/pages/lizardmen.adoc:20
 #, no-wrap
 msgid "Saurus"
-msgstr ""
+msgstr "Saurus"
 
 #. type: Attribute :temple-guard:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:21
 #, no-wrap
 msgid "Temple Guard"
-msgstr ""
+msgstr "Gardes du Temple"
 
 #. type: Attribute :salamanders:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:22
@@ -192,13 +192,13 @@ msgstr "Salamandres"
 #: en/revolution/modules/armies/pages/lizardmen.adoc:23
 #, no-wrap
 msgid "Kroxigor"
-msgstr ""
+msgstr "Kroxigor"
 
 #. type: Attribute :cold-one-riders:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:24
 #, no-wrap
 msgid "Cold One Riders"
-msgstr ""
+msgstr "Cavaliers sur Sang-froid"
 
 #. type: Attribute :terradons:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:25
@@ -216,37 +216,37 @@ msgstr "Stégadon"
 #: en/revolution/modules/armies/pages/lizardmen.adoc:27
 #, no-wrap
 msgid "Slann Mage Palanquin"
-msgstr ""
+msgstr "Prêtre Mage Slann sur Palanquin"
 
 #. type: Attribute :saurus-hero:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:28
 #, no-wrap
 msgid "Saurus Hero"
-msgstr ""
+msgstr "Héros Saurus"
 
 #. type: Attribute :skink-hero:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:29
 #, no-wrap
 msgid "Skink Hero"
-msgstr ""
+msgstr "Héros Skink"
 
 #. type: Attribute :skink-shaman:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:30
 #, no-wrap
 msgid "Skink Shaman"
-msgstr ""
+msgstr "Chaman Skink"
 
 #. type: Attribute :stegadon-mount:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:31
 #, no-wrap
 msgid "Stegadon Mount"
-msgstr ""
+msgstr "Monture Stégadon"
 
 #. type: Attribute :carnosaur:
 #: en/revolution/modules/armies/pages/lizardmen.adoc:32
 #, no-wrap
 msgid "Carnosaur"
-msgstr ""
+msgstr "Carnosaure"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:50
@@ -390,7 +390,7 @@ msgstr "Sélecteur d'Armée des Hommes-Lézards"
 #: en/revolution/modules/armies/pages/lizardmen.adoc:113
 #, no-wrap
 msgid "include::partial$lizardmen.tsv[]\n"
-msgstr ""
+msgstr "include::partial$lizardmen.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:121

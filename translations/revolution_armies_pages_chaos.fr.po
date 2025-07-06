@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos/fr/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:26
 #, no-wrap
 msgid "Ogres"
-msgstr ""
+msgstr "Ogres"
 
 #. type: Attribute :general:
 #: en/revolution/modules/armies/pages/albion.adoc:28
@@ -220,14 +220,14 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/chaos.adoc:27
 #, no-wrap
 msgid "Chaos Hounds"
-msgstr ""
+msgstr "Chiens du Chaos"
 
 #. type: Attribute :dragon-ogres:
 #: en/revolution/modules/armies/pages/beastmen.adoc:27
 #: en/revolution/modules/armies/pages/chaos.adoc:30
 #, no-wrap
 msgid "Dragon Ogres"
-msgstr ""
+msgstr "Dragons-Ogres"
 
 #. type: Attribute :chaos-spawn:
 #: en/revolution/modules/armies/pages/beastmen.adoc:28
@@ -296,14 +296,14 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
 #, no-wrap
 msgid "Sorcerer"
-msgstr ""
+msgstr "Sorcier"
 
 #. type: Attribute :chaos:
 #: en/revolution/modules/armies/pages/chaos.adoc:1
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:80
 #, no-wrap
 msgid "Chaos"
-msgstr ""
+msgstr "Chaos"
 
 #. type: Attribute :chaos-warriors:
 #: en/revolution/modules/armies/pages/chaos.adoc:21
@@ -316,7 +316,7 @@ msgstr "Sélecteur d’Armée du Chaos"
 #: en/revolution/modules/armies/pages/chaos.adoc:22
 #, no-wrap
 msgid "Chaos Marauders"
-msgstr ""
+msgstr "Maraudeurs du Chaos"
 
 #. type: Attribute :trolls:
 #: en/revolution/modules/armies/pages/chaos.adoc:24
@@ -324,38 +324,38 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:25
 #, no-wrap
 msgid "Trolls"
-msgstr ""
+msgstr "Trolls"
 
 #. type: Attribute :marauder-horsemen:
 #: en/revolution/modules/armies/pages/chaos.adoc:25
 #, no-wrap
 msgid "Marauder Horsemen"
-msgstr ""
+msgstr "Cavaliers Maraudeurs"
 
 #. type: Attribute :chaos-knights:
 #: en/revolution/modules/armies/pages/chaos.adoc:26
 #, no-wrap
 msgid "Chaos Knights"
-msgstr ""
+msgstr "Chevaliers du Chaos"
 
 #. type: Attribute :chaos-chariots:
 #: en/revolution/modules/armies/pages/chaos.adoc:28
 #, no-wrap
 msgid "Chaos Chariots"
-msgstr ""
+msgstr "Chars du Chaos"
 
 #. type: Attribute :harpies:
 #: en/revolution/modules/armies/pages/chaos.adoc:29
 #: en/revolution/modules/armies/pages/dark-elves.adoc:24
 #, no-wrap
 msgid "Harpies"
-msgstr ""
+msgstr "Harpies"
 
 #. type: Attribute :chaos-dragon:
 #: en/revolution/modules/armies/pages/chaos.adoc:35
 #, no-wrap
 msgid "Chaos Dragon"
-msgstr ""
+msgstr "Dragon du Chaos"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:51
@@ -468,7 +468,7 @@ msgstr "Sélecteur d’Armée du Chaos"
 #: en/revolution/modules/armies/pages/chaos.adoc:100
 #, no-wrap
 msgid "include::partial$chaos.tsv[]\n"
-msgstr ""
+msgstr "include::partial$chaos.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:111
@@ -476,7 +476,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:124
 #, no-wrap
 msgid "[[trolls,†2]]2. Trolls"
-msgstr ""
+msgstr "[[trolls,†2]]2. Trolls"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:121
@@ -506,7 +506,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/chaos.adoc:122
 #, no-wrap
 msgid "[[harpies,†3]]3. Harpies"
-msgstr ""
+msgstr "[[harpies,†3]]3. Harpies"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:126
@@ -750,24 +750,18 @@ msgid ""
 "_An arc of pure energy strikes the foe, wreaking monstrous changes, melting "
 "flesh and twisting bones into monstrous form._"
 msgstr ""
+"_Un éclair d’énergie pure frappe l’ennemi, déformant et fusionnant les "
+"chairs et le métal d’une manière atroce._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:243
-#, fuzzy
-#| msgid ""
-#| "An arc of pure energy strikes the foe, wreaking monstrous changes, "
-#| "melting flesh and twisting bones into monstrous form.  This spell can be "
-#| "cast on an enemy unit. The Sorcerer must be able to see his target to use "
-#| "this spell. The spell cannot be directed at a unit engaged in combat."
 msgid ""
 "This spell can be cast on an enemy unit. The Sorcerer must be able to see "
 "his target to use this spell. The spell cannot be directed at a unit engaged "
 "in combat."
 msgstr ""
-"_Un éclair d’énergie pure frappe l’ennemi, déformant et fusionnant les "
-"chairs et le métal d’une manière atroce._  Ce sort peut être lancé sur une "
-"unité ennemie, visible par le Sorcier. Il ne peut pas être lancé sur une "
-"unité engagée au corps à corps."
+"Ce sort peut être lancé sur une unité ennemie, visible par le Sorcier. Il ne "
+"peut pas être lancé sur une unité engagée au corps à corps."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:248

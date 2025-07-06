@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_high-elves/fr/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/high-elves.adoc:23
 #, no-wrap
 msgid "Chariots"
-msgstr ""
+msgstr "Chars"
 
 #. type: Attribute :giant-eagles:
 #: en/revolution/modules/armies/pages/albion.adoc:26
@@ -228,7 +228,7 @@ msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/high-elves.adoc:19
 #, no-wrap
 msgid "Spearmen"
-msgstr ""
+msgstr "Lanciers"
 
 #. type: Attribute :wizard:
 #: en/revolution/modules/armies/pages/araby.adoc:29
@@ -258,7 +258,7 @@ msgstr "Ce sort affecte toutes les unités amies à portée."
 #: en/revolution/modules/armies/pages/high-elves.adoc:26
 #, no-wrap
 msgid "Elven Bolt Thrower"
-msgstr ""
+msgstr "Baliste à Répétition"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -283,31 +283,31 @@ msgstr "Hauts Elfes"
 #: en/revolution/modules/armies/pages/high-elves.adoc:20
 #, no-wrap
 msgid "Archers"
-msgstr ""
+msgstr "Archers"
 
 #. type: Attribute :silver-helms:
 #: en/revolution/modules/armies/pages/high-elves.adoc:21
 #, no-wrap
 msgid "Silver Helms"
-msgstr ""
+msgstr "Heaumes d’Argent"
 
 #. type: Attribute :reavers:
 #: en/revolution/modules/armies/pages/high-elves.adoc:22
 #, no-wrap
 msgid "Reavers"
-msgstr ""
+msgstr "Patrouilleurs"
 
 #. type: Attribute :dragon-rider:
 #: en/revolution/modules/armies/pages/high-elves.adoc:25
 #, no-wrap
 msgid "Dragon Rider"
-msgstr ""
+msgstr "Chevaucheur de Dragon"
 
 #. type: Attribute :dragon:
 #: en/revolution/modules/armies/pages/high-elves.adoc:31
 #, no-wrap
 msgid "Dragon"
-msgstr ""
+msgstr "Dragon"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:47
@@ -454,13 +454,13 @@ msgstr "Sélecteur d'Armée des Hauts Elfes"
 #: en/revolution/modules/armies/pages/high-elves.adoc:112
 #, no-wrap
 msgid "include::partial$high-elves.tsv[]\n"
-msgstr ""
+msgstr "include::partial$high-elves.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:117
 #, no-wrap
 msgid "[[archers,†1]]1. Archers"
-msgstr ""
+msgstr "[[archers,†1]]1. Archers"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:122
@@ -484,7 +484,7 @@ msgstr "[[giant-eagles,†2]]2. Aigles Géants"
 #: en/revolution/modules/armies/pages/high-elves.adoc:125
 #, no-wrap
 msgid "[[dragons,†3]]3. Dragons"
-msgstr ""
+msgstr "[[dragons,†3]]3. Dragons"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:128

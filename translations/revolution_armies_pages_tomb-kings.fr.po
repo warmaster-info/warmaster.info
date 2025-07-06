@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-03 15:04+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_tomb-kings/fr/>\n"
@@ -187,55 +187,55 @@ msgstr "Rois des Tombes"
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:18
 #, no-wrap
 msgid "Skeletons"
-msgstr ""
+msgstr "Squelettes"
 
 #. type: Attribute :skeleton-bowmen:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:19
 #, no-wrap
 msgid "Skeleton Bowmen"
-msgstr ""
+msgstr "Archers Squelettes"
 
 #. type: Attribute :skeleton-cavalry:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:20
 #, no-wrap
 msgid "Skeleton Cavalry"
-msgstr ""
+msgstr "Cavaliers Squelettes"
 
 #. type: Attribute :skeleton-chariots:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:21
 #, no-wrap
 msgid "Skeleton Chariots"
-msgstr ""
+msgstr "Chars Squelettes"
 
 #. type: Attribute :carrion:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:22
 #, no-wrap
 msgid "Carrion"
-msgstr ""
+msgstr "Charognards"
 
 #. type: Attribute :bone-giant:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:23
 #, no-wrap
 msgid "Bone Giant"
-msgstr ""
+msgstr "Géant d’Os"
 
 #. type: Attribute :sphinx:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:24
 #, no-wrap
 msgid "Sphinx"
-msgstr ""
+msgstr "Sphinx"
 
 #. type: Attribute :skull-chukka:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:25
 #, no-wrap
 msgid "Skull Chukka"
-msgstr ""
+msgstr "Catapulte à Crânes"
 
 #. type: Attribute :bone-thrower:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:26
 #, no-wrap
 msgid "Bone Thrower"
-msgstr ""
+msgstr "Balistes à Ossements"
 
 #. type: Attribute :tomb-king:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:27
@@ -248,7 +248,7 @@ msgstr "Rois des Tombes"
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:28
 #, no-wrap
 msgid "Liche Priest"
-msgstr ""
+msgstr "Prêtre Liche"
 
 #. type: Attribute :zombie-dragon:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:29
@@ -260,7 +260,7 @@ msgstr "Dragon Zombie"
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:30
 #, no-wrap
 msgid "Liche Chariot"
-msgstr ""
+msgstr "Char Liche"
 
 #.  TODO: Logo is half the resolution of all the others.
 #. type: Plain text
@@ -383,7 +383,7 @@ msgstr "Sélecteur d'Armée des Rois des Tombes"
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:100
 #, no-wrap
 msgid "include::partial$tomb-kings.tsv[]\n"
-msgstr ""
+msgstr "include::partial$tomb-kings.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:108
@@ -471,7 +471,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:137
 #, no-wrap
 msgid "[[sphinx,†3]]3. Sphinx"
-msgstr ""
+msgstr "[[sphinx,†3]]3. Sphinx"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:146
@@ -722,7 +722,7 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:251
 msgid "Doom and Despair prevents a unit from performing a supporting charge,"
-msgstr ""
+msgstr "Désespoir empêche une unité de faire une charge de soutien,"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255

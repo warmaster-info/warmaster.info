@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-02 15:04+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_goblins/fr/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:30
 #, no-wrap
 msgid "Giant"
-msgstr ""
+msgstr "Géant"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -144,7 +144,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/orcs.adoc:25
 #, no-wrap
 msgid "Trolls"
-msgstr ""
+msgstr "Trolls"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:111
@@ -152,7 +152,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:124
 #, no-wrap
 msgid "[[trolls,†2]]2. Trolls"
-msgstr ""
+msgstr "[[trolls,†2]]2. Trolls"
 
 #. type: Attribute :goblins:
 #: en/revolution/modules/armies/pages/goblins.adoc:1
@@ -174,14 +174,14 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:28
 #, no-wrap
 msgid "Wolf Riders"
-msgstr ""
+msgstr "Chevaucheurs de Loup"
 
 #. type: Attribute :wolf-chariots:
 #: en/revolution/modules/armies/pages/goblins.adoc:23
 #: en/revolution/modules/armies/pages/orcs.adoc:29
 #, no-wrap
 msgid "Wolf Chariots"
-msgstr ""
+msgstr "Chars à Loups"
 
 #. type: Attribute :pump-wagon:
 #: en/revolution/modules/armies/pages/goblins.adoc:24
@@ -211,18 +211,16 @@ msgstr "Gobelins"
 #. type: Attribute :goblin-hero:
 #: en/revolution/modules/armies/pages/goblins.adoc:29
 #: en/revolution/modules/armies/pages/orcs.adoc:35
-#, fuzzy, no-wrap
-#| msgid "Goblins"
+#, no-wrap
 msgid "Goblin Hero"
-msgstr "Gobelins"
+msgstr "Héros Gobelin"
 
 #. type: Attribute :goblin-shaman:
 #: en/revolution/modules/armies/pages/goblins.adoc:30
 #: en/revolution/modules/armies/pages/orcs.adoc:36
-#, fuzzy, no-wrap
-#| msgid "Goblins"
+#, no-wrap
 msgid "Goblin Shaman"
-msgstr "Gobelins"
+msgstr "Chaman Gobelin"
 
 #. type: Attribute :wolf-chariot:
 #: en/revolution/modules/armies/pages/goblins.adoc:31
@@ -235,7 +233,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:37
 #, no-wrap
 msgid "Wyvern"
-msgstr ""
+msgstr "Vouivre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/goblins.adoc:41
@@ -544,7 +542,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:207
 #, no-wrap
 msgid "Gerroff!!!"
-msgstr ""
+msgstr "Gerroff!!!"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/goblins.adoc:219

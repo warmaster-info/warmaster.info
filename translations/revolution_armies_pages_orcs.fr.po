@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_orcs/fr/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:26
 #, no-wrap
 msgid "Ogres"
-msgstr ""
+msgstr "Ogres"
 
 #. type: Attribute :giant:
 #: en/revolution/modules/armies/pages/albion.adoc:25
@@ -34,7 +34,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:30
 #, no-wrap
 msgid "Giant"
-msgstr ""
+msgstr "Géant"
 
 #. type: Attribute :chariot:
 #: en/revolution/modules/armies/pages/albion.adoc:32
@@ -182,7 +182,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/orcs.adoc:25
 #, no-wrap
 msgid "Trolls"
-msgstr ""
+msgstr "Trolls"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:111
@@ -190,7 +190,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:124
 #, no-wrap
 msgid "[[trolls,†2]]2. Trolls"
-msgstr ""
+msgstr "[[trolls,†2]]2. Trolls"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:121
@@ -221,7 +221,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/orcs.adoc:23
 #, no-wrap
 msgid "Black Orcs"
-msgstr ""
+msgstr "Orques Noirs"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:241
@@ -234,7 +234,7 @@ msgstr "[.cost]#6+ pour lancer# [.points]#Portée 50cm#"
 #: en/revolution/modules/armies/pages/orcs.adoc:135
 #, no-wrap
 msgid "[[ogres,†3]]3. Ogres"
-msgstr ""
+msgstr "[[ogres,†3]]3. Ogres"
 
 #. type: Attribute :goblins:
 #: en/revolution/modules/armies/pages/goblins.adoc:1
@@ -250,35 +250,35 @@ msgstr "Gobelins"
 #: en/revolution/modules/armies/pages/orcs.adoc:28
 #, no-wrap
 msgid "Wolf Riders"
-msgstr ""
+msgstr "Chevaucheurs de Loup"
 
 #. type: Attribute :wolf-chariots:
 #: en/revolution/modules/armies/pages/goblins.adoc:23
 #: en/revolution/modules/armies/pages/orcs.adoc:29
 #, no-wrap
 msgid "Wolf Chariots"
-msgstr ""
+msgstr "Chars à Loups"
 
 #. type: Attribute :goblin-hero:
 #: en/revolution/modules/armies/pages/goblins.adoc:29
 #: en/revolution/modules/armies/pages/orcs.adoc:35
 #, no-wrap
 msgid "Goblin Hero"
-msgstr ""
+msgstr "Héros Gobelin"
 
 #. type: Attribute :goblin-shaman:
 #: en/revolution/modules/armies/pages/goblins.adoc:30
 #: en/revolution/modules/armies/pages/orcs.adoc:36
 #, no-wrap
 msgid "Goblin Shaman"
-msgstr ""
+msgstr "Chaman Gobelin"
 
 #. type: Attribute :wyvern:
 #: en/revolution/modules/armies/pages/goblins.adoc:32
 #: en/revolution/modules/armies/pages/orcs.adoc:37
 #, no-wrap
 msgid "Wyvern"
-msgstr ""
+msgstr "Vouivre"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/goblins.adoc:120
@@ -309,7 +309,7 @@ msgstr "[[giant,†5]]5. Géant"
 #: en/revolution/modules/armies/pages/orcs.adoc:207
 #, no-wrap
 msgid "Gerroff!!!"
-msgstr ""
+msgstr "Gerroff!!!"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/goblins.adoc:219
@@ -386,37 +386,37 @@ msgstr "Orques"
 #: en/revolution/modules/armies/pages/orcs.adoc:22
 #, no-wrap
 msgid "Orc Warriors"
-msgstr ""
+msgstr "Guerriers Orques"
 
 #. type: Attribute :boar-riders:
 #: en/revolution/modules/armies/pages/orcs.adoc:27
 #, no-wrap
 msgid "Boar Riders"
-msgstr ""
+msgstr "Chevaucheurs de Sangliers"
 
 #. type: Attribute :rock-lobber:
 #: en/revolution/modules/armies/pages/orcs.adoc:31
 #, no-wrap
 msgid "Rock Lobber"
-msgstr ""
+msgstr "Lance Rocs"
 
 #. type: Attribute :orc-general:
 #: en/revolution/modules/armies/pages/orcs.adoc:32
 #, no-wrap
 msgid "Orc General"
-msgstr ""
+msgstr "Général Orque"
 
 #. type: Attribute :orc-hero:
 #: en/revolution/modules/armies/pages/orcs.adoc:33
 #, no-wrap
 msgid "Orc Hero"
-msgstr ""
+msgstr "Héros Orque"
 
 #. type: Attribute :orc-shaman:
 #: en/revolution/modules/armies/pages/orcs.adoc:34
 #, no-wrap
 msgid "Orc Shaman"
-msgstr ""
+msgstr "Chaman Orque"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/orcs.adoc:55
@@ -561,7 +561,7 @@ msgstr "Sélecteur d'Armée des Orques"
 #: en/revolution/modules/armies/pages/orcs.adoc:116
 #, no-wrap
 msgid "include::partial$orcs.tsv[]\n"
-msgstr ""
+msgstr "include::partial$orcs.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/orcs.adoc:141

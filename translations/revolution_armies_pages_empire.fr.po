@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-07-06 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_empire/fr/>\n"
@@ -135,7 +135,7 @@ msgstr "Sorcier"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:19
 #, no-wrap
 msgid "Crossbowmen"
-msgstr ""
+msgstr "Arbalétriers"
 
 #. type: Attribute :handgunners:
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:25
@@ -151,7 +151,7 @@ msgstr "Arquebusiers"
 #: en/revolution/modules/armies/pages/empire.adoc:33
 #, no-wrap
 msgid "Griffon"
-msgstr ""
+msgstr "Griffon"
 
 #. type: Attribute :cannon:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:20
@@ -173,52 +173,52 @@ msgstr "[[handgunners,†1]]1. Arquebusiers"
 #: en/revolution/modules/armies/pages/empire.adoc:1
 #, no-wrap
 msgid "Empire"
-msgstr ""
+msgstr "Empire"
 
 #. type: Attribute :halberdiers:
 #: en/revolution/modules/armies/pages/empire.adoc:20
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:18
 #, no-wrap
 msgid "Halberdiers"
-msgstr ""
+msgstr "Hallebardiers"
 
 #. type: Attribute :flagellants:
 #: en/revolution/modules/armies/pages/empire.adoc:23
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:21
 #, no-wrap
 msgid "Flagellants"
-msgstr ""
+msgstr "Flagellants"
 
 #. type: Attribute :skirmishers:
 #: en/revolution/modules/armies/pages/empire.adoc:24
 #, no-wrap
 msgid "Skirmishers"
-msgstr ""
+msgstr "Tirailleurs"
 
 #. type: Attribute :pistoliers:
 #: en/revolution/modules/armies/pages/empire.adoc:26
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:24
 #, no-wrap
 msgid "Pistoliers"
-msgstr ""
+msgstr "Pistoliers"
 
 #. type: Attribute :helblaster:
 #: en/revolution/modules/armies/pages/empire.adoc:27
 #, no-wrap
 msgid "Helblaster"
-msgstr ""
+msgstr "Canon Feu d’Enfer"
 
 #. type: Attribute :steam-tank:
 #: en/revolution/modules/armies/pages/empire.adoc:29
 #, no-wrap
 msgid "Steam Tank"
-msgstr ""
+msgstr "Tank à Vapeur"
 
 #. type: Attribute :war-altar:
 #: en/revolution/modules/armies/pages/empire.adoc:34
 #, no-wrap
 msgid "War Altar"
-msgstr ""
+msgstr "Autel de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:53
@@ -326,7 +326,7 @@ msgstr "Sélecteur d’Armée de l’Empire"
 #: en/revolution/modules/armies/pages/empire.adoc:95
 #, no-wrap
 msgid "include::partial$empire.tsv[]\n"
-msgstr ""
+msgstr "include::partial$empire.tsv[]\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:112
@@ -350,7 +350,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/empire.adoc:113
 #, no-wrap
 msgid "[[flagellants,†2]]2. Flagellants"
-msgstr ""
+msgstr "[[flagellants,†2]]2. Flagellants"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:121
@@ -417,7 +417,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/empire.adoc:136
 #, no-wrap
 msgid "[[pistoliers,†4]]4. Pistoliers"
-msgstr ""
+msgstr "[[pistoliers,†4]]4. Pistoliers"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:142
@@ -661,7 +661,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/empire.adoc:248
 #, no-wrap
 msgid "[[griffon,†7]]7. Griffon"
-msgstr ""
+msgstr "[[griffon,†7]]7. Griffon"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:254
