@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
-"PO-Revision-Date: 2025-07-04 11:04+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
+"PO-Revision-Date: 2025-07-06 11:04+0000\n"
+"Last-Translator: Weblate Admin <editor@weblate.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dwarfs/fr/>\n"
 "Language: fr\n"
@@ -153,10 +153,9 @@ msgstr ""
 
 #. type: Attribute :flame-cannon:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:21
-#, fuzzy, no-wrap
-#| msgid "Flame Cannon Misfire Chart"
+#, no-wrap
 msgid "Flame Cannon"
-msgstr "Tableau d'Incident de Tir du Canon à Flammes"
+msgstr "Canon à Flammes"
 
 #. type: Attribute :gyrocopter:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:22
@@ -465,7 +464,7 @@ msgstr ""
 "différemment des unités conventionnelles :"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:176
+#: en/revolution/modules/armies/pages/dwarfs.adoc:177
 msgid ""
 "If a Troll Slayer unit has any stands remaining at the end of the battle "
 "then the full points value of the unit is awarded to the opposing side as "
@@ -482,13 +481,13 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dwarfs.adoc:180
 msgid ""
 "If a Troll Slayer unit is destroyed no victory points are scored by either "
-"side.  +"
+"side."
 msgstr ""
 "Si l’unité a été détruite au cours de la bataille, aucun des deux joueurs ne "
-"marque des points de victoire.  +"
+"marque des points de victoire.   +"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:183
+#: en/revolution/modules/armies/pages/dwarfs.adoc:184
 msgid ""
 "Slayer units that have been destroyed still count towards the Dwarf army’s "
 "losses for purposes of calculating withdrawal."

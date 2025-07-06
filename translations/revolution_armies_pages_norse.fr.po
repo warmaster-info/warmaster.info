@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: 2025-07-03 13:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -96,73 +96,73 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:175
-#: en/revolution/modules/armies/pages/araby.adoc:251
-#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/albion.adoc:180
+#: en/revolution/modules/armies/pages/araby.adoc:255
+#: en/revolution/modules/armies/pages/beastmen.adoc:204
 #: en/revolution/modules/armies/pages/bretonnia.adoc:242
-#: en/revolution/modules/armies/pages/cathay.adoc:214
-#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/cathay.adoc:215
+#: en/revolution/modules/armies/pages/cathay.adoc:234
 #: en/revolution/modules/armies/pages/chaos.adoc:181
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
-#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:263
+#: en/revolution/modules/armies/pages/goblins.adoc:253
 #: en/revolution/modules/armies/pages/high-elves.adoc:210
-#: en/revolution/modules/armies/pages/kislev.adoc:243
-#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/kislev.adoc:252
+#: en/revolution/modules/armies/pages/norse.adoc:187
 #: en/revolution/modules/armies/pages/orcs.adoc:229
 #: en/revolution/modules/armies/pages/skaven.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:208
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:187
-#: en/revolution/modules/armies/pages/albion.adoc:200
-#: en/revolution/modules/armies/pages/araby.adoc:298
-#: en/revolution/modules/armies/pages/beastmen.adoc:217
-#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/albion.adoc:192
+#: en/revolution/modules/armies/pages/albion.adoc:205
+#: en/revolution/modules/armies/pages/araby.adoc:302
+#: en/revolution/modules/armies/pages/beastmen.adoc:219
+#: en/revolution/modules/armies/pages/beastmen.adoc:236
 #: en/revolution/modules/armies/pages/bretonnia.adoc:258
 #: en/revolution/modules/armies/pages/bretonnia.adoc:277
-#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/cathay.adoc:251
 #: en/revolution/modules/armies/pages/chaos.adoc:201
 #: en/revolution/modules/armies/pages/chaos.adoc:236
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
-#: en/revolution/modules/armies/pages/daemons.adoc:209
-#: en/revolution/modules/armies/pages/daemons.adoc:225
-#: en/revolution/modules/armies/pages/dark-elves.adoc:201
-#: en/revolution/modules/armies/pages/goblins.adoc:196
-#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:276
+#: en/revolution/modules/armies/pages/daemons.adoc:215
+#: en/revolution/modules/armies/pages/daemons.adoc:231
+#: en/revolution/modules/armies/pages/dark-elves.adoc:218
+#: en/revolution/modules/armies/pages/goblins.adoc:205
+#: en/revolution/modules/armies/pages/goblins.adoc:238
 #: en/revolution/modules/armies/pages/high-elves.adoc:194
 #: en/revolution/modules/armies/pages/high-elves.adoc:229
-#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/kislev.adoc:237
 #: en/revolution/modules/armies/pages/lizardmen.adoc:242
 #: en/revolution/modules/armies/pages/lizardmen.adoc:298
-#: en/revolution/modules/armies/pages/norse.adoc:178
-#: en/revolution/modules/armies/pages/norse.adoc:232
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/norse.adoc:199
+#: en/revolution/modules/armies/pages/norse.adoc:253
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:217
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:245
 #: en/revolution/modules/armies/pages/orcs.adoc:187
 #: en/revolution/modules/armies/pages/skaven.adoc:262
 #: en/revolution/modules/armies/pages/skaven.adoc:279
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:183
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
-#: en/revolution/modules/armies/pages/wood-elves.adoc:229
-#: en/revolution/modules/armies/pages/wood-elves.adoc:244
-#: en/revolution/modules/armies/pages/wood-elves.adoc:253
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:194
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:245
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:179
+#: en/revolution/modules/armies/pages/wood-elves.adoc:249
+#: en/revolution/modules/armies/pages/wood-elves.adoc:264
+#: en/revolution/modules/armies/pages/wood-elves.adoc:273
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:257
-#: en/revolution/modules/armies/pages/kislev.adoc:211
+#: en/revolution/modules/armies/pages/dark-elves.adoc:274
+#: en/revolution/modules/armies/pages/kislev.adoc:220
 #: en/revolution/modules/armies/pages/lizardmen.adoc:279
-#: en/revolution/modules/armies/pages/norse.adoc:203
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:162
+#: en/revolution/modules/armies/pages/norse.adoc:224
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:164
 msgid "[.cost]#5+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 
@@ -313,59 +313,89 @@ msgid "[[berserkers,†1]]1. Berserkers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:97
+#: en/revolution/modules/armies/pages/norse.adoc:95
 msgid ""
 "Such is the eagerness to get into combat that a unit of Berserkers will "
 "always use its initiative to charge an enemy if possible and can’t be given "
 "orders instead. They’ll never use their initiative to evade. They can’t be "
 "driven back by shooting and do not roll for drive backs. If victorious in "
-"combat, they must pursue or advance where possible. Berserkers are "
-"unaffected by enemies that cause terror in combat, so they do not suffer the "
-"usual −1 Attack modifier."
+"combat, they must pursue or advance where possible."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:99
+msgid ""
+"Berserkers are unaffected by enemies that cause terror in combat, so they do "
+"not suffer the usual −1 Attack modifier."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/norse.adoc:98
+#: en/revolution/modules/armies/pages/norse.adoc:100
 #, no-wrap
 msgid "[[ulfwerener,†2]]2. Ulfwerener"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:107
+#: en/revolution/modules/armies/pages/norse.adoc:102
 msgid ""
-"Unlike usual infantry troops, the Ulfwerener are based facing the short edge "
-"in the same way as cavalry. In addition they receive an additional +1 Attack "
-"modifier when they charge an enemy in the open in the same way as monsters "
-"and chariots and have an ability to pursue cavalry and chariots troop types. "
-"The Ulfwerener stands can never support or be supported. Because of their "
-"rather bestial nature, only characters with the Were Kin Character upgrade "
-"may join units of Ulfwerener. Ulfwerener units can not take any magic items."
+"Unlike [.edit]#normal# infantry troops, the Ulfwerener are based facing the "
+"short edge in the same way as cavalry."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:106
+msgid ""
+"They receive an additional +1 Attack when they charge an enemy in the open "
+"in the same way as monsters and chariots, and they may also pursue cavalry "
+"and chariots."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:109
+msgid "The Ulfwerener stands can never support or be supported."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:113
+msgid ""
+"Because of their rather bestial nature, only characters with the Were Kin "
+"Character upgrade may join units of Ulfwerener."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:115
+msgid "Ulfwerener units can not take any magic items."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/norse.adoc:108
+#: en/revolution/modules/armies/pages/norse.adoc:116
 #, no-wrap
 msgid "[[storm-giant,†3]]3. Storm Giant"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/norse.adoc:111
+#: en/revolution/modules/armies/pages/norse.adoc:119
 #, no-wrap
 msgid "[[war-mammoth,†4]]4. War Mammoth"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:117
+#: en/revolution/modules/armies/pages/norse.adoc:121
 msgid ""
-"As the Mammoth is so gargantuan, it uses a 40 x 60mm base, with the short "
-"edge being the front. It causes terror and may attack troops on ramparts "
-"with its trunk in the same manner as a Giant. Alternatively, it may elect to "
-"batter a wall section or gateway with its tusks in the same manner as a "
-"battering ram."
+"As the Mammoth is so gargantuan, it uses a 40 × 60mm base, with the short "
+"edge being the front."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:126
+#: en/revolution/modules/armies/pages/norse.adoc:127
+msgid ""
+"It causes terror and may attack troops on ramparts with its trunk in the "
+"same manner as a Giant. Alternatively, it may elect to batter a wall section "
+"or gateway with its tusks in the same manner as a battering ram."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:136
 msgid ""
 "During a siege a Norse War Mammoth in base contact with a wall section "
 "permits one Norse infantry unit to assault that wall section via the "
@@ -376,7 +406,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:132
+#: en/revolution/modules/armies/pages/norse.adoc:142
 msgid ""
 "If a unit assaults in this manner, then the War Mammoth may not attack with "
 "its trunk or batter the walls; such action would result in attacking "
@@ -384,7 +414,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:139
+#: en/revolution/modules/armies/pages/norse.adoc:149
 msgid ""
 "If a War Mammoth has accumulated 6–9 hits by the end of the Shooting phase "
 "or Combat phase and is no longer engaged in combat it is deemed to have been "
@@ -394,72 +424,103 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/norse.adoc:140
+#: en/revolution/modules/armies/pages/norse.adoc:150
 #, no-wrap
 msgid "[[valkyries,†5]]5. Valkyries"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:145
-msgid ""
-"Valkyries can fly. Valkyries will always use their initiative to charge an "
-"enemy if possible and cannot be given orders instead. They will never use "
-"their initiative to evade.  Valkyries are unaffected by enemy that cause "
-"terror in combat and they don’t suffer the usual −1 Attack modifier."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/armies/pages/norse.adoc:146
-#, no-wrap
-msgid "[[were-kin,†6]]6. Were Kin"
+#: en/revolution/modules/armies/pages/norse.adoc:151
+msgid "Valkyries can fly."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:152
+#: en/revolution/modules/armies/pages/norse.adoc:155
 msgid ""
-"The Were Kin special mount option may be taken by any character in Norse "
-"army. It is not actually a mount as such, more an upgrade. A unit that is "
-"joined by the character with the Were Kin upgrade causes terror in its "
-"enemies. No terrain restriction apply for Were Kin – just treat the "
-"character as having +1 extra Attack and causing terror."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/armies/pages/norse.adoc:153
-#, no-wrap
-msgid "[[horn-of-resounding,†7]]7. Horn of Resounding"
+"Valkyries will always use their initiative to charge an enemy if possible "
+"and cannot be given orders instead. They will never use their initiative to "
+"evade."
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/norse.adoc:158
 msgid ""
-"A single shaman in the army may be given this chariot upgrade. It gives the "
-"shaman +1 Attack if the Horn is used the Shaman inspires the units around "
-"him to fight harder. He may add +1 to all of his Command checks for a single "
-"turn only."
+"Valkyries are unaffected by enemy that cause terror in combat and they don’t "
+"suffer the usual −1 Attack modifier."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/norse.adoc:159
+#, no-wrap
+msgid "[[were-kin,†6]]6. Were Kin"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:162
+msgid ""
+"[.edit]#Any character may take# the Were Kin special mount.  It is not a "
+"mount as such, more an upgrade."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:165
+msgid ""
+"A unit that is joined by a character with the Were Kin upgrade causes terror "
+"in its enemies."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:169
+msgid ""
+"No terrain restriction apply for Were Kin – just treat the character as "
+"having +1 extra Attack and causing terror."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/norse.adoc:170
+#, no-wrap
+msgid "[[horn-of-resounding,†7]]7. Horn of Resounding"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:172
+msgid "A single shaman in the army may be given this chariot upgrade."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:174
+msgid "It gives the shaman +1 Attack."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/norse.adoc:179
+msgid ""
+"[.edit]#Once per battle, the Shaman may blow the horn, inspiring the units "
+"around him to fight harder. He adds +1 to all his Command for a single turn "
+"only, bringing it to 9.#"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/norse.adoc:160
+#: en/revolution/modules/armies/pages/norse.adoc:181
 #, no-wrap
 msgid "Norse spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/norse.adoc:163
+#: en/revolution/modules/armies/pages/norse.adoc:184
 #, no-wrap
 msgid "Aspect of Wulfen"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:169
+#: en/revolution/modules/armies/pages/norse.adoc:190
 msgid ""
 "_The Shaman turns the friendly unit into an illusive pack of monstrous "
 "creatures entailing the fear in a hearts of enemies._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:173
+#: en/revolution/modules/armies/pages/norse.adoc:194
 msgid ""
 "This spell can only be cast on any friendly unit within range regardless of "
 "whether the Shaman can see it or not. The unit counts as causing terror for "
@@ -467,21 +528,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/norse.adoc:175
+#: en/revolution/modules/armies/pages/norse.adoc:196
 #, no-wrap
 msgid "Thunder of Fo’Wor"
 msgstr ""
 
 #.  bolt, comma
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:182
+#: en/revolution/modules/armies/pages/norse.adoc:203
 msgid ""
 "_A lightning bolt shoots from the Shaman’s outstretched arm, burning all in "
 "its path._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:188
+#: en/revolution/modules/armies/pages/norse.adoc:209
 #: en/revolution/modules/armies/pages/orcs.adoc:196
 msgid ""
 "Draw an imaginary line 30cm long from the Shaman’s stand in any direction "
@@ -495,7 +556,7 @@ msgstr ""
 "plus de 2 cm de forêt, etc."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:198
+#: en/revolution/modules/armies/pages/norse.adoc:219
 msgid ""
 "Each unit under the line takes three shooting attacks worked out in the "
 "usual way. Note that this spell can easily affect several units and will "
@@ -507,21 +568,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/norse.adoc:200
+#: en/revolution/modules/armies/pages/norse.adoc:221
 #, no-wrap
 msgid "Eye of the Raven"
 msgstr ""
 
 #.  Tense
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:207
+#: en/revolution/modules/armies/pages/norse.adoc:228
 msgid ""
 "_The Shaman sacrifices a sacred Raven over a mystical flame.  Ingesting the "
 "ash that is quickly formed gives him visions._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:224
+#: en/revolution/modules/armies/pages/norse.adoc:245
 msgid ""
 "The Norse player may re-roll a single D6 at any time during the rest of his "
 "turn, through his opponents turn or in his following turn up to the end of "
@@ -539,25 +600,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:227
+#: en/revolution/modules/armies/pages/norse.adoc:248
 msgid "Only one Eye of the Raven spell may be in effect per turn."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/norse.adoc:229
+#: en/revolution/modules/armies/pages/norse.adoc:250
 #, no-wrap
 msgid "Spite of Low’Key"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:235
+#: en/revolution/modules/armies/pages/norse.adoc:256
 msgid ""
 "_The Shaman makes a weird enchantment calling the gods to curse the enemy "
 "with bad luck and failure._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/norse.adoc:243
+#: en/revolution/modules/armies/pages/norse.adoc:264
 msgid ""
 "All enemy characters within 30cm of the spell caster that roll a double have "
 "those orders count as blunders. This works on all results, from a double "

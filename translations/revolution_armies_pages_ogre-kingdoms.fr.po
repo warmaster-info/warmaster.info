@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: 2025-07-04 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -67,42 +67,42 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:187
-#: en/revolution/modules/armies/pages/albion.adoc:200
-#: en/revolution/modules/armies/pages/araby.adoc:298
-#: en/revolution/modules/armies/pages/beastmen.adoc:217
-#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/albion.adoc:192
+#: en/revolution/modules/armies/pages/albion.adoc:205
+#: en/revolution/modules/armies/pages/araby.adoc:302
+#: en/revolution/modules/armies/pages/beastmen.adoc:219
+#: en/revolution/modules/armies/pages/beastmen.adoc:236
 #: en/revolution/modules/armies/pages/bretonnia.adoc:258
 #: en/revolution/modules/armies/pages/bretonnia.adoc:277
-#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/cathay.adoc:251
 #: en/revolution/modules/armies/pages/chaos.adoc:201
 #: en/revolution/modules/armies/pages/chaos.adoc:236
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
-#: en/revolution/modules/armies/pages/daemons.adoc:209
-#: en/revolution/modules/armies/pages/daemons.adoc:225
-#: en/revolution/modules/armies/pages/dark-elves.adoc:201
-#: en/revolution/modules/armies/pages/goblins.adoc:196
-#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:276
+#: en/revolution/modules/armies/pages/daemons.adoc:215
+#: en/revolution/modules/armies/pages/daemons.adoc:231
+#: en/revolution/modules/armies/pages/dark-elves.adoc:218
+#: en/revolution/modules/armies/pages/goblins.adoc:205
+#: en/revolution/modules/armies/pages/goblins.adoc:238
 #: en/revolution/modules/armies/pages/high-elves.adoc:194
 #: en/revolution/modules/armies/pages/high-elves.adoc:229
-#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/kislev.adoc:237
 #: en/revolution/modules/armies/pages/lizardmen.adoc:242
 #: en/revolution/modules/armies/pages/lizardmen.adoc:298
-#: en/revolution/modules/armies/pages/norse.adoc:178
-#: en/revolution/modules/armies/pages/norse.adoc:232
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/norse.adoc:199
+#: en/revolution/modules/armies/pages/norse.adoc:253
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:217
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:245
 #: en/revolution/modules/armies/pages/orcs.adoc:187
 #: en/revolution/modules/armies/pages/skaven.adoc:262
 #: en/revolution/modules/armies/pages/skaven.adoc:279
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:183
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
-#: en/revolution/modules/armies/pages/wood-elves.adoc:229
-#: en/revolution/modules/armies/pages/wood-elves.adoc:244
-#: en/revolution/modules/armies/pages/wood-elves.adoc:253
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:194
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:245
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:179
+#: en/revolution/modules/armies/pages/wood-elves.adoc:249
+#: en/revolution/modules/armies/pages/wood-elves.adoc:264
+#: en/revolution/modules/armies/pages/wood-elves.adoc:273
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -111,10 +111,10 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:221
 #: en/revolution/modules/armies/pages/chaos.adoc:163
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:228
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:233
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:231
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:216
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:194
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
@@ -342,39 +342,59 @@ msgid "[[yhetees,†3]]3. Yhetees"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:130
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:127
 msgid ""
-"If the unit of Yhetees is charging against an enemy in the open it receives "
-"an additional +1 Attack modifier in the same way as chariots and monsters. A "
-"Yhetee unit can only give support and be supported by other Yhetee units and "
+"If the unit of Yhetees charges against an enemy in the open it receives an "
+"additional +1 Attack modifier in the same way as chariots and monsters."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:132
+msgid ""
+"A Yhetee unit can only give support and be supported by other Yhetee units, "
 "must pursue retreating enemies where possible and must advance into a combat "
 "if they are able to do so."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:131
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:133
 #, no-wrap
 msgid "[[gnoblars,†4]]4. Gnoblars"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:137
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:135
 msgid ""
 "This unit is allowed to shoot as if it had bows but its range is reduced to "
-"15cm. A Gnoblar stand cannot be supported by other kinds of infantry – only "
-"by other Gnoblar stands. Note, however, that Gnoblars can support other "
-"kinds of infantry as normal. Gnoblars cannot be given magic items. "
-"Characters cannot join Gnoblar units."
+"15cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:140
+msgid ""
+"A Gnoblar stand cannot be supported by other kinds of infantry – only by "
+"other Gnoblar stands. Note, however, that Gnoblars can support other kinds "
+"of infantry as normal."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:142
+msgid "Gnoblars cannot be given magic items."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:145
+msgid "Characters cannot join Gnoblar units."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:138
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:146
 #, no-wrap
 msgid "[[gorgers,†5]]5. Gorgers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:143
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:151
 msgid ""
 "When trying to issue an order to a unit of Gorgers or to a brigade that "
 "contains a unit of Gorgers, there is always a −1 Command penalty due their "
@@ -383,7 +403,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:166
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:174
 msgid ""
 "Gorgers do not have to be deployed before the game if the player does not "
 "wish to do so.  Instead individual units can be infiltrated onto the "
@@ -428,75 +448,84 @@ msgstr ""
 "suivant, au même endroit ou en un autre lieu."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:168
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:176
 msgid "Gorgers don’t suffer the usual −1 Command penalty for Dense Terrain."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:169
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:177
 #, no-wrap
 msgid "[[rhinox-riders,†6]]6. Rhinox Riders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:172
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:179
+msgid "Units of Rhinox Riders are unaffected by terror."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:182
 msgid ""
-"Units of Rhinox Riders are unaffected by terror. Rhinox Riders receive +1 "
-"Attack when charging against an enemy in open in the same way as chariots "
-"and monsters."
+"Rhinox Riders receive +1 Attack when charging against an enemy in open in "
+"the same way as chariots and monsters."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:173
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:183
 #, no-wrap
 msgid "[[slave-giant,†7]]7. Slave Giant"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:176
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:186
 #, no-wrap
 msgid "[[scrap-launcher,†8]]8. Scrap Launcher"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:178
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:188
 msgid ""
 "Scrap Launcher is a xref:rules:artillery-and-machines.adoc#stone-"
 "thrower[Stone Thrower] as described in the Warmaster Rulebook."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:179
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:189
 #, no-wrap
 msgid "[[bull-rhinox,†9]]9. Bull Rhinox"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:182
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:191
+msgid "Tyrants, Bruisers and Butchers may ride the Bull Rhinox."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:194
 msgid ""
-"Tyrants, Bruisers and Butchers may ride the Bull Rhinox. A unit that is "
-"joined with a character mounted on this huge beast causes terror in enemies."
+"A unit that is joined with a character mounted on this huge beast causes "
+"terror in enemies."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:186
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:198
 #, no-wrap
 msgid "Ogre Kingdoms spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:189
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:201
 #, no-wrap
 msgid "Tooth Cracker"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:192
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:204
 msgid "[.cost]#3+ to cast# [.points]#Range 30cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:197
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:209
 msgid ""
 "_The Butcher grinds his way through a lump of earth encrusted bedrock taken "
 "from the peak of a mountain, imbuing himself and his fellows with "
@@ -505,19 +534,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:200
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:212
 msgid ""
 "Target friendly unit can’t be driven back or confused until your next turn."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:202
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:214
 #, no-wrap
 msgid "Bone Cruncher"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:222
 msgid ""
 "_Shovelling dry bones into his mouth, the Butcher painfully crunches his way "
 "through femurs, ribs and skulls. As he points at his foes and spits his "
@@ -525,7 +554,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:214
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:226
 msgid ""
 "Counts as three shooting attacks with no armour save. The spell causes drive "
 "back as for normal shooting. The Wizard must be able to see the target and "
@@ -533,13 +562,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:216
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:228
 #, no-wrap
 msgid "Bull Gorger"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:224
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:236
 msgid ""
 "_The Butcher greedily devours the heart of a Bull Rhinox, no doubt enjoying "
 "the feast of healthy blood and muscle whilst he imbues himself and his "
@@ -547,7 +576,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:228
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:240
 msgid ""
 "The spell adds +1 Attack for each stand in a unit the Butcher has joined, "
 "including his own stand. The spell lasts for the duration of the following "
@@ -555,13 +584,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:230
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:242
 #, no-wrap
 msgid "Troll Guts"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:238
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:250
 msgid ""
 "_The Ogre Butcher forces down the toxic guts of a Stone Troll, great "
 "quantities of acid and bile ravaging his much abused gut as he transfers the "
@@ -569,7 +598,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:240
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:252
 msgid ""
 "This spell can be cast on friendly unit in combat. Each stand in affected "
 "unit gain +1 Hit during the following Combat phase."

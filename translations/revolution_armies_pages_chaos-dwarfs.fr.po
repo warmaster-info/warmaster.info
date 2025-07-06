@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: 2025-07-04 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -108,72 +108,72 @@ msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:175
-#: en/revolution/modules/armies/pages/araby.adoc:251
-#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/albion.adoc:180
+#: en/revolution/modules/armies/pages/araby.adoc:255
+#: en/revolution/modules/armies/pages/beastmen.adoc:204
 #: en/revolution/modules/armies/pages/bretonnia.adoc:242
-#: en/revolution/modules/armies/pages/cathay.adoc:214
-#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/cathay.adoc:215
+#: en/revolution/modules/armies/pages/cathay.adoc:234
 #: en/revolution/modules/armies/pages/chaos.adoc:181
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
-#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:263
+#: en/revolution/modules/armies/pages/goblins.adoc:253
 #: en/revolution/modules/armies/pages/high-elves.adoc:210
-#: en/revolution/modules/armies/pages/kislev.adoc:243
-#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/kislev.adoc:252
+#: en/revolution/modules/armies/pages/norse.adoc:187
 #: en/revolution/modules/armies/pages/orcs.adoc:229
 #: en/revolution/modules/armies/pages/skaven.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:208
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:187
-#: en/revolution/modules/armies/pages/albion.adoc:200
-#: en/revolution/modules/armies/pages/araby.adoc:298
-#: en/revolution/modules/armies/pages/beastmen.adoc:217
-#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/albion.adoc:192
+#: en/revolution/modules/armies/pages/albion.adoc:205
+#: en/revolution/modules/armies/pages/araby.adoc:302
+#: en/revolution/modules/armies/pages/beastmen.adoc:219
+#: en/revolution/modules/armies/pages/beastmen.adoc:236
 #: en/revolution/modules/armies/pages/bretonnia.adoc:258
 #: en/revolution/modules/armies/pages/bretonnia.adoc:277
-#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/cathay.adoc:251
 #: en/revolution/modules/armies/pages/chaos.adoc:201
 #: en/revolution/modules/armies/pages/chaos.adoc:236
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
-#: en/revolution/modules/armies/pages/daemons.adoc:209
-#: en/revolution/modules/armies/pages/daemons.adoc:225
-#: en/revolution/modules/armies/pages/dark-elves.adoc:201
-#: en/revolution/modules/armies/pages/goblins.adoc:196
-#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:276
+#: en/revolution/modules/armies/pages/daemons.adoc:215
+#: en/revolution/modules/armies/pages/daemons.adoc:231
+#: en/revolution/modules/armies/pages/dark-elves.adoc:218
+#: en/revolution/modules/armies/pages/goblins.adoc:205
+#: en/revolution/modules/armies/pages/goblins.adoc:238
 #: en/revolution/modules/armies/pages/high-elves.adoc:194
 #: en/revolution/modules/armies/pages/high-elves.adoc:229
-#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/kislev.adoc:237
 #: en/revolution/modules/armies/pages/lizardmen.adoc:242
 #: en/revolution/modules/armies/pages/lizardmen.adoc:298
-#: en/revolution/modules/armies/pages/norse.adoc:178
-#: en/revolution/modules/armies/pages/norse.adoc:232
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/norse.adoc:199
+#: en/revolution/modules/armies/pages/norse.adoc:253
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:217
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:245
 #: en/revolution/modules/armies/pages/orcs.adoc:187
 #: en/revolution/modules/armies/pages/skaven.adoc:262
 #: en/revolution/modules/armies/pages/skaven.adoc:279
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:183
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
-#: en/revolution/modules/armies/pages/wood-elves.adoc:229
-#: en/revolution/modules/armies/pages/wood-elves.adoc:244
-#: en/revolution/modules/armies/pages/wood-elves.adoc:253
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:194
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:245
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:179
+#: en/revolution/modules/armies/pages/wood-elves.adoc:249
+#: en/revolution/modules/armies/pages/wood-elves.adoc:264
+#: en/revolution/modules/armies/pages/wood-elves.adoc:273
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:215
-#: en/revolution/modules/armies/pages/beastmen.adoc:250
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:243
-#: en/revolution/modules/armies/pages/daemons.adoc:243
+#: en/revolution/modules/armies/pages/albion.adoc:220
+#: en/revolution/modules/armies/pages/beastmen.adoc:252
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:248
+#: en/revolution/modules/armies/pages/daemons.adoc:249
 #: en/revolution/modules/armies/pages/high-elves.adoc:177
 #: en/revolution/modules/armies/pages/skaven.adoc:312
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
@@ -182,10 +182,10 @@ msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 #. type: Plain text
 #: en/revolution/modules/armies/pages/bretonnia.adoc:221
 #: en/revolution/modules/armies/pages/chaos.adoc:163
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:228
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:233
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:231
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:216
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:194
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
@@ -541,28 +541,37 @@ msgid "[[great-taurus,†7]]7. Great Taurus"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:200
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:199
 msgid ""
 "Any character may be mounted on a Great Taurus. This mighty beast is "
-"fearsome to face on the battlefield.  The Great Taurus causes terror and is "
-"able to fly."
+"fearsome to face on the battlefield."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:201
+msgid "The Great Taurus causes terror and is able to fly."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:201
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:202
 #, no-wrap
 msgid "[[lammasu,†8]]8. Lammasu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:204
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:205
 msgid ""
 "The Lammasu is a magical creature trained to serve the Chaos Dwarfs. A Chaos "
-"Dwarf Sorcerer may be mounted on a Lammasu. A Lammasu is able to fly."
+"Dwarf Sorcerer may be mounted on a Lammasu."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:209
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:207
+msgid "A Lammasu is able to fly."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:212
 msgid ""
 "In addition once per turn you can attempt to dispel one hostile spell cast "
 "on one friendly unit within 30cm of the Lammasu on a roll of 4+ on a D6. "
@@ -570,43 +579,48 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:210
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:213
 #, no-wrap
 msgid "[[sorcerer-lord,†9]]9. Sorcerer Lord"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:217
 msgid ""
 "The General may be true Sorcerer Lord, maybe even one of the living "
-"ancestors from Zharr-Naggrund.  Sorcerer Lord can cast spells like a Wizard "
-"and can carry a magic item restricted to a Wizard if desired. Once during "
-"the battle Sorcerer Lord can add +1 to the dice when attempting to cast a "
-"spell. The player must announce that the Sorcerer’s special spell casting "
-"bonus is being used before rolling for the spell."
+"ancestors from Zharr-Naggrund.  A Sorcerer Lord can cast spells like a "
+"Wizard and can carry a magic item restricted to a Wizard if desired."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:223
+msgid ""
+"Once during the battle Sorcerer Lord can add +1 to the dice when attempting "
+"to cast a spell. The player must announce that the Sorcerer’s special spell "
+"casting bonus is being used before rolling for the spell."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:222
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:227
 #, no-wrap
 msgid "Chaos Dwarf spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:225
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:230
 #, no-wrap
 msgid "Flaming Hand"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:236
 msgid ""
 "_The Sorcerer’s hand glows like molten steel as he calls forth the strength "
 "of the forges of the earth._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:243
 msgid ""
 "This can only be cast if the Sorcerer has joined a unit in combat.  The "
 "spell automatically makes three attacks on one enemy unit which is touching "
@@ -616,18 +630,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:240
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:245
 #, no-wrap
 msgid "Volcanic Eruption"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:246
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:251
 msgid "_The Sorcerer’s calls forth a storm of magma from beneath the earth._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:253
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
 msgid ""
 "Each enemy unit within 30cm of the Sorcerer’s stand takes 3 Attacks worked "
 "out in the normal way. A unit is not driven back by the Volcanic Eruption. "
@@ -637,21 +651,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:255
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:260
 #, no-wrap
 msgid "Word of Fear"
 msgstr ""
 
 #.  instils
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:262
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:267
 msgid ""
 "_The Sorcerer speaks a blasphemous litany that instils fear in the hearts of "
 "his enemies._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:266
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
 msgid ""
 "This spell can only be cast on any friendly unit within range regardless of "
 "whether the Sorcerer can see it or not. The unit counts as causing terror "
@@ -659,13 +673,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:268
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:273
 #, no-wrap
 msgid "Meteor Storm"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:274
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:279
 msgid ""
 "_The Sorcerer hurls flaming stones from his fingertips toward the enemy, "
 "battering everything in its path._"
@@ -673,7 +687,7 @@ msgstr ""
 
 #.  scored
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:286
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:291
 msgid ""
 "Draw an imaginary line 30cm long extending from the Sorcerer’s stand in any "
 "direction you wish. Each unit under the line takes three shooting attacks "
