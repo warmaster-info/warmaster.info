@@ -169,7 +169,7 @@ infiltrate that turn, it can attempt to infiltrate in a subsequent
 turn at the same of a different place.
 
 [[forest-spirits,†4]]4. Forest Spirits:: Forest Spirits are woodland creatures. They
-are immune to terror and suffer −1 Command penalty when
+are immune to terror and suffer a −1 Command penalty when
 being ordered by General or Noble.
 
 [[wild-riders,†5]]5. Wild Riders:: Wild Riders receive +1 Attack in the first round
@@ -182,34 +182,54 @@ and shooting, including shooting at charging enemies. Note that
 this unit still needs Line of Sight from its front edge to charge
 an enemy.
 
-[[treeman,†7]]7. Treeman:: Treeman can enter woods and suffers no command
+[[treeman,†7]]7. Treeman:: A Treeman can enter woods and suffers no command
 penalty for being within the woods but cannot get defended
-status there. Treeman causes terror.
+status there.
++
+A Treeman causes terror.
 
-[[treeman-ancient,†8]]8. Treeman Ancient:: Treeman Ancient has −1 Command
-penalty when issuing orders to other than Forest Spirit units.
-Can join only Forest Spirit units and is able to cast Tree Singing
-spell. Units joined by Treeman Ancient cause terror. There
-can ever be only one Treeman Ancient in any Wood Elf army.
-Cannot be given any magic items.
+[[treeman-ancient,†8]]8. Treeman Ancient:: The Treeman Ancient has a −1 Command
+penalty when issuing orders to units other than Forest Spirits.
++
+The Treeman Ancient can join only Forest Spirit units and is able to cast the <<tree-singing>> spell.
++
+Units joined by Treeman Ancient cause terror.
++
+The Treeman Ancient cannot be given any magic items.
++
+There
+can only ever be one Treeman Ancient in any Wood Elf army.
 
-[[branchwraith,†9]]9. Branchwraith:: Branchwraith has −1 Command penalty when
-issuing orders to other than Forest Spirit units. Can join only
-Forest Spirit units and is able to cast Tree Singing spell. Cannot
+[[branchwraith,†9]]9. Branchwraith:: A Branchwraith has a −1 Command penalty when
+issuing orders to units other than Forest Spirits.
++
+A Branchwraith can join only
+Forest Spirit units and is able to cast the <<tree-singing>> spell.
++
+A Branchwraith cannot
 be given any magic items.
 
-[[giant-stag,†10]]10. Giant Stag:: General, Nobles and Spell Weavers may ride a
-Giant Stag. The Stag adds +1 Attack to those of its rider.
+[[giant-stag,†10]]10. Giant Stag:: Generals, Nobles and Spell Weavers may ride a
+Giant Stag.
++
+The Stag adds +1 Attack to those of its rider.
 
-[[unicorn,†11]]11. Unicorn:: This mount can be ridden by Spell Weaver only.
-The Unicorn adds +1 Attack to those of its rider. Once per
+[[unicorn,†11]]11. Unicorn:: This mount can be ridden only by a Spell Weaver.
++
+The Unicorn adds +1 Attack to those of its rider.
++
+Once per
 battle the Unicorn’s magical power adds +1 to the dice when
 casting a spell. The player must announce that the Unicorn’s
-magic before rolling to see if the spell works. There can be only
+magic before rolling to see if the spell works.
++
+There can be only
 one Unicorn in the army.
 
 [[warhawk,†12]]12. Warhawk:: General, Nobles and Spell Weavers may ride a
-Warhawk. The Warhawk can fly, increasing its rider’s move
+Warhawk.
+=
+=The Warhawk can fly, increasing its rider’s move
 from 60cm to 100cm, and it adds +1 Attack to those of its rider.
 
 [[forest-dragon,†13]]13. Forest Dragon:: Generals, Nobles and Spell Weavers may

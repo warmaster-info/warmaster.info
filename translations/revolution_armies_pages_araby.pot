@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,62 +106,62 @@ msgid "Special rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:175
-#: en/revolution/modules/armies/pages/araby.adoc:251
-#: en/revolution/modules/armies/pages/beastmen.adoc:202
+#: en/revolution/modules/armies/pages/albion.adoc:180
+#: en/revolution/modules/armies/pages/araby.adoc:255
+#: en/revolution/modules/armies/pages/beastmen.adoc:204
 #: en/revolution/modules/armies/pages/bretonnia.adoc:242
-#: en/revolution/modules/armies/pages/cathay.adoc:214
-#: en/revolution/modules/armies/pages/cathay.adoc:233
+#: en/revolution/modules/armies/pages/cathay.adoc:215
+#: en/revolution/modules/armies/pages/cathay.adoc:234
 #: en/revolution/modules/armies/pages/chaos.adoc:181
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:258
-#: en/revolution/modules/armies/pages/goblins.adoc:244
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:263
+#: en/revolution/modules/armies/pages/goblins.adoc:253
 #: en/revolution/modules/armies/pages/high-elves.adoc:210
-#: en/revolution/modules/armies/pages/kislev.adoc:243
-#: en/revolution/modules/armies/pages/norse.adoc:166
+#: en/revolution/modules/armies/pages/kislev.adoc:252
+#: en/revolution/modules/armies/pages/norse.adoc:187
 #: en/revolution/modules/armies/pages/orcs.adoc:229
 #: en/revolution/modules/armies/pages/skaven.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:206
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:208
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:187
-#: en/revolution/modules/armies/pages/albion.adoc:200
-#: en/revolution/modules/armies/pages/araby.adoc:298
-#: en/revolution/modules/armies/pages/beastmen.adoc:217
-#: en/revolution/modules/armies/pages/beastmen.adoc:234
+#: en/revolution/modules/armies/pages/albion.adoc:192
+#: en/revolution/modules/armies/pages/albion.adoc:205
+#: en/revolution/modules/armies/pages/araby.adoc:302
+#: en/revolution/modules/armies/pages/beastmen.adoc:219
+#: en/revolution/modules/armies/pages/beastmen.adoc:236
 #: en/revolution/modules/armies/pages/bretonnia.adoc:258
 #: en/revolution/modules/armies/pages/bretonnia.adoc:277
-#: en/revolution/modules/armies/pages/cathay.adoc:250
+#: en/revolution/modules/armies/pages/cathay.adoc:251
 #: en/revolution/modules/armies/pages/chaos.adoc:201
 #: en/revolution/modules/armies/pages/chaos.adoc:236
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:271
-#: en/revolution/modules/armies/pages/daemons.adoc:209
-#: en/revolution/modules/armies/pages/daemons.adoc:225
-#: en/revolution/modules/armies/pages/dark-elves.adoc:201
-#: en/revolution/modules/armies/pages/goblins.adoc:196
-#: en/revolution/modules/armies/pages/goblins.adoc:229
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:276
+#: en/revolution/modules/armies/pages/daemons.adoc:215
+#: en/revolution/modules/armies/pages/daemons.adoc:231
+#: en/revolution/modules/armies/pages/dark-elves.adoc:218
+#: en/revolution/modules/armies/pages/goblins.adoc:205
+#: en/revolution/modules/armies/pages/goblins.adoc:238
 #: en/revolution/modules/armies/pages/high-elves.adoc:194
 #: en/revolution/modules/armies/pages/high-elves.adoc:229
-#: en/revolution/modules/armies/pages/kislev.adoc:228
+#: en/revolution/modules/armies/pages/kislev.adoc:237
 #: en/revolution/modules/armies/pages/lizardmen.adoc:242
 #: en/revolution/modules/armies/pages/lizardmen.adoc:298
-#: en/revolution/modules/armies/pages/norse.adoc:178
-#: en/revolution/modules/armies/pages/norse.adoc:232
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:205
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/norse.adoc:199
+#: en/revolution/modules/armies/pages/norse.adoc:253
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:217
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:245
 #: en/revolution/modules/armies/pages/orcs.adoc:187
 #: en/revolution/modules/armies/pages/skaven.adoc:262
 #: en/revolution/modules/armies/pages/skaven.adoc:279
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:183
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:176
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:227
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:177
-#: en/revolution/modules/armies/pages/wood-elves.adoc:229
-#: en/revolution/modules/armies/pages/wood-elves.adoc:244
-#: en/revolution/modules/armies/pages/wood-elves.adoc:253
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:194
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:245
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:179
+#: en/revolution/modules/armies/pages/wood-elves.adoc:249
+#: en/revolution/modules/armies/pages/wood-elves.adoc:264
+#: en/revolution/modules/armies/pages/wood-elves.adoc:273
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -391,7 +391,7 @@ msgid "[[camel-riders,†3]]3. Camel Riders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:145
+#: en/revolution/modules/armies/pages/araby.adoc:141
 msgid ""
 "Camel Riders ignore distance modifiers when commands are issued to them. "
 "This applies only to Camel Riders and not to brigades that include Camel "
@@ -399,19 +399,25 @@ msgid ""
 "maximum command ranges and cannot issue orders to units beyond range. This "
 "represents their fierce self-reliance and their mounts’ instinctive sense of "
 "direction allowing them to operate effectively far from their own battle "
-"lines. Because Camels are such intractable creatures all orders are issued "
-"with a Command penalty of −1, this penalty applies to any unit of Camel "
-"Riders or to any brigade that contains one or more units of Camel Riders."
+"lines."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/araby.adoc:147
+msgid ""
+"Because Camels are such intractable creatures all orders are issued with a "
+"Command penalty of −1, this penalty applies to any unit of Camel Riders or "
+"to any brigade that contains one or more units of Camel Riders."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/araby.adoc:146
+#: en/revolution/modules/armies/pages/araby.adoc:148
 #, no-wrap
 msgid "[[magic-carpets,†4]]4. Magic Carpets"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:154
+#: en/revolution/modules/armies/pages/araby.adoc:156
 msgid ""
 "Magic carpets can fly – they have been rated as aerial ‘cavalry’ as this is "
 "the closest categorisation to their type. Because they are awkward flyers, "
@@ -423,13 +429,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/araby.adoc:155
+#: en/revolution/modules/armies/pages/araby.adoc:157
 #, no-wrap
 msgid "[[elephants,†5]]5. Elephants"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:163
+#: en/revolution/modules/armies/pages/araby.adoc:165
 msgid ""
 "Elephants cause terror. Elephants cannot be brigaded with cavalry but can be "
 "brigaded with other types of troops including other Elephants. If an "
@@ -441,7 +447,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:169
+#: en/revolution/modules/armies/pages/araby.adoc:171
 msgid ""
 "Stampeding Elephants cannot be given orders or use initiative. Instead roll "
 "a dice at the start of the Command phase before moving anything else on "
@@ -449,7 +455,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/araby.adoc:196
+#: en/revolution/modules/armies/pages/araby.adoc:198
 #, no-wrap
 msgid ""
 "h|1–2\n"
@@ -479,7 +485,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:208
+#: en/revolution/modules/armies/pages/araby.adoc:210
 msgid ""
 "A Stampeding Elephant unit that charges into an enemy or friendly unit "
 "fights in the combat phase in the same way as a regular charging unit. The "
@@ -492,7 +498,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:217
+#: en/revolution/modules/armies/pages/araby.adoc:219
 msgid ""
 "Stampeding Elephants might conceivably move into a unit, therefore "
 "initiating combat, but are unable to form a battleline because they have "
@@ -504,38 +510,42 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/araby.adoc:219
+#: en/revolution/modules/armies/pages/araby.adoc:221
 #, no-wrap
 msgid "[[flying-carpet,†6]]6. Flying Carpet"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:220
+#: en/revolution/modules/armies/pages/araby.adoc:222
 msgid "This is considered to be a flying chariot mount."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/araby.adoc:221
+#: en/revolution/modules/armies/pages/araby.adoc:223
 #, no-wrap
 msgid "[[elephant,†7]]7. Elephant"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:225
+#: en/revolution/modules/armies/pages/araby.adoc:226
 msgid ""
 "The Elephant mount is a standard monster mount except that a character "
-"mounted on an Elephant cannot join a unit of friendly cavalry. A unit joined "
-"by a character riding an Elephant causes Terror."
+"mounted on an Elephant cannot join a unit of friendly cavalry."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/araby.adoc:229
+msgid "A unit joined by a character riding an Elephant causes Terror."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/araby.adoc:226
+#: en/revolution/modules/armies/pages/araby.adoc:230
 #, no-wrap
 msgid "[[djinn,†8]]8. Djinn"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:230
+#: en/revolution/modules/armies/pages/araby.adoc:234
 msgid ""
 "The Djinn accompanies its master and can transform both of them into a "
 "whirlwind enabling the stand to fly as for a normal flying mount. If the "
@@ -544,7 +554,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:235
+#: en/revolution/modules/armies/pages/araby.adoc:239
 msgid ""
 "Note that unusually the Djinn has +2 shooting attacks – these are added to a "
 "stand from a unit that the character has joined and can only be used when "
@@ -553,32 +563,32 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:239
+#: en/revolution/modules/armies/pages/araby.adoc:243
 msgid ""
 "If the Wizard is accompanied by a Djinn then any unit he joins causes Terror."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/araby.adoc:245
+#: en/revolution/modules/armies/pages/araby.adoc:249
 #, no-wrap
 msgid "Araby spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/araby.adoc:248
+#: en/revolution/modules/armies/pages/araby.adoc:252
 #, no-wrap
 msgid "Sand Storm"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:254
+#: en/revolution/modules/armies/pages/araby.adoc:258
 msgid ""
 "_The sorcerer commands the desert spirits to engulf his foes in a swirling "
 "cloud of choking sand and dust._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:258
+#: en/revolution/modules/armies/pages/araby.adoc:262
 msgid ""
 "The spell is cast upon the Sorcerer himself and affects all enemy units "
 "within 30cm of the stand. The spell lasts until the end of the opposing "
@@ -586,7 +596,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:264
+#: en/revolution/modules/armies/pages/araby.adoc:268
 msgid ""
 "The spell affects the opposing army’s ability to issue commands.  All enemy "
 "units within 30cm of the Arabian Sorcerer suffer a −1 Command penalty. This "
@@ -596,29 +606,29 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/araby.adoc:266
+#: en/revolution/modules/armies/pages/araby.adoc:270
 #, no-wrap
 msgid "Mirage"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:269
-#: en/revolution/modules/armies/pages/daemons.adoc:189
-#: en/revolution/modules/armies/pages/dark-elves.adoc:238
+#: en/revolution/modules/armies/pages/araby.adoc:273
+#: en/revolution/modules/armies/pages/daemons.adoc:195
+#: en/revolution/modules/armies/pages/dark-elves.adoc:255
 #: en/revolution/modules/armies/pages/lizardmen.adoc:260
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:233
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:272
+#: en/revolution/modules/armies/pages/araby.adoc:276
 msgid ""
 "_The sorcerer creates the illusion of a huge host of fearsome warriors, "
 "bearing down inexorably upon his startled foes._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:288
+#: en/revolution/modules/armies/pages/araby.adoc:292
 msgid ""
 "To use this spell the player will need an additional unit chosen from the "
 "Araby list – this can be infantry, cavalry or monsters it does not matter "
@@ -636,7 +646,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:293
+#: en/revolution/modules/armies/pages/araby.adoc:297
 msgid ""
 "Whilst the Mirage unit is on the battlefield the Wizard cannot cast any "
 "other spells – if the player wishes the Wizard to cast a new spell the "
@@ -644,20 +654,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/araby.adoc:295
+#: en/revolution/modules/armies/pages/araby.adoc:299
 #, no-wrap
 msgid "Sunstrike"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:301
+#: en/revolution/modules/armies/pages/araby.adoc:305
 msgid ""
 "_Bright beams of burning energy leap from the sorcerer’s eyes and scythe "
 "through all before him._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:312
+#: en/revolution/modules/armies/pages/araby.adoc:316
 msgid ""
 "Draw an imaginary line 30cm long from the Wizard’s stand in any direction "
 "you wish. Each unit under the line takes three shooting attacks worked out "
@@ -671,25 +681,25 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/araby.adoc:314
+#: en/revolution/modules/armies/pages/araby.adoc:318
 #, no-wrap
 msgid "Curse of the Djinn"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:317
+#: en/revolution/modules/armies/pages/araby.adoc:321
 msgid "[.cost]#6+ to cast# [.points]#Rage 30cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:320
+#: en/revolution/modules/armies/pages/araby.adoc:324
 msgid ""
 "_The Sorcerer channels the immense power of the Djinn through his own body "
 "and lays a terrible curse upon his foes._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:324
+#: en/revolution/modules/armies/pages/araby.adoc:328
 msgid ""
 "The Sorcerer may cast this spell on an enemy unit within range.  The target "
 "unit must re-roll all successful armour saves for the duration of the "
@@ -697,7 +707,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:327
+#: en/revolution/modules/armies/pages/araby.adoc:331
 msgid ""
 "If the Sorcerer has a Djinn then he adds +1 to his dice roll when casting "
 "this spell, and therefore casts successfully on a 5+."

@@ -121,18 +121,26 @@ Elves etc.
 Leadbelchers’ shooting attacks
 impose a −1 penalty to armour rolls.
 
-[[yhetees,†3]]3. Yhetees:: If the unit of Yhetees is charging against an enemy
+[[yhetees,†3]]3. Yhetees:: If the unit of Yhetees charges against an enemy
 in the open it receives an additional +1 Attack modifier in the
-same way as chariots and monsters. A Yhetee unit can only
-give support and be supported by other Yhetee units and must
+same way as chariots and monsters.
++
+A Yhetee unit can only
+give support and be supported by other Yhetee units, must
 pursue retreating enemies where possible and must advance
 into a combat if they are able to do so.
 
 [[gnoblars,†4]]4. Gnoblars:: This unit is allowed to shoot as if it had bows but its
-range is reduced to 15cm. A Gnoblar stand cannot be supported
+range is reduced to 15cm.
++
+A Gnoblar stand cannot be supported
 by other kinds of infantry – only by other Gnoblar stands. Note,
 however, that Gnoblars can support other kinds of infantry
-as normal. Gnoblars cannot be given magic items. Characters
+as normal.
++
+Gnoblars cannot be given magic items.
++
+Characters
 cannot join Gnoblar units.
 
 [[gorgers,†5]]5. Gorgers:: When trying to issue an order to a unit of Gorgers or
@@ -167,7 +175,9 @@ infiltrate in a subsequent turn at the same or a different place.
 Gorgers don’t suffer the usual −1 Command penalty for Dense Terrain.
 
 [[rhinox-riders,†6]]6. Rhinox Riders:: Units of Rhinox Riders are unaffected by
-terror. Rhinox Riders receive +1 Attack when charging against
+terror.
++
+Rhinox Riders receive +1 Attack when charging against
 an enemy in open in the same way as chariots and monsters.
 
 [[slave-giant,†7]]7. Slave Giant::
@@ -177,7 +187,9 @@ include::partial$giant.adoc[]
 described in the Warmaster Rulebook.
 
 [[bull-rhinox,†9]]9. Bull Rhinox:: Tyrants, Bruisers and Butchers may ride the Bull
-Rhinox. A unit that is joined with a character mounted on this
+Rhinox.
++
+A unit that is joined with a character mounted on this
 huge beast causes terror in enemies.
 
 image::ogre-kingdoms/infantry.webp[]

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -329,24 +329,30 @@ msgid "[[mikata,†3]]3. Mikata"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:157
+#: en/revolution/modules/armies/pages/nippon.adoc:155
 msgid ""
 "A unit of Mikata will always use its initiative to charge an enemy if "
 "possible and cannot be given orders instead.  They will never use their "
 "initiative to evade. They can’t be driven back by shooting and do not roll "
 "for drive backs. If victorious in combat, they must pursue or advance where "
-"possible. Mikata are unaffected by enemies that cause terror in combat, so "
-"they do not suffer the usual −1 Attack modifier."
+"possible."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:159
+msgid ""
+"Mikata are unaffected by enemies that cause terror in combat, so they do not "
+"suffer the usual −1 Attack modifier."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:158
+#: en/revolution/modules/armies/pages/nippon.adoc:160
 #, no-wrap
 msgid "[[ninja,†4]]4. Ninja"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:163
+#: en/revolution/modules/armies/pages/nippon.adoc:165
 msgid ""
 "Ninja have a shooting range of 15cm and 360° vision – stands in this unit "
 "can draw line of sight from all edges for the purpose of evading and "
@@ -355,7 +361,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:187
+#: en/revolution/modules/armies/pages/nippon.adoc:189
 msgid ""
 "Ninja do not have to be deployed before the game if the player does not wish "
 "to do so. Instead, individual units can be infiltrated onto the battlefield "
@@ -379,20 +385,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:190
+#: en/revolution/modules/armies/pages/nippon.adoc:192
 msgid ""
 "Ninjas ignore penalties for Dense Terrain. Ninja count as Gutter Runners for "
 "the purpose of Scout Rules."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:191
+#: en/revolution/modules/armies/pages/nippon.adoc:193
 #, no-wrap
 msgid "[[temple-daemons,†5]]5. Temple Daemons"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:198
+#: en/revolution/modules/armies/pages/nippon.adoc:200
 msgid ""
 "Temple Daemons are immune to terror and cannot be given magic items. They "
 "also suffer from Daemonic Instability. At the start of the Nippon player’s "
@@ -403,7 +409,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/nippon.adoc:223
+#: en/revolution/modules/armies/pages/nippon.adoc:225
 #, no-wrap
 msgid ""
 "h|0–1\n"
@@ -431,42 +437,60 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:225
+#: en/revolution/modules/armies/pages/nippon.adoc:227
 #, no-wrap
 msgid "[[komainu,†6]]6. Komainu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:229
+#: en/revolution/modules/armies/pages/nippon.adoc:230
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:148
 msgid ""
 "If the unit charges against an enemy in the open it receives an additional "
-"+1 Attack modifier in the same way as chariots and monsters. Komainu are "
-"affected by Instability and Immune to Terror like other Temple Daemons."
+"+1 Attack modifier in the same way as chariots and monsters."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:233
+msgid ""
+"Komainu are affected by Instability and Immune to Terror like other Temple "
+"Daemons."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:230
+#: en/revolution/modules/armies/pages/nippon.adoc:234
 #, no-wrap
 msgid "[[tengu,†7]]7. Tengu"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/nippon.adoc:235
+msgid "Tengu can fly."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:240
 msgid ""
-"Tengu can fly. They are an exception to the normal conventions for basing "
-"monsters in that they face the long edge of the stand in the same way as "
-"infantry rather than the short edge as most other monsters. Tengu are "
-"affected by Instability and Immune to Terror like other Temple Daemons."
+"They are an exception to the normal conventions for basing monsters in that "
+"they face the long edge of the stand in the same way as infantry rather than "
+"the short edge as most other monsters."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:243
+msgid ""
+"Tengu are affected by Instability and Immune to Terror like other Temple "
+"Daemons."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:236
+#: en/revolution/modules/armies/pages/nippon.adoc:244
 #, no-wrap
 msgid "[[shogun,†8]]8. Shogun"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:244
+#: en/revolution/modules/armies/pages/nippon.adoc:252
 msgid ""
 "If a Nippon Hero (Daimyo or Shugenja, not the Shogun) rolls a double 6 when "
 "issuing orders, the player must roll on the Blunder table with a −1 penalty "
@@ -478,13 +502,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:245
+#: en/revolution/modules/armies/pages/nippon.adoc:253
 #, no-wrap
 msgid "[[shugenja,†9]]9. Shugenja"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:250
+#: en/revolution/modules/armies/pages/nippon.adoc:258
 msgid ""
 "If an enemy wizard who is within 50cm of the Shugenja casts a spell the "
 "Shugenja can attempt to dispel it. Note that it does not matter what the "
@@ -493,7 +517,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:259
+#: en/revolution/modules/armies/pages/nippon.adoc:267
 msgid ""
 "To determine if this works, roll a D6. On the score of 4, 5 or 6 the "
 "Shugenja has succeeded and the spell doesn’t work, it is dispelled by the "
@@ -505,7 +529,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:264
+#: en/revolution/modules/armies/pages/nippon.adoc:272
 msgid ""
 "The Shugenja adds +1 to any rolls on the Daemonic Instability table if he is "
 "within 20cm of the affected Daemon unit. This benefit only applies when "
@@ -513,39 +537,46 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:266
+#: en/revolution/modules/armies/pages/nippon.adoc:274
 msgid "Shugenjas may take a Dispel scroll."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:267
+#: en/revolution/modules/armies/pages/nippon.adoc:275
 #, no-wrap
 msgid "[[tatsu,†10]]10. Tatsu"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:270
-msgid ""
-"Generals and Heroes can ride Tatsu, a kind of dragon native to Nippon. Tatsu "
-"can fly and cause terror in their enemies.  An extra +2 Attacks are added to "
-"those of its rider."
+#: en/revolution/modules/armies/pages/nippon.adoc:277
+msgid "Generals and Heroes can ride Tatsu, a kind of dragon native to Nippon."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:279
+msgid "Tatsu can fly and cause terror in their enemies."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/nippon.adoc:281
+msgid "An extra +2 Attacks are added to those of its rider."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/nippon.adoc:271
+#: en/revolution/modules/armies/pages/nippon.adoc:282
 #, no-wrap
 msgid "[[shrine,†11]]11. Shrine"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:273
+#: en/revolution/modules/armies/pages/nippon.adoc:284
 msgid ""
 "The army can only include a single Shrine and it is incorporated onto the "
 "stand of a Shugenja."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:277
+#: en/revolution/modules/armies/pages/nippon.adoc:288
 msgid ""
 "If a Shugenja stand includes the Shrine, once per battle he can add +1 to "
 "his dice roll when he attempts to dispel enemy magic spells using the "
@@ -553,7 +584,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/nippon.adoc:285
+#: en/revolution/modules/armies/pages/nippon.adoc:296
 msgid ""
 "In addition, the Shugenja can invoke the gods using the Shrine during the "
 "Shooting phase of his own turn. The shrine’s invocation fills the Nippon "

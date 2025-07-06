@@ -16,6 +16,6 @@
 {branchwraith}	{hero}	+2	– 	– 	8	1	90	–/1 	<<branchwraith>>
 {spell-weaver}	{wizard}	+0	– 	– 	8	1	80	–/1 	–
 {giant-stag}	{special-mount}	+1	– 	– 	– 	– 	+10	–/1 	<<giant-stag>>
-{unicorn}	{special-mount}	+1	– 	– 	– 	– 	+15	–/1 	<<unicorn>>
+{unicorn}	{special-mount}	+1	– 	– 	– 	– 	+15	0–1 	<<unicorn>>
 {warhawk}	{monstrous-mount}	+1	– 	– 	– 	– 	+15	–/1 	<<warhawk>>
 {forest-dragon}	{monstrous-mount}	+3/3	– 	– 	– 	– 	+100	–/1 	<<forest-dragon>>

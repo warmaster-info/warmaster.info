@@ -137,12 +137,17 @@ include::partial$giant.adoc[]
 
 [[giant-eagles,†3]]3. Giant Eagles:: Giant Eagles can fly.
 
-[[giant-eagle-mount,†4]]4. Giant Eagle Mount:: Giant Eagles can be ridden only by Druids
+[[giant-eagle-mount,†4]]4. Giant Eagle Mount:: Giant Eagles can be ridden only by Druids.
++
 An Eagle can fly, increasing its rider’s move from 60 to
-100cm, and it adds +2 Attacks to those of its rider.
+100cm.
++
+It adds +2 Attacks to those of its rider.
 
 [[chariot-mount,†5]]5. Chariot Mount:: Generals, Druids and Heroes can ride
-Chariots. An extra +1 Attack is added to those of its rider.
+Chariots.
++
+An extra +1 Attack is added to those of its rider.
 
 [[fenbeast,†6]]6. Fenbeast:: A Fenbeast is an individual troop unit, but it is not
 fielded in the standard way. Fenbeasts
@@ -156,9 +161,9 @@ by the will of the Druid who summoned them, that Druid
 counts as having a Command value of +1 when commanding
 the Fenbeast – that is 8 rather than 7.
 +
-Fenbeast can move through
+Fenbeasts can move through
 bogs as though they were open terrain. Unlike the wild Bog
-Beasts from the ‘Dark Shadows’ campaign, Fenbeast will make
+Beasts from the ‘Dark Shadows’ campaign, Fenbeasts will make
 way for friendly troops.
 +
 A Fenbeast causes terror in its enemies.

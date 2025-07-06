@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -369,7 +369,7 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:155
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:115
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:117
 #, no-wrap
 msgid "[[handgunners,†2]]2. Handgunners"
 msgstr ""
@@ -492,18 +492,27 @@ msgid "[[griffon,†9]]9. Griffon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:218
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:215
 msgid ""
 "Generals, Wizards and Heroes may ride Griffons.  The Griffon combines the "
 "appearance of a lion and an eagle.  These creatures are hatched from stolen "
-"eggs and hand reared to serve as mounts for favoured individuals. The "
-"Griffon can fly, increasing the rider’s movement to 100cm and it adding +2 "
-"Attacks to those of the rider. A unit which includes a Griffon causes terror "
-"in its enemies."
+"eggs and hand reared to serve as mounts for favoured individuals."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:219
+msgid ""
+"The Griffon can fly, increasing the rider’s movement to 100cm and adding +2 "
+"Attacks to those of the rider."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:222
+msgid "A unit which includes a Griffon causes terror in its enemies."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:222
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:226
 #, no-wrap
 msgid "Dogs of War spells"
 msgstr ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:23+0200\n"
+"POT-Creation-Date: 2025-07-06 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -356,7 +356,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:176
+#: en/revolution/modules/armies/pages/dwarfs.adoc:177
 msgid ""
 "If a Troll Slayer unit has any stands remaining at the end of the battle "
 "then the full points value of the unit is awarded to the opposing side as "
@@ -368,11 +368,11 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dwarfs.adoc:180
 msgid ""
 "If a Troll Slayer unit is destroyed no victory points are scored by either "
-"side.  +"
+"side."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dwarfs.adoc:183
+#: en/revolution/modules/armies/pages/dwarfs.adoc:184
 msgid ""
 "Slayer units that have been destroyed still count towards the Dwarf army’s "
 "losses for purposes of calculating withdrawal."

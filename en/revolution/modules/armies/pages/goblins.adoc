@@ -118,7 +118,9 @@ include::partial$goblins.tsv[]
 ////
 
 [[goblins,†1]]1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
-but its range is reduced to 15cm. Up to two units per full 1000
+but its range is reduced to 15cm.
++
+Up to two units per full 1000
 points can be replaced by Squig Herds while still counting for
 the Goblin min/max value. Note that these units still count for
 min/max value of Squig Herds.
@@ -143,9 +145,9 @@ shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
 [[pump-wagon,†4]]4. Pump Wagon:: The Pump Wagon doesn’t move in Command
-phase by initiative or by successful orders. Instead of this it can
-always move once up to 1D6 x 10cm. This move is automatic,
-requiring no Command roll, and happens at any time during
+phase by initiative or by successful orders. Instead it
+always moves once up to 1D6 × 10cm. This move is automatic,
+requires no Command roll, and happens at any time during
 the Command phase but may not interrupt a character giving
 orders or units moving (including other Pump Wagons). This
 gives the Pump Wagon a movement of between 10cm and 60cm
@@ -171,17 +173,24 @@ include::partial$giant.adoc[]
 
 [[doom-diver,†6]]6. Doom Diver:: The Doom Diver has a range of 60cm and a unit
 hit by a Doom Diver is allowed to make its normal armour save.
++
 Doom Divers shoot at such a high trajectory that they cannot
 shoot at charging enemies.
 
 [[spear-chukka,†7]]7. Spear Chukka:: The Spear Chukka is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower].
 
 [[wolf-chariot,†8]]8. Wolf Chariot:: A General, Hero or Wizard can ride a Wolf
-Chariot. The character riding a chariot adds +1 to his Attacks.
+Chariot.
++
+The character riding a chariot adds +1 to his Attacks.
 
-[[wyvern,†9]]9. Wyvern:: Characters may ride Wyverns. A Wyvern can fly
+[[wyvern,†9]]9. Wyvern:: Characters may ride Wyverns.
++
+A Wyvern can fly
 increasing its rider’s movement from 60cm to 100cm, and it
-adds +2 Attacks to those of its rider. A unit that includes a
+adds +2 Attacks to those of its rider.
++
+A unit that includes a
 Wyvern rider causes terror in its enemies.
 
 image::goblins/wolf-riders.webp[]
@@ -215,7 +224,7 @@ This spell can be cast on any unengaged enemy unit within
 range regardless of whether the Shaman can see it or not. The
 spell cannot be cast on a unit engaged in combat.
 
-The enemy unit is driven back 1D6 x 5cm towards its own
+The enemy unit is driven back 1D6 × 5cm towards its own
 table edge. This is treated in the same way as a drive back from
 shooting, except that the direction is established by determining
 the shortest route to the table edge. A unit cannot be routed by

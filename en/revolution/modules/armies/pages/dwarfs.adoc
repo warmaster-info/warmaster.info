@@ -168,6 +168,7 @@ Attack when fighting against a Monster stand.
 Troll Slayer units earn victory points differently to other units
 as follows:
 +
+--
 . If a Troll Slayer unit has any stands remaining at the end of
   the battle then the full points value of the unit is awarded to the
   opposing side as victory points. It doesn’t matter if the unit has
@@ -176,11 +177,10 @@ as follows:
 
 . If a Troll Slayer unit is destroyed no victory points are scored
   by either side.
-  +
 --
++
 Slayer units that have been destroyed still count towards the
 Dwarf army’s losses for purposes of calculating withdrawal.
---
 
 [[cannon,†4]]4. Cannon:: Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are in the main Rulebook.
 
