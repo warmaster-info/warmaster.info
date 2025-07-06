@@ -881,10 +881,6 @@ behind the walls of the fortress as long as there is enough
 room to place the raised unit and the raised unit touches
 any units in combat.
 
-// TODO TODO TODO TODO TODO
-// FROM HERE
-// TODO TODO TODO TODO TODO
-
 [#siege-machines]
 == Siege machines
 
@@ -934,9 +930,9 @@ image::siege-and-fortresses/siege-tower-unit.svg[id=f-siege-tower-unit]
 As Siege Towers are such huge constructions the same
 shooting rules apply to them as to wall sections. All
 shooting enemy units within reach of Siege Towers may
-choose which Tower they want to shoot at (but if they
+choose which [.edit]#Siege# Tower they want to shoot at (but if they
 choose to shoot at units without Siege Towers they still
-have to shoot at the next visible unit).
+have to shoot at the [.edit]#nearest# visible unit).
 
 All enemy shots against the unit are assumed to hit the
 Siege Tower because the troops are actually inside it. A
@@ -953,6 +949,8 @@ forced to retreat, the Siege Tower is destroyed. Units in
 Siege Towers may pursue or advance in combat leaving
 their machine behind which effectively means the Siege
 Tower is destroyed.
+// TODO question — does the enemy get VPs for that, or is it
+// more like Dark Elf blunders, no VP?
 
 The Siege Tower can be pushed forward at a speed of
 15cm. As it is an incredible effort to move a massive
@@ -988,8 +986,6 @@ defenders fight with all stands that would theoretically
 be touching were it possible to move all the stands
 properly into place!
 
-include::partial$divider-sword.adoc[]
-
 As stands touching corner-to-corner would normally
 fight, defending stands adjacent to the stand directly
 facing the Siege Tower will fight, assuming they are
@@ -1020,6 +1016,8 @@ the same height as the walls. Targets on the ramparts of
 walls count as being defended from a Siege Tower rather
 than being fortified. Targets in higher towers still count
 as being fortified.
+
+include::partial$divider-sword.adoc[]
 
 [#battering-rams]
 === Battering rams
@@ -1058,6 +1056,7 @@ unit is forced to retreat, the Ram is destroyed. If units
 with Battering Rams pursue or advance in combat they
 leave their machine behind which effectively means it is
 destroyed.
+// TODO VPs? As with siege towers.
 
 // Spelling immobilised
 The Battering Ram can be pushed forward at 15cm.
@@ -1068,13 +1067,15 @@ abandoned and is considered to have been immobilised
 or destroyed.
 
 Once the Ram reaches the enemy’s walls it can begin to
-batter! The rules for battering are described above. The
+batter! The <<battering,rules for battering>> are described above. The
 Ram must be accompanied by a unit of infantry of at
 least one stand in order for it to batter (they provide the
 muscle). A unit may not batter and assault at the same
 time.
 
 image::siege-and-fortresses/battering-ram-unit.svg[id=fbattering-ram-unit]
+
+image::siege-and-fortresses/ram.webp[]
 
 [#sows]
 === Sows
@@ -1098,8 +1099,6 @@ it is simply ignored. If the unit is forced to retreat,
 the Sow is destroyed. Units with Sows may pursue or
 advance in combat leaving their machine behind which
 effectively means the Sow counts as destroyed.
-
-image::siege-and-fortresses/sow.webp[]
 
 [#mantlets]
 === Mantlets
@@ -1153,27 +1152,28 @@ sake of explanation, we’ll assume that Boiling Oil is our
 preferred option.
 
 A 40 to 50mm wide section of wall may be provisioned
-with Boiling oil or Rock Droppers. This may be used by
+with Boiling Oil or Rock Droppers. This may be used by
 any unit of troops manning that section.
 
 If an assault is launched against a fortress section
 which is provisioned with Boiling Oil or Rock Dropper
-units on this and any adjacent sections may use their
+units [.edit]#then# this and any adjacent sections may use their
 equipment against the assaulting enemy. Boiling Oil or
 Rock Droppers can also be used against units making
 an assault via Siege Tower or Sow but the attackers may
-use the 3+ armour save of their Siege equipment instead
+use the 3+ armour save of their Siege equipment instead of
 their own.
 
 Note that a unit may only use one Stand and Shoot
-attack. So units equipped with bows or similar have to
+attack. Units equipped with bows or similar have to
 choose if they use Boiling Oil or their bows when they
 are assaulted. They may never use both.
 
+// Remove "A unit can pour oil or shoot with its
+// own weapons at the same time." as it contradicts above.
 Boiling Oil or Rock Dropper attacks are worked out
-immediately before normal combat at the same time, as
-shots at chargers. A unit can pour oil or shoot with its
-own weapons at the same time. Any hits inflicted are
+immediately before normal combat at the same time as
+shots at chargers. Any hits inflicted are
 carried over into the combat and count as having been
 struck in the first round. Roll a dice and consult the chart
 below.
@@ -1223,18 +1223,21 @@ For siege use only! May not move once it is deployed.
 Must be deployed before any other unit.
 
 // Accidental paragraph removed
-Shooting straight ahead: Other than normal shooting
+Shooting straight ahead: [.edit]#Unlike# normal shooting
 units the Tribock has a very restricted view. It can only
-draw line of sight to targets that lie in the corridor
+draw line of sight to targets that lie in [.edit]#a strip#
 that extends straight ahead from the front edge. So
-the Tribock only has a 4cm wide corridor of sight. For
-targets outside this corridor it must be ordered to turn. If
+the Tribock only has a 4cm wide [.edit]#line# of sight. For
+targets outside this [.edit]#strip# it must be ordered to turn. If
 the order is failed it
-does not fire that turn. Any Hits caused by the Tribock
+does not fire that turn.
+
+Any Hits caused by the Tribock
 allow no save.
 
+// but → and
 Because of its immense size the Tribock has a range of
-120cm but a minimum range of 20cm as the slingshot
+120cm and a minimum range of 20cm as the slingshot
 like nature of the weapon makes it impossible to shoot
 at closer targets. This obviously makes units that are
 under 20cm ineligible as potential targets; thus they are
@@ -1245,7 +1248,7 @@ units that charge it.
 image::siege-and-fortresses/tribock.webp[]
 
 [#bombard]
-== Bombard
+=== Bombard
 
 [.unit,frame=none]
 |===
@@ -1262,10 +1265,10 @@ Must be deployed before any other unit.
 
 Shooting straight ahead: Other than normal shooting
 units the bombard has a very restricted view. It can
-only draw line of sight to targets that lie in the corridor
+only draw line of sight to targets that lie in [.edit]#a strip#
 that extends straight ahead from the front edge. So the
-bombard only has a 2cm wide corridor of sight. For
-targets outside this corridor it must be ordered to turn. If
+bombard only has a 2cm wide [.edit]#line# of sight. For
+targets outside this [.edit]#strip# it must be ordered to turn. If
 the order is failed it does not fire that turn.
 
 Any Hits caused by the Bombard allow no save. In
@@ -1273,7 +1276,7 @@ addition, fortified targets only count as being defended
 (5+ to hit) and defended targets count as being in the
 open (4+ to hit).
 
-The Bombards shot bounce like a normal cannon’s.
+A Bombard’s shots bounce like a normal cannons.
 This does not apply when shooting at walls/towers as
 the stonework will obviously stop the cannon ball and
 prevent it bouncing. Bombards cannot shoot at charging
@@ -1297,20 +1300,20 @@ image::siege-and-fortresses/bombard.webp[]
 Shooting: Range 20–90cm, 4 Attacks
 
 For siege use only! Mangonels must be deployed before
-any other unit and cannot move once it is deployed.
+any other unit and cannot move once deployed.
 
 If firing it fires “straight ahead”. This means it can only
-draw a line of sight to targets that lie in the corridor
+draw a line of sight to targets that lie in the [.edit]#strip>
 that extends straight ahead from the front edge. So the
-Mangonel only has a 2cm wide corridor of sight. For
-targets outside this corridor it must be ordered to turn. If
+Mangonel only has a 2cm wide [.edit]#line# of sight. For
+targets outside this [.edit]#strip# it must be ordered to turn. If
 the order is failed it does not fire that turn.
 
 Any Hits caused by the Mangonel allow no save.
+
 The Mangonel has a minimum range of 20cm as it is
 impossible to adjust its mechanism to shoot at closer
 target. Mangonels can’t shoot at charging enemy units.
-Earthworks
 
 image::siege-and-fortresses/mangonel.webp[]
 
@@ -1329,12 +1332,10 @@ Each section of earthworks purchased is 40mm long and
 Unless otherwise specified in a particular scenario,
 earthworks are always deployed before the armies set
 up in the relevant deployment zones, starting with the
-defender deploying all his earthworks first, or dice off
+defender deploying all his earthworks first, or [.edit]#roll# off
 to decide if for some reason there is no defined attacker
 or defender. Earthworks can be arranged together in
 whatever formation is desired by the purchasing player.
-
-image::siege-and-fortresses/earthworks.webp[]
 
 Earthworks count as a linear feature that confers
 fortified status against missile fire and defended status
@@ -1347,34 +1348,37 @@ is not in combat at the beginning of the combat phase
 each stand in contact with an earthwork section gets
 its basic attacks against it (no charge bonuses, as what
 the troops are doing is getting their entrenching tools
-out). Any 6’s that are rolled will destroy the earthwork
+out). Any 6s that are rolled will destroy the earthwork
 that is attacked in this way. It is important that you
 declare exactly which earthwork sections each stand is
 attacking, as each 40×10mm section is effectively counted
 as a separate unit for these purposes.
 
+image::siege-and-fortresses/earthworks.webp[]
+
 [#log-rams]
 === Log rams
 
-Log rams are effectively Battering rams but without
+Log rams are effectively battering rams but without
 the added protection of an armoured covering to shield
 the battering unit. Log rams can be brought to bear
-much more rapidly than a Battering ram can be. The
+much more rapidly than a battering ram can be. The
 main disadvantage is, of course, the lack of protection,
 especially against boiling oil poured on the battering unit
-by troops on the ramparts above or stand and fire from
+by troops on the ramparts above or [.edit]#missile# fire from
 these units.
 
+// Rearrange sentences.
 Attacking infantry units may be equipped with Log rams.
-A unit that is equipped with Log rams may abandon its
-Log rams at any point and is then unrestricted by this.
-Also, when equipped with Log rams a unit may not cross
+When equipped with Log rams a unit may not cross
 or move through any terrain which is classed as difficult
 for movement purposes, such as forests or earthworks.
+A unit that is equipped with Log rams may abandon its
+Log rams at any point and is then unrestricted by this.
 
 If a unit equipped with Log rams is driven back by enemy
 shooting or magic and is forced to enter difficult terrain
-it loses its log rams and moves on.
+it [.edit]#abandons# its log rams and moves on.
 
 When a unit with a Log ram makes contact with a
 fortress wall it will commence battering in much the
@@ -1416,114 +1420,131 @@ No army may ever have more than two wallbreaching
 artillery per 1000 points. Remember that also cannons
 and rock lobbers count as wall breaching!
 
-[#fortification]
-== Fortification
+[#fortification-list]
+=== Fortification
 
+// TODO: Does the earthwork have sally gates?
 [.unit,frame=none]
 |===
 |Troop |Type |Attack |Structure points |Armour |Command |Unit size |Points |Min/max |Special
 
-|Gateway        |Building |– |12    |Special |– |40mm    |40  |1/– |†1
-|Gateway tower  |Building |– |12/25 |Special |– |40mm    |150 |–/– |†1, †2
-|Wall           |Building |– |20    |Special |– |40mm    |55  |–/– |†1
-|Sally gate     |Building |– |–     |Special |– |20mm    |+10 |–/1 |†3
+|Gateway        |Building |– |12    |Special |– |40mm    |40  |1/– |<<sr-fortification>>
+|Gateway tower  |Building |– |12/25 |Special |– |40mm    |150 |–/– |<<sr-fortification>>, <<sr-tower>>
+|Wall           |Building |– |20    |Special |– |40mm    |55  |–/– |<<sr-fortification>>
+|Sally gate     |Building |– |–     |Special |– |20mm    |+10 |–/1 |<<sr-sally-gate>>
 // + changed to ×
-|Tower          |Building |– |30    |Special |– |40×40mm |200 |–/– |†1
-|Palisade tower |Building |– |25    |Special |– |40mm    |165 |–/– |†1, †2
-|Palisade wall  |Building |– |15    |Special |– |40mm    |45  |–/– |†1
-|Earthwork      |Building |– |–     |Special |– |40×10mm |15  |–/– |†3, †4
+|Tower          |Building |– |30    |Special |– |40×40mm |200 |–/– |<<sr-fortification>>
+|Palisade tower |Building |– |25    |Special |– |40mm    |165 |–/– |<<sr-fortification>>, <<sr-tower>>
+|Palisade wall  |Building |– |15    |Special |– |40mm    |45  |–/– |<<sr-fortification>>
+|Earthwork      |Building |– |–     |Special |– |40×10mm |15  |–/– |<<sr-sally-gate>>, <<sr-earthwork>>
 |===
 
 [#fortification-special-rules]
 === Special rules
 
-**†1** Only defenders are allowed to invest points into
-fortification with the exception of earthworks.
+[[sr-fortification,†1]]1. Fortification:: With the exception of earthworks,
+only defenders are allowed to invest points into
+fortification.
 
-**†2** The gateway may be destroyed independently with a
+[[sr-tower,†2]]2. Tower:: The gateway may be destroyed independently with a
 Structure Point value of 12. If the tower is destroyed the
 gateway is destroyed with it.
 
-**†3** Sally Gates may secretly be placed in any piece of wall
-and are not revealed to the attacker until used. They may
+[[sr-sally-gate,†3]]3. Sally Gates:: Sally Gates may secretly be placed in any piece of wall
+and are not revealed to the attacker until used.
++
+They may
 not be targeted separately by the attacker and do not
 weaken the structure of the wall (unless they are open).
-One defending unit may cross the sally gate per round
++
+One defending unit may cross the Sally Gate per round
 either on order or initiative. For that reason a defending
 unit directly touching the Sally Gate may draw a line of
-sight as if it were invisible. Whenever a unit leaves or
+sight as if it were invisible.
++
+Whenever a unit leaves or
 returns by the Sally Gate the defenders need to open and
-close the gates. Roll 3 dice. If the result is equal to or
+close the gates. Roll 3D6. If the result is equal to or
 more than the distance of the nearest enemy the Sally
 Gate counts as open and has to be closed by a successful
-command. An open Sally Gate counts as defended.
+command.
++
+An open Sally Gate counts as defended.
 
-**†4** Gives fortified status when shot at, defended status if
-in combat. May be removed by troops being in contact
-and rolling a 6 with their attacks.
+[[sr-earthwork,†4]]4. Earthwork:: Gives fortified status when shot at, defended status if
+in combat.
++
+May be removed by troops in contact
+by rolling a 6 with their attacks.
 
 image::siege-and-fortresses/cannon-hill.webp[]
 
 [#siege-equipment-list]
-== Siege equipment list
+=== Siege equipment
 
 [.unit,frame=none]
 |===
 |Troop |Type |Attack |Structure points |Armour |Command |Unit size |Points |Min/max |Special
 
 |Boiling oil and +
-rock dropper    |Machine |– |–  |Special |– |1 |5  |–/– |†1
-|Log rams       |Machine |– |–  |Special |– |1 |5  |–/– |†2, †3, †5
-|Ladders        |Machine |– |–  |Special |– |– |5  |–/– |†2
-|Sow            |Machine |– |3  |3+      |– |1 |5  |–/– |†2, †3
-|Mantlets       |Machine |– |–  |Special |– |– |10 |–/– |†2, †4
-|Siege towers   |Machine |– |–  |Special |– |– |20 |–/– |†2, †3
-|Battering ram  |Machine |1 |3  |3+      |– |1 |10 |–/– |†2, †3, †5
+rock dropper    |Machine |– |–  |Special |– |1 |5  |–/– |<<sr-defenders>>
+|Log rams       |Machine |– |–  |Special |– |1 |5  |–/– |<<sr-attackers>>, <<sr-mobile>>, <<sr-ram>>
+|Ladders        |Machine |– |–  |Special |– |– |5  |–/– |<<sr-attackers>>
+|Sow            |Machine |– |3  |3+      |– |1 |5  |–/– |<<sr-attackers>>, <<sr-mobile>>
+|Mantlets       |Machine |– |–  |Special |– |– |10 |–/– |<<sr-attackers>>, <<sr-mantlets>>
+|Siege towers   |Machine |– |–  |Special |– |– |20 |–/– |<<sr-attackers>>, <<sr-mobile>>
+|Battering ram  |Machine |1 |3  |3+      |– |1 |10 |–/– |<<sr-attackers>>, <<sr-mobile>>, <<sr-ram>>
 |===
 
 [#siege-equipment-special-rules]
 === Special rules
 
-**†1** Defenders Only – Only defenders in a siege scenario
+[[sr-defenders,†1]]1. Defenders only:: Only defenders in a siege scenario
 may use these.
 
-**†2** Attackers Only – Only attackers in a siege scenario
+[[sr-attackers,†2]]2. Attackers only:: Only attackers in a siege scenario
 may use these.
 
-**†3** Have a move of 15. Are not driven back by shooting.
+[[sr-mobile,†3]]3. [.edit]#Mobile#:: Have a move of 15cm. Not driven back by shooting.
 
-**†4** Give defended status. Are lost if carrying units are
+[[sr-mantlets,†4]]4. Mantlets:: Give defended status. Are lost if carrying units are
 charging or are driven back more than half their move.
 
-**†5** Rams always make one automatic hit when battering.
+[[sr-ram,†5]]5. Ram:: Rams always make one automatic hit when battering.
 
 [#siege-artillery-list]
-== Siege artillery list
+=== Siege artillery list
 
 [.unit,frame=none]
 |===
 |Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max |Special
 
-|Mangonel |Building |0/4 |3  |0 |– |1 |80  |–/1 |†2, †3
-|Bombard  |Building |0/4 |3  |0 |– |1 |130 |–/1 |†1, †2, †3
-|Tribock  |Building |1/6 |4  |0 |– |1 |120 |–/1 |†2, †3
+|Bombard  |Building |0/4 |3  |0 |– |1 |130 |–/1 |<<sr-bombard>>, <<sr-wall-breaching>>, <<sr-straight-ahead>>
+|Mangonel |Building |0/4 |3  |0 |– |1 |80  |–/1 |<<sr-wall-breaching>>, <<sr-straight-ahead>>
+|Tribock  |Building |1/6 |4  |0 |– |1 |120 |–/1 |<<sr-wall-breaching>>, <<sr-straight-ahead>>
 |===
 
-**†1** Cannon like – shots from a Bombard bounce like
+[#siege-artillery-special-rules]
+=== Special rules
+
+[[sr-bombard,†1]]1. Bombard:: Shots from a Bombard bounce like
 cannons and get +1 when shooting at defended or
-fortified targets. May not be used by Elves of any kindred,
+fortified targets.
++
+May not be used by Elves of any kindred,
 or Bretonnians.
 
 // Spelling Earthshaker
-**†2** Wall Breaching artillery – no army may ever have
-more than two wall breaching artillery per 1000 points.
+[[sr-wall-breaching,†2]]2. Wall-breaching artillery:: No army may ever have
+more than two wall-breaching artillery per 1000 points.
++
 All of the following count as wall-breaching artillery:
 Mangonels, Bombards, Tribocks, Cannons, Skull-Chukkas,
 Rock-Lobbers, Trebuchets and Earthshaker
 Cannons.
 
-**†3** Shooting straight ahead – may only draw line of sight
-in the corridor that extends straight forward in the width
+[[sr-straight-ahead,†3]]3. Shooting straight ahead:: May only draw line of sight
+in the [.edit]#strip# that extends straight forward and is the width
 of the front edge.
 
 [#scenarios]
@@ -1532,7 +1553,7 @@ of the front edge.
 [#into-the-breach]
 === Into the breach
 
-‘Into the breach’ can be played on a 1.2×1.2m (4′×4′) table.
+‘Into the breach’ can be played on a 1.2 × 1.2m (4′ × 4′) table.
 
 In this scenario the defender should invest about half of
 his points in fortifications, but only has to pay for the
@@ -1555,6 +1576,8 @@ or even outside the castle.
 
 Attackers may set up outside 40cm of the wall, ready to
 storm the castle.
+
+image::siege-and-fortresses/into-the-breach.svg[id=f-into-the-breach]
 
 There is no breakpoint for the defender, as he has
 nothing to lose.
@@ -1584,12 +1607,10 @@ wins.
 
 image::siege-and-fortresses/elephant-rider.webp[]
 
-image::siege-and-fortresses/into-the-breach.svg[id=f-into-the-breach]
-
 [#the-watchtower]
 === The watchtower
 
-The Watch Tower can be played on a 1.8×1.2m (6′×4′) table
+The Watch Tower can be played on a 1.8 × 1.2m (6′ × 4′) table
 with the Attackers and Relief coming on to the table.
 
 This scenario is played with 2000 points or less on both
@@ -1600,8 +1621,8 @@ defend the watchtower. At least one character has to be
 part of this contingent. Up to two units may be placed in
 the watchtower itself – but these units cost three times
 their normal points. Any other units have to be placed
-within 20cm of the watchtower. The watchtower is for
-free but it may be equipped with boiling oil for an extra
+within 20cm of the watchtower. The watchtower [.edit]#costs nothing#
+but it may be equipped with boiling oil for the [.edit]#normal#
 cost. Watchtower troops cannot be broken and do not
 count towards the defenders breakpoint. The rest of the
 defending troops are the relief force.
@@ -1612,24 +1633,27 @@ The attacker may only buy sows or mantlets.
 ==== Set-up
 
 The watchtower is placed in the middle of the table with
-the gate directed towards one narrow edge of the table.
+the gate [.edit]#facing# a narrow [.edit]#table side#.
 The troops defending the watchtower are then placed in
 or around the watchtower but no more than 20cm away.
 
 The attacker places his troops at a line at least 60cm away
 of the watchtower’s gate. The attacker has the first turn.
 
+image::siege-and-fortresses/the-watchtower.svg[id=f-the-watchtower]
+
 In his first round the defender may declare any unit
 he can spare as dispatch units. Those units may not be
-brigaded but can be sent towards his (the) own table
+brigaded but can be sent towards his own table
 edge to get help. Any dispatch unit that reaches the
 entering edge of the relief force gives a +1 towards the
-roll to determine if the relief force arrives...
+roll to determine if the relief force arrives…
 
-At the start of the second and subsequent turn on the
+// of → from, turn → turns
+At the start of the second and subsequent turns the
 defender may roll a D6. On a result of 5+ the relief force
 arrives. All characters of the relief force may be placed
-at a line at least 70cm away of the watchtower opposite
+at a line at least 70cm away from the watchtower opposite
 the attacker. Draw a line across the table at least 90cm
 away of the watchtower. The relief force may be placed
 behind this line (if the table is not big enough – play as
@@ -1670,5 +1694,3 @@ break the defending troops the game is a draw.
 If the defender breaks the attacking force he wins. If
 there is still one stand defending the watchtower at the
 end of the game the defender wins.
-
-image::siege-and-fortresses/the-watchtower.svg[id=f-the-watchtower]
