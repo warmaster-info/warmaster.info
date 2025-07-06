@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-07-06 18:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_kislev/fr/>\n"
@@ -198,68 +198,68 @@ msgstr "Kislev"
 #: en/revolution/modules/armies/pages/kislev.adoc:19
 #, no-wrap
 msgid "Winged Lancers"
-msgstr ""
+msgstr "Lanciers Ailés"
 
 #. type: Attribute :horse-archers:
 #: en/revolution/modules/armies/pages/kislev.adoc:20
 #, no-wrap
 msgid "Horse Archers"
-msgstr ""
+msgstr "Archers à Cheval"
 
 #. type: Attribute :cossacks:
 #: en/revolution/modules/armies/pages/kislev.adoc:21
 #, no-wrap
 msgid "Cossacks"
-msgstr ""
+msgstr "Kossars"
 
 #. type: Attribute :red-guard:
 #: en/revolution/modules/armies/pages/kislev.adoc:23
 #, no-wrap
 msgid "Red Guard"
-msgstr ""
+msgstr "Garde Rouge"
 
 #. type: Attribute :axemen:
 #: en/revolution/modules/armies/pages/kislev.adoc:24
 #, no-wrap
 msgid "Axemen"
-msgstr ""
+msgstr "Bûcheron"
 
 #. type: Attribute :bears:
 #: en/revolution/modules/armies/pages/kislev.adoc:25
 #, no-wrap
 msgid "Bears"
-msgstr ""
+msgstr "Ours"
 
 #. type: Attribute :war-wagon:
 #: en/revolution/modules/armies/pages/kislev.adoc:26
 #, no-wrap
 msgid "War Wagon"
-msgstr ""
+msgstr "Chariot de Guerre"
 
 #. type: Attribute :shaman:
 #: en/revolution/modules/armies/pages/kislev.adoc:29
 #: en/revolution/modules/armies/pages/norse.adoc:30
 #, no-wrap
 msgid "Shaman"
-msgstr ""
+msgstr "Chaman"
 
 #. type: Attribute :bear:
 #: en/revolution/modules/armies/pages/kislev.adoc:30
 #, no-wrap
 msgid "Bear"
-msgstr ""
+msgstr "Ours"
 
 #. type: Attribute :yozhin:
 #: en/revolution/modules/armies/pages/kislev.adoc:31
 #, no-wrap
 msgid "Yozhin"
-msgstr ""
+msgstr "Yozhin"
 
 #. type: Attribute :tzarina:
 #: en/revolution/modules/armies/pages/kislev.adoc:32
 #, no-wrap
 msgid "Tzarina"
-msgstr ""
+msgstr "Tzarine"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:43
@@ -379,7 +379,7 @@ msgstr "Sélecteur d’Armée de Kislev"
 #: en/revolution/modules/armies/pages/kislev.adoc:97
 #, no-wrap
 msgid "include::partial$kislev.tsv[]\n"
-msgstr ""
+msgstr "include::partial$kislev.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:102
@@ -507,6 +507,15 @@ msgid ""
 "restrictions are the same as Artillery. Either stand can be removed as "
 "causality. The War Wagon can move only when the team stand remains."
 msgstr ""
+"image:kislev/wagon-laagered.webp[width=250,height=253,float=\"right\"]{empty}"
+" Le Chariot de Guerre est composé de deux socles, le chariot et son attelage "
+"de chevaux. Le Chariot ne peut charger, et bouge à 20cm à pleine vitesse. Si "
+"l’unité se déplace de plus de 5cm, après un ordre réussi, elle doit finir "
+"son mouvement en colonne. Si elle se déplace de 5cm ou moins, elle peut "
+"terminer son mouvement en formation défensive. L’unité se comporte comme l’"
+"Artillerie concernant les restrictions de type de terrains. N’importe quel "
+"socle peut être retiré en cas de perte mais le Chariot de Guerre ne peut "
+"bouger que si le socle de l’attelage est toujours présent."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:154
@@ -519,6 +528,14 @@ msgid ""
 "wagon is permitted to shoot over the heads of friendly troops on lower "
 "ground in the same way as other Artillery."
 msgstr ""
+"Le Chariot de Guerre possède une Armure de 4+ et un total de 4 Attaques de "
+"tir et de corps à corps tant que le socle de chariot est présent. Si ce "
+"dernier est retiré, le socle de l’attelage n’a plus ni Armure ni Attaques. "
+"Le Chariot de Guerre peut tirer à 360° et peut donc tracer une ligne de vue "
+"depuis n’importe quel bord. Le chariot a une portée de 30cm et l’armure de "
+"sa cible subit une pénalité de -1.  Le chariot peut tirer au dessus des "
+"troupes amies se situant sur un terrain moins élevé, comme les autres "
+"Artilleries."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:165
@@ -529,6 +546,13 @@ msgid ""
 "see if it becomes confused. For Gerroff, roll the dice as normal and if it "
 "would normally have left the table then roll 1 D6 and it is confused on a 6."
 msgstr ""
+"Un chariot en colonne compte comme étant à découvert. Un chariot en "
+"formation défensive compte comme étant défendu, n’a ni flanc ni dos et ne "
+"peut pas être repoussé ou dispersé par les tirs. Il peut cependant être "
+"rendu confus par les tirs, et donc un jet de repoussement est tout de même "
+"requis. Concernant le sort Gerroff!, lancez les dés normalement et s’il "
+"devait quitter la table, le chariot devient confus sur un résultat de 6 sur "
+"un autre lancé d’1D6."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:174
@@ -541,6 +565,13 @@ msgid ""
 "‘pursuing’, but there are no pursuit bonuses. A laagered wagon cannot make "
 "way."
 msgstr ""
+"image:kislev/wagon-column.webp[width=132,height=499,float=\"right\"] Bien "
+"que ce soit une unité d’artillerie, un chariot en formation défensive ou en "
+"colonne ne peut poursuivre et n’est pas détruit s’il est forcé de se "
+"replier. De plus, un chariot en formation défensive ne se repliera jamais. "
+"Il continuera de compter comme défendu dans les rounds de combat suivants. L’"
+"ennemi peut poursuivre le combat en ‘poursuivant’, mais n’aura aucun bonus "
+"lié à la poursuite. Un chariot en formation défensive ne peut laisser passer."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:179
@@ -549,12 +580,16 @@ msgid ""
 "short edge of a laagered wagon stand counts as defended for shooting and "
 "combat. This advantage applies only in the first round of combat."
 msgstr ""
+"N’importe quelle unité d’infanterie Kislévite, dont le bord d’un de ses "
+"socles touche complètement le bord le plus court d’un chariot en formation "
+"défensive, compte comme étant défendu pour les tirs et le combat. Cet "
+"avantage ne s’applique qu’au premier tour de combat."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:180
 #, no-wrap
 msgid "[[bear-mount,†7]]7. Bear Mount"
-msgstr ""
+msgstr "[[bear-mount,†7]]7. Ours Monté"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:182
@@ -562,12 +597,14 @@ msgid ""
 "Generals, Heroes and Shamans can ride a Bear mount. The Bear adds +1 Attack "
 "to that of its rider."
 msgstr ""
+"Les Généraux, les Chamans et les Héros peuvent monter sur un Ours, ce qui "
+"ajoute +1 Attaque à leur profil."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:183
 #, no-wrap
 msgid "[[yozhin,†8]]8. Yozhin"
-msgstr ""
+msgstr "[[yozhin,†8]]8. Yozhin"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:189
@@ -577,6 +614,11 @@ msgid ""
 "twisted creature itself. Only powerful Shamans may summon Yozhin and make it "
 "fight on their side. A single Shaman in the army can be assisted by Yozhin."
 msgstr ""
+"Cette créature vit dans les marais près de Praag depuis la grande incursion "
+"du Chaos. Yozhin hait toute créature du Chaos, peut être parce qu’étant une "
+"créature déformée par le Chaos . Seul les plus puissant des Chamans peuvent "
+"invoquer Yozhin et le faire combattre à leur côté. Un seul Chaman de l’armée "
+"peut être accompagné de Yozhin."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:191
