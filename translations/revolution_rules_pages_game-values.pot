@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-05 22:28+0200\n"
+"POT-Creation-Date: 2025-07-06 00:56+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,6 +25,7 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:106
+#: en/revolution/modules/armies/partials/table-attributes.adoc:13
 #: en/revolution/modules/rules/pages/game-values.adoc:227
 #, no-wrap
 msgid "Type"
@@ -45,6 +46,7 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:115
+#: en/revolution/modules/armies/partials/table-attributes.adoc:15
 #: en/revolution/modules/rules/pages/game-values.adoc:231
 #, no-wrap
 msgid "Hits"
@@ -58,6 +60,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:118
+#: en/revolution/modules/armies/partials/table-attributes.adoc:16
 #: en/revolution/modules/rules/pages/combat.adoc:406
 #: en/revolution/modules/rules/pages/game-values.adoc:233
 #: en/revolution/modules/rules/pages/shooting.adoc:221
@@ -67,6 +70,7 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:122
+#: en/revolution/modules/armies/partials/table-attributes.adoc:17
 #: en/revolution/modules/rules/pages/game-sequence.adoc:51
 #: en/revolution/modules/rules/pages/game-values.adoc:235
 #, no-wrap
@@ -75,9 +79,25 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:124
+#: en/revolution/modules/armies/partials/table-attributes.adoc:18
 #: en/revolution/modules/rules/pages/game-values.adoc:237
 #, no-wrap
 msgid "Unit size"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/partials/table-attributes.adoc:20
+#: en/revolution/modules/rules/pages/game-values.adoc:239
+#, no-wrap
+msgid "Min/max"
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/partials/table-attributes.adoc:21
+#: en/revolution/modules/armies/partials/table-attributes.adoc:51
+#: en/revolution/modules/rules/pages/game-values.adoc:243
+#, no-wrap
+msgid "Special"
 msgstr ""
 
 #. type: Title ==
@@ -420,12 +440,6 @@ msgstr ""
 msgid "The number of stands in the unit – this is usually 3."
 msgstr ""
 
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:239
-#, no-wrap
-msgid "Min/max"
-msgstr ""
-
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:240
 msgid ""
@@ -443,12 +457,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:242
 msgid "The points value of a unit of that type."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:243
-#, no-wrap
-msgid "Special"
 msgstr ""
 
 #. type: Plain text
