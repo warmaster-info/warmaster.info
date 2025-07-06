@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 00:56+0200\n"
-"PO-Revision-Date: 2025-07-03 13:04+0000\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-values/fr/>\n"
@@ -87,14 +87,14 @@ msgstr "Commandement (Cdt)"
 #: en/revolution/modules/rules/pages/game-values.adoc:237
 #, no-wrap
 msgid "Unit size"
-msgstr ""
+msgstr "Taille d’unité"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/partials/table-attributes.adoc:20
 #: en/revolution/modules/rules/pages/game-values.adoc:239
 #, no-wrap
 msgid "Min/max"
-msgstr ""
+msgstr "Min/max"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/partials/table-attributes.adoc:21
@@ -102,7 +102,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:243
 #, no-wrap
 msgid "Special"
-msgstr ""
+msgstr "Spécial"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:20

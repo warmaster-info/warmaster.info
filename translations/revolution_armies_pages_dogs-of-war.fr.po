@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 11:49+0200\n"
-"PO-Revision-Date: 2025-07-05 22:53+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dogs-of-war/fr/>\n"
 "Language: fr\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. type: Attribute :hero:
 #: en/revolution/modules/armies/pages/albion.adoc:29
@@ -75,7 +75,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -143,7 +143,7 @@ msgstr "Chevaliers"
 #: en/revolution/modules/armies/partials/table-attributes.adoc:46
 #, no-wrap
 msgid "Wizard"
-msgstr ""
+msgstr "Sorcier"
 
 #. type: Attribute :crossbowmen:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:20
@@ -174,7 +174,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:20
 #, no-wrap
 msgid "Handgunners"
-msgstr ""
+msgstr "Arquebusiers"
 
 #. type: Attribute :swordsmen:
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:26

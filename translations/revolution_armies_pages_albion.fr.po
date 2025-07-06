@@ -7,9 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 11:49+0200\n"
-"PO-Revision-Date: 2025-07-04 15:04+0000\n"
-"Last-Translator: Google Cloud Translation Basic <noreply-mt-google-"
-"translate@weblate.org>\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_albion/fr/>\n"
 "Language: fr\n"
@@ -31,7 +30,7 @@ msgstr "Albion"
 #: en/revolution/modules/armies/pages/dwarfs.adoc:16
 #, no-wrap
 msgid "Warriors"
-msgstr ""
+msgstr "Guerriers"
 
 #. type: Attribute :slingers:
 #: en/revolution/modules/armies/pages/albion.adoc:20
@@ -60,7 +59,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:39
 #, no-wrap
 msgid "Cavalry"
-msgstr ""
+msgstr "Cavalerie"
 
 #. type: Attribute :chariots:
 #: en/revolution/modules/armies/pages/albion.adoc:24
@@ -111,7 +110,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. type: Attribute :hero:
 #: en/revolution/modules/armies/pages/albion.adoc:29
@@ -132,7 +131,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. type: Attribute :druid:
 #: en/revolution/modules/armies/pages/albion.adoc:30
@@ -158,7 +157,7 @@ msgstr "Les Aigles Géants peuvent voler."
 #: en/revolution/modules/armies/partials/table-attributes.adoc:40
 #, no-wrap
 msgid "Chariot"
-msgstr ""
+msgstr "Char"
 
 #.  Aeon is the British spelling
 #. type: Plain text

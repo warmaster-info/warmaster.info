@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 11:49+0200\n"
-"PO-Revision-Date: 2025-07-06 11:04+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dwarfs/fr/>\n"
 "Language: fr\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dwarfs.adoc:16
 #, no-wrap
 msgid "Warriors"
-msgstr ""
+msgstr "Guerriers"
 
 #. type: Attribute :general:
 #: en/revolution/modules/armies/pages/albion.adoc:28
@@ -43,7 +43,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. type: Attribute :hero:
 #: en/revolution/modules/armies/pages/albion.adoc:29
@@ -64,7 +64,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -121,7 +121,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:20
 #, no-wrap
 msgid "Handgunners"
-msgstr ""
+msgstr "Arquebusiers"
 
 #. type: Attribute :dwarfs:
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:28
@@ -135,13 +135,13 @@ msgstr "Nains"
 #: en/revolution/modules/armies/pages/dwarfs.adoc:18
 #, no-wrap
 msgid "Rangers"
-msgstr ""
+msgstr "Rangers"
 
 #. type: Attribute :troll-slayers:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:19
 #, no-wrap
 msgid "Troll Slayers"
-msgstr ""
+msgstr "Tueurs de Trolls"
 
 #. type: Attribute :cannon:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:20
@@ -149,7 +149,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:25
 #, no-wrap
 msgid "Cannon"
-msgstr ""
+msgstr "Canon"
 
 #. type: Attribute :flame-cannon:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:21
@@ -161,19 +161,19 @@ msgstr "Canon à Flammes"
 #: en/revolution/modules/armies/pages/dwarfs.adoc:22
 #, no-wrap
 msgid "Gyrocopter"
-msgstr ""
+msgstr "Gyrocoptère"
 
 #. type: Attribute :runesmith:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:25
 #, no-wrap
 msgid "Runesmith"
-msgstr ""
+msgstr "Maître des Runes"
 
 #. type: Attribute :anvil:
 #: en/revolution/modules/armies/pages/dwarfs.adoc:26
 #, no-wrap
 msgid "Anvil"
-msgstr ""
+msgstr "Enclume du Destin"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:39
@@ -337,7 +337,7 @@ msgstr "Sélecteur d’Armée des Nains"
 #: en/revolution/modules/armies/pages/dwarfs.adoc:117
 #, no-wrap
 msgid "include::partial$dwarfs.tsv[]\n"
-msgstr ""
+msgstr "include::partial$dwarfs.tsv[]\n"
 
 #. 3: – changed to :
 #. type: Labeled list
@@ -367,7 +367,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dwarfs.adoc:130
 #, no-wrap
 msgid "[[rangers,†2]]2. Rangers"
-msgstr ""
+msgstr "[[rangers,†2]]2. Rangers"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:153
@@ -484,7 +484,7 @@ msgid ""
 "side."
 msgstr ""
 "Si l’unité a été détruite au cours de la bataille, aucun des deux joueurs ne "
-"marque des points de victoire.   +"
+"marque des points de victoire."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:184

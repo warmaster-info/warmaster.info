@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 11:49+0200\n"
-"PO-Revision-Date: 2025-07-05 22:53+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_bretonnia/fr/>\n"
 "Language: fr\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. type: Attribute :hero:
 #: en/revolution/modules/armies/pages/albion.adoc:29
@@ -57,7 +57,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -175,7 +175,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/kislev.adoc:22
 #, no-wrap
 msgid "Bowmen"
-msgstr ""
+msgstr "Archers"
 
 #. type: Attribute :knights:
 #: en/revolution/modules/armies/pages/araby.adoc:22
@@ -215,7 +215,7 @@ msgstr "Bretonnie"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:21
 #, no-wrap
 msgid "Men-at-arms"
-msgstr ""
+msgstr "Hommes d’armes"
 
 #. type: Attribute :peasants:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:22
@@ -227,7 +227,7 @@ msgstr "Paysans"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:23
 #, no-wrap
 msgid "Squires"
-msgstr ""
+msgstr "Écuyers"
 
 #. type: Attribute :grail-knights:
 #: en/revolution/modules/armies/pages/bretonnia.adoc:25
@@ -428,7 +428,7 @@ msgstr "Sélecteur d’Armée des Bretonniens"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:113
 #, no-wrap
 msgid "include::partial$bretonnia.tsv[]\n"
-msgstr ""
+msgstr "include::partial$bretonnia.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/bretonnia.adoc:121

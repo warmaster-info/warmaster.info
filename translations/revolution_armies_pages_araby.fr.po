@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 11:49+0200\n"
-"PO-Revision-Date: 2025-07-05 22:53+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_araby/fr/>\n"
 "Language: fr\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. type: Attribute :hero:
 #: en/revolution/modules/armies/pages/albion.adoc:29
@@ -57,7 +57,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -190,7 +190,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/kislev.adoc:22
 #, no-wrap
 msgid "Bowmen"
-msgstr ""
+msgstr "Archers"
 
 #. type: Attribute :guards:
 #: en/revolution/modules/armies/pages/araby.adoc:21
@@ -240,7 +240,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:46
 #, no-wrap
 msgid "Wizard"
-msgstr ""
+msgstr "Sorcier"
 
 #. type: Attribute :flying-carpet:
 #: en/revolution/modules/armies/pages/araby.adoc:30

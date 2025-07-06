@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 11:49+0200\n"
-"PO-Revision-Date: 2025-07-05 22:53+0000\n"
-"Last-Translator: Weblate Admin <editor@weblate.info>\n"
+"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_witch-hunters/fr/>\n"
 "Language: fr\n"
@@ -36,7 +36,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
 msgid "General"
-msgstr ""
+msgstr "Général"
 
 #. type: Attribute :hero:
 #: en/revolution/modules/armies/pages/albion.adoc:29
@@ -57,7 +57,7 @@ msgstr ""
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
-msgstr ""
+msgstr "Héros"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:122
@@ -245,7 +245,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:20
 #, no-wrap
 msgid "Handgunners"
-msgstr ""
+msgstr "Arquebusiers"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:155
@@ -260,7 +260,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:25
 #, no-wrap
 msgid "Cannon"
-msgstr ""
+msgstr "Canon"
 
 #. type: Attribute :halberdiers:
 #: en/revolution/modules/armies/pages/empire.adoc:20
