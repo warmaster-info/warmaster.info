@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-07-06 10:02+0200\n"
 "PO-Revision-Date: 2025-07-04 13:48+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,10 +18,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
-#. type: Title =
+#. type: Title ==
 #: en/revolution/modules/rules/pages/characters.adoc:1
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
-#: en/revolution/modules/rules/pages/generals-wizards-and-heroes.adoc:1
 #, no-wrap
 msgid "Generals, Wizards & Heroes"
 msgstr ""
