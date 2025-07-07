@@ -10,7 +10,7 @@
 {spear-chukka}	{artillery}	1/2 per stand	2	–	–	2	65	–/2	<<spear-chukka>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
 {goblin-warboss}	{general}	+1	–	–	8	1	80	1	–
-{goblin-{hero}}	{hero}	+1	–	–	7	1	45	–/4	–
+{goblin-hero}	{hero}	+1	–	–	7	1	45	–/4	–
 {goblin-shaman}	{wizard}	+0	–	–	6	1	30	–/2	–
 {wolf-chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	–
 {wyvern}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<wyvern>>
