@@ -992,6 +992,7 @@ can see and be seen by other troops up to 2cm away.
 === Types of terrain
 
 // Minor spelling/grammar
+[#hills]
 Hills and slopes::
 These impose no penalties on the movement of
 troops. All units can move over hills and slopes so long as
@@ -1014,12 +1015,14 @@ dense terrain when an order is given.
 ////
 
 // Comment/question/TODO: Is this undefended from shooting?
+[#streams]
 Shallow rivers or streams:: This terrain [.edit]#is impenetrable to#
 chariots, artillery and machines. Infantry
 can be xref:combat.adoc#defended[*defended*] along the river’s edge against enemy
 charging from within or across a stream. Streams and
 shallow rivers don’t block line of sight.
 
+[#broken-ground]
 Broken or marshy ground:: This includes areas that are
 hard going for whatever reason; for example treacherous
 ruins, entangling scrub, irrigated or excessively muddy
@@ -1030,6 +1033,7 @@ xref:combat.adoc#defended[*defended*] within it.
 
 // Comment: Sand dunes are *very* difficult to climb or cross,
 // and don't really belong here.
+[#loose-terrain]
 Loose terrain:: Cultivated fields to sand dunes, rocky
 ground to fully grown corn fields. This terrain doesn’t
 necessarily give a defender any advantages, but it isn’t
@@ -1039,12 +1043,14 @@ a unit within loose terrain. It is also impenetrable to
 chariots, artillery and machines. Loose terrain doesn’t
 block line of sight.
 
+[#woods]
 Woods and tall scrub:: These consist of substantial
 areas of growing trees or tall vegetation. Only infantry
 [.edit]#may# enter and stands count as xref:combat.adoc#defended[*defended*] when within.
 Woods and tall scrub are *<<dense-terrain,dense terrain>>* with [.edit]#*<<low-visibility,2cm visibility>>*#.
 
 // Difference: Ancients/Bo5A: only infantry can enter, 2cm dense terrain, just another forest.
+[#villages]
 Villages, [.edit]#towns,# and other built-up areas::
 A distinguishable
 bordered area consisting of [.edit]#multiple# buildings,
@@ -1057,20 +1063,24 @@ count as xref:combat.adoc#defended[*defended*] when within. All units
 can be *pursued* when starting their retreat in this terrain
 type. Villages and towns are *<<dense-terrain,dense terrain>>* with *<<low-visibility,2cm visibility>>*.
 
+[#buildings]
 Individual buildings, [.edit]#boulders# or terrain features:: These are
 significant structures, interconnected buildings or terrain
 features such as boulders. These are impenetrable to all
 units and block line of sight.
 
+[#lakes]
 Rivers, lakes and other deep water::
 Ravines and deep pits::
 These are
 impenetrable to all units and don’t block line of sight.
 
+[#cliffs]
 Sheer cliffs and mountains::
 These are impenetrable to all units and block line of sight.
 
 // Bo5A difference: dense terrain penalty still applies
+[#roads]
 Roads and tracks:: These permit movement to units in
 column formation as for open ground regardless of the
 type of terrain traversed. A [.edit]#stand# placed centrally across
@@ -1091,15 +1101,18 @@ the purpose of moving and [.edit]#determining line of# sight, however it still c
 as the side when in combat with all the [.edit]#resulting# consequences.
 
 // Spelling bridges. Separate as they are slightly different (chariots).
+[#bridges]
 Bridges:: If a river or ravine has a bridge then all
 troops may cross at that point without penalty.
 Bridges don’t block line of sight.
 
 // Bo5A: obviously doesn't consider artillery/machines, so bridges are the same as fords.
+[#fords]
 Fords:: If a river has a ford, all troops except chariots,
 artillery or machines may also cross at the ford without
 penalty. Fords don’t block line of sight.
 
+[#low-obstacles]
 Low linear obstacles::
 These are features such as ditches,
 hedges, fences, and low walls primarily intended to form
@@ -1112,6 +1125,7 @@ obstacle count as xref:combat.adoc#defended[*defended*]. Low linear obstacles do
 block line of sight.
 
 // Spelling defence
+[#high-obstacles]
 High linear obstacles:: These are tall features such as
 high walls and hedged, fenced or ditched embankments
 primarily intended for defence. These features are
@@ -1121,6 +1135,7 @@ penalty. Infantry and artillery stands placed behind
 a high linear obstacle count as xref:combat.adoc#fortified[*fortified*]. High linear
 obstacles block line of sight.
 
+[#fortress-walls]
 City and fortress walls::
 High walls, tall towers and large buildings block
 movement as you might reasonably expect. In these

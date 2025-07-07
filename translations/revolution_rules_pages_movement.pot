@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 11:49+0200\n"
+"POT-Creation-Date: 2025-07-07 18:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1261,16 +1261,15 @@ msgstr ""
 msgid "Types of terrain"
 msgstr ""
 
-#.  Minor spelling/grammar
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:995
+#: en/revolution/modules/rules/pages/movement.adoc:996
 #, no-wrap
 msgid "Hills and slopes"
 msgstr ""
 
 #. //
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1005
+#: en/revolution/modules/rules/pages/movement.adoc:1006
 msgid ""
 "These impose no penalties on the movement of troops. All units can move over "
 "hills and slopes so long as they are not especially steep, rugged, or "
@@ -1282,14 +1281,14 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1008
+#: en/revolution/modules/rules/pages/movement.adoc:1009
 #, no-wrap
 msgid "Steep hills and slopes"
 msgstr ""
 
 #. //
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1014
+#: en/revolution/modules/rules/pages/movement.adoc:1015
 msgid ""
 "Slopes that are extremely steep, rugged or otherwise hard going are "
 "considered to be *dense terrain*. Dense terrain is impenetrable to all "
@@ -1298,15 +1297,14 @@ msgid ""
 "terrain when an order is given."
 msgstr ""
 
-#.  Comment/question/TODO: Is this undefended from shooting?
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1017
+#: en/revolution/modules/rules/pages/movement.adoc:1019
 #, no-wrap
 msgid "Shallow rivers or streams"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1023
+#: en/revolution/modules/rules/pages/movement.adoc:1025
 msgid ""
 "This terrain [.edit]#is impenetrable to# chariots, artillery and machines. "
 "Infantry can be xref:combat.adoc#defended[*defended*] along the river’s edge "
@@ -1315,14 +1313,14 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1023
+#: en/revolution/modules/rules/pages/movement.adoc:1026
 #, no-wrap
 msgid "Broken or marshy ground"
 msgstr ""
 
 #.  Comment: Sand dunes are *very* difficult to climb or cross,
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1031
+#: en/revolution/modules/rules/pages/movement.adoc:1034
 msgid ""
 "This includes areas that are hard going for whatever reason; for example "
 "treacherous ruins, entangling scrub, irrigated or excessively muddy fields "
@@ -1331,15 +1329,14 @@ msgid ""
 "ground, and they are xref:combat.adoc#defended[*defended*] within it."
 msgstr ""
 
-#.  and don't really belong here.
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1033
+#: en/revolution/modules/rules/pages/movement.adoc:1037
 #, no-wrap
 msgid "Loose terrain"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1042
+#: en/revolution/modules/rules/pages/movement.adoc:1046
 msgid ""
 "Cultivated fields to sand dunes, rocky ground to fully grown corn fields. "
 "This terrain doesn’t necessarily give a defender any advantages, but it "
@@ -1350,14 +1347,14 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1042
+#: en/revolution/modules/rules/pages/movement.adoc:1047
 #, no-wrap
 msgid "Woods and tall scrub"
 msgstr ""
 
 #.  Difference: Ancients/Bo5A: only infantry can enter, 2cm dense terrain, just another forest.
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1047
+#: en/revolution/modules/rules/pages/movement.adoc:1052
 msgid ""
 "These consist of substantial areas of growing trees or tall vegetation. Only "
 "infantry [.edit]#may# enter and stands count as xref:combat."
@@ -1366,13 +1363,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1048
+#: en/revolution/modules/rules/pages/movement.adoc:1054
 #, no-wrap
 msgid "Villages, [.edit]#towns,# and other built-up areas"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1060
+#: en/revolution/modules/rules/pages/movement.adoc:1066
 msgid ""
 "A distinguishable bordered area consisting of [.edit]#multiple# buildings, "
 "paths, dividing walls, gardens, pasture, orchards and so forth. The entire "
@@ -1385,13 +1382,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1060
+#: en/revolution/modules/rules/pages/movement.adoc:1067
 #, no-wrap
 msgid "Individual buildings, [.edit]#boulders# or terrain features"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1065
+#: en/revolution/modules/rules/pages/movement.adoc:1072
 msgid ""
 "These are significant structures, interconnected buildings or terrain "
 "features such as boulders. These are impenetrable to all units and block "
@@ -1399,42 +1396,42 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1065
+#: en/revolution/modules/rules/pages/movement.adoc:1073
 #, no-wrap
 msgid "Rivers, lakes and other deep water"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1066
+#: en/revolution/modules/rules/pages/movement.adoc:1074
 #, no-wrap
 msgid "Ravines and deep pits"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1070
+#: en/revolution/modules/rules/pages/movement.adoc:1078
 msgid "These are impenetrable to all units and don’t block line of sight."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1070
+#: en/revolution/modules/rules/pages/movement.adoc:1079
 #, no-wrap
 msgid "Sheer cliffs and mountains"
 msgstr ""
 
 #.  Bo5A difference: dense terrain penalty still applies
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1073
+#: en/revolution/modules/rules/pages/movement.adoc:1082
 msgid "These are impenetrable to all units and block line of sight."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1074
+#: en/revolution/modules/rules/pages/movement.adoc:1084
 #, no-wrap
 msgid "Roads and tracks"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1084
+#: en/revolution/modules/rules/pages/movement.adoc:1094
 msgid ""
 "These permit movement to units in column formation as for open ground "
 "regardless of the type of terrain traversed. A [.edit]#stand# placed "
@@ -1449,7 +1446,7 @@ msgstr ""
 #.  Spelling i.e.
 #.  Spelling bridges. Separate as they are slightly different (chariots).
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1093
+#: en/revolution/modules/rules/pages/movement.adoc:1103
 msgid ""
 "Some players may prefer to move their infantry in *marching column* along "
 "the roads in the same way as cavalry, with the short edge to the front. This "
@@ -1460,41 +1457,41 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1094
+#: en/revolution/modules/rules/pages/movement.adoc:1105
 #, no-wrap
 msgid "Bridges"
 msgstr ""
 
 #.  Bo5A: obviously doesn't consider artillery/machines, so bridges are the same as fords.
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1098
+#: en/revolution/modules/rules/pages/movement.adoc:1109
 msgid ""
 "If a river or ravine has a bridge then all troops may cross at that point "
 "without penalty.  Bridges don’t block line of sight."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1099
+#: en/revolution/modules/rules/pages/movement.adoc:1111
 #, no-wrap
 msgid "Fords"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1103
+#: en/revolution/modules/rules/pages/movement.adoc:1115
 msgid ""
 "If a river has a ford, all troops except chariots, artillery or machines may "
 "also cross at the ford without penalty. Fords don’t block line of sight."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1103
+#: en/revolution/modules/rules/pages/movement.adoc:1116
 #, no-wrap
 msgid "Low linear obstacles"
 msgstr ""
 
 #.  Spelling defence
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1114
+#: en/revolution/modules/rules/pages/movement.adoc:1127
 msgid ""
 "These are features such as ditches, hedges, fences, and low walls primarily "
 "intended to form property boundaries, divide fields or confine animals.  Low "
@@ -1506,13 +1503,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1115
+#: en/revolution/modules/rules/pages/movement.adoc:1129
 #, no-wrap
 msgid "High linear obstacles"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1124
+#: en/revolution/modules/rules/pages/movement.adoc:1138
 msgid ""
 "These are tall features such as high walls and hedged, fenced or ditched "
 "embankments primarily intended for defence. These features are impenetrable "
@@ -1523,20 +1520,20 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1124
+#: en/revolution/modules/rules/pages/movement.adoc:1139
 #, no-wrap
 msgid "City and fortress walls"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1128
+#: en/revolution/modules/rules/pages/movement.adoc:1143
 msgid ""
 "High walls, tall towers and large buildings block movement as you might "
 "reasonably expect. In these cases, troops must move through gateways or gaps."
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1136
+#: en/revolution/modules/rules/pages/movement.adoc:1151
 msgid ""
 "The only time when ground troops can move across an intact curtain wall, "
 "tower or similar fortification is when infantry are making an assault as "
@@ -1546,32 +1543,32 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/movement.adoc:1138
+#: en/revolution/modules/rules/pages/movement.adoc:1153
 #, no-wrap
 msgid "Terrain summary"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1140
+#: en/revolution/modules/rules/pages/movement.adoc:1155
 #, no-wrap
 msgid "****\n"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1143
+#: en/revolution/modules/rules/pages/movement.adoc:1158
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:46
 #, no-wrap
 msgid "include::partial$terrain-restrictions.tsv[]\n"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/movement.adoc:1148
+#: en/revolution/modules/rules/pages/movement.adoc:1163
 #, no-wrap
 msgid "Units forced into impenetrable terrain"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/movement.adoc:1155
+#: en/revolution/modules/rules/pages/movement.adoc:1170
 msgid ""
 "The rules occasionally oblige units to move into terrain they cannot [."
 "bo5a]#enter. Stands are not permitted to move so that their bases intersect "
@@ -1581,7 +1578,7 @@ msgstr ""
 
 #.  TODO: link, and be more definite.
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/movement.adoc:1164
+#: en/revolution/modules/rules/pages/movement.adoc:1179
 msgid ""
 "If they are *driven back* into impassable terrain as a result of shooting or "
 "magic, units may become *confused* (see the xref::shooting.adoc[Shooting "
@@ -1592,7 +1589,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/movement.adoc:1169
+#: en/revolution/modules/rules/pages/movement.adoc:1184
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
 "Movement] with further examples."
