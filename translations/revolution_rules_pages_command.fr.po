@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-05 22:28+0200\n"
+"POT-Creation-Date: 2025-07-07 18:39+0200\n"
 "PO-Revision-Date: 2025-07-04 15:04+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -375,7 +375,7 @@ msgstr "Donner un ordre"
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:294
 msgid ""
-"The player [.bo5a]#first nominates a unit a unit that# he wishes to move "
+"The player [.bo5a]#first nominates a unit that# he wishes to move "
 "[.bo5a]#and indicates the character that will give the necessary order#.  He "
 "must then take a dice test to determine if the order is received and acted "
 "upon. This works in the following way:"
