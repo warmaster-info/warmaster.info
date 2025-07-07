@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-07-07 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dark-elves/fr/>\n"
@@ -219,26 +219,25 @@ msgstr "Arbalétriers"
 #: en/revolution/modules/armies/pages/dark-elves.adoc:21
 #, no-wrap
 msgid "Witch Elves"
-msgstr ""
+msgstr "Furies"
 
 #. type: Attribute :dark-riders:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:22
-#, fuzzy, no-wrap
-#| msgid "Dark Elves"
+#, no-wrap
 msgid "Dark Riders"
-msgstr "Elfes Noirs"
+msgstr "Cavaliers Noirs"
 
 #. type: Attribute :cold-one-knights:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:23
 #, no-wrap
 msgid "Cold One Knights"
-msgstr ""
+msgstr "Chevaliers sur Sang-froid"
 
 #. type: Attribute :war-hydra:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:25
 #, no-wrap
 msgid "War Hydra"
-msgstr ""
+msgstr "Hydre de Guerre"
 
 #. type: Attribute :elven-bolt-thrower:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:26
@@ -251,19 +250,19 @@ msgstr "Baliste à Répétition"
 #: en/revolution/modules/armies/pages/dark-elves.adoc:29
 #, no-wrap
 msgid "Sorceress"
-msgstr ""
+msgstr "Sorcière"
 
 #. type: Attribute :manticore:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:30
 #, no-wrap
 msgid "Manticore"
-msgstr ""
+msgstr "Manticore"
 
 #. type: Attribute :cauldron-of-blood:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:32
 #, no-wrap
 msgid "Cauldron of Blood"
-msgstr ""
+msgstr "Chaudron de Sang"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:47
@@ -279,6 +278,15 @@ msgid ""
 "valiantly against the daemontides of Chaos and his noble appearance recalled "
 "that of his mighty father."
 msgstr ""
+"image:dark-elves/logo.webp[width=111,height=92,float=\"right\"] Voilà plus "
+"de cinq mille ans, une guerre civile déchira les royaumes elfiques de l’île "
+"d’Ulthuan, opposant le Roi Phénix et ses partisans à Malékith, seigneur de "
+"Nagarythe. Malékith était le fils d’Ænarion, le premier et le plus illustre "
+"des Rois Phénix, et sa mère était la puissante et influente sorcière "
+"Morathi. De nombreux elfes considéraient que Malékith était l’héritier "
+"légitime du trône d’Ulthuan, car il avait héroïquement participé à la lutte "
+"contre les démons, tandis que son port altier rappelait à tous la majesté de "
+"son père."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:60
@@ -294,6 +302,18 @@ msgid ""
 "were worshipped openly in the temples of Nagarythe and many flocked to join "
 "the new cults."
 msgstr ""
+"Morathi nourrissait une ambition démesurée, et son fils était pour elle le "
+"plus court chemin vers le pouvoir. Elle était prête à tout pour assouvir sa "
+"soif de puissance et ne craignait ni les elfes, ni les dieux. C’était une "
+"redoutable, particulièrement douée dans les sombres arts de la nécromancie "
+"et de la démonologie. À l’insu du peuple, elle avait forgé depuis bien "
+"longtemps des pactes avec de sombres puissances en échange de pouvoirs "
+"prodigieux. Sa maîtrise des arts noirs lui valait l’admiration de ceux des "
+"elfes qui pensaient que de telles énergies pouvaient être contrôlées et "
+"utilisées pour le bien de leur race. Ses serviteurs crurent ainsi en nombre, "
+"si bien qu’elle s’enhardit ; les sombres dieux en vinrent à être ouvertement "
+"vénérés dans les temples de Nagarythe, et ces nouveaux cultes gagnèrent de "
+"nombreux adeptes."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:67
@@ -304,6 +324,11 @@ msgid ""
 "divine destiny that he decided to pass into the flame of Asuryan to prove "
 "his right to rule."
 msgstr ""
+"Grâce aux efforts de sa mère, la cause de Malékith avança de concert avec la "
+"violence et la corruption de la société elfe. Alors que l’influence de "
+"Malékith grandissait, il en vint à se croire invincible. Il était à ce point "
+"persuadé de sa propre divinité qu’il décida de traverser la flamme d’Asuryan "
+"pour prouver son droit à régner."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:77
@@ -316,6 +341,13 @@ msgid ""
 "by pain and resentment, Malekith gave up all pretence of rightful lordship "
 "and chose instead to impose his will by force of arms alone."
 msgstr ""
+"C’est grâce à ce rite que les dieux elfiques accordaient le pouvoir et l’"
+"autorité aux véritables souverains d’Ulthuan. Mais Morathi s’était attirée "
+"leur inimitié, et la flamme rejeta son fils. Son corps fut grièvement brûlé, "
+"et il dut se faire forger une armure enchantée qu’il porte encore à ce jour. "
+"Gravement affaibli, blessé dans sa chair comme dans son orgueil et son âme, "
+"Malékith abandonna toute prétention de légitimité et résolut de s’imposer "
+"par la force des armes seule."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:91
@@ -332,6 +364,19 @@ msgid ""
 "upon the borderlands of Chaos. This they named Naggaroth – which means Land "
 "of Chill in Elvish."
 msgstr ""
+"La guerre longue, amère et sanglante qui s’ensuivit fut appelée la "
+"Déchirure, car elle eut pour conséquence la division de la [.edit]race #elfe#"
+".  À partir de là, les cultures des Elfes Sylvains des colonies du Vieux "
+"Monde, des Hauts Elfes d’Ulthuan et des Elfes Noirs de Malékith allaient se "
+"développer séparément les unes des autres. Les Elfes Noirs finirent d’"
+"ailleurs par être chassés d’Ulthuan. Le pays de Nagarythe et une grande "
+"partie des côtes occidentales d’Ulthuan furent ravagées par la sorcellerie "
+"pendant les combats. Nagarythe finit par être engloutie par les eaux, et "
+"Malékith et ses fidèles durent s’exiler vers le Nouveau Monde, où ils "
+"fondèrent leur propre royaume, près des désolations du Chaos. Ils l’"
+"appelèrent Naggaroth, ce qui signifie en elfique “Terre du Grand Froid”, "
+"alors que leur capitale aux noires flèches était baptisée Naggarond, la Tour "
+"Froide."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:104
@@ -347,24 +392,36 @@ msgid ""
 "Morathi thousands are sacrificed upon the altars of Khaine while to this day "
 "she preserves her unholy youth by bathing in the blood of innocents."
 msgstr ""
+"Dans sa cité glacée, Malékith rumine sur ses domaines perdus et tisse de "
+"noirs sortilèges pour nuire à ses ennemis. Ses flottes harcèlent celles des "
+"Hauts Elfes et ses pillards écument les côtes d’Ulthuan comme celles du "
+"Vieux Monde, tandis que ses généraux échafaudent la reconquête définitive de "
+"leurs anciens royaumes pour leur maître noir. À Naggaroth, les Elfes Noirs "
+"continuent d’ériger des temples pour toute sorte de divinités sanguinaires. "
+"Des Furies hantent la nuit à la recherche de victimes sacrificielles, "
+"pénètrent de force dans les maisons pour enlever des enfants et assassinent "
+"impunément quiconque est assez sot pour sortir après la nuit tombée. Sous le "
+"regard cruel de Morathi, des milliers de captifs sont sacrifiés sur les "
+"autels de Khaine, car seul le sang d’innocents est capable de préserver sa "
+"beauté impie des ravages du temps."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/dark-elves.adoc:108
 #, no-wrap
 msgid "Dark Elf army selector"
-msgstr ""
+msgstr "Sélecteur d’Armée Elfes Noirs"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/dark-elves.adoc:113
 #, no-wrap
 msgid "include::partial$dark-elves.tsv[]\n"
-msgstr ""
+msgstr "include::partial$dark-elves.tsv[]\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:118
 #, no-wrap
 msgid "[[crossbowmen-and-dark-riders,†1]]1. Crossbowmen and Dark Riders"
-msgstr ""
+msgstr "[[crossbowmen-and-dark-riders,†1]]1. Arbalétriers et Cavaliers Noirs"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:125
@@ -375,12 +432,18 @@ msgid ""
 "target at greater ranges. Units may shoot at enemies that charge them – in "
 "which case they shoot 1 Attack per stand regardless of range."
 msgstr ""
+"Ces unités sont équipées d’arbalètes à répétition. Elles peuvent tirer une "
+"fois à une portée de 30cm ou deux fois à une portée de 15cm. Une unité de "
+"trois socles peut donc effectuer 6 attaques sur une cible située à 15cm ou "
+"moins et 3 attaques sur une cible située plus loin. Ces unités peuvent tirer "
+"sur un ennemi qui les charge, mais elles n’effectuent dans ce cas qu’une "
+"seule attaque par socle, quelle que soit la portée."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:126
 #, no-wrap
 msgid "[[witch-elves,†2]]2. Witch Elves"
-msgstr ""
+msgstr "[[witch-elves,†2]]2. Furies"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:134
@@ -392,12 +455,19 @@ msgid ""
 "where possible. Witch Elves are unaffected by enemies that cause terror in "
 "combat and do not suffer the usual −1 Attack modifier."
 msgstr ""
+"Les Furies utilisent toujours l’initiative pour charger un ennemi si "
+"possible et ne peuvent pas recevoir d’ordres à la place. Elles n’utilisent "
+"jamais l’initiative pour éviter. Elles ne sont jamais repoussés par des tirs "
+"et n’effectuent donc jamais de jet de repoussement. En cas de victoire en "
+"corps à corps, elles doivent poursuivre ou avancer lorsque cela est "
+"possible. Les Furies ne sont pas affectés par les créatures provoquant la "
+"terreur et donc ne subissent pas le malus de -1 Attaque."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:135
 #, no-wrap
 msgid "[[cold-one-knights,†3]]3. Cold One Knights"
-msgstr ""
+msgstr "[[cold-one-knights,†3]]3. Chevaliers sur Sang-froid"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:141
@@ -408,6 +478,11 @@ msgid ""
 "has to touch the enemy in arc of sight with its frontal edge and/or frontal "
 "corners (including contact by frontal corner only)."
 msgstr ""
+"Les sang-froid sont si féroces que les Chevaliers sur sang-froid bénéficient "
+"de +1 Attaque lors du premier round de chaque combat où ils affrontent un "
+"ennemi situé sur leur front, c’est-à-dire que les socles de l’unité doivent "
+"toucher l’ennemi en vu avec son bord avant et/ou ses coins avant (y compris "
+"seulement par contact des coins avant)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:145
@@ -415,18 +490,20 @@ msgid ""
 "For the same reason Cold One Knights cannot form brigades except with other "
 "units of Cold One Knights."
 msgstr ""
+"Pour la même raison, les Chevaliers sur Sang-froid ne peuvent pas former de "
+"brigades, hormis avec d’autres unités de Chevaliers sur Sang-froid."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:146
 #, no-wrap
 msgid "[[harpies,†4]]4. Harpies"
-msgstr ""
+msgstr "[[harpies,†4]]4. Harpies"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:151
 #, no-wrap
 msgid "[[war-hydra,†5]]5. War Hydra"
-msgstr ""
+msgstr "[[war-hydra,†5]]5. Hydre de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:153
@@ -434,11 +511,13 @@ msgid ""
 "War Hydras are so aggressive that they cannot be included as part of a "
 "brigade not even with other War Hydras."
 msgstr ""
+"Les Hydres de Guerre sont si agressives qu’elles ne peuvent jamais faire "
+"partie d’une brigade, pas même avec d’autres Hydres."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:155
 msgid "They cause terror in their enemies."
-msgstr ""
+msgstr "Elles provoquent la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:159
@@ -446,6 +525,8 @@ msgid ""
 "The War Hydra can breath fire with a range of 20cm and 2 Attacks that are "
 "worked out in the normal way."
 msgstr ""
+"Une Hydre de Guerre peut cracher du feu à une portée de tir de 20cm, elle "
+"effectue alors 2 attaques résolues de la manière habituelle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:165
@@ -455,12 +536,16 @@ msgid ""
 "round. A hit that is inflicted and subsequently regenerated still counts "
 "towards the results for that round."
 msgstr ""
+"Lors d’un corps à corps, une fois que toutes les attaques ont été résolues ("
+"et si l’Hydre a survécu) elle régénère automatiquement 1 touche subie lors "
+"de ce round. Une touche infligée et régénérée compte quand même pour ce qui "
+"est de la résolution du round de combat."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:166
 #, no-wrap
 msgid "[[elven-bolt-thrower,†6]]6. Elven Bolt Thrower"
-msgstr ""
+msgstr "[[elven-bolt-thrower,†6]]6. Baliste à Répétition"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:168
@@ -478,7 +563,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dark-elves.adoc:169
 #, no-wrap
 msgid "[[general,†7]]7. General"
-msgstr ""
+msgstr "[[general,†7]]7. Général"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:182
@@ -495,38 +580,51 @@ msgid ""
 "executed and any ‘blunders’ rolled by the General merely end the phase as "
 "normal."
 msgstr ""
+"Les Généraux Elfes Noirs sont les maîtres de la manipulation et du chantage, "
+"et ils ne s’embarrassent pas de morale lorsqu’ils traitent avec leurs "
+"officiers ! Si un Héros ou une Sorcière elfe noir obtient un double 6 lorsqu’"
+"iel donne un ordre, le Général Elfe Noir a le choix entre perdre 1 point de "
+"Commandement (il passe de 10 à 9) ou exécuter le fautif - auquel cas, le "
+"personnage est immédiatement retiré du jeu, mais il n’accorde aucun point de "
+"victoire à l’ennemi.   En outre, si le Général lui-même commet une gaffe, il "
+"perd 1 point de Commandement. Un Général peut perdre un maximum de 2 point "
+"de Commandement (jusqu’à un minimum de 8)  une fois ces 2 points perdus, "
+"tous les subordonnés qui commettent des gaffes seront automatiquement "
+"exécutés, et les gaffes du Général mettront simplement fin à la phase d’"
+"ordres sans autre effet néfaste."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:183
 #, no-wrap
 msgid "[[manticore,†8]]8. Manticore"
-msgstr ""
+msgstr "[[manticore,†8]]8. Manticore"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:185
 msgid "Generals, Heroes and the Sorceress can ride a Manticore."
 msgstr ""
+"Une Manticore peut être chevauchée par le Général, un Héros ou une Sorcière."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:188
 msgid "The Manticore can fly increasing the rider’s movement to 100cm."
-msgstr ""
+msgstr "Elle peut voler et augmente le mouvement de son cavalier à 100cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:191
 msgid "An extra +2 Attacks are added to those of the rider."
-msgstr ""
+msgstr "Un bonus de +2 Attaques est ajouté à celles de son cavalier."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:193
 msgid "A unit joined by the character causes Terror."
-msgstr ""
+msgstr "Une unité rejointe par le personnage provoque la Terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:194
 #, no-wrap
 msgid "[[cauldron-of-blood,†9]]9. Cauldron of Blood"
-msgstr ""
+msgstr "[[cauldron-of-blood,†9]]9. Chaudron de Sang"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:198
@@ -535,12 +633,16 @@ msgid ""
 "Cauldron of Blood and it can only be included if there is at least 1 unit of "
 "Witch Elves in the army."
 msgstr ""
+"Une Sorcière peut être accompagnée d’un Chaudron de Sang. L’armée ne peut "
+"inclure qu’un seul Chaudron de Sang si elle comporte également au moins une "
+"unité de Furies."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:201
 msgid ""
 "A Sorceress with a Cauldron of Blood suffers a movement reduction to 30cm."
 msgstr ""
+"Une Sorcière avec Chaudron de Sang ne peut plus se déplacer que de 30 cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:208
@@ -550,18 +652,22 @@ msgid ""
 "player must announce that the Cauldron of Blood’s spell bonus is being used "
 "before rolling the dice to determine if the spell is cast."
 msgstr ""
+"Le Chaudron de Sang ajoute +2 Attaques à celles de la Sorcière et peut être "
+"utilisé pour ajouter +1 au jet de lancement d’un sort de celle-ci, une fois "
+"par bataille. Le joueur doit annoncer qu’il utilise le bonus du Chaudron "
+"avant de jeter le dé pour déterminer si le sort est lancé avec succès."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/dark-elves.adoc:212
 #, no-wrap
 msgid "Dark Elf spells"
-msgstr ""
+msgstr "Sorts Elfes Noirs"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/dark-elves.adoc:215
 #, no-wrap
 msgid "Doom Bolt"
-msgstr ""
+msgstr "Éclair Noir"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:221
@@ -569,6 +675,8 @@ msgid ""
 "_A bolt of pure malicious darkness arcs from the Sorcerer’s fingertip and "
 "stabs towards the foes of the Dark Elves._"
 msgstr ""
+"_Un éclair d’énergie noire jaillit des doigts de la Sorcière, s’enfonçant "
+"dans les chairs des ennemis des Elfes Noirs._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:227
@@ -578,6 +686,10 @@ msgid ""
 "terrain that would normally stop a missile shot, e.g. over the crest of a "
 "hill, more than 2cm of woodland, and so forth."
 msgstr ""
+"Tracez une ligne imaginaire de 30 cm de long, à partir du socle de la "
+"Sorcière et dans n’importe quelle direction. La ligne peut traverser n’"
+"importe quelle unité, mais pas les terrains qui arrêteraient normalement un "
+"tir ordinaire, comme une colline, plus de 2 cm de forêt, etc."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:236
@@ -590,12 +702,20 @@ msgid ""
 "but carry over any hits scored into the first round of combat; any hits "
 "scored count as having been struck in the combat itself."
 msgstr ""
+"Toute unité traversée par la ligne subit 3 attaques de tir résolues de la "
+"façon habituelle. Notez que ce sort peut affecter plusieurs unités, et "
+"affectera automatiquement toutes celles qui se trouvent sous la ligne, même "
+"les vôtres. Les unités non engagées au corps à corps peuvent être repoussées "
+"par un Éclair Noir comme par des tirs ordinaires, y compris vos propres "
+"troupes. Les unités engagées au corps à corps ne peuvent pas être repoussées "
+"par l’éclair, mais les touches qu’il inflige sont reportées au premier round "
+"de combat et comptent comme ayant été infligées durant le corps à corps."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/dark-elves.adoc:238
 #, no-wrap
 msgid "Black Horror"
-msgstr ""
+msgstr "Horreur Noire"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:241
@@ -609,6 +729,8 @@ msgid ""
 "_A whirling vortex of dark enemy surrounds and drags its victims into the "
 "infernal realms of Khaine the Lord of Murder._"
 msgstr ""
+"_Un vortex tourbillonnant entoure les ennemis de la sorcière et les entraîne "
+"dans le royaume infernal du Seigneur du Meurtre._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:250
@@ -619,12 +741,17 @@ msgid ""
 "– the whirling vortex sucks its victims down affording them no chance to "
 "avoid it."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie en vue de la Sorcière et n’"
+"étant pas engagée au corps à corps. L’unité subit 4 attaques sans sauvegarde "
+"d’armure. Une unité subissant des pertes à cause de l’Horreur Noire ne peut "
+"pas être repoussée en conséquence : le vortex aspire ses victimes sans qu’"
+"elles aient la moindre chance d’en réchapper."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/dark-elves.adoc:252
 #, no-wrap
 msgid "Dominian"
-msgstr ""
+msgstr "Domination"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:258
@@ -632,6 +759,8 @@ msgid ""
 "_Upon invoking the curse of the foul god Khaine an unnatural and unbearable "
 "agony suffuses the body of his foes._"
 msgstr ""
+"_La sorcière invoque la malédiction de Khaine et inflige une douleur "
+"insupportable à ses victimes._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:261
@@ -639,12 +768,14 @@ msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Sorceress can see it or not."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie à portée, que la Sorcière "
+"puisse la voir ou non."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:264
 msgid ""
 "The spell takes affect until the end of the opposing player’s next turn."
-msgstr ""
+msgstr "Les effets de ce sort durent jusqu’à la fin du prochain tour adverse."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:269
@@ -653,12 +784,16 @@ msgid ""
 "not pursue or advance. Even units that are otherwise obliged to charge, "
 "pursue, or advance will not do so if affected by Dominion."
 msgstr ""
+"Tant que le sort dure, l’unité ne peut pas charger et, si elle est engagée "
+"au corps à corps, ne peut ni avancer ni poursuivre. Même les unités qui sont "
+"normalement obligées de charger, d’avancer ou de poursuivre ne peuvent pas "
+"le faire."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/dark-elves.adoc:271
 #, no-wrap
 msgid "Soul Stealer"
-msgstr ""
+msgstr "Voleur d’Âmes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:274
@@ -675,6 +810,8 @@ msgid ""
 "_Invoking the daemons of the abyss the Sorcerer tears the very souls from "
 "his enemies._"
 msgstr ""
+"_En appelant aux démons des abysses, la Sorcière lacère l’âme de ses "
+"victimes._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:281
@@ -683,6 +820,9 @@ msgid ""
 "spell can be cast on any single enemy unit that is touching the unit the "
 "Sorceress has joined."
 msgstr ""
+"La Sorcière peut lancer ce sort si elle a rejoint une unité engagée au corps "
+"à corps. Ce sort peut être lancé sur une seule unité ennemie en contact avec "
+"l’unité que la Sorcière a rejointe."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:288
@@ -693,3 +833,8 @@ msgid ""
 "round of combat and count as having been struck in the first round for "
 "purposes of working out combat results."
 msgstr ""
+"La cible subit trois attaques résolues normalement, contre lesquelles aucune "
+"sauvegarde d’armure n’est autorisée : la valeur d’Armure de la cible compte "
+"comme étant de 0. Les touches subies sont reportées au premier round de "
+"combat et compteront comme ayant été infligées pendant le corps à corps pour "
+"ce qui est de sa résolution."
