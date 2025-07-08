@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-07-08 23:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_vampire-counts/fr/>\n"
@@ -147,6 +147,8 @@ msgid ""
 "If the unit charges against an enemy in the open it receives an additional "
 "+1 Attack modifier in the same way as chariots and monsters."
 msgstr ""
+"Si l’unité charge un ennemi à découvert, elle reçoit un bonus de +1 Attaque, "
+"comme les chars et les monstres."
 
 #. type: Title =
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:90
@@ -287,43 +289,43 @@ msgstr ""
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:19
 #, no-wrap
 msgid "Zombies"
-msgstr ""
+msgstr "Zombies"
 
 #. type: Attribute :ghouls:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:20
 #, no-wrap
 msgid "Ghouls"
-msgstr ""
+msgstr "Goules"
 
 #. type: Attribute :grave-guard:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:21
 #, no-wrap
 msgid "Grave Guard"
-msgstr ""
+msgstr "Gardes des Cryptes"
 
 #. type: Attribute :ethereal-host:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:22
 #, no-wrap
 msgid "Ethereal Host"
-msgstr ""
+msgstr "Nuées Éthérées"
 
 #. type: Attribute :black-knights:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:23
 #, no-wrap
 msgid "Black Knights"
-msgstr ""
+msgstr "Chevaliers Noirs"
 
 #. type: Attribute :dire-wolves:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:24
 #, no-wrap
 msgid "Dire Wolves"
-msgstr ""
+msgstr "Loups Funestes"
 
 #. type: Attribute :fell-bats:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:25
 #, no-wrap
 msgid "Fell Bats"
-msgstr ""
+msgstr "Chauve-souris Vampires"
 
 #. type: Attribute :vampire-lord:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:26
@@ -343,19 +345,19 @@ msgstr "Comtes Vampires"
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:28
 #, no-wrap
 msgid "Necromancer"
-msgstr ""
+msgstr "Nécromancien"
 
 #. type: Attribute :winged-nightmare:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:29
 #, no-wrap
 msgid "Winged Nightmare"
-msgstr ""
+msgstr "Cauchemar Ailé"
 
 #. type: Attribute :black-coach:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:30
 #, no-wrap
 msgid "Black Coach"
-msgstr ""
+msgstr "Carrosse Noir"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:47
@@ -373,6 +375,17 @@ msgid ""
 "are broken in spirit and live in harsh servitude under callous and uncaring "
 "masters."
 msgstr ""
+"image:vampire-counts/logo.webp[width=116,height=84,float=\"right\"] Les "
+"terres maudites de Sylvanie s’étendent à l’est de l’Empire. C’est une région "
+"désolée, dominée par de sombres forêts et des montagnes maussades ; ses "
+"habitants sont miséreux, car la glèbe y est pauvre, tandis que les montagnes "
+"sont dénuées du minerai précieux qu’on trouve en abondance au nord et au "
+"sud. En outre, cette contrée a mauvaise réputation : on dit les bois hantés, "
+"et la terre est réputée corrompue par l’essence du Chaos, si bien que les "
+"morts qu’on y enterre ne trouvent pas facilement le repos. La Sylvanie est "
+"de fait peu peuplée, et ceux qui y vivent sont sous-alimentés, misérables et "
+"manquent autant de vigueur que d’ambition. Le menu peuple vit dans un "
+"désespoir perpétuel sous le règne brutal et impitoyable de ses maîtres."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:60
@@ -388,6 +401,16 @@ msgid ""
 "feared to walk abroad after nightfall for strange creatures stalked the "
 "night – creatures that feasted on the blood and flesh of men."
 msgstr ""
+"Bien qu’originellement rattachée à l’Empire, la Sylvanie s’est développée de "
+"façon relativement indépendante durant l’ère d’anarchie appelée Règne des "
+"Trois Empereurs, lorsque tout gouvernement central s’effondra. Un nouveau "
+"pouvoir apparut alors en Sylvanie, sous la forme des comtes von Carstein. "
+"Ceux-ci gagnèrent rapidement une réputation de brutalité qui dépassa tout ce "
+"qui était advenu jusque-là dans l’Empire. Dans les duchés environnants, on "
+"parlait de torture, de cruauté gratuite, de nécromancie et de magie noire, "
+"mais aussi d’un pays hanté par des esprits désincarnés. Le peuple craignait "
+"de sortir après le coucher du soleil, car d’étranges créatures hantaient la "
+"nuit ; des monstres qui festoyaient de sang humain et de chair humaine."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:68
@@ -399,6 +422,12 @@ msgid ""
 "army of dead from the poisoned soil and made his bid for the throne of the "
 "Empire."
 msgstr ""
+"La véritable nature des von Carstein fut révélée après la venue de la comète "
+"et la destruction de la ville de Mordheim. Ce fut une époque terrible, où l’"
+"emprise des ténèbres grandit dans tout l’Empire. Rassemblant une grande "
+"partie de cette sombre énergie, Vlad von Carstein leva une puissante armée "
+"de morts du sol corrompu de Sylvanie et déclara ses ambitions sur le trône "
+"impérial."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:75
@@ -409,6 +438,12 @@ msgid ""
 "the living would exist only as cattle to feed a Vampiric nobility. Vlad "
 "almost did succeed but was slain as his undead hordes besieged Altdorf."
 msgstr ""
+"Ainsi commencèrent les Guerres Vampiriques, lors desquelles les morts s’"
+"opposèrent aux vivants pour étendre le règne des Carstein à l’Empire. Si les "
+"vampires avaient gagné, l’Empire aurait été réduit à une étendue de ruines "
+"où les vivants n’auraient servi que de bétail pour étancher la soif de leurs "
+"maîtres immortels. Vlad faillit réussir, mais il fut tué lorsque sa horde "
+"assiégea Altdorf."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:87
@@ -423,6 +458,15 @@ msgid ""
 "out and destroyed.  Syvlania itself was claimed by the Count of Stirland and "
 "now forms part of that province."
 msgstr ""
+"Les successeurs de Vlad poursuivirent les hostilités, menés d’abord par "
+"Konrad von Carstein le dément puis par Mannfred von Carstein. Leurs armées "
+"de morts ravagèrent l’Empire, jusqu’à ce que Mannfred fût finalement vaincu "
+"et repoussé en Sylvanie après la bataille de Hel Fenn. Après cela, il "
+"disparut, mais son corps ne fut jamais retrouvé et des rumeurs de son retour "
+"continuent à ce jour de circuler. Après cette défaite, la Sylvanie fut "
+"purifiée par les prêtres de Sigmar, et maints vampires furent débusqués et "
+"détruits. La province fut annexée par le Comte du Stirland et elle fait "
+"aujourd’hui partie intégrante de ce comté."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:91
@@ -430,18 +474,20 @@ msgid ""
 "It remains a land of dread where the downtrodden peasantry still live in "
 "terror of the night and the things that walk beneath the moon."
 msgstr ""
+"Elle reste toutefois une contrée terrifiante, où des paysans consanguins "
+"vivent dans la peur des ténèbres et des créatures qui chassent sous la lune."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:95
 #, no-wrap
 msgid "Vampire Counts army selector"
-msgstr ""
+msgstr "Sélecteur d’Armée Comtes Vampires"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:100
 #, no-wrap
 msgid "include::partial$vampire-counts.tsv[]\n"
-msgstr ""
+msgstr "include::partial$vampire-counts.tsv[]\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:111
@@ -450,6 +496,9 @@ msgid ""
 "are considered to be ordinary mortal troops and the following rules do not "
 "apply to them."
 msgstr ""
+"Les règles suivantes s’appliquent à toutes leurs unités, à l’exception des "
+"Goules. Ces dernières comptent comme des unités mortelles ordinaires et les "
+"règles spéciales suivantes ne s’appliquent pas à elles."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:117
@@ -459,12 +508,17 @@ msgid ""
 "noted below). Including an Undead unit cannot make a supporting charge to "
 "support an unit of Ghouls charging on initiative."
 msgstr ""
+"Les morts-vivants n’agissent jamais par initiative. Une unité de morts-"
+"vivants ne peut se déplacer durant la phase d’ordre qu’après en avoir reçu l’"
+"ordre (sauf les Chauves-souris Vampires qui peuvent revenir comme "
+"d’ordinaire). De plus les unités mort-vivantes ne peuvent faire une charge "
+"de soutien pour supporter une unité de Goules qui chargerait par initiative."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:130
 #, no-wrap
 msgid "[[ethereal-host,†1]]1. Ethereal Host"
-msgstr ""
+msgstr "[[ethereal-host,†1]]1. Nuée Éthérée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:135
@@ -474,6 +528,10 @@ msgid ""
 "count as in the open, defended, or fortified in all respects (i.e. charge "
 "bonuses count or don’t count depending on status)."
 msgstr ""
+"Les attaques des Nuées Éthérées touchent toujours sur 4+, que l’ennemi soit "
+"à découvert, en défense ou fortifié. Hormis cela, les ennemis comptent comme "
+"étant dans leur statut réel (ce qui conditionne par exemple les bonus dus à "
+"la charge)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:138
@@ -481,38 +539,40 @@ msgid ""
 "Ethereal hosts cannot be driven back by shooting and do not roll for drive "
 "backs."
 msgstr ""
+"Les Nuées Éthérées ne peuvent pas être repoussées par des tirs et n’"
+"effectuent pas de jets de repoussement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:141
 msgid "They cause terror as described in the Warmaster rulebook."
-msgstr ""
+msgstr "Elles causent la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:144
 msgid "Ethereal Hosts cannot have magic items."
-msgstr ""
+msgstr "Les Nuées Éthérées ne peuvent pas porter d’objet magique."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:145
 #, no-wrap
 msgid "[[dire-wolves,†2]]2. Dire Wolves"
-msgstr ""
+msgstr "[[dire-wolves,†2]]2. Loups Funestes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:150
 msgid "Dire Wolves cannot have magic items."
-msgstr ""
+msgstr "Les Loups Funestes ne peuvent pas porter d’objet magique."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:151
 #, no-wrap
 msgid "[[fell-bats,†3]]3. Fell Bats"
-msgstr ""
+msgstr "[[fell-bats,†3]]3. Chauves-souris Vampires"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:152
 msgid "Fell Bats can fly."
-msgstr ""
+msgstr "Les Chauves-souris Vampires peuvent voler."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:156
@@ -521,6 +581,10 @@ msgid ""
 "units.adoc#home-back[home back] as described in the Warmaster rulebook. No "
 "order is required to home back."
 msgstr ""
+"Notez que bien qu’elles ne puissent pas agir sur initiative, elles peuvent "
+"toujours xref:rules:flying-units.adoc#home-back[revenir] vers un Personnage "
+"comme décrit dans le livre de règles de Warmaster. Pas besoin d’ordre pour "
+"ce mouvement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:161
@@ -529,12 +593,16 @@ msgid ""
 "they are based along the long base edge in the same way as infantry, rather "
 "than the short edge like other monsters."
 msgstr ""
+"Les Chauves-souris Vampires sont une exception aux règles de soclage des "
+"monstres car elles sont soclées face à l’une des longueurs du socle, comme "
+"de l’infanterie, plutôt que face à l’une des largeurs, comme les autres "
+"monstres."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:162
 #, no-wrap
 msgid "[[vampire-lord,†4]]4. Vampire Lord"
-msgstr ""
+msgstr "[[vampire-lord,†4]]4. Seigneur Vampire"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:168
@@ -545,17 +613,21 @@ msgid ""
 "still a General and his command range extends over the whole battlefield as "
 "for other Generals."
 msgstr ""
+"Le Seigneur Vampire est un puissant sorcier en plus d’être le Général. Il "
+"peut jeter des sorts de la même manière qu’un Sorcier et peut porter des "
+"objets magiques limités aux Généraux et aux Sorciers. Notez qu’en tant que "
+"Général sa portée de commandement s’étend sur tout le champs de bataille."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:169
 #, no-wrap
 msgid "[[winged-nightmare,†5]]5. Winged Nightmare"
-msgstr ""
+msgstr "[[winged-nightmare,†5]]5. Cauchemar Ailé"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:171
 msgid "Any character can ride a Winged Nightmare."
-msgstr ""
+msgstr "N’importe quel personnage peut être monté sur un Cauchemar Ailé."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:174
@@ -563,18 +635,21 @@ msgid ""
 "A winged Nightmare can fly increasing its rider’s move to 100cm and adding "
 "+2 to its rider’s attacks."
 msgstr ""
+"Un Cauchemar Ailé peut voler améliorant le mouvement de son cavalier à 100cm "
+"et ajoute +2 attaques à son profil."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:177
 msgid ""
 "A unit joined by a character riding a Nightmare causes terror in its enemies."
 msgstr ""
+"Une unité rejointe par un personnage sur Cauchemar Ailé provoque la terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:178
 #, no-wrap
 msgid "[[black-coach,†6]]6. Black Coach"
-msgstr ""
+msgstr "[[black-coach,†6]]6. Carrosse Noir"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:180
@@ -582,6 +657,8 @@ msgid ""
 "A Vampire Lord or Vampire can be mounted within a Black Coach adding +1 to "
 "its occupant’s attacks."
 msgstr ""
+"Un Seigneur Vampire ou un Vampire peut embarquer dans un Carrosse Noir, qui "
+"confère +1 Attaque à son passager."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:184
@@ -589,12 +666,14 @@ msgid ""
 "A unit joined by a character riding in the Black Coach causes terror in its "
 "enemies."
 msgstr ""
+"Une unité rejointe par un personnage dans un Carrosse Noir provoque la "
+"terreur."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:188
 #, no-wrap
 msgid "Vampire Counts spells"
-msgstr ""
+msgstr "Sorts des Comtes Vampires"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:224

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-07 13:04+0000\n"
+"PO-Revision-Date: 2025-07-08 23:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_tomb-kings/fr/>\n"
@@ -217,7 +217,7 @@ msgstr "Charognards"
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:23
 #, no-wrap
 msgid "Bone Giant"
-msgstr "Géant d’Os"
+msgstr "Géants d’Os"
 
 #. type: Attribute :sphinx:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:24
@@ -229,7 +229,7 @@ msgstr "Sphinx"
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:25
 #, no-wrap
 msgid "Skull Chukka"
-msgstr "Catapulte à Crânes"
+msgstr "Catapultes à Crânes"
 
 #. type: Attribute :bone-thrower:
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:26
@@ -453,7 +453,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:132
 #, no-wrap
 msgid "[[bone-giant,†2]]2. Bone Giant"
-msgstr "[[bone-giant,†2]]2. Géants Squelettes"
+msgstr "[[bone-giant,†2]]2. Géants d’Os"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:136
@@ -462,10 +462,10 @@ msgid ""
 "a brigade that contains a Bone Giant there is a −1 Command penalty. There is "
 "no penalty when a Liche-Priest gives an order."
 msgstr ""
-"Les Géants Squelettes causent la terreur. Lorsqu’un Roi des Tombes donne un "
-"ordre à un Géant Squelette ou à une brigade contenant un Géant Squelette, il "
-"subit un malus de -1 en Commandement. Un Prêtre Liche peut cependant lui "
-"donner des ordres sans malus."
+"Les Géants d’Os causent la terreur. Lorsqu’un Roi des Tombes donne un ordre "
+"à un Géant d’Os ou à une brigade contenant un Géant d’Os, il subit un malus "
+"de -1 en Commandement. Un Prêtre Liche peut cependant lui donner des ordres "
+"sans malus."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:137

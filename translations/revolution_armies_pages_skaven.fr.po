@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-07-08 23:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -254,10 +254,9 @@ msgstr "Jezzails"
 
 #. type: Attribute :plague-monks:
 #: en/revolution/modules/armies/pages/skaven.adoc:22
-#, fuzzy, no-wrap
-#| msgid "Plague"
+#, no-wrap
 msgid "Plague Monks"
-msgstr "Peste"
+msgstr "Moines de la Peste"
 
 #. type: Attribute :rat-swarms:
 #: en/revolution/modules/armies/pages/skaven.adoc:23
@@ -279,16 +278,15 @@ msgstr "Rat Ogres"
 
 #. type: Attribute :warp-lightning-cannon:
 #: en/revolution/modules/armies/pages/skaven.adoc:26
-#, fuzzy, no-wrap
-#| msgid "Warp Lightning"
+#, no-wrap
 msgid "Warp Lightning-Cannon"
-msgstr "Malefoudre"
+msgstr "Canons à Malefoudre"
 
 #. type: Attribute :doom-wheel:
 #: en/revolution/modules/armies/pages/skaven.adoc:27
 #, no-wrap
 msgid "Doom Wheel"
-msgstr "Roue Infernale"
+msgstr "Roues Infernales"
 
 #. type: Attribute :screaming-bell:
 #: en/revolution/modules/armies/pages/skaven.adoc:28
