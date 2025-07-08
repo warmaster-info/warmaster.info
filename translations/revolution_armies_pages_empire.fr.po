@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-07-08 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_empire/fr/>\n"
@@ -159,7 +159,7 @@ msgstr "Griffon"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:25
 #, no-wrap
 msgid "Cannon"
-msgstr "Canon"
+msgstr "Canons"
 
 #. 3: – changed to :
 #. type: Labeled list
@@ -206,13 +206,13 @@ msgstr "Pistoliers"
 #: en/revolution/modules/armies/pages/empire.adoc:27
 #, no-wrap
 msgid "Helblaster"
-msgstr "Canon Feu d’Enfer"
+msgstr "Canons Feu d’Enfer"
 
 #. type: Attribute :steam-tank:
 #: en/revolution/modules/armies/pages/empire.adoc:29
 #, no-wrap
 msgid "Steam Tank"
-msgstr "Tank à Vapeur"
+msgstr "Tanks à Vapeur"
 
 #. type: Attribute :war-altar:
 #: en/revolution/modules/armies/pages/empire.adoc:34

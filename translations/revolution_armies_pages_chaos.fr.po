@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-07-08 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos/fr/>\n"
@@ -232,10 +232,9 @@ msgstr "Dragons-Ogres"
 #. type: Attribute :chaos-spawn:
 #: en/revolution/modules/armies/pages/beastmen.adoc:28
 #: en/revolution/modules/armies/pages/chaos.adoc:31
-#, fuzzy, no-wrap
-#| msgid "Chaos spells"
+#, no-wrap
 msgid "Chaos Spawn"
-msgstr "Sorts du Chaos"
+msgstr "Enfants du Chaos"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:148
@@ -307,10 +306,9 @@ msgstr "Chaos"
 
 #. type: Attribute :chaos-warriors:
 #: en/revolution/modules/armies/pages/chaos.adoc:21
-#, fuzzy, no-wrap
-#| msgid "Chaos army selector"
+#, no-wrap
 msgid "Chaos Warriors"
-msgstr "Sélecteur d’Armée du Chaos"
+msgstr "Guerriers du Chaos"
 
 #. type: Attribute :chaos-marauders:
 #: en/revolution/modules/armies/pages/chaos.adoc:22

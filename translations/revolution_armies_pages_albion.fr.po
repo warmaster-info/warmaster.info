@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-07-08 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_albion/fr/>\n"
@@ -81,10 +81,9 @@ msgstr "Géant"
 #. type: Attribute :giant-eagles:
 #: en/revolution/modules/armies/pages/albion.adoc:26
 #: en/revolution/modules/armies/pages/high-elves.adoc:24
-#, fuzzy, no-wrap
-#| msgid "Giant Eagles can fly."
+#, no-wrap
 msgid "Giant Eagles"
-msgstr "Les Aigles Géants peuvent voler."
+msgstr "Aigles Géants"
 
 #. type: Attribute :fenbeast:
 #: en/revolution/modules/armies/pages/albion.adoc:27
@@ -142,10 +141,9 @@ msgstr ""
 #. type: Attribute :giant-eagle:
 #: en/revolution/modules/armies/pages/albion.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:30
-#, fuzzy, no-wrap
-#| msgid "Giant Eagles can fly."
+#, no-wrap
 msgid "Giant Eagle"
-msgstr "Les Aigles Géants peuvent voler."
+msgstr "Aigles Géants"
 
 #. type: Attribute :chariot:
 #: en/revolution/modules/armies/pages/albion.adoc:32

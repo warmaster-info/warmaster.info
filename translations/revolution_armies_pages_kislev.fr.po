@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-06 16:13+0200\n"
-"PO-Revision-Date: 2025-07-07 22:04+0000\n"
+"PO-Revision-Date: 2025-07-08 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_kislev/fr/>\n"
@@ -216,13 +216,13 @@ msgstr "Kossars"
 #: en/revolution/modules/armies/pages/kislev.adoc:23
 #, no-wrap
 msgid "Red Guard"
-msgstr "Garde Rouge"
+msgstr "Gardes Rouges"
 
 #. type: Attribute :axemen:
 #: en/revolution/modules/armies/pages/kislev.adoc:24
 #, no-wrap
 msgid "Axemen"
-msgstr "Bûcheron"
+msgstr "Bûcherons"
 
 #. type: Attribute :bears:
 #: en/revolution/modules/armies/pages/kislev.adoc:25
@@ -234,7 +234,7 @@ msgstr "Ours"
 #: en/revolution/modules/armies/pages/kislev.adoc:26
 #, no-wrap
 msgid "War Wagon"
-msgstr "Chariot de Guerre"
+msgstr "Chariots de Guerre"
 
 #. type: Attribute :shaman:
 #: en/revolution/modules/armies/pages/kislev.adoc:29
