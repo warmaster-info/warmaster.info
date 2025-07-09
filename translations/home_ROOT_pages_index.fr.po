@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-09 21:45+0200\n"
-"PO-Revision-Date: 2025-07-07 10:04+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2025-07-09 21:04+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "home_root_pages_index/fr/>\n"
 "Language: fr\n"
@@ -76,27 +76,21 @@ msgstr ""
 
 #. type: Plain text
 #: en/home/modules/ROOT/pages/index.adoc:16
-#, fuzzy
-#| msgid ""
-#| "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-"
-#| "revolution-rules-cover.webp[Warmaster Revolution Rulebook]]"
 msgid ""
 "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
 "rules-cover.webp[Warmaster Revolution Rulebook,width=2480,height=3508]]"
 msgstr ""
 "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
-"rules-cover.webp[Livre de Règles de Warmaster Revolution]]"
+"rules-cover.webp"
+"[Livre de Règles de Warmaster Revolution,width=2480,height=3508]]"
 
 #. type: Plain text
 #: en/home/modules/ROOT/pages/index.adoc:16
-#, fuzzy
-#| msgid ""
-#| "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
-#| "revolution-armies-cover.webp[Warmaster Revolution Armies]]"
 msgid ""
 "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
 "revolution-armies-cover.webp[Warmaster Revolution "
 "Armies,width=2486,height=3509]]"
 msgstr ""
 "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
-"revolution-armies-cover.webp[Armées de Warmaster Revolution]]"
+"revolution-armies-cover.webp"
+"[Armées de Warmaster Revolution,width=2486,height=3509]]"
