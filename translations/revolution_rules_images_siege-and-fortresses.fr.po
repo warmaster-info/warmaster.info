@@ -1,0 +1,131 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"PO-Revision-Date: 2025-07-10 01:17+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
+#: en/revolution/modules/rules/pages/flying-units.adoc:175
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
+#: en/revolution/modules/rules/pages/game-values.adoc:79
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
+#, no-wrap
+msgid "Characters"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/battlefield.svg:675
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2263
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2436
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2445
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2062
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1960
+#, no-wrap
+msgid "ATTACKER"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/battlefield.svg:684
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2481
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2090
+#, no-wrap
+msgid "DEFENDER"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/battle-for-the-tower.svg:1925
+#: en/revolution/modules/rules/images/battlefields/battle-for-the-tower.svg:1934
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2189
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2198
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2226
+#: en/revolution/modules/rules/images/battlefields/take-and-hold.svg:1903
+#: en/revolution/modules/rules/images/battlefields/take-and-hold.svg:1930
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2400
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2071
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1979
+#, no-wrap
+msgid "20 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2207
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2216
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2254
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2409
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2418
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2080
+#, no-wrap
+msgid "40 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2245
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1969
+#, no-wrap
+msgid "60 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/battering-ram-unit.svg:896
+#, no-wrap
+msgid "A unit with a battering ram"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/battering-ram-unit.svg:905
+#: en/revolution/modules/rules/images/siege-and-fortresses/siege-tower-unit.svg:815
+#, no-wrap
+msgid "The unit is arranged in"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/battering-ram-unit.svg:908
+#: en/revolution/modules/rules/images/siege-and-fortresses/siege-tower-unit.svg:818
+#, no-wrap
+msgid "column behind the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/battering-ram-unit.svg:911
+#, no-wrap
+msgid "battering ram."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/siege-tower-unit.svg:806
+#, no-wrap
+msgid "A unit with a siege tower"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/siege-tower-unit.svg:821
+#, no-wrap
+msgid "siege tower."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1988
+#, no-wrap
+msgid "70 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1998
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2008
+#, no-wrap
+msgid "Relief Force"
+msgstr ""

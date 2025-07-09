@@ -1,0 +1,569 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"PO-Revision-Date: 2025-07-10 01:17+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><g><text><tspan><tspan>
+#: en/revolution/modules/rules/images/combat/combat-engagement.svg:1537
+#, no-wrap
+msgid "Top:"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/combat-engagement.svg:1537
+#, no-wrap
+msgid " Two infantry units in combat."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan><tspan>
+#: en/revolution/modules/rules/images/combat/combat-engagement.svg:1542
+#, no-wrap
+msgid "Bottom:"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/combat-engagement.svg:1542
+#, no-wrap
+msgid " A unit of cavalry in combat with a unit of infantry."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/fall-back-corner.svg:749
+#, no-wrap
+msgid "The unit can fall back"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/fall-back-corner.svg:752
+#, no-wrap
+msgid "anywhere behind the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/fall-back-corner.svg:755
+#, no-wrap
+msgid "position shown."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/fall-back-line.svg:726
+#, no-wrap
+msgid "The unit can fall back anywhere"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/fall-back-line.svg:729
+#, no-wrap
+msgid "behind the line shown."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1499
+#, no-wrap
+msgid "The defeated unit loses a stand and retreats"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1508
+#, no-wrap
+msgid "The victorious unit pursues."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1518
+#, no-wrap
+msgid "In this example, the victorious unit pursues directly forward after the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1522
+#, no-wrap
+msgid "remaining enemy stands, with the right stand ‘sliding’ against the "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1526
+#, no-wrap
+msgid "enemy cavalry unit.  The leftmost victorious stand could be placed"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1530
+#, no-wrap
+msgid "into formation anywhere; it has been positioned as shown to"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1534
+#, no-wrap
+msgid "demonstrate how incidental contact can be used to deliberately"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/incidental-contact.svg:1538
+#, no-wrap
+msgid "bring other units into an engagement."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-direct.svg:1795
+#: en/revolution/modules/rules/images/combat/pursuit-indirect.svg:1765
+#, no-wrap
+msgid "The unit retreats 2 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-direct.svg:1804
+#: en/revolution/modules/rules/images/combat/pursuit-indirect.svg:1774
+#, no-wrap
+msgid "The victorious unit pursues"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-direct.svg:1813
+#: en/revolution/modules/rules/images/combat/pursuit-indirect.svg:1783
+#, no-wrap
+msgid "New position"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-direct.svg:1822
+#, no-wrap
+msgid "This diagram shows a typical direct pursuit move where two stands have pursued straight forward and the third has been placed "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-direct.svg:1825
+#, no-wrap
+msgid "back into formation.  Note the third pursuing stand could be placed anywhere the player wants – the position shown is merely one option."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-indirect.svg:1792
+#, no-wrap
+msgid "An indirect pursuit.  No pursuper can move ‘straight forward’ so the first pursuing stand is moved as for a charge.  In this case, the pursuing unit"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-indirect.svg:1795
+#, no-wrap
+msgid "lies to the defeated unit’s side so the first pursuer moves to the flank as shown.  The second pursuer can then move into formation as the player"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-indirect.svg:1798
+#, no-wrap
+msgid "wishes – the position shown is merely one example."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-maintain-contact.svg:1806
+#, no-wrap
+msgid "The victorious infantry defeat the enemy"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-maintain-contact.svg:1809
+#, no-wrap
+msgid "infantry and cavalry units"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-maintain-contact.svg:1818
+#, no-wrap
+msgid "The losing units retreat"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-maintain-contact.svg:1827
+#, no-wrap
+msgid "The victorious infantry pursue"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-maintain-contact.svg:1830
+#, no-wrap
+msgid "the losing infantry units."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-maintain-contact.svg:1839
+#, no-wrap
+msgid "In this situation, the pursuing infantry maintain contact with the enemy cavalry because they are touching corner-to-corner."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-supporting.svg:2517
+#, no-wrap
+msgid "The losing units retreat 2 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-supporting.svg:2526
+#, no-wrap
+msgid "The first victorious unit pursues"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-supporting.svg:2535
+#, no-wrap
+msgid "The second victorious unit"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-supporting.svg:2538
+#, no-wrap
+msgid "pursues to support."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-supporting.svg:2547
+#, no-wrap
+msgid "A supporting pursuit. The second victorious unit cannot see an enemy but can pursue into support."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/pursuit-supporting.svg:2550
+#, no-wrap
+msgid "Notice the right victorious stand touches a losing unit corner-to-corner and therefore fights in the following round."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-1.svg:986
+#, no-wrap
+msgid "The two stands are both"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-1.svg:989
+#, no-wrap
+msgid "touching the enemy – the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-1.svg:992
+#, no-wrap
+msgid "player who has lost the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-1.svg:995
+#, no-wrap
+msgid "combat can decide which "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-1.svg:998
+#, no-wrap
+msgid "of the stands to use to"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-1.svg:1001
+#, no-wrap
+msgid "determine the retreat."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1107
+#, no-wrap
+msgid "This defeated"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1110
+#, fuzzy, no-wrap
+#| msgid "Retreats"
+msgid "unit retreats"
+msgstr "Replis"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1113
+#, no-wrap
+msgid "to its rear."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1122
+#, no-wrap
+msgid "This defeated unit retreats to its flank."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1131
+#, no-wrap
+msgid "In the two examples, the defeated units retreat"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1134
+#, no-wrap
+msgid "directly away from their enemy – in straightforward"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-2.svg:1137
+#, no-wrap
+msgid "cases such as these, the direction of retreat is easily determined."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1547
+#, no-wrap
+msgid "The top unit retreats to its"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1550
+#, no-wrap
+msgid "left and the middle unit"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1553
+#, no-wrap
+msgid "retreats to its rear."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1562
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1583
+#, no-wrap
+msgid "These stands"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1565
+#, no-wrap
+msgid "move left."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1574
+#, no-wrap
+msgid "This stand retreats"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1586
+#, no-wrap
+msgid "are detroyed."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1595
+#, no-wrap
+msgid "Here is a blocked retreat in two stages."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1598
+#, no-wrap
+msgid "On the left is shown the initial position"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1601
+#, no-wrap
+msgid "and the retreat paths for each retreating"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1604
+#, no-wrap
+msgid "unit."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1610
+#, no-wrap
+msgid "On the right is the result of a retreat of"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1613
+#, no-wrap
+msgid "4 cm.  The rear defeated unit moved to"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1616
+#, no-wrap
+msgid "the side and away from its contacted edge"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1619
+#, no-wrap
+msgid "– creating a space for one stand from the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1622
+#, no-wrap
+msgid "front unit to move back.  In practise, a "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1625
+#, no-wrap
+msgid "retreat of such a large distance would "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1628
+#, no-wrap
+msgid "result in casualties, but we've left all"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-blocked.svg:1631
+#, no-wrap
+msgid "stands in place to illustrate the process."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-incidental-contact.svg:1060
+#, no-wrap
+msgid "These stands slide along the enemy"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/retreat-incidental-contact.svg:1063
+#, no-wrap
+msgid "line contacting the right edge."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/stands-touching.svg:1037
+#, no-wrap
+msgid "Where a stand is touching two or more enemy units"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/stands-touching.svg:1040
+#, no-wrap
+msgid "(as with stand B) the player can decide which to attack."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1723
+#, no-wrap
+msgid "This unit is fighting"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1726
+#, no-wrap
+msgid "– all its stands"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1729
+#, fuzzy, no-wrap
+#| msgid "Attack"
+msgid "can attack"
+msgstr "Attaque"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1738
+#, no-wrap
+msgid "This unit has charged into"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1741
+#, no-wrap
+msgid "position as shown."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1750
+#, no-wrap
+msgid "This stand is fighting –"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1753
+#, no-wrap
+msgid "it touches corner-to-corner."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1762
+#, no-wrap
+msgid "This stand is"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1765
+#, no-wrap
+msgid "supporting the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1768
+#, no-wrap
+msgid "stand to its left."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1777
+#, no-wrap
+msgid "This unit is supporting"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1780
+#, no-wrap
+msgid "– each of its stands can"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1783
+#, no-wrap
+msgid "support the stand in front."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1792
+#, no-wrap
+msgid "This stand is supporting the "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1795
+#, no-wrap
+msgid "stand in front of it."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1804
+#, no-wrap
+msgid "In this examplpe, all supporting stands are"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1807
+#, no-wrap
+msgid "marked with an asterisk.  Notice how unit A"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/combat/supporting-troops.svg:1810
+#, no-wrap
+msgid "has both a stand fighting and a stand supporting."
+msgstr ""

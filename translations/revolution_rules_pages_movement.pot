@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-07 18:39+0200\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,9 +41,9 @@ msgstr ""
 #. // flank (in the illustrated example)
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:105
-#: en/revolution/modules/rules/pages/combat.adoc:561
-#: en/revolution/modules/rules/pages/combat.adoc:1242
-#: en/revolution/modules/rules/pages/combat.adoc:1245
+#: en/revolution/modules/rules/pages/combat.adoc:557
+#: en/revolution/modules/rules/pages/combat.adoc:1240
+#: en/revolution/modules/rules/pages/combat.adoc:1243
 #: en/revolution/modules/rules/pages/confusion.adoc:181
 #: en/revolution/modules/rules/pages/confusion.adoc:203
 #: en/revolution/modules/rules/pages/game-values.adoc:335
@@ -85,7 +85,7 @@ msgstr ""
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:158
 #: en/revolution/modules/rules/pages/movement.adoc:525
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:231
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:228
 #, no-wrap
 msgid "Forming a battle line"
 msgstr ""
@@ -93,7 +93,7 @@ msgstr ""
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:165
 #: en/revolution/modules/rules/pages/movement.adoc:560
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:263
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:260
 #, no-wrap
 msgid "Contact with other enemy"
 msgstr ""
@@ -148,14 +148,14 @@ msgid "Enveloping charge"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:596
+#: en/revolution/modules/rules/pages/combat.adoc:592
 #: en/revolution/modules/rules/pages/movement.adoc:582
 #, no-wrap
 msgid "Supporting charges"
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/combat.adoc:1162
+#: en/revolution/modules/rules/pages/combat.adoc:1160
 #: en/revolution/modules/rules/pages/command.adoc:522
 #: en/revolution/modules/rules/pages/flying-units.adoc:201
 #: en/revolution/modules/rules/pages/movement.adoc:328

@@ -35,14 +35,24 @@ echo -e "${RED}Generate po4a.conf for document translation.${NC}"
 cd en
 echo "[po4a_langs] $languages" > ../po4a.conf
 echo '[po4a_paths] translations/$master.pot $lang:translations/$master.$lang.po' >> ../po4a.conf
-echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0 -o compat=asciidoctor -o noimagetargets"' >> ../po4a.conf
+echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0"' >> ../po4a.conf
+echo '[po4a_alias:asciidoc_wm] asciidoc opt:"-o compat=asciidoctor -o noimagetargets"' >> ../po4a.conf
 echo >> ../po4a.conf
 for i in **/*.adoc; do
     component=$(echo $i | sed s/modules[/]//)
     component=$(dirname $component | tr / _)
     file=$(basename $i .adoc)
     echo $i → $component, $file
-    echo "[type:asciidoc] en/$i \$lang:\$lang/$i pot=${component}_${file}" >> ../po4a.conf
+    echo "[type:asciidoc_wm] en/$i \$lang:\$lang/$i pot=${component}_${file}" >> ../po4a.conf
+done
+echo >> ../po4a.conf
+# Translate SVG images, but combine into one translation component for each chapter.
+for i in **/*.svg; do
+    component=$(echo $i | sed s/modules[/]//)
+    component=$(dirname $component | tr / _)
+    file=$(basename $i .adoc)
+    echo $i → $component, $file
+    echo "[type:xml] en/$i \$lang:\$lang/$i pot=${component}" >> ../po4a.conf
 done
 cd ..
 
@@ -85,11 +95,11 @@ for i in translations/**/*.pot; do
     if [[ -z "$git_status" ]]; then
 	echo "File unchanged"
 	true
-    elif [[ $(echo $git_status | awk '{print $1}') == '??' ]]; then
+    elif [[ $(echo "$git_status" | awk '{print $1}') == '??' ]]; then
 	echo "New file $i"
 	git add $i
 	commit=yes
-    elif [[ $(echo $git_status | awk '{print $1}') == 'D' ]]; then
+    elif [[ $(echo "$git_status" | awk '{print $1}') == 'D' ]]; then
         # This probably doesn't work
 	echo "Deleted file $i"
 	echo "WARNING: translation source for $i may have been removed"

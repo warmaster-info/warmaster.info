@@ -1,0 +1,65 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"PO-Revision-Date: 2025-07-10 01:17+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-1.svg:1047
+#, no-wrap
+msgid "Brigade received an order"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-3.svg:1046
+#, no-wrap
+msgid "Units C &amp; B can see enemy 2."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-3.svg:1050
+#, no-wrap
+msgid "Unit B can no longer see enemy 1."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-3.svg:1054
+#, no-wrap
+msgid "Unit D can see nothing."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-4.svg:1133
+#, no-wrap
+msgid "Units B &amp; D can now move, no other"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-4.svg:1136
+#, no-wrap
+msgid "charges are possible.  If they do so they"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-4.svg:1139
+#, no-wrap
+msgid "must finish their moves touching – as"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/command/charge-from-brigade-4.svg:1142
+#, no-wrap
+msgid "they are moving under brigade orders."
+msgstr ""

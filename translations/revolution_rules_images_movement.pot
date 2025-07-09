@@ -1,0 +1,454 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-10 01:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:20
+#: en/revolution/modules/rules/pages/game-values.adoc:23
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1169
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1184
+#, no-wrap
+msgid "Stands"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1071
+#, no-wrap
+msgid "Charge blocked!"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1080
+#: en/revolution/modules/rules/images/movement/charge-move-1.svg:1282
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1373
+#: en/revolution/modules/rules/images/movement/zone-cavalry.svg:791
+#: en/revolution/modules/rules/images/movement/zone-infantry.svg:814
+#, no-wrap
+msgid "Front zone"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1089
+#, no-wrap
+msgid "Impassable"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1092
+#, no-wrap
+msgid "terrain"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1101
+#, no-wrap
+msgid "There must be at least 1 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1104
+#, no-wrap
+msgid "of edge for the charging"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-blocked.svg:1107
+#, no-wrap
+msgid "stand to contact."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-1.svg:1267
+#, no-wrap
+msgid "Charging units are"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-1.svg:1270
+#: en/revolution/modules/rules/images/movement/maximise-frontage-1.svg:892
+#, no-wrap
+msgid "placed against the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-1.svg:1273
+#, no-wrap
+msgid "indicated edge."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-1.svg:1291
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1382
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1415
+#: en/revolution/modules/rules/images/movement/zone-cavalry.svg:809
+#: en/revolution/modules/rules/images/movement/zone-cavalry.svg:818
+#: en/revolution/modules/rules/images/movement/zone-infantry.svg:832
+#: en/revolution/modules/rules/images/movement/zone-infantry.svg:841
+#, no-wrap
+msgid "Flank zone"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-1.svg:1300
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1391
+#: en/revolution/modules/rules/images/movement/zone-cavalry.svg:800
+#: en/revolution/modules/rules/images/movement/zone-infantry.svg:823
+#, no-wrap
+msgid "Rear zone"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1400
+#, no-wrap
+msgid "Units divided over two"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1403
+#, no-wrap
+msgid "zones count as in the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/charge-move-2.svg:1406
+#, no-wrap
+msgid "zone they mostly occupy"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:936
+#, no-wrap
+msgid "If the closest visible stand’s"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:939
+#, no-wrap
+msgid "indicated edge is covered"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:942
+#, no-wrap
+msgid "consider the next closest stand."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:951
+#, no-wrap
+msgid "This cavalry stand cannot"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:954
+#, no-wrap
+msgid "charge to the front of the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:957
+#, no-wrap
+msgid "closest visible enemy stand"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:960
+#, no-wrap
+msgid "because of a friendly infantry"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:963
+#, no-wrap
+msgid "stand engaged in combat."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:972
+#, no-wrap
+msgid "The charger is placed"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:975
+#, no-wrap
+msgid "against the next"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/closest-visible-stand.svg:978
+#, no-wrap
+msgid "closest stand."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/enveloping-charge.svg:1728
+#, no-wrap
+msgid "1. The unit charges enemy infantry in the flank. "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/enveloping-charge.svg:1731
+#, no-wrap
+msgid "    Form a battle line as usual."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/enveloping-charge.svg:1743
+#, no-wrap
+msgid "2. The charging unit overlaps using stands that are not touching."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/enveloping-charge.svg:1752
+#, no-wrap
+msgid "Note that an envelopment can potentially bring charging"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/enveloping-charge.svg:1755
+#, no-wrap
+msgid "stands into the firing arc of enemy stands that have not"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/enveloping-charge.svg:1758
+#, no-wrap
+msgid "already shot at the charger."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1447
+#, no-wrap
+msgid "The path of the evading unit takes"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1450
+#, no-wrap
+msgid "it through an unengaged friendly"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1453
+#, no-wrap
+msgid "unit.  The unit that has been burst"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1456
+#, no-wrap
+msgid "through becomes confused. This"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1459
+#, no-wrap
+msgid "happens if the stands overlap as"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1462
+#, no-wrap
+msgid "the evader moves, even if they do"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1465
+#, no-wrap
+msgid "so only partially."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1474
+#, no-wrap
+msgid "The burst through friendly"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1477
+#, no-wrap
+msgid "unit is confused."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1486
+#, no-wrap
+msgid "The unit evades along the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1489
+#, no-wrap
+msgid "path in line with the closest"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1492
+#, no-wrap
+msgid "stand."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1501
+#, no-wrap
+msgid "The two remaining stands are positioned"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/evade-burst-through.svg:1504
+#, no-wrap
+msgid "as required to complete the evasion."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/irregular-formations.svg:892
+#, no-wrap
+msgid "The first stand is positioned"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/irregular-formations.svg:895
+#, no-wrap
+msgid "as usual."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/irregular-formations.svg:898
+#, no-wrap
+msgid "Note that the remaining stands"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/irregular-formations.svg:901
+#, no-wrap
+msgid "maximise contact because"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/irregular-formations.svg:904
+#, no-wrap
+msgid "they have enemy stands"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/irregular-formations.svg:907
+#, no-wrap
+msgid "to their front."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-1.svg:889
+#, no-wrap
+msgid "The charging stand is"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-1.svg:895
+#, no-wrap
+msgid "closest enemy"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:884
+#, no-wrap
+msgid "Any remaining stands are"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:887
+#, no-wrap
+msgid "placed one at a time to"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:890
+#, no-wrap
+msgid "make a battle line – the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:893
+#, no-wrap
+msgid "stands must be placed as"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:896
+#, no-wrap
+msgid "shown because this is the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:899
+#, no-wrap
+msgid "only way they can"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/maximise-frontage-2.svg:902
+#, no-wrap
+msgid "maximise their frontage."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1157
+#, no-wrap
+msgid "Both units are in"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1160
+#, no-wrap
+msgid "the front zone."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1172
+#, no-wrap
+msgid "placed"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1175
+#, no-wrap
+msgid "behind"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1187
+#, no-wrap
+msgid "staggered"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1190
+#, no-wrap
+msgid "back"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1199
+#, no-wrap
+msgid "If a unit has insufficient move to form a battle line"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1202
+#, no-wrap
+msgid "stands can be placed behind or staggered back."
+msgstr ""

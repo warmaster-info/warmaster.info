@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 16:13+0200\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,7 +95,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/skaven.adoc:262
 #: en/revolution/modules/armies/pages/skaven.adoc:279
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:183
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:194
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:245
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:179
@@ -147,7 +147,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/daemons.adoc:239
 #: en/revolution/modules/armies/pages/lizardmen.adoc:250
 #: en/revolution/modules/armies/pages/skaven.adoc:269
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:267
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:260
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -589,27 +589,15 @@ msgid ""
 "tomb!"
 msgstr ""
 
-#. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:251
-msgid "Doom and Despair prevents a unit from performing a supporting charge,"
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:255
-msgid ""
-"Doom and Despair doesn't prevent a unit from moving into a supporting "
-"position with an order."
-msgstr ""
-
 #. type: Title ===
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:257
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:250
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:242
 #, no-wrap
 msgid "Death Bolt"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:263
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:256
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:248
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
@@ -617,7 +605,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:272
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:265
 msgid ""
 "The Death Bolt is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "

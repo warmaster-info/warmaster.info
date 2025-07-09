@@ -1,0 +1,158 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"PO-Revision-Date: 2025-07-10 01:17+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2272
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2299
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-10.svg:657
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1116
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-2.svg:1126
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-3.svg:1168
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-4.svg:1170
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-5.svg:954
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-6.svg:641
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-7.svg:641
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-8.svg:641
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-9.svg:657
+#, no-wrap
+msgid "A"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2281
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2290
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1124
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-2.svg:1134
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-3.svg:1176
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-4.svg:1178
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-5.svg:962
+#, no-wrap
+msgid "B"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-10.svg:665
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1132
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-2.svg:1142
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-3.svg:1184
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-4.svg:1186
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-5.svg:970
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-6.svg:649
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-7.svg:649
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-8.svg:649
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-9.svg:665
+#, no-wrap
+msgid "C"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-10.svg:673
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1140
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-2.svg:1150
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-3.svg:1192
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-4.svg:1194
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-5.svg:978
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-6.svg:657
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-7.svg:657
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-8.svg:657
+#: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-9.svg:673
+#, no-wrap
+msgid "D"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/line-of-sight-flank.svg:72
+#, no-wrap
+msgid "The cavalry charging to the flank"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/line-of-sight-flank.svg:76
+#, no-wrap
+msgid "is not in sight of any of the"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/line-of-sight-flank.svg:80
+#, no-wrap
+msgid "infantry stands."
+msgstr ""
+
+#. type: Content of: <svg><text><tspan><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-illegal.svg:32
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple-illegal.svg:55
+#, no-wrap
+msgid "The charging cavalry unit has not"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-illegal.svg:35
+#, no-wrap
+msgid "maximised frontage."
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-illegal.svg:41
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple-illegal.svg:71
+#, no-wrap
+msgid "This charge is illegal."
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple-illegal.svg:59
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple.svg:59
+#, no-wrap
+msgid "maximised frontage against"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple-illegal.svg:63
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple.svg:63
+#, no-wrap
+msgid "both enemy infantry units."
+msgstr ""
+
+#. type: Content of: <svg><text><tspan><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-multiple.svg:55
+#, no-wrap
+msgid "The charging cavalry unit will"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-original.svg:55
+#, no-wrap
+msgid "The charging unit will maximise frontage against"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/maximise-frontage-original.svg:59
+#, no-wrap
+msgid "the unit it originally charged when able to do so."
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/pivot.svg:116
+#, no-wrap
+msgid "10cm"
+msgstr ""
+
+#. type: Content of: <svg><text><tspan>
+#: en/revolution/modules/rules/images/questions-and-answers/pivot.svg:201
+#, no-wrap
+msgid "4½cm"
+msgstr ""

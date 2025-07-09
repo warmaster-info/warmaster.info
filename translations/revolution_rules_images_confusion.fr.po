@@ -1,0 +1,174 @@
+# French translations for PACKAGE package
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"PO-Revision-Date: 2025-07-10 01:17+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1726
+#, no-wrap
+msgid "Infantry unit A retreats."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1732
+#, no-wrap
+msgid "Infantry unit B is entirely within the path of unit A."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1738
+#, no-wrap
+msgid "Unit B makes way for unit A by moving back."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1741
+#, no-wrap
+msgid "All stands of unit B may be rearranged and placed"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1744
+#, no-wrap
+msgid "to support the stands of unit A."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1753
+#, fuzzy, no-wrap
+#| msgid "Retreats"
+msgid "Unit A retreats"
+msgstr "Replis"
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1762
+#, no-wrap
+msgid "Unit A final position"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1771
+#, no-wrap
+msgid "Unit B final position"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/move-back.svg:1781
+#, no-wrap
+msgid "Unit B makes way"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2767
+#, no-wrap
+msgid "Unit 1 has been forced to retreat but there is a "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2770
+#, no-wrap
+msgid "friendly cavalry unit (2) and infantry unit (3) in"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2773
+#, no-wrap
+msgid "its way. These two units have to move aside to"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2776
+#, no-wrap
+msgid "allow unit 1 to retreat."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2782
+#, no-wrap
+msgid "Unit 2 is entirely in the path of unit 1.  The player"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2785
+#, no-wrap
+msgid "moves stand A the shortest distance out of the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2788
+#, no-wrap
+msgid "retreating unit’s path and then rearranges the rest"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2791
+#, no-wrap
+msgid "of the unit around it."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2800
+#, no-wrap
+msgid "Only stand B in unit 3 is in the path of the retreating"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2803
+#, no-wrap
+msgid "unit.  So the player only has to rearrange the position"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2806
+#, no-wrap
+msgid "of stand B, the other two stands remain stationary."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2812
+#, no-wrap
+msgid "Note that in the case of the infantry unit stand B could"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2815
+#, no-wrap
+msgid "have been placed into a supporting position or any"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2818
+#, no-wrap
+msgid "other formation – it need not necessarily maintain the"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2821
+#, no-wrap
+msgid "line formation.  Similarly, apart from cavalry stand A,"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2824
+#, no-wrap
+msgid "the remaining cavalry stands could have been placed"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/confusion/moving-aside.svg:2827
+#, no-wrap
+msgid "into any formation around A."
+msgstr ""

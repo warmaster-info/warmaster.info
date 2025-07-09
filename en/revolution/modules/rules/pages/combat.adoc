@@ -295,8 +295,6 @@ following list of priorities:
   attacks are not allowed where there is
   edge contact.
 
-image::combat/dark-elves.webp[width=2079,height=623]
-
 [#attack-modifiers]
 === Attack modifiers
 
@@ -382,8 +380,6 @@ terrain. See the section on xref:confusion.adoc[Confusion].
 Attack modifiers can potentially reduce a stand’s Attack
 to zero. If this happens, then a unit always rolls one
 Attack dice regardless.
-
-image::combat/harpy-hero.webp[width=765,height=1069]
 
 [#how-to-calculate-damage]
 === How to calculate damage
@@ -598,6 +594,8 @@ interlinked via the supporting unit.
 [.moved]
 → Moved to xref:movement.adoc#supporting-charges[Movement, Supporting charges].
 
+image::combat/harpy-hero.webp[width=765,height=1069]
+
 [#retreats]
 == Retreats
 
@@ -749,6 +747,8 @@ image::combat/retreat-incidental-contact.svg[width=1324,height=1028,id=retreat-i
 An artillery unit which is forced to retreat is
 automatically destroyed. Its weapons are overrun and the
 crew massacred or scattered beyond hope of recovery.
+
+image::combat/dark-elves.webp[width=2079,height=623]
 
 [.h-bo5a]
 [#winners]
@@ -1041,8 +1041,6 @@ sight, for example. A unit that cannot pursue a retreating
 enemy must either stand or fall back. The unit is not
 allowed to <<advance>> instead.
 
-image::combat/goblin-wolves.webp[width=2089,height=287]
-
 [#pursuit-and-destroyed-enemy]
 === Pursuit and destroyed enemy
 
@@ -1081,6 +1079,8 @@ retreated from the same combat. This represents the fact
 that combatants would actually move together without
 one side necessarily losing sight of the other as they
 retreat.
+
+image::combat/goblin-wolves.webp[width=2089,height=287]
 
 [#advance]
 == Advance
@@ -1125,8 +1125,6 @@ even if they are a troop type that would not normally be
 allowed to pursue, such as infantry fighting cavalry or
 chariots.
 
-image::combat/dwarf-slayers.webp[width=2200,height=384]
-
 Although the move is essentially the same as a charge, no
 charge bonus of any kind applies to advances: this takes
 into account a measure of exhaustion resulting from
@@ -1165,6 +1163,8 @@ If the enemy is destroyed in the first round of
 combat, the advancing unit gets a charge bonus as
 per normal charge.
 ****
+
+image::combat/dwarf-slayers.webp[width=2200,height=384]
 
 [#fall-backs]
 == Fall backs
@@ -1222,8 +1222,6 @@ and will fight in the following round. Units that fall back
 but fail to break contact are automatically confused by
 dint of being within 1cm of enemy.
 
-image::combat/village.webp[width=2075,height=1049]
-
 [#moving-back]
 === Moving back
 
@@ -1244,6 +1242,8 @@ image::combat/fall-back-line.svg[width=1324,height=920,id=fall-back-line]
 
 .{empty}
 image::combat/fall-back-corner.svg[width=1324,height=920,id=fall-back-corner]
+
+image::combat/village.webp[width=2075,height=1049]
 
 [#unresolved-combats]
 == Unresolved combats
