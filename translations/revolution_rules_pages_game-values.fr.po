@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:56+0200\n"
+"POT-Creation-Date: 2025-07-10 01:20+0200\n"
 "PO-Revision-Date: 2025-07-06 12:37+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -65,7 +65,7 @@ msgstr ""
 #. type: Title ===
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:118
 #: en/revolution/modules/armies/partials/table-attributes.adoc:16
-#: en/revolution/modules/rules/pages/combat.adoc:406
+#: en/revolution/modules/rules/pages/combat.adoc:402
 #: en/revolution/modules/rules/pages/game-values.adoc:233
 #: en/revolution/modules/rules/pages/shooting.adoc:221
 #, no-wrap
@@ -104,19 +104,22 @@ msgstr "Min/max"
 msgid "Special"
 msgstr "Spécial"
 
-#. type: Title ==
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:20
 #: en/revolution/modules/rules/pages/game-values.adoc:23
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1169
+#: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1184
 #, no-wrap
 msgid "Stands"
 msgstr ""
 
-#. type: Title ==
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
 #: en/revolution/modules/rules/pages/flying-units.adoc:175
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:79
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
 #, no-wrap
 msgid "Characters"
 msgstr ""
@@ -126,9 +129,9 @@ msgstr ""
 #. // flank (in the illustrated example)
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:105
-#: en/revolution/modules/rules/pages/combat.adoc:561
-#: en/revolution/modules/rules/pages/combat.adoc:1242
-#: en/revolution/modules/rules/pages/combat.adoc:1245
+#: en/revolution/modules/rules/pages/combat.adoc:557
+#: en/revolution/modules/rules/pages/combat.adoc:1240
+#: en/revolution/modules/rules/pages/combat.adoc:1243
 #: en/revolution/modules/rules/pages/confusion.adoc:181
 #: en/revolution/modules/rules/pages/confusion.adoc:203
 #: en/revolution/modules/rules/pages/game-values.adoc:335
@@ -285,7 +288,7 @@ msgid "An Empire cavalry unit"
 msgstr ""
 
 #.  Replace with a monster or artillery
-#.  image::game-values/cavalry-2.webp[]
+#.  image::game-values/cavalry-2.webp[width=979,height=775]
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:121
 msgid ""

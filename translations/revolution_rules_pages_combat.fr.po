@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 11:49+0200\n"
+"POT-Creation-Date: 2025-07-10 01:28+0200\n"
 "PO-Revision-Date: 2025-07-04 15:04+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -21,7 +21,7 @@ msgstr ""
 #. type: Title ===
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:118
 #: en/revolution/modules/armies/partials/table-attributes.adoc:16
-#: en/revolution/modules/rules/pages/combat.adoc:406
+#: en/revolution/modules/rules/pages/combat.adoc:402
 #: en/revolution/modules/rules/pages/game-values.adoc:233
 #: en/revolution/modules/rules/pages/shooting.adoc:221
 #, no-wrap
@@ -176,9 +176,9 @@ msgstr ""
 #. // flank (in the illustrated example)
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:105
-#: en/revolution/modules/rules/pages/combat.adoc:561
-#: en/revolution/modules/rules/pages/combat.adoc:1242
-#: en/revolution/modules/rules/pages/combat.adoc:1245
+#: en/revolution/modules/rules/pages/combat.adoc:557
+#: en/revolution/modules/rules/pages/combat.adoc:1240
+#: en/revolution/modules/rules/pages/combat.adoc:1243
 #: en/revolution/modules/rules/pages/confusion.adoc:181
 #: en/revolution/modules/rules/pages/confusion.adoc:203
 #: en/revolution/modules/rules/pages/game-values.adoc:335
@@ -278,7 +278,7 @@ msgstr ""
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:158
 #: en/revolution/modules/rules/pages/movement.adoc:525
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:231
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:228
 #, no-wrap
 msgid "Forming a battle line"
 msgstr ""
@@ -292,7 +292,7 @@ msgstr ""
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:165
 #: en/revolution/modules/rules/pages/movement.adoc:560
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:263
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:260
 #, no-wrap
 msgid "Contact with other enemy"
 msgstr ""
@@ -495,14 +495,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:301
+#: en/revolution/modules/rules/pages/combat.adoc:299
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:70
 #, no-wrap
 msgid "Attack modifiers"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:306
+#: en/revolution/modules/rules/pages/combat.adoc:304
 msgid ""
 "The *Attack value* of a stand is modified by tactical factors as shown "
 "below. These represent different tactical situations by means of bonuses or "
@@ -510,14 +510,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:311
+#: en/revolution/modules/rules/pages/combat.adoc:309
 #, no-wrap
 msgid "Charging against enemy in the open"
 msgstr ""
 
 #.  Extra space e.g.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:320
+#: en/revolution/modules/rules/pages/combat.adoc:318
 msgid ""
 "This bonus applies to all stands where a unit charges into combat. The bonus "
 "only applies in the first combat round of an engagement. The bonus does not "
@@ -527,13 +527,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:322
+#: en/revolution/modules/rules/pages/combat.adoc:320
 #, no-wrap
 msgid "Monster/chariot charging"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:328
+#: en/revolution/modules/rules/pages/combat.adoc:326
 msgid ""
 "This bonus is applied to Monster and Chariot stands charging in addition to "
 "the basic charging bonus. This means that Monsters and Chariots receive a "
@@ -541,13 +541,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:330
+#: en/revolution/modules/rules/pages/combat.adoc:328
 #, no-wrap
 msgid "Pursuit attack"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:338
+#: en/revolution/modules/rules/pages/combat.adoc:336
 msgid ""
 "This bonus applies to stands from pursuing units that won the previous round "
 "of combat and are attacking enemy units that retreated from the same "
@@ -556,13 +556,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:340
+#: en/revolution/modules/rules/pages/combat.adoc:338
 #, no-wrap
 msgid "Pursuit attack per full 3cm"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:349
+#: en/revolution/modules/rules/pages/combat.adoc:347
 msgid ""
 "This bonus applies to stands whose units pursue enemies that have retreated "
 "by 3cm or more in the previous round of the same engagement. The bonus is "
@@ -572,13 +572,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:351
+#: en/revolution/modules/rules/pages/combat.adoc:349
 #, no-wrap
 msgid "Fighting terrifying enemy"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:360
+#: en/revolution/modules/rules/pages/combat.adoc:358
 msgid ""
 "This penalty applies to all individual stands which are touching at least "
 "one stand of terrifying enemy.  Terrifying enemy include especially scary "
@@ -588,13 +588,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:362
+#: en/revolution/modules/rules/pages/combat.adoc:360
 #, no-wrap
 msgid "Enemy facing own side or rear"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:370
+#: en/revolution/modules/rules/pages/combat.adoc:368
 msgid ""
 "This penalty applies to individual stands which have an enemy stand’s front "
 "edge or front corner touching their own side edge, rear edge or rear corner. "
@@ -603,13 +603,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:372
+#: en/revolution/modules/rules/pages/combat.adoc:370
 #, no-wrap
 msgid "Confused"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:378
+#: en/revolution/modules/rules/pages/combat.adoc:376
 msgid ""
 "This penalty applies to all stands in a confused unit.  Units can become "
 "confused as a result of missile fire or by moving into other friendly units "
@@ -617,26 +617,26 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/combat.adoc:380
+#: en/revolution/modules/rules/pages/combat.adoc:378
 #, no-wrap
 msgid "The last ditch dice"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:385
+#: en/revolution/modules/rules/pages/combat.adoc:383
 msgid ""
 "Attack modifiers can potentially reduce a stand’s Attack to zero. If this "
 "happens, then a unit always rolls one Attack dice regardless."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:389
+#: en/revolution/modules/rules/pages/combat.adoc:385
 #, no-wrap
 msgid "How to calculate damage"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:395
+#: en/revolution/modules/rules/pages/combat.adoc:391
 msgid ""
 "To work out the damage inflicted by a unit in combat, begin by adding up the "
 "total Attack value of its fighting stands. For example, a unit of three "
@@ -644,7 +644,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:401
+#: en/revolution/modules/rules/pages/combat.adoc:397
 msgid ""
 "The total Attack value is the number of dice rolled to determine how many "
 "hits are scored on the enemy. The minimum dice roll required for a hit is "
@@ -653,14 +653,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:404
+#: en/revolution/modules/rules/pages/combat.adoc:400
 msgid ""
 "If enemies are in defended or fortified positions, the roll needed to hit "
 "will be 5+ and 6 respectively. See <<defended-fortified-troops>>."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:418
+#: en/revolution/modules/rules/pages/combat.adoc:414
 msgid ""
 "As already described for shooting, if a unit has armour then the number of "
 "hits scored by the enemy might be reduced. A unit’s Armour value is "
@@ -672,14 +672,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:422
+#: en/revolution/modules/rules/pages/combat.adoc:418
 #: en/revolution/modules/rules/pages/command.adoc:481
 #, no-wrap
 msgid "Casualties"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:429
+#: en/revolution/modules/rules/pages/combat.adoc:425
 msgid ""
 "A stand can take a number of hits before it is destroyed, as described in "
 "the xref:shooting.adoc#removing-casualties[Shooting rules]. This varies "
@@ -688,7 +688,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:444
+#: en/revolution/modules/rules/pages/combat.adoc:440
 msgid ""
 "Record hits suffered by each unit during the combat round. Once the round is "
 "complete, units that have suffered hits equal to or greater than their Hits "
@@ -703,7 +703,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:454
+#: en/revolution/modules/rules/pages/combat.adoc:450
 msgid ""
 "Where a unit takes too few hits to destroy a stand or if it suffers enough "
 "to remove a stand with some remaining, record any outstanding hits. This is "
@@ -715,7 +715,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:462
+#: en/revolution/modules/rules/pages/combat.adoc:458
 msgid ""
 "At the end of the Combat phase, odd hits are discounted from units that are "
 "no longer engaged. Hits are only recorded from one turn to the next for "
@@ -725,7 +725,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:470
+#: en/revolution/modules/rules/pages/combat.adoc:466
 msgid ""
 "Note that it is important to record hits through the Combat phase and only "
 "discount outstanding hits once all engagements are finished. This is because "
@@ -735,13 +735,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:476
+#: en/revolution/modules/rules/pages/combat.adoc:472
 #, no-wrap
 msgid "Combat results"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:480
+#: en/revolution/modules/rules/pages/combat.adoc:476
 msgid ""
 "After [.bo5a]#all# units have attacked it is time to work out the result. If "
 "one side is destroyed then the combat is automatically won by the survivor, "
@@ -749,7 +749,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:484
+#: en/revolution/modules/rules/pages/combat.adoc:480
 msgid ""
 "In cases where a unit has been struck with more hits than it can actually "
 "take (for example a unit with a total of nine hits might suffer twelve) then "
@@ -758,20 +758,20 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:489
+#: en/revolution/modules/rules/pages/combat.adoc:485
 #, no-wrap
 msgid "Hits Equal – Draw!"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:492
+#: en/revolution/modules/rules/pages/combat.adoc:488
 msgid ""
 "If both sides score the same number of hits, the result is a draw and both "
 "sides must *fall back.*"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:497
+#: en/revolution/modules/rules/pages/combat.adoc:493
 msgid ""
 "To find out how far a unit falls back, roll three dice. The unit can fall "
 "back up to the total score of the dice. For example, on a roll of 2, 4 and 6 "
@@ -781,7 +781,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:501
+#: en/revolution/modules/rules/pages/combat.adoc:497
 msgid ""
 "The exception to the fall back rule is that defended or fortified units can "
 "stand their ground instead of falling back. Players may decide to fall back "
@@ -790,18 +790,18 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:504
+#: en/revolution/modules/rules/pages/combat.adoc:500
 #, no-wrap
 msgid "One Side Scores More Hits – Win!"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:507
+#: en/revolution/modules/rules/pages/combat.adoc:503
 msgid "If one side scores more hits than the other, it wins the combat round."
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:512
+#: en/revolution/modules/rules/pages/combat.adoc:508
 msgid ""
 "The loser must retreat 1cm for each hit taken in excess of hits inflicted. "
 "So if one side scores three hits and the other scores one hit, the second "
@@ -810,7 +810,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:515
+#: en/revolution/modules/rules/pages/combat.adoc:511
 msgid ""
 "[.bo5a]#The winner# has a choice of what to do [.bo5a]#once the enemy has "
 "retreated#. Victorious units can fall back, stand their ground or pursue "
@@ -819,20 +819,20 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:517
+#: en/revolution/modules/rules/pages/combat.adoc:513
 #, no-wrap
 msgid "*Fall Back.* The victorious unit falls back up to 3D6cm (see <<fall-backs>>). The combat is over.\n"
 msgstr ""
 
 #.  TODO link maybe
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:520
+#: en/revolution/modules/rules/pages/combat.adoc:516
 #, no-wrap
 msgid "*Stand its Ground.* The victorious unit remains where it is. The combat is over.\n"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:528
+#: en/revolution/modules/rules/pages/combat.adoc:524
 #, no-wrap
 msgid ""
 "*Pursue.* The victorious unit is moved back into contact and a further round of pursuit combat is fought\n"
@@ -846,7 +846,7 @@ msgstr ""
 
 #.  "See Enemy Destroyed" is actually "Pursuit and destroyed enemy"
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:532
+#: en/revolution/modules/rules/pages/combat.adoc:528
 #, no-wrap
 msgid ""
 "*Advance.* The victorious unit can advance up to 20cm either initiating a new engagement or joining an\n"
@@ -854,13 +854,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:537
+#: en/revolution/modules/rules/pages/combat.adoc:533
 #, no-wrap
 msgid "Support"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:545
+#: en/revolution/modules/rules/pages/combat.adoc:541
 msgid ""
 "[.qa]#Infantry stands adjacent to fighting infantry units affect combat "
 "results.# This represents the ability of a unit to threaten the enemy’s "
@@ -869,14 +869,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:548
+#: en/revolution/modules/rules/pages/combat.adoc:544
 msgid ""
 "A stand can only support if it is not touching an enemy and the unit it "
 "belongs to is not confused."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:560
+#: en/revolution/modules/rules/pages/combat.adoc:556
 msgid ""
 "[.bo5a]#A supporting# stand must be aligned either exactly behind or exactly "
 "beside a stand that fought to its front during the combat round. The "
@@ -890,7 +890,7 @@ msgstr ""
 
 #.  spelling corrected
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:575
+#: en/revolution/modules/rules/pages/combat.adoc:571
 msgid ""
 "For each supporting stand in the combat engagement *add +1* to the combat "
 "result. For example, if a side inflicts five hits on the enemy and has three "
@@ -902,14 +902,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:577
+#: en/revolution/modules/rules/pages/combat.adoc:573
 #, no-wrap
 msgid "Supporting combat"
 msgstr ""
 
 #.  Bo5a rules differ
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:586
+#: en/revolution/modules/rules/pages/combat.adoc:582
 msgid ""
 "Units are automatically included in any combat engagement where they "
 "support. This means they are affected by the combat result and the usual "
@@ -918,7 +918,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:592
+#: en/revolution/modules/rules/pages/combat.adoc:588
 msgid ""
 "Sometimes, a unit finds it is supporting two different friendly units "
 "fighting what would otherwise be two separate combat engagements. Even in "
@@ -927,27 +927,27 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:596
+#: en/revolution/modules/rules/pages/combat.adoc:592
 #: en/revolution/modules/rules/pages/movement.adoc:582
 #, no-wrap
 msgid "Supporting charges"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:600
+#: en/revolution/modules/rules/pages/combat.adoc:596
 msgid ""
 "→ Moved to xref:movement.adoc#supporting-charges[Movement, Supporting "
 "charges]."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:602
+#: en/revolution/modules/rules/pages/combat.adoc:600
 #, no-wrap
 msgid "Retreats"
 msgstr "Replis"
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:610
+#: en/revolution/modules/rules/pages/combat.adoc:608
 msgid ""
 "A unit that loses a combat round must retreat by the difference in the "
 "combat result in centimetres. For example, if one side scores four hits and "
@@ -956,7 +956,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:622
+#: en/revolution/modules/rules/pages/combat.adoc:620
 msgid ""
 "If several units are engaged on the losing side, then the retreat distance "
 "must be reduced to take into account the potentially huge difference in "
@@ -970,7 +970,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:627
+#: en/revolution/modules/rules/pages/combat.adoc:625
 msgid ""
 "If two or more units are retreating from the same engagement then move the "
 "units one at a time. The retreating player can decide in which order to move "
@@ -978,7 +978,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:636
+#: en/revolution/modules/rules/pages/combat.adoc:634
 msgid ""
 "A retreating unit moves away from the enemy without changing formation or "
 "the direction it is facing. It will normally be apparent where to move the "
@@ -988,7 +988,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:650
+#: en/revolution/modules/rules/pages/combat.adoc:648
 msgid ""
 "The direction of the retreat may be less clear if the unit is fighting enemy "
 "from several directions at the same time.  In this case, the unit retreats "
@@ -1002,14 +1002,14 @@ msgstr ""
 #.  TODO possible additional diagram
 #.  Spelling fixed
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:657
+#: en/revolution/modules/rules/pages/combat.adoc:655
 msgid ""
 "If there are no enemy stands touching the unit due to removing causalities, "
 "retreat from the closest enemy that was part of the combat engagement."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:664
+#: en/revolution/modules/rules/pages/combat.adoc:662
 msgid ""
 "In a few cases, a unit’s formation may be arranged so that the direction of "
 "the retreat is in doubt. In this case, identify the retreating *stand* "
@@ -1019,7 +1019,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:674
+#: en/revolution/modules/rules/pages/combat.adoc:672
 msgid ""
 "If all of a unit is supporting another, e.g. if it is placed in a second "
 "line, then none of its stands are touching an enemy.  In this case, the "
@@ -1032,13 +1032,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:678
+#: en/revolution/modules/rules/pages/combat.adoc:676
 #, no-wrap
 msgid "Blocked retreats"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:684
+#: en/revolution/modules/rules/pages/combat.adoc:682
 msgid ""
 "A retreating stand is destroyed if its retreat move is blocked. A retreat is "
 "considered *blocked* if any part of the stand’s base is obliged to move "
@@ -1046,17 +1046,17 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:686
+#: en/revolution/modules/rules/pages/combat.adoc:684
 msgid "Enemy stands"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:687
+#: en/revolution/modules/rules/pages/combat.adoc:685
 msgid "Impassable terrain"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:691
+#: en/revolution/modules/rules/pages/combat.adoc:689
 msgid ""
 "Stands of other friendly units that are engaged in combat (including "
 "friendly units that have already retreated from the same combat during that "
@@ -1064,7 +1064,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:695
+#: en/revolution/modules/rules/pages/combat.adoc:693
 msgid ""
 "Stands from unengaged friendly units that do not make way — [.bo5a]#friendly "
 "units can normally move out of the path of retreating units, and this is "
@@ -1072,14 +1072,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:699
+#: en/revolution/modules/rules/pages/combat.adoc:697
 msgid ""
 "Stands that are destroyed are removed immediately without reducing the "
 "number of outstanding hits on their unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:709
+#: en/revolution/modules/rules/pages/combat.adoc:707
 msgid ""
 "If unengaged friendly units lie in the way of a unit’s retreat then these "
 "can be moved. The unengaged unit is said to *make way*. It is up to the "
@@ -1091,7 +1091,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:718
+#: en/revolution/modules/rules/pages/combat.adoc:716
 msgid ""
 "A stand’s retreat can potentially bring it into contact with an enemy stand "
 "without intersecting with it. For example a stand retreats 1cm into an enemy "
@@ -1102,7 +1102,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:724
+#: en/revolution/modules/rules/pages/combat.adoc:722
 msgid ""
 "Blocked retreats often occur where units are partially surrounded, for "
 "example fighting to the front and rear at the same time. Blocked retreats "
@@ -1111,7 +1111,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:731
+#: en/revolution/modules/rules/pages/combat.adoc:729
 msgid ""
 "[.edit]#On# rare occasion a unit of three stands may be split when only the "
 "middle stand has blocked retreat. If such a unit is out of coherency at the "
@@ -1121,13 +1121,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:733
+#: en/revolution/modules/rules/pages/combat.adoc:731
 #, no-wrap
 msgid "Retreating units and incidental contacts"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:743
+#: en/revolution/modules/rules/pages/combat.adoc:741
 msgid ""
 "A stand can potentially retreat into contact – but not intersect – an enemy "
 "stand from a unit taking part in the same combat engagement. This often "
@@ -1138,13 +1138,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:747
+#: en/revolution/modules/rules/pages/combat.adoc:745
 #, no-wrap
 msgid "Retreating artillery"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:752
+#: en/revolution/modules/rules/pages/combat.adoc:750
 msgid ""
 "An artillery unit which is forced to retreat is automatically destroyed. Its "
 "weapons are overrun and the crew massacred or scattered beyond hope of "
@@ -1549,13 +1549,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:1047
+#: en/revolution/modules/rules/pages/combat.adoc:1045
 #, no-wrap
 msgid "Pursuit and destroyed enemy"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1055
+#: en/revolution/modules/rules/pages/combat.adoc:1053
 msgid ""
 "A unit is destroyed once all of its stands have been removed as casualties. "
 "At the end of a combat round, it is possible that all the units engaged on "
@@ -1565,13 +1565,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:1057
+#: en/revolution/modules/rules/pages/combat.adoc:1055
 #, no-wrap
 msgid "Pursuit and combat dropouts"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1071
+#: en/revolution/modules/rules/pages/combat.adoc:1069
 msgid ""
 "It can happen that several units retreat on one side but pursuers move in "
 "such a way that one or more retreating units are no longer engaged in the "
@@ -1585,13 +1585,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/combat.adoc:1073
+#: en/revolution/modules/rules/pages/combat.adoc:1071
 #, no-wrap
 msgid "Pursuit in terrain"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1084
+#: en/revolution/modules/rules/pages/combat.adoc:1082
 msgid ""
 "Visibility within woods [.edit]#and villages# is restricted to 2cm for most "
 "purposes (see xref:movement.adoc#terrain[Terrain]), but in the case of "
@@ -1666,7 +1666,7 @@ msgstr ""
 
 #.  (Bo5A difference.)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1134
+#: en/revolution/modules/rules/pages/combat.adoc:1132
 msgid ""
 "Although the move is essentially the same as a charge, no charge bonus of "
 "any kind applies to advances: this takes into account a measure of "
@@ -1674,7 +1674,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1141
+#: en/revolution/modules/rules/pages/combat.adoc:1139
 msgid ""
 "An advance might initiate a new combat engagement, it might bring the "
 "advancing unit into an existing unfought engagement, or it might bring the "
@@ -1683,7 +1683,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1145
+#: en/revolution/modules/rules/pages/combat.adoc:1143
 msgid ""
 "If advancing into an engagement that has already been fought that turn (an "
 "unresolved combat), the advancing unit will fight in the Combat phase of the "
@@ -1691,7 +1691,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1152
+#: en/revolution/modules/rules/pages/combat.adoc:1150
 msgid ""
 "If advancing into an existing unfought engagement or a new combat "
 "engagement, the advancing unit fights as part of the engagement *that turn*. "
@@ -1701,7 +1701,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1156
+#: en/revolution/modules/rules/pages/combat.adoc:1154
 msgid ""
 "An enemy unit that has been advanced upon can shoot at the advancing unit in "
 "exactly the same way as a unit shooting at chargers in the Command phase."
@@ -1709,14 +1709,14 @@ msgstr ""
 
 #.  Spelling of engagement
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1161
+#: en/revolution/modules/rules/pages/combat.adoc:1159
 msgid ""
 "Any hits already accumulated against the advancing unit from its first "
 "engagement are carried over into the new combat engagement."
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/combat.adoc:1162
+#: en/revolution/modules/rules/pages/combat.adoc:1160
 #: en/revolution/modules/rules/pages/command.adoc:522
 #: en/revolution/modules/rules/pages/flying-units.adoc:201
 #: en/revolution/modules/rules/pages/movement.adoc:328
@@ -1725,7 +1725,7 @@ msgid "Optional rule"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/combat.adoc:1167
+#: en/revolution/modules/rules/pages/combat.adoc:1165
 msgid ""
 "If the enemy is destroyed in the first round of combat, the advancing unit "
 "gets a charge bonus as per normal charge."
@@ -1813,7 +1813,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:1228
+#: en/revolution/modules/rules/pages/combat.adoc:1226
 #: en/revolution/modules/rules/pages/confusion.adoc:187
 #: en/revolution/modules/rules/pages/confusion-at-a-glance.adoc:51
 #, no-wrap
@@ -1821,7 +1821,7 @@ msgid "Moving back"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/combat.adoc:1241
+#: en/revolution/modules/rules/pages/combat.adoc:1239
 msgid ""
 "When a unit falls back, the player selects any one stand from the unit and "
 "moves it back. In this case, ‘back’ is defined as behind the line drawn "
