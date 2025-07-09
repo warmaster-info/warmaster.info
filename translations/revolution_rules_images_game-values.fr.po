@@ -7,33 +7,34 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-07-10 01:17+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-07-09 23:41+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_rules_images_game-values/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-360.svg:966
 #, no-wrap
 msgid "Some troops can see"
-msgstr ""
+msgstr "Certaines troupes peuvent"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-360.svg:969
 #, no-wrap
 msgid "all around, like these"
-msgstr ""
+msgstr "void tout autour, comme ces"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-360.svg:972
-#, fuzzy, no-wrap
-#| msgid "Dark Riders"
+#, no-wrap
 msgid "Desert Riders."
-msgstr "Cavaliers Noirs"
+msgstr "Cavaliers Noirs."
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-blocked.svg:719
