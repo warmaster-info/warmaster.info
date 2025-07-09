@@ -110,7 +110,7 @@ in column drawing line of sight sideways out of the column.
 
 The only exceptions are units that have 360 degree line of sight.
 
-image::questions-and-answers/line-of-sight-flank.svg[]
+image::questions-and-answers/line-of-sight-flank.svg[width=1239,height=851]
 
 → Rulebook: xref:game-values.adoc#line-of-sight[Game Values – Line of sight] (xref:game-values.adoc#line-of-sight-target[Figure 3]).
 
@@ -181,7 +181,7 @@ pace move of 5cm. See diagram below.
 
 → Rulebook: xref:movement.adoc#the-move[Movement – The move].
 
-image::questions-and-answers/pivot.svg[]
+image::questions-and-answers/pivot.svg[width=1239,height=851]
 
 [#character-displacement]
 === How does the displacement of a character that is touched by an enemy unit work?
@@ -246,14 +246,14 @@ charging stands can be placed with all of their
 frontage in contact with the enemy, so they
 must do this.
 
-image::combat-phase/maximise-frontage-1.svg[]
+image::movement/maximise-frontage-1.svg[width=1312,height=1016,id=maximise-frontage-1]
 
-image::combat-phase/maximise-frontage-2.svg[]
+image::movement/maximise-frontage-2.svg[width=1312,height=1016,id=maximise-frontage-2]
 
 In this Diagram, the charging unit has not
 maximised frontage. This charge is illegal.
 
-image::questions-and-answers/maximise-frontage-illegal.svg[]
+image::questions-and-answers/maximise-frontage-illegal.svg[width=1239,height=851]
 ====
 
 [#contact-with-other-enemy]
@@ -277,12 +277,12 @@ them. All charging stands can be placed with
 all of their frontage in contact with the enemy,
 so they must do this.
 
-image::questions-and-answers/maximise-frontage-multiple.svg[]
+image::questions-and-answers/maximise-frontage-multiple.svg[width=1239,height=851]
 
 In this diagram, the charging unit has not
 maximised frontage. This charge is illegal.
 
-image::questions-and-answers/maximise-frontage-multiple-illegal.svg[]
+image::questions-and-answers/maximise-frontage-multiple-illegal.svg[width=1239,height=851]
 
 This diagram shows how a charging unit
 will maximise frontage against the unit it
@@ -292,7 +292,7 @@ charging stands, all charging stands can be
 placed with all of their frontage in contact with
 the original target enemy, so they must do this.
 
-image::questions-and-answers/maximise-frontage-original.svg[]
+image::questions-and-answers/maximise-frontage-original.svg[width=1239,height=851]
 ====
 
 [#home-back-disengage]
@@ -356,7 +356,7 @@ Also remember that an infantry stand placed into a supporting position means the
 [#edge-flanking]
 === The diagram under xref:combat.adoc#pursuit-supporting[Supporting pursuits] shows a victorious unit pursuing a unit that has retreated. The stand on the right of this is now contacting a unit to the front, and along its left edge. Is it being flanked in this example image?
 
-image::combat-phase/pursuit-supporting.svg[id=pursuit-supporting]
+image::combat/pursuit-supporting.svg[width=2764,height=1073,id=pursuit-supporting]
 
 No. Stands do not apply the enemy in flank or rear penalty to attacks for side to side contact that often
 occurs in pursuits. The enemy in flank or rear attack penalty only applies to stands that have the front edge of
@@ -395,18 +395,18 @@ frontage against unit B, which allowed
 Unit D to fit two stands into the combat.)
 Units A and B are in combat with units C and D.
 
-image::questions-and-answers/combat-pursuits-1.svg[id=combat-pursuits-1]
+image::questions-and-answers/combat-pursuits-1.svg[width=1239,height=593,id=combat-pursuits-1]
 
 A and B lose the combat.  B
 removes casualties, and the surviving stands from both
 units then retreat.
 
-image::questions-and-answers/combat-pursuits-2.svg[id=combat-pursuits-2]
+image::questions-and-answers/combat-pursuits-2.svg[width=1239,height=593,id=combat-pursuits-2]
 
 The stands from units C and D able to pursue straight forward
 into front edge contact with the enemy must do so:
 
-image::questions-and-answers/combat-pursuits-3.svg[id=combat-pursuits-3]
+image::questions-and-answers/combat-pursuits-3.svg[width=1239,height=593,id=combat-pursuits-3]
 
 Note that one stand from unit C has to contact unit A, and
 is therefore flank-to-flank with unit B.  In the next diagram,
@@ -416,7 +416,7 @@ the player wishes, including into the flank or rear where possible.
 No pursuing stand may move further than a full-pace move.
 This shows one option:
 
-image::questions-and-answers/combat-pursuits-4.svg[id=combat-pursuits-4]
+image::questions-and-answers/combat-pursuits-4.svg[width=1239,height=593,id=combat-pursuits-4]
 
 Note there is no requirement for stands that do not have to
 pursue straight forwards to be moved into contact with the enemy.
@@ -425,34 +425,34 @@ form up a line.
 
 The examples continue with this arrangement.
 
-image::questions-and-answers/combat-pursuits-5.svg[id=combat-pursuits-5]
+image::questions-and-answers/combat-pursuits-5.svg[width=1239,height=593,id=combat-pursuits-5]
 
 After the second round of combat, unit B has been wiped out, and unit A
 has retreated again.  All units have lost a stand.
 
-image::questions-and-answers/combat-pursuits-6.svg[id=combat-pursuits-6]
+image::questions-and-answers/combat-pursuits-6.svg[width=1239,height=593,id=combat-pursuits-6]
 
 Unit C pursues straight forwards again, keeping one stand in support.
 However unit D no longer has any enemy stands directly in front.
 It can still see the retreating enemy, so it can make an Indirect Pursuit.
 
-image::questions-and-answers/combat-pursuits-7.svg[id=combat-pursuits-7]
+image::questions-and-answers/combat-pursuits-7.svg[width=1239,height=593,id=combat-pursuits-7]
 
 An Indirect Pursuit requires the unit to pick one stand
 and align it to the retreating enemy as if for a charge, so we check
 to see if the cavalry are now in the front or the flank of unit A.
 They are in the flank.
 
-image::questions-and-answers/combat-pursuits-8.svg[id=combat-pursuits-8]
+image::questions-and-answers/combat-pursuits-8.svg[width=1239,height=593,id=combat-pursuits-8]
 
 Unit D moves one stand into contact with the flank of unit A.
 
-image::questions-and-answers/combat-pursuits-9.svg[id=combat-pursuits-9]
+image::questions-and-answers/combat-pursuits-9.svg[width=1239,height=593,id=combat-pursuits-9]
 
 Finally, the remaining stand can be placed as in basic pursuit,
 for example to the rear.
 
-image::questions-and-answers/combat-pursuits-10.svg[id=combat-pursuits-10]
+image::questions-and-answers/combat-pursuits-10.svg[width=1239,height=593,id=combat-pursuits-10]
 ====
 
 [#pursue-flyers]

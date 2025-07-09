@@ -192,7 +192,7 @@ xref::combat-phase.adoc#combat-engagement[Combat phase section] for rules for ch
 
 ////
 // Warmaster Original text from Movement chapter:
-Units moving by initiative do so during the xref::the-command-phase.adoc#initiative-movement[Initiative
+Units moving by initiative do so during the xref::command.adoc#initiative-movement[Initiative
 Movement section of the Command phase] as
 explained above. Units are moved one at a
 time, the movement of each is completed before moving
@@ -229,12 +229,12 @@ players to be wary of. See <<initiative-charge-1>> and <<initiative-charge-2>>.
 // Warmaster Original diagram from Movement chapter:
 // TODO: Low-priority diagram text
 .Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position.
-image::movement/initiative-charge-1.webp[id=initiative-charge-1]
+image::command/initiative-charge-1.webp[width=993,height=682,id=initiative-charge-1]
 
 // Warmaster Original diagram from Movement chapter:
 // TODO: Low-priority diagram text
 .Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
-image::movement/initiative-charge-2.webp[id=initiative-charge-2]
+image::command/initiative-charge-2.webp[width=993,height=703,id=initiative-charge-2]
 
 [.ancients]
 [#charge-or-evade]
@@ -247,7 +247,7 @@ any other way. The rules for xref:movement.adoc#moving-chargers[charges] and xre
 described in the Movement section.
 
 [.wmr]
-image::the-command-phase/giant.webp[]
+image::command/giant.webp[width=769,height=1176]
 
 [.h-ancients]
 [#orders]
@@ -347,7 +347,7 @@ lost or confused (perhaps the
 messenger has been caught up in
 nearby enemy action and killed).
 
-image::the-command-phase/skinks.webp[]
+image::command/skinks.webp[width=697,height=579]
 
 [#giving-further-orders]
 === Giving further orders
@@ -381,7 +381,7 @@ represents the confusion of battle, the indecisiveness
 of unit leaders, occasional stupidity and all those other
 annoying things that bedevil the process of waging war.
 
-image::the-command-phase/goblins.webp[]
+image::command/goblins.webp[width=2070,height=1053]
 
 [#command-penalties]
 == Command penalties
@@ -528,7 +528,7 @@ communication before the battle commences. Note
 that the Command value can never exceed 10.
 ****
 
-image::the-command-phase/triskelion.webp[]
+image::command/triskelion.webp[width=438,height=457]
 
 [#charge]
 == Charge!
@@ -546,7 +546,7 @@ in the ensuing Combat phase. See the xref::combat.adoc[Combat phase
 section] for further explanation.
 
 .A unit of cavalry charging into combat with a unit of infantry
-image::the-command-phase/cavalry-charge.webp[]
+image::command/cavalry-charge.webp[width=1443,height=1161]
 
 [.h-bo5a]
 [#character-movement]
@@ -624,10 +624,10 @@ move touching units as a brigade or not.
 
 ****
 .These three units can be formed into a brigade.
-image::the-command-phase/brigade-of-three.webp[]
+image::command/brigade-of-three.webp[width=1432,height=501]
 
 .These four units can also be formed into a brigade. Each unit is arranged into a column that is three stands deep.
-image::the-command-phase/brigade-of-four.webp[]
+image::command/brigade-of-four.webp[width=1409,height=680]
 ****
 
 To give orders to a brigade, measure to the most distant
@@ -683,13 +683,13 @@ move brigaded units one at a time.
 ////
 
 [#f-brigade-orders]
-image::the-command-phase/charge-from-brigade-1.svg[]
+image::command/charge-from-brigade-1.svg[width=1355,height=931]
 
-image::the-command-phase/charge-from-brigade-2.webp[]
+image::command/charge-from-brigade-2.webp[width=1016,height=698]
 
-image::the-command-phase/charge-from-brigade-3.svg[]
+image::command/charge-from-brigade-3.svg[width=1355,height=931]
 
-image::the-command-phase/charge-from-brigade-4.svg[]
+image::command/charge-from-brigade-4.svg[width=1355,height=931]
 
 [.h-bo5a]
 [#further-brigade-orders]
@@ -727,4 +727,4 @@ brigade order in the next.#
 
 // TODO: Smaller of the two diagrams from Bo5A.
 
-image::the-command-phase/bretonnian-knights.webp[]
+image::command/bretonnian-knights.webp[width=1476,height=724]

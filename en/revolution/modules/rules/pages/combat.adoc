@@ -103,7 +103,7 @@ Once units have engaged in combat they might typically
 be arranged as shown in <<f-combat-engagement>>.
 
 .{empty}
-image::combat-phase/combat-engagement.svg[id=f-combat-engagement]
+image::combat/combat-engagement.svg[width=1312,height=1440,id=f-combat-engagement]
 
 A combat engagement can sometimes involve several
 units on one or both sides. All interlinked units are
@@ -111,7 +111,7 @@ considered to be fighting in the same engagement. See
 <<f-interlinked-engagement>>.
 
 .Where units are interlinked, as shown in the two examples here, they form a single engagement. Such an engagement can involve several units on each side but typically involves two or sometimes three units on one side and only one on the other.
-image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
+image::combat/interlinked-engagement.webp[width=1250,height=918,id=f-interlinked-engagement]
 
 [.moved]
 --
@@ -218,7 +218,7 @@ image::combat-phase/interlinked-engagement.webp[id=f-interlinked-engagement]
 ====
 --
 
-image::combat-phase/dwarf-slayer-hero.webp[]
+image::combat/dwarf-slayer-hero.webp[width=457,height=503]
 
 [#attacks]
 == Attacks
@@ -258,7 +258,7 @@ the same enemy unit – this saves rolling different batches of dice.
 If there is any possible doubt about who is fighting whom, deal
 with each unit one at a time to avoid ambiguity.
 
-image::combat-phase/stands-touching.svg[id=stands-touching]
+image::combat/stands-touching.svg[width=1312,height=901,id=stands-touching]
 
 Every stand touching an enemy stand can fight, even if
 it is only touching corner-to-corner or at a side or rear
@@ -295,7 +295,7 @@ following list of priorities:
   attacks are not allowed where there is
   edge contact.
 
-image::combat-phase/dark-elves.webp[]
+image::combat/dark-elves.webp[width=2079,height=623]
 
 [#attack-modifiers]
 === Attack modifiers
@@ -383,7 +383,7 @@ Attack modifiers can potentially reduce a stand’s Attack
 to zero. If this happens, then a unit always rolls one
 Attack dice regardless.
 
-image::combat-phase/harpy-hero.webp[]
+image::combat/harpy-hero.webp[width=765,height=1069]
 
 [#how-to-calculate-damage]
 === How to calculate damage
@@ -470,7 +470,7 @@ forward into the next.
 
 // TODO: Bo5A showing coloured dice
 
-image::combat-phase/wolf-rider.webp[]
+image::combat/wolf-rider.webp[width=993,height=1493]
 
 [#combat-results]
 == Combat results
@@ -559,7 +559,7 @@ be from the same unit as the fighting stand it supports or
 from a completely different unit. See <<f-supporting-troops>>.
 
 .{empty}
-image::combat-phase/supporting-troops.svg[id=f-supporting-troops]
+image::combat/supporting-troops.svg[width=2772,height=1049,id=f-supporting-troops]
 
 // spelling corrected
 For each supporting stand in the combat engagement
@@ -625,7 +625,7 @@ engagement then move the units one at a time. The
 retreating player can decide in which order to move the
 units.
 
-image::combat-phase/retreat-1.svg[id=retreat-1]
+image::combat/retreat-1.svg[width=1312,height=952,id=retreat-1]
 
 A retreating unit moves away from the enemy without
 changing formation or the direction it is facing. It will
@@ -634,7 +634,7 @@ cases, all enemy stands will be aligned solely against the
 unit’s front, side or rear and the retreating unit simply
 moves in the opposite direction.
 
-image::combat-phase/retreat-2.svg[id=retreat-2]
+image::combat/retreat-2.svg[width=1312,height=916,id=retreat-2]
 
 The direction of the retreat may be less clear if the unit is
 fighting enemy from several directions at the same time.
@@ -672,7 +672,7 @@ units will effectively move as one, although it will still be
 necessary to move the units one at a time to make sure
 that stands have a path to their final position.
 
-image::combat-phase/fan.webp[]
+image::combat/fan.webp[width=447,height=455]
 
 [#blocked-retreats]
 === Blocked retreats
@@ -697,7 +697,7 @@ Stands that are destroyed are removed immediately
 without reducing the number of outstanding hits on
 their unit.
 
-image::combat-phase/retreat-blocked.svg[id=retreat-blocked]
+image::combat/retreat-blocked.svg[width=2772,height=765,id=retreat-blocked]
 
 If unengaged friendly units lie in the way of a unit’s
 retreat then these can be moved. The unengaged unit
@@ -741,7 +741,7 @@ another. In such a case the retreat is not blocked and the
 stand is not destroyed. What happens next will depend
 on what the winner decides to do.
 
-image::combat-phase/retreat-incidental-contact.svg[id=retreat-incidental-contact]
+image::combat/retreat-incidental-contact.svg[width=1324,height=1028,id=retreat-incidental-contact]
 
 [#retreating-artillery]
 === Retreating artillery
@@ -776,7 +776,7 @@ blocked.
 If a unit stands, it simply stays where it is and does not move.
 
 [.wmr]
-image::combat-phase/skeleton-infantry.webp[]
+image::combat/skeleton-infantry.webp[width=911,height=744]
 
 [#pursuit]
 == Pursuit
@@ -876,7 +876,7 @@ towards the enemy. Towards means just that – a pursuer’s
 path cannot take it away from the enemy and then back
 again by a circuitous route.
 
-image::combat-phase/punk-orc.webp[]
+image::combat/punk-orc.webp[width=809,height=881]
 
 [#basic-pursuit]
 === Basic pursuit
@@ -908,7 +908,7 @@ to be positioned to fight from a corner, to support, or to
 extend a unit’s position to meet a charge in a subsequent
 turn.
 
-image::combat-phase/pursuit-direct.svg[id=pursuit-direct]
+image::combat/pursuit-direct.svg[width=2759,height=921,id=pursuit-direct]
 
 [#indirect-pursuit]
 === Indirect pursuit
@@ -926,7 +926,7 @@ charge. Having placed the first stand, remaining stands
 are positioned as the player wishes, as already described
 for basic pursuits.
 
-image::combat-phase/pursuit-indirect.svg[id=pursuit-indirect]
+image::combat/pursuit-indirect.svg[width=2772,height=975,id=pursuit-indirect]
 
 [#supporting-pursuits]
 === Supporting pursuits
@@ -945,7 +945,7 @@ into contact cannot choose to make a supporting pursuit
 instead.
 
 // Spelling of victorious fixed
-image::combat-phase/pursuit-supporting.svg[id=pursuit-supporting]
+image::combat/pursuit-supporting.svg[width=2764,height=1073,id=pursuit-supporting]
 
 To make a supporting pursuit at least one stand must
 be moved straight ahead so that it is directly behind or
@@ -978,7 +978,7 @@ enemies, it is possible for stands to come into contact
 with enemy units that were not previously engaged in
 the same combat. This is called *incidental contact*.
 
-image::combat-phase/incidental-contact.svg[id=f-incidental-contact]
+image::combat/incidental-contact.svg[width=1324,height=1528,id=f-incidental-contact]
 
 Incidental contact is sometimes unavoidable. It will
 depend on the order in which pursuers are moved and,
@@ -1027,7 +1027,7 @@ attacks are struck against retreating cavalry/chariots the
 usual pursuit bonuses apply. Same principle applies on
 non-flying units pursuing flyers.
 
-image::combat-phase/pursuit-maintain-contact.svg[id=pursuit-maintain-contact]
+image::combat/pursuit-maintain-contact.svg[width=2772,height=1029,id=pursuit-maintain-contact]
 
 [#impossible-to-pursue]
 === Impossible to pursue
@@ -1041,7 +1041,7 @@ sight, for example. A unit that cannot pursue a retreating
 enemy must either stand or fall back. The unit is not
 allowed to <<advance>> instead.
 
-image::combat-phase/goblin-wolves.webp[]
+image::combat/goblin-wolves.webp[width=2089,height=287]
 
 [#pursuit-and-destroyed-enemy]
 === Pursuit and destroyed enemy
@@ -1125,7 +1125,7 @@ even if they are a troop type that would not normally be
 allowed to pursue, such as infantry fighting cavalry or
 chariots.
 
-image::combat-phase/dwarf-slayers.webp[]
+image::combat/dwarf-slayers.webp[width=2200,height=384]
 
 Although the move is essentially the same as a charge, no
 charge bonus of any kind applies to advances: this takes
@@ -1222,7 +1222,7 @@ and will fight in the following round. Units that fall back
 but fail to break contact are automatically confused by
 dint of being within 1cm of enemy.
 
-image::combat-phase/village.webp[]
+image::combat/village.webp[width=2075,height=1049]
 
 [#moving-back]
 === Moving back
@@ -1240,10 +1240,10 @@ own friends – the ‘back’ position is worked out relative
 to the first stand moved.
 
 .{empty}
-image::combat-phase/fall-back-line.svg[id=fall-back-line]
+image::combat/fall-back-line.svg[width=1324,height=920,id=fall-back-line]
 
 .{empty}
-image::combat-phase/fall-back-corner.svg[id=fall-back-corner]
+image::combat/fall-back-corner.svg[width=1324,height=920,id=fall-back-corner]
 
 [#unresolved-combats]
 == Unresolved combats
@@ -1277,7 +1277,7 @@ unresolved combat do not remove odd hits but carry
 them over into the following turn. This includes any
 units that are only supporting.
 
-image::combat-phase/cold-combat.webp[]
+image::combat/cold-combat.webp[width=2157,height=862]
 
 [#defended-fortified-troops]
 == Defended & fortified troops
@@ -1401,4 +1401,4 @@ a unit may be still inside a wood or still up-slope of an
 enemy. However, a unit always loses the advantage of its
 position once it has retreated.
 
-image::combat-phase/medusa-demon.webp[]
+image::combat/medusa-demon.webp[width=1245,height=890]

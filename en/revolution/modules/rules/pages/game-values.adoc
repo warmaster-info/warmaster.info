@@ -101,17 +101,17 @@ less monstrous for all that.
 
 // Moved out of the box.
 .An Empire infantry unit
-image::game-values/infantry.webp[]
+image::game-values/infantry.webp[width=778,height=599]
 
 Infantry stands are always oriented along the long edge
 of the base as demonstrated by the Empire unit shown
 above.
 
 .An Empire cavalry unit
-image::game-values/cavalry-1.webp[]
+image::game-values/cavalry-1.webp[width=947,height=799]
 
 // Replace with a monster or artillery
-// image::game-values/cavalry-2.webp[]
+// image::game-values/cavalry-2.webp[width=979,height=775]
 
 Generally speaking, all other troops, including
 monsters and artillery as well as chariots, cavalry and
@@ -130,7 +130,7 @@ in the warriors, monsters and weird creatures that are
 found in the game, we assign three values to [.edit]#each
 stand#. These are *Attacks*, *Hits* and *Armour*.
 
-image::game-values/attacks-hits-armour.webp[]
+image::game-values/attacks-hits-armour.webp[width=726,height=522]
 
 [cols="3*^",frame=none,grid=cols]
 |===
@@ -215,7 +215,7 @@ of play.
 ****
 A unit’s game values can be conveniently expressed as a single line of statistics or ‘stat line’ as shown below.
 
-image::game-values/boar-riders.webp[]
+image::game-values/boar-riders.webp[width=2200,height=364]
 
 [.unit,frame=none]
 |===
@@ -333,7 +333,7 @@ for example a measuring rule, between the observer
 and observed.
 
 .{empty}
-image::game-values/line-of-sight-target.svg[id=line-of-sight-target]
+image::game-values/line-of-sight-target.svg[width=1239,height=851,id=line-of-sight-target]
 
 [.ancients]
 It is not permitted to draw a line of light over the top of
@@ -341,7 +341,7 @@ unit stands from either side. These are said to ‘block’ the
 line of sight (see <<line-of-sight-blocked>>).
 
 .{empty}
-image::game-values/line-of-sight-blocked.svg[id=line-of-sight-blocked]
+image::game-values/line-of-sight-blocked.svg[width=1239,height=851,id=line-of-sight-blocked]
 
 [.ancients]
 Character stands never block line of sight. They
@@ -358,7 +358,7 @@ armed troops that fight in a very loosely organised style,#
 for example, Wolf Riders in the Orc army.
 
 .{empty}
-image::game-values/line-of-sight-360.svg[id=line-of-sight-360]
+image::game-values/line-of-sight-360.svg[width=1239,height=851,id=line-of-sight-360]
 
 [.ancients]
 [#the-effect-of-terrain]
@@ -375,7 +375,7 @@ features such as hedges and low walls (see <<line-of-sight-terrain>>).
 The section on xref:movement.adoc#terrain[Terrain] explains the rules governing this.
 
 .{empty}
-image::game-values/line-of-sight-terrain.svg[id=line-of-sight-terrain]
+image::game-values/line-of-sight-terrain.svg[width=1239,height=851,id=line-of-sight-terrain]
 
 [.qa]
 [TIP]
@@ -401,4 +401,4 @@ moment, a maximum visibility of 60cm is taken as standard
 and units more distant than this are assumed to be hidden from view.
 ////
 
-image::game-values/goblins-advance.webp[]
+image::game-values/goblins-advance.webp[width=2053,height=2989]

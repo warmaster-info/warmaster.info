@@ -61,7 +61,7 @@ You’ll find a few exceptions to these moves in the army lists later in the boo
 don’t need to worry about these oddities.
 ****
 
-image::movement/daemon.webp[]
+image::movement/daemon.webp[width=585,height=1089]
 
 [.h-bo5a]
 [#formation]
@@ -109,16 +109,16 @@ unless in a fortified position as noted above.
 // Units in a column are said to be in a *regular* formation.
 
 .In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement.
-image::movement/column-formation.webp[]
+image::movement/column-formation.webp[width=1126,height=680]
 
 Units arranged in a straight *line* with all their stands
 facing in the same direction and butted edge-to-edge move
 at full pace unless in a fortified position, as noted earlier.
 
 .Infantry and cavalry arranged into a straight line. This is the most effective fighting formation.
-image::movement/cavalry-line-formation.webp[]
+image::movement/cavalry-line-formation.webp[width=497,height=393]
 
-image::movement/infantry-line-formation.webp[]
+image::movement/infantry-line-formation.webp[width=1122,height=406]
 
 All units in other formations or circumstances move at
 half pace. For example, infantry are able to move up to
@@ -130,9 +130,9 @@ the only situation where an irregular formation moves
 at full pace is when it charges or evades.
 
 .Units in irregular formations move at half pace to represent the fact that their ranks are disrupted.
-image::movement/irregular-formation-1.webp[]
+image::movement/irregular-formation-1.webp[width=815,height=473]
 
-image::movement/irregular-formation-2.webp[]
+image::movement/irregular-formation-2.webp[width=1247,height=505]
 
 In some circumstances, units move a distance
 determined by rolling dice or by the results of combat
@@ -168,11 +168,11 @@ to move to their front – they can move backwards, to the
 side, at an angle or in any orientation or direction.
 
 .Stands in the same unit must touch but can be arranged into any formation you like.
-image::movement/infantry-line-formation.webp[]
+image::movement/infantry-line-formation.webp[width=1122,height=406]
 
-image::movement/formation-touch-2.webp[]
+image::movement/formation-touch-2.webp[width=992,height=598]
 
-image::movement/formation-touch-3.webp[]
+image::movement/formation-touch-3.webp[width=595,height=403]
 
 No part of a stand can move further than its permitted
 maximum movement distance. Always measure from
@@ -210,7 +210,7 @@ as described in the xref:characters.adoc[Generals, Heroes and Wizards section].
 The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Movement] with further examples, including pivoting
 ====
 
-image::movement/helm.webp[]
+image::movement/helm.webp[width=378,height=518]
 
 [.h-bo5a]
 [#moving-through-gaps]
@@ -254,11 +254,11 @@ xref::combat.adoc#moving-chargers[Moving Chargers]).
 
 // TODO: Low-priority diagram text
 .Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile.
-image::movement/move-through-gap.webp[id=move-through-gap]
+image::movement/move-through-gap.webp[width=993,height=769,id=move-through-gap]
 
 // TODO: Low-priority diagram text
 .This infantry unit cannot move through the gap between the two enemy units. A gap between enemy or between enemy and impassable terrain must be wider than a stand’s front for it to pass through.
-image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
+image::movement/cannot-move-through-gap.webp[width=993,height=819,id=cannot-move-through-gap]
 
 [discrete]
 [.moved]
@@ -276,7 +276,7 @@ image::movement/cannot-move-through-gap.webp[id=cannot-move-through-gap]
 [.moved]
 → Moved to xref:command.adoc#initiative-movement[Command, Initiative movement].
 
-image::movement/anvil.webp[]
+image::movement/anvil.webp[width=472,height=491]
 
 [.h-bo5a]
 [#the-evade]
@@ -323,7 +323,7 @@ stands as they move.
 
 // TODO: Low-priority diagram text
 .The evaders move in a line established by placing a tape measure between the closest points of the closest stands – in this case A and B.
-image::movement/evade-direction.webp[id="evade-direction"]
+image::movement/evade-direction.webp[width=993,height=841,id="evade-direction"]
 
 .Optional rule
 ****
@@ -353,9 +353,9 @@ automatically *confused*! See the xref::confusion.adoc[Confusion section].
 
 // New caption added, diagram text altered slightly for grammar.
 .Evaders bursting through a friendly unit
-image::movement/evade-burst-through.svg[id=evade-burst-through]
+image::movement/evade-burst-through.svg[width=1324,height=1591,id=evade-burst-through]
 
-image::movement/treemen.webp[]
+image::movement/treemen.webp[width=993,height=681]
 
 [discrete]
 [.moved]
@@ -365,7 +365,7 @@ image::movement/treemen.webp[]
 [.moved]
 → Moved to xref:command.adoc#character-movement[Command, Character movement].
 
-image::movement/sun.webp[]
+image::movement/sun.webp[width=439,height=449]
 
 [.h-bo5a]
 [#the-charge]
@@ -401,7 +401,7 @@ change his mind for any reason.
 During a charge, each stand can move up to its full pace distance
 regardless of the unit’s formation at the stand of the move.
 
-image::combat-phase/orc-boss.webp[]
+image::movement/orc-boss.webp[width=428,height=621]
 
 [#enemy-in-sight]
 === Enemy in sight
@@ -438,10 +438,10 @@ checked using a simple guide if necessary. See <<zone-infantry>>
 and <<zone-cavalry>>.
 
 .{empty}
-image::combat-phase/zone-infantry.svg[id=zone-infantry]
+image::movement/zone-infantry.svg[width=1312,height=964,id=zone-infantry]
 
 .{empty}
-image::combat-phase/zone-cavalry.svg[id=zone-cavalry]
+image::movement/zone-cavalry.svg[width=1312,height=975,id=zone-cavalry]
 
 Once a unit’s intention to charge has been declared,
 begin by considering the position of the entire charging
@@ -461,7 +461,7 @@ is exactly divided between two zones then roll a dice
 to decide – e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
 <<charge-move-2>>.
 
-image::combat-phase/chaos-knights.webp[]
+image::movement/chaos-knights.webp[width=1017,height=592]
 
 [#the-charge-move]
 === The charge move
@@ -491,10 +491,10 @@ the enemy stand’s front edge.
 the side. If from the rear, place the charger against the rear edge.#
 
 .{empty}
-image::combat-phase/charge-move-1.svg[id=charge-move-1]
+image::movement/charge-move-1.svg[width=1312,height=1188,id=charge-move-1]
 
 .{empty}
-image::combat-phase/charge-move-2.svg[id=charge-move-2]
+image::movement/charge-move-2.svg[width=1312,height=1213,id=charge-move-2]
 
 ////
 // Warmaster original
@@ -517,9 +517,9 @@ impossible, for whatever reason, see <<unable-to-contact-centre-to-centre>>.
 // Spelling against
 
 .{empty}
-image::combat-phase/maximise-frontage-1.svg[id=maximise-frontage-1]
+image::movement/maximise-frontage-1.svg[width=1312,height=1016,id=maximise-frontage-1]
 
-image::combat-phase/chaos-knight-hero.webp[]
+image::movement/chaos-knight-hero.webp[width=569,height=729]
 
 [#forming-a-battle-line]
 === Forming a battle line
@@ -543,7 +543,7 @@ make sure each stand has an accessible route to its final
 place in the battle line.
 
 // Moved slightly earlier
-image::combat-phase/maximise-frontage-2.svg[id=maximise-frontage-2]
+image::movement/maximise-frontage-2.svg[width=1312,height=1016,id=maximise-frontage-2]
 
 Each stand must be placed in the battle line in such a way
 that as much of its front edge as possible makes contact
@@ -554,7 +554,7 @@ be placed so that its front corner touches an enemy if it
 can. This means that the maximum number of charging
 stands will be drawn into the combat.
 
-image::combat-phase/dwarf-warriors.webp[]
+image::movement/dwarf-warriors.webp[width=2200,height=500]
 
 [#contact-with-other-enemy]
 === Contact with other enemy
@@ -576,7 +576,7 @@ shoot at the chargers as described in the Shooting section.
 
 // TODO: bo5a/ancients diagram.
 
-image::combat-phase/helm.webp[]
+image::movement/spiky-helm.webp[width=378,height=518]
 
 [#supporting-charges]
 === Supporting charges
@@ -624,7 +624,7 @@ make a supporting charge. Also note, that after *failing* to
 receive its *first order* a unit cannot use its half pace move
 to join combat by moving into the *supporting position*.
 
-image::combat-phase/sword-banner.webp[]
+image::movement/sword-banner.webp[width=282,height=293]
 
 [#exceptions-anomalies]
 === Exceptions & anomalies
@@ -650,9 +650,9 @@ If there is less than 1 cm of exposed edge then the stand
 is not an eligible target because it is ‘blocked’. See below
 for how to deal with blocked stands.
 
-image::combat-phase/charge-blocked.svg[id=charge-blocked]
+image::movement/charge-blocked.svg[width=1311,height=1016,id=charge-blocked]
 
-image::combat-phase/dwarf-hero.webp[]
+image::movement/dwarf-hero.webp[width=382,height=428]
 
 [#unable-to-form-a-battle-line]
 === Unable to form a battle line
@@ -679,7 +679,7 @@ entitled to shoot at the charging unit as described in the
 Shooting section.
 
 .{empty}
-image::combat-phase/unable-to-form-a-battle-line.svg[id=f-unable-to-form-a-battle-line]
+image::movement/unable-to-form-a-battle-line.svg[width=1312,height=1124,id=f-unable-to-form-a-battle-line]
 
 [#blocked-edges]
 === Blocked edges
@@ -701,7 +701,7 @@ assuming this stand is an accessible visible stand within
 the same zone. If this stand edge is also blocked then the
 charger can move to the third closest stand, and so on.
 
-image::combat-phase/closest-visible-stand.svg[id=closest-visible-stand]
+image::movement/closest-visible-stand.svg[width=1312,height=964,id=closest-visible-stand]
 
 If no accessible edge is presented by any stand in the
 target unit then the charge is not normally allowed – for
@@ -738,7 +738,7 @@ charge edge-to-edge. See <<f-pinned-target>>.
 ////
 
 .{empty}
-image::combat-phase/pinned-target.webp[id=f-pinned-target]
+image::movement/pinned-target.webp[width=984,height=735,id=f-pinned-target]
 
 [#irregular-formations]
 === Irregular formations
@@ -760,7 +760,7 @@ are considered to be maximising frontage so long as they
 have the maximum portion of enemy stand directly to
 their front.
 
-image::combat-phase/irregular-formations.svg[id=f-irregular-formations]
+image::movement/irregular-formations.svg[width=1312,height=825,id=f-irregular-formations]
 
 [#enveloping-charge]
 === Enveloping charge
@@ -802,7 +802,7 @@ move both the charging and supporting units and work
 out any shooting first. Supporting units remain in their
 battle line and do not envelope.
 
-image::combat-phase/enveloping-charge.svg[id=f-enveloping-charge]
+image::movement/enveloping-charge.svg[width=1324,height=1997,id=f-enveloping-charge]
 
 ////
 // Ancients and Bo5A have two additional cases
@@ -810,7 +810,7 @@ image::combat-phase/enveloping-charge.svg[id=f-enveloping-charge]
 // - Charging fortified enemy
 ////
 
-image::combat-phase/battle-view.webp[id=battle-view]
+image::movement/battle-view.webp[width=1500,height=834,id=battle-view]
 
 [#units-which-move-off-the-table]
 == Units which move off the table
@@ -878,7 +878,7 @@ his army withdraws. He abandons his army and heads
 for the hills and is considered to be a casualty. See the
 xref:end-of-the-battle.adoc[End of the Battle] section.
 
-image::movement/griffon.webp[]
+image::movement/griffon.webp[width=993,height=1110]
 
 [#terrain]
 == Terrain
@@ -1183,4 +1183,4 @@ xref::combat.adoc#retreats[Combat phase – Retreats]).
 The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Movement] with further examples.
 ====
 
-image::movement/knights.webp[]
+image::movement/knights.webp[width=2079,height=1149]

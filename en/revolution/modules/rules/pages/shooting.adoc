@@ -108,7 +108,7 @@ See xref:movement.adoc#terrain[Terrain].
 
 // Caption added
 .Targets in and out of sight.
-image::the-shooting-phase/sight.svg[id=sight]
+image::shooting/sight.svg[width=1312,height=785,id=sight]
 
 Some units can see all round – they have 360 degree vision
 – and you will find this indicated in the unit’s description
@@ -125,7 +125,7 @@ edge.
 ////
 
 // Moved to end of section
-image::the-shooting-phase/empire-infantry.webp[]
+image::shooting/empire-infantry.webp[width=2200,height=322]
 
 [.h-bo5a]
 [#calculating-casualties]
@@ -213,7 +213,7 @@ enemy stands. It is possible that the first three shots could
 remove the stand in the open, obliging the remaining three
 enemy to shoot at a defended target.
 
-image::the-shooting-phase/boar-riders.webp[]
+image::shooting/boar-riders.webp[width=2079,height=736]
 
 // TODO: bo5a Open, Defended and Fortified box example
 
@@ -277,7 +277,7 @@ the fighting ranks. Although this means that it is quite
 difficult to inflict casualties by shooting, missile fire can
 be used to drive back enemy units, as follows.
 
-image::the-shooting-phase/wizard.webp[]
+image::shooting/wizard.webp[width=688,height=1084]
 
 [#driving-back-enemies]
 == Driving back enemies
@@ -339,7 +339,7 @@ as a block. See <<drive-back>>.
 
 // Caption added.
 .Driving back enemies
-image::the-shooting-phase/drive-back.svg[id=drive-back]
+image::shooting/drive-back.svg[width=1312,height=1428,id=drive-back]
 
 [#units-confused-during-drive-backs]
 === Units confused during drive backs
@@ -371,7 +371,7 @@ usually destroyed as a result. Large monsters with many
 hits are more likely to be destroyed in this fashion than
 infantry or cavalry units.
 
-image::the-shooting-phase/chariot.webp[]
+image::shooting/chariot.webp[width=910,height=1088]
 
 [#shooting-at-charging-enemy]
 == Shooting at charging enemy
@@ -458,7 +458,7 @@ into account by including any hits inflicted in the result
 for the first round of fighting (see xref::combat.adoc#combat-results[Combat results].
 
 .The Archers shoot as the Knights charge.
-image::the-shooting-phase/shooting-at-chargers.webp[id=shooting-at-chargers]
+image::shooting/shooting-at-chargers.webp[width=984,height=693,id=shooting-at-chargers]
 
 If a missile-armed unit is charged by two or more
 enemy units, one after the other, then it can potentially
@@ -471,9 +471,9 @@ at charging enemy.
 // TODO: Low-priority diagram.
 // 2 changed to Two to avoid adjacent figure number.
 .Two hits are scored – not enough to remove a stand – but these hits are carried over into the first combat round.
-image::the-shooting-phase/shooting-hits-carried-over.webp[id=shooting-hits-carried-over]
+image::shooting/shooting-hits-carried-over.webp[width=984,height=676,id=shooting-hits-carried-over]
 
-image::the-shooting-phase/skull.webp[]
+image::shooting/skull.webp[width=404,height=408]
 
 [#special-situations]
 == Special situations
@@ -507,4 +507,4 @@ qualities immediately, for they are an important means
 of controlling the battlefield and frustrating your
 enemy’s plans.
 
-image::the-shooting-phase/charging.webp[]
+image::shooting/charging.webp[width=2075,height=861]

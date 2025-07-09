@@ -11,13 +11,13 @@ Wizards and Heroes are referred to as characters.
 ****
 [cols="^,^",frame=none,grid=none]
 |===
-|image:generals-wizards-and-heroes/general.webp[]
-|image:generals-wizards-and-heroes/wizard-1.webp[]
+|image:characters/general.webp[width=534,height=434]
+|image:characters/wizard-1.webp[width=746,height=569]
 
 |General |Wizard
 
-|image:generals-wizards-and-heroes/hero.webp[]
-|image:generals-wizards-and-heroes/wizard-2.webp[]
+|image:characters/hero.webp[width=514,height=597]
+|image:characters/wizard-2.webp[width=541,height=590]
 
 |Hero | Wizard
 |===
@@ -45,7 +45,7 @@ stand with its game values. Full game values
 for all characters can be found in the Army
 List section.
 
-image::generals-wizards-and-heroes/character.webp[]
+image::characters/character.webp[width=465,height=499]
 
 [cols="4*^"]
 |===
@@ -57,7 +57,7 @@ image::generals-wizards-and-heroes/character.webp[]
 >|Command 8
 |===
 
-image::generals-wizards-and-heroes/dryads.webp[]
+image::characters/dryads.webp[width=2004,height=410]
 
 [#characters-as-game-pieces]
 == Characters as game pieces
@@ -116,7 +116,7 @@ character and the presence of an enemy character within
 
 //include::partial$divider-axe.adoc[]
 
-image::generals-wizards-and-heroes/dark-knight.webp[]
+image::characters/dark-knight.webp[width=452,height=505]
 
 [#orders-from-wizards-heroes]
 == Orders from wizards & heroes
@@ -195,7 +195,7 @@ However, if the General rolls
 a 12 the unit/brigade cannot move even if it was its first
 order and therefore it was eligible for a half pace move.
 
-image::generals-wizards-and-heroes/wolf-rider.webp[]
+image::characters/wolf-rider.webp[width=920,height=1330]
 
 [discrete]
 [#d6-blunder]
@@ -267,7 +267,7 @@ enemy, they halt. The unit/brigade cannot receive
 any further orders that Command phase.
 --
 
-image::generals-wizards-and-heroes/night-goblins.webp[]
+image::characters/night-goblins.webp[width=2147,height=281]
 
 [#character-movement]
 == Character movement
@@ -304,7 +304,7 @@ open ocean, into a volcanic lake and so forth). If riding
 monsters or chariots, characters are restricted by terrain
 in the same way as these troops. See [.edit]#<<character-mounts>>#.
 
-image::generals-wizards-and-heroes/tusks.webp[]
+image::characters/tusks.webp[width=345,height=349]
 
 [#joining-a-unit]
 == Joining a unit
@@ -368,8 +368,6 @@ who might otherwise exploit their invulnerability to
 launch unsupported magical attacks deep behind enemy
 lines.
 
-include::partial$divider-sword.adoc[]
-
 If a character is with a unit when it makes contact with
 a moving enemy then the character can be repositioned
 out of the way as convenient, so long as he stays in touch
@@ -377,6 +375,8 @@ with the unit he is with. If this is impossible (if the unit
 is surrounded, for example) then the character can be
 precariously balanced on top of the unit or removed but
 assumed to be included within the unit’s formation.
+
+include::partial$divider-sword.adoc[]
 
 [#characters-shooting]
 == Characters & shooting
@@ -523,4 +523,4 @@ slightly inconvenient in play, but allow for some very
 nice decorative models or more complex scenes and do
 look very attractive.
 
-image::generals-wizards-and-heroes/ogres.webp[]
+image::characters/ogres.webp[width=1695,height=621]
