@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-07-08 23:04+0000\n"
+"PO-Revision-Date: 2025-07-11 15:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_vampire-counts/fr/>\n"
@@ -329,17 +329,15 @@ msgstr "Chauve-souris Vampires"
 
 #. type: Attribute :vampire-lord:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:26
-#, fuzzy, no-wrap
-#| msgid "Vampire Counts"
+#, no-wrap
 msgid "Vampire Lord"
-msgstr "Comtes Vampires"
+msgstr "Seigneur Vampire"
 
 #. type: Attribute :vampire:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:27
-#, fuzzy, no-wrap
-#| msgid "Vampire Counts"
+#, no-wrap
 msgid "Vampire"
-msgstr "Comtes Vampires"
+msgstr "Vampire"
 
 #. type: Attribute :necromancer:
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:28
@@ -679,12 +677,12 @@ msgstr "Sorts des Comtes Vampires"
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:224
 #, no-wrap
 msgid "Vanhel’s Danse Macabre"
-msgstr ""
+msgstr "Danse Macabre de Vanhel"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:227
 msgid "[.cost]#5+ to cast# [.points]#Range 40cm#"
-msgstr ""
+msgstr "[.cost]#5+ pour lancer# [.points]#Portée 40cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:230
@@ -692,6 +690,8 @@ msgid ""
 "_The bodies of the dead move under the powerful influence of necromantic "
 "magic renewing their vigour once more._"
 msgstr ""
+"_Sous l’influence de la nécromancie, les corps des trépassés sont animés d’"
+"une vigueur infernale._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:236
@@ -701,6 +701,10 @@ msgid ""
 "it or not. The spell affects only a single unit, never a brigade and there "
 "is no supporting charge possible."
 msgstr ""
+"Ce sort peut être lancé sur n’importe quelle unité amie à portée, à l’"
+"exception des Goules, que le sorcier puisse la voir ou non. Le sort n’"
+"affecte qu’une seule unité, jamais une brigade, et aucune charge de soutien "
+"n’est possible."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:255
@@ -711,17 +715,23 @@ msgid ""
 "targets count as having no armour). A unit can be driven back by Deathbolt "
 "as with ordinary shooting."
 msgstr ""
+"Le Sorcier peut lancer ce sort sur une unité ennemie en vue qui n’est pas "
+"engagée en combat. L’unité victime de l’Éclair de Mort subit trois attaques "
+"résolues comme des attaques de tir ordinaires mais son Armure est ignorée ("
+"quelle que soit la cible de ce sort, elle compte comme n’ayant aucune armure)"
+". Une unité peut être repoussée par un Éclair de Mort de la même manière que "
+"par des tirs ordinaires."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:257
 #, no-wrap
 msgid "Curse of Years"
-msgstr ""
+msgstr "Vieillissement"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:260
 msgid "[.cost]#6+ to cast# [.points]#Range N/A#"
-msgstr ""
+msgstr "[.cost]#6+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:263
@@ -729,6 +739,8 @@ msgid ""
 "_The Wizard’s enemies crumble to dust as he smites them with the corrupting "
 "Curse of Years._"
 msgstr ""
+"_Les ennemis du Sorcier tombent en poussière tandis qu’il déchaîne sur eux "
+"la malédiction des siècles._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:267
@@ -747,3 +759,6 @@ msgid ""
 "scored are carried over into the first round of combat and count as having "
 "been struck in the first round for purposes of working out combat results."
 msgstr ""
+"La cible subit six attaques résolues de la manière habituelle. Toute touche "
+"infligée est reportée dans le premier round de combat et compte comme ayant "
+"été infligée au combat pour ce qui est de sa résolution."
