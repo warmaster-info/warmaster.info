@@ -644,7 +644,7 @@ stands. If your test is successful,
 [.ancients]#then *all* the units have received an order, if
 the test is failed, *all* the units have failed to receive an order#
 and the
-whole brigade moves at half pace or doesn’t move at all
+whole brigade moves at half pace or doesn’t move [.edit]#further#
 depending on whether it is a first or subsequent order
 (see xref::command.adoc#giving-an-order[Giving an order]).
 
