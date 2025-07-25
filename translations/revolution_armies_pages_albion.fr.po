@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-07-25 10:04+0000\n"
+"PO-Revision-Date: 2025-07-25 12:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_albion/fr/>\n"
@@ -638,6 +638,9 @@ msgid ""
 "enigmatic homeland and envelopes his compatriots, making them hard to target "
 "by enemy troops._"
 msgstr ""
+"_Le Druide exhale la même brume mystique qui entoure les terres d’Albion et "
+"enveloppe ses compatriotes, les rendant difficiles à cibler par les troupes "
+"ennemies._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:215
@@ -648,12 +651,17 @@ msgid ""
 "any way. The target Infantry unit counts as Defended, even if in the open "
 "terrain."
 msgstr ""
+"Ce sort peut être lancé sur une seule unité d'infanterie amie non engagée au "
+"corps à corps et à portée, que le lanceur puisse la voir ou non. Le sort "
+"dure jusqu'au début du prochain tour du lanceur, ou jusqu'à ce que l'unité "
+"ciblée se déplace de quelque façon que ce soit. L'unité d'infanterie ciblée "
+"est considérée comme étant Défendue, même en terrain découvert."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:217
 #, no-wrap
 msgid "Summon Fenbeast"
-msgstr ""
+msgstr "Invocation de Bêtes des marais"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:220
@@ -672,6 +680,9 @@ msgid ""
 "his power over the elements to bind together the horrific creature known as "
 "the Fenbeast._"
 msgstr ""
+"_Le Druide exécute l'un des rituels les plus mystérieux de son ordre, "
+"utilisant son pouvoir sur les éléments pour se lier à la créature "
+"terrifiante connue sous le nom de Bête des marais._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:227
@@ -679,6 +690,8 @@ msgid ""
 "The Druid summons forth a Fenbeast. Once summoned, the Fenbeast is under the "
 "control of the summoning player."
 msgstr ""
+"Le Druide invoque une Bête des marais. Une fois invoquée, elle est sous le "
+"contrôle du joueur qui l'invoque."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:235
@@ -690,6 +703,13 @@ msgid ""
 "of Druids to less than the number of Fenbeasts – the owning player chooses a "
 "Fenbeast and removes it from play."
 msgstr ""
+"Puisqu’elle est invoquée lors de la phase de Tir, elle ne peut recevoir "
+"d'ordres qu'au tour suivant. Elle ne peut être invoquée au contact d'une "
+"unité ennemie que si celle-ci est déjà en combat. Elle est retirée du jeu si "
+"elle est détruite (comme toute autre unité) ou si la perte d'un personnage "
+"Druide réduit le nombre de Druides à un niveau inférieur à celui des Bêtes "
+"des Marais ; le joueur qui la possède choisit une Bête des Marais et la "
+"retire du jeu."
 
 #.  Summoned
 #. type: Plain text
@@ -698,6 +718,8 @@ msgid ""
 "Summoned Fenbeast units do not influence army withdrawal calculations in any "
 "way and do not have a points value."
 msgstr ""
+"Les unités de Bêtes des marais invoquées ne comptent pas dans le calcul du "
+"seuil de déroute de l'armée et n'ont pas de valeur en points."
 
 #.  Paragraphs added.
 #. type: Plain text
@@ -707,3 +729,7 @@ msgid ""
 "with other troops, not even other Fenbeasts. An army cannot have more "
 "summoned Fenbeasts in play than it has Druids."
 msgstr ""
+"Seuls les Druides peuvent donner des ordres aux Bêtes des marais. Elles ne "
+"peuvent pas être mises en brigade avec d'autres troupes, même avec d’autres "
+"Bêtes des marais. Une armée ne peut pas avoir plus de Bêtes des Marais "
+"invoquées en jeu que de Druides."
