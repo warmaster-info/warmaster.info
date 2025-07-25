@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-07-08 23:04+0000\n"
+"PO-Revision-Date: 2025-07-25 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_albion/fr/>\n"
@@ -36,7 +36,7 @@ msgstr "Guerriers"
 #: en/revolution/modules/armies/pages/albion.adoc:20
 #, no-wrap
 msgid "Slingers"
-msgstr ""
+msgstr "Frondeurs"
 
 #. type: Attribute :ogres:
 #: en/revolution/modules/armies/pages/albion.adoc:21
@@ -51,7 +51,7 @@ msgstr "Ogres"
 #: en/revolution/modules/armies/pages/albion.adoc:22
 #, no-wrap
 msgid "Wolfhounds"
-msgstr ""
+msgstr "Chiens de chasse"
 
 #. type: Attribute :cavalry:
 #: en/revolution/modules/armies/pages/albion.adoc:23
@@ -89,7 +89,7 @@ msgstr "Aigles Géants"
 #: en/revolution/modules/armies/pages/albion.adoc:27
 #, no-wrap
 msgid "Fenbeast"
-msgstr ""
+msgstr "Bêtes des marais"
 
 #. type: Attribute :general:
 #: en/revolution/modules/armies/pages/albion.adoc:28
@@ -136,7 +136,7 @@ msgstr "Héros"
 #: en/revolution/modules/armies/pages/albion.adoc:30
 #, no-wrap
 msgid "Druid"
-msgstr ""
+msgstr "Druide"
 
 #. type: Attribute :giant-eagle:
 #: en/revolution/modules/armies/pages/albion.adoc:31
@@ -175,6 +175,21 @@ msgid ""
 "disabled their control complex on Albion.  A vast quantity of dangerous "
 "psycho-active energy was released as a result."
 msgstr ""
+"image:albion/logo.webp[width=118,height=117,float=\"right\"] Il y a très "
+"longtemps, l'île d'Albion était le site d'un vaste complexe techno-arcanique "
+"créé par une ancienne race capable de naviguer dans l’espace appelée les "
+"Slanns. Leurs cercles de pierres soigneusement alignés et les milliers de "
+"kilomètres de lignes telluriques précisément disposées leur servaient "
+"autrefois à maîtriser le mystérieux pouvoir psychomagique du Warp. Ce "
+"pouvoir était utilisé pour contrôler les gigantesques portails par lesquels "
+"les vaisseaux Slanns traversaient la galaxie, jusqu’à l’avènement d’un "
+"malheureux accident : les portails devinrent instables, ouvrant une faille "
+"dans le vide et créant la zone de contamination et d'instabilité temporelle "
+"connue aujourd'hui sous le nom de Désolations du Chaos. Afin d'empêcher "
+"leurs portails endommagés de devenir incontrôlables et d'engloutir le monde "
+"entier, les Slanns détruisirent ou désactivèrent leur complexe de contrôle "
+"sur Albion. Une énorme quantité d'énergie psychoactive dangereuse fut alors "
+"libérée."
 
 #.  Removed "the isle of"
 #. type: Plain text
@@ -189,6 +204,14 @@ msgid ""
 "culturally, coming to live an ape-like existence alongside the other "
 "malformed monsters of their devastated land."
 msgstr ""
+"Cette catastrophe transforma Albion en une terre distordue, désormais "
+"enveloppée de brumes glaciales et d'une pluie incessante. La libération "
+"explosive d'énergie warp eut pour effet de tordre le temps et l'espace de "
+"manière surprenante. De ce fait, l'île se révéla quasi impossible à "
+"atteindre et de nombreux habitants du Vieux Monde en vinrent à douter de son "
+"existence même. Isolés du monde et de la réalité, les habitants de l'île "
+"dégénérèrent physiquement et culturellement, vivant une existence simiesque "
+"aux côtés des autres monstres difformes de leur terre dévastée."
 
 #.  Moved "centre of the"
 #. type: Plain text
@@ -198,6 +221,10 @@ msgid ""
 "when their ancestors helped build the stone circles and other wonders that "
 "once formed the nerve centre of the Slanns’ techo-arcane warp mechanism."
 msgstr ""
+"Malgré cela, ils conservent encore quelques vestiges de souvenirs d'une "
+"époque de grandeur où leurs ancêtres aidèrent à construire les cercles de "
+"pierres et autres merveilles qui formaient autrefois le centre névralgique "
+"de la machine techno-arcanique du warp des Slanns."
 
 #.  mist-wreathed, remove "of Albion", extra .
 #. type: Plain text
@@ -210,6 +237,13 @@ msgid ""
 "Albion show that its native armies are every bit as lethal as those of any "
 "of the more so called ‘civilised’ nations."
 msgstr ""
+"L'île enveloppée de brume a connue autant de carnages et de guerres que le "
+"reste du monde connu. Albion est perçue comme un endroit reculé, humide et "
+"marécageux, et les rapports d'incursions récentes se sont concentrés sur les "
+"affrontements entre des envahisseurs supposément plus avancés. Cependant, un "
+"examen plus approfondi des campagnes menées en Albion révèle que ses armées "
+"indigènes sont tout aussi meurtrières que celles de n'importe quelle nation "
+"dite « civilisée »."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:87
@@ -220,6 +254,12 @@ msgid ""
 "native ponies and form the cavalry used to both scout and to support the "
 "noble chariot warriors."
 msgstr ""
+"Le cœur de toute armée d'Albion est composé de nobles sur des chars et de "
+"bandes de guerriers à pied, entourées de jeunes hommes armés de frondes et "
+"de javelots, menés par le chef local. Les nobles les plus pauvres et les "
+"guerriers les plus riches sont montés sur de robustes poneys indigènes et "
+"forment la cavalerie utilisée à la fois pour partir en reconnaissance ainsi "
+"que soutenir les nobles sur char."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:95
@@ -231,6 +271,12 @@ msgid ""
 "supplement the cavalry, screening attacks and harassing vulnerable enemy "
 "flanks."
 msgstr ""
+"Albion est célèbre pour ses grands chiens de chasse élevés par les "
+"autochtones. Ils sont largement exportés, notamment en Bretonnie et dans "
+"l'Empire, où leur taille, leur force et leur férocité sont très prisées des "
+"chasseurs nobles. En temps de guerre, ces chiens de chasse sont rassemblés "
+"en d'immenses meutes baveuses et servent à épauler la cavalerie, la "
+"protégeant des attaques et harcelant les flancs ennemis vulnérables."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:102
@@ -241,6 +287,12 @@ msgid ""
 "the famed giants of Albion. Just like those giants that accompany Orc "
 "armies, these massive warriors make up for in brawn what they lack in brains!"
 msgstr ""
+"En temps de guerre, certains chefs peuvent également faire appel aux aigles "
+"géants dont les aires parsèment les plus hauts sommets du pays. Rares sont "
+"les chefs d'Albion qui laisseront passer l'occasion de recruter certains des "
+"plus grands habitants de leur île : les célèbres géants d'Albion. À l'instar "
+"des géants qui accompagnent les armées orques, ces guerriers massifs "
+"compensent leur manque d'intelligence par leur force physique !"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:110
@@ -252,6 +304,13 @@ msgid ""
 "marshal the army and the enigmatic druids who are not only the army’s "
 "wizards but also its law makers, judges and soothsayers."
 msgstr ""
+"Moins puissantes, mais aussi moins stupides, les bandes d'ogres affluent "
+"pour rejoindre les armées d'Albion – pour une part du butin et la "
+"possibilité de transformer un ancien ennemi en un casse-croûte rapide ! "
+"Outre les chefs guerriers qui dirigent les armées, des guerriers héroïques "
+"aident à les organiser, aux côtés des énigmatiques druides, qui sont non "
+"seulement les sorciers de l'armée, mais aussi ses législateurs, juges et "
+"devins."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/albion.adoc:114
@@ -360,7 +419,7 @@ msgstr "Les Aigles Géants peuvent voler."
 #: en/revolution/modules/armies/pages/albion.adoc:140
 #, no-wrap
 msgid "[[giant-eagle-mount,†4]]4. Giant Eagle Mount"
-msgstr ""
+msgstr "[[giant-eagle-mount,†4]]4. Monture Aigle Géant"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:141
@@ -373,33 +432,35 @@ msgstr "Les Aigles Géants peuvent voler."
 #: en/revolution/modules/armies/pages/albion.adoc:144
 msgid "An Eagle can fly, increasing its rider’s move from 60 to 100cm."
 msgstr ""
+"Un Aigle Géant peut voler, il augmente donc le mouvement de son cavalier de "
+"60 à 100 cm."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:146
 msgid "It adds +2 Attacks to those of its rider."
-msgstr ""
+msgstr "Il ajoute également +2 Attaques au profil de son cavalier."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/albion.adoc:147
 #, no-wrap
 msgid "[[chariot-mount,†5]]5. Chariot Mount"
-msgstr ""
+msgstr "[[chariot-mount,†5]]5. Char Monté"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:149
 msgid "Generals, Druids and Heroes can ride Chariots."
-msgstr ""
+msgstr "Les Généraux, les Druides et les Héros peuvent monter sur un Char."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:151
 msgid "An extra +1 Attack is added to those of its rider."
-msgstr ""
+msgstr "Ce qui ajoute +1 Attaque à leur profil."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/albion.adoc:152
 #, no-wrap
 msgid "[[fenbeast,†6]]6. Fenbeast"
-msgstr ""
+msgstr "[[fenbeast,†6]]6. Bêtes des marais"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:156
@@ -408,6 +469,9 @@ msgid ""
 "standard way. Fenbeasts appear on the battlefield only after a Druid casts "
 "the Summon Fenbeast spell."
 msgstr ""
+"Les Bêtes des marais forment une unité à part entière, mais ne sont pas "
+"alignées sur le champ de bataille de la manière habituelle. Elles sont "
+"invoquées par un Druide en lançant le sort d’Invocation de Bêtes des marais."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:163
@@ -418,6 +482,12 @@ msgid ""
 "summoned them, that Druid counts as having a Command value of +1 when "
 "commanding the Fenbeast – that is 8 rather than 7."
 msgstr ""
+"Une Bête des marais ne peut former une brigade avec d’autres unités, même d’"
+"autres Bêtes des marais. Elles n’utilisent jamais l’initiative pour bouger "
+"lors de la Phase d’Ordre. Les Druides ont une valeur de Commandement "
+"augmentée de +1 quand ils donnent des ordres aux Bêtes des marais, c’est-à-"
+"dire 8 au lieu de 7, car elles sont entièrement dominées par la volonté de "
+"ceux qui les ont invoquées."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:168
@@ -426,11 +496,14 @@ msgid ""
 "wild Bog Beasts from the ‘Dark Shadows’ campaign, Fenbeasts will make way "
 "for friendly troops."
 msgstr ""
+"Les Bêtes des marais peuvent traverser les marais comme si c’était du "
+"terrain dégagé, et peut laisser passer les unités alliées de la manière "
+"habituelle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:170
 msgid "A Fenbeast causes terror in its enemies."
-msgstr ""
+msgstr "Les Bêtes des marais provoquent la terreur."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/albion.adoc:174
@@ -442,7 +515,7 @@ msgstr "Sorts d'Albion"
 #: en/revolution/modules/armies/pages/albion.adoc:177
 #, no-wrap
 msgid "Downpour"
-msgstr ""
+msgstr "Averse"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:180
@@ -469,7 +542,7 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 msgid ""
 "_The Druid brings down a localised shower of fine, freezing rain upon his "
 "foes._"
-msgstr ""
+msgstr "_Le Druide fait tomber une pluie fine et glacée sur ses ennemis._"
 
 #.  cms → cm
 #. type: Plain text
@@ -478,12 +551,15 @@ msgid ""
 "Until the start of the Druid player’s next turn all enemy units within 30cm "
 "of the casting Druid suffer −1 to their command."
 msgstr ""
+"Jusqu'au début du prochain tour du joueur Druide, toutes les unités ennemies "
+"à 30 cm ou moins du Druide qui lance le sort subissent un malus de -1 à leur "
+"commandement."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:189
 #, no-wrap
 msgid "Storm of Hail"
-msgstr ""
+msgstr "Tempête de Grêle"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:192
@@ -533,6 +609,8 @@ msgid ""
 "_The Druid harnesses the power of the weather to attack his enemies with "
 "enormous hailstones._"
 msgstr ""
+"_Le Druide exploite la puissance météorologique pour attaquer ses ennemis "
+"avec d'énormes grêlons._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:200
@@ -542,12 +620,16 @@ msgid ""
 "save the target may have. The target unit may be driven back in the same way "
 "as for shooting."
 msgstr ""
+"Le Druide cible une unité ennemie à portée qu’il peut voir. Le sort est "
+"traité comme 3 attaques de tir ordinaires, si ce n’est que l’armure de la "
+"cible est ignorée (elle compte comme n’ayant pas d’Armure). Une unité peut "
+"être repoussée par la Tempête de Grêle comme par une attaque de tir normale."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:202
 #, no-wrap
 msgid "Mists of Albion"
-msgstr ""
+msgstr "Brumes d’Albion"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:209
