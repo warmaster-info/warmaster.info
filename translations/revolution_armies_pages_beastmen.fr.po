@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-07-08 20:04+0000\n"
+"PO-Revision-Date: 2025-07-25 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_beastmen/fr/>\n"
@@ -150,31 +150,31 @@ msgstr "Hommes-Bêtes"
 #: en/revolution/modules/armies/pages/beastmen.adoc:20
 #, no-wrap
 msgid "Gor"
-msgstr ""
+msgstr "Gors"
 
 #. type: Attribute :ungor:
 #: en/revolution/modules/armies/pages/beastmen.adoc:21
 #, no-wrap
 msgid "Ungor"
-msgstr ""
+msgstr "Ungors"
 
 #. type: Attribute :bestigors:
 #: en/revolution/modules/armies/pages/beastmen.adoc:22
 #, no-wrap
 msgid "Bestigors"
-msgstr ""
+msgstr "Bestigors"
 
 #. type: Attribute :minotaurs:
 #: en/revolution/modules/armies/pages/beastmen.adoc:23
 #, no-wrap
 msgid "Minotaurs"
-msgstr ""
+msgstr "Minotaures"
 
 #. type: Attribute :centigors:
 #: en/revolution/modules/armies/pages/beastmen.adoc:24
 #, no-wrap
 msgid "Centigors"
-msgstr ""
+msgstr "Centigors"
 
 #. type: Attribute :chaos-hounds:
 #: en/revolution/modules/armies/pages/beastmen.adoc:25
@@ -187,7 +187,7 @@ msgstr "Chiens du Chaos"
 #: en/revolution/modules/armies/pages/beastmen.adoc:26
 #, no-wrap
 msgid "Tuskgor Chariots"
-msgstr ""
+msgstr "Chars à razorgors"
 
 #. type: Attribute :dragon-ogres:
 #: en/revolution/modules/armies/pages/beastmen.adoc:27
@@ -207,37 +207,37 @@ msgstr "Enfants du Chaos"
 #: en/revolution/modules/armies/pages/beastmen.adoc:29
 #, no-wrap
 msgid "Dragon Ogre Shaggoth"
-msgstr ""
+msgstr "Shaggoth Dragon Ogre"
 
 #. type: Attribute :beastlord:
 #: en/revolution/modules/armies/pages/beastmen.adoc:30
 #, no-wrap
 msgid "Beastlord"
-msgstr ""
+msgstr "Seigneur des Bêtes"
 
 #. type: Attribute :doombull:
 #: en/revolution/modules/armies/pages/beastmen.adoc:31
 #, no-wrap
 msgid "Doombull"
-msgstr ""
+msgstr "Doombull"
 
 #. type: Attribute :wargor:
 #: en/revolution/modules/armies/pages/beastmen.adoc:32
 #, no-wrap
 msgid "Wargor"
-msgstr ""
+msgstr "Wargor"
 
 #. type: Attribute :bray-shaman:
 #: en/revolution/modules/armies/pages/beastmen.adoc:33
 #, no-wrap
 msgid "Bray Shaman"
-msgstr ""
+msgstr "Braillechamane"
 
 #. type: Attribute :tuskgor-chariot:
 #: en/revolution/modules/armies/pages/beastmen.adoc:34
 #, no-wrap
 msgid "Tuskgor Chariot"
-msgstr ""
+msgstr "Char à razorgor"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:50
@@ -253,6 +253,18 @@ msgid ""
 "race of Men above all else. They are cruel and brutal creatures who brawl "
 "and fight amongst themselves when not venting their hatred against mankind."
 msgstr ""
+"image:beastmen/logo.webp[width=116,height=117,float=\"right\"] Dans les "
+"sombres forêts du Vieux Monde vivent les rejetons favoris du Chaos, "
+"créatures immondes et impies qui haïssent le monde et se cachent de la "
+"lumière du jour. Ils ne servent aucun maître mortel, mais appartiennent "
+"corps et âme aux Dieux Sombres du Chaos. Les Hommes appellent ces créatures "
+"des Hommes-Bêtes, car ils sont mi-humains, mi-bêtes, et leurs corps déformés "
+"sont un blasphème contre la nature. Leurs têtes bestiales sont ornées de "
+"cornes, et leurs membres de griffes et de sabots fendus. Les Hommes-Bêtes "
+"sont des créatures sauvages et brutales qui se soucient peu des autres êtres "
+"et méprisent la race des Hommes par-dessus tout. Ce sont des créatures "
+"cruelles et brutales qui se bagarrent et se battent entre elles lorsqu'elles "
+"ne sont pas occupées à répandre leur haine de l'humanité."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:57
@@ -263,6 +275,12 @@ msgid ""
 "causing severe mutations, and the descendants of the foul beasts born from "
 "that catastrophe still plague the dark places of the world."
 msgstr ""
+"Les Hommes-bêtes ne sont pas des créatures naturelles ; ils sont apparus "
+"lors de l'effondrement de la porte polaire des Anciens, déversant sur le "
+"monde une masse de malepierre corrompue. Cette catastrophe a profondément "
+"transformée nombre des ancêtres des Hommes, provoquant de graves mutations. "
+"Les descendants des bêtes immondes nées de cette catastrophe continuent de "
+"sévir dans les recoins sombres du monde."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:64
@@ -273,6 +291,12 @@ msgid ""
 "deadly combination, for the Beastmen utterly despise the Humans who they can "
 "never be, filled with self-loathing that turns to aggressive hatred."
 msgstr ""
+"Ni pleinement humains ni pleinement animaux, les Hommes-bêtes embrassent "
+"volontiers leur héritage du Chaos : ils possèdent l'intelligence d'un homme, "
+"mais l'utilisent avec la ruse d'un animal sauvage. Pour le peuple de "
+"l'Empire, c'est une combinaison mortelle, car les Hommes-bêtes méprisent "
+"profondément les Humains qu'ils ne pourront jamais être, emplis d'un dégoût d"
+"'eux-mêmes qui se transforme en haine agressive."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:74
@@ -286,18 +310,26 @@ msgid ""
 "robust, heavily-muscled frames are perfectly suited to sating the murderous "
 "desires that gleam in their blood-red eyes."
 msgstr ""
+"Malformes, vils et maléfiques, les Hommes-bêtes détestent toute créature "
+"naturelle et saine. Ce sont des créatures sauvages et grossières, animées de "
+"désirs animaux et d'un tempérament imprévisible et violent. Ils possèdent de "
+"longues cornes striées pour encorner leurs ennemis, et des pattes de bœuf ou "
+"de chèvre pour écraser les corps de leurs victimes. Leurs gueules baveuses "
+"sont garnies de longs crocs de loup, parfaits pour détacher la chair des os, "
+"et leur robustesse et leur musculature sont parfaitement adaptées pour "
+"assouvir les désirs meurtriers qui brillent dans leurs yeux rouge sang."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/beastmen.adoc:78
 #, no-wrap
 msgid "Beastmen army selector"
-msgstr ""
+msgstr "Sélecteur d’Armée des Hommes-Bêtes"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/beastmen.adoc:83
 #, no-wrap
 msgid "include::partial$beastmen.tsv[]\n"
-msgstr ""
+msgstr "include::partial$beastmen.tsv[]\n"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:89
@@ -320,7 +352,7 @@ msgstr "Règles de l'Armée"
 #: en/revolution/modules/armies/pages/beastmen.adoc:91
 #, no-wrap
 msgid "The things in the woods"
-msgstr ""
+msgstr "Les êtres des bois"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:93
@@ -328,6 +360,8 @@ msgid ""
 "Beastmen infantry do not suffer the usual −1 Command penalty when within "
 "woodland."
 msgstr ""
+"L'infanterie des Hommes-bêtes ne subit pas la pénalité habituelle de −1 en "
+"commandement lorsqu'elle se trouve dans les bois."
 
 #. 3: its
 #. 5: if not → unless, roll, its
@@ -335,7 +369,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/beastmen.adoc:102
 #, no-wrap
 msgid "[[gor-ungor,†1]]1. Gor/Ungor"
-msgstr ""
+msgstr "[[gor-ungor,†1]]1. Gor/Ungor"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:107
@@ -345,6 +379,11 @@ msgid ""
 "inform your opponent how many units will Ambush. Ambushers may form Brigades "
 "or act as single units."
 msgstr ""
+"Jusqu'à la moitié des unités Gor (arrondie à l'inférieur) et la moitié des "
+"unités Ungor (arrondie à l'inférieur) peuvent être placés en Embuscades. Au "
+"début de la partie, vous devez informer votre adversaire du nombre d'unités "
+"qui participeront à l'Embuscade. Les unités en Embuscade peuvent former des "
+"brigades ou agir seules."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:115
@@ -356,6 +395,13 @@ msgid ""
 "character’s Command range. Apply distance and enemy proximity penalties, but "
 "ignore dense terrain penalties."
 msgstr ""
+"Les unités en embuscade sont déployées pendant n'importe quelle phase d’"
+"Ordre, et non au début de la partie. Pour les déployer, désignez un "
+"personnage, les unités embusquées et un point dans un terrain dense ou sur "
+"n'importe quel bord du champs de bataille, sauf celui de l'ennemi. Donnez un "
+"ordre d'embuscade au point, qui peut être hors de portée de commandement du "
+"personnage. Appliquez les pénalités de distance et de proximité ennemie, "
+"mais ignorez les pénalités de terrain dense."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:123
@@ -367,6 +413,13 @@ msgid ""
 "group must be at least partially within the terrain. No Ambusher may deploy "
 "within 1cm of an enemy stand."
 msgstr ""
+"Si l'ordre d'embuscade réussit, placez un socle de l'unité à ce point, puis "
+"déployez les autres en formation autour. Les unités en brigade doivent être "
+"déployées à distance de pleine vitesse ou moins du premier socle. Si le "
+"point désigné se trouve en terrain dense, il faut veiller à ce que chaque "
+"socle de chaque unité du groupe soit au moins partiellement à l'intérieur du "
+"terrain. Aucune unité en embuscade ne peut se déployer à moins de 1 cm d'un "
+"socle ennemi."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:128
@@ -375,22 +428,28 @@ msgid ""
 "range, but the Ambush order counts as their first order. If the Ambush order "
 "fails, Ambushers cannot deploy that turn but can try again later in the game."
 msgstr ""
+"Après leur déploiement, les unités en Embuscade peuvent recevoir d'autres "
+"ordres s'ils sont à portée de Commandement, mais l'ordre d'Embuscade compte "
+"comme leur premier ordre. En cas d'échec, les unités en Embuscade ne peuvent "
+"pas se déployer ce tour-ci, mais pourront réessayer plus tard dans la partie."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:130
 msgid "Once deployed, Ambushers operate like normal units."
 msgstr ""
+"Une fois déployées, les unités en Embuscade agissent comme des unités "
+"normales."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:132
 msgid "Ungor have a shooting range of 15 cm."
-msgstr ""
+msgstr "Les Ungors ont une portée de tir de 15 cm."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:133
 #, no-wrap
 msgid "[[minotaurs,†2]]2. Minotaurs"
-msgstr ""
+msgstr "[[minotaurs,†2]]2. Minotaures"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:137
@@ -399,6 +458,10 @@ msgid ""
 "if possible and cannot be given orders instead. A unit with Bloodlust never "
 "use initiative to evade and must pursue or advance where possible."
 msgstr ""
+"Les Minotaures sont sujets à la Soif de Sang : ils utilisent toujours "
+"l'initiative pour charger si possible et ne peuvent pas recevoir d'ordres "
+"pour le faire. Une unité affectée par la Soif de Sang n'utilise jamais "
+"l'initiative pour éviter et doit poursuivre ou avancer si possible."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:141
@@ -406,12 +469,14 @@ msgid ""
 "Also, it is immune to terror, cannot be driven back by shooting and never "
 "rolls for drive backs."
 msgstr ""
+"De plus, ils sont immunisés contre la terreur, ne peuvent pas être repoussés "
+"par des tirs et ne font jamais de jet de repoussement."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:142
 #, no-wrap
 msgid "[[centigors,†3]]3. Centigors"
-msgstr ""
+msgstr "[[centigors,†3]]3. Centigors"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:147
@@ -444,7 +509,7 @@ msgstr "Les Dragons Ogres sont immunisés à la terreur."
 #: en/revolution/modules/armies/pages/beastmen.adoc:150
 #, no-wrap
 msgid "[[chaos-spawn,†5]]5. Chaos Spawn"
-msgstr ""
+msgstr "[[chaos-spawn,†5]]5. Enfants du Chaos"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:155
@@ -453,6 +518,11 @@ msgid ""
 "more non-Spawn units than Spawn units. Up to two Spawn units can be included "
 "in any brigade and do not count towards the maximum size of that brigade."
 msgstr ""
+"Les unités d'Enfants du Chaos infligent un malus de -1 de Commandement si "
+"elles ne font pas partis d'une brigade qui inclut plus d'unités d'autres "
+"types que d'Enfants du Chaos. Jusqu'à deux unité d'Enfants du Chaos peuvent "
+"être incluses dans une brigade et ne compte pas pour calculer la taille "
+"maximum de la brigade."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:161
@@ -488,7 +558,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/beastmen.adoc:168
 #, no-wrap
 msgid "[[dragon-ogre-shaggoth,†6]]6. Dragon Ogre Shaggoth"
-msgstr ""
+msgstr "[[dragon-ogre-shaggoth,†6]]6. Shaggoth Dragon Ogre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:171
@@ -496,6 +566,8 @@ msgid ""
 "Dragon Ogre Shaggoth must always be given a separate order. It cannot be "
 "brigaded with other troops even with other Shaggoths."
 msgstr ""
+"Le Shaggoth Dragon Ogre doit toujours recevoir un ordre séparé. Il ne peut "
+"pas être mis en brigade avec d'autres troupes, même avec d'autres Shaggoths."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:183
@@ -523,13 +595,13 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:186
 msgid "A Dragon Ogre Shaggoth causes terror in its enemies."
-msgstr ""
+msgstr "Un Shaggoth Dragon Ogre provoque la terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:187
 #, no-wrap
 msgid "[[doombull,†7]]7. Doombull"
-msgstr ""
+msgstr "[[doombull,†7]]7. Doombull"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:191
@@ -538,12 +610,16 @@ msgid ""
 "joined by a Doombull will become subject to Bloodlust in the same way as "
 "Minotaur units, until the end of the following Beastmen Command phase."
 msgstr ""
+"Une unité rejointe par un Doombull provoque la terreur. De plus, les Gors, "
+"Ungors et Bestigors rejoints par un Doombull seront sujets à la Soif de "
+"Sang, comme les Minotaures, jusqu'à la fin de la phase d’Ordres suivante des "
+"Hommes-bêtes."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:192
 #, no-wrap
 msgid "[[tuskgor-chariot,†8]]8. Tuskgor Chariot"
-msgstr ""
+msgstr "[[tuskgor-chariot,†8]]8. Char à razorgors"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:194
@@ -551,18 +627,20 @@ msgid ""
 "Beastlord or Wargors can ride a Tuskgor Chariot. A character riding a "
 "chariot adds +1 to his Attacks."
 msgstr ""
+"Les Seigneurs des Bêtes et les Wargors peuvent monter sur un Char à "
+"razorgors. Un personnage monté sur le char ajoute +1 à ses Attaques."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/beastmen.adoc:198
 #, no-wrap
 msgid "Beastmen spells"
-msgstr ""
+msgstr "Sorts Hommes-Bêtes"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:201
 #, no-wrap
 msgid "Traitor Kin"
-msgstr ""
+msgstr "Rébellion Animale"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:207
@@ -570,6 +648,8 @@ msgid ""
 "_The Shaman dominates the beasts used by the enemy, turning them on their "
 "masters._"
 msgstr ""
+"_Le Chaman domine les bêtes utilisées par l'ennemi, les retournant contre "
+"leurs maîtres._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:214
@@ -580,12 +660,18 @@ msgid ""
 "spell lasts the unit cannot use its Initiative. Any order given to the unit, "
 "or to any brigade of which the unit is a part, suffers a −1 Command penalty."
 msgstr ""
+"Ce sort peut être lancé sur toute unité ennemie de Cavalerie, de Chars ou de "
+"Monstres à portée, que le chaman puisse la voir ou non. Il reste en vigueur "
+"jusqu'à la fin du prochain tour du joueur adverse. Tant que le sort est "
+"actif, l'unité ne peut pas utiliser son Initiative. Tout ordre donné à "
+"l'unité, ou à toute brigade dont elle fait partie, subit un malus de −1 en "
+"commandement."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:216
 #, no-wrap
 msgid "Hunting for Gore!"
-msgstr ""
+msgstr "Frénésie Sanglante"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:224
@@ -594,6 +680,9 @@ msgid ""
 "tear asunder any enemy and feast on their bloody remains. Rows of wild "
 "warriors charge headlong into their foes._"
 msgstr ""
+"_Le pouvoir magique du Chaman exacerbe le désir irrépressible de la harde de "
+"dépecer tout ennemi et de se repaître de ses restes sanglants. Des rangs de "
+"guerriers sauvages chargent tête baissée sur leurs ennemis._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:231
@@ -604,12 +693,17 @@ msgid ""
 "in the Command phase.  Character stands that have joined the unit will not "
 "move with it – they remain where they are."
 msgstr ""
+"Le sort peut être lancé sur une unité amie non engagée au corps à corps à "
+"portée, que le chaman puisse la voir ou non. Il n'affecte qu'une seule "
+"unité, jamais une brigade. L'unité peut être déplacée comme si elle avait "
+"reçu un ordre lors de la phase d’Ordres. Les personnages ayant rejoint "
+"l'unité ne se déplacent pas avec elle ; ils restent sur place."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:233
 #, no-wrap
 msgid "Chaos Bolt"
-msgstr ""
+msgstr "Éclair du Chaos"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:240
@@ -618,6 +712,9 @@ msgid ""
 "from his mouth which calls down a mighty lightning bolt from the heavens "
 "above that strikes the enemy._"
 msgstr ""
+"_La puissance obscure du Chaos imprègne le Chaman. Une incantation infecte "
+"jaillit de sa bouche, invoquant un puissant éclair céleste qui frappe "
+"l'ennemi._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:247
@@ -628,12 +725,18 @@ msgid ""
 "except that armour has no effect (all targets count as having no armour). A "
 "unit can be driven back by a Chaos Bolt as with ordinary shooting."
 msgstr ""
+"Ce sort peut être lancé sur une unité ennemie. Le Chaman doit pouvoir voir "
+"sa cible. Il ne peut pas être dirigé contre une unité engagée dans un combat "
+"au corps à corps. L’Éclair du Chaos est traité comme 3 attaques de tir "
+"ordinaires, si ce n’est que l’armure de la cible est ignorée (elle compte "
+"comme n’ayant pas d’Armure). Une unité peut être repoussée par l’Éclair du "
+"Chaos comme pour n’importe quelle attaque de tir."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:249
 #, no-wrap
 msgid "Power of Herd"
-msgstr ""
+msgstr "Le Pouvoir de la Harde"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:256
@@ -641,6 +744,8 @@ msgid ""
 "_The Beastman Herd rise on the Shaman’s command.  Emboldened by his fervour "
 "they charge at the enemy with unbridled fury._"
 msgstr ""
+"_La harde d'Hommes-Bêtes se lève sur l'ordre du Chaman. Enhardis par sa "
+"ferveur, les Hommes-Bêtes chargent l'ennemi avec une fureur débridée._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:263
@@ -652,3 +757,9 @@ msgid ""
 "of its first following combat engagement. Additional Attack bonus does not "
 "apply when these units advance into next enemies."
 msgstr ""
+"Ce sort peut être lancé sur toutes les unités Gor, Ungor et Centigor "
+"engagées en combat au corps à corps et à portée, que le Chaman puisse les "
+"voir ou non. Une fois lancé avec succès, chaque unité affectée reçoit +1 "
+"Attaque supplémentaire par socle (y compris les personnage) pendant la durée "
+"du premier combat suivant. Le bonus d'Attaque supplémentaire ne s'applique "
+"pas lorsque ces unités avancent vers les ennemis suivants."
