@@ -70,3 +70,17 @@
   }
 })()
 </script>
+
+<script type="text/javascript">
+/* Change CSS for changes. */
+;(function () {
+  'use strict'
+
+  var button = document.getElementById('button-highlight-changes')
+  if (!button) return
+
+  button.addEventListener('click', function () {
+    document.body.classList.add("highlight-changes")
+  })
+})()
+</script>

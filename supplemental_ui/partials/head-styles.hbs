@@ -262,6 +262,81 @@ p:has(.cost) {
 }
 /* End unit stats */
 
+/* Changes to the rules */
+body {
+  --change-line-thickness: 1px;
+
+  --change-edit-line: aliceblue;
+  --change-edit-text: lightblue;
+
+  --change-qa-line: palegreen;
+  --change-qa-text: springgreen;
+
+  --change-ancients-line: seashell;
+  --change-ancients-text: pink;
+
+  --change-bo5a-line: lemonchiffon;
+  --change-bo5a-text: gold;
+
+  --change-wmr-line: white;
+  --change-wmr-text: white;
+}
+
+span.del {
+  display: none;
+  text-decoration: line-through;
+  color: grey;
+}
+
+body.highlight-changes {
+  --change-line-thickness: 2px;
+
+  --change-edit-line: blue;
+  --change-edit-text: blue;
+
+  --change-qa-line: green;
+  --change-qa-text: green;
+
+  --change-ancients-line: red;
+  --change-ancients-text: red;
+
+  --change-bo5a-line: orange;
+  --change-bo5a-text: orange;
+
+  --change-wmr-line: grey;
+  --change-wmr-text: grey;
+}
+
+.highlight-changes span.del {
+  display: inherit;
+}
+
+.highlight-changes .edit p::before,
+.highlight-changes .qa p::before,
+.highlight-changes .ancients p::before,
+.highlight-changes .bo5a p::before,
+.highlight-changes .wmr p::before,
+.highlight-changes span.edit::before,
+.highlight-changes span.qa::before,
+.highlight-changes span.ancients::before,
+.highlight-changes span.bo5a::before,
+.highlight-changes span.wmr::before {
+  content: "Change";
+  color: white;
+  background-color: grey;
+  border-radius: 3px;
+  font-size: 0.7em;
+  display: inline-block;
+  font-variant: small-caps;
+  margin-right: 0.5ex;
+  padding: 0 0.25ex;
+}
+
+.highlight-changes #button-highlight-changes {
+  display: none;
+}
+/* End changes to the rules */
+
 /* Edits to the rules */
 .edit .doc > div,
 .doc div.edit,
@@ -270,13 +345,18 @@ p:has(.cost) {
 .doc div.h-edit > h4:first-child {
   margin-left: calc(-0.5rem - 8px);
   padding-left: 0.5rem;
-  border-left: 8px solid aliceblue;
+  border-left: 8px solid var(--change-edit-line);
 }
 span.edit {
   text-decoration: dotted underline;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: var(--change-line-thickness);
   text-underline-offset: 2px;
-  text-decoration-color: lightblue;
+  text-decoration-color: var(--change-edit-text);
+}
+.highlight-changes .edit p::before,
+.highlight-changes span.edit::before {
+  content: "Edit";
+  background-color: var(--change-edit-text);
 }
 
 /* Incorporated from the WMR Q&A, or reworded slightly from same. */
@@ -286,13 +366,18 @@ span.edit {
 .doc div.h-qa > h4:first-child {
   margin-left: calc(-0.5rem - 8px);
   padding-left: 0.5rem;
-  border-left: 8px solid palegreen;
+  border-left: 8px solid var(--change-qa-line);
 }
 span.qa {
   text-decoration: dotted underline;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: var(--change-line-thickness);
   text-underline-offset: 2px;
-  text-decoration-color: springgreen;
+  text-decoration-color: var(--change-qa-text);
+}
+.highlight-changes .qa p::before,
+.highlight-changes span.qa::before {
+  content: "Q&A";
+  background-color: var(--change-qa-text);
 }
 /* End Q&A */
 
@@ -303,13 +388,18 @@ span.qa {
 .doc div.h-ancients > h4:first-child {
   margin-left: calc(-0.5rem - 8px);
   padding-left: 0.5rem;
-  border-left: 8px solid seashell;
+  border-left: 8px solid var(--change-ancients-line);
 }
 span.ancients {
   text-decoration: dotted underline;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: var(--change-line-thickness);
   text-underline-offset: 2px;
-  text-decoration-color: pink;
+  text-decoration-color: var(--change-ancients-text);
+}
+.highlight-changes .ancients p::before,
+.highlight-changes span.ancients::before {
+  content: "Ancients";
+  background-color: var(--change-ancients-text);
 }
 /* End Ancients */
 
@@ -320,13 +410,18 @@ span.ancients {
 .doc div.h-bo5a > h4:first-child {
   margin-left: calc(-0.5rem - 8px);
   padding-left: 0.5rem;
-  border-left: 8px solid lemonchiffon;
+  border-left: 8px solid var(--change-bo5a-line);
 }
 span.bo5a {
   text-decoration: dotted underline;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: var(--change-line-thickness);
   text-underline-offset: 2px;
-  text-decoration-color: gold;
+  text-decoration-color: var(--change-bo5a-text);
+}
+.highlight-changes .bo5a p::before,
+.highlight-changes span.bo5a::before {
+  content: "Bo5A";
+  background-color: var(--change-bo5a-text);
 }
 /* End Bo5A */
 
@@ -337,15 +432,20 @@ span.bo5a {
 .doc div.h-wmr > h4:first-child {
   margin-left: calc(-0.5rem - 8px);
   padding-left: 0.5rem;
-  border-left: 8px solid white;
+  border-left: 8px solid var(--change-wmr-line);;
 }
 span.wmr {
   text-decoration: dotted underline;
-  text-decoration-thickness: 1px;
+  text-decoration-thickness: var(--change-line-thickness);
   text-underline-offset: 2px;
-  text-decoration-color: white;
+  text-decoration-color: var(--change-wmr-text);;
 }
-/* End Bo5A */
+.highlight-changes .wmr p::before,
+.highlight-changes span.wmr::before {
+  content: "Original";
+  background-color: var(--change-wmr-text);
+}
+/* End Warmaster Revolutions */
 
 /* Headings signing where original text has moved. */
 .doc .moved,
