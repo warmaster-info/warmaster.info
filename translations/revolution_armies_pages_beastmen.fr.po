@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"POT-Creation-Date: 2025-08-06 02:52+0200\n"
 "PO-Revision-Date: 2025-07-25 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -131,6 +131,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:220
+#: en/revolution/modules/armies/pages/araby.adoc:321
 #: en/revolution/modules/armies/pages/beastmen.adoc:252
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:248
 #: en/revolution/modules/armies/pages/daemons.adoc:249
@@ -295,8 +296,8 @@ msgstr ""
 "volontiers leur héritage du Chaos : ils possèdent l'intelligence d'un homme, "
 "mais l'utilisent avec la ruse d'un animal sauvage. Pour le peuple de "
 "l'Empire, c'est une combinaison mortelle, car les Hommes-bêtes méprisent "
-"profondément les Humains qu'ils ne pourront jamais être, emplis d'un dégoût d"
-"'eux-mêmes qui se transforme en haine agressive."
+"profondément les Humains qu'ils ne pourront jamais être, emplis d'un dégoût "
+"d'eux-mêmes qui se transforme en haine agressive."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:74
@@ -395,8 +396,8 @@ msgid ""
 "character’s Command range. Apply distance and enemy proximity penalties, but "
 "ignore dense terrain penalties."
 msgstr ""
-"Les unités en embuscade sont déployées pendant n'importe quelle phase d’"
-"Ordre, et non au début de la partie. Pour les déployer, désignez un "
+"Les unités en embuscade sont déployées pendant n'importe quelle phase "
+"d’Ordre, et non au début de la partie. Pour les déployer, désignez un "
 "personnage, les unités embusquées et un point dans un terrain dense ou sur "
 "n'importe quel bord du champs de bataille, sauf celui de l'ennemi. Donnez un "
 "ordre d'embuscade au point, qui peut être hors de portée de commandement du "

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-10 01:28+0200\n"
+"POT-Creation-Date: 2025-08-06 02:52+0200\n"
 "PO-Revision-Date: 2025-08-05 15:04+0000\n"
 "Last-Translator: Augustin Bodin <augustin.bodin@laposte.net>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -480,12 +480,12 @@ msgid ""
 "summoned them, that Druid counts as having a Command value of +1 when "
 "commanding the Fenbeast – that is 8 rather than 7."
 msgstr ""
-"Une Bête des marais ne peut former une brigade avec d’autres unités, même d’"
-"autres Bêtes des marais. Les Bêtes des marais n’utilisent jamais l’"
-"initiative pour bouger lors de la Phase d’Ordre. Les Druides ont une valeur "
-"de Commandement augmentée de +1 quand ils donnent des ordres aux Bêtes des "
-"marais, c’est-à-dire 8 au lieu de 7, car elles sont entièrement dominées par "
-"la volonté de ceux qui les ont invoquées."
+"Une Bête des marais ne peut former une brigade avec d’autres unités, même "
+"d’autres Bêtes des marais. Les Bêtes des marais n’utilisent jamais "
+"l’initiative pour bouger lors de la Phase d’Ordre. Les Druides ont une "
+"valeur de Commandement augmentée de +1 quand ils donnent des ordres aux "
+"Bêtes des marais, c’est-à-dire 8 au lieu de 7, car elles sont entièrement "
+"dominées par la volonté de ceux qui les ont invoquées."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:168
@@ -663,6 +663,7 @@ msgstr "Invocation de Bêtes des marais"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:220
+#: en/revolution/modules/armies/pages/araby.adoc:321
 #: en/revolution/modules/armies/pages/beastmen.adoc:252
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:248
 #: en/revolution/modules/armies/pages/daemons.adoc:249
