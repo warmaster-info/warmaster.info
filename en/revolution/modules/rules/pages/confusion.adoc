@@ -105,7 +105,7 @@ In the above cases, the possibility of confusion is
 not considered as stands are destroyed instead. See the
 rules for Combat for details on xref:combat.adoc#retreats[retreats from combat].
 
-image::confusion/hammer-infantry.webp[width=2017,height=426]
+image::confusion/hammer-infantry.webp[width=2017,height=426,role=column-span]
 
 [#confused-units]
 == Confused units
@@ -181,7 +181,7 @@ See <<f-moving-aside>>.
 .{empty}
 image::confusion/moving-aside.svg[width=2772,height=1852,id=f-moving-aside]
 
-image::confusion/troll.webp[width=807,height=483]
+image::confusion/troll.webp[width=807,height=483,role=decorative]
 
 [#moving-back]
 === Moving back
@@ -233,4 +233,4 @@ opportunity to redress formations to their benefit.
 Making way is not necessarily a disadvantage other
 than the attendant risk of confusion.
 
-image::confusion/soldier-mace.webp[width=1057,height=1501]
+image::confusion/soldier-mace.webp[width=1057,height=1501,role=decorative]

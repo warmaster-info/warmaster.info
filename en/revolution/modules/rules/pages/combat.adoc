@@ -218,7 +218,7 @@ image::combat/interlinked-engagement.webp[width=1250,height=918,id=f-interlinked
 ====
 --
 
-image::combat/dwarf-slayer-hero.webp[width=457,height=503]
+image::combat/dwarf-slayer-hero.webp[width=457,height=503,role=decorative]
 
 [#attacks]
 == Attacks
@@ -466,7 +466,7 @@ forward into the next.
 
 // TODO: Bo5A showing coloured dice
 
-image::combat/wolf-rider.webp[width=993,height=1493]
+image::combat/wolf-rider.webp[width=993,height=1493,role=decorative]
 
 [#combat-results]
 == Combat results
@@ -594,7 +594,7 @@ interlinked via the supporting unit.
 [.moved]
 → Moved to xref:movement.adoc#supporting-charges[Movement, Supporting charges].
 
-image::combat/harpy-hero.webp[width=765,height=1069]
+image::combat/harpy-hero.webp[width=765,height=1069,role=decorative]
 
 [#retreats]
 == Retreats
@@ -670,7 +670,7 @@ units will effectively move as one, although it will still be
 necessary to move the units one at a time to make sure
 that stands have a path to their final position.
 
-image::combat/fan.webp[width=447,height=455]
+image::combat/fan.webp[width=447,height=455,role=circle]
 
 [#blocked-retreats]
 === Blocked retreats
@@ -748,7 +748,7 @@ An artillery unit which is forced to retreat is
 automatically destroyed. Its weapons are overrun and the
 crew massacred or scattered beyond hope of recovery.
 
-image::combat/dark-elves.webp[width=2079,height=623]
+image::combat/dark-elves.webp[width=2079,height=623,role=column-span]
 
 [.h-bo5a]
 [#winners]
@@ -776,7 +776,7 @@ blocked.
 If a unit stands, it simply stays where it is and does not move.
 
 [.wmr]
-image::combat/skeleton-infantry.webp[width=911,height=744]
+image::combat/skeleton-infantry.webp[width=911,height=744,role=decorative]
 
 [#pursuit]
 == Pursuit
@@ -876,7 +876,7 @@ towards the enemy. Towards means just that – a pursuer’s
 path cannot take it away from the enemy and then back
 again by a circuitous route.
 
-image::combat/punk-orc.webp[width=809,height=881]
+image::combat/punk-orc.webp[width=809,height=881,role=decorative]
 
 [#basic-pursuit]
 === Basic pursuit
@@ -1080,7 +1080,7 @@ that combatants would actually move together without
 one side necessarily losing sight of the other as they
 retreat.
 
-image::combat/goblin-wolves.webp[width=2089,height=287]
+image::combat/goblin-wolves.webp[width=2089,height=287,role=column-span]
 
 [#advance]
 == Advance
@@ -1164,7 +1164,7 @@ combat, the advancing unit gets a charge bonus as
 per normal charge.
 ****
 
-image::combat/dwarf-slayers.webp[width=2200,height=384]
+image::combat/dwarf-slayers.webp[width=2200,height=384,role=column-span]
 
 [#fall-backs]
 == Fall backs
@@ -1243,7 +1243,7 @@ image::combat/fall-back-line.svg[width=1324,height=920,id=fall-back-line]
 .{empty}
 image::combat/fall-back-corner.svg[width=1324,height=920,id=fall-back-corner]
 
-image::combat/village.webp[width=2075,height=1049]
+image::combat/village.webp[width=2075,height=1049,role=column-span]
 
 [#unresolved-combats]
 == Unresolved combats
@@ -1401,4 +1401,4 @@ a unit may be still inside a wood or still up-slope of an
 enemy. However, a unit always loses the advantage of its
 position once it has retreated.
 
-image::combat/medusa-demon.webp[width=1245,height=890]
+image::combat/medusa-demon.webp[width=1245,height=890,role=decorative]

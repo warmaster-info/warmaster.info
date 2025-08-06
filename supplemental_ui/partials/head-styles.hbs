@@ -467,20 +467,38 @@ span.wmr {
 
 /* Two-column layout when printing */
 @media print {
+  body {
+    padding-top: 5px;
+  }
+
   header, .nav-container, .toolbar, .toc {
     display: none;
   }
 
-  .doc {
+  body:not(.at-a-glance):not(.title-page) .doc {
     column-count: 2;
+    column-gap: 2rem;
   }
 
-  h1 {
+  .doc > h1.page:first-child {
     column-span: all;
     text-align: center;
+    margin-top: 0;
+
+    border-image-source: url("../rules/_images/heading-banner.webp");
+    border-image-slice: 150 115 150 120 fill;
+    border-image-repeat: stretch;
+
+    padding: 80px 60px 70px;
+    font-size: 2.4rem;
+    font-weight: 800;
   }
 
-  .column-span {
+  .doc #preamble .paragraph {
+    margin-top: 0;
+  }
+
+  .doc .column-span {
     column-span: all;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -497,6 +515,27 @@ span.wmr {
 
   .sect1 {
     break-inside: avoid-page;
+    widows: 2;
+    orphans: 2;
+  }
+
+  .imageblock {
+    break-inside: avoid;
+  }
+
+  .doc .imageblock.circle {
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .doc .imageblock.decorative img {
+    max-width: auto;
+    width: auto;
+    height: auto;
+    max-height: 15em;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   button {

@@ -142,7 +142,7 @@ troops before they are able to move onto the ramparts.
 This is explained further under <<assaults>>.
 
 // Moved to end of paragraph
-image::siege-and-fortresses/moon.webp[width=445,height=450]
+image::siege-and-fortresses/moon.webp[width=445,height=450,role=circle]
 
 [#shooting]
 == Shooting
@@ -188,7 +188,7 @@ tower counts as fortified (6 to hit) but has no armour.
 Units on ramparts and towers can shoot over
 friendly troops on lower ramparts or the ground.
 
-image::siege-and-fortresses/crossbowmen.webp[width=946,height=561]
+image::siege-and-fortresses/crossbowmen.webp[width=946,height=561,role=decorative]
 
 [#structure-tests]
 == Structure tests
@@ -313,7 +313,7 @@ The tower collapses before the surprised giant and he is
 allowed to advance into the next enemy he can see.
 ====
 
-image::siege-and-fortresses/siege-tower.webp[width=675,height=1061]
+image::siege-and-fortresses/siege-tower.webp[width=675,height=1061,role=decorative]
 
 [#breaches]
 == Breaches
@@ -643,7 +643,7 @@ position while the Bretonnian troops [.edit]#retreat 1cm#
 away from the Ogres.
 ====
 
-image::siege-and-fortresses/elves-planning.webp[width=2079,height=1373]
+image::siege-and-fortresses/elves-planning.webp[width=2079,height=1373,role=decorative]
 
 [#giants]
 == Giants
@@ -815,7 +815,7 @@ gateway tower are not part of the combat that follows,
 but they may use boiling oil or stand and shoot against
 the attackers.
 
-image::siege-and-fortresses/defended-tower.webp[width=834,height=1329]
+image::siege-and-fortresses/defended-tower.webp[width=834,height=1329,role=decorative]
 
 [#flyers-attacking-fortifications]
 == Flyers attacking fortifications
@@ -845,7 +845,7 @@ of combat or if they are pushed back they are destroyed.
 Of course if flyers try to assault fortifications, boiling oil
 attacks cannot be used against them.
 
-image::siege-and-fortresses/dragon-ogre.webp[width=927,height=750]
+image::siege-and-fortresses/dragon-ogre.webp[width=927,height=750,role=decorative]
 
 [#character-movement]
 == Character movement
@@ -899,7 +899,7 @@ Siege Machines like Siege Towers, Battering Rams or
 Sows may use initiative to attack the nearest wall section
 (towers may be ignored).
 
-image::siege-and-fortresses/siege.webp[width=1920,height=888]
+image::siege-and-fortresses/siege.webp[width=1920,height=888,role=column-span]
 
 [#siege-towers]
 === Siege towers
@@ -1075,7 +1075,7 @@ time.
 
 image::siege-and-fortresses/battering-ram-unit.svg[width=1239,height=851,id=fbattering-ram-unit]
 
-image::siege-and-fortresses/ram.webp[width=701,height=533]
+image::siege-and-fortresses/ram.webp[width=701,height=533,role=decorative]
 
 [#sows]
 === Sows
@@ -1133,7 +1133,7 @@ move that Command phase. In this case, the Mantlets are
 overturned or cast aside and removed from the battle.
 
 // Picture moved here from below
-image::siege-and-fortresses/mantlets.webp[width=1702,height=689]
+image::siege-and-fortresses/mantlets.webp[width=1702,height=689,role=decorative]
 
 [#boiling-oil-or-rock-droppers]
 === Boiling oil or rock droppers
@@ -1200,7 +1200,7 @@ armour saves.
 armour saves.
 |===
 
-image::siege-and-fortresses/projectiles.webp[width=475,height=347]
+image::siege-and-fortresses/projectiles.webp[width=475,height=347,role=decorative]
 
 [#tribock]
 === Tribock
@@ -1245,7 +1245,7 @@ ignored as far as the rules for firing at the closest target
 are concerned. The Tribock may not shoot at enemy
 units that charge it.
 
-image::siege-and-fortresses/tribock.webp[width=1414,height=1260]
+image::siege-and-fortresses/tribock.webp[width=1414,height=1260,role=decorative]
 
 [#bombard]
 === Bombard
@@ -1284,7 +1284,7 @@ enemy units.
 
 Bombards may not be used by Elves or Bretonnians.
 
-image::siege-and-fortresses/bombard.webp[width=843,height=511]
+image::siege-and-fortresses/bombard.webp[width=843,height=511,role=decorative]
 
 [#mangonel]
 === Mangonel
@@ -1315,7 +1315,7 @@ The Mangonel has a minimum range of 20cm as it is
 impossible to adjust its mechanism to shoot at closer
 target. Mangonels can’t shoot at charging enemy units.
 
-image::siege-and-fortresses/mangonel.webp[width=880,height=791]
+image::siege-and-fortresses/mangonel.webp[width=880,height=791,role=decorative]
 
 [#earthworks]
 === Earthworks
@@ -1354,7 +1354,7 @@ declare exactly which earthwork sections each stand is
 attacking, as each 40×10mm section is effectively counted
 as a separate unit for these purposes.
 
-image::siege-and-fortresses/earthworks.webp[width=838,height=533]
+image::siege-and-fortresses/earthworks.webp[width=838,height=533,role=decorative]
 
 [#log-rams]
 === Log rams
@@ -1388,7 +1388,7 @@ walls enough hits are inflicted to remove a whole stand
 then the battering attempt fails. For every wound the
 unit has to retreat 1cm.
 
-image::siege-and-fortresses/log-rams.webp[width=615,height=318]
+image::siege-and-fortresses/log-rams.webp[width=615,height=318,role=decorative]
 
 [#ladders]
 === Ladders
@@ -1398,7 +1398,7 @@ with a siege tower or by using ladders. It costs +5 points
 to equip all stands of a unit with ladders. Infantry units
 based as cavalry cannot climb ladders.
 
-image::siege-and-fortresses/ladders.webp[width=2073,height=1184]
+image::siege-and-fortresses/ladders.webp[width=2073,height=1184,role=decorative]
 
 [#siege-equipment-lists]
 == Siege equipment lists
@@ -1477,7 +1477,7 @@ in combat.
 May be removed by troops in contact
 by rolling a 6 with their attacks.
 
-image::siege-and-fortresses/cannon-hill.webp[width=1073,height=786]
+image::siege-and-fortresses/cannon-hill.webp[width=1073,height=786,role=decorative]
 
 [#siege-equipment-list]
 === Siege equipment
@@ -1605,7 +1605,7 @@ kills the attacker’s general.
 In all other cases the player with the most victory points
 wins.
 
-image::siege-and-fortresses/elephant-rider.webp[width=880,height=1004]
+image::siege-and-fortresses/elephant-rider.webp[width=880,height=1004,role=decorative]
 
 [#the-watchtower]
 === The watchtower

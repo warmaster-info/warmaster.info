@@ -12,7 +12,7 @@ no deployment is specified, players can deploy in any
 mutually agreeable fashion. The following are commonly
 used and provide an evenhanded way of deploying.
 
-image::battlefields/boar-chariot.webp[width=879,height=707]
+image::battlefields/boar-chariot.webp[width=879,height=707,role=decorative]
 
 *One unit at a time.* Each side deploys one unit at a time
 onto the table starting with the player whose army has
@@ -297,7 +297,7 @@ even when it has more Victory Points than the enemy.
 
 image::battlefields/take-and-hold.svg[width=2599,height=1732,id=f-take-and-hold]
 
-image::battlefields/swordsmen.webp[width=2079,height=509]
+image::battlefields/swordsmen.webp[width=2079,height=509,role=column-span]
 
 [#battle-for-the-tower]
 == Battle for the tower
@@ -350,7 +350,7 @@ even when it has more Victory Points than the enemy.
 
 image::battlefields/battle-for-the-tower.svg[width=2599,height=1732,id=f-battle-for-the-tower]
 
-image::battlefields/dwarf-gunners.webp[width=1756,height=497]
+image::battlefields/dwarf-gunners.webp[width=1756,height=497,role=column-span]
 
 [#defending-the-village]
 == Defending the village
@@ -420,7 +420,7 @@ or draw.
 // Order of images switched
 image::battlefields/defending-the-village.svg[width=2599,height=1732,id=f-defending-the-village]
 
-image::battlefields/chaos-axe.webp[width=454,height=561]
+image::battlefields/chaos-axe.webp[width=454,height=561,role=decorative]
 
 [#wagon-train]
 == Wagon train
@@ -492,4 +492,4 @@ draw.
 
 image::battlefields/wagon-train.svg[width=2599,height=1732,id=f-wagon-train]
 
-image::battlefields/wagons.webp[width=1116,height=357]
+image::battlefields/wagons.webp[width=1116,height=357,role=column-span]

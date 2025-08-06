@@ -61,7 +61,7 @@ You’ll find a few exceptions to these moves in the army lists later in the boo
 don’t need to worry about these oddities.
 ****
 
-image::movement/daemon.webp[width=585,height=1089]
+image::movement/daemon.webp[width=585,height=1089,role=decorative]
 
 [.h-bo5a]
 [#formation]
@@ -210,7 +210,7 @@ as described in the xref:characters.adoc[Generals, Heroes and Wizards section].
 The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Movement] with further examples, including pivoting
 ====
 
-image::movement/helm.webp[width=378,height=518]
+image::movement/helm.webp[width=378,height=518,role=decorative]
 
 [.h-bo5a]
 [#moving-through-gaps]
@@ -276,7 +276,7 @@ image::movement/cannot-move-through-gap.webp[width=993,height=819,id=cannot-move
 [.moved]
 → Moved to xref:command.adoc#initiative-movement[Command, Initiative movement].
 
-image::movement/anvil.webp[width=472,height=491]
+image::movement/anvil.webp[width=472,height=491,role=circle]
 
 [.h-bo5a]
 [#the-evade]
@@ -355,7 +355,7 @@ automatically *confused*! See the xref::confusion.adoc[Confusion section].
 .Evaders bursting through a friendly unit
 image::movement/evade-burst-through.svg[width=1324,height=1591,id=evade-burst-through]
 
-image::movement/treemen.webp[width=993,height=681]
+image::movement/treemen.webp[width=993,height=681,role=decorative]
 
 [discrete]
 [.moved]
@@ -365,7 +365,7 @@ image::movement/treemen.webp[width=993,height=681]
 [.moved]
 → Moved to xref:command.adoc#character-movement[Command, Character movement].
 
-image::movement/sun.webp[width=439,height=449]
+image::movement/sun.webp[width=439,height=449,role=circle]
 
 [.h-bo5a]
 [#the-charge]
@@ -401,7 +401,7 @@ change his mind for any reason.
 During a charge, each stand can move up to its full pace distance
 regardless of the unit’s formation at the stand of the move.
 
-image::movement/orc-boss.webp[width=428,height=621]
+image::movement/orc-boss.webp[width=428,height=621,role=decorative]
 
 [#enemy-in-sight]
 === Enemy in sight
@@ -461,7 +461,7 @@ is exactly divided between two zones then roll a dice
 to decide – e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
 <<charge-move-2>>.
 
-image::movement/chaos-knights.webp[width=1017,height=592]
+image::movement/chaos-knights.webp[width=1017,height=592,role=decorative]
 
 [#the-charge-move]
 === The charge move
@@ -519,7 +519,7 @@ impossible, for whatever reason, see <<unable-to-contact-centre-to-centre>>.
 .{empty}
 image::movement/maximise-frontage-1.svg[width=1312,height=1016,id=maximise-frontage-1]
 
-image::movement/chaos-knight-hero.webp[width=569,height=729]
+image::movement/chaos-knight-hero.webp[width=569,height=729,role=decorative]
 
 [#forming-a-battle-line]
 === Forming a battle line
@@ -554,7 +554,7 @@ be placed so that its front corner touches an enemy if it
 can. This means that the maximum number of charging
 stands will be drawn into the combat.
 
-image::movement/dwarf-warriors.webp[width=2200,height=500]
+image::movement/dwarf-warriors.webp[width=2200,height=500,role=column-span]
 
 [#contact-with-other-enemy]
 === Contact with other enemy
@@ -576,7 +576,7 @@ shoot at the chargers as described in the Shooting section.
 
 // TODO: bo5a/ancients diagram.
 
-image::movement/spiky-helm.webp[width=378,height=518]
+image::movement/spiky-helm.webp[width=378,height=518,role=decorative]
 
 [#supporting-charges]
 === Supporting charges
@@ -624,7 +624,7 @@ make a supporting charge. Also note, that after *failing* to
 receive its *first order* a unit cannot use its half pace move
 to join combat by moving into the *supporting position*.
 
-image::movement/sword-banner.webp[width=282,height=293]
+image::movement/sword-banner.webp[width=282,height=293,role=circle]
 
 [#exceptions-anomalies]
 === Exceptions & anomalies
@@ -652,7 +652,7 @@ for how to deal with blocked stands.
 
 image::movement/charge-blocked.svg[width=1311,height=1016,id=charge-blocked]
 
-image::movement/dwarf-hero.webp[width=382,height=428]
+image::movement/dwarf-hero.webp[width=382,height=428,role=decorative]
 
 [#unable-to-form-a-battle-line]
 === Unable to form a battle line
@@ -810,7 +810,7 @@ image::movement/enveloping-charge.svg[width=1324,height=1997,id=f-enveloping-cha
 // - Charging fortified enemy
 ////
 
-image::movement/battle-view.webp[width=1500,height=834,id=battle-view]
+image::movement/battle-view.webp[width=1500,height=834,id=battle-view,role=decorative]
 
 [#units-which-move-off-the-table]
 == Units which move off the table
@@ -878,7 +878,7 @@ his army withdraws. He abandons his army and heads
 for the hills and is considered to be a casualty. See the
 xref:end-of-the-battle.adoc[End of the Battle] section.
 
-image::movement/griffon.webp[width=993,height=1110]
+image::movement/griffon.webp[width=993,height=1110,role=decorative]
 
 [#terrain]
 == Terrain
@@ -1183,4 +1183,4 @@ xref::combat.adoc#retreats[Combat phase – Retreats]).
 The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Movement] with further examples.
 ====
 
-image::movement/knights.webp[width=2079,height=1149]
+image::movement/knights.webp[width=2079,height=1149,role=column-span]
