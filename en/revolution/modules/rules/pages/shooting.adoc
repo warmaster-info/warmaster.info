@@ -19,6 +19,12 @@ the Attack value for shooting.
 
 include::partial$attack-values.adoc[]
 
+////
+// "Range" section moved before target, as shooting range
+// is a prerequisite to selecting a target.
+// (Same change was made in Bo5A + Ancients.)
+////
+
 [#range]
 == Range
 
@@ -43,16 +49,20 @@ others are out, even though they are in the same unit.
 [#targets]
 == Targets
 
+// Suitable → visible
 Units equipped with missile weapons can shoot once in
 their turn if they are in range of a [.bo5a]#visible# target.
 Units engaged in combat cannot shoot other than to
 <<shooting-at-charging-enemy,shoot at units that have charged them>>, as described later.
 
+// Q&A: https://warmaster.info/en/revolution/rules/questions-and-answers#obliged-to-shoot
 [.qa]#If a unit chooses to shoot, it# automatically shoots at the closest enemy unit it
 can see. All stands shoot at the same target unit where
 possible. If two visible enemy units are equally close, the
 player may choose which to shoot at.
 
+// Moved earlier (as in Bo5A) as it's more important
+// than the next paragraph which has the individual stand detail.
 Enemy units in combat are judged to be intermingled
 with their opponents and don’t therefore present a
 clear visible target to missile fire. They are consequently
@@ -75,6 +85,9 @@ the target unit. Sight is obscured by interposing terrain
 streams/rivers, marshes), other units, other stands from
 the shooting unit or any features that, in reality, would
 make it impractical to see or shoot. See <<sight>>.
+
+// Removed to merge with common Line of Sight rules,
+// but following additional rule retained.
 ////
 
 [.edit]
@@ -103,7 +116,7 @@ of the edge can see out (and can be seen) and stands inside a
 wood can see each other up to 2cm away. It is therefore possible
 for archers to line up at the edge of a wood and shoot out
 without exposing themselves to a charge from enemy cavalry,
-[.edit]#chariots or monsters# for whom the wood is impenetrable.
+chariots or other enemy for whom the wood is impenetrable.
 See xref:movement.adoc#terrain[Terrain].
 
 // Caption added
@@ -112,7 +125,7 @@ image::shooting/sight.svg[width=1312,height=785,id=sight]
 
 Some units can see all round – they have 360 degree vision
 – and you will find this indicated in the unit’s description
-(for example, Wolf Riders). This means when shooting
+(for example, xref:armies:goblins.adoc#wolf-riders[Wolf Riders]). This means when shooting
 at the enemy a line of sight can be drawn from any free
 edge of any stand in the unit.
 
@@ -122,11 +135,13 @@ However, note that even
 a unit that can see all round cannot charge an enemy
 unless a line of sight can be drawn form a stand’s front
 edge.
+
+// Removed as this is the shooting section.
 ////
 
-// Moved to end of section
 image::shooting/empire-infantry.webp[width=2200,height=322]
 
+// Old heading "How to calculate casualties"
 [.h-bo5a]
 [#calculating-casualties]
 == Calculating casualties
@@ -136,12 +151,16 @@ up the unit’s total shooting Attack value. For example, a
 unit of three stands, each with a shooting Attack value
 of 1, will have a total value of 3.
 
+// Paragraph break added.
+
+// Add "Attack" for clarity.
 The total [.bo5a]#Attack# value is the
 number of dice rolled to determine how many hits are
 scored on the target. The minimum dice roll required for
 a hit is normally 4 or more. So, three dice rolls of 1, 4 and
 6 equals two hits on the target.
 
+// Removed "In practise" and "is perfectly acceptable and"
 Players may find it convenient to resolve
 shooting attacks from several units at once if they are
 firing at the same target. This
@@ -156,13 +175,12 @@ roll all the dice at once.
 It is harder to score a hit on a target if it is in a defended
 or fortified position.
 
-The chart below shows the [.bo5a]#minimum dice roll needed to
+// Table moved earlier, wording from Bo5A used.
+
+The [.edit]#table# below shows the [.bo5a]#minimum dice roll needed to
 score a hit on the target#.
 
-// TODO Table consistency
-
-.Scores to hit
-[cols="4,1"]
+[cols="4,1",frame=none,grid=rows]
 |===
 |[.bo5a]#Target status# |[.bo5a]#Score to hit#
 
@@ -187,11 +205,10 @@ removed as casualties first. In cases where casualties are
 likely to result in the removal of whole stands, it will be
 necessary to break the dice rolling into batches so that
 the appropriate penalty can be applied once all exposed
-stands are destroyed. The full definitions and further
-rules for troops in defended and fortified positions are
-discussed in the xref::combat.adoc[Combat phase section].
+stands are destroyed.
 ////
 
+// This avoids "protected"
 [.bo5a]
 If some stands in the target unit are defended or fortified whilst
 others are not, shooters will always target the least protected
@@ -213,9 +230,11 @@ enemy stands. It is possible that the first three shots could
 remove the stand in the open, obliging the remaining three
 enemy to shoot at a defended target.
 
-image::shooting/boar-riders.webp[width=2079,height=736]
+The full definitions and further
+rules for troops in defended and fortified positions are
+discussed in the xref::combat.adoc#defended-fortified-troops[Combat phase section].
 
-// TODO: bo5a Open, Defended and Fortified box example
+image::shooting/boar-riders.webp[width=2079,height=736]
 
 [#armour]
 === Armour
@@ -223,10 +242,14 @@ image::shooting/boar-riders.webp[width=2079,height=736]
 If a target unit has armour then the number of hits scored
 by shooters may be potentially reduced.
 
+// Newline added
+
 The target’s
 Armour value is expressed as a number 6+, 5+, 4+ or 3+,
 indicating the minimum dice score required to nullify a
 hit.
+
+// Newline added
 
 [.bo5a]#The players whose unit has been shot at#
 rolls one dice for each hit scored on the unit. Any
@@ -234,6 +257,8 @@ dice that scores equal to or more than the Armour value
 of the unit will nullify or ‘save’ one hit. Hits nullified in
 this way are ignored – they are not struck on the target
 and no further account is taken of them.
+
+// Newline added
 
 For example,
 a unit of Empire Knights (Armour 4+) is shot at by two
@@ -251,10 +276,15 @@ tough and how determined the target is. Men have a
 value of 3, for example, whilst dour, stubborn-minded
 Dwarfs have a value of 4.
 
+// Newline added
+
+// "immediately" removed
 Once a unit has taken a
 number of hits equal to its Hits value, [.bo5a]#its player# removes a stand.
 [.bo5a]#Always take a stand from the edge of the
-formation, never the middle, so the unit retains and viable formation.#
+formation, never the middle, so the unit retains a viable formation.#
+
+// Newline added
 
 If the unit takes insufficient hits to destroy
 a stand, or if it suffers enough to remove a stand with
@@ -267,6 +297,8 @@ If a unit is shot at by several enemies during the Shooting
 phase it may take further hits and the total may mount
 up. Remove stands as casualties occur and record any
 hits left over as appropriate.
+
+// Newline added
 
 Once the Shooting phase is
 over, any odd hits are discounted. Hits are not recorded
@@ -288,6 +320,8 @@ missiles. This can be thought of as an orderly retreat
 under fire or as an out-and-out flight followed by a swift
 rally, depending on the distance involved. The more hits
 a unit suffers, the further it is likely to be driven back.
+
+// Newline added
 
 Work out how far units are driven back once all shooting
 is complete but *before* disregarding odd hits at the end
@@ -376,6 +410,15 @@ image::shooting/chariot.webp[width=910,height=1088]
 [#shooting-at-charging-enemy]
 == Shooting at charging enemy
 
+////
+// WMR original removed:
+and which
+are not already engaged in combat
+
+This detail is easy to overlook, so replaced with the
+explicit paragraph from Bo5A below.
+////
+
 Stands capable of shooting (including artillery,
 appropriate monsters and some machines) can shoot at enemy
 units charging their own unit.
@@ -383,6 +426,9 @@ These shots represent the unit pelting the enemy with
 missiles as they approach, perhaps at the very last
 moment but possibly as part of a fighting withdrawal by
 parties posted ahead of the unit’s main body.
+
+// Newline added,
+// two sentences swapped (like Bo5A) to give more general rule first
 
 Shooting
 in this way is an exception to the normal turn sequence
@@ -393,17 +439,13 @@ Remember, a unit is
 it does not matter if the unit was not the original target
 of the charge.
 
-////
-// WMR original:
-and which
-are not already engaged in combat
-////
-
 [.bo5a]
 A stand can shoot at charging enemy even if its own unit is
 already engaged in combat. In this case, only stands that are not
 already touching an enemy can shoot. Stands that are already
 touching an enemy cannot shoot.
+
+// Newline added
 
 Shots are
 worked out as soon as the charging unit has finished its
@@ -413,10 +455,11 @@ move whilst it is within their weapon range. This can be
 at any moment during the charge: either at the start of
 the move, once it is complete or at any point in between.
 Note that some troops are allowed to shoot all round (e.g.,
-Wolf Riders) and they can therefore shoot by drawing a
+xref:armies:goblins.adoc#wolf-riders[Wolf Riders]) and they can therefore shoot by drawing a
 line of sight from any edge – other troops must draw a
 line of sight from their front edge as usual.
 
+// "Bear in mind that" removed
 Calculate the effect of shots and remove any whole stand
 casualties straight away before moving any further units.
 Because casualties are removed at once,
@@ -431,7 +474,7 @@ penetration can be easily calculated from the starting or
 the final position of the charging unit.
 
 Hits inflicted on the charging enemy unit are carried
-over into the combat. When it comes to working out
+over into the combat [.bo5a]#phase#. When it comes to working out
 combat results, these hits count as having been struck
 in the first combat round. If enough shooting hits are
 caused to destroy one or more charging stands, then
@@ -455,7 +498,7 @@ become very cluttered otherwise, but it also reflects the
 ability of troops to stoically advance under fire once they
 have the enemy in sight. Any loss of enthusiasm is taken
 into account by including any hits inflicted in the result
-for the first round of fighting (see xref::combat.adoc#combat-results[Combat results].
+for the first round of fighting (see xref::combat.adoc#combat-results[Combat results]).
 
 .The Archers shoot as the Knights charge.
 image::shooting/shooting-at-chargers.webp[width=984,height=693,id=shooting-at-chargers]
@@ -479,8 +522,8 @@ image::shooting/skull.webp[width=404,height=408]
 == Special situations
 
 // Edit grammar
-When a unit hit by shooting or magic is
-engaged in combat, or becomes
+When a unit hit by shooting or magic [.edit]#is# already
+engaged in combat, [.edit]#or becomes#
 engaged in combat by the end of shooting phase, it
 cannot be driven back. Any hits scored count as having
 been struck in the first round of combat that turn. Note
