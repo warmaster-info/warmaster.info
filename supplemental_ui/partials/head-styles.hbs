@@ -464,4 +464,44 @@ span.wmr {
   color: tan;
 }
 /* End moved */
+
+/* Two-column layout when printing */
+@media print {
+  header, .nav-container, .toolbar, .toc {
+    display: none;
+  }
+
+  .doc {
+    column-count: 2;
+  }
+
+  h1 {
+    column-span: all;
+    text-align: center;
+  }
+
+  .column-span {
+    column-span: all;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    break-inside: avoid;
+    break-after: avoid;
+  }
+
+  table {
+    break-inside: avoid;
+  }
+
+  .sect1 {
+    break-inside: avoid-page;
+  }
+
+  button {
+    display: none;
+  }
+}
+/* End two-column layout when printing */
 </style>

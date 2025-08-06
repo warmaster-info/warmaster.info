@@ -139,7 +139,7 @@ edge.
 // Removed as this is the shooting section.
 ////
 
-image::shooting/empire-infantry.webp[width=2200,height=322]
+image::shooting/empire-infantry.webp[width=2200,height=322,role=column-span]
 
 // Old heading "How to calculate casualties"
 [.h-bo5a]
@@ -550,4 +550,4 @@ qualities immediately, for they are an important means
 of controlling the battlefield and frustrating your
 enemy’s plans.
 
-image::shooting/charging.webp[width=2075,height=861]
+image::shooting/charging.webp[width=2075,height=861,role=column-span]
