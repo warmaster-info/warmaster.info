@@ -108,7 +108,7 @@ armies, there are heroic warriors who help to marshal the army
 and the enigmatic druids who are not only the army’s wizards
 but also its law makers, judges and soothsayers.
 
-image::albion/albion.webp[width=2129,height=1082]
+image::albion/albion.webp[width=2129,height=1082,role=column-span]
 
 [#army-selector]
 == Albion army selector
@@ -168,7 +168,7 @@ way for friendly troops.
 +
 A Fenbeast causes terror in its enemies.
 
-image::albion/general.webp[width=797,height=921]
+image::albion/general.webp[width=797,height=921,role=decorative]
 
 [#spells]
 == Albion spells
@@ -244,4 +244,4 @@ orders by Druids. Fenbeasts may not be brigaded with other
 troops, not even other Fenbeasts. An army cannot have more
 summoned Fenbeasts in play than it has Druids.
 
-image::albion/druid.webp[width=631,height=839]
+image::albion/druid.webp[width=631,height=839,role=decorative]

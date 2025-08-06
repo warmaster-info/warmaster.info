@@ -237,7 +237,7 @@ ride Forest Dragons.
 +
 include::partial$dragon.adoc[]
 
-image::wood-elves/infantry.webp[width=2069,height=729]
+image::wood-elves/infantry.webp[width=2069,height=729,role=column-span]
 
 [#spells]
 == Wood Elf spells
@@ -293,4 +293,4 @@ comes form the ground beneath their feet). Engaged units carry
 over any hits scored into the first round of combat; any hits
 scored count as having been struck in the combat itself.
 
-image::wood-elves/wild-riders.webp[width=1111,height=727]
+image::wood-elves/wild-riders.webp[width=1111,height=727,role=decorative]

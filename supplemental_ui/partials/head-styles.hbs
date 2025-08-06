@@ -475,7 +475,7 @@ span.wmr {
     display: none;
   }
 
-  body:not(.at-a-glance):not(.title-page) .doc {
+  body:not(.at-a-glance):not(.title-page):not(.armylist) .doc {
     column-count: 2;
     column-gap: 2rem;
   }
@@ -517,6 +517,15 @@ span.wmr {
     break-inside: avoid-page;
     widows: 2;
     orphans: 2;
+  }
+
+  .armylist .doc #preamble + .sect1 .sectionbody {
+    column-count: 1;
+  }
+
+  .armylist .doc .sect1 .sectionbody {
+    column-count: 2;
+    column-gap: 2rem;
   }
 
   .imageblock {
