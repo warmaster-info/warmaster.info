@@ -75,17 +75,17 @@ to be ineffective.
 
 ////
 // WMR original
-A stand must be able to see its target to shoot at it. It is
-assumed to be able to see if an unobscured line of sight
-can be drawn from its front base edge to the target’s
-base. However to have enough space to shoot, at least
-1cm of the shooting stand should have clear visibility to
-the target unit. Sight is obscured by interposing terrain
-(other than low terrain features such as low obstacles,
-streams/rivers, marshes), other units, other stands from
-the shooting unit or any features that, in reality, would
-make it impractical to see or shoot. See <<sight>>.
-
+// A stand must be able to see its target to shoot at it. It is
+// assumed to be able to see if an unobscured line of sight
+// can be drawn from its front base edge to the target’s
+// base. However to have enough space to shoot, at least
+// 1cm of the shooting stand should have clear visibility to
+// the target unit. Sight is obscured by interposing terrain
+// (other than low terrain features such as low obstacles,
+// streams/rivers, marshes), other units, other stands from
+// the shooting unit or any features that, in reality, would
+// make it impractical to see or shoot. See <<sight>>.
+//
 // Removed to merge with common Line of Sight rules,
 // but following additional rule retained.
 ////
@@ -98,14 +98,15 @@ the target unit.
 
 ////
 // WMR original, doesn't mention villages, Bo5a describes shooting in too.
-Stands inside a wood are assumed to be able to see up to
-2cm. Stands within 2cm of a wood’s edge are assumed to
-be able to see outside the wood. Likewise, stands outside
-the wood can see stands positioned up to 2cm within it.
-This makes it possible for archers to line up at the edge
-of the wood and shoot out without exposing themselves
-to a charge from cavalry, chariots or other enemy for
-whom the wood is impassable.
+//
+// Stands inside a wood are assumed to be able to see up to
+// 2cm. Stands within 2cm of a wood’s edge are assumed to
+// be able to see outside the wood. Likewise, stands outside
+// the wood can see stands positioned up to 2cm within it.
+// This makes it possible for archers to line up at the edge
+// of the wood and shoot out without exposing themselves
+// to a charge from cavalry, chariots or other enemy for
+// whom the wood is impassable.
 ////
 
 [.bo5a]
@@ -131,11 +132,11 @@ edge of any stand in the unit.
 
 ////
 // WMR original
-However, note that even
-a unit that can see all round cannot charge an enemy
-unless a line of sight can be drawn form a stand’s front
-edge.
-
+// However, note that even
+// a unit that can see all round cannot charge an enemy
+// unless a line of sight can be drawn form a stand’s front
+// edge.
+//
 // Removed as this is the shooting section.
 ////
 
@@ -196,16 +197,18 @@ score a hit on the target#.
 
 ////
 // WMR original
-In cases where some stands from
-a unit are protected whilst others are not, shooters will
-always target the least protected stands so long as they
-are able to see them and are within range, even though
-other stands may be closer. Unprotected stands must be
-removed as casualties first. In cases where casualties are
-likely to result in the removal of whole stands, it will be
-necessary to break the dice rolling into batches so that
-the appropriate penalty can be applied once all exposed
-stands are destroyed.
+// In cases where some stands from
+// a unit are protected whilst others are not, shooters will
+// always target the least protected stands so long as they
+// are able to see them and are within range, even though
+// other stands may be closer. Unprotected stands must be
+// removed as casualties first. In cases where casualties are
+// likely to result in the removal of whole stands, it will be
+// necessary to break the dice rolling into batches so that
+// the appropriate penalty can be applied once all exposed
+// stands are destroyed.
+//
+// Replace with separate paragraphs from Bo5a etc.
 ////
 
 // This avoids "protected"
@@ -412,11 +415,11 @@ image::shooting/chariot.webp[width=910,height=1088]
 
 ////
 // WMR original removed:
-and which
-are not already engaged in combat
-
-This detail is easy to overlook, so replaced with the
-explicit paragraph from Bo5A below.
+// and which
+// are not already engaged in combat
+//
+// This detail is easy to overlook, so replaced with the
+// explicit paragraph from Bo5A below.
 ////
 
 Stands capable of shooting (including artillery,
