@@ -1,3 +1,4 @@
+[.page=19]
 = Movement
 
 ////
@@ -21,6 +22,7 @@ covers all the general movement rules for units including rules
 for various types of terrain. Rules for moving characters can be
 found under the xref:characters.adoc[Generals, Heroes and Wizards] section.
 
+[.page=19]
 [#movement-distances]
 == Movement distances
 
@@ -63,6 +65,7 @@ don’t need to worry about these oddities.
 
 image::movement/daemon.webp[width=585,height=1089,role=decorative]
 
+[.page=20]
 [.h-bo5a]
 [#formation]
 == Formation
@@ -141,6 +144,7 @@ distances are not affected by the unit’s formation.
 
 include::partial$divider-axe.adoc[]
 
+[.page=21]
 [.h-bo5a]
 [#the-move]
 == The move
@@ -212,6 +216,7 @@ The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on Move
 
 image::movement/helm.webp[width=378,height=518,role=decorative]
 
+[.page=21]
 [.h-bo5a]
 [#moving-through-gaps]
 === Moving through gaps
@@ -278,6 +283,7 @@ image::movement/cannot-move-through-gap.webp[width=993,height=819,id=cannot-move
 
 image::movement/anvil.webp[width=472,height=491,role=circle]
 
+[.page=24]
 [.h-bo5a]
 [#the-evade]
 == The evade
@@ -367,6 +373,7 @@ image::movement/treemen.webp[width=993,height=681,role=decorative]
 
 image::movement/sun.webp[width=439,height=449,role=circle]
 
+[.page=34]
 [.h-bo5a]
 [#the-charge]
 == The charge
@@ -378,6 +385,7 @@ obvious way. Many of the following rules are intended
 to overcome any unusual circumstances you might come
 across where care may be needed.
 
+[.page=34]
 [#sequence-of-charges]
 === Sequence of charges
 
@@ -403,6 +411,7 @@ regardless of the unit’s formation at the stand of the move.
 
 image::movement/orc-boss.webp[width=428,height=621,role=decorative]
 
+[.page=34]
 [#enemy-in-sight]
 === Enemy in sight
 
@@ -418,6 +427,7 @@ for another; it is therefore important to take
 care when deciding which units to move and
 in what sequence.
 
+[.page=35]
 [.h-bo5a]
 [#front-flank-and-rear]
 === Front, flank and rear
@@ -463,6 +473,7 @@ to decide – e.g. 1, 2, or 3 the front; 4, 5, or 6 the side. See
 
 image::movement/chaos-knights.webp[width=1017,height=592,role=decorative]
 
+[.page=36]
 [#the-charge-move]
 === The charge move
 
@@ -521,6 +532,7 @@ image::movement/maximise-frontage-1.svg[width=1312,height=1016,id=maximise-front
 
 image::movement/chaos-knight-hero.webp[width=569,height=729,role=decorative]
 
+[.page=36]
 [#forming-a-battle-line]
 === Forming a battle line
 
@@ -556,6 +568,7 @@ stands will be drawn into the combat.
 
 image::movement/dwarf-warriors.webp[width=2200,height=500,role=column-span]
 
+[.page=37]
 [#contact-with-other-enemy]
 === Contact with other enemy
 
@@ -578,6 +591,7 @@ shoot at the chargers as described in the Shooting section.
 
 image::movement/spiky-helm.webp[width=378,height=518,role=decorative]
 
+[.page=44]
 [#supporting-charges]
 === Supporting charges
 
@@ -626,8 +640,9 @@ to join combat by moving into the *supporting position*.
 
 image::movement/sword-banner.webp[width=282,height=293,role=circle]
 
+[.page=37]
 [#exceptions-anomalies]
-=== Exceptions & anomalies
+== Exceptions & anomalies
 
 In some situations the proximity of scenery or other
 stands makes it impossible to position all the chargers
@@ -636,6 +651,7 @@ charge is not permitted, in others that chargers can
 be repositioned to accommodate the situation. These
 circumstances are covered in the following rules sections.
 
+[.page=37]
 [#unable-to-contact-centre-to-centre]
 === Unable to contact centre-to-centre
 
@@ -654,6 +670,7 @@ image::movement/charge-blocked.svg[width=1311,height=1016,id=charge-blocked]
 
 image::movement/dwarf-hero.webp[width=382,height=428,role=decorative]
 
+[.page=37]
 [#unable-to-form-a-battle-line]
 === Unable to form a battle line
 
@@ -681,6 +698,7 @@ Shooting section.
 .{empty}
 image::movement/unable-to-form-a-battle-line.svg[width=1312,height=1124,id=f-unable-to-form-a-battle-line]
 
+[.page=38]
 [#blocked-edges]
 === Blocked edges
 
@@ -710,6 +728,7 @@ front edge and the charger is positioned in the target’s
 front zone. The exception to this is a ‘pinned’ enemy unit
 as described below.
 
+[.page=38]
 [#pinned-targets]
 === Pinned targets
 
@@ -740,6 +759,7 @@ charge edge-to-edge. See <<f-pinned-target>>.
 .{empty}
 image::movement/pinned-target.webp[width=984,height=735,id=f-pinned-target]
 
+[.page=38]
 [#irregular-formations]
 === Irregular formations
 
@@ -762,6 +782,7 @@ their front.
 
 image::movement/irregular-formations.svg[width=1312,height=825,id=f-irregular-formations]
 
+[.page=39]
 [#enveloping-charge]
 === Enveloping charge
 
@@ -812,6 +833,7 @@ image::movement/enveloping-charge.svg[width=1324,height=1997,id=f-enveloping-cha
 
 image::movement/battle-view.webp[width=1500,height=834,id=battle-view,role=decorative]
 
+[.page=35]
 [#units-which-move-off-the-table]
 == Units which move off the table
 
@@ -880,6 +902,7 @@ xref:end-of-the-battle.adoc[End of the Battle] section.
 
 image::movement/griffon.webp[width=993,height=1110,role=decorative]
 
+[.page=22]
 [#terrain]
 == Terrain
 
@@ -987,6 +1010,7 @@ outside.
 By the same token, troops further inside the woods or village
 can see and be seen by other troops up to 2cm away.
 
+[.page=80]
 [.h-edit]
 [#types-of-terrain]
 === Types of terrain
@@ -1158,6 +1182,7 @@ include::partial$terrain-restrictions.tsv[]
 |===
 ****
 
+[.page=22]
 [.h-bo5a]
 [#units-forced-into-impenetrable-terrain]
 === Units forced into impenetrable terrain

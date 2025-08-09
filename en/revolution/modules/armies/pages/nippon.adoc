@@ -1,6 +1,6 @@
 = Nippon
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=80
 :page-toclevels: 1
 //po4a: entry ashigaru
 //po4a: entry ashigaru-bowmen
@@ -106,6 +106,7 @@ battlefield conditions.
 
 image::nippon/infantry.webp[width=2830,height=1191]
 
+[.page=81]
 [#army-selector]
 == Nippon army selector
 

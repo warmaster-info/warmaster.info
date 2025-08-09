@@ -1,6 +1,6 @@
 = Dwarfs
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=21
 :page-toclevels: 1
 //po4a: entry warriors
 //po4a: entry handgunners
@@ -108,6 +108,7 @@ of the Dwarfs.
 
 image::dwarfs/anvil.webp[width=761,height=1230]
 
+[.page=22]
 [#army-selector]
 == Dwarf army selector
 

@@ -1,6 +1,6 @@
 = Bretonnia
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=30
 :page-toclevels: 1
 //po4a: entry bowmen
 //po4a: entry men-at-arms
@@ -104,6 +104,7 @@ hearted for few who begin the quest are ever fated to succeed.
 
 image::bretonnia/bretonnia.webp[width=2075,height=918]
 
+[.page=31]
 [#army-selector]
 == Bretonnian army selector
 
@@ -211,6 +212,7 @@ not they are simple Peasants.
 
 image::bretonnia/green-knight.webp[width=419,height=585,role=decorative]
 
+[.page=32]
 [#spells]
 == Bretonnian spells
 

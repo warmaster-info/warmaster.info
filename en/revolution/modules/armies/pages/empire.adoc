@@ -1,6 +1,6 @@
 = Empire
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=6
 :page-toclevels: 1
 //po4a: entry halberdiers
 //po4a: entry handgunners
@@ -86,6 +86,7 @@ issue from the mountain passes every spring.
 
 image::empire/empire.webp[width=2911,height=1341]
 
+[.page=7]
 [#army-selector]
 == Empire army selector
 
@@ -262,6 +263,7 @@ spell once during the battle. The player must announce that he
 is using the power of the War Altar before rolling the dice for
 the spell.
 
+[.page=8]
 [#spells]
 == Empire spells
 

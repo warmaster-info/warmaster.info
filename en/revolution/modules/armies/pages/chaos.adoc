@@ -1,6 +1,6 @@
 = Chaos
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=12
 :page-toclevels: 1
 //po4a: entry chaos-warriors
 //po4a: entry chaos-marauders
@@ -91,6 +91,7 @@ of Praag destroyed.
 
 image::chaos/chaos.webp[width=2462,height=1555]
 
+[.page=13]
 [#army-selector]
 == Chaos army selector
 
@@ -153,6 +154,7 @@ Chariots. An extra +1 Attack is added to those of its rider.
 
 image::chaos/warriors.webp[width=1962,height=650,role=column-span]
 
+[.page=14]
 [#spells]
 == Chaos spells
 

@@ -84,3 +84,36 @@
   })
 })()
 </script>
+
+<script type="text/javascript">
+/* Move page role to data attribute. */
+;(function () {
+  'use strict'
+
+  var elements = document.querySelectorAll('[class*=page\\=]')
+
+  elements.forEach((elem) => {
+    console.log(elem.classList)
+    elem.classList.forEach((c) => {
+      if (c.startsWith('page=')) {
+        elem.dataset.page = c.split('=')[1]
+        console.log(elem.dataset.page)
+      }
+    });
+  });
+
+  // Move tag on body to article element
+  var elements = document.querySelectorAll('body[class*=page\\=]')
+
+  elements.forEach((elem) => {
+    console.log(elem.classList)
+    elem.classList.forEach((c) => {
+      if (c.startsWith('page=')) {
+        document.querySelector('article.doc').dataset.page = c.split('=')[1]
+        console.log(elem.dataset.page)
+      }
+    });
+  });
+
+})()
+</script>

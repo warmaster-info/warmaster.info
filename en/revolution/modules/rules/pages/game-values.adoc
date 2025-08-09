@@ -1,3 +1,4 @@
+[.page=B8]
 = Game Values
 
 [.bo5a]
@@ -5,6 +6,7 @@ Before progressing to the rules of the game, we will
 categorise the different kinds of troops, and assign suitable
 game values to each.
 
+[.page=A6]
 [.ancients]
 [#armies]
 == Armies
@@ -18,6 +20,7 @@ and fighting.
 
 // Here Ancients has a note about multiple players.
 
+[.page=A6]
 [.ancients]
 [#stands]
 == Stands
@@ -42,6 +45,7 @@ as indicated by the direction faced by the models. It is
 important that the direction faced by the stand is obvious
 as in the examples below.
 
+[.page=9]
 [#units]
 == Units
 
@@ -75,6 +79,7 @@ Up to four units can be temporarily placed together to
 form a *brigade*. We’ll be covering brigades in much more
 detail in the rules that follow.
 
+[.page=9]
 [#characters]
 == Characters
 
@@ -84,6 +89,7 @@ as well. These consist of a single stand which includes
 the mighty individual as well as assorted helpmates and
 hangers on. These stands are referred to as characters.
 
+[.page=8]
 // Moved up like Ancients/Bo5A
 [#infantry-cavalry-chariots-monsters-artillery-machines]
 == Infantry, cavalry, chariots, monsters, artillery & machines
@@ -119,6 +125,7 @@ machines are oriented towards the short edge of the base
 as demonstrated by the units shown to the right. Any
 exceptions are indicated in the Army Lists section.
 
+[.page=8]
 [.h-bo5a]
 [#attacks-hits-armour-values]
 == Attacks, hits & armour values
@@ -170,6 +177,7 @@ that the stand has
 no armour.
 |===
 
+[.page=8]
 [#shooting-attacks]
 === Shooting attacks
 
@@ -181,6 +189,7 @@ value is that used for shooting.
 
 include::partial$attack-values.adoc[]
 
+[.page=9]
 [.h-ancients]
 [#command-values]
 == Command values
@@ -197,7 +206,8 @@ value, the more likely you are to be able to order your troops to
 do what you want them to.#
 More about command in due course.
 
-[.ancients]
+[.page=B9]
+[.bo5a]
 [#points-values]
 == Points values
 
@@ -255,6 +265,7 @@ on measurement during play itself; players can take
 measurements as and when they wish.
 ////
 
+[.page=9]
 [#anything-else-to-learn]
 == Anything else to learn?
 
@@ -265,6 +276,7 @@ know about these to begin with, so don’t worry about
 them. Later you’ll see that this is what makes each army
 a different and challenging force to command.
 
+[.page=B10]
 [.bo5a]
 [#visibility-on-the-battlefield]
 == Visibility on the battlefield
@@ -290,6 +302,7 @@ theoretically see – we mean that the whole unit, including its
 commanders, is positioned to observe and react cohesively to the
 presence of the enemy.
 
+[.page=23]
 [.ancients]
 [#line-of-sight]
 === Line of sight
@@ -360,13 +373,14 @@ for example, Wolf Riders in the Orc army.
 .{empty}
 image::game-values/line-of-sight-360.svg[width=1239,height=851,id=line-of-sight-360]
 
+[.page=A10]
 [.ancients]
 [#the-effect-of-terrain]
 === The effect of terrain
 
 [.ancients]
 Some terrain (such as areas of ruins, hills and woods)
-block line of sight as described in the Movement rules.
+blocks line of sight as described in the Movement rules.
 In principle, line of sight is blocked where it
 passes through any kind of terrain feature, but there are
 appropriate and mostly obvious exceptions. For example,

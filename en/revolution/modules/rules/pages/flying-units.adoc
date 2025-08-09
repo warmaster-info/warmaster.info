@@ -1,3 +1,4 @@
+[.page=65]
 = Flying Units
 
 Troops and monsters who are able to fly can move
@@ -5,6 +6,7 @@ long distances very quickly. However, once airborne
 they are almost impossible to direct, so such troops must
 be deployed and committed to battle with care.
 
+[.page=65]
 [#initiative]
 == Initiative
 
@@ -15,6 +17,7 @@ Flying troops don’t evade as ground based troops do.
 This is because they are allowed to home back instead.
 Homing back is explained below.
 
+[.page=65]
 [#orders]
 == Orders
 
@@ -22,6 +25,7 @@ A flying unit can only be issued orders by a character
 within 20cm. This restricted range reflects the difficulty
 of issuing orders to troops that are airborne.
 
+[.page=65]
 [#home-back]
 == Home back
 
@@ -61,6 +65,7 @@ may change orientation along their way. Flyers cannot
 be placed into [.contact]#contact# with enemy stands when they home
 back.
 
+[.page=65]
 [#moving]
 == Moving
 
@@ -88,6 +93,7 @@ rules.
 
 image::flying-units/carpet.webp[width=737,height=733,role=decorative]
 
+[.page=66]
 [#what-can-flying-units-see]
 == What can flying units see?
 
@@ -106,6 +112,7 @@ there is plenty of terrain.
 
 image::flying-units/sorceress.webp[width=447,height=459,role=decorative]
 
+[.page=66]
 [#terrain]
 == Terrain
 
@@ -128,6 +135,7 @@ this may seem a little arbitrary, it is necessary to avoid
 complexity and ambiguity in other aspects of the game,
 and it is a very practical way of representing flyers.
 
+[.page=66]
 [#moving-in-the-shooting-and-combat-phases]
 === Moving in the shooting and combat phases
 
@@ -161,6 +169,7 @@ Flying units that are advancing or falling back in the
 Combat phase are treated [.bo5a]#as described under <<moving>>#
 and can therefore fly over terrain and stands.
 
+[.page=66]
 [#fortified-troops]
 == Fortified troops
 
@@ -171,6 +180,7 @@ is assumed that ramparts have hoardings and other
 fortifications which offer sufficient shelter to protect
 them from aerial attack.
 
+[.page=66]
 [#characters]
 == Characters
 

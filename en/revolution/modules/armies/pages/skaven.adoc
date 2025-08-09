@@ -1,6 +1,6 @@
 = Skaven
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=24
 :page-toclevels: 1
 //po4a: entry clanrats
 //po4a: entry stormvermin
@@ -93,6 +93,7 @@ sorcerers of the Skaven Race.
 
 image::skaven/skaven.webp[width=1918,height=1130]
 
+[.page=25]
 [#army-selector]
 == Skaven army selector
 
@@ -237,6 +238,7 @@ adds +1 to his Attacks.
 
 image::skaven/hero.webp[width=382,height=411,role=decorative]
 
+[.page=26]
 [#spells]
 == Skaven spells
 

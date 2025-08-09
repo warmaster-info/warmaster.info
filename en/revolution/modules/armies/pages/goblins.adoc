@@ -1,6 +1,6 @@
 = Goblins
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=58
 :page-toclevels: 1
 //po4a: entry goblins
 //po4a: entry squig-herd
@@ -97,6 +97,7 @@ protect themselves from the sun’s rays.
 
 image::goblins/goblins.webp[width=2180,height=1071]
 
+[.page=59]
 [#army-selector]
 == Goblin army selector
 
@@ -114,7 +115,6 @@ include::partial$goblins.tsv[]
 3: its
 4: "it charges, pursuits or advances," seem extra TODO
    Reworded anyway.
-
 ////
 
 [[goblins,†1]]1. Goblins:: A Goblin unit is allowed to shoot as if it had bows
@@ -195,6 +195,7 @@ Wyvern rider causes terror in its enemies.
 
 image::goblins/wolf-riders.webp[width=729,height=310,role=column-span]
 
+[.page=60]
 [#spells]
 == Goblin spells
 

@@ -279,6 +279,8 @@ body {
 
   --change-wmr-line: white;
   --change-wmr-text: white;
+
+  --page-number: #e1e1e1;
 }
 
 span.del {
@@ -304,6 +306,8 @@ body.highlight-changes {
 
   --change-wmr-line: grey;
   --change-wmr-text: grey;
+
+  --page-number: grey;
 }
 
 .highlight-changes span.del {
@@ -463,6 +467,31 @@ span.wmr {
   color: tan;
 }
 /* End moved */
+
+/* Page number references */
+.content *[data-page]::before {
+  content: "p" attr(data-page);
+  display: block;
+  position: sticky;
+  top: 6rem;
+  margin-top: 0.65rem;
+  margin-right: -2.5rem;
+  padding-right: 1px;
+  width: 5ex;
+  float: right;
+  text-align: right;
+  z-index: 1;
+  font-size: 0.8rem;
+  font-style: italic;
+  background: white;
+  color: var(--page-number);
+}
+@media screen and (max-width: 1023px) {
+  .content *[data-page]::before {
+    margin-right: 0;
+  }
+}
+/* End page number references */
 
 /* Two-column layout when printing */
 @media print {

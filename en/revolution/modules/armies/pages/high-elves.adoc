@@ -1,6 +1,6 @@
 = High Elves
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=18
 :page-toclevels: 1
 //po4a: entry spearmen
 //po4a: entry archers
@@ -103,6 +103,7 @@ be overwhelmed by the tides of Chaos.
 
 image::high-elves/high-elves.webp[width=2079,height=403]
 
+[.page=19]
 [#army-selector]
 == High Elf army selector
 
@@ -167,6 +168,7 @@ Chariots. An extra +1 Attack is added to those of its rider.
 
 image::high-elves/giant-eagles.webp[width=1227,height=671,role=decorative]
 
+[.page=20]
 [#spells]
 == High Elf spells
 

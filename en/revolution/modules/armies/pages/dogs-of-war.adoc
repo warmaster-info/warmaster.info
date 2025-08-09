@@ -1,6 +1,6 @@
 = Dogs of War
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=48
 :page-toclevels: 1
 //po4a: entry pikemen
 //po4a: entry crossbowmen
@@ -109,6 +109,7 @@ life of ease and luxury.
 
 image::dogs-of-war/dogs-of-war.webp[width=1202,height=754]
 
+[.page=49]
 [#army-selector]
 == Dogs of War army selector
 
@@ -222,6 +223,7 @@ causes terror in its enemies.
 
 image::dogs-of-war/infantry.webp[width=1243,height=585,role=column-span]
 
+[.page=51]
 [#spells]
 == Dogs of War spells
 

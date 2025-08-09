@@ -1,3 +1,4 @@
+[.page=33]
 = Combat
 
 Combat represents close quarter fighting between
@@ -12,6 +13,7 @@ assaulting fortifications. In any case, all close quarter
 fighting is represented by means of the rules in this
 section.
 
+[.page=33]
 [.h-bo5a]
 [#combat-sequence]
 == Combat sequence
@@ -81,6 +83,7 @@ those fighting (see <<advance>>).
 |===
 ****
 
+[.page=34]
 [#combat-engagement]
 == Combat engagement
 
@@ -220,6 +223,7 @@ image::combat/interlinked-engagement.webp[width=1250,height=918,id=f-interlinked
 
 image::combat/dwarf-slayer-hero.webp[width=457,height=503,role=decorative]
 
+[.page=40]
 [#attacks]
 == Attacks
 
@@ -229,6 +233,7 @@ engaged in [.qa]#combat fight# in the Combat phase.
 [.bo5a]#Both sides make their attacks and either
 side can potentially win any combat engagement.#
 
+[.page=40]
 [#attack-value]
 === Attack value
 
@@ -295,6 +300,7 @@ following list of priorities:
   attacks are not allowed where there is
   edge contact.
 
+[.page=41]
 [#attack-modifiers]
 === Attack modifiers
 
@@ -381,6 +387,7 @@ Attack modifiers can potentially reduce a stand’s Attack
 to zero. If this happens, then a unit always rolls one
 Attack dice regardless.
 
+[.page=42]
 [#how-to-calculate-damage]
 === How to calculate damage
 
@@ -398,6 +405,7 @@ the enemy.
 If enemies are in defended or fortified positions, the roll
 needed to hit will be 5+ and 6 respectively. See <<defended-fortified-troops>>.
 
+[.page=42]
 [#armour]
 === Armour
 
@@ -414,6 +422,7 @@ them.
 
 include::partial$divider-axe.adoc[]
 
+[.page=42]
 [#casualties]
 === Casualties
 
@@ -468,6 +477,7 @@ forward into the next.
 
 image::combat/wolf-rider.webp[width=993,height=1493,role=decorative]
 
+[.page=43]
 [#combat-results]
 == Combat results
 
@@ -528,6 +538,7 @@ existing one. See [.edit]#<<pursuit-and-destroyed-enemy>>#.
 --
 ****
 
+[.page=44]
 [.h-bo5a]
 [#support]
 === Support
@@ -569,6 +580,7 @@ causalities. Units benefit from support throughout a
 combat round even where causalities might remove
 supported or supporting stands.
 
+[.page=44]
 [#supporting-combat]
 === Supporting combat
 
@@ -596,6 +608,7 @@ interlinked via the supporting unit.
 
 image::combat/harpy-hero.webp[width=765,height=1069,role=decorative]
 
+[.page=45]
 [#retreats]
 == Retreats
 
@@ -672,6 +685,7 @@ that stands have a path to their final position.
 
 image::combat/fan.webp[width=447,height=455,role=circle]
 
+[.page=45]
 [#blocked-retreats]
 === Blocked retreats
 
@@ -727,6 +741,7 @@ longer engaged in combat, one of the remaining stands is
 automatically destroyed. [.edit]#The# owning player decides which
 [.edit]#stand to remove#.
 
+[.page=46]
 [#retreating-units-and-incidental-contacts]
 === Retreating units and incidental contacts
 
@@ -741,6 +756,7 @@ on what the winner decides to do.
 
 image::combat/retreat-incidental-contact.svg[width=1324,height=1028,id=retreat-incidental-contact]
 
+[.page=46]
 [#retreating-artillery]
 === Retreating artillery
 
@@ -750,6 +766,7 @@ crew massacred or scattered beyond hope of recovery.
 
 image::combat/dark-elves.webp[width=2079,height=623,role=column-span]
 
+[.page=46]
 [.h-bo5a]
 [#winners]
 == Winners
@@ -769,6 +786,7 @@ Move victorious units [.bo5a]#once# enemy units have retreated
 to make way and removed any stands whose retreat is
 blocked.
 
+[.page=B42]
 [.bo5a]
 [#stand]
 === Stand
@@ -778,6 +796,7 @@ If a unit stands, it simply stays where it is and does not move.
 [.wmr]
 image::combat/skeleton-infantry.webp[width=911,height=744,role=decorative]
 
+[.page=47]
 [#pursuit]
 == Pursuit
 
@@ -793,6 +812,7 @@ following turn.
 The Q&A has a xref:questions-and-answers.adoc#wrapping-pursuit[detailed example with diagrams] showing a full combat sequence including pursuit.
 ====
 
+[.page=47]
 [#which-units-can-pursue]
 === Which units can pursue?
 
@@ -836,6 +856,7 @@ irregular formation in the round it charged. For
 further exceptions see <<infantry-contact-with-cavalry>>.
 ****
 
+[.page=47]
 [#moving-pursuers]
 === Moving pursuers
 
@@ -878,6 +899,7 @@ again by a circuitous route.
 
 image::combat/punk-orc.webp[width=809,height=881,role=decorative]
 
+[.page=47]
 [#basic-pursuit]
 === Basic pursuit
 
@@ -910,6 +932,7 @@ turn.
 
 image::combat/pursuit-direct.svg[width=2759,height=921,id=pursuit-direct]
 
+[.page=48]
 [#indirect-pursuit]
 === Indirect pursuit
 
@@ -928,6 +951,7 @@ for basic pursuits.
 
 image::combat/pursuit-indirect.svg[width=2772,height=975,id=pursuit-indirect]
 
+[.page=48]
 [#supporting-pursuits]
 === Supporting pursuits
 
@@ -970,6 +994,7 @@ supporting position.
 
 include::partial$divider-axe.adoc[]
 
+[.page=49]
 [#incidental-contact]
 === Incidental contact
 
@@ -1010,6 +1035,7 @@ If the incidental contact occurs as a result of a second
 round of combat, the newly engaged units do not get to
 fight in this combat phase.
 
+[.page=49]
 [#infantry-contact-with-cavalry]
 === Infantry contact with cavalry
 
@@ -1029,6 +1055,7 @@ non-flying units pursuing flyers.
 
 image::combat/pursuit-maintain-contact.svg[width=2772,height=1029,id=pursuit-maintain-contact]
 
+[.page=49]
 [#impossible-to-pursue]
 === Impossible to pursue
 
@@ -1041,6 +1068,7 @@ sight, for example. A unit that cannot pursue a retreating
 enemy must either stand or fall back. The unit is not
 allowed to <<advance>> instead.
 
+[.page=50]
 [#pursuit-and-destroyed-enemy]
 === Pursuit and destroyed enemy
 
@@ -1051,6 +1079,7 @@ been entirely destroyed. In such a case the victorious
 units can advance. Pursuit is not possible because there
 are no retreating enemies to pursue against. See <<advance>>.
 
+[.page=50]
 [#pursuit-and-combat-dropouts]
 === Pursuit and combat dropouts
 
@@ -1067,6 +1096,7 @@ by pursuers during subsequent rounds of combat, in
 which case they are treated as new incidental contacts.
 See <<incidental-contact>>.
 
+[.page=50]
 [#pursuit-in-terrain]
 === Pursuit in terrain
 
@@ -1082,6 +1112,7 @@ retreat.
 
 image::combat/goblin-wolves.webp[width=2089,height=287,role=column-span]
 
+[.page=50]
 [#advance]
 == Advance
 
@@ -1166,6 +1197,7 @@ per normal charge.
 
 image::combat/dwarf-slayers.webp[width=2200,height=384,role=column-span]
 
+[.page=51]
 [#fall-backs]
 == Fall backs
 
@@ -1222,6 +1254,7 @@ and will fight in the following round. Units that fall back
 but fail to break contact are automatically confused by
 dint of being within 1cm of enemy.
 
+[.page=52]
 [#moving-back]
 === Moving back
 
@@ -1245,6 +1278,7 @@ image::combat/fall-back-corner.svg[width=1324,height=920,id=fall-back-corner]
 
 image::combat/village.webp[width=2075,height=1049,role=column-span]
 
+[.page=52]
 [#unresolved-combats]
 == Unresolved combats
 
@@ -1267,6 +1301,7 @@ players which bonuses apply to which combatants.
 // Bo5A has rules on Reforming, not included in WMR.
 // Reason: https://www.specialist-arms.com/forum/index.php?topic=8716.0
 
+[.page=52]
 [#remove-odd-hits]
 == Remove odd hits
 
@@ -1279,6 +1314,7 @@ units that are only supporting.
 
 image::combat/cold-combat.webp[width=2157,height=862]
 
+[.page=53]
 [#defended-fortified-troops]
 == Defended & fortified troops
 
@@ -1314,6 +1350,7 @@ chart below.
 |All other targets/circumstances |4+
 |===
 
+[.page=53]
 [#defended]
 === Defended
 
@@ -1341,6 +1378,7 @@ charged from the direction it can get advantage of the
 terrain feature, e.g. from the other side of the fence or
 up the hill slope.
 
+[.page=53]
 [#fortified]
 === Fortified
 
@@ -1356,6 +1394,7 @@ it is constructed and positioned in such a way that troops
 must resort to climbing or scrambling up a steep slope in
 order to attack.
 
+[.page=53]
 [#defended-fortified-enemy]
 === Defended & fortified enemy
 

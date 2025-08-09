@@ -1,3 +1,4 @@
+[.page=27]
 = Shooting
 
 The effects of missile weapons are worked out in the
@@ -8,6 +9,7 @@ weapons such as cannons and stone throwing engines.
 All magic attacks also happen in this phase, such as _Balls
 of Flame_ or _Death Bolts_ hurled by sorcerers.
 
+[.page=27]
 [#attack-value]
 == Attack value
 
@@ -25,6 +27,7 @@ include::partial$attack-values.adoc[]
 // (Same change was made in Bo5A + Ancients.)
 ////
 
+[.page=28]
 [#range]
 == Range
 
@@ -46,6 +49,7 @@ An individual stand must be in range in order to shoot.
 This may result in some stands being within range whilst
 others are out, even though they are in the same unit.
 
+[.page=27]
 [#targets]
 == Targets
 
@@ -143,6 +147,7 @@ edge of any stand in the unit.
 image::shooting/empire-infantry.webp[width=2200,height=322,role=column-span]
 
 // Old heading "How to calculate casualties"
+[.page=28]
 [.h-bo5a]
 [#calculating-casualties]
 == Calculating casualties
@@ -169,6 +174,7 @@ saves time rolling several batches of dice. Just add up the
 total number of dice rolls from all the units shooting and
 roll all the dice at once.
 
+[.page=28]
 [.h-bo5a]
 [#defended-or-fortified-targets]
 === Defended or fortified targets
@@ -239,6 +245,7 @@ discussed in the xref::combat.adoc#defended-fortified-troops[Combat phase sectio
 
 image::shooting/boar-riders.webp[width=2079,height=736,role=decorative]
 
+[.page=29]
 [#armour]
 === Armour
 
@@ -270,6 +277,7 @@ rolled for Armour (one dice per hit) scoring 2, 4, 5 and 6.
 As any score of 4 or more equals a ‘save’, 3 hits are
 nullified and the Knights suffer only one hit.
 
+[.page=29]
 [#removing-casualties]
 === Removing casualties
 
@@ -314,6 +322,7 @@ be used to drive back enemy units, as follows.
 
 image::shooting/wizard.webp[width=688,height=1084,role=decorative]
 
+[.page=29]
 [#driving-back-enemies]
 == Driving back enemies
 
@@ -378,6 +387,7 @@ as a block. See <<drive-back>>.
 .Driving back enemies
 image::shooting/drive-back.svg[width=1312,height=1428,id=drive-back]
 
+[.page=30]
 [#units-confused-during-drive-backs]
 === Units confused during drive backs
 
@@ -394,6 +404,7 @@ into terrain which they can’t enter or if they are driven
 back into other units, whether they are friend or foe. See
 the section on xref::confusion.adoc[Confusion] for full rules.
 
+[.page=30]
 [#units-routed-by-drive-backs]
 === Units routed by drive backs
 
@@ -410,6 +421,7 @@ infantry or cavalry units.
 
 image::shooting/chariot.webp[width=910,height=1088,role=decorative]
 
+[.page=30]
 [#shooting-at-charging-enemy]
 == Shooting at charging enemy
 
@@ -521,6 +533,7 @@ image::shooting/shooting-hits-carried-over.webp[width=984,height=676,id=shooting
 
 image::shooting/skull.webp[width=404,height=408,role=circle]
 
+[.page=31]
 [#special-situations]
 == Special situations
 
@@ -535,6 +548,7 @@ mostly due to magic.
 
 include::partial$divider-sword.adoc[]
 
+[.page=31]
 [#the-role-of-missile-troops]
 == The role of missile troops
 

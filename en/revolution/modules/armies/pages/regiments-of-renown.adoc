@@ -1,6 +1,6 @@
 = Regiments of Renown
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=83
 :page-toclevels: 1
 //po4a: entry pirazzos-lost-legion
 //po4a: entry alcatani-fellowship
@@ -160,6 +160,7 @@ Riders, Khalag’s Sure Shots, and the renowned Golgfag’s Mercenary Ogres.
 
 image::regiments-of-renown/birdmen.webp[width=900,height=445]
 
+[.page=84]
 [#army-selector]
 == Regiments of Renown army selector
 
@@ -233,6 +234,7 @@ roll a dice and decide who got the ‘authentic’ one and who
 ‘impersonated’ one. This roll is just for fun, without any impact in the
 game.
 
+[.page=85]
 [#unit-rules]
 === Unit rules
 
@@ -377,6 +379,7 @@ include::partial$regiments-of-renown-allies-table.tsv[]
 ·:: Not available for this army.
 ****
 
+[.page=87]
 [#hiring-regiments-of-renown]
 === Hiring Regiments of Renown
 

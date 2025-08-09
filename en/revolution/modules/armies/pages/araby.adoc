@@ -1,6 +1,6 @@
 = Araby
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=45
 :page-toclevels: 1
 //po4a: entry spearmen
 //po4a: entry bowmen
@@ -101,6 +101,7 @@ camel mounted warriors from the lands to the south and east.
 
 image::araby/araby.webp[width=1744,height=1039]
 
+[.page=46]
 [#army-selector]
 == Araby army selector
 
@@ -245,6 +246,7 @@ image::araby/hero.webp[width=816,height=808,role=decorative]
 
 image::araby/wizard.webp[width=605,height=685,role=decorative]
 
+[.page=47]
 [#spells]
 == Araby spells
 

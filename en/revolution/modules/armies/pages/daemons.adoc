@@ -1,6 +1,6 @@
 = Daemons
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=39
 :page-toclevels: 1
 //po4a: entry daemon-hordes
 //po4a: entry daemon-swarm
@@ -83,6 +83,7 @@ many a theologist has been burned for saying as much.
 
 image::daemons/daemons.webp[width=1779,height=969]
 
+[.page=40]
 [#army-selector]
 == Daemon army selector
 
@@ -185,6 +186,7 @@ Warmaster rulebook.
 
 image::daemons/infantry.webp[width=1336,height=744,role=decorative]
 
+[.page=41]
 [#spells]
 == Daemonic spells
 

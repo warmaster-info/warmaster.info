@@ -1,6 +1,6 @@
 = Lizardmen
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=27
 :page-toclevels: 1
 //po4a: entry skinks
 //po4a: entry saurus
@@ -104,6 +104,7 @@ to this day the intent of the Old Ones if not their understanding.
 
 image::lizardmen/lizardmen.webp[width=2075,height=696]
 
+[.page=28]
 [#army-selector]
 == Lizardmen army selector
 
@@ -232,6 +233,7 @@ terror. No other character can ride a Carnosaur.
 
 image::lizardmen/slann.webp[width=1065,height=1601,role=decorative]
 
+[.page=29]
 [#spells]
 == Lizardmen spells
 

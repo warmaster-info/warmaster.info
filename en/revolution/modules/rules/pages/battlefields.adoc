@@ -1,5 +1,7 @@
+[.page=81]
 = Battlefields
 
+[.page=81]
 [#setting-up-armies]
 == Setting up armies
 
@@ -43,6 +45,7 @@ the first turn.
 *Scouts.* This way of setting up the armies is described in
 detail <<scouting,below>>.
 
+[.page=81]
 [#setting-up-scenery]
 == Setting up scenery
 
@@ -96,6 +99,7 @@ symmetrically so that no advantage is conferred to either
 side. This is a bit mechanical and rather unrealistic but
 it’s certainly fair in principle.
 
+[.page=81]
 [#table-size-and-deployment-areas]
 == Table size and deployment areas
 
@@ -108,9 +112,10 @@ along opposite table edges 80cm apart.
 
 image::battlefields/battlefield.svg[width=1324,height=883,id=f-battlefield]
 
+[.page=82]
 [#scouting]
-.Scouting
-****
+== Scouting
+
 // of, They
 Scouting rules are an alternative way of deploying
 your armies. They represent the pre-battle struggle for
@@ -123,9 +128,9 @@ commit to scouting. Using the table below count the
 total number of committed scouting points.
 
 // Plurals etc changed
-[cols="1,^2,4",frame=none,grid=rows]
+[cols="^1,^2,4",frame=none,grid=rows]
 |===
-|Role |Scouting points |Troop types
+|Role |Scouting points ^|Troop types
 
 |Flyers
 |3
@@ -162,8 +167,8 @@ his units and characters within his deployment zone.
 Finally, the player who ‘won’ the scouting roll then
 places the remainder of his units in his deployment zone.
 [.edit]#This player# must move second in the first turn.
-****
 
+[.page=82]
 [#how-long-does-the-battle-last]
 == How long does the battle last?
 
@@ -205,6 +210,7 @@ most victory points is the winner. Alternatively the
 death clock can be used, in which case the side that runs
 out of time first is the loser.
 
+[.page=82]
 [#scenarios]
 == Scenarios
 
@@ -220,6 +226,7 @@ are no rules when it comes to creating a battle. It’s up to
 you to invent an entertaining plot or spin a fantastic yarn
 to underpin the game.
 
+[.page=82]
 [#victory-points]
 == Victory points
 
@@ -243,6 +250,7 @@ Victory Points difference with the following table:
 If both sides have an equal number of Victory Points,
 then the game is a draw.
 
+[.page=83]
 [#take-and-hold]
 == Take and hold
 
@@ -299,6 +307,7 @@ image::battlefields/take-and-hold.svg[width=2599,height=1732,id=f-take-and-hold]
 
 image::battlefields/swordsmen.webp[width=2079,height=509,role=column-span]
 
+[.page=84]
 [#battle-for-the-tower]
 == Battle for the tower
 
@@ -352,6 +361,7 @@ image::battlefields/battle-for-the-tower.svg[width=2599,height=1732,id=f-battle-
 
 image::battlefields/dwarf-gunners.webp[width=1756,height=497,role=column-span]
 
+[.page=85]
 [#defending-the-village]
 == Defending the village
 
@@ -422,6 +432,7 @@ image::battlefields/defending-the-village.svg[width=2599,height=1732,id=f-defend
 
 image::battlefields/chaos-axe.webp[width=454,height=561,role=decorative]
 
+[.page=86]
 [#wagon-train]
 == Wagon train
 

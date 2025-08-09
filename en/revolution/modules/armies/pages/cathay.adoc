@@ -1,6 +1,6 @@
 = Cathay
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=77
 :page-toclevels: 1
 //po4a: entry bannermen
 //po4a: entry crossbows
@@ -104,6 +104,7 @@ pay and regular meals.
 
 image::cathay/cathay.webp[width=2850,height=1208]
 
+[.page=78]
 [#army-selector]
 == Cathay army selector
 
@@ -205,6 +206,7 @@ magic before rolling to see if the spell works.
 
 image::cathay/maneaters.webp[width=1425,height=439,role=column-span]
 
+[.page=79]
 [#spells]
 == Cathay spells
 

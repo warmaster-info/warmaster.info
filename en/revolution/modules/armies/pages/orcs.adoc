@@ -1,6 +1,6 @@
 = Orcs
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=15
 :page-toclevels: 1
 //po4a: entry orc-warriors
 //po4a: entry black-orcs
@@ -107,6 +107,7 @@ cause first.
 
 image::orcs/orcs.webp[width=2150,height=728]
 
+[.page=16]
 [#army-selector]
 == Orcs army selector
 
@@ -160,6 +161,7 @@ character in a chariot adds +1 to his Attacks.
 
 image::orcs/hero.webp[width=648,height=849,role=decorative]
 
+[.page=17]
 [#spells]
 == Orc spells
 

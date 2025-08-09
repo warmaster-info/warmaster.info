@@ -1,5 +1,7 @@
+[.page=87]
 = Siege & Fortresses
 
+[.page=87]
 [#introduction]
 == Introduction
 
@@ -30,6 +32,7 @@ uncomplicated Siege games.#
 That does not mean that [.edit]#longer# Siege Campaigns cannot be
 supported by these rules. Special scenarios or campaigns might still follow.
 
+[.page=87]
 [#model-fortresses]
 == Model fortresses
 
@@ -55,6 +58,7 @@ sections between 40 to 50mm, so when building a castle you
 should consider either making sections of this width or
 at least think of a way of marking those sections.
 
+[.page=87]
 [#general-siege-rules]
 == General siege rules
 
@@ -89,6 +93,7 @@ tower, this includes the entirety of the tower.
 //defined in the Warmaster rulebook as well as the rules
 //that follow.
 
+[.page=88]
 [#movement]
 == Movement
 
@@ -144,6 +149,7 @@ This is explained further under <<assaults>>.
 // Moved to end of paragraph
 image::siege-and-fortresses/moon.webp[width=445,height=450,role=circle]
 
+[.page=88]
 [#shooting]
 == Shooting
 
@@ -190,6 +196,7 @@ friendly troops on lower ramparts or the ground.
 
 image::siege-and-fortresses/crossbowmen.webp[width=946,height=561,role=decorative]
 
+[.page=88]
 [#structure-tests]
 == Structure tests
 
@@ -255,6 +262,7 @@ tower is destroyed when it collapses. Where practical,
 the tower should be replaced with model rubble to show
 that it has collapsed.
 
+[.page=89]
 [#battering]
 == Battering
 
@@ -315,6 +323,7 @@ allowed to advance into the next enemy he can see.
 
 image::siege-and-fortresses/siege-tower.webp[width=675,height=1061,role=decorative]
 
+[.page=90]
 [#breaches]
 == Breaches
 
@@ -385,6 +394,7 @@ in the same way as a low wall or barricade. A breach can
 therefore be defended by troops on the other side once
 the wall or tower itself has been knocked down.
 
+[.page=90]
 // Removed "and breaches" as it's mostly not about them,
 // promote to level 2.
 [.h-edit]
@@ -477,6 +487,7 @@ attacks in the same way as if an adjacent wall section
 
 include::partial$divider-sword.adoc[]
 
+[.page=91]
 [#assaults]
 == Assaults
 
@@ -576,6 +587,7 @@ thrown back and must retreat in the usual manner.
 The defenders remain in place. Defenders will not (and
 cannot!) pursue over ramparts.
 
+[.page=91]
 [#counter-attacks-on-ramparts]
 === Counter attacks on ramparts
 
@@ -645,6 +657,7 @@ away from the Ogres.
 
 image::siege-and-fortresses/elves-planning.webp[width=2079,height=1373,role=decorative]
 
+[.page=93]
 [#giants]
 == Giants
 
@@ -674,6 +687,7 @@ he must fight the defenders instead. When attempting
 to batter walls, each Giant inflicts one automatic hit and
 damage is calculated in the same way as for Rams.
 
+[.page=93]
 [#towers]
 == Towers
 
@@ -817,6 +831,7 @@ the attackers.
 
 image::siege-and-fortresses/defended-tower.webp[width=834,height=1329,role=decorative]
 
+[.page=95]
 [#flyers-attacking-fortifications]
 == Flyers attacking fortifications
 
@@ -847,6 +862,7 @@ attacks cannot be used against them.
 
 image::siege-and-fortresses/dragon-ogre.webp[width=927,height=750,role=decorative]
 
+[.page=95]
 [#character-movement]
 == Character movement
 
@@ -862,6 +878,7 @@ enemy unit it [.edit]#must# join a friendly unit within 30cm.
 The buildings or the height of the walls do not restrict
 the movement of the character, [.edit]#regardless of any mount#.
 
+[.page=95]
 [#magic]
 == Magic
 
@@ -881,6 +898,7 @@ behind the walls of the fortress as long as there is enough
 room to place the raised unit and the raised unit touches
 any units in combat.
 
+[.page=95]
 [#siege-machines]
 == Siege machines
 
@@ -901,6 +919,7 @@ Sows may use initiative to attack the nearest wall section
 
 image::siege-and-fortresses/siege.webp[width=1920,height=888,role=column-span]
 
+[.page=96]
 [#siege-towers]
 === Siege towers
 
@@ -1019,6 +1038,7 @@ as being fortified.
 
 include::partial$divider-sword.adoc[]
 
+[.page=97]
 [#battering-rams]
 === Battering rams
 
@@ -1077,6 +1097,7 @@ image::siege-and-fortresses/battering-ram-unit.svg[width=1239,height=851,id=fbat
 
 image::siege-and-fortresses/ram.webp[width=701,height=533,role=decorative]
 
+[.page=97]
 [#sows]
 === Sows
 
@@ -1100,6 +1121,7 @@ the Sow is destroyed. Units with Sows may pursue or
 advance in combat leaving their machine behind which
 effectively means the Sow counts as destroyed.
 
+[.page=97]
 [#mantlets]
 === Mantlets
 
@@ -1135,6 +1157,7 @@ overturned or cast aside and removed from the battle.
 // Picture moved here from below
 image::siege-and-fortresses/mantlets.webp[width=1702,height=689,role=decorative]
 
+[.page=98]
 [#boiling-oil-or-rock-droppers]
 === Boiling oil or rock droppers
 
@@ -1202,6 +1225,7 @@ armour saves.
 
 image::siege-and-fortresses/projectiles.webp[width=475,height=347,role=decorative]
 
+[.page=98]
 [#tribock]
 === Tribock
 
@@ -1247,6 +1271,7 @@ units that charge it.
 
 image::siege-and-fortresses/tribock.webp[width=1414,height=1260,role=decorative]
 
+[.page=99]
 [#bombard]
 === Bombard
 
@@ -1286,6 +1311,7 @@ Bombards may not be used by Elves or Bretonnians.
 
 image::siege-and-fortresses/bombard.webp[width=843,height=511,role=decorative]
 
+[.page=99]
 [#mangonel]
 === Mangonel
 
@@ -1317,6 +1343,7 @@ target. Mangonels can’t shoot at charging enemy units.
 
 image::siege-and-fortresses/mangonel.webp[width=880,height=791,role=decorative]
 
+[.page=100]
 [#earthworks]
 === Earthworks
 
@@ -1356,6 +1383,7 @@ as a separate unit for these purposes.
 
 image::siege-and-fortresses/earthworks.webp[width=838,height=533,role=decorative]
 
+[.page=100]
 [#log-rams]
 === Log rams
 
@@ -1390,6 +1418,7 @@ unit has to retreat 1cm.
 
 image::siege-and-fortresses/log-rams.webp[width=615,height=318,role=decorative]
 
+[.page=100]
 [#ladders]
 === Ladders
 
@@ -1400,6 +1429,7 @@ based as cavalry cannot climb ladders.
 
 image::siege-and-fortresses/ladders.webp[width=2073,height=1184,role=decorative]
 
+[.page=101]
 [#siege-equipment-lists]
 == Siege equipment lists
 
@@ -1420,6 +1450,7 @@ No army may ever have more than two wallbreaching
 artillery per 1000 points. Remember that also cannons
 and rock lobbers count as wall breaching!
 
+[.page=101]
 [#fortification-list]
 === Fortification
 
@@ -1439,6 +1470,7 @@ and rock lobbers count as wall breaching!
 |Earthwork      |Building |– |–     |Special |– |40×10mm |15  |–/– |<<sr-sally-gate>>, <<sr-earthwork>>
 |===
 
+[.page=101]
 [#fortification-special-rules]
 === Special rules
 
@@ -1479,6 +1511,7 @@ by rolling a 6 with their attacks.
 
 image::siege-and-fortresses/cannon-hill.webp[width=1073,height=786,role=decorative]
 
+[.page=102]
 [#siege-equipment-list]
 === Siege equipment
 
@@ -1496,6 +1529,7 @@ rock dropper    |Machine |– |–  |Special |– |1 |5  |–/– |<<sr-defender
 |Battering ram  |Machine |1 |3  |3+      |– |1 |10 |–/– |<<sr-attackers>>, <<sr-mobile>>, <<sr-ram>>
 |===
 
+[.page=102]
 [#siege-equipment-special-rules]
 === Special rules
 
@@ -1512,6 +1546,7 @@ charging or are driven back more than half their move.
 
 [[sr-ram,†5]]5. Ram:: Rams always make one automatic hit when battering.
 
+[.page=102]
 [#siege-artillery-list]
 === Siege artillery list
 
@@ -1524,6 +1559,7 @@ charging or are driven back more than half their move.
 |Tribock  |Building |1/6 |4  |0 |– |1 |120 |–/1 |<<sr-wall-breaching>>, <<sr-straight-ahead>>
 |===
 
+[.page=102]
 [#siege-artillery-special-rules]
 === Special rules
 
@@ -1547,9 +1583,11 @@ Cannons.
 in the [.edit]#strip# that extends straight forward and is the width
 of the front edge.
 
+[.page=103]
 [#scenarios]
 == Scenarios
 
+[.page=103]
 [#into-the-breach]
 === Into the breach
 
@@ -1607,6 +1645,7 @@ wins.
 
 image::siege-and-fortresses/elephant-rider.webp[width=880,height=1004,role=decorative]
 
+[.page=104]
 [#the-watchtower]
 === The watchtower
 

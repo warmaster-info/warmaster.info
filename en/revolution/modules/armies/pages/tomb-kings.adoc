@@ -1,6 +1,6 @@
 = Tomb Kings
 :page-layout: armylist
-:page-role: armylist
+:page-role: armylist page=9
 :page-toclevels: 1
 //po4a: entry skeletons
 //po4a: entry skeleton-bowmen
@@ -91,6 +91,7 @@ of the lives that they once led.
 
 image::tomb-kings/tomb-kings.webp[width=2079,height=874]
 
+[.page=10]
 [#army-selector]
 == Tomb kings army selector
 
@@ -173,6 +174,7 @@ A character riding a chariot adds +1 to his Attacks.
 
 image::tomb-kings/tomb-king.webp[width=605,height=810,role=decorative]
 
+[.page=11]
 [#spells]
 == Tomb King spells
 

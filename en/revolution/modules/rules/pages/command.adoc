@@ -1,3 +1,4 @@
+[.page=14]
 = [.edit]#Command & Initiative#
 
 Units [.bo5a]#and characters are# usually moved in the Command phase. A unit
@@ -49,6 +50,7 @@ initiative.
 The distances moved by each type of unit vary, and are given in
 the Movement section.
 
+[.page=23]
 [.h-bo5a]
 [#initiative-movement]
 == Initiative movement
@@ -186,6 +188,7 @@ Refer to the
 xref::combat-phase.adoc#combat-engagement[Combat phase section] for rules for charges.
 ////
 
+[.page=23]
 [.ancients]
 [#sequence-of-movement]
 === Sequence of movement
@@ -236,6 +239,7 @@ image::command/initiative-charge-1.webp[width=993,height=682,id=initiative-charg
 .Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge.
 image::command/initiative-charge-2.webp[width=993,height=703,id=initiative-charge-2]
 
+[.page=A14]
 [.ancients]
 [#charge-or-evade]
 === Charge or evade
@@ -249,6 +253,7 @@ described in the Movement section.
 [.wmr]
 image::command/giant.webp[width=769,height=1176,role=decorative]
 
+[.page=13]
 [.h-ancients]
 [#orders]
 == Orders
@@ -282,6 +287,7 @@ order, it is moved and can be given a further order and
 moved again, up to a maximum of *three* times in total.
 This process is described in detail in the rules that follow.
 
+[.page=14]
 [#giving-an-order]
 === Giving an order
 
@@ -304,6 +310,7 @@ commanders being able to act on their own to some
 limited extent.
 // NB: Half-pace failed orders not in Ancients/Bo5A.
 
+[.page=14]
 [.h-bo5a]
 [#order-sequence]
 === Order sequence
@@ -349,6 +356,7 @@ nearby enemy action and killed).
 
 image::command/skinks.webp[width=697,height=579,role=decorative]
 
+[.page=14]
 [#giving-further-orders]
 === Giving further orders
 
@@ -383,6 +391,7 @@ annoying things that bedevil the process of waging war.
 
 image::command/goblins.webp[width=2070,height=1053,role=column-span]
 
+[.page=15]
 [#command-penalties]
 == Command penalties
 
@@ -396,6 +405,7 @@ we apply the following penalties:
 
 // Reformatted with headings similar to Bo5A
 
+[.page=15]
 [.h-bo5a]
 [#distance]
 === Distance
@@ -417,6 +427,7 @@ way, measure the shortest distance between them.
 |per +20cm   |minus a further 1
 |===
 
+[.page=15]
 [.h-bo5a]
 [#multiple-orders]
 === Multiple orders
@@ -438,6 +449,7 @@ is at −1, its third order is at −2.
 |Third  |−2
 |===
 
+[.page=15]
 [.h-bo5a]
 [#enemy-close]
 === Enemy close
@@ -458,6 +470,7 @@ harder to give them a specific order.
 |More than 20cm |none
 |===
 
+[.page=15]
 [.h-bo5a]
 [#dense-terrain]
 === Dense terrain
@@ -476,6 +489,7 @@ for more about dense terrain].
 |Within feature |−1
 |===
 
+[.page=15]
 [.h-bo5a]
 [#casualties]
 === Casualties
@@ -530,6 +544,7 @@ that the Command value can never exceed 10.
 
 image::command/triskelion.webp[width=438,height=457,role=circle]
 
+[.page=16]
 [#charge]
 == Charge!
 
@@ -548,6 +563,7 @@ section] for further explanation.
 .A unit of cavalry charging into combat with a unit of infantry
 image::command/cavalry-charge.webp[width=1443,height=1161]
 
+[.page=25]
 [.h-bo5a]
 [#character-movement]
 == Character movement
@@ -583,6 +599,7 @@ characters as if they were not there.
 See the xref::characters.adoc[Generals, Wizards and Heroes section].
 // End moved here
 
+[.page=16]
 [.h-bo5a]
 [#brigade-orders]
 == Brigade orders
@@ -691,6 +708,7 @@ image::command/charge-from-brigade-3.svg[width=1355,height=931]
 
 image::command/charge-from-brigade-4.svg[width=1355,height=931]
 
+[.page=17]
 [.h-bo5a]
 [#further-brigade-orders]
 === Further brigade orders
