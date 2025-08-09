@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Title =
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:1
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:2
 #, no-wrap
 msgid "Introducing Warmaster"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:9
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:10
 msgid ""
 "Warmaster is a game of conflict on a grand scale, fought over an area of "
 "ground that we might imagine to be many miles square. Although our models "
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:23
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:24
 msgid ""
 "The area occupied by a regiment of models is assumed to encompass hundreds "
 "of warriors including all of their supporting elements such as mules laden "
@@ -47,7 +47,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:38
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:39
 msgid ""
 "Similarly, when considering the distances moved by our troops it is wise to "
 "think of a standard move of 20cm or 30cm as representing a unit redeploying "
@@ -62,7 +62,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:50
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:51
 msgid ""
 "Because Warmaster units represent such large bodies of troops, the rules for "
 "combat emphasise the position of units rather than the weapons with which "
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:63
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:64
 msgid ""
 "A comparable approach has been taken to missile ranges. In the game, a bow "
 "can shoot as far as 30cm but this represents a longer distance than a bow "
@@ -89,7 +89,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:77
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:78
 msgid ""
 "The most important aspect of the game is the role allotted to the armies’ "
 "commanders. Warmaster is based around the ability of generals and their "
@@ -104,13 +104,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:81
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:83
 #, no-wrap
 msgid "The game rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:92
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:94
 msgid ""
 "The following pages contain all the rules for the Warmaster game. We suggest "
 "that you read through them before attempting to play but don’t worry about "
@@ -122,13 +122,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:94
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:97
 #, no-wrap
 msgid "Dice"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:101
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:104
 msgid ""
 "The Warmaster game uses dice to represent the chance element of shooting and "
 "close combat. To save space we refer to an individual six-sided dice as a "
@@ -138,7 +138,7 @@ msgstr ""
 
 #.  10 × D6 changed to D6 × 10 to make the difference with 10D6 clearer.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:108
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:111
 msgid ""
 "Sometimes you’ll be required to roll two dice and add the scores together, "
 "in which case we will ask you to roll ‘2D6’. Occasionally, you will need to "
@@ -147,7 +147,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:114
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:117
 msgid ""
 "In a few instances the rules will also ask you to roll a ‘D3’. This is "
 "simply a convenient way of referring to a random roll of between 1 and 3 "
@@ -156,13 +156,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:118
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:122
 #, no-wrap
 msgid "Rulers & tape measures"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:126
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:130
 msgid ""
 "In the Warmaster game, units move across the battlefield by a measured "
 "distance. When troops shoot it will be necessary to measure to ensure that "
@@ -172,7 +172,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:131
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:135
 msgid ""
 "During the game, players are permitted to measure as and when they wish. In "
 "many cases, this will be necessary in order to determine which target to "
@@ -180,7 +180,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:136
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:140
 msgid ""
 "Players who prefer to play using inches can do so by halving the value of "
 "all the distances given. This gives slightly longer moves and ranges but "
@@ -188,7 +188,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:145
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:149
 msgid ""
 "Players will find it useful to have a few coloured dice to use as ‘Hit’ "
 "markers. Any spare dice can be used in this way but visually distinct dice "
@@ -198,7 +198,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:151
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:155
 msgid ""
 "You may also find it handy to have a few small tokens to temporarily mark a "
 "spot or remind yourself of a unit’s status – card chits, small coins or "
@@ -206,13 +206,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:154
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:159
 #, no-wrap
 msgid "Zone indicator"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:160
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:165
 msgid ""
 "A card zone indicator is a useful mechanical guide that enables you to "
 "easily work out front, side and rear zones for individual stands as "
@@ -221,13 +221,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:165
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:171
 #, no-wrap
 msgid "A plea"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:180
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:186
 msgid ""
 "When playing a tabletop wargame, it is impossible to be absolutely precise "
 "when it comes to measurements.  Stands can get knocked out of position, "
@@ -241,7 +241,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:190
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:196
 msgid ""
 "Many players find the same kind of random roll a perfectly good way of "
 "solving niggling rules disputes during play. If you’re not exactly sure of "
@@ -252,13 +252,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:192
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:199
 #, no-wrap
 msgid "Get stuck in"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:200
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:207
 msgid ""
 "Although the scope and pageant of the game can only be realised by playing "
 "with miniature armies, for the purpose of learning the rules you might want "
@@ -267,7 +267,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:205
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:212
 msgid ""
 "Similarly, you may want to field unpainted models that you buy. You can "
 "paint your army later but this will take time so it’s best to learn the game "
@@ -275,7 +275,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:209
+#: en/revolution/modules/rules/pages/introducing-warmaster.adoc:216
 msgid ""
 "Nothing else is needed, though a pen and paper are useful for making notes "
 "and a nice hot cup of tea is always a good idea!"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-06 02:52+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: 2025-08-05 15:04+0000\n"
 "Last-Translator: Augustin Bodin <augustin.bodin@laposte.net>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -313,77 +313,77 @@ msgstr ""
 "devins."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/albion.adoc:114
+#: en/revolution/modules/armies/pages/albion.adoc:115
 #, no-wrap
 msgid "Albion army selector"
 msgstr "Sélecteur d'armée d'Albion"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/albion.adoc:119
+#: en/revolution/modules/armies/pages/albion.adoc:120
 #, no-wrap
 msgid "include::partial$albion.tsv[]\n"
 msgstr "include::partial$albion.tsv[]\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:122
-#: en/revolution/modules/armies/pages/araby.adoc:113
-#: en/revolution/modules/armies/pages/beastmen.adoc:86
-#: en/revolution/modules/armies/pages/beastmen.adoc:96
-#: en/revolution/modules/armies/pages/bretonnia.adoc:116
-#: en/revolution/modules/armies/pages/bretonnia.adoc:132
-#: en/revolution/modules/armies/pages/cathay.adoc:116
-#: en/revolution/modules/armies/pages/cathay.adoc:129
-#: en/revolution/modules/armies/pages/chaos.adoc:103
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
-#: en/revolution/modules/armies/pages/daemons.adoc:95
-#: en/revolution/modules/armies/pages/daemons.adoc:139
-#: en/revolution/modules/armies/pages/dark-elves.adoc:116
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:121
-#: en/revolution/modules/armies/pages/dwarfs.adoc:120
-#: en/revolution/modules/armies/pages/empire.adoc:98
-#: en/revolution/modules/armies/pages/goblins.adoc:109
-#: en/revolution/modules/armies/pages/high-elves.adoc:115
-#: en/revolution/modules/armies/pages/kislev.adoc:100
-#: en/revolution/modules/armies/pages/lizardmen.adoc:116
-#: en/revolution/modules/armies/pages/lizardmen.adoc:129
-#: en/revolution/modules/armies/pages/nippon.adoc:118
-#: en/revolution/modules/armies/pages/nippon.adoc:136
-#: en/revolution/modules/armies/pages/norse.adoc:82
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:105
-#: en/revolution/modules/armies/pages/orcs.adoc:119
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:172
-#: en/revolution/modules/armies/pages/skaven.adoc:105
-#: en/revolution/modules/armies/pages/skaven.adoc:128
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:103
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:122
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:103
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:128
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:88
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:101
-#: en/revolution/modules/armies/pages/wood-elves.adoc:101
-#: en/revolution/modules/armies/pages/wood-elves.adoc:111
-#: en/revolution/modules/rules/pages/battlefields.adoc:255
-#: en/revolution/modules/rules/pages/battlefields.adoc:311
-#: en/revolution/modules/rules/pages/battlefields.adoc:366
-#: en/revolution/modules/rules/pages/battlefields.adoc:437
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1443
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1500
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1528
+#: en/revolution/modules/armies/pages/albion.adoc:123
+#: en/revolution/modules/armies/pages/araby.adoc:114
+#: en/revolution/modules/armies/pages/beastmen.adoc:87
+#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/bretonnia.adoc:117
+#: en/revolution/modules/armies/pages/bretonnia.adoc:133
+#: en/revolution/modules/armies/pages/cathay.adoc:117
+#: en/revolution/modules/armies/pages/cathay.adoc:130
+#: en/revolution/modules/armies/pages/chaos.adoc:104
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
+#: en/revolution/modules/armies/pages/daemons.adoc:96
+#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/dark-elves.adoc:117
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
+#: en/revolution/modules/armies/pages/dwarfs.adoc:121
+#: en/revolution/modules/armies/pages/empire.adoc:99
+#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/high-elves.adoc:116
+#: en/revolution/modules/armies/pages/kislev.adoc:101
+#: en/revolution/modules/armies/pages/lizardmen.adoc:117
+#: en/revolution/modules/armies/pages/lizardmen.adoc:130
+#: en/revolution/modules/armies/pages/nippon.adoc:119
+#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/norse.adoc:83
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
+#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/skaven.adoc:106
+#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:104
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:123
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:104
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:129
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
+#: en/revolution/modules/armies/pages/wood-elves.adoc:102
+#: en/revolution/modules/armies/pages/wood-elves.adoc:112
+#: en/revolution/modules/rules/pages/battlefields.adoc:263
+#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/rules/pages/battlefields.adoc:376
+#: en/revolution/modules/rules/pages/battlefields.adoc:448
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/albion.adoc:129
-#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/albion.adoc:130
+#: en/revolution/modules/armies/pages/chaos.adoc:106
 #, no-wrap
 msgid "[[ogres,†1]]1. Ogres"
 msgstr "[[ogres,†1]]1. Ogres"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:134
-#: en/revolution/modules/armies/pages/chaos.adoc:110
-#: en/revolution/modules/armies/pages/orcs.adoc:140
+#: en/revolution/modules/armies/pages/albion.adoc:135
+#: en/revolution/modules/armies/pages/chaos.adoc:111
+#: en/revolution/modules/armies/pages/orcs.adoc:141
 msgid ""
 "If an Ogre unit can use its initiative to charge an enemy unit of humans at "
 "the start of the Command phase then it must do so. This happens "
@@ -398,70 +398,70 @@ msgstr ""
 "commandant."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/albion.adoc:135
+#: en/revolution/modules/armies/pages/albion.adoc:136
 #, no-wrap
 msgid "[[giant,†2]]2. Giant"
 msgstr "[[géant,†2]]2. Géant"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/albion.adoc:138
+#: en/revolution/modules/armies/pages/albion.adoc:139
 #, no-wrap
 msgid "[[giant-eagles,†3]]3. Giant Eagles"
 msgstr "[[giant-eagles,†3]]3. Aigles géants"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:139
-#: en/revolution/modules/armies/pages/high-elves.adoc:124
+#: en/revolution/modules/armies/pages/albion.adoc:140
+#: en/revolution/modules/armies/pages/high-elves.adoc:125
 msgid "Giant Eagles can fly."
 msgstr "Les Aigles Géants peuvent voler."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/albion.adoc:140
+#: en/revolution/modules/armies/pages/albion.adoc:141
 #, no-wrap
 msgid "[[giant-eagle-mount,†4]]4. Giant Eagle Mount"
 msgstr "[[giant-eagle-mount,†4]]4. Monture Aigle Géant"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:141
+#: en/revolution/modules/armies/pages/albion.adoc:142
 msgid "Giant Eagles can be ridden only by Druids."
 msgstr "Seuls les Druides peuvent voler sur des Aigles Géants."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:144
+#: en/revolution/modules/armies/pages/albion.adoc:145
 msgid "An Eagle can fly, increasing its rider’s move from 60 to 100cm."
 msgstr ""
 "Un Aigle Géant peut voler, il augmente donc le mouvement de son cavalier de "
 "60 à 100 cm."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:146
+#: en/revolution/modules/armies/pages/albion.adoc:147
 msgid "It adds +2 Attacks to those of its rider."
 msgstr "Il ajoute également +2 Attaques au profil de son cavalier."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/albion.adoc:147
+#: en/revolution/modules/armies/pages/albion.adoc:148
 #, no-wrap
 msgid "[[chariot-mount,†5]]5. Chariot Mount"
 msgstr "[[chariot-mount,†5]]5. Char Monté"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:149
+#: en/revolution/modules/armies/pages/albion.adoc:150
 msgid "Generals, Druids and Heroes can ride Chariots."
 msgstr "Les Généraux, les Druides et les Héros peuvent monter sur un Char."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:151
+#: en/revolution/modules/armies/pages/albion.adoc:152
 msgid "An extra +1 Attack is added to those of its rider."
 msgstr "Ce qui ajoute +1 Attaque à leur profil."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/albion.adoc:152
+#: en/revolution/modules/armies/pages/albion.adoc:153
 #, no-wrap
 msgid "[[fenbeast,†6]]6. Fenbeast"
 msgstr "[[fenbeast,†6]]6. Bêtes des marais"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:156
+#: en/revolution/modules/armies/pages/albion.adoc:157
 msgid ""
 "A Fenbeast is an individual troop unit, but it is not fielded in the "
 "standard way. Fenbeasts appear on the battlefield only after a Druid casts "
@@ -472,7 +472,7 @@ msgstr ""
 "invoquées par un Druide en lançant le sort d’Invocation de Bêtes des marais."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:163
+#: en/revolution/modules/armies/pages/albion.adoc:164
 msgid ""
 "A Fenbeast cannot be brigaded with other troop units, not even other "
 "Fenbeasts. Fenbeasts never use their initiative to move in the Command "
@@ -488,7 +488,7 @@ msgstr ""
 "dominées par la volonté de ceux qui les ont invoquées."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:168
+#: en/revolution/modules/armies/pages/albion.adoc:169
 msgid ""
 "Fenbeasts can move through bogs as though they were open terrain. Unlike the "
 "wild Bog Beasts from the ‘Dark Shadows’ campaign, Fenbeasts will make way "
@@ -499,44 +499,44 @@ msgstr ""
 "habituelle."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:170
+#: en/revolution/modules/armies/pages/albion.adoc:171
 msgid "A Fenbeast causes terror in its enemies."
 msgstr "Les Bêtes des marais provoquent la terreur."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/albion.adoc:174
+#: en/revolution/modules/armies/pages/albion.adoc:176
 #, no-wrap
 msgid "Albion spells"
 msgstr "Sorts d'Albion"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:177
+#: en/revolution/modules/armies/pages/albion.adoc:179
 #, no-wrap
 msgid "Downpour"
 msgstr "Averse"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:180
-#: en/revolution/modules/armies/pages/araby.adoc:255
-#: en/revolution/modules/armies/pages/beastmen.adoc:204
-#: en/revolution/modules/armies/pages/bretonnia.adoc:242
-#: en/revolution/modules/armies/pages/cathay.adoc:215
-#: en/revolution/modules/armies/pages/cathay.adoc:234
-#: en/revolution/modules/armies/pages/chaos.adoc:181
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:263
-#: en/revolution/modules/armies/pages/goblins.adoc:253
-#: en/revolution/modules/armies/pages/high-elves.adoc:210
-#: en/revolution/modules/armies/pages/kislev.adoc:252
-#: en/revolution/modules/armies/pages/norse.adoc:187
-#: en/revolution/modules/armies/pages/orcs.adoc:229
-#: en/revolution/modules/armies/pages/skaven.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:208
+#: en/revolution/modules/armies/pages/albion.adoc:182
+#: en/revolution/modules/armies/pages/araby.adoc:257
+#: en/revolution/modules/armies/pages/beastmen.adoc:206
+#: en/revolution/modules/armies/pages/bretonnia.adoc:244
+#: en/revolution/modules/armies/pages/cathay.adoc:217
+#: en/revolution/modules/armies/pages/cathay.adoc:236
+#: en/revolution/modules/armies/pages/chaos.adoc:183
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:265
+#: en/revolution/modules/armies/pages/goblins.adoc:254
+#: en/revolution/modules/armies/pages/high-elves.adoc:212
+#: en/revolution/modules/armies/pages/kislev.adoc:254
+#: en/revolution/modules/armies/pages/norse.adoc:189
+#: en/revolution/modules/armies/pages/orcs.adoc:231
+#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:183
+#: en/revolution/modules/armies/pages/albion.adoc:185
 msgid ""
 "_The Druid brings down a localised shower of fine, freezing rain upon his "
 "foes._"
@@ -544,7 +544,7 @@ msgstr "_Le Druide fait tomber une pluie fine et glacée sur ses ennemis._"
 
 #.  cms → cm
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:187
+#: en/revolution/modules/armies/pages/albion.adoc:189
 msgid ""
 "Until the start of the Druid player’s next turn all enemy units within 30cm "
 "of the casting Druid suffer −1 to their command."
@@ -554,55 +554,55 @@ msgstr ""
 "commandement."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:189
+#: en/revolution/modules/armies/pages/albion.adoc:191
 #, no-wrap
 msgid "Storm of Hail"
 msgstr "Tempête de Grêle"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:192
-#: en/revolution/modules/armies/pages/albion.adoc:205
-#: en/revolution/modules/armies/pages/araby.adoc:302
-#: en/revolution/modules/armies/pages/beastmen.adoc:219
-#: en/revolution/modules/armies/pages/beastmen.adoc:236
-#: en/revolution/modules/armies/pages/bretonnia.adoc:258
-#: en/revolution/modules/armies/pages/bretonnia.adoc:277
-#: en/revolution/modules/armies/pages/cathay.adoc:251
-#: en/revolution/modules/armies/pages/chaos.adoc:201
-#: en/revolution/modules/armies/pages/chaos.adoc:236
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:276
-#: en/revolution/modules/armies/pages/daemons.adoc:215
-#: en/revolution/modules/armies/pages/daemons.adoc:231
-#: en/revolution/modules/armies/pages/dark-elves.adoc:218
-#: en/revolution/modules/armies/pages/goblins.adoc:205
-#: en/revolution/modules/armies/pages/goblins.adoc:238
-#: en/revolution/modules/armies/pages/high-elves.adoc:194
-#: en/revolution/modules/armies/pages/high-elves.adoc:229
-#: en/revolution/modules/armies/pages/kislev.adoc:237
-#: en/revolution/modules/armies/pages/lizardmen.adoc:242
-#: en/revolution/modules/armies/pages/lizardmen.adoc:298
-#: en/revolution/modules/armies/pages/norse.adoc:199
-#: en/revolution/modules/armies/pages/norse.adoc:253
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:217
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:245
-#: en/revolution/modules/armies/pages/orcs.adoc:187
-#: en/revolution/modules/armies/pages/skaven.adoc:262
-#: en/revolution/modules/armies/pages/skaven.adoc:279
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:183
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:253
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:194
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:245
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:179
-#: en/revolution/modules/armies/pages/wood-elves.adoc:249
-#: en/revolution/modules/armies/pages/wood-elves.adoc:264
-#: en/revolution/modules/armies/pages/wood-elves.adoc:273
+#: en/revolution/modules/armies/pages/albion.adoc:194
+#: en/revolution/modules/armies/pages/albion.adoc:207
+#: en/revolution/modules/armies/pages/araby.adoc:304
+#: en/revolution/modules/armies/pages/beastmen.adoc:221
+#: en/revolution/modules/armies/pages/beastmen.adoc:238
+#: en/revolution/modules/armies/pages/bretonnia.adoc:260
+#: en/revolution/modules/armies/pages/bretonnia.adoc:279
+#: en/revolution/modules/armies/pages/cathay.adoc:253
+#: en/revolution/modules/armies/pages/chaos.adoc:203
+#: en/revolution/modules/armies/pages/chaos.adoc:238
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:278
+#: en/revolution/modules/armies/pages/daemons.adoc:217
+#: en/revolution/modules/armies/pages/daemons.adoc:233
+#: en/revolution/modules/armies/pages/dark-elves.adoc:220
+#: en/revolution/modules/armies/pages/goblins.adoc:206
+#: en/revolution/modules/armies/pages/goblins.adoc:239
+#: en/revolution/modules/armies/pages/high-elves.adoc:196
+#: en/revolution/modules/armies/pages/high-elves.adoc:231
+#: en/revolution/modules/armies/pages/kislev.adoc:239
+#: en/revolution/modules/armies/pages/lizardmen.adoc:244
+#: en/revolution/modules/armies/pages/lizardmen.adoc:300
+#: en/revolution/modules/armies/pages/norse.adoc:201
+#: en/revolution/modules/armies/pages/norse.adoc:255
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
+#: en/revolution/modules/armies/pages/orcs.adoc:189
+#: en/revolution/modules/armies/pages/skaven.adoc:264
+#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:185
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:255
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:196
+#: en/revolution/modules/armies/pages/vampire-counts.adoc:247
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
+#: en/revolution/modules/armies/pages/wood-elves.adoc:251
+#: en/revolution/modules/armies/pages/wood-elves.adoc:266
+#: en/revolution/modules/armies/pages/wood-elves.adoc:275
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:195
+#: en/revolution/modules/armies/pages/albion.adoc:197
 msgid ""
 "_The Druid harnesses the power of the weather to attack his enemies with "
 "enormous hailstones._"
@@ -611,7 +611,7 @@ msgstr ""
 "avec d'énormes grêlons._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:200
+#: en/revolution/modules/armies/pages/albion.adoc:202
 msgid ""
 "The Druid targets a single enemy unit within range and that he can see. This "
 "has the effect of three shooting attacks except that it ignores any armour "
@@ -624,13 +624,13 @@ msgstr ""
 "être repoussée par la Tempête de Grêle comme par une attaque de tir normale."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:202
+#: en/revolution/modules/armies/pages/albion.adoc:204
 #, no-wrap
 msgid "Mists of Albion"
 msgstr "Brumes d’Albion"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:209
+#: en/revolution/modules/armies/pages/albion.adoc:211
 msgid ""
 "_The Druid breathes out some of the mystical mist that surrounds his "
 "enigmatic homeland and envelopes his compatriots, making them hard to target "
@@ -641,7 +641,7 @@ msgstr ""
 "ennemies._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:215
+#: en/revolution/modules/armies/pages/albion.adoc:217
 msgid ""
 "This spell may be cast upon a single unengaged friendly Infantry unit within "
 "range, regardless of whether the caster can see them or not. The spell lasts "
@@ -656,24 +656,24 @@ msgstr ""
 "est considérée comme étant Défendue, même en terrain découvert."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:217
+#: en/revolution/modules/armies/pages/albion.adoc:219
 #, no-wrap
 msgid "Summon Fenbeast"
 msgstr "Invocation de Bêtes des marais"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:220
-#: en/revolution/modules/armies/pages/araby.adoc:321
-#: en/revolution/modules/armies/pages/beastmen.adoc:252
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:248
-#: en/revolution/modules/armies/pages/daemons.adoc:249
-#: en/revolution/modules/armies/pages/high-elves.adoc:177
-#: en/revolution/modules/armies/pages/skaven.adoc:312
+#: en/revolution/modules/armies/pages/albion.adoc:222
+#: en/revolution/modules/armies/pages/araby.adoc:323
+#: en/revolution/modules/armies/pages/beastmen.adoc:254
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:250
+#: en/revolution/modules/armies/pages/daemons.adoc:251
+#: en/revolution/modules/armies/pages/high-elves.adoc:179
+#: en/revolution/modules/armies/pages/skaven.adoc:314
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:224
+#: en/revolution/modules/armies/pages/albion.adoc:226
 msgid ""
 "_The Druid performs one of the most arcane rituals known to his order, using "
 "his power over the elements to bind together the horrific creature known as "
@@ -684,7 +684,7 @@ msgstr ""
 "terrifiante connue sous le nom de Bête des marais._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:227
+#: en/revolution/modules/armies/pages/albion.adoc:229
 msgid ""
 "The Druid summons forth a Fenbeast. Once summoned, the Fenbeast is under the "
 "control of the summoning player."
@@ -693,7 +693,7 @@ msgstr ""
 "contrôle du joueur qui l'invoque."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:235
+#: en/revolution/modules/armies/pages/albion.adoc:237
 msgid ""
 "Since it is summoned in the Shooting phase it cannot be given orders until "
 "the following turn. It may be summoned into contact with an enemy unit only "
@@ -712,7 +712,7 @@ msgstr ""
 
 #.  Summoned
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:240
+#: en/revolution/modules/armies/pages/albion.adoc:242
 msgid ""
 "Summoned Fenbeast units do not influence army withdrawal calculations in any "
 "way and do not have a points value."
@@ -722,7 +722,7 @@ msgstr ""
 
 #.  Paragraphs added.
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:246
+#: en/revolution/modules/armies/pages/albion.adoc:248
 msgid ""
 "Fenbeasts may only be given orders by Druids. Fenbeasts may not be brigaded "
 "with other troops, not even other Fenbeasts. An army cannot have more "

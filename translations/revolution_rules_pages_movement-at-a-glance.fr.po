@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-10 01:20+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: 2025-07-01 00:06+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,25 +17,25 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:49
-#: en/revolution/modules/rules/pages/flying-units.adoc:110
+#: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
+#: en/revolution/modules/rules/pages/flying-units.adoc:117
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
-#: en/revolution/modules/rules/pages/movement.adoc:266
-#: en/revolution/modules/rules/pages/movement.adoc:884
+#: en/revolution/modules/rules/pages/movement.adoc:271
+#: en/revolution/modules/rules/pages/movement.adoc:907
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:401
+#: en/revolution/modules/rules/pages/command.adoc:411
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:5
 #, no-wrap
 msgid "Distance"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1158
+#: en/revolution/modules/rules/pages/movement.adoc:1182
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:46
 #, no-wrap
 msgid "include::partial$terrain-restrictions.tsv[]\n"
