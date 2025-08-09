@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-02 00:57+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,25 +17,25 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/battlefields.adoc:224
-#: en/revolution/modules/rules/pages/battlefields.adoc:273
-#: en/revolution/modules/rules/pages/battlefields.adoc:326
-#: en/revolution/modules/rules/pages/battlefields.adoc:393
-#: en/revolution/modules/rules/pages/battlefields.adoc:474
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:65
+#: en/revolution/modules/rules/pages/battlefields.adoc:231
+#: en/revolution/modules/rules/pages/battlefields.adoc:281
+#: en/revolution/modules/rules/pages/battlefields.adoc:335
+#: en/revolution/modules/rules/pages/battlefields.adoc:403
+#: en/revolution/modules/rules/pages/battlefields.adoc:485
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:70
 #: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:20
 #, no-wrap
 msgid "Victory points"
 msgstr ""
 
 #. type: Title =
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:1
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:2
 #, no-wrap
 msgid "End of the Battle"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:10
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:11
 msgid ""
 "The battle rages on until both sides have played a predetermined number of "
 "turns, until one player concedes defeat or until one army is forced to "
@@ -45,13 +45,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:12
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:14
 #, no-wrap
 msgid "Turns complete"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:20
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:22
 msgid ""
 "Many players like to play to the bitter end, others prefer a strict turn "
 "limit. Players can agree to set a turn limit at the start of the game but "
@@ -61,13 +61,13 @@ msgid ""
 msgstr ""
 
 #. type: Title =
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:20
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:22
 #, no-wrap
 msgid "8 turns. Once both players have taken this number"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:25
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:27
 msgid ""
 "of turns, night falls and the battle ends. Alternatively players may agree "
 "on random end during the battle. Roll a dice at the end of 5th, 6th and 7th "
@@ -76,27 +76,27 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:27
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:30
 #, no-wrap
 msgid "Player concedes"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:31
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:34
 msgid ""
 "A player may surrender at any time he wishes. If he surrenders then his army "
 "earns no victory points."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:35
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:39
 #: en/revolution/modules/rules/pages/end-of-the-battle-at-a-glance.adoc:12
 #, no-wrap
 msgid "Withdraw"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:44
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:48
 msgid ""
 "An army is forced to withdraw in two circumstances. It must withdraw if the "
 "General is slain or leaves the table for good, and it must withdraw if it "
@@ -106,7 +106,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:49
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:53
 #, no-wrap
 msgid ""
 "*General Slain.* If the General is slain or leaves the table\n"
@@ -116,7 +116,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:58
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:62
 #, no-wrap
 msgid ""
 "*Casualties.* At the start of the game each player makes\n"
@@ -130,19 +130,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:61
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:65
 msgid ""
 "Once one army withdraws, the game ends immediately.  Victory points are "
 "calculated to establish the victor."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:68
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:73
 msgid "Victory points are earned as follows:"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:74
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:79
 msgid ""
 "Each enemy unit destroyed and each slain character earns its full points "
 "value as given in the Warmaster Army Lists. In the case of characters, this "
@@ -150,7 +150,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:81
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:86
 msgid ""
 "Each enemy unit reduced from three or more stands to one stand earns half "
 "its points value rounding up to the nearest 5 points and including the value "
@@ -159,7 +159,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:87
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:92
 msgid ""
 "Some of the battles described later include bonus victory points for "
 "achieving specific objectives. A few battles do away with victory points "
@@ -167,7 +167,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:92
+#: en/revolution/modules/rules/pages/end-of-the-battle.adoc:97
 msgid ""
 "You can keep track of victory points as you go along or you can wait until "
 "the end of the game and work out the points from the ‘dead heap’. It makes "

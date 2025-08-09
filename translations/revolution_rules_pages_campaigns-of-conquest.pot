@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-05 22:28+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,20 +17,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title =
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:1
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:2
 #, no-wrap
 msgid "Campaigns of Conquest"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:10
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:4
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:12
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:6
 #, no-wrap
 msgid "Introduction"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:21
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:23
 msgid ""
 "These campaign rules are based on the rules written by Rick Priestly and "
 "Jervis Johnson for the Mighty Empires campaign supplement designed for the "
@@ -42,7 +42,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:30
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:32
 msgid ""
 "In our experience complex campaign systems tend to stumble and die out "
 "rather quickly. The philosophy of this system is to keep it as simple as "
@@ -53,13 +53,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:34
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:37
 #, no-wrap
 msgid "Warmaster campaign"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:43
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:46
 msgid ""
 "You will need at least two (preferably three or more)  rival players who "
 "will compete for territory until one player conquers the others or "
@@ -71,7 +71,7 @@ msgstr ""
 
 #.  Spelling territory
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:52
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:55
 msgid ""
 "The map is used to show the territory controlled by each player.  Players "
 "begin with one tile marked with a banner in their chosen colour. When games "
@@ -81,7 +81,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:57
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:60
 msgid ""
 "The winner is the first player to carve out an empire of ten tiles – this is "
 "a simple way of working out who has won and you can set this target higher "
@@ -89,13 +89,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:59
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:63
 #, no-wrap
 msgid "Starting a campaign"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:71
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:75
 msgid ""
 "Unless you have the original supplement with plastic tiles and markers, you "
 "will need to create a map divided into sufficient number of hexagonal tiles. "
@@ -108,7 +108,7 @@ msgstr ""
 
 #.  Spelling available (twice)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:84
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:88
 msgid ""
 "Once you have a map, each player chooses a capital city from amongst the "
 "cities on the campaign map. Choose an order in which players pick an "
@@ -121,7 +121,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:89
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:93
 msgid ""
 "It is good idea to place some objectives on the map to motivate players to "
 "fight over them (see <<objectives>>). These should be spread over a neutral "
@@ -129,13 +129,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:91
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:96
 #, no-wrap
 msgid "The largest empire"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:99
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:104
 msgid ""
 "During the campaign players will often need to do things in a certain order "
 "depending on the size of their empires.  This is determined by counting the "
@@ -144,26 +144,26 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:103
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:108
 msgid ""
 "Break any ties with the number of cities, then the number of castles, and "
 "finally a dice roll."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:106
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:111
 msgid "This order remains for the whole turn, even if circumstances change."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:108
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:114
 #, no-wrap
 msgid "Sequence of play"
 msgstr ""
 
 #.  Extra paragraph removed
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:127
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:133
 msgid ""
 "The campaign is fought over a number of rounds.  Ideally, all players will "
 "be present for each round or alternatively (and more likely) games can be "
@@ -179,38 +179,38 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:129
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:135
 msgid "<<events-phase,Events phase>>"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:130
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:136
 msgid "<<revenue-phase,Revenue phase>>"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:131
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:137
 msgid "<<challenge-phase,Challenge phase>>"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:132
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:138
 msgid "<<battle-phase,Battle phase>>"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:133
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:139
 msgid "<<conquest-and-building-phase,Conquest and building phase>>"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:135
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:142
 #, no-wrap
 msgid "1. Events phase"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:142
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:149
 msgid ""
 "Each player picks one event from the event chart, starting with the player "
 "with the smallest empire. A player cannot pick an event that has already "
@@ -220,7 +220,7 @@ msgstr ""
 
 #.  Spelling receive (4)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:146
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:153
 #, no-wrap
 msgid ""
 "*Fool’s Gold* – Pick a Player. That player cannot\n"
@@ -228,7 +228,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:150
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:157
 #, no-wrap
 msgid ""
 "*Building Boom* – You may place a castle, mine or\n"
@@ -237,7 +237,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:154
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:161
 #, no-wrap
 msgid ""
 "*Disaster* – Pick one player. They must roll a D6 for\n"
@@ -246,7 +246,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:159
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:166
 #, no-wrap
 msgid ""
 "*All or Nothing* – You receive an extra 2 empire\n"
@@ -256,7 +256,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:164
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:171
 #, no-wrap
 msgid ""
 "*Scouts* – In any battles you fight in this round, your\n"
@@ -266,7 +266,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:167
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:174
 #, no-wrap
 msgid ""
 "*Diplomacy* – Pick one player. They may not issue a\n"
@@ -274,7 +274,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:170
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:177
 #, no-wrap
 msgid ""
 "*Land Grab* – The first tile you claim this turn only\n"
@@ -282,7 +282,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:173
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:180
 #, no-wrap
 msgid ""
 "*Elite Army* – In any battles you fight this round, you\n"
@@ -290,13 +290,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:177
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:185
 #, no-wrap
 msgid "2. Revenue phase"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:184
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:192
 msgid ""
 "Each player collects revenue from any mines they control. The gold is added "
 "to the player’s treasury each round and can be spent or saved up to spend in "
@@ -304,21 +304,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:188
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:196
 msgid ""
 "Mines generate 2D6 × 10 gold pieces each round if they are on a river tile, "
 "and 3D6 × 10 gold pieces each round if they are on a mountain tile."
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:190
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:199
 #, no-wrap
 msgid "Exhausting a mine"
 msgstr ""
 
 #.  Spelling e.g., later
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:199
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:208
 msgid ""
 "If all of the dice rolls are the same (e.g. 1–1 on a river, or 5–5–5 on a "
 "mountain) then the mine is exhausted. Collect revenue as normal and then "
@@ -328,13 +328,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:203
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:213
 #, no-wrap
 msgid "3. Challenge phase"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:211
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:221
 msgid ""
 "Each player must issue a challenge to another player, starting with the "
 "player with the smallest empire. The challenger and the player they "
@@ -344,13 +344,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:213
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:223
 #, no-wrap
 msgid "Forming a team"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:222
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:232
 msgid ""
 "A player can challenge a player who has already been challenged to a battle. "
 "The player who has been challenged can choose to either fight one battle "
@@ -361,13 +361,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:224
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:234
 #, no-wrap
 msgid "Breaking up a team"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:230
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:240
 msgid ""
 "A player can challenge a player who is already part of a team – this will "
 "break up the team. For example, if Andy and Phil have formed a team against "
@@ -376,7 +376,7 @@ msgstr ""
 
 #.  Spelling leaving
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:241
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:251
 msgid ""
 "If you do this then the player you have challenged fights a battle with you, "
 "leaving the remaining team member(s) to fight their opponent.  So, carrying "
@@ -385,14 +385,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:245
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:256
 #, no-wrap
 msgid "4. Battle phase"
 msgstr ""
 
 #.  Spelling preferred
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:254
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:265
 msgid ""
 "Players can agree to fight battles of whatever size they find convenient – "
 "there is no need for all battles to be fought at a preset size or with a pre-"
@@ -401,19 +401,19 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:256
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:267
 #, no-wrap
 msgid "Army bonuses"
 msgstr ""
 
 #.  Spelling receives
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:261
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:272
 msgid "Each player receives a bonus to use when they select their army."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:266
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:277
 msgid ""
 "The player who has the largest empire receives a bonus of ¹⁄₄₀ of the total "
 "army points. So in 2000pts battle he may field 2050pts, in 1000pts he may "
@@ -421,7 +421,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:271
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:282
 msgid ""
 "Any player may spend up to 200 gold pieces from his treasury to add extra "
 "points to their army. [.edit]#Each gold piece increases the player’s points "
@@ -430,7 +430,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:290
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:301
 #, no-wrap
 msgid ""
 "|Gold spent |Percentage |pass:[<input type=\"number\" id=\"spend-gold-army\" name=\"spend-gold-army\" min=\"200\" max=\"10000\" step=\"5\" value=\"1000\" />pt army] |2000pt army |3000pt army\n"
@@ -450,7 +450,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block + 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:296
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:307
 #, no-wrap
 msgid ""
 "<script type=\"text/javascript\">\n"
@@ -459,7 +459,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block + 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:300
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:311
 #, no-wrap
 msgid ""
 "    function calculate_gold() {\n"
@@ -468,19 +468,19 @@ msgid ""
 msgstr ""
 
 #. type: delimited block + 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:302
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:313
 #, no-wrap
 msgid "        points = army.value;\n"
 msgstr ""
 
 #. type: delimited block + 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:304
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:315
 #, no-wrap
 msgid "        console.log(\"Gold \", gold.value, \"Army \", army.value);\n"
 msgstr ""
 
 #. type: delimited block + 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:310
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:321
 #, no-wrap
 msgid ""
 "        document.querySelector('#spend-gold-pc').innerHTML = display_pc;\n"
@@ -491,7 +491,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block + 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:315
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:326
 #, no-wrap
 msgid ""
 "    gold.addEventListener('change', () => calculate_gold());\n"
@@ -501,13 +501,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:319
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:330
 #, no-wrap
 msgid "Multiple battles"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:326
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:337
 msgid ""
 "Sometimes a player will have to fight more than one battle in a round (see "
 "<<challenge-phase,Challenge phase>>). A player can use all bonuses they are "
@@ -516,13 +516,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:328
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:340
 #, no-wrap
 msgid "Team battles"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:338
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:350
 msgid ""
 "Sometimes players will fight together as a team (see <<challenge-phase,"
 "Challenge phase>>). When this happens the team must split the total points "
@@ -534,38 +534,38 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:343
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:355
 msgid ""
 "Each player in a team controls his own army.  Both players move their units "
 "in the movement phase, both players shoot in the shooting phase etc."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:347
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:359
 msgid ""
 "Units may not charge, shoot or cast magic spells against units controlled by "
 "another player in the team."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:350
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:362
 msgid ""
 "Characters from one army may not join units belonging to another team "
 "member’s army."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:353
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:365
 msgid "Commanders can only command units from their army."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:356
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:368
 msgid "Wizards can only cast bonus spells on their own troops."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:361
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:373
 msgid ""
 "Only units that belong to the same army count as “friendly units” as defined "
 "by the rules. Units belonging to another team member’s army do not count as "
@@ -573,14 +573,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:365
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:377
 msgid ""
 "In team battles the break point of the whole team’s army is combined, so a "
 "side’s armies withdraw only when total break point is reached."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:370
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:382
 msgid ""
 "Each army has its own general. If one general is killed, their army doesn’t "
 "withdraw, however the team can no longer win the battle. They can only lose "
@@ -588,13 +588,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:374
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:387
 #, no-wrap
 msgid "5. Conquest and building phase"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:384
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:397
 msgid ""
 "When you play a game of Warmaster you earn empire points as shown on the "
 "chart below. Empire points are used to take territory, to build cities, "
@@ -604,13 +604,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:386
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:399
 #, no-wrap
 msgid "Earning Empire Points"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:392
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:405
 msgid ""
 "The number of empire points a player has to spend depends on how well they "
 "did in the battle phase. Players who lose earn 1 point, drawing players earn "
@@ -618,7 +618,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:398
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:411
 #, no-wrap
 msgid ""
 "*Lose – 1 Empire Point.* The army is forced to\n"
@@ -629,7 +629,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:405
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:418
 #, no-wrap
 msgid ""
 "*Draw – 2 Empire Points.* In case one army\n"
@@ -641,7 +641,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:410
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:423
 #, no-wrap
 msgid ""
 "*Minor victory – 3 Empire Points.* The army\n"
@@ -651,7 +651,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:415
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:428
 #, no-wrap
 msgid ""
 "*Major Victory – 4 Empire Points.* The army\n"
@@ -661,7 +661,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:420
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:433
 #, no-wrap
 msgid ""
 "*Massacre – 5 Empire Points.* The army massacres\n"
@@ -671,7 +671,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:424
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:437
 msgid ""
 "In a team game all players in a team earn one less empire point (so if their "
 "side wins a victory each player earns 2 empire points)."
@@ -679,7 +679,7 @@ msgstr ""
 
 #.  2,5 changed to 2½ to avoid decimal symbol
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:432
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:445
 msgid ""
 "If a player fights more than one battle in a turn then they must average out "
 "the empire points for the battles they fought, rounding any fractions down. "
@@ -689,21 +689,21 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:434
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:448
 #, no-wrap
 msgid "Spending Empire Points"
 msgstr ""
 
 #.  Spelling points
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:440
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:454
 msgid ""
 "Empire Points can be spent as follows. Only one unused empire point can be "
 "carried over to the next campaign round."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:444
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:458
 #, no-wrap
 msgid ""
 "*Claim tile (2 EP)* – place a banner on a tile\n"
@@ -712,7 +712,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:451
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:465
 #, no-wrap
 msgid ""
 "*Conquer tile (3 EP)* – Replace another\n"
@@ -724,7 +724,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:454
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:468
 #, no-wrap
 msgid ""
 "*Build (1 EP)* – Add a castle, city, mine or port\n"
@@ -732,7 +732,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:457
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:471
 #, no-wrap
 msgid ""
 "*Raid (1 EP)* – The player raids an unclaimed tile\n"
@@ -740,7 +740,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:465
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:479
 msgid ""
 "Alternatively they can raid a territory of another player. They gain "
 "2D6 × 10 gold pieces from the treasury of the player whose territory was "
@@ -750,7 +750,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:473
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:487
 #, no-wrap
 msgid ""
 "*Plunder (2 EP)* – A player who wins a battle against\n"
@@ -764,37 +764,37 @@ msgstr ""
 
 #.  Break list.
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:476
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:490
 #, no-wrap
 msgid "Mountains"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:479
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:493
 msgid "It costs 1 extra empire point to Claim or Conquer a Mountain tile."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:480
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:494
 #, no-wrap
 msgid "Castles or Cities"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:483
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:497
 msgid ""
 "It costs 1 extra empire point to Conquer a tile that contains a castle or "
 "city."
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:485
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:500
 #, no-wrap
 msgid "Buildings"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:492
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:507
 msgid ""
 "Players can spend empire points to build a castle, city, mine or port on a "
 "tile they control. Alternatively, they may instead replace a building on a "
@@ -803,31 +803,31 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:493
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:508
 #, no-wrap
 msgid "Castle"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:497
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:512
 msgid ""
 "A castle makes it more difficult for players to conquer the tile (see "
 "above). Castles can also hold 25 gold pieces against enemy raiders."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:499
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:514
 msgid "Castles cannot be built on marsh tiles."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:500
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:515
 #, no-wrap
 msgid "City"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:504
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:519
 msgid ""
 "To build a city there must already be a castle on the tile.  Players may "
 "upgrade a castle in the same turn in which it was built, with the city "
@@ -835,32 +835,32 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:508
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:523
 msgid ""
 "The tile counts as having a castle and in addition counts as two tiles when "
 "working out who has the largest empire."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:511
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:526
 msgid "Cities cannot be built on mountain or marsh tiles."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:512
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:527
 #, no-wrap
 msgid "Mine"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:515
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:530
 msgid ""
 "Mines generate gold pieces in the revenue phase. They can only be built on "
 "river or mountain tiles."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:521
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:536
 msgid ""
 "Players can spend gold from their treasury to increase the point size of "
 "your army in a battle (see <<revenue-phase,Revenue phase>>). Gold mines on a "
@@ -869,81 +869,81 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:524
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:539
 msgid "Mines on tiles that are conquered are destroyed."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:525
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:540
 #, no-wrap
 msgid "Port"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:527
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:542
 msgid "Ports can be built on river or shore tiles."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:531
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:546
 msgid ""
 "A player with a port can claim and and conquer river or shore tiles which "
 "are not adjacent to the player’s own tiles."
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:533
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:549
 #, no-wrap
 msgid "Objectives"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:535
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:551
 #, no-wrap
 msgid "Mage Tower"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:538
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:554
 msgid ""
 "Once per battle, a player who owns a tile with a Mage Tower may add +1 to "
 "their spell casting roll."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:539
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:555
 #, no-wrap
 msgid "Dwarf Brewery"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:542
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:558
 msgid ""
 "Once per battle, a player who owns a tile with a Dwarf Brewery may re-roll "
 "one save roll in each round of a single combat phase."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:543
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:559
 #, no-wrap
 msgid "Orc Idol"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:547
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:563
 msgid ""
 "Once per battle, a player who owns a tile with an Orc Idol may add D3 attack "
 "dice to a single unit during a single combat phase."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:551
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:568
 #, no-wrap
 msgid "How to win"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:558
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:575
 msgid ""
 "A player wins instantly when they claim their tenth tile, or if they knock "
 "any other player out of the game by conquering the last tile that player "
@@ -952,13 +952,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:562
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:580
 #, no-wrap
 msgid "Siege"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:576
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:594
 msgid ""
 "Warmaster has a well-written siege system. Because there are fortified "
 "places such as castles and cities in the campaign system it would be shame "
@@ -971,13 +971,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:578
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:597
 #, no-wrap
 msgid "Into the breach!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:589
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:608
 msgid ""
 "When a player wins a battle and decides to conquer a loser’s tile with a "
 "castle or city, he can do it either in the standard way or, if both players "
@@ -989,7 +989,7 @@ msgstr ""
 
 #.  Spelling conquer
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:600
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:619
 msgid ""
 "The situation remains until the castle or city is conquered or the whole map "
 "tile is conquered back. To conquer the castle or city both players must play "
@@ -1002,7 +1002,7 @@ msgstr ""
 
 #.  Spelling conquer
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:607
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:626
 msgid ""
 "Until the castle or city is conquered the defender has a chance to conquer "
 "the map tile back in the usual manner. No extra 1 empire point is needed to "
@@ -1011,13 +1011,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:611
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:631
 #, no-wrap
 msgid "Naval operations"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:623
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:643
 msgid ""
 "Another option to spice a campaign up is to add ship battles on sea. The "
 "main task of fleets in a campaign is to support ground operations on shore. "
@@ -1030,7 +1030,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:630
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:650
 msgid ""
 "The Warmaster Rules Committee is developing rules for naval battles, based "
 "on Man O’ War.  See https://www.wm-revolution.com/articles/naval-battles."
@@ -1038,13 +1038,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:633
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:654
 #, no-wrap
 msgid "Set sails!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:639
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:660
 msgid ""
 "Naval operations can only take place at sea, not on rivers. Players who "
 "agreed on involving naval operations can challenge each other to fight sea "
@@ -1053,7 +1053,7 @@ msgstr ""
 
 #.  Spelling conquer
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:649
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:670
 msgid ""
 "A player who wins a sea battle gets a Naval Advantage over the defeated "
 "player. Naval Advantage means you can conquer a shore tile of the player "
@@ -1065,14 +1065,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:652
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:673
 msgid ""
 "The Naval Advantage only makes it easier or more difficult depending on the "
 "situation at sea."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:660
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:681
 msgid ""
 "The Naval Advantage is carried over into subsequent campaign rounds and "
 "lasts until the player with the advantage is defeated in naval battle by any "
@@ -1082,27 +1082,27 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:664
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:685
 #, no-wrap
 msgid "Optional rules"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:668
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:689
 msgid ""
 "These rules are designed to give a player an additional tool to turn the "
 "probability of success in their favour at critical moments of the battle."
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:671
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:692
 #, no-wrap
 msgid "General’s abilities"
 msgstr ""
 
 #.  Spelling situations
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:677
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:698
 msgid ""
 "In the most critical of situations, a General can try to focus all his "
 "efforts to avert some dire event, or the mishaps of his subordinates. There "
@@ -1111,13 +1111,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:679
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:700
 #, no-wrap
 msgid "*Reliable Courier:* One Hero or Wizard within 30cm of the General can re-roll a failed order.\n"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:682
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:703
 #, no-wrap
 msgid ""
 "*Inspection of Arms:* One friendly unit within 30cm of the General can re-roll all dice for either one to-hit roll or armour\n"
@@ -1125,14 +1125,14 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:685
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:706
 #, no-wrap
 msgid "Abstract battle resolution"
 msgstr ""
 
 #.  Change to "whatever the reason"
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:692
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:713
 msgid ""
 "To keep a campaign going players must be active.  However there are "
 "situations when even the most enthusiastic players cannot find time to play "
@@ -1140,7 +1140,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:699
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:720
 msgid ""
 "In case a player cannot fight a battle against his opponent(s) he can either "
 "find a volunteer to fight it for him (no matter what army he uses) or he can "
@@ -1150,7 +1150,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:703
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:724
 msgid ""
 "In this roll-off the challenger is considered the attacker and the "
 "challenged player is the defender. First find out a strategy bonuses your "
@@ -1158,7 +1158,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:713
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:734
 #, no-wrap
 msgid ""
 "|Strategy Bonus |Attacker |Defender\n"
@@ -1171,14 +1171,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:717
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:738
 #, no-wrap
 msgid "Roll for the outcome"
 msgstr ""
 
 #.  "A" added
 #. type: Plain text
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:723
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:744
 msgid ""
 "A third person who is not involved in the battle rolls 2D6 and applies any "
 "strategy bonuses. A high result favours the attacker, a low result favours "
@@ -1186,7 +1186,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:733
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:754
 #, no-wrap
 msgid ""
 "|Adjusted die roll |Result\n"

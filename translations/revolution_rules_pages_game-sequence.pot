@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-06 00:56+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:122
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
 #: en/revolution/modules/armies/partials/table-attributes.adoc:17
 #: en/revolution/modules/rules/pages/game-sequence.adoc:51
-#: en/revolution/modules/rules/pages/game-values.adoc:235
+#: en/revolution/modules/rules/pages/game-values.adoc:245
 #, no-wrap
 msgid "Command"
 msgstr ""
 
 #. type: Title ====
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:23
-#: en/revolution/modules/rules/pages/combat.adoc:1
+#: en/revolution/modules/rules/pages/combat.adoc:2
 #: en/revolution/modules/rules/pages/game-sequence.adoc:77
 #, no-wrap
 msgid "Combat"
@@ -108,8 +108,8 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:63
-#: en/revolution/modules/rules/pages/shooting.adoc:1
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:148
+#: en/revolution/modules/rules/pages/shooting.adoc:2
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:154
 #, no-wrap
 msgid "Shooting"
 msgstr ""

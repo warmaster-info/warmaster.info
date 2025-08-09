@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-10 01:20+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:1
+#: en/revolution/modules/rules/pages/characters.adoc:2
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
 #, no-wrap
 msgid "Generals, Wizards & Heroes"
@@ -26,9 +26,9 @@ msgstr ""
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
-#: en/revolution/modules/rules/pages/flying-units.adoc:175
+#: en/revolution/modules/rules/pages/flying-units.adoc:185
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/game-values.adoc:79
+#: en/revolution/modules/rules/pages/game-values.adoc:84
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
 #, no-wrap
 msgid "Characters"
@@ -36,25 +36,25 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
-#: en/revolution/modules/rules/pages/command.adoc:254
+#: en/revolution/modules/rules/pages/command.adoc:259
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
-#: en/revolution/modules/rules/pages/flying-units.adoc:19
+#: en/revolution/modules/rules/pages/flying-units.adoc:22
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
 #, no-wrap
 msgid "Orders"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:387
-#: en/revolution/modules/rules/pages/command.adoc:501
+#: en/revolution/modules/rules/pages/command.adoc:396
+#: en/revolution/modules/rules/pages/command.adoc:515
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:54
 #, no-wrap
 msgid "Command penalties"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:588
+#: en/revolution/modules/rules/pages/command.adoc:605
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:67
 #, no-wrap
 msgid "Brigade orders"
@@ -75,7 +75,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:10
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:16
-#: en/revolution/modules/rules/pages/flying-units.adoc:9
+#: en/revolution/modules/rules/pages/flying-units.adoc:11
 #, no-wrap
 msgid "Initiative"
 msgstr ""
@@ -83,7 +83,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/flying-units.adoc:26
+#: en/revolution/modules/rules/pages/flying-units.adoc:30
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:11
 #, no-wrap
 msgid "Home back"

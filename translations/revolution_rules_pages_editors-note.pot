@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-05 22:28+0200\n"
+"POT-Creation-Date: 2025-08-09 13:17+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title =
-#: en/revolution/modules/rules/pages/editors-note.adoc:1
+#: en/revolution/modules/rules/pages/editors-note.adoc:2
 #, no-wrap
 msgid "Editor’s Note"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:7
+#: en/revolution/modules/rules/pages/editors-note.adoc:8
 msgid ""
 "Warmaster Revolution (WMR) is a fan-based 2nd edition of rules for the "
 "Warmaster game.  Warmaster stopped being supported by Games Workshop (GW) in "
@@ -32,7 +32,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:12
+#: en/revolution/modules/rules/pages/editors-note.adoc:13
 msgid ""
 "WMR first started as a Czech community-based project but has since evolved "
 "into a project supported by large parts of the international community. The "
@@ -42,7 +42,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:19
+#: en/revolution/modules/rules/pages/editors-note.adoc:20
 msgid ""
 "The main aim of the WMR rule set is to implement the combat system from "
 "Warmaster Ancients – a second generation of the Warmaster rules system. In "
@@ -54,7 +54,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:23
+#: en/revolution/modules/rules/pages/editors-note.adoc:24
 msgid ""
 "We believe that WMR offers more dynamic, smooth and “realistic” games than "
 "the original version. But most importantly it shows, that though not "
@@ -62,31 +62,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:25
+#: en/revolution/modules/rules/pages/editors-note.adoc:26
 msgid "_Make Wargames, not War!_"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:30
+#: en/revolution/modules/rules/pages/editors-note.adoc:31
 msgid ""
 "_In honour of Sergei Kushnir and all the fellow wargamers who had to "
 "experience real war._"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/editors-note.adoc:33
+#: en/revolution/modules/rules/pages/editors-note.adoc:35
 #, no-wrap
 msgid "Website editor’s note"
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/editors-note.adoc:38
+#: en/revolution/modules/rules/pages/editors-note.adoc:40
 #, no-wrap
 msgid "*This is an unofficial website not associated with the Warmaster Rules Committee.*\n"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:41
+#: en/revolution/modules/rules/pages/editors-note.adoc:43
 msgid ""
 "Most of the text on this website is copied verbatim from the https://drive."
 "google.com/file/d/10DNg5O4glnBE2T7p-tZBH2oClyj2Ib71/view?usp=sharing[WMR "
@@ -95,7 +95,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:46
+#: en/revolution/modules/rules/pages/editors-note.adoc:48
 msgid ""
 "Changes to improve the text are marked with dotted underlines or coloured "
 "highlights.  **These changes do not modify any rules.** Most of the changes "
@@ -108,49 +108,54 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:48
+#: en/revolution/modules/rules/pages/editors-note.adoc:50
 msgid ""
 "Text similar to _Ancients_ or _Five Armies_ has been used where it is "
 "clearer or provides additional clarifications compared to the original."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:50
+#: en/revolution/modules/rules/pages/editors-note.adoc:52
 msgid ""
 "In addition, some wording has been changed to align the rules with the xref:"
 "questions-and-answers.adoc[official Questions and Answers]."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:52
+#: en/revolution/modules/rules/pages/editors-note.adoc:54
 msgid ""
 "[.ancients]#Text taken from the _Warmaster Ancients_ rulebook is marked with "
 "a pinkish underline or border.#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:53
+#: en/revolution/modules/rules/pages/editors-note.adoc:55
 msgid ""
 "[.bo5a]#Text taken from the _Battle of Five Armies_ rulebook is marked with "
 "a gold underline or border.#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:54
+#: en/revolution/modules/rules/pages/editors-note.adoc:56
 msgid ""
 "[.qa]#Edits made based on the official “Questions and answers” have a green "
 "underline.#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:55
+#: en/revolution/modules/rules/pages/editors-note.adoc:57
 msgid ""
 "[.edit]#Other edits are marked with a blue underline or border (as seen in "
 "this section).#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:58
+#: en/revolution/modules/rules/pages/editors-note.adoc:59
+msgid "The “Highlight” button in the page footer makes these colours brighter."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:62
 msgid ""
 "Minor spelling and grammatical errors have also been corrected.  These "
 "corrections are not indicated — some of them are even present in the "
@@ -160,13 +165,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/editors-note.adoc:60
+#: en/revolution/modules/rules/pages/editors-note.adoc:64
 #, no-wrap
 msgid "Corrections and suggestions"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:63
+#: en/revolution/modules/rules/pages/editors-note.adoc:67
 msgid ""
 "Feedback about this website is welcome on https://github.com/warmaster-info/"
 "warmaster.info/issues[GitHub], on the https://discord.com/invite/"
@@ -174,7 +179,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:65
+#: en/revolution/modules/rules/pages/editors-note.adoc:69
 msgid ""
 "_Comments or questions on the rules should be posted to Discord, the https://"
 "wmrexperimental.freeforums.net/[WMR Experimental forum] or to the https://"
@@ -182,13 +187,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/editors-note.adoc:67
+#: en/revolution/modules/rules/pages/editors-note.adoc:71
 #, no-wrap
 msgid "Translations"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:69
+#: en/revolution/modules/rules/pages/editors-note.adoc:73
 msgid ""
 "If you are interested in translating the website to your language, or would "
 "like to suggest improvements to the existing translations, please join the "
