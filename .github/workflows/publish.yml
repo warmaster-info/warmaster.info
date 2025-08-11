@@ -2,6 +2,8 @@ name: Publish to GitHub Pages with Lunr Search Extension
 on:
   push:
     branches: [main]
+  # Allows this workflow to be triggered through the API
+  repository_dispatch:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 concurrency:
