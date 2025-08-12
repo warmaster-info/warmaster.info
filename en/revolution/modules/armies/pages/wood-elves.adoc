@@ -104,8 +104,9 @@ include::partial$wood-elves.tsv[]
 [#army-rules]
 === Army rules
 
+// Removed "all"
 Woodland Folk:: Due to living amongst the forests of Loren
-all Wood Elf infantry does not suffer the usual −1 Command
+Wood Elf infantry does not suffer the usual −1 Command
 penalty when within woodland.
 
 [#special-special-rules]
@@ -142,7 +143,7 @@ Formation no matter how they are placed.
 
 [[waywatchers,†3]]3. Waywatchers:: Famous for their bow skills even by a Wood
 Elf standards, Waywatchers shoot the enemy with terrifying
-accuracy. The add +1 to their dice roll when making shooting
+accuracy. They add +1 to their dice roll when making shooting
 attacks and these attacks are resolved at −1 Armour value of the
 enemy.
 +
@@ -222,15 +223,15 @@ The Unicorn adds +1 Attack to those of its rider.
 Once per
 battle the Unicorn’s magical power adds +1 to the dice when
 casting a spell. The player must announce that the Unicorn’s
-magic before rolling to see if the spell works.
+magic [.edit]#is being used# before rolling to see if the spell works.
 +
 There can be only
 one Unicorn in the army.
 
 [[warhawk,†12]]12. Warhawk:: General, Nobles and Spell Weavers may ride a
 Warhawk.
-=
-=The Warhawk can fly, increasing its rider’s move
++
+The Warhawk can fly, increasing its rider’s move
 from 60cm to 100cm, and it adds +1 Attack to those of its rider.
 
 [[forest-dragon,†13]]13. Forest Dragon:: Generals, Nobles and Spell Weavers may
@@ -249,9 +250,9 @@ image::wood-elves/infantry.webp[width=2069,height=729,role=column-span]
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-// Spelling their
-_The Spell Weaver calls force a mass of tangling branches to
-surround their troops, protecting them form harm._
+// Spelling their, force → forth, form → from
+_The Spell Weaver calls forth a mass of tangling branches to
+surround their troops, protecting them from harm._
 
 This spell may be cast upon a single unengaged friendly
 Infantry unit within range, regardless of whether the caster
@@ -264,9 +265,11 @@ Infantry unit counts as Defended, even if it is in open terrain.
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-_A weird enchantment forms around the target unit._
+// weird → eldritch, target unit → silent elves.
+_An [.edit]#eldritch# enchantment forms around the [.edit]#silent elves#._
 
-The target unit causes terror until Wood Elf next magic phase.
+// next rearranged, magic → shooting
+The target unit causes terror until the next Wood Elf [.edit]#Shooting# phase.
 
 [#call-of-the-hunt]
 === Call of the Hunt
@@ -277,18 +280,24 @@ _The Spell Weaver’s voice sings out across the battlefield
 directing troops above the tumult of combat with the magical
 Call of the Hunt._
 
-Unit may make a charge move into contact with the nearest
-visible enemy unit in the same way as when charging. Enemy
-may not shoot at chargers.
+// Add "The [enemy] unit"
+[.edit]#The target# unit may make a charge move into contact with the nearest
+visible enemy unit in the same way as when charging. The enemy unit
+may not shoot at the chargers.
 
 [#fury-of-the-forest]
 === Fury of the Forest
 
 [.cost]#6+ to cast# [.points]#Range 60cm#
 
-_The spell makes three shooting attacks on all enemy units
-within 10cm of chosen wooded terrain piece. Units get no
-armour save if within wooded terrain._
+[.edit]
+_Trees shake, branches lash out and vines entangle the foe as
+they approach the forest._
+
+// Add "the", "the"
+The spell makes three shooting attacks on all enemy units
+within 10cm of the chosen wooded terrain piece. Units get no
+armour save if within wooded terrain.
 
 Unengaged units are not driven back by this spell (the assault
 comes form the ground beneath their feet). Engaged units carry

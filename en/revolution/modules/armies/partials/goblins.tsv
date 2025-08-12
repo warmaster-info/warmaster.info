@@ -7,10 +7,10 @@
 {pump-wagon}	{chariot}	D6	3	5+	–	1	50	–/2	<<pump-wagon>>
 {giant}	{monster}	8	8	5+	–	1	135	–/1	<<giant>>
 {doom-diver}	{artillery}	1/3	2	–	–	2	80	–/1	<<doom-diver>>
-{spear-chukka}	{artillery}	1/2 per stand	2	–	–	2	65	–/2	<<spear-chukka>>
+{spear-chukka}	{artillery}	1/2	2	–	–	2	65	–/2	<<spear-chukka>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
 {goblin-warboss}	{general}	+1	–	–	8	1	80	1	–
 {goblin-hero}	{hero}	+1	–	–	7	1	45	–/4	–
 {goblin-shaman}	{wizard}	+0	–	–	6	1	30	–/2	–
-{wolf-chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	–
+{wolf-chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	<<wolf-chariot>>
 {wyvern}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<wyvern>>

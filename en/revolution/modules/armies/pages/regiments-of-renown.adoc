@@ -180,10 +180,10 @@ include::partial$regiments-of-renown.tsv[]
 // a maximum of, each full, 1000 points of, Remove Additionally
 For hire:: Mercenary units are very popular in the Old World.
 Each army list may add (hire) a maximum of 1 Regiments of
-Renown unit for each full 1000 points of army value following the Allies
-Table. Hired units count towards the maximum
+Renown unit for each full 1000 points of army value following the <<allies-table>>.
+Hired units count towards the maximum
 allowance per 1000 points of the unit type indicated in the
-Hiring Regimens of Renown section.
+<<hiring-regiments-of-renown>> section.
 
 // brackets/type
 // other → standard
@@ -366,6 +366,7 @@ Asarnil causes terror in his enemies.
 
 image::regiments-of-renown/manflyers.webp[width=672,height=281,role=decorative]
 
+[#allies-table]
 .Allies Table
 ****
 [%header,format=tsv,role=unit,cols="1*>,24*^",frame=none,grid=rows]
@@ -381,7 +382,7 @@ include::partial$regiments-of-renown-allies-table.tsv[]
 
 [.page=87]
 [#hiring-regiments-of-renown]
-=== Hiring Regiments of Renown
+== Hiring Regiments of Renown
 
 // In the whole section, p → points
 

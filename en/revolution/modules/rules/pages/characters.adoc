@@ -96,7 +96,7 @@ several times during the Command phase to get out of
 the way of troop movement.
 
 If moved through by enemies, characters are repositioned
-as described below.
+as <<enemy-moving-through-characters,described below>>.
 
 Characters can also be seen through and, where
 appropriate, shot through by troops from both sides.
@@ -107,7 +107,7 @@ It follows that characters cannot be specifically shot at,
 targeted with spells or attacked in combat. Characters
 don’t suffer hits from shooting or combat, although
 they can be slain if a unit they are with is destroyed,
-as described later. A character stand on its own cannot
+as <<characters-in-combat,described late>>r. A character stand on its own cannot
 charge or fight an enemy unit.
 
 It is worth bearing in mind that character stands are
@@ -167,6 +167,8 @@ player may occasionally prefer to await the outcome of
 his General’s attempts to issue orders before committing
 a Wizard or Hero.
 
+image::characters/wolf-rider.webp[width=920,height=1330,role=decorative]
+
 [.page=61]
 [#blunders]
 == Blunders
@@ -189,7 +191,7 @@ has blundered. The Wizard or Hero has got carried away
 or ignored the instructions he has been given or taken a
 wrong turning or mistaken a wandering group of locals
 for the enemy. The player rolls a dice and consults the
-Blunder table. The result applies to the unit which has
+<<d6-blunder,Blunder table>>. The result applies to the unit which has
 failed to receive its order and to all units in the case of
 a brigade, except where noted otherwise. If it is the first
 order to the unit/brigade then the half pace move is not
@@ -199,8 +201,6 @@ A General doesn’t blunder – [.bo5a]#they are above such things.#
 However, if the General rolls
 a 12 the unit/brigade cannot move even if it was its first
 order and therefore it was eligible for a half pace move.
-
-image::characters/wolf-rider.webp[width=920,height=1330,role=decorative]
 
 [discrete]
 [#d6-blunder]
@@ -215,14 +215,26 @@ This takes a long time during which tempers fray,
 fists fly and some officers storm off determined to
 spend the rest of the battle undermining the efforts
 of their rivals. The unit suffers a −1 Command
-penalty for the rest of the battle. If a brigade has
+penalty for the rest of the battle.
+
+// Newline added
+
+If a brigade has
 blundered then this penalty applies to one unit and
 the player can choose which is affected. The penalty
 will apply to the whole brigade if an order is given
-to the brigade that includes the affected unit. This
+to the brigade that includes the affected unit.
+
+// Newline added
+
+This
 penalty is cumulative so it’s theoretically possible
 for a unit’s effectiveness to plummet to a seriously
-incompetent level. The unit/brigade may not move
+incompetent level.
+
+// Newline added
+
+The unit/brigade may not move
 further that Command phase.
 --
 
@@ -233,11 +245,19 @@ The unit’s officers mistake a shabby group of curious
 locals for a huge enemy force. If there are no visible
 enemy units within a full pace move of the unit or
 brigade then the unit/brigade halts and in this case
-there is no further penalty. If there are visible enemy
+there is no further penalty.
+
+// Newline added
+
+If there are visible enemy
 units within a full pace move of the blundering unit
 or brigade then the unit or each unit in a brigade
-must move the shortest route to get outside a full
-pace move from all enemy units. Where units have
+must move [.edit]#by# the shortest route to get [.edit]#beyond# a full
+pace move from all enemy units.
+
+// Newline added
+
+Where units have
 different moves, the brigade moves at the speed of
 the slowest. Once it has moved, the unit/brigade
 halts. If unable to comply, the unit/brigade moves
@@ -265,9 +285,18 @@ will charge the nearest enemy unit if it is possible to
 do so. If a whole brigade goes ‘up and ’at ’em!’ then
 move each unit one at a time as the movement of one
 may affect the ability of subsequent units to charge
-because it blocks sight or access to base edges. Once
-units have moved, they halt as for a normal failed
-order. Once units have moved, or there is no visible
+[.edit]#by blocking line of# sight or access to [.edit]#stand# edges.
+
+// Newline added
+
+////
+// Remove:
+//Once
+//units have moved, they halt as for a normal failed
+//order.
+////
+
+Once units have moved, or [.edit]#if# there is no visible
 enemy, they halt. The unit/brigade cannot receive
 any further orders that Command phase.
 --
@@ -328,7 +357,7 @@ discernible gap where this makes the position clear.
 A character must also join a unit if he is obliged to move
 as a result of enemy troop movement. In this case, he
 must move into touch with a friendly unit within a 30cm
-move as described opposite.
+move as <<enemy-moving-through-characters,described below>>.
 
 If a character is joined with a unit which is confused, this
 does not prevent the character from moving at the end
@@ -349,8 +378,8 @@ temporarily balance the character stand in the middle
 of the unit or say that he is doing so whilst placing the
 stand safely aside. A character joined with a unit that is
 locked in unresolved combat can still issue orders in the
-Command phase. Nominate a stand in the unit and work
-out the measuring of the distance to the commanded
+Command phase. Nominate a stand in the unit
+[.edit]#measure# the distance to the commanded
 unit from that stand.
 
 [.page=62]

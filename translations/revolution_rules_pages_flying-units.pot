@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-12 18:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
-#: en/revolution/modules/rules/pages/flying-units.adoc:117
+#: en/revolution/modules/rules/pages/flying-units.adoc:119
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
 #: en/revolution/modules/rules/pages/movement.adoc:271
 #: en/revolution/modules/rules/pages/movement.adoc:907
@@ -30,7 +30,7 @@ msgstr ""
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
-#: en/revolution/modules/rules/pages/flying-units.adoc:185
+#: en/revolution/modules/rules/pages/flying-units.adoc:187
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
@@ -52,7 +52,7 @@ msgstr ""
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:1191
 #: en/revolution/modules/rules/pages/command.adoc:536
-#: en/revolution/modules/rules/pages/flying-units.adoc:211
+#: en/revolution/modules/rules/pages/flying-units.adoc:213
 #: en/revolution/modules/rules/pages/movement.adoc:334
 #, no-wrap
 msgid "Optional rule"
@@ -111,32 +111,33 @@ msgid ""
 "are airborne."
 msgstr ""
 
+#.  Removed "up to"
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:38
+#: en/revolution/modules/rules/pages/flying-units.adoc:39
 msgid ""
 "[.qa]#Unengaged# flying units more than 20cm from [.qa]#all friendly# "
-"characters at the start of the Command phase can choose to move up to "
-"1D6 × 10 cm towards any character after initiative moves have been made but "
-"*before* any orders are issued. This is called a home back move. The player "
-"can roll for distance before deciding whether or where to home back to."
+"characters at the start of the Command phase can choose to move 1D6 × 10 cm "
+"towards any character after initiative moves have been made but *before* any "
+"orders are issued. This is called a home back move. The player can roll for "
+"distance before deciding whether or where to home back to."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:42
+#: en/revolution/modules/rules/pages/flying-units.adoc:43
 msgid ""
 "A unit can home back and be given orders in the same Command phase if it "
 "homes back to within 20cm of a character."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:46
+#: en/revolution/modules/rules/pages/flying-units.adoc:47
 msgid ""
 "A unit can home back even if confused and therefore normally barred from "
 "moving, although such a unit cannot be given an order in that Command phase."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:57
+#: en/revolution/modules/rules/pages/flying-units.adoc:58
 msgid ""
 "Unless affected by a spell that prevents movement, flyers can always home "
 "back if the player wishes. This is because airborne units are isolated from "
@@ -147,26 +148,27 @@ msgid ""
 "move the unit directly towards the character stand and into [.edit]#contact#."
 msgstr ""
 
+#.  their → the
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:67
+#: en/revolution/modules/rules/pages/flying-units.adoc:69
 msgid ""
 "Otherwise, move the unit the full distance rolled towards the character. If "
 "this isn’t possible due to the presence of other units or restrictive "
 "terrain, move the flyers as far as possible. The nearest stand is placed "
 "first – the other stands are placed around the first. No stand may be placed "
 "nearer to the character than the first. No stand may change orientation "
-"along their way. Flyers cannot be placed into [.contact]#contact# with enemy "
+"along the way. Flyers cannot be placed into [.contact]#contact# with enemy "
 "stands when they home back."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/flying-units.adoc:70
+#: en/revolution/modules/rules/pages/flying-units.adoc:72
 #, no-wrap
 msgid "Moving"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:80
+#: en/revolution/modules/rules/pages/flying-units.adoc:82
 msgid ""
 "When flying units move in the Command phase they can move over other units, "
 "including other units of flyers, whether friend or foe. They can also move "
@@ -177,14 +179,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:84
+#: en/revolution/modules/rules/pages/flying-units.adoc:86
 msgid ""
 "Flying units move up to 100cm when moving under orders. However when "
 "charging, flyers can move only up to 60cm."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:93
+#: en/revolution/modules/rules/pages/flying-units.adoc:95
 msgid ""
 "Once a flying unit has moved, it is treated exactly like a ground based unit "
 "and can therefore be shot at, charged or attacked with magic in the normal "
@@ -194,13 +196,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/flying-units.adoc:98
+#: en/revolution/modules/rules/pages/flying-units.adoc:100
 #, no-wrap
 msgid "What can flying units see?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:110
+#: en/revolution/modules/rules/pages/flying-units.adoc:112
 msgid ""
 "When working out if a flying unit can see an enemy, for shooting or charging "
 "for example, treat the flying unit exactly as you would a unit on the "
@@ -213,7 +215,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:124
+#: en/revolution/modules/rules/pages/flying-units.adoc:126
 msgid ""
 "When flyers move in the Command phase they ignore terrain altogether because "
 "they fly right over it. This means they can move over terrain that is "
@@ -221,7 +223,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:137
+#: en/revolution/modules/rules/pages/flying-units.adoc:139
 msgid ""
 "Although flyers can move over all kinds of terrain they cannot end their "
 "move in any kind of terrain that would be impassable to infantry, or over "
@@ -235,13 +237,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/flying-units.adoc:140
+#: en/revolution/modules/rules/pages/flying-units.adoc:142
 #, no-wrap
 msgid "Moving in the shooting and combat phases"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:154
+#: en/revolution/modules/rules/pages/flying-units.adoc:156
 msgid ""
 "Flyers that are driven back by shooting will move over interposing stands "
 "and terrain in the same way as in the Command phase. Driven back flyers that "
@@ -256,7 +258,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:167
+#: en/revolution/modules/rules/pages/flying-units.adoc:169
 msgid ""
 "In the Combat phase flying units that are retreating or pursuing make all "
 "moves along the ground, and their moves will be blocked by other stands, "
@@ -270,7 +272,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:171
+#: en/revolution/modules/rules/pages/flying-units.adoc:173
 msgid ""
 "Flying units that are advancing or falling back in the Combat phase are "
 "treated [.bo5a]#as described under <<moving>># and can therefore fly over "
@@ -278,13 +280,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/flying-units.adoc:174
+#: en/revolution/modules/rules/pages/flying-units.adoc:176
 #, no-wrap
 msgid "Fortified troops"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:182
+#: en/revolution/modules/rules/pages/flying-units.adoc:184
 msgid ""
 "Flying units can attack fortified units as well as units within castle "
 "courtyards and similar places. Fortified units still count as fortified to "
@@ -294,7 +296,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:192
+#: en/revolution/modules/rules/pages/flying-units.adoc:194
 msgid ""
 "If a General, Wizard or Hero rides a flying Monstrous Mount, such as a "
 "Dragon or Griffon, his fighting ability is vastly improved. The stand’s "
@@ -303,7 +305,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:196
+#: en/revolution/modules/rules/pages/flying-units.adoc:198
 msgid ""
 "A character riding a flying monster is bound by the terrain movement "
 "restrictions that apply for flying monsters. See xref:characters."
@@ -311,7 +313,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:202
+#: en/revolution/modules/rules/pages/flying-units.adoc:204
 msgid ""
 "If a lone flying character has to move to a friendly unit as a result of "
 "enemy contact he can move 30cm to reach safety in time. In this case, his "
@@ -320,7 +322,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:210
+#: en/revolution/modules/rules/pages/flying-units.adoc:212
 msgid ""
 "If a flying character joins a unit in combat, he must remain with it as it "
 "fights but if the unit retreats, falls back, pursues or advances into "
@@ -330,7 +332,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/flying-units.adoc:216
+#: en/revolution/modules/rules/pages/flying-units.adoc:218
 msgid ""
 "In the Command phase, flying units must end their movement more than 1cm "
 "away from enemy units unless charging."

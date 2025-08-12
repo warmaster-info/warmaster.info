@@ -110,10 +110,10 @@ include::partial$goblins.tsv[]
 == Special rules
 
 ////
-1: Squig Herds
+1: Squig Herds, min/max note removed as there isn't a min/max.
 2: Paragraph added
 3: its
-4: "it charges, pursuits or advances," seem extra TODO
+4: add "the", combat phase, deals, "it charges, pursuits or advances," seem extra TODO
    Reworded anyway.
 ////
 
@@ -122,8 +122,7 @@ but its range is reduced to 15cm.
 +
 Up to two units per full 1000
 points can be replaced by Squig Herds while still counting for
-the Goblin min/max value. Note that these units still count for
-min/max value of Squig Herds.
+the Goblin min/max value.
 
 [[trolls,†2]]2. Trolls:: When trying to issue an order to a unit of Trolls or to
 a brigade that contains a unit of Trolls, any Command penalty
@@ -144,7 +143,7 @@ all edges for the purpose of evading and shooting, including
 shooting at charging enemies. Note that this unit still needs
 Line of Sight from its front edge to charge an enemy.
 
-[[pump-wagon,†4]]4. Pump Wagon:: The Pump Wagon doesn’t move in Command
+[[pump-wagon,†4]]4. Pump Wagon:: The Pump Wagon doesn’t move in the Command
 phase by initiative or by successful orders. Instead it
 always moves once up to 1D6 × 10cm. This move is automatic,
 requires no Command roll, and happens at any time during
@@ -153,9 +152,9 @@ orders or units moving (including other Pump Wagons). This
 gives the Pump Wagon a movement of between 10cm and 60cm
 each turn.
 +
-In the combat round a
-Pump Wagon receives D6 attacks. This is in addition to any
-additional attacks it receives for charging enemy in the open
+In the combat [.edit]#phase# a
+Pump Wagon [.edit]#deals# D6 attacks. This is in addition to any
+[.edit]#attack bonuses# for charging enemy in the open
 and for being a chariot. When charged or after retreating as a result
 of combat, its attacks are halved to D3. Roll to determine
 the number of attacks an every round of combat.
@@ -163,7 +162,9 @@ the number of attacks an every round of combat.
 A Pump Wagon cannot be driven back by shooting and does not
 roll for drive backs. Pump Wagons ignore confusion. A Pump
 Wagon cannot be brigaded with other units; not even another
-Pump Wagons, and characters cannot join it. The enemy does
+Pump Wagons, and characters cannot join it.
++
+The enemy does
 not gain Victory points for a destroyed Pump Wagon and a
 Pump Wagon does not count towards the Goblin army’s break
 value in any way.
@@ -179,12 +180,12 @@ shoot at charging enemies.
 
 [[spear-chukka,†7]]7. Spear Chukka:: The Spear Chukka is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower].
 
-[[wolf-chariot,†8]]8. Wolf Chariot:: A General, Hero or Wizard can ride a Wolf
+[[wolf-chariot,†8]]8. Wolf Chariot:: [.edit]#Any character# can ride a Wolf
 Chariot.
 +
 The character riding a chariot adds +1 to his Attacks.
 
-[[wyvern,†9]]9. Wyvern:: Characters may ride Wyverns.
+[[wyvern,†9]]9. Wyvern:: [.edit]#Any# characters may ride a Wyvern.
 +
 A Wyvern can fly
 increasing its rider’s movement from 60cm to 100cm, and it

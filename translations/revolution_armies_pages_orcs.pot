@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-12 18:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,7 +83,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:89
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:102
 #: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:112
+#: en/revolution/modules/armies/pages/wood-elves.adoc:113
 #: en/revolution/modules/rules/pages/battlefields.adoc:263
 #: en/revolution/modules/rules/pages/battlefields.adoc:320
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
@@ -116,7 +116,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/cathay.adoc:236
 #: en/revolution/modules/armies/pages/chaos.adoc:183
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:265
-#: en/revolution/modules/armies/pages/goblins.adoc:254
+#: en/revolution/modules/armies/pages/goblins.adoc:255
 #: en/revolution/modules/armies/pages/high-elves.adoc:212
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
@@ -142,8 +142,8 @@ msgstr ""
 #: en/revolution/modules/armies/pages/daemons.adoc:217
 #: en/revolution/modules/armies/pages/daemons.adoc:233
 #: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:206
-#: en/revolution/modules/armies/pages/goblins.adoc:239
+#: en/revolution/modules/armies/pages/goblins.adoc:207
+#: en/revolution/modules/armies/pages/goblins.adoc:240
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
 #: en/revolution/modules/armies/pages/kislev.adoc:239
@@ -161,9 +161,9 @@ msgstr ""
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:251
-#: en/revolution/modules/armies/pages/wood-elves.adoc:266
-#: en/revolution/modules/armies/pages/wood-elves.adoc:275
+#: en/revolution/modules/armies/pages/wood-elves.adoc:252
+#: en/revolution/modules/armies/pages/wood-elves.adoc:267
+#: en/revolution/modules/armies/pages/wood-elves.adoc:278
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -179,7 +179,7 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos.adoc:112
-#: en/revolution/modules/armies/pages/goblins.adoc:128
+#: en/revolution/modules/armies/pages/goblins.adoc:127
 #: en/revolution/modules/armies/pages/orcs.adoc:125
 #, no-wrap
 msgid "[[trolls,†2]]2. Trolls"
@@ -279,27 +279,27 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/goblins.adoc:171
+#: en/revolution/modules/armies/pages/goblins.adoc:172
 #: en/revolution/modules/armies/pages/orcs.adoc:148
 #, no-wrap
 msgid "[[giant,†5]]5. Giant"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/goblins.adoc:217
+#: en/revolution/modules/armies/pages/goblins.adoc:218
 #: en/revolution/modules/armies/pages/orcs.adoc:209
 #, no-wrap
 msgid "Gerroff!!!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:220
+#: en/revolution/modules/armies/pages/goblins.adoc:221
 #: en/revolution/modules/armies/pages/orcs.adoc:212
 msgid "[.cost]#5+ to cast# [.points]#Range 60cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:223
+#: en/revolution/modules/armies/pages/goblins.adoc:224
 #: en/revolution/modules/armies/pages/orcs.adoc:215
 msgid ""
 "_The voice of Gork booms out across the battlefield driving back his foes "
@@ -307,7 +307,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:227
+#: en/revolution/modules/armies/pages/goblins.adoc:228
 #: en/revolution/modules/armies/pages/orcs.adoc:180
 #: en/revolution/modules/armies/pages/orcs.adoc:219
 msgid ""
@@ -317,7 +317,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:257
+#: en/revolution/modules/armies/pages/goblins.adoc:235
+#: en/revolution/modules/armies/pages/orcs.adoc:226
+msgid ""
+"The enemy unit is driven back 1D6 × 5cm towards its own table edge. This is "
+"treated in the same way as a drive back from shooting, except that the "
+"direction is established by determining the shortest route to the table "
+"edge. A unit cannot be routed by a drive back from a Gerroff spell. If the "
+"unit leaves the table edge it must roll as described in the main Warmaster "
+"rules."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/goblins.adoc:258
 #: en/revolution/modules/armies/pages/orcs.adoc:234
 msgid ""
 "_The shaman summons the power of the mighty Waaagh! to invigorate the "
@@ -325,7 +337,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:267
+#: en/revolution/modules/armies/pages/goblins.adoc:268
 #: en/revolution/modules/armies/pages/orcs.adoc:244
 msgid ""
 "The spell lasts for the duration of the following Combat phase.  Every stand "
@@ -579,17 +591,6 @@ msgid ""
 "including friends).  Engaged units cannot be driven back by the Gotcha but "
 "carry over any hits scored into the first round of combat; any hits scored "
 "count as having been struck in the combat itself."
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:226
-msgid ""
-"The enemy unit is driven back 1D6 x 5cm towards its own table edge. This is "
-"treated in the same way as a drive back from shooting, except that the "
-"direction is established by determining the shortest route to the table "
-"edge. A unit cannot be routed by a drive back from a Gerroff spell. If the "
-"unit leaves the table edge it must roll as described in the main Warmaster "
-"rules."
 msgstr ""
 
 #. type: Title ===

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-12 18:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
-#: en/revolution/modules/rules/pages/flying-units.adoc:117
+#: en/revolution/modules/rules/pages/flying-units.adoc:119
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
 #: en/revolution/modules/rules/pages/movement.adoc:271
 #: en/revolution/modules/rules/pages/movement.adoc:907
@@ -28,7 +28,7 @@ msgid "Terrain"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:279
+#: en/revolution/modules/rules/pages/characters.adoc:308
 #: en/revolution/modules/rules/pages/command.adoc:569
 #: en/revolution/modules/rules/pages/movement.adoc:369
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:867
@@ -157,7 +157,7 @@ msgstr ""
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:1191
 #: en/revolution/modules/rules/pages/command.adoc:536
-#: en/revolution/modules/rules/pages/flying-units.adoc:211
+#: en/revolution/modules/rules/pages/flying-units.adoc:213
 #: en/revolution/modules/rules/pages/movement.adoc:334
 #, no-wrap
 msgid "Optional rule"
@@ -789,7 +789,8 @@ msgid ""
 "Any additional units contacted by charging stands count as being charged and "
 "are drawn into the combat engagement – even if they are only touching corner-"
 "to-corner.  If armed with appropriate weapons they can shoot at the chargers "
-"as described in the Shooting section."
+"as described in the xref:shooting.adoc#shooting-at-charging-enemy[Shooting "
+"section]."
 msgstr ""
 
 #.  Moved from Combat section.  It's maybe not ideal to have

@@ -14,5 +14,5 @@
 {hero}	{hero}	+1	–	–	8	1	80	–/1	–
 {sorcerer}	{wizard}	+1	–	–	8	1	90	–/1	–
 {great-taurus}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<great-taurus>>
-{lammasu}	{monstrous-mount}	+1	–	–	–	–	+35	–/1	<<lammasu>>
+{lammasu}	{monstrous-mount}	+1	–	–	–	–	+35	0–1	<<lammasu>>
 {sorcerer-lord}	{special-type}	–	–	–	–	–	+25	0–1	<<sorcerer-lord>>
