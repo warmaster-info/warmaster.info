@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-12 18:47+0200\n"
 "PO-Revision-Date: 2025-07-02 19:13+0000\n"
 "Last-Translator: Weblate Admin <editor@weblate.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -20,215 +20,215 @@ msgstr ""
 
 #. type: Title =
 #: en/home/modules/ROOT/pages/index.adoc:1
-#: en/revolution/modules/rules/pages/index.adoc:2
+#: en/revolution/modules/rules/pages/index.adoc:1
 #, no-wrap
 msgid "Warmaster Revolution"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/index.adoc:34
-#: en/revolution/modules/rules/pages/index.adoc:39
+#: en/revolution/modules/rules/pages/index.adoc:38
 #, no-wrap
 msgid "Artwork"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/index.adoc:37
-#: en/revolution/modules/rules/pages/index.adoc:42
+#: en/revolution/modules/rules/pages/index.adoc:41
 msgid "Matthew Street"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/index.adoc:39
-#: en/revolution/modules/rules/pages/index.adoc:44
+#: en/revolution/modules/rules/pages/index.adoc:43
 #, no-wrap
 msgid "Miniatures painted by"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/index.adoc:53
-#: en/revolution/modules/rules/pages/index.adoc:52
+#: en/revolution/modules/rules/pages/index.adoc:51
 #, no-wrap
 msgid "Special thanks to"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/index.adoc:60
-#: en/revolution/modules/rules/pages/index.adoc:60
+#: en/revolution/modules/rules/pages/index.adoc:59
 #, no-wrap
 msgid "Contents"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:4
-#: en/revolution/modules/rules/pages/index.adoc:63
+#: en/revolution/modules/rules/pages/index.adoc:62
 msgid "xref:editors-note.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:5
-#: en/revolution/modules/rules/pages/index.adoc:64
+#: en/revolution/modules/rules/pages/index.adoc:63
 msgid "xref:introducing-warmaster.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:6
-#: en/revolution/modules/rules/pages/index.adoc:65
+#: en/revolution/modules/rules/pages/index.adoc:64
 msgid "xref:game-values.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:7
-#: en/revolution/modules/rules/pages/index.adoc:66
+#: en/revolution/modules/rules/pages/index.adoc:65
 msgid "xref:game-sequence.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:8
-#: en/revolution/modules/rules/pages/index.adoc:67
+#: en/revolution/modules/rules/pages/index.adoc:66
 msgid "xref:command-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:9
-#: en/revolution/modules/rules/pages/index.adoc:68
+#: en/revolution/modules/rules/pages/index.adoc:67
 msgid "xref:command.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:10
-#: en/revolution/modules/rules/pages/index.adoc:69
+#: en/revolution/modules/rules/pages/index.adoc:68
 msgid "xref:movement-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:11
-#: en/revolution/modules/rules/pages/index.adoc:70
+#: en/revolution/modules/rules/pages/index.adoc:69
 msgid "xref:movement.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:12
-#: en/revolution/modules/rules/pages/index.adoc:71
+#: en/revolution/modules/rules/pages/index.adoc:70
 msgid "xref:shooting-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:13
-#: en/revolution/modules/rules/pages/index.adoc:72
+#: en/revolution/modules/rules/pages/index.adoc:71
 msgid "xref:shooting.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:14
-#: en/revolution/modules/rules/pages/index.adoc:73
+#: en/revolution/modules/rules/pages/index.adoc:72
 msgid "xref:combat-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:15
-#: en/revolution/modules/rules/pages/index.adoc:74
+#: en/revolution/modules/rules/pages/index.adoc:73
 msgid "xref:combat.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:16
-#: en/revolution/modules/rules/pages/index.adoc:75
+#: en/revolution/modules/rules/pages/index.adoc:74
 msgid "xref:confusion-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:17
-#: en/revolution/modules/rules/pages/index.adoc:76
+#: en/revolution/modules/rules/pages/index.adoc:75
 msgid "xref:confusion.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:18
-#: en/revolution/modules/rules/pages/index.adoc:77
+#: en/revolution/modules/rules/pages/index.adoc:76
 msgid "xref:characters-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:19
-#: en/revolution/modules/rules/pages/index.adoc:78
+#: en/revolution/modules/rules/pages/index.adoc:77
 msgid "xref:characters.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:20
-#: en/revolution/modules/rules/pages/index.adoc:79
+#: en/revolution/modules/rules/pages/index.adoc:78
 msgid "xref:flying-units-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:21
-#: en/revolution/modules/rules/pages/index.adoc:80
+#: en/revolution/modules/rules/pages/index.adoc:79
 msgid "xref:flying-units.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:22
-#: en/revolution/modules/rules/pages/index.adoc:81
+#: en/revolution/modules/rules/pages/index.adoc:80
 msgid "xref:end-of-the-battle-at-a-glance.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:23
-#: en/revolution/modules/rules/pages/index.adoc:82
+#: en/revolution/modules/rules/pages/index.adoc:81
 msgid "xref:end-of-the-battle.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:24
-#: en/revolution/modules/rules/pages/index.adoc:83
+#: en/revolution/modules/rules/pages/index.adoc:82
 msgid "xref:advanced-rules.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:25
-#: en/revolution/modules/rules/pages/index.adoc:84
+#: en/revolution/modules/rules/pages/index.adoc:83
 msgid "xref:artillery-and-machines.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:26
-#: en/revolution/modules/rules/pages/index.adoc:85
+#: en/revolution/modules/rules/pages/index.adoc:84
 msgid "xref:magic.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:27
-#: en/revolution/modules/rules/pages/index.adoc:86
+#: en/revolution/modules/rules/pages/index.adoc:85
 msgid "xref:battlefields.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:28
-#: en/revolution/modules/rules/pages/index.adoc:87
+#: en/revolution/modules/rules/pages/index.adoc:86
 msgid "xref:siege-and-fortresses.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:29
-#: en/revolution/modules/rules/pages/index.adoc:88
+#: en/revolution/modules/rules/pages/index.adoc:87
 msgid "xref:campaigns-of-conquest.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:30
-#: en/revolution/modules/rules/pages/index.adoc:89
+#: en/revolution/modules/rules/pages/index.adoc:88
 msgid "xref:questions-and-answers.adoc[]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/nav.adoc:30
-#: en/revolution/modules/rules/pages/index.adoc:90
+#: en/revolution/modules/rules/pages/index.adoc:89
 msgid "xref:page-numbers.adoc[]"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:12
+#: en/revolution/modules/rules/pages/index.adoc:11
 #, no-wrap
 msgid ""
 "By\n"
@@ -237,7 +237,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:17
+#: en/revolution/modules/rules/pages/index.adoc:16
 #, no-wrap
 msgid ""
 "Revolution edits and layout by Aleš Navrátil\n"
@@ -248,30 +248,30 @@ msgstr ""
 #. == Cover art
 #. Albrecht Altdorfer (1529)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:23
+#: en/revolution/modules/rules/pages/index.adoc:22
 msgid "Advanced Terrain Rules by C.J. Bennett."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:25
+#: en/revolution/modules/rules/pages/index.adoc:24
 msgid ""
 "Siege rules by Rick Priestley edited by Alexey Belianin and Geralt Denk."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:27
+#: en/revolution/modules/rules/pages/index.adoc:26
 msgid ""
 "Campaign rules by Rick Priestley and Jervis Johnson edited by Aleš Navrátil."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:29
+#: en/revolution/modules/rules/pages/index.adoc:28
 #, no-wrap
 msgid "*_Version 2.0.1 (2023)._*\n"
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/index.adoc:34
+#: en/revolution/modules/rules/pages/index.adoc:33
 msgid ""
 "[.edit]#*This website includes edits to some text, marked like this.  See "
 "xref:editors-note.adoc#website-editors-note[Website editor’s note].*#"
@@ -279,7 +279,7 @@ msgstr ""
 
 #.  Hard spaces to avoid splitting names.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:50
+#: en/revolution/modules/rules/pages/index.adoc:49
 msgid ""
 "Christophe Van den Eynde; draconian_minipainting; Jen Truby; Justin Curtis; "
 "Shane Streeting; Vasilije Lalic; Remes@remremes; Benjamin Wendt; "
@@ -288,7 +288,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/index.adoc:57
+#: en/revolution/modules/rules/pages/index.adoc:56
 msgid ""
 "Justin Curtis; Shane Streeting; Martin Nilsson; Peter Lam; Chistopher Orr; "
 "John Braisby; Barry Pittman; Jim Beach; Iain Standing; Kristofer Dingwell; "

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-12 18:47+0200\n"
 "PO-Revision-Date: 2025-07-07 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -75,7 +75,7 @@ msgstr "Général"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:89
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:102
 #: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:112
+#: en/revolution/modules/armies/pages/wood-elves.adoc:113
 #: en/revolution/modules/rules/pages/battlefields.adoc:263
 #: en/revolution/modules/rules/pages/battlefields.adoc:320
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
@@ -102,8 +102,8 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/daemons.adoc:217
 #: en/revolution/modules/armies/pages/daemons.adoc:233
 #: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:206
-#: en/revolution/modules/armies/pages/goblins.adoc:239
+#: en/revolution/modules/armies/pages/goblins.adoc:207
+#: en/revolution/modules/armies/pages/goblins.adoc:240
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
 #: en/revolution/modules/armies/pages/kislev.adoc:239
@@ -121,9 +121,9 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:251
-#: en/revolution/modules/armies/pages/wood-elves.adoc:266
-#: en/revolution/modules/armies/pages/wood-elves.adoc:275
+#: en/revolution/modules/armies/pages/wood-elves.adoc:252
+#: en/revolution/modules/armies/pages/wood-elves.adoc:267
+#: en/revolution/modules/armies/pages/wood-elves.adoc:278
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -155,7 +155,7 @@ msgstr "Licorne"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:269
-#: en/revolution/modules/armies/pages/wood-elves.adoc:288
+#: en/revolution/modules/armies/pages/wood-elves.adoc:292
 msgid "[.cost]#6+ to cast# [.points]#Range 60cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 60cm#"
 
@@ -330,17 +330,18 @@ msgstr ""
 msgid "include::partial$wood-elves.tsv[]\n"
 msgstr ""
 
+#.  Removed "all"
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:107
+#: en/revolution/modules/armies/pages/wood-elves.adoc:108
 #, no-wrap
 msgid "Woodland Folk"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:110
+#: en/revolution/modules/armies/pages/wood-elves.adoc:111
 msgid ""
-"Due to living amongst the forests of Loren all Wood Elf infantry does not "
-"suffer the usual −1 Command penalty when within woodland."
+"Due to living amongst the forests of Loren Wood Elf infantry does not suffer "
+"the usual −1 Command penalty when within woodland."
 msgstr ""
 
 #
@@ -351,13 +352,13 @@ msgstr ""
 #. 6: Spelling its
 #. 7: Spelling penalty
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:124
+#: en/revolution/modules/armies/pages/wood-elves.adoc:125
 #, no-wrap
 msgid "[[glade-guard,†1]]1. Glade Guard"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:129
+#: en/revolution/modules/armies/pages/wood-elves.adoc:130
 msgid ""
 "Wood Elves are just as famed for their bow as their High Elf cousins, and as "
 "such Glade Guard units add +1 to their dice roll when making shooting "
@@ -366,13 +367,13 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:130
+#: en/revolution/modules/armies/pages/wood-elves.adoc:131
 #, no-wrap
 msgid "[[wardancers,†2]]2. Wardancers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:134
+#: en/revolution/modules/armies/pages/wood-elves.adoc:135
 msgid ""
 "Wardancer stands are not deployed as independent units. Instead, any Glade "
 "Guard or Eternal Guard unit may add one stand of Wardancers. This brings the "
@@ -380,7 +381,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:138
+#: en/revolution/modules/armies/pages/wood-elves.adoc:139
 msgid ""
 "Wardancers always have the same Armour value as the rest of their unit. They "
 "fight as part of their unit and can be removed as a unit casualty if the "
@@ -388,7 +389,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:142
+#: en/revolution/modules/armies/pages/wood-elves.adoc:143
 msgid ""
 "Wardancers casualties never count for Command penalties.  Wardancers stands "
 "never cause the parent unit to be in Irregular Formation no matter how they "
@@ -396,22 +397,22 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:143
+#: en/revolution/modules/armies/pages/wood-elves.adoc:144
 #, no-wrap
 msgid "[[waywatchers,†3]]3. Waywatchers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:148
+#: en/revolution/modules/armies/pages/wood-elves.adoc:149
 msgid ""
 "Famous for their bow skills even by a Wood Elf standards, Waywatchers shoot "
-"the enemy with terrifying accuracy. The add +1 to their dice roll when "
+"the enemy with terrifying accuracy. They add +1 to their dice roll when "
 "making shooting attacks and these attacks are resolved at −1 Armour value of "
 "the enemy."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:171
+#: en/revolution/modules/armies/pages/wood-elves.adoc:172
 msgid ""
 "Waywatchers can also ambush. Individual units can be infiltrated onto the "
 "battlefield once the game has begun. To infiltrate a unit, the Wood Elf "
@@ -435,26 +436,26 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:172
+#: en/revolution/modules/armies/pages/wood-elves.adoc:173
 #, no-wrap
 msgid "[[forest-spirits,†4]]4. Forest Spirits"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:175
+#: en/revolution/modules/armies/pages/wood-elves.adoc:176
 msgid ""
 "Forest Spirits are woodland creatures. They are immune to terror and suffer "
 "a −1 Command penalty when being ordered by General or Noble."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:176
+#: en/revolution/modules/armies/pages/wood-elves.adoc:177
 #, no-wrap
 msgid "[[wild-riders,†5]]5. Wild Riders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:178
+#: en/revolution/modules/armies/pages/wood-elves.adoc:179
 msgid ""
 "Wild Riders receive +1 Attack in the first round of every combat when "
 "fighting to the front."
@@ -463,13 +464,13 @@ msgstr ""
 "chaque combat quand ils attaquent de front."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:179
+#: en/revolution/modules/armies/pages/wood-elves.adoc:180
 #, no-wrap
 msgid "[[warhawk-riders,†6]]6. Warhawk Riders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:185
+#: en/revolution/modules/armies/pages/wood-elves.adoc:186
 msgid ""
 "Warhawk Riders can fly. They have a shooting range of only 15cm and 360° "
 "vision – stands in this unit can draw line of sight from all edges for the "
@@ -485,183 +486,179 @@ msgstr ""
 "pour charger un ennemi."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:186
+#: en/revolution/modules/armies/pages/wood-elves.adoc:187
 #, no-wrap
 msgid "[[treeman,†7]]7. Treeman"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:189
+#: en/revolution/modules/armies/pages/wood-elves.adoc:190
 msgid ""
 "A Treeman can enter woods and suffers no command penalty for being within "
 "the woods but cannot get defended status there."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:191
+#: en/revolution/modules/armies/pages/wood-elves.adoc:192
 msgid "A Treeman causes terror."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:192
+#: en/revolution/modules/armies/pages/wood-elves.adoc:193
 #, no-wrap
 msgid "[[treeman-ancient,†8]]8. Treeman Ancient"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:194
+#: en/revolution/modules/armies/pages/wood-elves.adoc:195
 msgid ""
 "The Treeman Ancient has a −1 Command penalty when issuing orders to units "
 "other than Forest Spirits."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:196
+#: en/revolution/modules/armies/pages/wood-elves.adoc:197
 msgid ""
 "The Treeman Ancient can join only Forest Spirit units and is able to cast "
 "the <<tree-singing>> spell."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:198
+#: en/revolution/modules/armies/pages/wood-elves.adoc:199
 msgid "Units joined by Treeman Ancient cause terror."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:200
+#: en/revolution/modules/armies/pages/wood-elves.adoc:201
 msgid "The Treeman Ancient cannot be given any magic items."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:203
+#: en/revolution/modules/armies/pages/wood-elves.adoc:204
 msgid "There can only ever be one Treeman Ancient in any Wood Elf army."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:204
+#: en/revolution/modules/armies/pages/wood-elves.adoc:205
 #, no-wrap
 msgid "[[branchwraith,†9]]9. Branchwraith"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:206
+#: en/revolution/modules/armies/pages/wood-elves.adoc:207
 msgid ""
 "A Branchwraith has a −1 Command penalty when issuing orders to units other "
 "than Forest Spirits."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:209
+#: en/revolution/modules/armies/pages/wood-elves.adoc:210
 msgid ""
 "A Branchwraith can join only Forest Spirit units and is able to cast the "
 "<<tree-singing>> spell."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:212
+#: en/revolution/modules/armies/pages/wood-elves.adoc:213
 msgid "A Branchwraith cannot be given any magic items."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:213
+#: en/revolution/modules/armies/pages/wood-elves.adoc:214
 #, no-wrap
 msgid "[[giant-stag,†10]]10. Giant Stag"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:215
+#: en/revolution/modules/armies/pages/wood-elves.adoc:216
 msgid "Generals, Nobles and Spell Weavers may ride a Giant Stag."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:217
+#: en/revolution/modules/armies/pages/wood-elves.adoc:218
 msgid "The Stag adds +1 Attack to those of its rider."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:218
+#: en/revolution/modules/armies/pages/wood-elves.adoc:219
 #, no-wrap
 msgid "[[unicorn,†11]]11. Unicorn"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:219
+#: en/revolution/modules/armies/pages/wood-elves.adoc:220
 msgid "This mount can be ridden only by a Spell Weaver."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:221
+#: en/revolution/modules/armies/pages/wood-elves.adoc:222
 msgid "The Unicorn adds +1 Attack to those of its rider."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:226
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
 msgid ""
 "Once per battle the Unicorn’s magical power adds +1 to the dice when casting "
-"a spell. The player must announce that the Unicorn’s magic before rolling to "
-"see if the spell works."
+"a spell. The player must announce that the Unicorn’s magic [.edit]#is being "
+"used# before rolling to see if the spell works."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:229
+#: en/revolution/modules/armies/pages/wood-elves.adoc:230
 msgid "There can be only one Unicorn in the army."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:230
+#: en/revolution/modules/armies/pages/wood-elves.adoc:231
 #, no-wrap
 msgid "[[warhawk,†12]]12. Warhawk"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:232
-#, no-wrap
-msgid ""
-"General, Nobles and Spell Weavers may ride a\n"
-"Warhawk.\n"
-"=\n"
+#: en/revolution/modules/armies/pages/wood-elves.adoc:233
+msgid "General, Nobles and Spell Weavers may ride a Warhawk."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:235
+#: en/revolution/modules/armies/pages/wood-elves.adoc:236
 msgid ""
-"=The Warhawk can fly, increasing its rider’s move from 60cm to 100cm, and it "
+"The Warhawk can fly, increasing its rider’s move from 60cm to 100cm, and it "
 "adds +1 Attack to those of its rider."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/wood-elves.adoc:236
+#: en/revolution/modules/armies/pages/wood-elves.adoc:237
 #, no-wrap
 msgid "[[forest-dragon,†13]]13. Forest Dragon"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:238
+#: en/revolution/modules/armies/pages/wood-elves.adoc:239
 msgid "Generals, Nobles and Spell Weavers may ride Forest Dragons."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/wood-elves.adoc:245
+#: en/revolution/modules/armies/pages/wood-elves.adoc:246
 #, no-wrap
 msgid "Wood Elf spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:248
+#: en/revolution/modules/armies/pages/wood-elves.adoc:249
 #, no-wrap
 msgid "Tree Singing"
 msgstr ""
 
-#.  Spelling their
+#.  Spelling their, force → forth, form → from
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:255
+#: en/revolution/modules/armies/pages/wood-elves.adoc:256
 msgid ""
-"_The Spell Weaver calls force a mass of tangling branches to surround their "
-"troops, protecting them form harm._"
+"_The Spell Weaver calls forth a mass of tangling branches to surround their "
+"troops, protecting them from harm._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:261
+#: en/revolution/modules/armies/pages/wood-elves.adoc:262
 msgid ""
 "This spell may be cast upon a single unengaged friendly Infantry unit within "
 "range, regardless of whether the caster can see them or not. The spell lasts "
@@ -671,57 +668,72 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:263
+#: en/revolution/modules/armies/pages/wood-elves.adoc:264
 #, no-wrap
 msgid "Twilight Host"
 msgstr ""
 
-#. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:268
-msgid "_A weird enchantment forms around the target unit._"
-msgstr ""
-
+#.  weird → eldritch, target unit → silent elves.
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:270
-msgid "The target unit causes terror until Wood Elf next magic phase."
+msgid ""
+"_An [.edit]#eldritch# enchantment forms around the [.edit]#silent elves#._"
+msgstr ""
+
+#.  next rearranged, magic → shooting
+#. type: Plain text
+#: en/revolution/modules/armies/pages/wood-elves.adoc:273
+msgid ""
+"The target unit causes terror until the next Wood Elf [.edit]#Shooting# "
+"phase."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:272
+#: en/revolution/modules/armies/pages/wood-elves.adoc:275
 #, no-wrap
 msgid "Call of the Hunt"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:279
+#: en/revolution/modules/armies/pages/wood-elves.adoc:282
 msgid ""
 "_The Spell Weaver’s voice sings out across the battlefield directing troops "
 "above the tumult of combat with the magical Call of the Hunt._"
 msgstr ""
 
+#.  Add "The [enemy] unit"
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:283
+#: en/revolution/modules/armies/pages/wood-elves.adoc:287
 msgid ""
-"Unit may make a charge move into contact with the nearest visible enemy unit "
-"in the same way as when charging. Enemy may not shoot at chargers."
+"[.edit]#The target# unit may make a charge move into contact with the "
+"nearest visible enemy unit in the same way as when charging. The enemy unit "
+"may not shoot at the chargers."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/wood-elves.adoc:285
+#: en/revolution/modules/armies/pages/wood-elves.adoc:289
 #, no-wrap
 msgid "Fury of the Forest"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:292
+#: en/revolution/modules/armies/pages/wood-elves.adoc:296
 msgid ""
-"_The spell makes three shooting attacks on all enemy units within 10cm of "
+"_Trees shake, branches lash out and vines entangle the foe as they approach "
+"the forest._"
+msgstr ""
+
+#.  Add "the", "the"
+#. type: Plain text
+#: en/revolution/modules/armies/pages/wood-elves.adoc:301
+msgid ""
+"The spell makes three shooting attacks on all enemy units within 10cm of the "
 "chosen wooded terrain piece. Units get no armour save if within wooded "
-"terrain._"
+"terrain."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/wood-elves.adoc:297
+#: en/revolution/modules/armies/pages/wood-elves.adoc:306
 msgid ""
 "Unengaged units are not driven back by this spell (the assault comes form "
 "the ground beneath their feet). Engaged units carry over any hits scored "
