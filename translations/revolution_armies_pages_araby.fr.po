@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-12 18:47+0200\n"
-"PO-Revision-Date: 2025-08-05 15:04+0000\n"
-"Last-Translator: Augustin Bodin <augustin.bodin@laposte.net>\n"
+"PO-Revision-Date: 2025-08-12 18:04+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_araby/fr/>\n"
 "Language: fr\n"
@@ -178,8 +178,6 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/daemons.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:179
 #: en/revolution/modules/armies/pages/skaven.adoc:314
-#, fuzzy
-#| msgid "[.cost]#6+ to cast# [.points]#Rage 30cm#"
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
