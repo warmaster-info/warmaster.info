@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2025-08-16 10:30+0200\n"
 "PO-Revision-Date: 2025-07-08 20:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -749,8 +749,9 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/dark-elves.adoc:254
-#, no-wrap
-msgid "Dominian"
+#, fuzzy, no-wrap
+#| msgid "Dominian"
+msgid "Dominion"
 msgstr "Domination"
 
 #. type: Plain text
