@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="horizontal-stripe">
     <div class="footer-container center">
-      {{#with (resolvePage 'ROOT::index.adoc')}}<a href="{{relativize url}}">Warmaster.info</a>{{/with}}
+      {{#with (resolvePage 'ROOT::index.adoc')}}<a href="{{relativize url}}">Warmaster.info</a>{{/with}} {{#with (resolvePage 'revolution:rules:editors-note.adoc')}}<a href="{{relativize url}}#website-editors-note">(Unofficial site)</a>{{/with}}
       ✢
       {{#with (resolvePage 'revolution:rules:index.adoc')}}<a href="{{relativize url}}">Rules version 2.0.1</a>{{/with}}
       ✢
