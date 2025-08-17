@@ -16,6 +16,9 @@ content:
     - url: https://github.com/warmaster-info/wmr-experimental
       start_path: en/revolution
       branches: main
+    - url: https://github.com/warmaster-info/wmr-resources
+      start_path: en/revolution
+      branches: main
 output:
   clean: false
   dir: ./output/en

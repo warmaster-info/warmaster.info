@@ -165,6 +165,11 @@ nav.pagination a {
   font-variant: small-caps;
 }
 
+span.del {
+  text-decoration: line-through;
+  color: grey;
+}
+
 /* Make navigation toggle more obvious */
 .nav-toggle {
   background-color: #fbe18c;
@@ -283,12 +288,6 @@ body {
   --page-number: #e1e1e1;
 }
 
-span.del {
-  display: none;
-  text-decoration: line-through;
-  color: grey;
-}
-
 body.highlight-changes {
   --change-line-thickness: 2px;
 
@@ -308,10 +307,6 @@ body.highlight-changes {
   --change-wmr-text: grey;
 
   --page-number: grey;
-}
-
-.highlight-changes span.del {
-  display: inherit;
 }
 
 .highlight-changes .edit p::before,
