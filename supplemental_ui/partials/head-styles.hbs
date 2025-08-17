@@ -40,6 +40,15 @@ h4 {
   color: darkmagenta;
 }
 
+.doc span.del {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.doc span.del a {
+  color: grey;
+}
+
 .doc .sidebarblock {
   background-color: #d5c091;
   background-image: image-set(url("../rules/_images/parchment.webp") 1x, url("../rules/_images/parchment.webp") 2x);
@@ -163,11 +172,6 @@ body:not(.at-a-glance):not(.title-page) #preamble .paragraph:first-child p::firs
 
 nav.pagination a {
   font-variant: small-caps;
-}
-
-span.del {
-  text-decoration: line-through;
-  color: grey;
 }
 
 /* Make navigation toggle more obvious */
