@@ -2,8 +2,10 @@
 = Picking the Army
 
 This section of the Warmaster Armies book explains how
-to choose equally matched armies to take part in a battle
-and updates the original section in the main rulebook.
+to choose equally matched armies to take part in a battle.
+
+// Removed:
+// and updates the original section in the main rulebook.
 
 In theory there is no reason why forces have to be equal,
 but most players prefer to fight battles between armies
@@ -33,12 +35,12 @@ section.
 == Army size
 
 Both sides select troops and characters up to the same
-maximum points value. Three ’standard’ sized battles are
+maximum points value. Three ‘standard’ sized battles are
 considered here. Smaller and larger battles, or battles
 with intermediate points values, can also be arranged as
 discussed later.
 
-[cols="<,^",frame=none,grid=none]
+[cols="<,^",frame=none,grid=rows]
 |===
 |Small battle   |1000 points per side
 |Medium battle  |2000 points per side
@@ -81,8 +83,7 @@ thousands of points (1000, 2000, 3000, etc). However, it is
 also possible to choose armies of other sizes – say 1500 or 750.
 This is slightly less convenient but useful if players
 are still building their armies and want to use units as
-they are purchased. This is explained under Selecting the
-Army.
+they are purchased. This is explained under <<selecting-the-army>>.
 
 [.page=5]
 [#army-lists]
@@ -128,7 +129,7 @@ Unit size:: The number of stands in a unit.
 Points per unit:: The points value of a unit or character
 of that type.
 
-Min/Max:: This defines the minimum and maximum
+Min/max:: This defines the minimum and maximum
 number of units of that type which an army must include
 per 1000 points of army size. A dash indicates there is no
 restriction.
@@ -170,11 +171,11 @@ is a minimum of 1 and no maximum.
 
 All armies must include a single General. An army can
 never include more than one General no matter what its
-size. The Min/Max column is given as 1 to show this.
+size. The min/max column is given as 1 to show this.
 You may have decided your armies will be chosen to 1500
 points or some other odd number. In this case determine
 min/max values by rounding your actual army size down
-to the next full 1000’s. So, a 1500 point army is selected
+to the next full 1000 [.edit]#points#. So, a 1500 point army is selected
 using the minimums and maximums for a 1000 point
 army, a 2250 point army is the same as a 2000 and so on.
 
@@ -191,7 +192,6 @@ must be allocated to specific characters and a separate
 note made. This will increase the points value of the unit
 or character appropriately, and the total cost must be
 taken into account when working out victory points. See
-Magic in the rulebook p.76 or a Magic Items Overview
-on p.88 in this book.
+xref:rules:magic.adoc#magic-items[Magic items] in the rulebook.
 
 image::picking-the-army/undead.webp[width=2079,height=354,role=column-span]

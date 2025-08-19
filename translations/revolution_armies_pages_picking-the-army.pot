@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-19 20:13+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,15 +23,16 @@ msgid "Picking the Army"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:7
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:6
 msgid ""
 "This section of the Warmaster Armies book explains how to choose equally "
-"matched armies to take part in a battle and updates the original section in "
-"the main rulebook."
+"matched armies to take part in a battle."
 msgstr ""
 
+#.  Removed:
+#.  and updates the original section in the main rulebook.
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:13
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:15
 msgid ""
 "In theory there is no reason why forces have to be equal, but most players "
 "prefer to fight battles between armies that are, notionally at least, the "
@@ -40,7 +41,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:21
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:23
 msgid ""
 "As a matter of principle the points values of individual units are "
 "considered in proportion to the army as a whole so that troops of comparable "
@@ -50,13 +51,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:23
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:25
 #, no-wrap
 msgid "The Army"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:31
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:33
 msgid ""
 "Army lists and rules are provided for 25 Warmaster armies. All armies are "
 "chosen in the same fashion using the appropriate list. The army lists are "
@@ -65,22 +66,22 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:33
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:35
 #, no-wrap
 msgid "Army size"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:40
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:42
 msgid ""
 "Both sides select troops and characters up to the same maximum points value. "
-"Three ’standard’ sized battles are considered here. Smaller and larger "
+"Three ‘standard’ sized battles are considered here. Smaller and larger "
 "battles, or battles with intermediate points values, can also be arranged as "
 "discussed later."
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:46
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:48
 #, no-wrap
 msgid ""
 "|Small battle   |1000 points per side\n"
@@ -89,7 +90,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:58
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:60
 msgid ""
 "A small battle is ideal for beginners or for demonstrating the game but the "
 "tactical possibilities are limited. Small battles are more susceptible to "
@@ -100,7 +101,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:69
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:71
 msgid ""
 "Large battles require more leisure but offer a varied game that better "
 "reflects the subtleties of the command system.  Substantially bigger battles "
@@ -113,7 +114,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:78
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:80
 msgid ""
 "Note that the army size indicates the maximum points value that can be "
 "spent. Armies can have fewer points than this value but cannot have more. "
@@ -124,23 +125,23 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:86
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:87
 msgid ""
 "The army lists are designed to work with armies of round thousands of points "
 "(1000, 2000, 3000, etc). However, it is also possible to choose armies of "
 "other sizes – say 1500 or 750.  This is slightly less convenient but useful "
 "if players are still building their armies and want to use units as they are "
-"purchased. This is explained under Selecting the Army."
+"purchased. This is explained under <<selecting-the-army>>."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:89
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:90
 #, no-wrap
 msgid "Army lists"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:98
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:99
 msgid ""
 "Begin with the army list for your chosen army. The different lists include "
 "all the units available for each side together with their game stats, points "
@@ -151,7 +152,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:106
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:107
 #, no-wrap
 msgid ""
 "|Troop |Type |Attacks |Hits |Armour |Command |Unit size |Points |Min/max |Special\n"
@@ -160,7 +161,7 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:108
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:109
 #: en/revolution/modules/armies/partials/table-attributes.adoc:13
 #: en/revolution/modules/rules/pages/game-values.adoc:237
 #, no-wrap
@@ -168,7 +169,7 @@ msgid "Type"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:113
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:114
 msgid ""
 "This describes the type of troop unit or character stand: Infantry, Cavalry, "
 "Monster, Artillery, Machine, Chariot, General, Wizard or Hero. Mounts for "
@@ -177,20 +178,20 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:114
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:115
 #: en/revolution/modules/rules/pages/game-values.adoc:239
 #, no-wrap
 msgid "Attack"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:116
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:117
 #: en/revolution/modules/rules/pages/game-values.adoc:240
 msgid "The basic number of dice rolled in combat by each stand in the unit."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:117
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:118
 #: en/revolution/modules/armies/partials/table-attributes.adoc:15
 #: en/revolution/modules/rules/pages/game-values.adoc:241
 #, no-wrap
@@ -198,13 +199,13 @@ msgid "Hits"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:119
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:120
 #: en/revolution/modules/rules/pages/game-values.adoc:242
 msgid "The number of hits the unit can suffer before one stand is removed."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:120
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:121
 #: en/revolution/modules/armies/partials/table-attributes.adoc:16
 #: en/revolution/modules/rules/pages/combat.adoc:410
 #: en/revolution/modules/rules/pages/game-values.adoc:243
@@ -214,14 +215,14 @@ msgid "Armour"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:123
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
 msgid ""
 "The score required to nullify a hit struck on the unit if it has armour (3+, "
 "4+, 5+ or 6+). A unit with no armour has a value of 0."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:125
 #: en/revolution/modules/armies/partials/table-attributes.adoc:17
 #: en/revolution/modules/rules/pages/game-sequence.adoc:51
 #: en/revolution/modules/rules/pages/game-values.adoc:245
@@ -230,12 +231,12 @@ msgid "Command"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:125
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:126
 msgid "The Command value of a character."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:126
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:127
 #: en/revolution/modules/armies/partials/table-attributes.adoc:18
 #: en/revolution/modules/rules/pages/game-values.adoc:247
 #, no-wrap
@@ -243,30 +244,32 @@ msgid "Unit size"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:127
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:128
 msgid "The number of stands in a unit."
 msgstr ""
 
 #. type: Attribute :points-per-unit:
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:128
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:129
 #: en/revolution/modules/armies/partials/table-attributes.adoc:19
 #, no-wrap
 msgid "Points per unit"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:130
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:131
 msgid "The points value of a unit or character of that type."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:131
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:132
+#: en/revolution/modules/armies/partials/table-attributes.adoc:20
+#: en/revolution/modules/rules/pages/game-values.adoc:251
 #, no-wrap
-msgid "Min/Max"
+msgid "Min/max"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:135
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:136
 msgid ""
 "This defines the minimum and maximum number of units of that type which an "
 "army must include per 1000 points of army size. A dash indicates there is no "
@@ -274,13 +277,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:137
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:138
 #, no-wrap
 msgid "Selecting the army"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:143
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:144
 msgid ""
 "Choose units and characters to make up the army. You can choose up to a "
 "maximum total value appropriate to the size of game. For example, High Elf "
@@ -288,7 +291,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:155
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:156
 msgid ""
 "Players are not entirely free to select forces as they want.  Some units "
 "must always be included and some other units can only be included in limited "
@@ -301,7 +304,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:162
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:163
 msgid ""
 "For example, in a Bretonnian army, Squires are min/max 1/4. This means that "
 "in a 1000 point army the player must include at least 1 unit but cannot "
@@ -310,7 +313,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:170
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:171
 msgid ""
 "If an entry includes a dash instead of a number this means no minimum or "
 "maximum applies. The player can chose as few or as many of this troop types "
@@ -320,19 +323,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:180
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:181
 msgid ""
 "All armies must include a single General. An army can never include more "
-"than one General no matter what its size. The Min/Max column is given as 1 "
+"than one General no matter what its size. The min/max column is given as 1 "
 "to show this.  You may have decided your armies will be chosen to 1500 "
 "points or some other odd number. In this case determine min/max values by "
-"rounding your actual army size down to the next full 1000’s. So, a 1500 "
-"point army is selected using the minimums and maximums for a 1000 point "
-"army, a 2250 point army is the same as a 2000 and so on."
+"rounding your actual army size down to the next full 1000 [.edit]#points#. "
+"So, a 1500 point army is selected using the minimums and maximums for a 1000 "
+"point army, a 2250 point army is the same as a 2000 and so on."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:187
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:188
 msgid ""
 "If your chosen army size is less than 1000 points then use the 1000 point "
 "maximums but ignore the minimums.  Very small games can be a useful exercise "
@@ -348,6 +351,6 @@ msgid ""
 "character that carries them. Magic items must be allocated to specific "
 "characters and a separate note made. This will increase the points value of "
 "the unit or character appropriately, and the total cost must be taken into "
-"account when working out victory points. See Magic in the rulebook p.76 or a "
-"Magic Items Overview on p.88 in this book."
+"account when working out victory points. See xref:rules:magic.adoc#magic-"
+"items[Magic items] in the rulebook."
 msgstr ""

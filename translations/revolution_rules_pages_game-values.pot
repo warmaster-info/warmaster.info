@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2025-08-19 20:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,7 +24,7 @@ msgid "Armies"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:108
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:109
 #: en/revolution/modules/armies/partials/table-attributes.adoc:13
 #: en/revolution/modules/rules/pages/game-values.adoc:237
 #, no-wrap
@@ -32,20 +32,20 @@ msgid "Type"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:114
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:115
 #: en/revolution/modules/rules/pages/game-values.adoc:239
 #, no-wrap
 msgid "Attack"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:116
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:117
 #: en/revolution/modules/rules/pages/game-values.adoc:240
 msgid "The basic number of dice rolled in combat by each stand in the unit."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:117
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:118
 #: en/revolution/modules/armies/partials/table-attributes.adoc:15
 #: en/revolution/modules/rules/pages/game-values.adoc:241
 #, no-wrap
@@ -53,13 +53,13 @@ msgid "Hits"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:119
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:120
 #: en/revolution/modules/rules/pages/game-values.adoc:242
 msgid "The number of hits the unit can suffer before one stand is removed."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:120
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:121
 #: en/revolution/modules/armies/partials/table-attributes.adoc:16
 #: en/revolution/modules/rules/pages/combat.adoc:410
 #: en/revolution/modules/rules/pages/game-values.adoc:243
@@ -69,7 +69,7 @@ msgid "Armour"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:125
 #: en/revolution/modules/armies/partials/table-attributes.adoc:17
 #: en/revolution/modules/rules/pages/game-sequence.adoc:51
 #: en/revolution/modules/rules/pages/game-values.adoc:245
@@ -78,7 +78,7 @@ msgid "Command"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:126
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:127
 #: en/revolution/modules/armies/partials/table-attributes.adoc:18
 #: en/revolution/modules/rules/pages/game-values.adoc:247
 #, no-wrap
@@ -86,8 +86,9 @@ msgid "Unit size"
 msgstr ""
 
 #. type: Labeled list
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:132
 #: en/revolution/modules/armies/partials/table-attributes.adoc:20
-#: en/revolution/modules/rules/pages/game-values.adoc:249
+#: en/revolution/modules/rules/pages/game-values.adoc:251
 #, no-wrap
 msgid "Min/max"
 msgstr ""
@@ -443,23 +444,23 @@ msgstr ""
 msgid "The number of stands in the unit – this is usually 3."
 msgstr ""
 
-#. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:250
-msgid ""
-"This values is used to delimit the number of units and characters that can "
-"be chosen for the army – see the xref:revolution:armies:index.adoc[Army "
-"Lists]."
-msgstr ""
-
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/game-values.adoc:251
+#: en/revolution/modules/rules/pages/game-values.adoc:249
 #, no-wrap
 msgid "Points"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/game-values.adoc:252
+#: en/revolution/modules/rules/pages/game-values.adoc:250
 msgid "The points value of a unit of that type."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/game-values.adoc:252
+msgid ""
+"This values is used to delimit the number of units and characters that can "
+"be chosen for the army – see the xref:revolution:armies:index.adoc[Army "
+"Lists]."
 msgstr ""
 
 #. type: Plain text
