@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2025-08-19 20:10+0200\n"
 "PO-Revision-Date: 2025-07-07 10:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -90,7 +90,7 @@ msgid "Wizard"
 msgstr "Sorcier"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:108
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:109
 #: en/revolution/modules/armies/partials/table-attributes.adoc:13
 #: en/revolution/modules/rules/pages/game-values.adoc:237
 #, no-wrap
@@ -98,7 +98,7 @@ msgid "Type"
 msgstr "Type"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:117
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:118
 #: en/revolution/modules/armies/partials/table-attributes.adoc:15
 #: en/revolution/modules/rules/pages/game-values.adoc:241
 #, no-wrap
@@ -106,7 +106,7 @@ msgid "Hits"
 msgstr "Points de Vie (PV)"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:120
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:121
 #: en/revolution/modules/armies/partials/table-attributes.adoc:16
 #: en/revolution/modules/rules/pages/combat.adoc:410
 #: en/revolution/modules/rules/pages/game-values.adoc:243
@@ -116,7 +116,7 @@ msgid "Armour"
 msgstr "Armure"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:124
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:125
 #: en/revolution/modules/armies/partials/table-attributes.adoc:17
 #: en/revolution/modules/rules/pages/game-sequence.adoc:51
 #: en/revolution/modules/rules/pages/game-values.adoc:245
@@ -125,7 +125,7 @@ msgid "Command"
 msgstr "Commandement (Cdt)"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:126
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:127
 #: en/revolution/modules/armies/partials/table-attributes.adoc:18
 #: en/revolution/modules/rules/pages/game-values.adoc:247
 #, no-wrap
@@ -133,11 +133,19 @@ msgid "Unit size"
 msgstr "Taille d’unité"
 
 #. type: Attribute :points-per-unit:
-#: en/revolution/modules/armies/pages/picking-the-army.adoc:128
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:129
 #: en/revolution/modules/armies/partials/table-attributes.adoc:19
 #, no-wrap
 msgid "Points per unit"
 msgstr "Points par unités"
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/picking-the-army.adoc:132
+#: en/revolution/modules/armies/partials/table-attributes.adoc:20
+#: en/revolution/modules/rules/pages/game-values.adoc:251
+#, no-wrap
+msgid "Min/max"
+msgstr "Min/max"
 
 #.  Stat table header line
 #. type: Attribute :troop:
@@ -154,13 +162,6 @@ msgstr "Troupe"
 #, no-wrap
 msgid "Attacks"
 msgstr "Attaques"
-
-#. type: Labeled list
-#: en/revolution/modules/armies/partials/table-attributes.adoc:20
-#: en/revolution/modules/rules/pages/game-values.adoc:249
-#, no-wrap
-msgid "Min/max"
-msgstr "Min/max"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/partials/table-attributes.adoc:21
