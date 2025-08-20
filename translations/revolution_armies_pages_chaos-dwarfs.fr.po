@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-12 18:47+0200\n"
-"PO-Revision-Date: 2025-07-06 16:04+0000\n"
+"PO-Revision-Date: 2025-08-20 14:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos-dwarfs/fr/>\n"
@@ -211,13 +211,13 @@ msgstr "Nains du Chaos"
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:22
 #, no-wrap
 msgid "Blunderbusses"
-msgstr ""
+msgstr "Tromblons"
 
 #. type: Attribute :hobgoblins:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:23
 #, no-wrap
 msgid "Hobgoblins"
-msgstr ""
+msgstr "Hobgobelins"
 
 #. type: Attribute :black-orcs:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:24
@@ -230,55 +230,55 @@ msgstr "Orques Noirs"
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:25
 #, no-wrap
 msgid "Orc Slaves"
-msgstr ""
+msgstr "Orques Asservis"
 
 #. type: Attribute :hobgoblin-wolf-riders:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:26
 #, no-wrap
 msgid "Hobgoblin Wolf Riders"
-msgstr ""
+msgstr "Chevaucheurs de Loups Hobgobelins"
 
 #. type: Attribute :bull-centaurs:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:27
 #, no-wrap
 msgid "Bull Centaurs"
-msgstr ""
+msgstr "Centaures-Taureaux"
 
 #. type: Attribute :earthshaker-cannon:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:28
 #, no-wrap
 msgid "Earthshaker Cannon"
-msgstr ""
+msgstr "Canon Trembleterre"
 
 #. type: Attribute :death-rocket:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:29
 #, no-wrap
 msgid "Death Rocket"
-msgstr ""
+msgstr "Lance-Fusées Hurlemort"
 
 #. type: Attribute :bolt-thrower:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:30
 #, no-wrap
 msgid "Bolt Thrower"
-msgstr ""
+msgstr "Balistes"
 
 #. type: Attribute :great-taurus:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:34
 #, no-wrap
 msgid "Great Taurus"
-msgstr ""
+msgstr "Grand Taurus"
 
 #. type: Attribute :lammasu:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:35
 #, no-wrap
 msgid "Lammasu"
-msgstr ""
+msgstr "Lammasu"
 
 #. type: Attribute :sorcerer-lord:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:36
 #, no-wrap
 msgid "Sorcerer Lord"
-msgstr ""
+msgstr "Seigneur Sorcier"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:45
@@ -289,6 +289,11 @@ msgid ""
 "mountains known as the Worlds Edge Mountains, following the trail of mineral "
 "ores and precious gems."
 msgstr ""
+"image:chaos-dwarfs/logo.webp[width=108,height=103,float=\"right\"] Il y a "
+"plusieurs milliers d'années, la race naine quitta son foyer ancestral, "
+"quelque part dans les Terres du Sud, pour se déplacer vers le nord. Elle "
+"longea la haute crête montagneuse connue sous le nom de Montagnes du Bord du "
+"Monde, suivant la piste des minerais et des pierres précieuses."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:52
@@ -299,6 +304,11 @@ msgid ""
 "into the mountain roots, and constructed tunnels which carried them further "
 "north."
 msgstr ""
+"Les Nains se répandirent dans les montagnes, poussés par leur soif des "
+"secrets de la roche et du métal. Pendant des siècles, ils creusèrent des "
+"puits et des cités souterraines caverneuses, excavèrent des mines "
+"profondément ancrées dans les montagnes et construisirent des tunnels qui "
+"les transportèrent plus au nord."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:62
@@ -312,6 +322,15 @@ msgid ""
 "of the most adventurous turned east and then south along the bleak Mountains "
 "of Mourn."
 msgstr ""
+"Finalement, dans un lointain passé, les Nains atteignirent la région "
+"montagneuse à l'extrême nord des Montagnes du Bord du Monde, qu'ils "
+"appelèrent Zorn Uzkul, ou le Pays du Grand Crâne. Ils y découvrirent un "
+"vaste plateau inhospitalier où l'air était raréfié et froid, et les rochers "
+"arides. Nombre d'entre eux retournèrent au sud pour rejoindre le nombre "
+"croissant de Nains dans les Montagnes du Bord du Monde, d'autres se "
+"dirigèrent vers l'ouest, vers les terres froides de Norsca, mais certains "
+"des plus aventureux se dirigèrent vers l'est, puis vers le sud, le long des "
+"mornes Montagnes du Deuil."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:70
@@ -323,6 +342,12 @@ msgid ""
 "but they were mistaken. Chaos did not kill the hardy Dwarfs, instead it "
 "worked a dreadful change upon them."
 msgstr ""
+"Au début, ces familles naines dispersées maintinrent contact entre elles, "
+"mais les Nains de l'est s'éloignèrent au loin et, lorsque le Temps du Chaos "
+"arriva, les régions du nord furent définitivement isolées. Les Nains de "
+"l'ouest croyaient leurs frères de l'est morts, anéantis par les flots du "
+"Chaos venus du nord, mais ils se trompaient. Le Chaos ne tua pas les Nains "
+"courageux, mais il les transforma terriblement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:76
@@ -332,6 +357,10 @@ msgid ""
 "where nature has rent the ground and burst the mountains apart. It is a land "
 "rich in the materials that Dwarfs especially covet."
 msgstr ""
+"L'Empire des Nains du Chaos est situé au cœur des Montagnes du Deuil et de "
+"la partie orientale adjacente des Terres Sombres. C'est un lieu austère et "
+"morne, où la nature a déchiré le sol et pulvérisé les montagnes. C'est une "
+"terre riche en matériaux particulièrement convoités par les Nains."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:82
@@ -341,6 +370,11 @@ msgid ""
 "twisting, for Dwarfs are stubborn by nature and more resistant to magic than "
 "other creatures.  Nonetheless they were changed."
 msgstr ""
+"Il est impossible de dire avec certitude comment ni quand la lignée des "
+"Nains de l'est est devenue les Nains du Chaos. Ce fut probablement un lent "
+"processus de déformation et de perversion, car les Nains sont têtus par "
+"nature et plus résistants à la magie que les autres créatures. Néanmoins, "
+"ils furent transformés."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:91
@@ -352,6 +386,13 @@ msgid ""
 "furnaces.  Where Dwarfs shun magic the Chaos Dwarfs embraced it and became "
 "mighty sorcerers, the creators of arcane machineries and horrific engines."
 msgstr ""
+"Leurs instincts nains se pervertirent, bafouant les valeurs traditionnelles. "
+"L'immense et monstrueuse Tour de Zharr-Naggrund, la Cité du Feu et de la "
+"Désolation, s'éleva dans la plaine de Zharrduk. Cette cité monstrueuse, "
+"façonnée d'obsidienne noire, est teintée de la lueur rouge de mille "
+"fourneaux diaboliques. Là où les Nains rejetaient la magie, les Nains du "
+"Chaos l'adoptèrent et devinrent de puissants sorciers, créateurs de machines "
+"arcaniques et d'engins terrifiants."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:98
@@ -362,18 +403,23 @@ msgid ""
 "thousands of slaves, creatures of many races captured in war or traded from "
 "the Orcs of the west, work at the enterprises of the Chaos Dwarfs."
 msgstr ""
+"Les déchets de milliers d'années de labeur emplissent la plaine de Zharrduk, "
+"où l'industrie déchire la terre, grêlant la surface de vilaines cicatrices. "
+"Sous les flammes vacillantes d'innombrables forges, des milliers d'esclaves, "
+"créatures de diverses races capturées à la guerre ou échangés aux Orques de "
+"l'ouest, travaillent dans les entreprises des Nains du Chaos."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:103
 #, no-wrap
 msgid "Chaos Dwarf army selector"
-msgstr ""
+msgstr "Sélecteur d'armée des Nains du Chaos"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:108
 #, no-wrap
 msgid "include::partial$chaos-dwarfs.tsv[]\n"
-msgstr ""
+msgstr "include::partial$chaos-dwarfs.tsv[]\n"
 
 #. 1: "The unit has 2 shooting attacks" — not each stand? TODO clarify.
 #. 2: its, brigade grammar
@@ -383,7 +429,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:119
 #, no-wrap
 msgid "[[blunderbusses,†1]]1. Blunderbusses"
-msgstr ""
+msgstr "[[blunderbusses,†1]]1. Tromblons"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:126
@@ -405,7 +451,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:127
 #, no-wrap
 msgid "[[hobgoblins,†2]]2. Hobgoblins"
-msgstr ""
+msgstr "[[hobgoblins,†2]]2. Hobgobelins"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:137
@@ -435,7 +481,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:138
 #, no-wrap
 msgid "[[orc-slaves,†3]]3. Orc Slaves"
-msgstr ""
+msgstr "[[orc-slaves,†3]]3. Orques Asservis"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:143
@@ -445,12 +491,17 @@ msgid ""
 "when given an order. This penalty is waived, however, if the Slaves are "
 "brigaded with Black Orcs, Chaos Dwarfs or Blunderbusses."
 msgstr ""
+"Les esclaves sont des captifs contraints de travailler et de se battre pour "
+"le plaisir de leurs cruels maîtres. Une unité d'Orques Asservis subit un "
+"malus de Commandement supplémentaire de -1 lorsqu'elle reçoit un ordre. Ce "
+"malus est toutefois annulé si les Orques Asservis sont en brigade avec des "
+"Orques Noirs, des Nains du Chaos ou des Tromblons."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:144
 #, no-wrap
 msgid "[[earthshaker-cannon,†4]]4. Earthshaker Cannon"
-msgstr ""
+msgstr "[[earthshaker-cannon,†4]]4. Canon Trembleterre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:150
@@ -462,6 +513,12 @@ msgid ""
 "in units in base contact with the victim unit on rolls of 6 on a D6 (roll "
 "for each unit)."
 msgstr ""
+"Le Canon Trembleterre est considéré comme une xref:rules:artillery-and-"
+"machines.adoc#stone-thrower[Catapulte], comme décrite dans le Livret de "
+"Règles. Cependant le Canon Trembleterre cause la confusion sur un jet de 4+ "
+"au lieu du 6+ habituel lors du jet de repoussement. De plus, le tir du Canon "
+"Trembleterre cause la confusion chez les unités en contact avec l'unité "
+"cible sur un jet de 6 sur un D6 (Effectuez un jet de dé pour chaque unité)."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:154
@@ -470,12 +527,15 @@ msgid ""
 "The total number of Earthshakers and Death Rockets in the army is limited in "
 "the way that only 1 piece of either kind is allowed per 1000 points."
 msgstr ""
+"Le nombre total de Canon Trembleterre et de Lance-fusées Hurlemort dans "
+"l'armée est limité à une seule pièce de l'un ou l'autre type par tranche de "
+"1000 points."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:155
 #, no-wrap
 msgid "[[death-rocket,†5]]5. Death Rocket"
-msgstr ""
+msgstr "[[death-rocket,†5]]5. Lance-fusées Hurlemort"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:161
@@ -487,12 +547,18 @@ msgid ""
 "shots is 1, the Death Rocket has misfired and you must roll a dice against "
 "the Death Rocket Misfire chart."
 msgstr ""
+"Le Lance-fusées Hurlemort est considéré comme une xref:rules:artillery-and-"
+"machines.adoc#stone-thrower[Catapulte], comme décrite dans le Livret de "
+"Règles. Cependant il tire 1D6 fois par phase et les touches infligées "
+"peuvent être sauvegardées avec un malus de -1. Si le nombre de tir donné par "
+"le dé est 1, le Lance-fusées Hurlemort subit un incident de tir et un jet de "
+"dé doit être effectué sur la table des incidents de tir du Lance-fusées."
 
 #. type: Block title
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:166
 #, no-wrap
 msgid "Death Rocket Misfire Chart"
-msgstr ""
+msgstr "Table d'Incidents de Tir du Lance-fusées Hurlemort"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:192
@@ -522,12 +588,33 @@ msgid ""
 "|*Big badaboom!* The rocket does 2D6 attacks\n"
 "instead of the normal 1D6.\n"
 msgstr ""
+"|D6 |Résultat\n"
+"\n"
+"h|1\n"
+"|*BOUM !* Le Lance-fusées explose de manière spectaculaire.\n"
+"\n"
+"h|2–3\n"
+"|*PSHHT...* La fusée n'inflige qu'une seule attaque.\n"
+"\n"
+"h|4–5\n"
+"|*WHOOSH !* Le Lance-Fusées tire au dessus de sa cible et effectue D6\n"
+"attaques sur la première unité dans la ligne de tir\n"
+"au-delà de la cible initiale, quelle que soit sa portée.\n"
+"Si le résultat est 1, ne relancez pas pour l'incident de tir.\n"
+"Si la cible est engagée dans un combat, les touches infligées\n"
+"sont reportées dans la phase de Combat. Si\n"
+"aucune cible ne se trouve derrière la victime, la fusée\n"
+"quitte le champ de bataille sans causer de dégâts.\n"
+"\n"
+"h|6\n"
+"|*BADABOUM !* La fusée inflige 2D6 attaques\n"
+"au lieu de 1D6.\n"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:194
 #, no-wrap
 msgid "[[bolt-thrower,†6]]6. Bolt Thrower"
-msgstr ""
+msgstr "[[bolt-thrower,†6]]6. Baliste"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:197
@@ -535,12 +622,14 @@ msgid ""
 "The Hobgoblin Bolt Thrower is a xref:rules:artillery-and-machines.adoc#bolt-"
 "thrower[Bolt Thrower] as described in main Rulebook."
 msgstr ""
+"La Baliste Hobgobeline est une xref:rules:artillery-and-machines.adoc#bolt-"
+"thrower[Baliste] telle que décrite dans le Livre de Règles."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:198
 #, no-wrap
 msgid "[[great-taurus,†7]]7. Great Taurus"
-msgstr ""
+msgstr "[[great-taurus,†7]]7. Grand Taurus"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:200
@@ -548,17 +637,19 @@ msgid ""
 "Any character may be mounted on a Great Taurus. This mighty beast is "
 "fearsome to face on the battlefield."
 msgstr ""
+"N'importe quel personnage peut monter un Grand Taurus. Cette puissante bête "
+"est redoutable à affronter sur le champ de bataille."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:202
 msgid "The Great Taurus causes terror and is able to fly."
-msgstr ""
+msgstr "Le Grand Taurus provoque la terreur et peut voler."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:203
 #, no-wrap
 msgid "[[lammasu,†8]]8. Lammasu"
-msgstr ""
+msgstr "[[lammasu,†8]]8. Lammasu"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:206
@@ -566,11 +657,13 @@ msgid ""
 "The Lammasu is a magical creature trained to serve the Chaos Dwarfs. A Chaos "
 "Dwarf Sorcerer may be mounted on a Lammasu."
 msgstr ""
+"Le Lammasu est une créature magique dressée pour servir les Nains du Chaos. "
+"Un Sorcier Nain du Chaos peut le monter."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:208
 msgid "A Lammasu is able to fly."
-msgstr ""
+msgstr "Un Lammasu peut voler."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:213
@@ -579,12 +672,15 @@ msgid ""
 "on one friendly unit within 30cm of the Lammasu on a roll of 4+ on a D6. "
 "There can only be one Lammasu in the army."
 msgstr ""
+"De plus, une fois par tour, vous pouvez tenter de dissiper un sort hostile "
+"lancé sur une unité amie à 30 cm ou moins du Lammasu sur un jet de 4+ sur un "
+"D6. Il ne peut y avoir qu'un seul Lammasu dans l'armée."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:214
 #, no-wrap
 msgid "[[sorcerer-lord,†9]]9. Sorcerer Lord"
-msgstr ""
+msgstr "[[sorcerer-lord,†9]]9. Seigneur sorcier"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
@@ -593,6 +689,10 @@ msgid ""
 "ancestors from Zharr-Naggrund.  A Sorcerer Lord can cast spells like a "
 "Wizard and can carry a magic item restricted to a Wizard if desired."
 msgstr ""
+"Le Général peut être un véritable Seigneur Sorcier, voire l'un des ancêtres "
+"vivants de Zharr-Naggrund. Un Seigneur Sorcier peut lancer des sorts comme "
+"un Sorcier et peut, s'il le souhaite, porter un objet magique réservé aux "
+"Sorciers."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:224
@@ -601,18 +701,21 @@ msgid ""
 "to cast a spell. The player must announce that the Sorcerer’s special spell "
 "casting bonus is being used before rolling for the spell."
 msgstr ""
+"Une fois par partie, le Seigneur Sorcier peut ajouter +1 aux dé lorsqu'il "
+"tente de lancer un sort. Le joueur doit annoncer qu'il utilise le bonus du "
+"Sorcier avant de lancer le jet de lancement du sort."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:229
 #, no-wrap
 msgid "Chaos Dwarf spells"
-msgstr ""
+msgstr "Sorts Nains du Chaos"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:232
 #, no-wrap
 msgid "Flaming Hand"
-msgstr ""
+msgstr "Main Enflammée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
@@ -620,6 +723,8 @@ msgid ""
 "_The Sorcerer’s hand glows like molten steel as he calls forth the strength "
 "of the forges of the earth._"
 msgstr ""
+"_La main du Sorcier brille comme de l'acier en fusion tandis qu'il invoque "
+"la force des forges de la terre._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:245
@@ -630,17 +735,24 @@ msgid ""
 "hits scored are carried over into the first round of combat and count as "
 "having been struck in combat."
 msgstr ""
+"Ce sort ne peut être lancé que si le Sorcier a rejoint une unité en combat. "
+"Il effectue automatiquement trois attaques sur une unité ennemie qui touche "
+"l'unité rejointe par le Sorcier. Ces attaques sont calculées de manière "
+"habituelle. Les touches obtenues sont reportées au premier round de combat "
+"et comptabilisées comme ayant été infligées au combat."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:247
 #, no-wrap
 msgid "Volcanic Eruption"
-msgstr ""
+msgstr "Éruption Volcanique"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:253
 msgid "_The Sorcerer’s calls forth a storm of magma from beneath the earth._"
 msgstr ""
+"_Le sorcier invoque une tempête de magma provenant des profondeurs de la "
+"terre._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:260
@@ -651,12 +763,18 @@ msgid ""
 "hits caused by the Volcanic Eruption count as having been struck in the "
 "combat itself."
 msgstr ""
+"Chaque unité ennemie à moins de 30 cm du socle du Sorcier subit 3 attaques "
+"calculées normalement. Une unité n'est pas repoussée par l'éruption "
+"volcanique. Les unités engagées au corps à corps reportent les touches "
+"infligées au premier round de combat, et les touches de l'éruption "
+"volcanique sont comptabilisés comme si elles avaient été infligés pendant le "
+"combat."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:262
 #, no-wrap
 msgid "Word of Fear"
-msgstr ""
+msgstr "Mot de Peur"
 
 #.  instils
 #. type: Plain text
@@ -665,6 +783,8 @@ msgid ""
 "_The Sorcerer speaks a blasphemous litany that instils fear in the hearts of "
 "his enemies._"
 msgstr ""
+"_Le Sorcier prononce une litanie blasphématoire qui instille la peur dans le "
+"cœur de ses ennemis._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:273
@@ -673,12 +793,15 @@ msgid ""
 "whether the Sorcerer can see it or not. The unit counts as causing terror "
 "for the duration of the Combat phase."
 msgstr ""
+"Ce sort peut être lancé sur une unité alliée à portée, que le Sorcier puisse "
+"la voir ou non. L'unité est provoque la terreur pendant toute la durée de la "
+"phase de Combat."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:275
 #, no-wrap
 msgid "Meteor Storm"
-msgstr ""
+msgstr "Tempête de Météores"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:281
@@ -686,6 +809,8 @@ msgid ""
 "_The Sorcerer hurls flaming stones from his fingertips toward the enemy, "
 "battering everything in its path._"
 msgstr ""
+"_Le Sorcier lance des roches enflammées du bout des doigts vers l'ennemi, "
+"écrasant tout sur leur passage._"
 
 #.  scored
 #. type: Plain text
@@ -700,3 +825,13 @@ msgid ""
 "hits that are scored into the first round of combat. Hits caused by the "
 "Meteor Storm count as having been struck in the combat itself."
 msgstr ""
+"Tracez une ligne imaginaire de 30 cm de long partant du socle du Sorcier "
+"dans la direction de votre choix. Chaque unité sous cette ligne subit trois "
+"attaques de tir, résolues de manière classique. Notez que ce sort peut "
+"facilement affecter plusieurs unités et affectera toutes celles qui se "
+"trouvent sur son chemin, y compris les vôtres. Les unités non engagées "
+"peuvent être repoussées par la Tempête de Météores comme par un tir "
+"ordinaire. Les unités engagées ne peuvent pas être repoussées, mais "
+"reportent les touches infligées au premier round de combat. Les touches de "
+"la Tempête de Météores sont comptabilisées comme si elles avaient été "
+"infligées pendant le combat."
