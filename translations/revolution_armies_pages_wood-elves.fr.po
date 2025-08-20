@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-12 18:47+0200\n"
-"PO-Revision-Date: 2025-07-07 10:04+0000\n"
+"PO-Revision-Date: 2025-08-20 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_wood-elves/fr/>\n"
@@ -170,103 +170,103 @@ msgstr "Elfes Sylvains"
 #: en/revolution/modules/armies/pages/wood-elves.adoc:24
 #, no-wrap
 msgid "Glade Guard"
-msgstr ""
+msgstr "Gardes Sylvains"
 
 #. type: Attribute :eternal-guard:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:25
 #, no-wrap
 msgid "Eternal Guard"
-msgstr ""
+msgstr "Gardes Éternels"
 
 #. type: Attribute :wardancers:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:26
 #, no-wrap
 msgid "Wardancers"
-msgstr ""
+msgstr "Danseurs de Guerre"
 
 #. type: Attribute :waywatchers:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:27
 #, no-wrap
 msgid "Waywatchers"
-msgstr ""
+msgstr "Forestiers"
 
 #. type: Attribute :dryads:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:28
 #, no-wrap
 msgid "Dryads"
-msgstr ""
+msgstr "Dryades"
 
 #. type: Attribute :treekin:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:29
 #, no-wrap
 msgid "Treekin"
-msgstr ""
+msgstr "Lémures"
 
 #. type: Attribute :glade-riders:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:30
 #, no-wrap
 msgid "Glade Riders"
-msgstr ""
+msgstr "Cavaliers Sylvains"
 
 #. type: Attribute :wild-riders:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:31
 #, no-wrap
 msgid "Wild Riders"
-msgstr ""
+msgstr "Cavaliers Sauvages"
 
 #. type: Attribute :warhawk-riders:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:32
 #, no-wrap
 msgid "Warhawk Riders"
-msgstr ""
+msgstr "Guerriers Faucons"
 
 #. type: Attribute :treeman:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:33
 #, no-wrap
 msgid "Treeman"
-msgstr ""
+msgstr "Homme-arbre"
 
 #. type: Attribute :noble:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:35
 #, no-wrap
 msgid "Noble"
-msgstr ""
+msgstr "Noble"
 
 #. type: Attribute :treeman-ancient:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:36
 #, no-wrap
 msgid "Treeman Ancient"
-msgstr ""
+msgstr "Homme-abre Vénérable"
 
 #. type: Attribute :branchwraith:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:37
 #, no-wrap
 msgid "Branchwraith"
-msgstr ""
+msgstr "Branchimère"
 
 #. type: Attribute :spell-weaver:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:38
 #, no-wrap
 msgid "Spell Weaver"
-msgstr ""
+msgstr "Tisseur de Charmes"
 
 #. type: Attribute :giant-stag:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:39
 #, no-wrap
 msgid "Giant Stag"
-msgstr ""
+msgstr "Grand Cerf"
 
 #. type: Attribute :warhawk:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:41
 #, no-wrap
 msgid "Warhawk"
-msgstr ""
+msgstr "Faucon de Guerre"
 
 #. type: Attribute :forest-dragon:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:42
 #, no-wrap
 msgid "Forest Dragon"
-msgstr ""
+msgstr "Dragon des Forêts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:58
@@ -282,6 +282,17 @@ msgid ""
 "mountain halls and the Elven colonists abandoning the Old World to protect "
 "their homeland of Ulthuan."
 msgstr ""
+"image:wood-elves/logo.webp[width=105,height=99,float=\"right\"] Les Elfes "
+"s'installèrent dans la forêt de Loren bien avant l'apparition des royaumes "
+"civilisés du Vieux Monde, lors de la grande guerre entre les Elfes et les "
+"Nains, connue sous le nom de Guerre de la Barbe. Les premiers colons "
+"elfiques de Loren cherchèrent à protéger ce magnifique royaume forestier des "
+"ravages des Nains, qui auraient abattu les arbres majestueux pour alimenter "
+"leurs fourneaux et fournir le bois nécessaire à la construction de leurs "
+"machines de guerre. Après de nombreuses années de combats, la Guerre de la "
+"Barbe prit fin et les Nains se retirèrent dans leurs forteresses au creux "
+"des montagnes et les colons elfiques abandonnèrent le Vieux Monde pour "
+"protéger leur patrie d'Ulthuan."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:69
@@ -296,6 +307,15 @@ msgid ""
 "Wood Elves, and they continue to protect their forested home to this very "
 "day."
 msgstr ""
+"Cependant, tous les Elfes ne rentrèrent pas chez eux avec leurs armées et "
+"leurs navires. Certains ne supportèrent pas de quitter leurs nouveaux "
+"foyers, tandis que d'autres refusèrent de retrouver la décadence et les "
+"intrigues des cours nobles de leur patrie. Quelles que soient leurs raisons, "
+"un petit nombre de colons elfiques restèrent dans le Vieux Monde et, privés "
+"des armées du Roi Phénix pour les protéger, ils trouvèrent rapidement refuge "
+"auprès des gardiens de Loren et firent de la forêt leur nouveau foyer. Les "
+"descendants de ces premiers colons forment la race des Elfes Sylvains, et "
+"ils continuent de protéger leur foyer forestier jusqu'à ce jour."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:89
@@ -317,25 +337,42 @@ msgid ""
 "beyond the boundary stones marking the edge of the realm – you are not "
 "welcome here, death awaits."
 msgstr ""
+"On peut affirmer sans se tromper que les Elfes Sylvains ne sont pas les "
+"combattants les plus actifs du monde de Warhammer ; la grande majorité de "
+"leurs batailles ont pour but la défense de Loren, une cause à laquelle ils "
+"se consacrent avec une détermination sans faille. En grande partie en raison "
+"de leur faible nombre, les Elfes Sylvains préfèrent affronter leurs ennemis "
+"par la tromperie et la ruse plutôt que d'attaquer de front. La mort, par "
+"pièges, embuscades et flèches invisibles, guette l'intrus imprudent dans "
+"leur royaume forestier enchanté. En effet, une importante armée d'Elfes "
+"Sylvains ne se rassemble pour livrer une bataille ouverte et rangée que dans "
+"les circonstances les plus extrêmes, le plus souvent pour repousser une "
+"grande armée d'invasion. Dans de tels moments, les guerriers Elfes Sylvains "
+"fondent sur leurs adversaires avec toute la sauvagerie de la Chasse Sauvage, "
+"massacrant quiconque cherche à piller leur forêt bien-aimée. Souvent, il ne "
+"reste des envahisseurs que quelques grands cairns, sous lesquels gisent les "
+"corps des ennemis tombés au combat. Ceux-ci servent d’avertissement sinistre "
+"à tous ceux qui franchissent les bornes marquant la limite du royaume : vous "
+"n’êtes pas les bienvenus ici, la mort vous attend."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/wood-elves.adoc:94
 #, no-wrap
 msgid "Wood Elf army selector"
-msgstr ""
+msgstr "Sélecteur d'armée des Elfes Sylvains"
 
 #. type: Table
 #: en/revolution/modules/armies/pages/wood-elves.adoc:99
 #, no-wrap
 msgid "include::partial$wood-elves.tsv[]\n"
-msgstr ""
+msgstr "include::partial$wood-elves.tsv[]\n"
 
 #.  Removed "all"
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:108
 #, no-wrap
 msgid "Woodland Folk"
-msgstr ""
+msgstr "Peuple Forestier"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:111
@@ -343,6 +380,9 @@ msgid ""
 "Due to living amongst the forests of Loren Wood Elf infantry does not suffer "
 "the usual −1 Command penalty when within woodland."
 msgstr ""
+"Habituée à vivre dans les forêts d'Athel Loren, l'infanterie Elfe Sylvain ne "
+"subit pas la pénalité habituelle de −1 en Commandement lorsqu'elle se trouve "
+"dans les bois."
 
 #
 #
@@ -355,7 +395,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:125
 #, no-wrap
 msgid "[[glade-guard,†1]]1. Glade Guard"
-msgstr ""
+msgstr "[[glade-guard,†1]]1. Garde Sylvain"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:130
@@ -365,12 +405,17 @@ msgid ""
 "attacks. Therefore these units score a hit against targets in the open on a "
 "3+, against defended targets on a 4+, and against fortified targets on a 5+."
 msgstr ""
+"Les Elfes Sylvains sont tout aussi réputés pour leur arc que leurs cousins "
+"Hauts Elfes. De ce fait, les unités de Garde Sylvain ajoutent +1 à leur jet "
+"de dés lors de leurs attaques de tir. Par conséquent, ces unités touchent "
+"les cibles à découvert sur un score de 3+, les cibles en position de défense "
+"sur un score de 4+ et les cibles en position fortifiée sur un score de 5+."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:131
 #, no-wrap
 msgid "[[wardancers,†2]]2. Wardancers"
-msgstr ""
+msgstr "[[wardancers,†2]]2. Danseurs de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:135
@@ -379,6 +424,10 @@ msgid ""
 "Guard or Eternal Guard unit may add one stand of Wardancers. This brings the "
 "size of the unit to 4 stands – 3 regular stands plus the Wardancers stand."
 msgstr ""
+"Les socles de Danseurs de Guerre ne sont pas déployés comme des unités "
+"indépendantes. À la place, toute unité de la Garde Sylvain ou de Garde "
+"Éternel peut ajouter un socle de Danseurs de Guerre. Cela porte la taille de "
+"l'unité à 4 socles : 3 socles normaux plus le socle de Danseurs de Guerre."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:139
@@ -387,6 +436,9 @@ msgid ""
 "fight as part of their unit and can be removed as a unit casualty if the "
 "player wishes."
 msgstr ""
+"Les Danseurs de Guerre ont toujours la même valeur d'armure que le reste de "
+"leur unité. Ils combattent au sein de leur unité et peuvent être retirés "
+"comme perte si le joueur le souhaite."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:143
@@ -395,12 +447,16 @@ msgid ""
 "never cause the parent unit to be in Irregular Formation no matter how they "
 "are placed."
 msgstr ""
+"Les pertes des Danseurs de Guerre ne sont jamais comptabilisées dans les "
+"pénalités de Commandement. Les socles des Danseurs de Guerre ne placent "
+"jamais l'unité parente en Formation Irrégulière, quel que soit leur "
+"positionnement."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:144
 #, no-wrap
 msgid "[[waywatchers,†3]]3. Waywatchers"
-msgstr ""
+msgstr "[[waywatchers,†3]]3. Forestiers"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:149
@@ -410,6 +466,11 @@ msgid ""
 "making shooting attacks and these attacks are resolved at −1 Armour value of "
 "the enemy."
 msgstr ""
+"Célèbres pour leur maîtrise de l'arc, même selon les standards des Elfes "
+"Sylvains, les Forestiers tirent sur l'ennemi avec une précision terrifiante. "
+"Ils ajoutent +1 à leur jet de dés lorsqu'ils effectuent des attaques de tir, "
+"et ces attaques infligent une pénalité de -1 à la valeur d'armure de "
+"l'ennemi."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:172
@@ -434,12 +495,33 @@ msgid ""
 "infiltrate that turn, it can attempt to infiltrate in a subsequent turn at "
 "the same of a different place."
 msgstr ""
+"Les Forestiers peuvent être déployés en embuscade. Chaque unité peut s’"
+"infiltrer sur le champ de bataille une fois la partie commencée. Pour "
+"infiltrer une unité, le joueur Elfe Sylvain désigne le point où il veut la "
+"faire apparaître et doit lui donner un ordre d’infiltration avec l’un de ses "
+"personnages. Le personnage ne tient pas compte des portées d’ordre pour "
+"donner l’ordre d’infiltration : on considère que sa portée d’ordre s’étend à "
+"l’ensemble du champ de bataille pour ce qui est de donner un tel ordre. "
+"Considérez que l’ordre est donné au point où l’unité doit apparaître, et "
+"appliquez tous les modificateurs de portée, de proximité de l’ennemi, etc. "
+"mais ignorez les pénalités dues au terrain difficile. Le point d’apparition "
+"de l'unité doit être situé en terrain dense ou sur un bord de table n’étant "
+"pas celui du joueur adverse. Si l’ordre d’infiltration est donné avec "
+"succès, placez un socle de l’unité sur le point indiqué et positionnez "
+"l'autre en formation autour de celui-ci. L’unité infiltrée ne peut pas être "
+"placée de façon à toucher l’ennemi. Une fois qu’elle est déployée, elle peut "
+"recevoir des ordres du personnage qui a donné l’ordre d’infiltration, si "
+"celui-ci se trouve à portée d’ordre habituelle : on considère qu’elle a "
+"utilisé son premier ordre pour se déployer. Si l’ordre d’infiltration est un "
+"échec, l’unité n’est pas déployée et ne peut pas s’infiltrer lors de ce "
+"tour. Elle pourra essayer de nouveau lors d’un tour suivant, au même endroit "
+"ou en un autre lieu."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:173
 #, no-wrap
 msgid "[[forest-spirits,†4]]4. Forest Spirits"
-msgstr ""
+msgstr "[[forest-spirits,†4]]4. Esprits des Forêts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:176
@@ -447,12 +529,15 @@ msgid ""
 "Forest Spirits are woodland creatures. They are immune to terror and suffer "
 "a −1 Command penalty when being ordered by General or Noble."
 msgstr ""
+"Les Esprits des Forêts sont des créatures des bois. Elles sont immunisées "
+"contre la terreur et subissent un malus de -1 au Commandement lorsqu'elles "
+"reçoivent un ordre du Général ou d'un Noble."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:177
 #, no-wrap
 msgid "[[wild-riders,†5]]5. Wild Riders"
-msgstr ""
+msgstr "[[wild-riders,†5]]5. Cavaliers Sauvages"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:179
@@ -467,7 +552,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:180
 #, no-wrap
 msgid "[[warhawk-riders,†6]]6. Warhawk Riders"
-msgstr ""
+msgstr "[[warhawk-riders,†6]]6. Guerriers Faucons"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:186
@@ -489,7 +574,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/wood-elves.adoc:187
 #, no-wrap
 msgid "[[treeman,†7]]7. Treeman"
-msgstr ""
+msgstr "[[treeman,†7]]7. Homme-arbre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:190
@@ -497,17 +582,20 @@ msgid ""
 "A Treeman can enter woods and suffers no command penalty for being within "
 "the woods but cannot get defended status there."
 msgstr ""
+"Un Homme-arbre peut entrer dans les bois et ne subit aucune pénalité de "
+"Commandement du fait d'être dans un bois, mais il n'est pas considéré comme "
+"étant en position de défense."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:192
 msgid "A Treeman causes terror."
-msgstr ""
+msgstr "Un Homme-arbre provoque la terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:193
 #, no-wrap
 msgid "[[treeman-ancient,†8]]8. Treeman Ancient"
-msgstr ""
+msgstr "[[treeman-ancient,†8]]8. Homme-arbre Vénérable"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:195
@@ -515,6 +603,8 @@ msgid ""
 "The Treeman Ancient has a −1 Command penalty when issuing orders to units "
 "other than Forest Spirits."
 msgstr ""
+"Un Homme-arbre vénérable subit une pénalité de -1 au Commandement quand il "
+"donne des ordres à des unités qui ne sont pas des Esprits de la Forêt."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:197
@@ -522,27 +612,32 @@ msgid ""
 "The Treeman Ancient can join only Forest Spirit units and is able to cast "
 "the <<tree-singing>> spell."
 msgstr ""
+"Un Homme-Arbre Vénérable ne peut que rejoindre les unités Esprit de la Forêt "
+"et peut lancer le sort <<tree-singing>>."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:199
 msgid "Units joined by Treeman Ancient cause terror."
 msgstr ""
+"Les unités rejointes par un Homme-arbre Vénérable provoquent la terreur."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:201
 msgid "The Treeman Ancient cannot be given any magic items."
-msgstr ""
+msgstr "Un Homme-arbre Vénérable ne peut recevoir aucun objet magique."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:204
 msgid "There can only ever be one Treeman Ancient in any Wood Elf army."
 msgstr ""
+"Il ne peut y avoir qu'un seul Homme-arbre Vénérable dans une armée d'Elfes "
+"Sylvain."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:205
 #, no-wrap
 msgid "[[branchwraith,†9]]9. Branchwraith"
-msgstr ""
+msgstr "[[branchwraith,†9]]9. Branchimère"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:207
@@ -550,6 +645,8 @@ msgid ""
 "A Branchwraith has a −1 Command penalty when issuing orders to units other "
 "than Forest Spirits."
 msgstr ""
+"Une Branchimère subit une pénalité de −1 en Commandement lorsqu'elle donne "
+"des ordres à des unités qui ne sont pas des Esprits de la Forêt."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:210
@@ -557,43 +654,47 @@ msgid ""
 "A Branchwraith can join only Forest Spirit units and is able to cast the "
 "<<tree-singing>> spell."
 msgstr ""
+"Une Branchimère ne peut que rejoindre les unités Esprits de la Forêt et peut "
+"lancer le sort <<tree-singing>>."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:213
 msgid "A Branchwraith cannot be given any magic items."
-msgstr ""
+msgstr "Une Branchimère ne peut recevoir aucun objet magique."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:214
 #, no-wrap
 msgid "[[giant-stag,†10]]10. Giant Stag"
-msgstr ""
+msgstr "[[giant-stag,†10]]10. Grand Cerf"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:216
 msgid "Generals, Nobles and Spell Weavers may ride a Giant Stag."
 msgstr ""
+"Le Général, les Nobles et les Tisseurs de Charmes peuvent chevaucher un "
+"Grand Cerf."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:218
 msgid "The Stag adds +1 Attack to those of its rider."
-msgstr ""
+msgstr "Le Grand Cerf ajoute +1 Attaque à celles de son cavalier."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:219
 #, no-wrap
 msgid "[[unicorn,†11]]11. Unicorn"
-msgstr ""
+msgstr "[[unicorn,†11]]11. Licorne"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:220
 msgid "This mount can be ridden only by a Spell Weaver."
-msgstr ""
+msgstr "La Licorne ne peut être montée que par un Tisseur de Charmes."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:222
 msgid "The Unicorn adds +1 Attack to those of its rider."
-msgstr ""
+msgstr "La Licorne ajoute +1 Attaque à celles de son cavalier."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:227
@@ -602,22 +703,27 @@ msgid ""
 "a spell. The player must announce that the Unicorn’s magic [.edit]#is being "
 "used# before rolling to see if the spell works."
 msgstr ""
+"Une fois par partie, le pouvoir magique de la Licorne ajoute +1 au dé lors "
+"du lancement d'un sort. Le joueur doit annoncer que la magie de la Licorne "
+"est utilisée avant de lancer le dé pour lancer le sort."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:230
 msgid "There can be only one Unicorn in the army."
-msgstr ""
+msgstr "Il ne peut y avoir qu'une seule Licorne dans l'armée."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:231
 #, no-wrap
 msgid "[[warhawk,†12]]12. Warhawk"
-msgstr ""
+msgstr "[[warhawk,†12]]12. Faucon de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:233
 msgid "General, Nobles and Spell Weavers may ride a Warhawk."
 msgstr ""
+"Le Général, les Nobles et les Tisseurs de Charmes peuvent monter un Faucon "
+"de Guerre."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:236
@@ -625,29 +731,34 @@ msgid ""
 "The Warhawk can fly, increasing its rider’s move from 60cm to 100cm, and it "
 "adds +1 Attack to those of its rider."
 msgstr ""
+"Le Faucon de Guerre peut voler, augmentant ainsi la distance de déplacement "
+"de son cavalier de 60 cm à 100 cm, et il ajoute +1 en attaque à celle de son "
+"cavalier."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:237
 #, no-wrap
 msgid "[[forest-dragon,†13]]13. Forest Dragon"
-msgstr ""
+msgstr "[[forest-dragon,†13]]13. Dragon des Forêts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:239
 msgid "Generals, Nobles and Spell Weavers may ride Forest Dragons."
 msgstr ""
+"Le Général, les Nobles et les Tisseurs de Charmes peuvent chevaucher des "
+"Dragons des Forêts."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/wood-elves.adoc:246
 #, no-wrap
 msgid "Wood Elf spells"
-msgstr ""
+msgstr "Sorts Elfes Sylvains"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/wood-elves.adoc:249
 #, no-wrap
 msgid "Tree Singing"
-msgstr ""
+msgstr "Chant des Arbres"
 
 #.  Spelling their, force → forth, form → from
 #. type: Plain text
@@ -656,6 +767,8 @@ msgid ""
 "_The Spell Weaver calls forth a mass of tangling branches to surround their "
 "troops, protecting them from harm._"
 msgstr ""
+"_Le Tisseur de Charmes invoque une masse de branches enchevêtrées pour "
+"entourer ses troupes, les protégeant du danger._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:262
@@ -666,19 +779,24 @@ msgid ""
 "any way. The target Infantry unit counts as Defended, even if it is in open "
 "terrain."
 msgstr ""
+"Ce sort peut être lancé sur une seule unité d'infanterie amie non engagée au "
+"corps à corps et à portée, que le lanceur puisse la voir ou non. Le sort "
+"dure jusqu'au début du prochain tour du lanceur, ou jusqu'à ce que l'unité "
+"ciblée se déplace de quelque façon que ce soit. L'unité d'infanterie ciblée "
+"est considérée comme étant en position de défense, même en terrain découvert."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/wood-elves.adoc:264
 #, no-wrap
 msgid "Twilight Host"
-msgstr ""
+msgstr "Hôte du Crépuscule"
 
 #.  weird → eldritch, target unit → silent elves.
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:270
 msgid ""
 "_An [.edit]#eldritch# enchantment forms around the [.edit]#silent elves#._"
-msgstr ""
+msgstr "_Un enchantement mystique se forme autour des elfes silencieux_"
 
 #.  next rearranged, magic → shooting
 #. type: Plain text
@@ -687,12 +805,14 @@ msgid ""
 "The target unit causes terror until the next Wood Elf [.edit]#Shooting# "
 "phase."
 msgstr ""
+"L'unité ciblée provoque la terreur jusqu'à la prochaine phase de [.edit]#Tir#"
+" des Elfes Sylvains."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/wood-elves.adoc:275
 #, no-wrap
 msgid "Call of the Hunt"
-msgstr ""
+msgstr "Appel de la Chasse"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:282
@@ -700,6 +820,8 @@ msgid ""
 "_The Spell Weaver’s voice sings out across the battlefield directing troops "
 "above the tumult of combat with the magical Call of the Hunt._"
 msgstr ""
+"_La voix du Tisseur de Charmes résonne sur le champ de bataille, dirigeant "
+"les troupes au-dessus du tumulte du combat avec l'Appel de la Chasse._"
 
 #.  Add "The [enemy] unit"
 #. type: Plain text
@@ -709,12 +831,15 @@ msgid ""
 "nearest visible enemy unit in the same way as when charging. The enemy unit "
 "may not shoot at the chargers."
 msgstr ""
+"[.edit]#L'unité ciblée# peut effectuer un mouvement de charge pour entrer en "
+"contact avec l'unité ennemie visible la plus proche, de la même manière que "
+"lors d'une charge. L'unité ennemie ne peut pas tirer sur les chargeurs."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/wood-elves.adoc:289
 #, no-wrap
 msgid "Fury of the Forest"
-msgstr ""
+msgstr "Fureur de la Forêt"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:296
@@ -722,6 +847,8 @@ msgid ""
 "_Trees shake, branches lash out and vines entangle the foe as they approach "
 "the forest._"
 msgstr ""
+"_Les arbres tremblent, les branches se déchaînent et des ronces enchevêtrent "
+"l'ennemi à mesure qu'il s'approche de la forêt._"
 
 #.  Add "the", "the"
 #. type: Plain text
@@ -731,6 +858,9 @@ msgid ""
 "chosen wooded terrain piece. Units get no armour save if within wooded "
 "terrain."
 msgstr ""
+"Le sort effectue trois attaques de tir sur toutes les unités ennemies à "
+"moins de 10 cm du terrain boisé choisi. Les unités situées dans un terrain "
+"boisé ne bénéficient d'aucune sauvegarde d'armure."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:306
@@ -740,3 +870,7 @@ msgid ""
 "into the first round of combat; any hits scored count as having been struck "
 "in the combat itself."
 msgstr ""
+"Les unités non engagées ne sont pas repoussées par ce sort (l'assaut vient "
+"du sol sous leurs pieds). Les unités engagées au corps à corps reportent "
+"leurs Points de Vie perdus au premier round de combat ; tous les Points de "
+"Vie perdus comptent comme ayant été infligés pendant le combat lui-même."
