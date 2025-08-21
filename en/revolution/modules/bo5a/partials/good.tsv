@@ -1,0 +1,14 @@
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit–size}	{points–per–unit}	{min–max}	{special–rules}
+Elf Spears	Infantry	3	3	6+	–	3	50	–/–	<<elves>>
+Elf Archers	Infantry	2/1	3	0	–	3	45	2/4	<<elves>>
+Elf Cavalry	Cavalry	3	3	6+	–	3	80	–/2	<<elves>>
+Dwarfs	Infantry	3	4	4+	–	3	110	1/–	–
+Dwarf Archers	Infantry	2/1	4	5+	–	3	80	–/1	–
+Men	Infantry	3	3	6+	–	3	45	1/–	–
+Men Archers	Infantry	2/1	3	0	–	3	30	–/2	–
+Eagles	Monster	2	3	6+	–	3	70	–/1	<<eagles>>
+Giant Bear	Monster	6	4	4+	–	1	125	–/1	<<giant-bear>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
+Wizard	Wizard	+1	–	–	8	1	120	0–1	–
+Hero	Hero	+2	–	–	8	1	80	–/2	–
+General	General	+1	–	–	+1	–	–	1	–

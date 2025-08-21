@@ -1,0 +1,14 @@
+{troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit–size}	{points–per–unit}	Number	{special–rules}
+Goblins	Infantry	2/1		–	–	3	30	–/–	<<goblins>>
+Goblin Guard	Infantry	3	3	6+	–	3	45	–/1	–
+Wolf Riders	Cavalry	2/1	3	6+	–	3	60	–/–	<<goblins>>, <<wolf-riders>>
+Hill Trolls	Infantry	5	3	5+	–	3	100	–/1	<<hill-trolls>>
+Wargs	Cavalry	3	3	–	–	3	60	–/4	–
+Spiders	Monster	3	3	6+	–	3	70	–/1	<<spiders>>
+Gigantic Bats	Monster	2	3	–	–	3	60	–/1	<<gigantic-bats>>
+Storm Giant	Monster	8	8	5+	–	1	150	–/1	<<storm-giant>>
+Smaug	Monster	6/3	6	4+	–	1	350	0–1	<<smaug>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
+Chieftain	Hero	+1	–	–	8	1	80	–/3	–
+Shaman	Wizard	+0	–	–	7	1	45	–/1	<<shaman>>
+General	General	+1	–	–	+1	–	–	1	–

@@ -1,0 +1,307 @@
+= The Evil Army
+:page-layout: armylist
+:page-role: armylist page=68
+:page-toclevels: 1
+include::revolution:armies:partial$table-attributes.adoc[]
+
+_The Evil side features Goblins, Goblin Wolf Riders and Wargs._
+
+*Goblins* are stunted, mean-minded,
+cruel and numerous
+creatures whose lairs infest
+the north of the world and the
+great mountain chains such
+as the Misty Mountains.
+They mostly live beneath the
+earth as they detest sunlight, and when they move above ground
+their shamans create clouds of darkness to shelter them from the
+sun. On the whole, they prefer to go about their evil at night or
+under the shade of dark forests. They hate Elves, Men and
+Dwarves but also each other, for they are bitter creatures full of
+mischief, resentment and self-loathing.
+
+Goblins fight in great disorganised hoards made up of creatures
+of all shapes and sizes, armed with curved scimitars, bows,
+spears, clubs, etc. They are ill disciplined but savage and take
+great delight in surrounding and destroying less numerous and
+helpless enemies. They are not bold or especially powerful
+warriors but their numbers make them dangerous. Their masters
+care little whether they live or die, and are prepared to throw
+away hundreds of Goblins warriors just to wear down the enemy.
+
+Goblins are accompanied
+by huge and dangerous
+wolves called *Wargs*.
+These are especially large
+and unusually intelligent creatures who have made
+common cause with the Goblins. The two races share many
+things including a test for man-flesh. Wargs live in the wilds
+around and adjoining the Goblin lairs from where they gather
+information that they pass on to the Goblin leaders.
+
+Some Goblins even ride
+Wards into battle – though it
+is an especially foolhardy
+and daring Goblin that will
+hang onto a Warg’s back as
+it leaps onto its foe, biting
+throats and goring flesh.
+These *Wolf Riders* form an important part of the Evil forces.
+
+*Goblin Guard* are the best
+of the fighting Goblins –
+the biggest, meanest and
+most fearsome of their foul
+breed.
+
+*Hill Trolls* are large,
+brutish and mostly
+stupid creatures that
+waylay, and often
+eat, travellers.
+
+*Storm Giants* live amongst the
+high peaks of the Misty
+Mountains – they are huge and
+dangerous but fortunately quite
+rare.
+
+*Spiders of Mirkwood* are
+just that – the gruesome
+giant spiders that trap
+Thorin and his companions
+with their webs.
+
+*Gigantic Bats*
+accompany the Goblins
+as they travel from the
+north forming a black
+cloud that shelters the
+Evil forces from the
+hateful rays of the sun.
+
+*Bolg*, son of Azog, is the leader of the Evil army and the greatest
+of all the chieftains of the Goblins in the north of the world.
+His father was slain by the Dwarves in a great battle to the south
+of the Misty Mountains, after which he united all the Goblin
+tribes under his leadership.
+
+*Shamans* represent the unnamed shamans that accompany the
+Goblin horde, summoning and controlling the great swarms of
+darkness that swirl about the battlefield.
+
+*Chieftains* represent the unnamed subordinates of Bolg in the
+great Goblin horde.
+
+*Smaug* is the greatest
+of all living Dragons
+and an intelligent and
+cunning wyrm.
+Smaug can fly and
+breath fire and is the
+most dangerous of all
+evil creatures.
+
+[.page=76]
+[#army-selector]
+== The Evil army selector
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$evil.tsv[]
+|===
+
+[.page=77]
+[#special-rules]
+== Special rules
+
+include::partial$evil-special.adoc[]
+
+[[hill-trolls,†3]]3. Hill Trolls:: Hill Trolls are witless creatures that find it hard to remember
+orders, let alone obey them. To represent this, any Command
+penalty applied for distance between the character and Hill
+Troll unit is always doubled.
+
+[[spiders,†4]]4. Spiders:: Spiders of Mirkwood can move and see through
+woods and forest as if the terrain were not there.
++
+Spider stands
+that are wholly or partially within woods can shoot at troops
+charging their unit. This represents the sticky webs they have
+spun from tree to tree. Web ‘shots’ are resolved as one
+shooting attack for each of the unit’s stands that is within the
+wood. Spiders do not need to be able to see their attackers to
+use this ability – so enemies will encounter webs even if they
+charge from behind.
++
+Note that Spiders cannot shoot otherwise.
+
+[[gigantic-bats,†5]]5. Gigantic Bats:: Gigantic Bats can fly.
+
+[[storm-giant,†6]]6. Storm Giant:: Storm Giants are rather big and
+stupid. All Storm Giants have to be given separate orders – they
+cannot be brigaded with other units, not even with other
+Storm Giants. If you attempt to give and order to a Storm
+Giant and fail then you must take a Giant Goes Wild test
+to see what he does. Ignore potential blunders – these are taken
+into account by the test.
++
+Storm Giants cause terror in their enemies.
++
+Storm Giants are allowed to charge
+fortified enemies. They are not tall enough to move over
+high linear obstacles or city walls – and so
+cannot pursue retreating fortified enemies.
++
+Storm Giants have a great many hits (8) and we must
+consider the possibility of hurting the Giant and reducing its
+effectiveness. Therefore, if a Storm Giant has suffered 4-7
+hits by the end of the Shooting phase or Combat phase it is
+deemed to have been badly hurt. Once badly hurt, the Giant’s
+outstanding hits are discounted and his Hits and Attacks
+are halved for the rest of the battle (to 4 Hits and 4 Attacks).
++
+.Giant Goes Wild Chart
+****
+[cols="1,6",frame=none,grid=none]
+|===
+|D6 |Oh no! What‘s he doing now!
+
+|1
+|The Storm Giant will neither move nor fight this turn but
+simply stands rooted to the spot looking bewildered.
+
+|2
+|Move the Giant directly towards the nearest table edge.
+If he moves into another unit he will charge it regardless
+of which side it is on. If victorious in combat the Storm Giant
+will hold his ground.
+
+|3
+|The Storm Giant picks up a rock, tree, abandoned cart,
+small building or whatever comes to hand and throws it
+at the closest visible unit
+(friend or foe) within D6 × 5 cm, inflicting 3 Attacks.
+
+|4
+|The Storm Giant moves straight forward at full pace in the
+direction he is facing in. If he reaches an enemy unit he
+will charge. If he reaches a friendly unit he will walk
+straight through and out the other side if there is room
+and he has sufficient move. If he reaches a friendly unit
+and does not have sufficient move or enough room to
+walk all the way through then he halts on contact. A
+friendly unit that is walked through or contacted in this
+way instantly becomes confused as a result, but ceases
+to be confused at the end of the Command phase along
+with other confused units.
+
+|5
+|The Storm Giant moves towards the nearest enemy unit that
+he can see as fast as he can. If he reaches the foe he will
+charge. If friends are in the way he will walk through
+them causing confusion as described above. If there is
+no visible enemy the Giant does nothing this Command
+phase.
+
+|6
+|The Giant gives a mighty bellow and rushes straight at
+the nearest enemy unit that he can see. Move the Storm Giant at
+double his normal full pace move.
+If friends are in the way he will walk through them causing confusion as described above.
+If he reaches an enemy
+unit, he charges it and fights by jumping up and down on
+the foe, furiously doubling his Attacks value in the first
+round of combat. If there is no visible enemy the Giant
+does nothing this Command phase.
+|===
+****
+
+[[smaug,†7]]7. Smaug:: Smaug is the greatest of all living Dragons and an intelligent
+and cunning wyrm.
++
+Smaug can fly, breath fire, and causes terror.
++
+Dragons are large monsters and Smaug has a great many hits
+(6) to reflect this. We must consider the possibility of hurting a Dragon and
+reducing its effectiveness in subsequent turns. Therefore, if
+Smaug has suffered 3-5 hits by the end of the Shooting phase
+or Combat phase he is deemed to have been badly hurt. Once
+badly hurt, all Smaug’s outstanding hits are discounted and
+his Hits and Attacks are halved for the rest of the battle
+(to 3/3 Hits and 3 Attacks).
++
+Smaug has a special shooting attach – he can breath fire.
+The fire breath has a range of 20cm. Fire can be directed at
+one enemy unit in the normal manner and has three attacks
+worked out in the same way as bowfire and other shooting.
+
+[[shaman,†8]]8. Shaman:: Shamans are powerful creatures – so the Evil
+army can normally include no more than one Shaman.
+However, the army can include more Shamans if these are
+substituted for Chieftain choices. For example, a 2,000 point
+army could have two Shamans and five Chieftains, rather than
+one Shaman and six Chieftains. However, the army may
+never include more Shamans than the one per 1,000 point
+limit indicated.
+
+[.page=63]
+[#shamans-spells]
+== Shaman’s spells
+
+_Goblin magic is a malignant but powerful dark sorcery that gives power over lesser, evil minded creatures._
+
+[#foul-frenzy]
+=== Foul Frenzy
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The Goblin hordes are driven into a foul frenzy of bloodlust by the intoxicating powers of dark magic._
+
+This spell can be cast on a friendly Goblin infantry or Goblin
+Wolf Rider unit within range regardless of whether the
+Wizard has a line of sight or not. The spell can only be cast at
+a unit that is engaged in combat.
+
+Every stand in the unit, including a character that is fighting
+with the unit, adds +1 to its Attacks value during the first
+round of the following Combat phase.
+
+[#dark-swarm]
+=== Dark Swarm
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A swarm of dreaded bloodsucking bats and nameless dark
+horrors swirls about the foe and feasts upon the wounded._
+
+This spell can be cast on an enemy unit within range
+regardless of whether the Wizard has a line of sight or not.
+The spell can be cast at a target engaged in combat or at a
+target that is not engaged in combat – it makes no difference.
+
+The Dark Swarm is worked out exactly like three ordinary
+shooting attacks. If the target is not engaged in combat, hits
+inflicted by a _Dark Swarm_ are counted towards drive backs
+just like ordinary shooting. If the target is engaged in combat,
+hits inflicted by a _Dark Swarm_ are carried over into the
+Combat phase and count towards the combat result in the first
+round.
+
+[#faster-you-dogs]
+=== Faster You Dogs
+
+[.cost]#5+ to cast# [.points]#Range 60cm#
+
+_The Shaman’s frantic gibbering forces the cowardly Goblin
+ranks forwards against their will._
+
+This spell can be cast upon a friendly Goblin infantry or
+Wolf Rider unit within range regardless of whether the
+Wizard has a line of sight or not. The spell can only be cast at
+a unit that is not engaged in combat.
+
+If the spell is cast upon a unit, it can move immediately just
+as if it had received an order in the Command phase. Note that
+the spell affects only a single unit – it is not a brigade order –
+and any characters with the unit will not move with it.

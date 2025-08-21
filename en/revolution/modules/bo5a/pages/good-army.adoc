@@ -1,0 +1,267 @@
+= The Good Army
+:page-layout: armylist
+:page-role: armylist page=66
+:page-toclevels: 1
+include::revolution:armies:partial$table-attributes.adoc[]
+
+_The Good side features Elves, Dwarves and Men together with their allies, the Eagles and Beorn._
+
+The *Elves* live to the west of
+the Lonely Mountain in the
+great forest of Mirkwood. At
+the heart of their woodland
+realm is a city of caves where
+the Elfking holds count. This
+is where Thorin and the other Dwarves were imprisoned after
+they were captured by the Elves and from where Bilbo
+subsequently rescued them. The Elves are brave, strong warriors
+and excellent, keen-sighted archers. They form the largest single
+contingent in the Battle of Five Armies fighting from the great
+southern spur of the mountain to the west of Dale.
+
+*Elven Cavalry* are Elves
+from the Kingdom of
+Mirkwood that ride
+elegant steeds.
+
+The *Dwarves* live to the east
+of the Lonely Mountain in the
+Iron Hills, an underground
+realm ruled by Dáin – Thorin’s
+cousin. The Dwarves marched
+quickly westwards to the Lonely Mountains when they received
+Thorin’s call for help sent via the ravens. Dwarves are short,
+stout, broad-shouldered, and tremendously resilient folk who
+make stubborn and unyielding warriors. They wear iron armour,
+iron shod boots, iron helms and carry massive two-handed
+mattocks – heavy, transverse-bladed axes. They are the most
+powerful warriors on the Good side and they fight from the
+eastern spur of the Lonely Mountain alongside the Men.
+
+*Dwarf Archers* are more of
+Dáin’s people – Dwarves from
+the Iron Hills armed with
+sturdy bows.
+
+The *Men* live to the sound of
+the Lonely Mountain by the
+shores of Lake Esgaroth in a
+town built upon wooden piles
+sunk into the water and
+consequently known as Laketown. In ages past, their ancestors
+lived in the town of Dale, the ruins of which still lie before the
+gates of the Lonely Mountain. When Smaug attacked and
+destroyed Laketown, it was Bard who shot the Dragon and who
+subsequently led a force of Men to the Lonely Mountain to find
+the long lost treasure. Neither as accurate marksmen as Elves nor
+as powerful combatants as Dwarves, Men are nonetheless brave
+and competent warriors. At the Battle of Five Armies they
+fight alongside the Dwarves upon the eastern spur.
+
+The great *Eagles* are
+intelligent and noble
+creatures. By the time of
+the Battle of Five Armies
+they have already
+encountered Thorin and his
+companions and rescued
+them from Wargs by
+carrying them to their high
+eyries. Their speed and
+incomparable eyesight enables them to track the army of Bolg
+and eventually to come to the rescue of the Good army, toppling
+the Goblins from the mountain crags above the Good forces.
+
+*Beorn* is a chiftain of the
+wilds, but he is also a
+shapeshifter able to transform
+into a huge bear. It is in the
+shape of a monstrous bear that
+he joins the Battle of Five
+Armies in its final stages,
+battering his way through the
+bodyguard of Bolg before slaying the Goblin leader to end the
+battle.
+
+*Gandalf the Grey* is a wizard of
+incalculable age and immeasurable
+wisdom. He takes command at the Battle
+of Five Armies, organising the council of
+war and directing the forces before the
+Goblin assault.
+
+*The Elfking* is Lord of all the Elves of Mirkwood and a just if
+stern ruler.
+
+*Dáin* is the Lord of the Iron Hills – the leader of the Dwarf army
+and cousin to Thorin. Like all Dwarves he is proud, stubborn,
+hates Goblins and isn’t too fond of Elves either.
+
+*Bard* is the leader of the Men of Laketown and slayer of Smaug
+the Dragon. Grim in manner and intolerant of fools he is brave,
+honest, and fair.
+
+[.page=76]
+[#army-selector]
+== The Good army selector
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$good.tsv[]
+|===
+
+[.page=77]
+[#special-rules]
+== Special rules
+
+include::partial$good-special.adoc[]
+
+[[giant-bear,†3]]3. Giant Bear:: The close kinfolk of Beorn have the ability to shape-shift into Giant Bear form. Although Beorn is the by far the most
+mighty of this race we allow the army to include further gigantic Bears to represent either potent shape-shifters or gigantic bears
+that are friends to the Beornings.
++
+Giant Bears cause _terror_ in their enemies.
+
+[.page=62]
+[#wizards-spells]
+== Wizard’s spells
+
+_These spells are used by true wizards such as Gandalf the Grey._
+
+[#fireball]
+=== Fireball
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Wizard hurls a ball of fire straight at his foes._
+
+The Wizard must have a clear line of sight to his target to cast
+this spell. The spell cannot be directed at a unit that is engaged
+in combat.
+
+The _Fireball_ is worked out exactly like three ordinary shooting
+attacks except that all targets count as having no armour –
+armour has no effect against a _Fireball_. Hits inflicted by a
+_Fireball_ will cause drive backs just like ordinary shooting.
+
+[#command]
+=== Command
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Wizard’s steady voice directs troops above the tumult of war._
+
+This spell can be cast on any friendly unit within range
+regardless of whether the Wizard has a line of sight or not. It
+cannot be cast on a unit that is engaged in combat.
+
+Once this spell is cast upon the unit, it can move immediately
+just as if it had received an order in the Command phase. Note
+that the spell affects only a single unit (it is not a brigade
+order) and any characters with the unit will not move with it.
+
+[#blast]
+=== Blast
+
+[.cost]#5+ to cast# [.points]#Range N/A#
+
+_A blast of sorcerous energy strikes the Wizard’s foes._
+
+This spell can only be cast if the Wizard has joined a friendly
+unit that is engaged in combat. The spell can be cast upon any
+one enemy unit that the friendly unit is touching.
+
+The _Blast_ is worked out exactly like three ordinary shooting
+attacks except that all targets count as having no armour –
+armour has no effect against a _Blast_.  Hits inflicted by a _Blast_
+are carried over into the Combat phase and counted towards
+the combat results in the first round.
+
+[#confound]
+=== Confound
+
+[.cost]#6+ to cast# [.points]#Range 60cm#
+
+_By whispering magical words of doubt and dissension
+amongst the target, the Wizard succeeds in enticing the foe
+into squabbling amongst themselves._
+
+This spell can be cast upon any enemy unit within range
+regardless of whether the Wizard can see it or not.
+
+The enemy unit becomes confused as described
+in the xref:rules:confusion.adoc[Confusion rules].
+
+[.page=63]
+[#elven-mages-spells]
+== Elven Mage’s spells
+
+_The Elves are the oldest race of Middle-earth, steeped in magic, incorruptible in spirit and purpose._
+
+[#back-vile-creatures]
+=== Back Vile Creatures
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The foe quails before the might of the Elven host – scattering
+and losing their will to fight._
+
+The Wizard must have a clear line of sight to his target to cast
+this spell. The spell cannot be directed at a unit engaged in
+combat.
+
+The target unit is not harmed as a result, but is driven back
+by 3D6em at the end of the Shooting phase as if it had taken three
+shooting hits from the Elven Mage. If the unit also suffers hits
+from shooting then the Drive Back roll is combined adding
+three dice for the effect of the spell.
+
+[#terrifying-radiance]
+=== Terrifying Radiance
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The enemy are confounded by the terrifying radiance of the
+Elven warriors, their weapons slacken in their grasp and they
+whimper pathetically._
+
+This spell can be cast on a friendly unit within range
+regardless of whether the Wizard has a line of sight or not.
+The spell can only be cast on a unit that is engaged in combat.
+
+If the spell is cast upon a unit, it causes _terror_ for the rest of
+the following Combat phase.
+
+[#shoot]
+=== Shoot!
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_Elven archers redouble their efforts as vigour and
+determination steel their worn limbs._
+
+This spell can be cast upon a unit of Elven archers within
+range regardless of whether the Wizard has a line of sight or
+not. The spell cannot be cast on a unit that is engaged in combat.
+
+The unit can shoot immediately regardless of whether it has
+already shot that turn. In effect, the unit can shoot twice this
+turn.
+
+[#conceal]
+=== Conceal
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_Mystical energies enshroud friends, concealing them amongst
+the shadows._
+
+This spell can be cast upon a unit of Elves within range
+regardless of whether the Wizard has a line or sight or not.
+The spell cannot be cast on a unit that is engaged in combat.
+
+The unit immediately increases its Armour roll by 1 (i.e., if 6+
+it becomes 5+). If the target has no Armour value it now has
+a value of 6+. This lasts for the duration of the enemy’s
+following turn and ends at the start of the Good player’s
+following turn.

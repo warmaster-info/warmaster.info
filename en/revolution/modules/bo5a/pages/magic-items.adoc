@@ -1,0 +1,144 @@
+= Magic items
+:page-role: page=64
+
+Magic items are a reality in Middle-earth. Bilbo’s ring is merely
+the most obvious example whilst the swords Sting, Glamdring
+and Orcrist all have a subtler power. Rather than try to devise
+rules for these famous and named examples, the following items
+are broadly representative of weapons, armour and other devices
+that have magical qualities.
+
+Each character can have one magical item. Every item has an
+associated points value and, if a character takes the item, this is
+added to his own value. Not only does this increase the character’s
+cost, and therefore reduce the points available for troops, but also, if
+the character is slain, it increases his Victory Points value as well
+(see the rules for xref:rules:end-of-the-battle.adoc#victory-points[The End of The Battle]).
+
+No character can carry more than one magical item and no
+characters on the same side can carry the same magical item.
+For example, if Gandalf has an Enchanted Weapon he cannot have
+any other item and no other character in the army can have an
+Enchanted Weapon.
+
+[#heirloom-of-kings]
+== Heirloom of Kings
+
+[.cost]#Cost# [.points]#30 pts#
+
+The character can re-roll a failed command
+once in the battle. If the re-roll is successful,
+the command is issued and the character can continue to issue
+commands in the usual way. If the re-roll fails, the command is
+not issued. If the re-roll fails and scores equal to or more than the
+first roll, the character suffers a -1 Command penalty for the rest
+of the battle as his warriors lose faith in him.
+
+[#staff-of-sorcery]
+== Staff of Sorcery
+
+[.cost]#Cost# [.points]#30 pts#
+
+Only a Wizard can carry a Staff of Sorcery. A
+character that has a Staff of Sorcery can
+attempt to dispel one spell cast by the enemy each turn. Once the
+spell has been cast, but before working out its effect, the Wizard
+can attempt to dispel it. Roll a D6 – a score of 6 indicates the
+spell has been dispelled, otherwise the spell is not dispelled and
+takes effect as normal. However if the player wishes, he can
+count the failed dispel attempt as successful but the Staff of
+Sorcery is then exhausted and cannot be used for the rest of the
+battle. A dispelled spell simply doesn’t work – just as if the caster
+had failed the initial casting roll.
+
+[#sorcerous-weapon]
+== Sorcerous Weapon
+
+[.cost]#Cost# [.points]#20 pts#
+
+The character adds +1 to his Attack bonus.
+This bonus applies for the entire battle. For
+example, if the character has a +2 Attacks bonus he has a +
+3 Attacks bonus if he carries a Sorcerous Weapon.
+
+[#sorcerous-armour]
+== Sorcerous Armour
+
+[.cost]#Cost# [.points]#10 pts#
+
+When the character fights in combat, the unit
+he is with can re-roll one failed Armour roll in
+each round of combat. This applies throughout the battle – the
+unit can re-roll one failed Armour roll each round. If the unit the
+character has joined has no Armour value then the unit takes a
+single roll each round with a value of 6+.
+
+[#staff-of-power]
+== Staff of Power
+
+[.cost]#Cost# [.points]#10 pts#
+
+Only a Wizard can carry a staff of power.
+A character that has a Staff of Power can add
++1 to his dice roll to cast a spell. The bonus can only be used
+once in the game but the player can decide to use the staff
+after the dice has been rolled to cast a spell. For example – the
+player requires a roll of 4+ to cast a spell, he rolls a 3 but uses
+the staff to boost the score to 4 and cast the spell.
+
+[#ring-of-invisibility]
+== Ring of Invisiblity
+
+[.cost]#Cost# [.points]#10 pts#
+
+Many rings were made by the Elves in times
+past and a few still survive to this day – some
+mere trinkets and others dangerous weapons for good or evil.
+
+A character with a Ring of Invisibility can use it to disappear and
+reappear elsewhere, thereby escaping from danger. The ring can
+used at any time, even in the opponent’s turn, but only once
+in any battle. The character can immediately move from
+wherever he is to anywhere else on the battlefield, even out of or
+into combat if he wishes. The character can even move through
+enemy units – invisibility allows him to sneak his way past his
+foes without being spotted.
+
+[#enchanted-weapon]
+== Enchanted Weapon
+
+[.cost]#Cost# [.points]#10 pts#
+
+The first time the character fights in combat
+he adds an extra +1 to his Attack bonus. This
+extra bonus only works in the first Combat phase – so it applies
+for each round of the combat engagement and during any further
+engagements resulting from an advance. For example, a
+character with 2 Attack value will have 3 Attacks throughout the
+first Combat phase of fighting, and 2 Attacks in subsequent turns.
+
+[#mystical-weapon]
+== Mystical Weapon
+
+[.cost]#Cost# [.points]#5 pts#
+
+The first time the character fights in combat,
+he adds an extra +1 to his Attack bonus. This
+extra bonus only works in the first Combat round – it is a single
++1 bonus that applies only once in the entire game. For example,
+a character with 2 Attack value will have 3 Attacks in the first
+round of the first Combat phase, and 2 Attacks in subsequent
+rounds of that Combat phase and in all future turns.
+
+[#enchanted-armour]
+== Enchanted Armour
+
+[.cost]#Cost# [.points]#5 pts#
+
+When the character fights in combat, the
+unit he is with can re-roll one failed Armour
+roll in the first round that a hit is scored. This applies only
+once in the entire game and automatically applies the first
+time such a unit takes a hit. If the unit the character has joined
+has no Armour value then the unit takes a single roll with a
+value of 6+.

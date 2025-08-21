@@ -1,0 +1,356 @@
+= The Battle of Five Armies
+:page-role: page=66
+include::revolution:armies:partial$table-attributes.adoc[]
+
+[.page=66]
+== The Armies
+
+It is true that the Battle of Five Armies features five armies, but
+these fight as two quite separate alliances: the Good side and the
+Evil side. For our purposes, it is therefore reasonable to think of
+two armies. [.hidden-edit]#The following pages provide# all the basic game details and
+special rules for the Good and Evil armies.
+
+[.page=67]
+== The Good army
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$scenario-good.tsv[]
+|===
+
+[.page=67]
+[#special-rules]
+=== Special rules
+
+include::partial$good-special.adoc[]
+
+[[beorn,†3]]3. Beorn:: Beorn causes terror in his enemies.
+
+[[gandalf,†4]]4. Gandalf:: Gandalf is both Wizard and General – he can issue commands to any units on the Good side, and may cast any of the xref:good-army.adoc#wizards-spells[Wizard’s Spells]. Note that his Attacks and
+Command value already include the extra +1 General’s bonus.
+
+[[elfking,†5]]5. The Elfking:: The Elfking is Lord of the Elves. Because of the animosity between the Elfking and Dwarves, the Elfking cannot issue orders
+to a unit of Dwarves, nor can he issue a brigade order to a group of units than includes a unit of Dwarves.
+
+[[dain,†6]]6. Dáin:: Dáin is the Lord of the dwarves of the Iron Hills. Because of the animosity between the Elfking and the Dwarves, Dáin cannot
+issue orders to a unit of Elves, nor can he issue a brigade order to a group that includes Elves.
+
+[[bard,†7]]7. Bard:: Bard is the slayer of Smaug and a famous archer – note that he has a single combat attack and a single shooting bonus attack
+indicated by his Attack values.  He can add this shooting attack to any unit he is with, not just to bowmen.
+
+[[thorin,†8]]8. Thorin:: Thorin is not allowed to give any orders until the wall is broken as described in the <<thorin-and-the-gate,special rules below>>.
+Once the wall is broken he can give orders to any units, even to Elves. However, Thorin can only give orders to a unit
+he is touching – unlike other a characters he has no command range. This makes him a limited commander but a tremendously
+useful fighter as he adds +3 Attacks to a unit he has joined.
+
+[.page=68]
+== The Evil army
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$scenario-evil.tsv[]
+|===
+
+[.page=68]
+[#scenario-evil-special-rules]
+=== Special rules
+
+include::partial$evil-special.adoc[]
+
+[[bolg,†3]]3. Bolg:: Bolg is the army’s General. One unit of Goblins in the army can be nominated as Bolg’s bodyguards – this unit must be
+identified in some way so that it is easily recognised. If Bolg is fighting with his bodyguard then his Attack bonus is doubled
+from +2 to +4.
+
+[[shaman,†4]]4. Shaman:: The shaman may cast any of the xref:evil-army.adoc#shamans-spells[Shaman’s Spells].
+
+****
+Although the total value of the Good side is greater than the Evil side, the Evil side also has the Ambush whilst
+the Eagles and Beorn and not available to the Good player at the onset and may not necessarily arrive until the
+battle is over. In fact, the Evil side has 600 points of troops available whilst the Good side has only 485 points of
+troops deployed at the start, plus the advantage of position.
+****
+
+[.page=69]
+== The Battlefield
+
+The battle takes place in the Valley of Dale that lies between two
+spurs of the Lonely Mountain. The mountain is represented by
+the northern edge of the table and is impassable. This is referred
+to as the ‘mountainous edge’.
+
+The entrance to the Dwarf Halls beneath the mountain lies at the
+point marked Thorin’s gate on the map – use the longer of the
+ruinous Citadel wall sections to represent this.
+
+The two mountain spurs are represent by the Citadel plastic
+hill pieces. Each spur has a low hill slope and an impassable
+rocky cliff. The Good forces deploy on the lower slopes.
+
+Thorin and his companions have blocked the River Running
+where it springs from the mountain creating a deep pool between
+Thorin’s Gate and the eastern spur. This is represented by one of the
+card strips and can be adjusted to size to suit the table width
+by placing the spur section over the card. The pool is impassable.
+
+The course of the River Running is shown on the map. Use the
+card river sections to represent this. The river is impassable
+except at the ford as shown. Note that the ford is 6cm wide and
+can be crossed as open ground. This is the only way to cross the
+river (apart from the Eagles, which can fly across of course).
+
+The ruins of the old town of Dale lie along the southern edge of
+the battlefield along the western river bank. Use the plastic
+Citadel ruin sections to demark the area as shown on the map –
+this counts as xref:rules:movement.adoc#broken-ground[broken ground].
+
+image::battlefield.svg[width=1428,height=1770,role=column-span]
+
+_**A note on map layout:** If your table is not as wide as the dimensions given above, reduce the
+width of the pool to compensate. If your table is too short, reduced the
+South part of the map._
+
+[.page=69]
+== Deployment
+
+All the Elven units must be set up on the Western Spur within the
+Elven deployment zone together with the Elfking and Gandalf.
+The Dwarf units, Men, Dáin and Bard must be set up on the
+Eastern Spur within the Dwarf/Men deployment zone. Thorin
+must be placed behind Thorin’s Gate. All the Good army is
+deployed at the start of the game apart from the Eagles and
+Beorn.
+
+The Evil army enters the game during the first turn – no Evil
+models are placed on the battlefield at the start of the game.
+
+[.page=69]
+=== Evil Cavalry deployment
+
+The Evil side automatically has the first turn in this battle. In the
+first Evil turn, the Evil player must place all Wolf Rider and
+Warg units plus one Goblin Chieftain at the eastern edge of the
+tabletop along the line marked ‘Evil Cavalry’.
+
+Once positioned, any Evil units can be given orders, move,
+shoot, and fight combat that turn as usual.
+
+[.page=69]
+=== Evil Infantry deployment
+
+Following the first turn, evil units are deployed according to the
+roll of a dice. This represents the somewhat uncoordinated
+advance of the huge Evil horde into the valley. From the second
+turn onwards, the player rolls a dice at the start of the Evil side’s
+turn. The player places the number of Goblin units indicated plus
+any one character that he wishes. These are all positioned at the
+edge of the tabletop along the line marked ‘Evil Infantry’.
+
+Once positioned, any Evil units can move, shoot and fight
+combat that turn.
+
+Evil units continue to be placed at the start of each Evil turn until
+all the units have been committed to battle. If there are any
+characters remaining to be deployed once the final unit is placed
+on the table then these must be deployed as well. Note that a dice
+roll greater than the number of remaining units means that all the
+units are placed – it is not necessary to roll an exact number.
+
+[.page=69]
+=== The Evil ambush
+
+Bolg, the Goblin commander, has cunningly sent a small group
+of Goblins to scale the mountainside and drop rocks from the
+heights onto the Good forces below. These ambushing forces are
+not represented by models – instead we use a dice roll to
+determine the effect of the ambush.
+
+The ambush is automatically activated once the entire Goblin
+army has been deployed. This indicates the the ambushers have
+scaled the heights and can start to throw rocks onto Good units
+position on the spurs beneath them. The Evil player resolves
+the ambush as three shooting attacks during the Shooting phase.
+Each turn the Evil player selects one Good unit on each spur –
+any unit that is wholly or partially on a spur can be selected but
+only one unit per spur. Calculate casualties as you would for
+three normal shooting attacks. For purposes of working out drive
+backs, the ambushers are assumed to be at the point on the
+mountain table edge closest to the target unit.
+
+Note that ambushers are positioned above the Good units – so
+their targets do not count as defended but as in the open (i.e. 4+
+to hit).
+
+[.page=69]
+=== Deploying the Eagles & Beorn
+
+Neither the Eagles nor Beorn can attempt to join the battle until all
+the Evil army has been deployed. Once the entire Evil army has
+deployed, the Eagles and Beorn and potentially deployed at the
+start of any Good turn according to the roll of a dice.
+
+At the start of his turn, the Good player rolls a dice.  If the Good
+force has lost any entire units then add +1 to the dice roll for each
+unit lost. On a 6 (or more) either the Eagles or Beorn can be
+placed at any point along the western edge of the table marked
+‘Eagles/Beorn’ on the map. It will therefore take two successful
+scores of a 6 to deploy both units and it is possible that one or
+both fail to arrive before the battle is over. Note that there is no
+need to deploy the Eagles before Beorn – the player can decide
+which to deploy first.
+
+Once positioned, the Eagles/Beorn can be given orders, move,
+shoot and fight combat that turn as usual. Note that Beorn is a
+monster unit and therefore either requires orders or can move on
+initiative if visible enemy are within 20cm – this means it is
+important not to place Beorn too far from the Good characters.
+The Eagles can home back and can therefore move without
+orders if necessary – this is useful for moving them into the thick
+of things.
+
+[.page=70]
+== Special rules
+
+[.page=70]
+=== Thorin and the Gate
+
+Thorin’s Gate is a wall constructed by Thorin and his Dwarves
+in the days before the battle. It completely blocks off the tunnel
+entrance to the halls beneath the Lonely Mountain. This wall is
+completely impenetrable to all stands including characters and
+even flyers (it almost reaches the tunnel’s roof). So long as
+Thorin is behind the wall he cannot move or issue orders. The
+wall has been constructed in such a way that by activating well-placed
+levers the whole wall can be collapsed to allow Thorin to
+escape. The Good player can do this by issuing a single order from
+Thorin – effectively by rolling 8 or less on 2D6 in the
+Command phase. Once the wall is collapsed Thorin can move
+normally and can issue orders to Good units as noted under
+the rules for Thorin.
+
+[.page=70]
+=== Eagles and Ambushers
+
+Once the Eagles have been deployed, the Evil ambush ends
+automatically. It is assumed that other Eagles have peeled away
+from the main formation to dislodge the Goblins from the
+heights. Note that this means that the Evil side always gets one
+turn to drop rocks before the good side makes its first roll to see
+if the Eagles arrive.
+
+[.page=71]
+== Victory
+
+The battle lasts until one side is forced to withdraw. This happens
+once either side has lost half of its units, or if either General is
+slain. Note that the withdraw level for the Good side is set on the
+original eight units – it does not include the Eagles or Beorn; this
+is quite deliberate and makes the game more desperate for the
+Good side.
+
+*Good Side:* Withdraw when four units are destroyed or Gandalf
+is slain.
+
+*Evil Side:* Withdraw when eight units are destroyed or Bolg is
+slain.
+
+Once one side has withdrawn, add up the Victory Points scored
+by each side in the xref:rules:end-of-the-battle.adoc#victory-points[usual way]. The side that scores
+the greatest value wins the battle. Remember, once one side
+withdraws it cannot score greater than its enemy, so the best it
+can do is draw.
+
+Once you’ve played the game a few times, we recommend that
+players play twice before comparing scores – once in charge of
+the Good side and once in charge of the Evil side. This means
+that the players’ combined scores can be used to compare
+performance when commanding both armies.
+
+[.page=71]
+== A note on magic items
+
+Magic items have been taken into account by adjusting the
+Attack values of the various characters compared to the
+standard xref:good-army.adoc[Good] and xref:evil-army.adoc[Evil] army lists. Magic items are not used in the
+Battle of Five Armies scenario as described.  However, once
+players have mastered the battle they might want to try choosing
+from the xref:magic-items.adoc[magic item list]. In this case, reduce Gandalf’s and
+Thorin’s Attack values by 1 each and allow the Good side to have
+up to 50 points of magic items instead.
+
+[.page=71]
+== Tactical notes
+
+This battle can look very desperate for the Good side –
+outnumbered to the front, ambushers behind, and badly needed
+reinforcements always a dice roll away. But don’t despair – the
+Good side are by far the better troops and are backed up by a lot
+of very able characters. Though things may look bleak for
+Gandalf and friends, in fact their position is strong – the Evil side
+will do well to prise their enemies from the slopes and are likely
+to suffer many casualties trying.
+
+[.page=71]
+=== Gandalf
+
+You have to decide if you’re going to hold out on both sides or
+the river of make a dash across the ford and consolidate your
+forces. With Gandalf accompanying the Elves, and the units
+of Dwarves and Men faced by fast-moving enemy cavalry, this is
+far more likely to succeed by moving the Elves to join their
+allies. This will usually prove the best option – but you don’t
+want the enemy to unite his forces against you – the key to
+victory is to keep the enemy divided.
+
+You have lots of good heroes – use some to issue commands and
+some to back-up units in combat. Thorin is spectacular – but
+Dáin and the Elfking can make a significant contribution. Don’t
+risk Gandalf unless you’re sure of winning, as a dead Gandalf
+means game over! Other characters are less vital to you – don’t
+be afraid of throwing them in.
+
+It’s impossible to be sure if the Eagles or Beorn will show up –
+and sometimes that cry of “…the Eagles are coming!” will ring
+a little hollow. Remember you can bring Beorn or the Eagles on
+in any order but it is usually more useful to have the Eagles.
+These are great for mopping up the odd stands of cavalry that
+tend to evade and hide.
+
+[.page=71]
+=== Bolg
+
+You have numbers on your side but your foes are well positioned
+and stubborn. What you do will depend to some extent on how
+the first few turns go. With luck you can move close enough to
+the ford to prevent the enemy uniting against your cavalry – so
+much the better!
+
+The Wolf Riders can do considerable damage by shooting and
+this is much safer than combat – combined with the ambush,
+shooting can drive the enemy off the spurs and potentially
+confuse them.
+
+You only need to destroy four units to win – so pick the softest
+targets and hammer them. That means avoid those stubborn
+Dwarves if possible!
+
+Make full use of your Shaman to move units up early in the battle
+– once combat begins use his _Foul Frenzy_ and _Dark Swarm_ spells
+to improve your chances. Don’t forget Bolg’s Bodyguard, as that
+double Bolg bonus is the biggest bonus in the game and makes
+all the difference.
+
+[.page=72]
+=== And for the new player…
+
+Don’t worry about getting every rule right – it will take a few
+games to learn how things work. The scenario is relatively
+complex – there’s a lot to remember and the tactical constraints
+presented by the terrain and deployment are significant.
+
+One of the most important things to remember for this game is
+that infantry cannot pursue cavalry. This limits the ability of the
+Good side to exploit successful combats against the Wolf Riders
+and Wargs. Don’t forget also that stationary infantry positioned
+uphill of their enemy count as defended and are thus 5+ to hit and
+no charge bonuses count against them – it’s a double whammy.
