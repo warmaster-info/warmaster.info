@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2025-08-30 22:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -190,7 +190,12 @@ msgid "xref:questions-and-answers.adoc[]"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/nav.adoc:30
+#: en/revolution/modules/rules/nav.adoc:31
+msgid "xref:unit-questions-and-answers.adoc[]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/nav.adoc:31
 #: en/revolution/modules/rules/pages/index.adoc:89
 msgid "xref:page-numbers.adoc[]"
 msgstr ""

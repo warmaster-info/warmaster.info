@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-07-10 01:20+0200\n"
+"POT-Creation-Date: 2025-08-30 22:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Content of: <svg><text><tspan>
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2272
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2299
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-10.svg:657
@@ -29,11 +29,12 @@ msgstr ""
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-7.svg:641
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-8.svg:641
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-9.svg:657
+#: en/revolution/modules/rules/images/questions-and-answers/confusion-rolls-drive-backs.svg:20102
 #, no-wrap
 msgid "A"
 msgstr ""
 
-#. type: Content of: <svg><text><tspan>
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2281
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2290
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1124
@@ -41,11 +42,12 @@ msgstr ""
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-3.svg:1176
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-4.svg:1178
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-5.svg:962
+#: en/revolution/modules/rules/images/questions-and-answers/confusion-rolls-drive-backs.svg:20126
 #, no-wrap
 msgid "B"
 msgstr ""
 
-#. type: Content of: <svg><text><tspan>
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-10.svg:665
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1132
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-2.svg:1142
@@ -56,11 +58,12 @@ msgstr ""
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-7.svg:649
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-8.svg:649
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-9.svg:665
+#: en/revolution/modules/rules/images/questions-and-answers/confusion-rolls-drive-backs.svg:20110
 #, no-wrap
 msgid "C"
 msgstr ""
 
-#. type: Content of: <svg><text><tspan>
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-10.svg:673
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-1.svg:1140
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-2.svg:1150
@@ -71,6 +74,7 @@ msgstr ""
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-7.svg:657
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-8.svg:657
 #: en/revolution/modules/rules/images/questions-and-answers/combat-pursuits-9.svg:673
+#: en/revolution/modules/rules/images/questions-and-answers/confusion-rolls-drive-backs.svg:20118
 #, no-wrap
 msgid "D"
 msgstr ""

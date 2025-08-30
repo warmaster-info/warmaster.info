@@ -1,6 +1,6 @@
 = Questions and Answers
 
-This Questions and Answers section can be found in https://drive.google.com/file/d/1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_Warmaster Journal Issue 2024_], via the https://www.wm-revolution.com/articles/download.html[_Warmaster Revolution_ website].  It has some additional questions compared to the https://www.wm-revolution.com/articles/faq.html[2022 FAQ].
+This Questions and Answers section is a compilations of general questions from https://www.wm-revolution.com/articles/wm-journal.html[_Warmaster Journal_] issues https://drive.google.com/file/d/1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_2024_], https://drive.google.com/file/d/1xiKY7KI2OqyHFE8evy-OEqz3LMUgQkt6/view[_2025_] and other sources as noted.
 
 [.qa]
 [.qa]#Small edits within the main rules to incorporate these clarifications are shown like this.#
@@ -49,6 +49,21 @@ specific point on their base which is clear to
 your opponent.
 
 → Rulebook: xref:characters.adoc#odd-size-character-bases[Generals, Wizards & Heroes – Odd size character bases].
+
+[#terrain-size-and-quantity]
+=== How large should terrain features be? How many pieces should be used?
+
+Terrain features like woods, villages, fields and lakes are typically around 15–30cm across.
+
+Tournament organisers usually use 12–15 terrain features on a battlefield:
+
+* 3 woods
+* 3 hills or slopes
+* 3 areas of broken or marshy ground
+* 3 low, linear walls
+* 1–3 other features
+
+→ Rulebook: xref:battlefields.adoc#setting-up-scenery[Battlefields – Setting up scenery].
 
 [#in-the-open]
 === When do stands count as In the Open?
@@ -138,6 +153,26 @@ between them.
 
 → Rulebook: xref:game-values.adoc#the-effect-of-terrain[Game Values – The effect of terrain],
 xref:movement.adoc#terrain[Movement – Terrain].
+
+[#command-questions]
+== Command questions
+
+[#order-enemy]
+=== Can one player’s characters issue orders to enemy units?
+
+No! Each player’s characters can only issue orders to friendly units in that player’s command
+phase.
+
+→ Rulebook: xref:command.adoc#giving-an-order[Command & Initiative – Giving an order].
+
+[#road-command-bonus]
+=== Does the +1 for the next command, for being on a road, carry over to the next turn?
+
+No. Roads provide a +1 Command bonus to the next order received by a unit that turn, provided the
+unit began and ended its ordered movement in column formation on the road, and no stand left the road
+as it moved.
+
+→ Rulebook: xref:movement.adoc#roads[Movement – Types of terrain – Roads and tracks].
 
 [#movement-questions]
 == Movement questions
@@ -295,6 +330,21 @@ the original target enemy, so they must do this.
 image::questions-and-answers/maximise-frontage-original.svg[width=1239,height=851]
 ====
 
+[#enveloping-charge]
+=== Can a unit perform an enveloping charge against the rear of an enemy stand, assuming all the conditions required for an enveloping charge are otherwise met?
+
+Yes.
+
+→ Rulebook: xref:combat.adoc#enveloping-charge[Movement – Enveloping charge]
+
+[#broken-ground]
+=== What units can enter broken or marshy ground?
+
+Infantry and flyers only.  Flyers treat terrain (other than woods) as if they were infantry.
+
+→ Rulebook: xref:movement.adoc#broken-ground[Movement – Types of terrain – Broken or marshy ground],
+xref:flying-units.adoc#terrain[Flying Units – Terrain].
+
 [#home-back-disengage]
 === Can a Flying unit make a Home Back move to disengage from combat?
 
@@ -311,16 +361,8 @@ more than 20cm from *all* friendly characters
 
 → Rulebook: xref:flying-units.adoc#home-back[Flying Units – Home back].
 
-[#combat-questions]
-== Combat questions
-
-[#combat-required]
-=== Does a unit in close combat have to make attacks?
-
-Yes. A stand in close combat must direct
-their attacks against a single enemy unit.
-
-→ Rulebook: xref:combat.adoc#attacks[Combat – Attacks].
+[#shooting-questions]
+== Shooting questions
 
 [#obliged-to-shoot]
 === Are missile armed units obliged to shoot if they are able to do so? Do they have to shoot at enemy units that charge them?
@@ -331,6 +373,49 @@ all stands must do so if they can.
 
 → Rulebook: xref:shooting.adoc#targets[Shooting – Targets],
 xref:shooting.adoc#shooting-at-charging-enemy[Shooting – Shooting at charging enemy].
+
+[#stand-and-shoot-in-combat]
+=== Which stands can shoot if part of a unit is in charged while already in combat?
+
+In the diagram, a unit of cavalry is charging a unit of missile infantry.
+
+image::questions-and-answers/stand-and-shoot-in-combat.svg[width=2458,height=1702,id=f-stand-and-shoot-in-combat]
+
+One stand is already in combat and therefore cannot shoot.  The remaining two stands can stand and shoot – even though one of them would be in a supporting position when combat starts.
+
+→ Rulebook: xref:shooting.adoc#shooting-at-charging-enemy[Shooting – Shooting at charging enemy]
+
+[#confusion-rolls-drive-backs]
+=== How many confusion rolls are made when a unit is driven back through another?
+
+Consider this situation:
+
+* Unit A shoots unit B and drives them back.
+* Unit B is driven back through friendly unit C.
+* Unit C decides to make way backwards, into friendly unit D.
+* Unit D also makes way backwards.
+
+image::questions-and-answers/confusion-rolls-drive-backs.svg[width=2458,height=1702,id=f-confusion-rolls-drive-backs]
+
+* Unit B has to roll for confusion for forcing friends to make way. As it has forced unit C to make
+way, we make one roll.
+* Unit C rolls for confusion for making way for unit B. As it makes way, it forces unit D to make way as
+well.
+* Unit C rolls once for making way, and once more for forcing unit D to make way.
+* Unit D then rolls once for making way.
+
+→ Rulebook: xref:confusion.adoc#when-do-units-become-confused[Confusion – When do units become confused?]
+
+[#combat-questions]
+== Combat questions
+
+[#combat-required]
+=== Does a unit in close combat have to make attacks?
+
+Yes. A stand in close combat must direct
+their attacks against a single enemy unit.
+
+→ Rulebook: xref:combat.adoc#attacks[Combat – Attacks].
 
 [#zero-attacks]
 === Can a stand in combat be reduced to 0 Attacks?
@@ -352,6 +437,50 @@ Also remember that an infantry stand placed into a supporting position means the
 "in combat".
 
 → Rulebook: xref:combat.adoc#support[Combat – Support].
+
+[#sliding-charge]
+=== Can stands slide into position when charging or pursuing?
+
+_Can a Charging or Pursuing unit’s stands make contact with previously unengaged enemy stands by “sliding” alongside them in order to complete a charge or pursuit move?_
+
+Yes, assuming the newly touched enemy stands remain in contact at the end of the move and
+are therefore brought into the engagement, charging or pursuing stands are permitted to contact
+unengaged enemy stands in order to complete their Charge or Pursuit move, by sliding into position.
+
+image::questions-and-answers/sliding-charge-1.jpg[width=466,height=309,id=f-sliding-charge-1]
+
+In this example the Ogres wish to charge the more distant unit of Crossbows.
+
+image::questions-and-answers/sliding-charge-2.jpg[width=466,height=292,id=f-sliding-charge-2]
+
+The charge order is successful and the first stand is moved centre to centre against the closest visible Crossbowmen stand. This means the Ogre stand also contacts the unengaged Crossbowmen unit, and so has to slide to the left to fit centre to centre against the target. Both Crossbowmen units are now in combat, and both can stand and shoot!
+
+image::questions-and-answers/sliding-charge-3.jpg[width=444,height=309,id=f-sliding-charge-3]
+
+The remaining Ogre stands are now placed in a battle line. The third stand also contacts the cannon, and slides into position along the side of one cannon stand. The cannon are now also in combat (and can stand and shoot!).
+
+→ Rulebook: xref:combat.adoc#incidental-contact[Combat – Incidental contact]
+
+[#combat-order]
+=== In what order are combats resolved? The rules don’t specify when casualties should be removed.
+
+First, roll attacks for both sides.
+
+Then record hits inflicted on both sides.
+
+Then establish the winner of the combat round.
+
+Then the loser removes casualties from their units first.
+
+Then the winner removes casualties second.
+
+If the combat is a draw, roll off to see who removes casualties first, then fall back.
+
+If one side won, then once casualties are removed, work out the direction of retreat.
+
+Then the loser retreats, and the winner decides whether to pursue, stand it’s ground, or fall back.
+
+→ Rulebook: xref:combat-at-a-glance.adoc[Combat at a Glance]
 
 [#edge-flanking]
 === The diagram under xref:combat.adoc#pursuit-supporting[Supporting pursuits] shows a victorious unit pursuing a unit that has retreated. The stand on the right of this is now contacting a unit to the front, and along its left edge. Is it being flanked in this example image?
@@ -455,6 +584,32 @@ for example to the rear.
 image::questions-and-answers/combat-pursuits-10.svg[width=1239,height=593,id=combat-pursuits-10]
 ====
 
+[#combat-drop-outs]
+=== Combat drop outs and Advances.
+
+Unit A charges enemy infantry unit B which is alongside enemy infantry unit C.
+
+Unit C offers one stand to support unit B in the combat, so C is engaged.
+
+image::questions-and-answers/combat-dropout-1.jpg[width=582,height=296,id=combat-dropout-1]
+
+Unit A wins combat so units B and C retreat. Due to casualties, unit B is no longer in contact with unit C so there is no support, and unit C has dropped out of combat. Unit A pursues B.
+
+image::questions-and-answers/combat-dropout-2.jpg[width=591,height=379,id=combat-dropout-2]
+
+In the second round, unit A destroys unit B. It can now see unit C.
+
+image::questions-and-answers/combat-dropout-3.jpg[width=599,height=348,id=combat-dropout-3]
+
+_Can Unit A now advance into unit C?_
+
+No. Unit A has not destroyed _all_ enemies in the original combat engagement. Although unit C
+dropped out of combat, it is a friendly unit that got separated due to the removal of stands, and
+therefore counts as being in the same combat engagement until the end of the combat phase.
+Therefore Unit A *cannot advance* into unit C in this scenario.
+
+→ Rulebook: xref:combat.adoc#advance[Combat – Advance].
+
 [#pursue-flyers]
 === Can a non-flying unit pursue flyers when charging into their flank or rear?
 
@@ -462,114 +617,3 @@ Yes, non-flying units can pursue flyers when the charging unit charged a flying 
 works in the same way as cavalry being charged into flank or rear by infantry.
 
 → Rulebook: xref:combat.adoc#which-units-can-pursue[Combat – Which units can pursue?].
-
-[#unit-specific-questions]
-== Unit specific questions
-
-[#trolls-regenerate]
-=== When Trolls regenerate, does each stand heal one wound, or does the unit heal a wound?
-
-The unit recovers one outstanding hit that round, after casualties are removed. Remember hits are recorded
-against units as a whole, rather than individual stands. For example, a unit of Trolls in combat suffers 5
-unsaved hits. This is sufficient to remove one stand of Trolls, and 2 hits are carried over on the unit. At the end
-of the combat round, 1 outstanding hit is regenerated and removed from the unit. This leaves just 1 hit carried
-over into the next round.
-
-Armies book: xref:armies:chaos.adoc#special-rules[Chaos – Special rule 2],
-xref:armies:goblins.adoc#special-rules[Goblins – Special rule 2],
-xref:armies:orcs.adoc#special-rules[Orcs – Special rule 2].
-
-[#pikemen-support]
-=== Can Dogs of War Pikemen be supported by two stands per side, as their long edge base allows two units with conventional basing to be placed in base to base contact?
-
-Yes, provided the supporting Infantry stands can fit all of the side edge of their base adjacent to the
-Pikemen stands side.
-
-Armies book: xref:armies:dogs-of-war.adoc#special-rules[Dogs of War – Special rule 1].
-
-[#flagellants-confusion]
-=== If a unit has a special rule that states not to roll for being driven back from shooting (e.g. Flagellants), is that unit immune to confusion from shooting, or do you still roll to see if they’re confused?
-
-The unit special rules for fanatic style units will state that “They can't be driven back by shooting and do not
-roll for drive backs.” As you don't roll for drive backs you cannot confuse them on a drive back roll of 6. Other
-sources of confusion affect them as normal.
-
-Armies book: xref:armies:empire.adoc#special-rules[Empire – Special rule 2], several others.
-
-[#daemonic-instability]
-=== For the Daemonic Instability table, does a General with a Wizard upgrade count as a wizard?
-Yes.
-
-Armies book: xref:armies:daemons.adoc#army-rules[Daemons – Army rules].
-
-[#los-wizard]
-=== Does a wizard need line of sight to a target a unit with a spell?
-
-Refer to the spell description for the spell. It will state whether the caster requires line of sight or not.
-
-[#spell-straight-line]
-=== Some spells such as the Empire _Ball of Flame_ state that the caster draws a line from themselves to work out the spell's effect. Does this have to be a straight line?
-Yes.
-
-Armies book: xref:armies:empire.adoc#ball-of-flame[Empire – Ball of Flame].
-
-[#raised-dead]
-=== Are there any restrictions on placing Raised Dead units?
-
-Yes. Raised Dead cannot be placed so that
-they split one combat engagement into two or
-more smaller engagements. This can happen
-when Raised Dead are placed behind
-supporting enemy Infantry stands, preventing
-the supporting enemy Infantry from
-supporting their friends in combat and instead
-forcing them to turn to fight the Raised Dead –
-this is not permitted. In addition, Raised Dead
-must be placed so that all stands fight or
-support in the targeted combat engagement.
-Provided this rule is followed, then new enemy
-units may be brought into the targeted combat
-by incidental contact.
-
-Armies book: xref:armies:tomb-kings.adoc#raise-dead[Tomb Kings – Raise Dead],
-xref:armies:vampire-counts.adoc#raise-dead[Vampire Counts – Raise Dead].
-
-[#laagering]
-=== How does laagering and unlaagering of a War Wagon work?
-
-At the beginning of the move, if you have your War Wagon in a column formation and you desire to form a
-laager move any one stand up to 5 cm distance. Then pivot the stand on the spot into desired position and
-then place the remaining stand into the formation alongside it. There is no distance limit for the second stand. If
-a War Wagon starts its move in laager formation it can either move up to 5 cm and remain in laager by simply
-measuring the distance without changing formation, or the Wagon can move up to 20 cm ending its move in
-column formation. In that case simply measure the part of the stand that moves the most to find out the
-maximum distance.
-
-Armies book: xref:armies:kislev.adoc#special-rules[Kislev – Special rules 6].
-
-[#doomwheel]
-=== Should the Skaven Doomwheel gain its bonus D6 attacks when using the xref:combat.adoc#advances[optional rules for advances] when the enemy is destroyed in one round?
-
-No.
-
-Armies book: xref:armies:skaven.adoc#special-rules[Skaven – Special rules 6].
-
-[#eye-of-the-raven]
-=== Can the Norse spell _Eye of the Raven_ be used to reroll an opponent’s D6 dice roll?
-
-No. The spell only affects a single D6 rolled
-by the Norse player.
-
-Armies book: xref:armies:norse.adoc#eye-of-the-raven[Norse – Eye of the Raven].
-
-[#skirmishers-spawn-break-point]
-=== Do Skirmishers count towards the army break point? How about Chaos Spawn? If one does and the other doesn’t, why?
-
-Skirmishers are not separate units so add nothing to break point. Skirmishers are stands that increase the
-size of an existing unit.
-
-A Chaos Spawn *is* a separate unit so does add to the break point. A Spawn is a unit
-that may be brigaded with other units.
-
-Armies book: xref:armies:empire.adoc#special-rules[Empire – Special rule 3] (and others),
-xref:armies:chaos.adoc#special-rules[Chaos – Special rule 5] (and others).

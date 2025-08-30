@@ -1,0 +1,252 @@
+= Unit-specific Questions and Answers
+
+This Questions and Answers section is a compilations of unit-specific questions from https://www.wm-revolution.com/articles/wm-journal.html[_Warmaster Journal_] issues https://drive.google.com/file/d/1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_2024_], https://drive.google.com/file/d/1xiKY7KI2OqyHFE8evy-OEqz3LMUgQkt6/view[_2025_] and other sources as noted.
+
+[#army-selection]
+== Army selection
+
+[#skirmishers-spawn-break-point]
+=== Do Skirmishers count towards the army break point? How about Chaos Spawn? If one does and the other doesn’t, why?
+
+Skirmishers are not separate units so add nothing to break point. Skirmishers are stands that increase the
+size of an existing unit.
+
+A Chaos Spawn *is* a separate unit so does add to the break point. A Spawn is a unit
+that may be brigaded with other units.
+
+→ Armies book: xref:armies:empire.adoc#skirmishers[Empire – Special rule for Skirmishers] (and others),
+xref:armies:chaos.adoc#spawn[Chaos – Special rule for Spawn] (and others).
+
+[#chaos-dwarf-sorcerer-general-lammasu]
+===  Can the Chaos Dwarf General with the Sorcerer upgrade take a Lammasu mount?
+
+→ Armies book: xref:armies:chaos-dwarfs.adoc#lammasu[Chaos Dwarfs – Special rule for Lammasu].
+
+[#command]
+== Command and initiative
+
+[#daemonic-instability]
+=== For the Daemonic Instability table, does a General with a Wizard upgrade count as a wizard?
+Yes.
+
+→ Armies book: xref:armies:daemons.adoc#army-rules[Daemons – Army rules].
+
+[#ogre-humans]
+=== What units count as humans for the Ogre special charge rule?
+
+The Ogre special rule forcing them to charge humans affects the following:
+
+* Empire – all units.
+* Bretonnia – all units.
+* Araby – all units.
+* Witch Hunters – all units.
+* Dogs of War – all units except Ogres, Dwarfs, Giant.
+* Kislev – all units except Bears.
+* Norse – all units except Giant, Mammoth, Valkyries.
+* Cathay – all units except Terracotta Warriors and Maneaters.
+* Nippon – all units except Oni, Komainu, Tengu.
+* Chaos – only Warriors, Marauders, Marauder cavalry, Knights, Chariots.
+* Albion – only Warriors, Slingers, Cavalry, Chariots.
+
+Note that the actual models used to represent the unit type are irrelevant, it is the unit type that
+counts, so for example Samurai Ratmen miniatures are still human Samurai.
+
+→ Armies book: xref:armies:albion.adoc#ogres[Albion – Special rules for Ogres],
+xref:armies:chaos.adoc#ogres[Chaos – Special rules for Ogres],
+xref:armies:dogs-of-war.adoc#ogres[Dogs of War – Special rules for Ogres],
+xref:armies:ogre-kingdoms.adoc#bull-ogres[Ogre Kingdoms – Special rules for Bull Ogres],
+xref:armies:orcs.adoc#ogres[Orcs – Special rules for Ogres].
+
+[#movement]
+== Movement
+
+[#laagering]
+=== How does laagering and unlaagering of a War Wagon work?
+
+At the beginning of the move, if you have your War Wagon in a column formation and you desire to form a
+laager move any one stand up to 5 cm distance. Then pivot the stand on the spot into desired position and
+then place the remaining stand into the formation alongside it. There is no distance limit for the second stand. If
+a War Wagon starts its move in laager formation it can either move up to 5 cm and remain in laager by simply
+measuring the distance without changing formation, or the Wagon can move up to 20 cm ending its move in
+column formation. In that case simply measure the part of the stand that moves the most to find out the
+maximum distance.
+
+→ Armies book: xref:armies:kislev.adoc#war-wagon[Kislev – Special rules for War Wagon].
+
+[#shooting]
+== Shooting
+
+[#flagellants-confusion]
+=== If a unit has a special rule that states not to roll for being driven back from shooting (e.g. Flagellants), is that unit immune to confusion from shooting, or do you still roll to see if they’re confused?
+
+The unit special rules for fanatic style units will state that “They can't be driven back by shooting and do not
+roll for drive backs.” As you don't roll for drive backs you cannot confuse them on a drive back roll of 6. Other
+sources of confusion affect them as normal.
+
+→ Armies book: xref:armies:empire.adoc#flagellants[Empire – Special rule for Flagellants], several others.
+
+[#combat]
+== Combat
+
+[#trolls-regenerate]
+=== When Trolls regenerate, does each stand heal one wound, or does the unit heal a wound?
+
+The unit recovers one outstanding hit that round, after casualties are removed. Remember hits are recorded
+against units as a whole, rather than individual stands. For example, a unit of Trolls in combat suffers 5
+unsaved hits. This is sufficient to remove one stand of Trolls, and 2 hits are carried over on the unit. At the end
+of the combat round, 1 outstanding hit is regenerated and removed from the unit. This leaves just 1 hit carried
+over into the next round.
+
+→ Armies book: xref:armies:chaos.adoc#trolls[Chaos – Special rule for Trolls],
+xref:armies:goblins.adoc#trolls[Goblins – Special rule for Trolls],
+xref:armies:orcs.adoc#trolls[Orcs – Special rule for Trolls].
+
+[#pikemen-support]
+=== Can Dogs of War Pikemen be supported by two stands per side, as their long edge base allows two units with conventional basing to be placed in base to base contact?
+
+Yes, provided the supporting Infantry stands can fit all of the side edge of their base adjacent to the
+Pikemen stands side.
+
+→ Armies book: xref:armies:dogs-of-war.adoc#pikemen[Dogs of War – Special rule for Pikemen].
+
+[#doomwheel]
+=== Should the Skaven Doom Wheel gain its bonus D6 attacks when using the xref:combat.adoc#advance[optional rules for advances] when the enemy is destroyed in one round?
+
+No.
+
+→ Armies book: xref:armies:skaven.adoc#doom-wheel[Skaven – Special rule for Doom Wheel].
+
+=== Does the Banner of Shielding affect the evade-in-any-direction optional rule?
+
+_Can a Cavalry unit with base 6+ save and the Banner of Shielding (thereby conferring 5+ save) use the optional “evade in any direction” rule? Or does having the banner mean they lose that option?_
+
+Banners that provide bonuses to the unit’s statistic profile do not affect other rules. So a cavalry
+unit with a base 6+ save and the Banner of Shielding can still evade in any direction.
+
+Likewise, a Cavalry unit with no save does not gain the optional evade in any direction rule by taking
+the Banner of Shielding.
+
+→ Rulebook: xref:movement.adoc#the-evade[Movement – The evade],
+xref:magic.adoc#banner-of-shielding[Magic – The Banner of Shielding].
+
+[#magic]
+== Magic items and spells
+
+[#los-wizard]
+=== Does a wizard need line of sight to a target a unit with a spell?
+
+Refer to the spell description for the spell. It will state whether the caster requires line of sight or not.
+
+[#spell-straight-line]
+=== Some spells such as the Empire _Ball of Flame_ state that the caster draws a line from themselves to work out the spell's effect. Does this have to be a straight line?
+Yes.
+
+→ Armies book: xref:armies:empire.adoc#ball-of-flame[Empire – Ball of Flame].
+
+[#eye-of-the-raven]
+=== Can the Norse spell _Eye of the Raven_ be used to reroll an opponent’s D6 dice roll?
+
+No. The spell only affects a single D6 rolled
+by the Norse player.
+
+→ Armies book: xref:armies:norse.adoc#eye-of-the-raven[Norse – Eye of the Raven].
+
+[#fenbeast]
+=== Must a Fenbeast that is summoned in to combat be placed with its front edge in contact with the enemy?
+
+Yes. You are not permitted to place the Fenbeast side-on to contact more stands.
+
+→ Armies book: xref:armies:albion.adoc#summon-fenbeast[Albion – Summon Fenbeast].
+
+[#geroff-drive-back]
+=== How does the drive back roll for the Gerroff!!! spell work?
+
+Roll one D6 and multiply the roll by 5 cm, giving a result of either 5, 10, 15, 20, 25 or 30 cm. This
+move is made directly towards the target’s own board edge. Note that rolling a 6 for the Gerroff!!!
+distance does not cause confusion, but if the target is forced to contact other units or terrain, then it
+may be confused as per the standard confusion rules.
+
+→ Armies book: xref:armies:goblins.adoc#gerroff[Goblins – Gerroff!!!],
+xref:armies:orcs.adoc#gerroff[Orcs – Gerroff!!!].
+
+[#slann-wand-of-power]
+=== A Slann using a Wand of Power fails to cast a spell, but doesn't roll a 1, and is entitled to a reroll. Will the +1 from the Wand also apply to the Re-Roll?
+
+Yes.
+
+→ Armies book: xref:armies:lizardmen.adoc#slann-mage[Lizardmen – Special rules for Slann Mage]. +
+→ Rulebook: xref:magic.adoc#wand-of-power[Magic – Wand of Power].
+
+[#anti-magic-dispelling]
+=== Can a Nippon Shugenja or Chaos Dwarf Sorcerer on Lammasu use a Scroll of Dispelling after attempting to anti magic an enemy spell?
+
+Yes.
+
+→ Armies book: xref:armies:chaos-dwarfs.adoc#lammasu[Chaos Dwarfs – Special rules for Lammasu],
+xref:armies:nippon.adoc#shugenja[Nippon – Special rules for Shugenja]. +
+→ Rulebook: xref:magic.adoc#scroll-of-dispelling[Magic – Scroll of Dispelling].
+
+[#spite-of-lowkey]
+=== How does the Norse spell Spite of Low’Key interact with the Dark Elf General’s special rule?
+
+It has no effect, as a Dark Elf character has to roll a double 6 to be affected by the rule, and
+Spite of Low’Key only triggers when the character rolls a double other than a 6.
+
+→ Armies book: xref:armies:norse.adoc#spite-of-lowkey[Norse – Spite of Low’Key],
+xref:armies:dark-elves.adoc#general[Dark Elves – Special rules for Generals].
+
+[#djinn-shooting]
+=== What is the range of the Araby Djinn’s shooting attack?
+
+It has the same range shooting attack as the unit it has joined. If the unit has no shooting
+attack, use 30 cm.
+
+→ Armies book: xref:armies:araby.adoc#djinn[Araby – Special rules for Djinn].
+
+[#tzarina-upgrade]
+=== Can a Kislev General who is upgraded to be a Tzarina, and therefore rides a sled, also take a Bear mount?
+
+No. The Tzarina’s sled prevents her from also riding a Bear.
+
+→ Armies book: xref:armies:kislev.adoc#tzarina[Kislev – Special rules for Tzarina].
+
+[#raised-dead]
+=== Can you explain how to avoid splitting a combat when casting Raise Dead?
+
+Yes. Take this starting combat, where you want to raise a unit of Skeletons. The
+arrows indicate in which direction the red and orange units are fighting and supporting.
+
+image::unit-questions-and-answers/raise-dead-1.jpg[width=1239,height=851]
+
+You are not allowed to raise the unit as shown in <<raise-dead-2>>, as the red and orange units are now
+fighting two separate combats.
+
+.{empty}
+image::unit-questions-and-answers/raise-dead-2.jpg[width=1239,height=851,id=raise-dead-2]
+
+Instead, you can Raise Dead as per <<raise-dead-3>> or <<raise-dead-4>>.
+
+.{empty}
+image::unit-questions-and-answers/raise-dead-3.webp[width=1239,height=851,id=raise-dead-3]
+
+.{empty}
+image::unit-questions-and-answers/raise-dead-4.webp[width=1239,height=851,id=raise-dead-4]
+
+In <<raise-dead-3>>, the rightmost orange unit still supports the red unit, keeping the combat as a single
+combat.
+
+In <<raise-dead-4>>, the flanking stand of Raised Dead touches both red and orange units, linking them into
+one combat.
+
+By placing the Raised Dead in this manner you are avoiding splitting the combat while still blocking
+the retreat of the enemy units. Since each unit must retreat away from the most enemy stands in
+contact, this will mean the red and orange units will retreat in different directions. The retreating units
+will block each other’s escapes, as the rear unit will retreat “down” and the front unit will retreat “up”.
+But both units will find their retreat blocked by a friendly unit that is in combat and the unit that moves
+first will be destroyed as there is no room to retreat!
+
+With the first unit destroyed, the second unit will then have a 2cm space to retreat into… but if they
+need to move further, they will likely contact enemy units and also be destroyed.
+
+→ Armies book: xref:armies:tomb-kings.adoc#raise-dead[Tomb Kings – Raise Dead],
+xref:armies:vampire-counts.adoc#raise-dead[Vampire Counts – Raise Dead].

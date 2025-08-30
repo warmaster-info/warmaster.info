@@ -38,7 +38,8 @@ echo '[po4a_paths] translations/$master.pot $lang:translations/$master.$lang.po'
 echo '[options] opt:"-M utf-8 -A utf-8 -L utf-8 -k 0"' >> ../po4a.conf
 echo '[po4a_alias:asciidoc_wm] asciidoc opt:"-o compat=asciidoctor -o noimagetargets"' >> ../po4a.conf
 echo >> ../po4a.conf
-for i in **/*.adoc; do
+# Exclude bo5a
+for i in */modules/[Rar]*/**/*.adoc; do
     component=$(echo $i | sed s/modules[/]//)
     component=$(dirname $component | tr / _)
     file=$(basename $i .adoc)
@@ -47,7 +48,7 @@ for i in **/*.adoc; do
 done
 echo >> ../po4a.conf
 # Translate SVG images, but combine into one translation component for each chapter.
-for i in **/*.svg; do
+for i in */modules/[Rar]*/**/*.svg; do
     component=$(echo $i | sed s/modules[/]//)
     component=$(dirname $component | tr / _)
     file=$(basename $i .adoc)

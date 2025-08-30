@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2025-08-30 22:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,9 +36,6 @@ msgstr ""
 msgid "Character movement"
 msgstr ""
 
-#. // Significant difference with Bo5A, where the
-#. // charging stand is allowed to wrap around to the
-#. // flank (in the illustrated example)
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:108
 #: en/revolution/modules/rules/pages/combat.adoc:568
@@ -57,6 +54,9 @@ msgstr ""
 #: en/revolution/modules/rules/pages/movement.adoc:530
 #: en/revolution/modules/rules/pages/movement.adoc:698
 #: en/revolution/modules/rules/pages/movement.adoc:759
+#: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
+#: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
+#: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
 #, no-wrap
 msgid "{empty}"
 msgstr ""
@@ -85,7 +85,7 @@ msgstr ""
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:161
 #: en/revolution/modules/rules/pages/movement.adoc:537
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:228
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:263
 #, no-wrap
 msgid "Forming a battle line"
 msgstr ""
@@ -93,7 +93,7 @@ msgstr ""
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:168
 #: en/revolution/modules/rules/pages/movement.adoc:573
-#: en/revolution/modules/rules/pages/questions-and-answers.adoc:260
+#: en/revolution/modules/rules/pages/questions-and-answers.adoc:295
 #, no-wrap
 msgid "Contact with other enemy"
 msgstr ""
@@ -173,6 +173,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/movement.adoc:2
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:98
+#: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:61
 #, no-wrap
 msgid "Movement"
 msgstr ""
