@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-30 22:16+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-09-08 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-values/fr/>\n"
@@ -112,7 +112,7 @@ msgstr "Spécial"
 #: en/revolution/modules/rules/images/movement/unable-to-form-a-battle-line.svg:1184
 #, no-wrap
 msgid "Stands"
-msgstr ""
+msgstr "Socles"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
@@ -123,7 +123,7 @@ msgstr ""
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
 #, no-wrap
 msgid "Characters"
-msgstr ""
+msgstr "Personnages"
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:108
@@ -148,13 +148,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
 #, no-wrap
 msgid "{empty}"
-msgstr ""
+msgstr "{empty}"
 
 #. type: Title =
 #: en/revolution/modules/rules/pages/game-values.adoc:2
 #, no-wrap
 msgid "Game Values"
-msgstr ""
+msgstr "Termes de Jeu"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:8

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-19 20:13+0200\n"
-"PO-Revision-Date: 2025-07-06 12:37+0000\n"
+"PO-Revision-Date: 2025-09-08 11:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_picking-the-army/fr/>\n"
@@ -358,10 +358,9 @@ msgstr ""
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:132
 #: en/revolution/modules/armies/partials/table-attributes.adoc:20
 #: en/revolution/modules/rules/pages/game-values.adoc:251
-#, fuzzy, no-wrap
-#| msgid "Min/Max"
+#, no-wrap
 msgid "Min/max"
-msgstr "Min/Max"
+msgstr "Min/max"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:136
