@@ -7,20 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-09 13:17+0200\n"
-"PO-Revision-Date: 2025-07-01 00:06+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-08 09:04+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
+"revolution_rules_pages_introducing-warmaster/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Title =
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:2
 #, no-wrap
 msgid "Introducing Warmaster"
-msgstr ""
+msgstr "Présentation de Warmaster"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:10
@@ -30,6 +32,11 @@ msgid ""
 "are approximately 10mm high this should not be taken as a literal "
 "representation of scale when it comes to the size of the battlefield."
 msgstr ""
+"Warmaster est un jeu pour simuler des conflits sur une très grande échelle, "
+"livrés sur des champs de bataille de plusieurs kilomètres carrés. Bien que "
+"nos figurines fassent à peu près 10mm, elles ne doivent pas forcément être "
+"prises comme des représentations exactes en ce qui concerne l’échelle du "
+"champ de bataille."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:24
@@ -45,6 +52,15 @@ msgid ""
 "play, although it has a direct bearing on the way the rules have been "
 "formulated."
 msgstr ""
+"La place occupée par les figurines d’un régiment représente en fait les "
+"centaines de guerriers de l’unité ainsi que la logistique inhérente ("
+"munitions, médecins, infirmiers, cuistots, aumôniers, messagers, valets, "
+"etc.). Peu importe que matériellement le nombre de figurines soit de 30 ou "
+"40 (dans le cas d’un régiment d’infanterie), on suppose que la formation est "
+"complète et opérationnelle ! Ce procédé, qui permet de représenter un grand "
+"nombre de guerriers avec un petit nombre de figurines, n’a pas d’influence "
+"sur le cours de la partie, même si cette abstraction de départ a été "
+"constamment présente lors de la création des règles et dans leur formulation."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:39
@@ -60,6 +76,16 @@ msgid ""
 "Warmaster are dependent upon a unit’s deployment and command structure "
 "rather than on the notional speed of an individual warrior."
 msgstr ""
+"De même, lorsque nous considérons la distance parcourue par des troupes, il "
+"est raisonnable de penser à un mouvement moyen de 20 à 30cm, permettant à "
+"une unité d’atteindre une nouvelle position à partir de laquelle elle a la "
+"possibilité de tirer ou de lancer une charge dévastatrice. Lorsque des "
+"troupes chargent un ennemi, il ne faut pas croire qu’elles couvrent toute la "
+"distance en courant à fond de train : elles vont marcher jusqu’à l’endroit à "
+"partir duquel elles pourront lancer la dernière partie de leur manœuvre, la "
+"vraie charge furieuse. C’est pourquoi le mouvement à Warmaster dépend du "
+"type des troupes et de leur structure de commandement, plutôt que des "
+"qualités physiques individuelles des soldats qui les composent."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:51
@@ -73,6 +99,15 @@ msgid ""
 "only making it weaker in combat but also eroding its logistical support, "
 "making it harder for the general to direct as he wishes."
 msgstr ""
+"Les unités de Warmaster représentant des corps de troupes très importants, "
+"les règles du combat privilégient la position des unités plutôt que l’"
+"équipement des guerriers. Une unité dans une position privilégiée, appuyée "
+"par une autre unité combattra plus efficacement, c’est pourquoi, bien "
+"placées, même des troupes faibles peuvent s’avérer utiles. D’un autre côté, "
+"les pertes subies ont des conséquences non seulement sur le potentiel de "
+"combat mais aussi sur la logistique d’une unité. Un général peut donc finir "
+"par avoir du mal à se faire obéir par des unités ayant subi de grosses "
+"pertes."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:64
@@ -87,6 +122,16 @@ msgid ""
 "we are interested in the much broader ability of a missile-armed regiment to "
 "dominate the ground in front of it."
 msgstr ""
+"Une approche comparable a été faite au niveau des portées de tir. Dans le "
+"jeu, un arc peut tirer jusqu’à 30cm, ce qui représente en fait une distance "
+"supérieure à la portée de tir réelle d’un arc. Cette distance n’a donc pas "
+"été fixée en fonction de la portée de l’arc, mais de la zone que peut "
+"couvrir un régiment équipé d’armes de tir. On peut imaginer que le "
+"commandant de l’unité a envoyé quelques détachements de ses troupes en "
+"avant, ou qu’il a positionné ses tireurs pour prendre l’ennemi en tenaille ! "
+"Ainsi, la portée réelle des armes de tir ne nous intéresse pas vraiment : l’"
+"aspect par lequel nous sommes concernés, c’est le potentiel de contrôle sur "
+"le terrain d’une unité équipée d’armes de tir."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:78
@@ -102,12 +147,22 @@ msgid ""
 "commander’s immediate presence can inspire troops to that extra bit of "
 "effort at critical moments!"
 msgstr ""
+"L’aspect le plus important du jeu est lié aux commandants d’armées. "
+"Warmaster est en effet basé sur la capacité des généraux et de leurs "
+"subordonnés à transmettre et à faire respecter les ordres. Dans le jeu, ceci "
+"est symbolisé par des jets de dés, alors que dans la réalité on imagine le "
+"général et ses officiers penchés sur leurs cartes, adaptant leurs plans au "
+"vu des informations recueillies et dépêchant des messagers pour transmettre "
+"leurs nouvelles instructions. L’influence du général est déterminante dans "
+"la mesure où il dirige les troupes : son rôle en tant que combattant n’est "
+"pas très important, mais sa présence peut inspirer ses troupes aux moments "
+"critiques !"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:83
 #, no-wrap
 msgid "The game rules"
-msgstr ""
+msgstr "Les règles du jeu"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:94
@@ -120,12 +175,19 @@ msgid ""
 "looked up as required. The rules are presented with summaries at the "
 "beginning of each section."
 msgstr ""
+"Les pages qui suivent contiennent les règles pour Warmaster. Nous vous "
+"suggérons de les lire attentivement avant de tenter de jouer, sans pour "
+"autant essayer de les apprendre par cœur. Le mieux c’est de se lancer ! Vous "
+"aurez toujours la possibilité de consulter les règles si votre mémoire "
+"venait à vous faire défaut. Après quelques parties vous aurez une bonne "
+"habitude des processus de jeu et seules quelques points très précis devront "
+"être vérifiés. Les règles sont résumées au début de chacune des sections."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:97
 #, no-wrap
 msgid "Dice"
-msgstr ""
+msgstr "Les dés"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:104
@@ -135,6 +197,10 @@ msgid ""
 "‘D6’. So when we instruct you to roll a D6 we are simply asking you to roll "
 "a dice."
 msgstr ""
+"Dans les règles de Warmaster, les dés sont utilisés pour représenter l’"
+"intervention du hasard dans les phases de tir ou de corps à corps. Pour un "
+"souci pratique, nous appellerons les dés à six faces des ‘D6’. Donc quand "
+"les règles indiquent, ‘lancez 1D6’, vous n’avez qu’à simplement jeter un dé."
 
 #.  10 × D6 changed to D6 × 10 to make the difference with 10D6 clearer.
 #. type: Plain text
@@ -145,6 +211,10 @@ msgid ""
 "roll one dice and multiply the score by another number, in which case we "
 "write this as [.edit]#D6 × 10, or D6 × 5# and so on."
 msgstr ""
+"Parfois, vous devrez lancer 2D6 et ajouter les résultats. D’autres fois, il "
+"vous faudra lancer 1D6 et multiplier le résultat par un autre nombre ou "
+"résultat, auquel cas cela sera noté comme suit [.edit]#D6 × 10, or D6 × 5#, ("
+"souvent dans le cas de distances)."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:117
@@ -154,12 +224,17 @@ msgid ""
 "achieved by rolling a normal D6 and halving the score rounding up. So, a D3 "
 "roll of 1–2 = 1, 3–4 = 2, and 5–6 = 3."
 msgstr ""
+"Dans quelques cas, il vous sera demandé de lancer un ‘D3’. Il s’agit "
+"simplement d’obtenir un résultat aléatoire entre 1 et 3, il vous suffit "
+"alors de lancer 1D6, de diviser le résultat de moitié et d’arrondir au "
+"dessus. Donc sur 1D6, le D3 est obtenu comme suit 1 ou 2 =1, 3 ou 4 = 2, et "
+"5 ou 6 =3."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:122
 #, no-wrap
 msgid "Rulers & tape measures"
-msgstr ""
+msgstr "Mesures et distances"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:130
@@ -170,6 +245,11 @@ msgid ""
 "players purchase one or more retractable tape measures for measuring "
 "distances."
 msgstr ""
+"Dans Warmaster, les unités se déplacent à travers le champ de bataille en "
+"mesurant leur mouvement. Lorsque les troupes tirent, il faut bien entendu "
+"vérifier la portée. Toutes les distances sont données en centimètres. Nous "
+"recommandons donc aux joueurs de se munir d’un ou plusieurs mètres "
+"rétractables afin de mesurer les distances."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:135
@@ -178,6 +258,9 @@ msgid ""
 "many cases, this will be necessary in order to determine which target to "
 "shoot or charge."
 msgstr ""
+"Pendant la partie, les joueurs sont autorisés à mesurer les distances quand "
+"ils le veulent. Dans de nombreux cas, cela sera nécessaire pour déterminer "
+"quelle cible est à portée de tir ou de charge."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:140
@@ -186,6 +269,10 @@ msgid ""
 "all the distances given. This gives slightly longer moves and ranges but "
 "makes no practical difference so long as both sides use inches."
 msgstr ""
+"Les joueurs qui préfèrent utiliser les pouces peuvent le faire en divisant "
+"les distances données par deux. Cela donne des mouvements et portées "
+"légèrement plus grandes mais ne fait pratiquement aucune différence à "
+"condition que les deux camps utilisent la même unité de mesure."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:149
@@ -196,6 +283,12 @@ msgid ""
 "rolling them during the heat of battle. Alternatively, some players like to "
 "devise suitable ‘Hit’ markers such as card chits."
 msgstr ""
+"Les joueurs trouveront pratique d'avoir quelques dés de couleurs différentes "
+"comme marqueurs de « Touche ». N'importe quel dé supplémentaire peut servir "
+"à cette fin, mais des dés visuellement distincts sont préférables, car ils "
+"réduisent les risques de les ramasser et de les lancer au cœur de la "
+"bataille. Certains joueurs préfèrent également créer des marqueurs de « "
+"Touche » adaptés, comme des jetons."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:155
@@ -204,12 +297,15 @@ msgid ""
 "spot or remind yourself of a unit’s status – card chits, small coins or "
 "tiddly-winks will do just fine."
 msgstr ""
+"Vous pouvez également trouver utile d'avoir quelques petits jetons pour "
+"marquer temporairement un endroit ou vous rappeler l'état d'une unité : des "
+"pions de jeu ou des petites pièces feront très bien l'affaire."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:159
 #, no-wrap
 msgid "Zone indicator"
-msgstr ""
+msgstr "Gabarit de zone"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:165
@@ -219,12 +315,15 @@ msgid ""
 "described in the rules for xref:movement.adoc#the-charge-move[the charge "
 "move]."
 msgstr ""
+"Un gabarit de zone est un outil pratique qui permet de voir facilement la "
+"zone avant, arrière et des flancs des socles, notamment pour les règles de "
+"xref:movement.adoc#the-charge-move[mouvement de charge]."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:171
 #, no-wrap
 msgid "A plea"
-msgstr ""
+msgstr "Un plaidoyer"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:186
@@ -239,6 +338,16 @@ msgid ""
 "decide – 1, 2, 3 one way, 4, 5, 6 the other. This will resolve the situation "
 "and allow the game to continue in good humour."
 msgstr ""
+"Dans un jeu de bataille sur table, il est impossible d'être absolument "
+"précis dans les mesures. Les socles peuvent être accidentellement déplacés, "
+"le terrain peut se renverser, et mieux vaut ne pas penser à ce qu'il se "
+"passe lorsque le chat décide d'intervenir ! Même si les joueurs sont très "
+"prudents, il est parfois pratiquement impossible de déterminer si une unité "
+"est à portée ou hors de portée, en vue ou hors de vue, etc. Dans ces cas, où "
+"le jugement est difficile, il est souvent plus juste et plus pratique de "
+"laisser l'aléatoire d'un jet de dé décider – 1, 2, 3 oui, 4, 5, 6 non. Cela "
+"résoudra le problème et permettra à la partie de se poursuivre dans la bonne "
+"humeur."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:196
@@ -250,12 +359,19 @@ msgid ""
 "with the battle. You can always check afterwards or come up with a more "
 "considered interpretation ready for the next game."
 msgstr ""
+"Beaucoup de joueurs trouvent que ce type de lancer aléatoire est un "
+"excellent moyen de résoudre les conflits de règles pendant une partie. Si "
+"vous ne savez pas exactement comment interpréter une règle et que vous ne "
+"trouvez pas facilement la réponse dans le manuel, plutôt que de ralentir le "
+"jeu, lancez simplement un dé pour décider et poursuivez la partie. Vous "
+"pourrez toujours vérifier après coup ou élaborer une interprétation plus "
+"réfléchie pour la partie suivante."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:199
 #, no-wrap
 msgid "Get stuck in"
-msgstr ""
+msgstr "Lancez-vous"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/introducing-warmaster.adoc:207
