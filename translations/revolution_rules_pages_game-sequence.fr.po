@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-30 22:16+0200\n"
-"PO-Revision-Date: 2025-07-04 13:48+0000\n"
+"PO-Revision-Date: 2025-10-01 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-sequence/fr/>\n"
@@ -34,25 +34,25 @@ msgstr "Commandement (Cdt)"
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:89
 #, no-wrap
 msgid "Combat"
-msgstr ""
+msgstr "Combat"
 
 #. type: Title =
 #: en/revolution/modules/rules/pages/game-sequence.adoc:1
 #, no-wrap
 msgid "Game Sequence"
-msgstr ""
+msgstr "Séquence de Jeu"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:8
 #, no-wrap
 msgid "a|\n"
-msgstr ""
+msgstr "a|\n"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:9
 #, no-wrap
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:11
@@ -60,13 +60,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-sequence.adoc:92
 #: en/revolution/modules/rules/pages/game-sequence.adoc:114
 msgid "a|"
-msgstr ""
+msgstr "a|"
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/game-sequence.adoc:13
 #, no-wrap
 msgid "Deploy Armies"
-msgstr ""
+msgstr "Déploiement"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:24
@@ -76,18 +76,23 @@ msgid ""
 "with the positions of units indicated or, if players prefer, by placing one "
 "unit at a time, starting with the player whose army has the most units.  | a|"
 msgstr ""
+"Au début de la bataille, les deux joueurs alignent leurs armées à au moins "
+"80 cm l'une de l'autre |Les armées sont déployées secrètement en notant les "
+"positions des unités sur une carte du terrain ou, si les joueurs le "
+"préfèrent, ils peuvent aussi placer une unité chacun leur tour en commençant "
+"par celui qui possède le plus d’unités. | a|"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:25
 #, no-wrap
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:29
 #, no-wrap
 msgid "Commence Battle"
-msgstr ""
+msgstr "La Bataille"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:49
@@ -99,6 +104,13 @@ msgid ""
 "can either set a number of turns to play or fight until one side is forced "
 "to withdraw.  |See xref::end-of-the-battle.adoc[].  | a|"
 msgstr ""
+"Chaque camp joue un tour après l'autre, en commençant par le joueur ayant "
+"obtenu le plus haut résultat sur un D6.  | | | |Un tour est divisé en trois "
+"phases, comme indiqué ci-dessous. Ces dernières sont jouées dans l’ordre "
+"indiqué, de la phase d’Ordres à la phase de Combat. Les joueurs peuvent "
+"fixer une durée de jeu en tours ou s’affronter jusqu’à ce que l’un des deux "
+"soit forcé de battre en retraite.  |Voir xref::end-of-the-battle.adoc[].  | "
+"a|"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:61

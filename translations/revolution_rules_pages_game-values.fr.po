@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-30 22:16+0200\n"
-"PO-Revision-Date: 2025-09-08 11:04+0000\n"
+"PO-Revision-Date: 2025-10-01 16:04+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-values/fr/>\n"
@@ -162,6 +162,8 @@ msgid ""
 "Before progressing to the rules of the game, we will categorise the "
 "different kinds of troops, and assign suitable game values to each."
 msgstr ""
+"Avant de poursuivre les règles du jeu, nous allons catégoriser les "
+"différents types de troupes et définir en terme de jeu chacune d'elles."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:20
@@ -170,6 +172,10 @@ msgid ""
 "is controlled by a single player who plans and executes his army’s moves and "
 "rolls dice as required to determine the results of movement and fighting."
 msgstr ""
+"Une partie de Warmaster se joue entre deux armées de figurines adverses. "
+"Chaque camp est contrôlé par un seul joueur qui planifie et exécute les "
+"mouvements de son armée et lance les dés nécessaires pour déterminer les "
+"résultats des mouvements et des combats."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:35
@@ -181,6 +187,12 @@ msgid ""
 "bases[Odd size character bases] if you have characters mounted on larger "
 "bases.)#"
 msgstr ""
+"Les pièces du jeu sont appelées *socles*. Il existe deux types de socles : "
+"les socles d'unité de 40 mm × 20 mm et les [.edit]#socles de personnage, "
+"souvent ronds et de 25 mm de diamètre# [.ancients]#afin de les distinguer "
+"facilement des socles de troupe.# [.edit]#(Voir xref:characters.adoc#odd-"
+"size-character-bases[Socles de personnage de taille inhabituelle] si vous "
+"avez des personnages sur des socles plus grands.)#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:41
@@ -189,6 +201,9 @@ msgid ""
 "of troops or characters. The actual number of models and their positioning "
 "is a matter of aesthetic choice and is left up to players."
 msgstr ""
+"Les figurines sont montées sur les socles afin de former des groupes "
+"représentatifs de troupes ou de personnages. Le nombre exact de figurines et "
+"leur positionnement relèvent du choix esthétique des joueurs."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:47
@@ -197,12 +212,15 @@ msgid ""
 "direction faced by the models. It is important that the direction faced by "
 "the stand is obvious as in the examples below."
 msgstr ""
+"Tous les socles d'unités ont des bords avant, latéraux et arrière, indiqués "
+"par l'orientation des figurines. Il est important que l'orientation du socle "
+"soit clairement visible, comme dans les exemples ci-dessous."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:50
 #, no-wrap
 msgid "Units"
-msgstr ""
+msgstr "Unités"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:60
@@ -214,6 +232,13 @@ msgid ""
 "touching, either side-by-side, one behind the other, or contacting at a "
 "point. [.ancients]#This is referred to as a *formation*.#"
 msgstr ""
+"L'infanterie, la cavalerie et la plupart des autres types de troupes "
+"combattent en formations de plusieurs socles [.ancients]#appelées *unités*#. "
+"Plusieurs socles forment un régiment d'infanterie, un escadron de cavalerie, "
+"une batterie d'artillerie, etc. Tous les socles d'une même formation sont "
+"toujours disposés de manière à se toucher, soit côte à côte, soit l'un "
+"derrière l'autre, soit en se touchant en un seul point. [.ancients]#On parle "
+"alors de *formation*.#"
 
 #. //Removed WMR:
 #. For convenience, we shall refer to all of these formations as *units*.
@@ -223,6 +248,9 @@ msgid ""
 "Units usually consist of three stands of the same type but this can vary and "
 "sometimes a unit can be just a single stand, as we shall see later."
 msgstr ""
+"Les unités se composent généralement de trois socles du même type, mais cela "
+"peut varier et parfois une unité peut ne comporter qu'un seul socle, comme "
+"nous le verrons plus tard."
 
 #. // Removed WMR (from box)
 #. Troops are arranged into units consisting of a number of
@@ -235,6 +263,9 @@ msgid ""
 "Up to four units can be temporarily placed together to form a *brigade*. "
 "We’ll be covering brigades in much more detail in the rules that follow."
 msgstr ""
+"Jusqu'à quatre unités peuvent être temporairement regroupées pour former une "
+"brigade. Nous aborderons les brigades plus en détail dans les règles "
+"suivantes."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:91
@@ -244,12 +275,16 @@ msgid ""
 "which includes the mighty individual as well as assorted helpmates and "
 "hangers on. These stands are referred to as characters."
 msgstr ""
+"Outre les troupes décrites, les armées comprennent toujours un Général et "
+"peuvent également inclure d'autres Héros et Sorciers. Elles sont constituées "
+"d'un seul socle comprenant le puissant personnage ainsi que divers "
+"compagnons et serviteurs. Ces socles sont appelés personnages."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:95
 #, no-wrap
 msgid "Infantry, cavalry, chariots, monsters, artillery & machines"
-msgstr ""
+msgstr "Infanterie, cavalerie, chars, monstres, artillerie et machines"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:101
@@ -258,6 +293,9 @@ msgid ""
 "artillery and machines – this last category includes various oddball "
 "devices, as we shall discover."
 msgstr ""
+"D’une manière générale, les armées se composent d’infanterie, de cavalerie, "
+"de chars, de monstres, d’artillerie et de machines – cette dernière "
+"catégorie comprend divers engins étranges, comme nous le découvrirons."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:107
@@ -267,13 +305,17 @@ msgid ""
 "or infantry – Ogres are clearly infantry, for instance, although their "
 "appearance is no less monstrous for all that."
 msgstr ""
+"Les règles distinguent ces six types de troupes. Les créatures monstrueuses "
+"de taille petite à moyenne sont généralement classées comme cavalerie ou "
+"infanterie. Les ogres, par exemple, font clairement partie de l'infanterie, "
+"bien que leur apparence n'en soit pas moins monstrueuse."
 
 #.  Moved out of the box.
 #. type: Block title
 #: en/revolution/modules/rules/pages/game-values.adoc:109
 #, no-wrap
 msgid "An Empire infantry unit"
-msgstr ""
+msgstr "Une unité d'infanterie de l'Empire"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:115
@@ -281,12 +323,14 @@ msgid ""
 "Infantry stands are always oriented along the long edge of the base as "
 "demonstrated by the Empire unit shown above."
 msgstr ""
+"Les socles d'infanterie sont toujours orientés dans leur largeur, comme le "
+"montre l'unité Empire illustrée ci-dessus."
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/game-values.adoc:116
 #, no-wrap
 msgid "An Empire cavalry unit"
-msgstr ""
+msgstr "Une unité de cavalerie de l'Empire"
 
 #.  Replace with a monster or artillery
 #.  image::game-values/cavalry-2.webp[width=979,height=775]
@@ -298,12 +342,16 @@ msgid ""
 "of the base as demonstrated by the units shown to the right. Any exceptions "
 "are indicated in the Army Lists section."
 msgstr ""
+"En règle générale, toutes les autres troupes, y compris les monstres et "
+"l'artillerie, ainsi que les chars, la cavalerie et les machines, sont "
+"orientées dans leur longueur, comme le montrent les unités illustrées à "
+"droite. Les exceptions sont indiquées dans la section « Listes d'armées »."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:131
 #, no-wrap
 msgid "Attacks, hits & armour values"
-msgstr ""
+msgstr "Attaques, points de vie et armure"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:139
@@ -314,6 +362,11 @@ msgid ""
 "found in the game, we assign three values to [.edit]#each stand#. These are "
 "*Attacks*, *Hits* and *Armour*."
 msgstr ""
+"Certaines troupes sont de meilleurs combattants que d'autres, certaines sont "
+"mieux entraînées, d'autres sont naturellement plus violentes, etc. Afin de "
+"représenter ces différentes qualités chez les guerriers, monstres et "
+"créatures étranges du jeu, nous attribuons trois valeurs à [.edit]#chaque "
+"socle# : *Attaques*, *Points de Vie* et *Armure*."
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-values.adoc:178
@@ -354,12 +407,51 @@ msgid ""
 "that the stand has\n"
 "no armour.\n"
 msgstr ""
+"|Attaques |Points de Vie |Armure\n"
+"\n"
+"|3       |3    |6+\n"
+"\n"
+"|↙       |↓    | ↘\n"
+"\n"
+"<|Il s’agit du\n"
+"nombre de\n"
+"base de dés\n"
+"lancés au\n"
+"combat : plus\n"
+"il lance de dés,\n"
+"plus un socle\n"
+"est capable de\n"
+"causer des\n"
+"dégâts.\n"
+"^|C’est le\n"
+"nombre de\n"
+"dégâts qu’un\n"
+"socle peut\n"
+"encaisser avant\n"
+"d’être retiré du\n"
+"jeu.\n"
+">|L’armure du socle\n"
+"représente la\n"
+"chance d’annuler\n"
+"les dégâts qui lui\n"
+"sont infligés. Une\n"
+"Armure de 6+\n"
+"indique qu’un\n"
+"résultat de 6 est\n"
+"requis pour annuler\n"
+"un dégât, un 5+\n"
+"qu’un 5 ou un 6 est\n"
+"requis et ainsi de\n"
+"suite. Une valeur de\n"
+"0 signifie qu’un\n"
+"socle ne possède\n"
+"aucune armure.\n"
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/game-values.adoc:182
 #, no-wrap
 msgid "Shooting attacks"
-msgstr ""
+msgstr "Attaques de tir"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:189
@@ -369,12 +461,16 @@ msgid ""
 "first number is always that used in hand-to-hand combat and the second value "
 "is that used for shooting."
 msgstr ""
+"Les troupes disposant d’arcs ou d’autres armes de tir possèdent deux valeurs "
+"d’Attaques séparées par une barre, par exemple 3/1 ou 2/2. Dans ce cas, le "
+"premier nombre est toujours utilisé pour le corps à corps et le second pour "
+"le tir."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:195
 #, no-wrap
 msgid "Command values"
-msgstr ""
+msgstr "Commandement"
 
 #.  Removed: your General and other important
 #. type: Plain text
@@ -387,12 +483,18 @@ msgid ""
 "able to order your troops to do what you want them to.# More about command "
 "in due course."
 msgstr ""
+"Le Commandement est une autre caractéristique essentielle ! Seuls certains "
+"personnages importants et votre Général en sont dotés pour pouvoir donner "
+"des ordres. Il varie de 7 à 10, mais seuls les meilleurs atteignent le "
+"niveau le plus élevé.   [.bo5a]#Plus la valeur est élevée, plus vous avez de "
+"chances de pouvoir ordonner à vos troupes d'agir comme vous le souhaitez.# "
+"Nous reparlerons du Commandement plus tard."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:212
 #, no-wrap
 msgid "Points values"
-msgstr ""
+msgstr "Valeur en points"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:222
@@ -403,12 +505,18 @@ msgid ""
 "points value of each side’s casualties determines who wins.  "
 "[.edit]#Otherwise,# points values don’t really affect the rules of play."
 msgstr ""
+"Chaque unité et personnage du jeu se voit attribuer une valeur en points qui "
+"reflète sa valeur dans le jeu ; les unités et personnages les plus efficaces "
+"ont une valeur proportionnellement plus élevée. Une fois la bataille "
+"terminée, le total en points des pertes de chaque camp détermine la "
+"victoire. [.edit]#Autrement,# la valeur des points n'a pas vraiment d'impact "
+"sur les règles du jeu."
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/game-values.adoc:224
 #, no-wrap
 msgid "Stat line"
-msgstr ""
+msgstr "Ligne de caractéristiques"
 
 #. type: delimited block * 4
 #: en/revolution/modules/rules/pages/game-values.adoc:227
@@ -416,6 +524,9 @@ msgid ""
 "A unit’s game values can be conveniently expressed as a single line of "
 "statistics or ‘stat line’ as shown below."
 msgstr ""
+"Les caractéristiques d’une unité peuvent être facilement données sous la "
+"forme d’une seule ligne ou « ligne de caractéristiques », comme indiqué ci-"
+"dessous."
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-values.adoc:235
@@ -425,39 +536,46 @@ msgid ""
 "\n"
 "|Cavalry |4 |3 |5+ |– |3 |110 |–/– |–\n"
 msgstr ""
+"|Type |Attaque |PV |Armure |Commandement |Taille de l'unité |Points |Min/max "
+"| Spécial\n"
+"\n"
+"|Cavalerie |4 |3 |5+ |– |3 |110 |–/– |–\n"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:238
+#, fuzzy
 msgid ""
 "[.edit]#The types are Infantry, Cavalry, Chariot, Monster, Artillery, "
 "Machine, General, Hero, Wizard.#"
 msgstr ""
+"[.edit]#Les types sont Infanterie, Cavalerie, Char, Monstre, Artillerie, "
+"Machine, Général, Héros, Sorcier.#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:244
 msgid "The dice score required to negate a hit inflicted on the unit."
-msgstr ""
+msgstr "Le score au dé requis pour annuler un coup infligé à l'unité."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:246
 msgid "The command value of a General, Hero or Wizard."
-msgstr ""
+msgstr "La valeur de commandement d'un Général, d'un Héros ou d'un Sorcier."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:248
 msgid "The number of stands in the unit – this is usually 3."
-msgstr ""
+msgstr "Le nombre de socles dans l'unité – il est généralement de 3."
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/game-values.adoc:249
 #, no-wrap
 msgid "Points"
-msgstr ""
+msgstr "Points"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:250
 msgid "The points value of a unit of that type."
-msgstr ""
+msgstr "La valeur en points d'une unité de ce type."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:252
@@ -466,18 +584,21 @@ msgid ""
 "be chosen for the army – see the xref:revolution:armies:index.adoc[Army "
 "Lists]."
 msgstr ""
+"Ces valeurs sont utilisées pour délimiter le nombre d'unités et de "
+"personnages qui peuvent être choisis pour l'armée – voir "
+"xref:revolution:armies:index.adoc[Listes d'Armée]."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:254
 msgid "[.bo5a]#This column indicates if any special rules apply.#"
-msgstr ""
+msgstr "[.bo5a]#Cette colonne indique si des règles spéciales s'appliquent.#"
 
 #
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:270
 #, no-wrap
 msgid "Anything else to learn?"
-msgstr ""
+msgstr "Rien d'autre à savoir ?"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:278
@@ -488,12 +609,18 @@ msgid ""
 "Later you’ll see that this is what makes each army a different and "
 "challenging force to command."
 msgstr ""
+"La plupart des armées disposent de troupes particulières d’un type ou d’un "
+"autre, souvent dotées de règles spéciales pour refléter leurs capacités "
+"magiques ou extraordinaires. Vous n’avez pas besoin de les connaître pour le "
+"moment, alors ne vous en souciez pas. Plus tard, vous découvrirez que c’est "
+"ce qui différencie chaque armée et ce qui la rend intéressante et "
+"gratifiante à commander."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:282
 #, no-wrap
 msgid "Visibility on the battlefield"
-msgstr ""
+msgstr "Visibilité sur le champ de bataille"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:289
@@ -503,6 +630,10 @@ msgid ""
 "troops can see their enemy and if they can react to them in an effective and "
 "cohesive way."
 msgstr ""
+"Pendant la partie, les joueurs voudront que leurs unités tirent sur les "
+"ennemis, les chargent ou les esquivent. Dans ces cas, comme dans bien "
+"d'autres, il est important de savoir si les troupes peuvent voir l'ennemi et "
+"réagir efficacement et de manière cohérente."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:304
@@ -519,12 +650,25 @@ msgid ""
 "that the whole unit, including its commanders, is positioned to observe and "
 "react cohesively to the presence of the enemy."
 msgstr ""
+"[.ancients]#Ce concept est à la base de nombreux aspects des règles du jeu ; "
+"nous allons donc l'expliquer ici avant toute autre chose.# En tant que "
+"joueurs, nous pouvons facilement voir tout ce qui se passe sur le champ de "
+"bataille. Pour nos armées, la situation est bien différente. Il y a non "
+"seulement la question de la distance, mais aussi les subtiles élévations et "
+"creux du terrain, l'éblouissement du soleil de midi, la brume du petit "
+"matin, la lumière déclinante du crépuscule, la poussière soulevée par les "
+"armées rivales, etc. De ce fait, lorsque nous parlons d'unités qui voient "
+"d'autres unités, ou d'unités visibles, nous utilisons ces termes dans un "
+"sens spécifique. Lorsqu'on dit qu'une unité peut en « voir » une autre, on "
+"ne parle pas d'un ou deux guerriers qui peuvent théoriquement voir ; on veut "
+"dire que l'unité entière, y compris ses commandants, est positionnée pour "
+"observer et réagir de manière cohérente à la présence de l'ennemi."
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/game-values.adoc:308
 #, no-wrap
 msgid "Line of sight"
-msgstr ""
+msgstr "Ligne de vue"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:347
@@ -537,6 +681,14 @@ msgid ""
 "case. The best way of doing this is to run a straight edge, for example a "
 "measuring rule, between the observer and observed."
 msgstr ""
+"Une unité peut en voir une autre s'il est possible de tracer une ligne de "
+"vue droite et ininterrompue entre le *bord avant* de l'un des socles de "
+"l'unité et une partie quelconque d'un socle de l'autre unité (voir <<line-of-"
+"sight-target>>). Ce sont toujours les socles eux-mêmes qui sont pris en "
+"compte pour tracer la ligne de vue, et non les figurines, dont la hauteur "
+"est susceptible de varier de toute façon. La meilleure façon d'y parvenir "
+"est de placer une règle, par exemple une règle de mesure, entre "
+"l'observateur et l'observé."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:355
@@ -545,6 +697,9 @@ msgid ""
 "either side. These are said to ‘block’ the line of sight (see <<line-of-"
 "sight-blocked>>)."
 msgstr ""
+"Il est interdit de tracer une ligne de vue par dessus des socles d'autres "
+"unités, quelque soit leur camp. Cela est considéré comme « bloquant » la "
+"ligne de vue (voir <<line-of-sight-blocked>>)."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:364
@@ -553,6 +708,10 @@ msgid ""
 "individuals so it is assumed units see through them as if they were not "
 "there.  [.bo5a]#See xref:characters.adoc[Generals, Heroes & Wizards].#"
 msgstr ""
+"Les personnages ne bloquent jamais les lignes de vue. Ils ne représentent "
+"que quelques individus ; on suppose donc que les unités voient à travers eux "
+"comme s'ils n'étaient pas là. [.bo5a]#Voir xref:characters.adoc"
+"[Généraux, Héros et Sorciers].#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:372
@@ -563,12 +722,18 @@ msgid ""
 "armed troops that fight in a very loosely organised style,# for example, "
 "Wolf Riders in the Orc army."
 msgstr ""
+"Certaines unités peuvent voir tout autour d'elles – elles ont une vision à "
+"360 degrés [.edit]#comme indiqué dans <<line-of-sight-360>># – et vous "
+"trouverez cela indiqué dans la description de l'unité. [.bo5a]#Ce sont "
+"invariablement soit des unités volantes, soit des troupes légèrement armées "
+"qui combattent dans un style très peu organisé,# par exemple, les "
+"Chevaucheurs de Loups dans l'armée Orque."
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/game-values.adoc:379
 #, no-wrap
 msgid "The effect of terrain"
-msgstr ""
+msgstr "Effet du terrain"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:390
@@ -581,6 +746,14 @@ msgid ""
 "walls (see <<line-of-sight-terrain>>).  The section on "
 "xref:movement.adoc#terrain[Terrain] explains the rules governing this."
 msgstr ""
+"Certains terrains (comme les ruines, les collines et les bois) bloquent la "
+"ligne de vue, comme décrit dans les règles de Mouvement. En principe, la "
+"ligne de vue est bloquée lorsqu'elle traverse un élément de terrain, quel "
+"qu'il soit, mais il existe des exceptions appropriées et généralement "
+"évidentes. Par exemple, il est toujours considéré comme possible de voir par-"
+"dessus des éléments linéaires bas comme les haies et les murets (voir « line-"
+"of-sight-terrain »). La section sur les xref:movement.adoc#terrain[Terrains] "
+"en explique les règles."
 
 #. type: delimited block = 4
 #: en/revolution/modules/rules/pages/game-values.adoc:398
@@ -588,3 +761,5 @@ msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#line-of-sight-"
 "questions[section on Line of Sight] with further examples."
 msgstr ""
+"Les Questions&Réponses contiennent une xref:questions-and-answers.adoc#line-"
+"of-sight-questions[section sur les Lignes de Vue] avec d'autres exemples."
