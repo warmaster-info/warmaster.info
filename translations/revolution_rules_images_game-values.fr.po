@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-10-15 13:10+0000\n"
+"PO-Revision-Date: 2025-10-15 15:10+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_images_game-values/fr/>\n"
@@ -40,9 +40,7 @@ msgstr "Cavaliers du Désert."
 #: en/revolution/modules/rules/images/game-values/line-of-sight-blocked.svg:719
 #, no-wrap
 msgid "Line of sight to target"
-msgstr ""
-"La ligne de vue vers\n"
-"la cible est bloquée"
+msgstr "La ligne de vue est bloquée"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-blocked.svg:722

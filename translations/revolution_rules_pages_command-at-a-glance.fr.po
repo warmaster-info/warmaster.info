@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-12 18:47+0200\n"
-"PO-Revision-Date: 2025-10-15 13:10+0000\n"
+"PO-Revision-Date: 2025-10-15 15:10+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_command-at-a-glance/fr/>\n"
@@ -66,7 +66,7 @@ msgstr "Ordres des Brigades"
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:1
 #, no-wrap
 msgid "[.edit]#Command & Initiative at a Glance#"
-msgstr "[.edit]#La Phase d'Ordres & d'Initiative en bref#"
+msgstr "[.edit]#Ordres & d'Initiative en bref#"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:6
@@ -126,11 +126,10 @@ msgstr "[.bo5a]#Une unité peut se déplacer une fois par ordre donné.#"
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:41
 msgid "A unit can be given up to three orders by the same [.edit]#character#."
 msgstr ""
-"Une unité peut recevoir jusqu'à trois ordres du même[.edit]#personnage#."
+"Une unité peut recevoir jusqu'à trois ordres du même [.edit]#personnage#."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:42
-#, fuzzy
 msgid "[.bo5a]#A unit cannot be given orders by different characters.#"
 msgstr ""
 "[.bo5a]#Une unité ne peut pas recevoir d'ordres de différents personnages.#"
@@ -169,7 +168,7 @@ msgid ""
 "issued by that character."
 msgstr ""
 "Si le jet est raté, l’ordre n’est pas donné et ce personnage ne peut plus "
-"donner aucun ordre."
+"donner aucun autre ordre."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:50
@@ -256,7 +255,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:88
-#, fuzzy
 msgid ""
 "Characters move once [.edit]#in the Characters sub-phase# and can move up to "
 "60cm."
@@ -266,7 +264,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:89
-#, fuzzy
 msgid "Characters do not need an order to move."
 msgstr "Les personnages n'ont pas besoin d'ordre pour se déplacer."
 

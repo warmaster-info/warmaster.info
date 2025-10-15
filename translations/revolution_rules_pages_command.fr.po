@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-12 18:47+0200\n"
-"PO-Revision-Date: 2025-10-15 13:10+0000\n"
+"PO-Revision-Date: 2025-10-15 15:10+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_command/fr/>\n"
@@ -70,6 +70,12 @@ msgid ""
 "[.bo5a]#Characters do move automatically and do so after all unit movement "
 "is complete.#"
 msgstr ""
+"Les unités [.bo5a]#et les personnages# sont majoritairement déplacées lors "
+"de la phase d’Ordres. Une unité a généralement besoin d'ordres avant de se "
+"déplacer, mais si l'ennemi est très proche, elle peut réagir directement à "
+"sa présence. Sinon, tant qu’une unité ne reçoit pas d’ordre, elle reste là "
+"où elle est et attend des instructions. [.bo5a]#Les personnages peuvent se "
+"déplacer une fois tous les mouvements des unités terminés.#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:15
@@ -78,50 +84,54 @@ msgid ""
 "Of these, the Home Back sub-phase only applies to flying units and so is not "
 "considered further in this section, see xref:flying-units.adoc[]#."
 msgstr ""
+"La phase d'Ordres se déroule suivant la liste [.bo5a]# de sous-phases "
+"suivante. Parmi celles-ci, la sous-phase Revenir s'applique uniquement aux "
+"unités volantes et n'est donc pas abordée en détail dans cette section. Voir "
+"xref:flying-units.adoc[]#."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:17
 #, no-wrap
 msgid "*<<initiative-movement>>*\n"
-msgstr ""
+msgstr "*<<initiative-movement>>*\n"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:19
 msgid "Any units moving by initiative do so."
-msgstr ""
+msgstr "Les unités font leur mouvement par initiative."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:20
 #, no-wrap
 msgid "*[.bo5a]#xref:flying-units.adoc#home-back[Home Back]#*\n"
-msgstr ""
+msgstr "*[.bo5a]#xref:flying-units.adoc#reviennent[Revenir]#*\n"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:22
 msgid "[.bo5a]#Flying units home back.#"
-msgstr ""
+msgstr "[.bo5a]#Les unités volantes reviennent.#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:23
 #, no-wrap
 msgid "*<<orders>>*\n"
-msgstr ""
+msgstr "*<<orders>>*\n"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:25
 msgid "Orders are given to other units to move."
-msgstr ""
+msgstr "Les ordres sont donnés aux unités à déplacer."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:26
 #, no-wrap
 msgid "*[.bo5a]#<<character-movement>>#*\n"
-msgstr ""
+msgstr "*[.bo5a]#<<character-movement>>#*\n"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:28
 msgid "[.bo5a]#Characters are moved.#"
-msgstr ""
+msgstr "[.bo5a]#Les personnages sont déplacés.#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:42
@@ -130,6 +140,10 @@ msgid ""
 "a unit moves by initiative in the Initiative sub-phase, it *cannot* be given "
 "orders in the Orders sub-phase."
 msgstr ""
+"Une unité ne peut pas se déplacer par initiative *et* par ordre au cours du "
+"même tour. Si une unité se déplace par initiative lors de la sous-phase "
+"d'Initiative, elle *ne peut pas* recevoir d'ordres lors de la sous-phase "
+"d'Ordres."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:48
@@ -138,6 +152,10 @@ msgid ""
 "issued. Once a character has issued an order, the Orders sub-phase has begun "
 "and no further units can move by initiative."
 msgstr ""
+"Notez que toutes les unités se déplaçant par initiative doivent être "
+"déplacées avant que le moindre ordre ait été donné. Une fois qu'un "
+"personnage a donné un ordre, la sous-phase des Ordres commence et aucune "
+"unité ne peut plus se déplacer par initiative."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:52
@@ -145,12 +163,14 @@ msgid ""
 "The distances moved by each type of unit vary, and are given in the Movement "
 "section."
 msgstr ""
+"Les distances parcourues par chaque type d'unité varient et sont indiquées "
+"dans la section Mouvement."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command.adoc:56
 #, no-wrap
 msgid "Initiative movement"
-msgstr "Mouvement par Initiative"
+msgstr "Mouvement par initiative"
 
 #. // Warmaster Original text from Command chapter:
 #. Before we concern ourselves further with initiative
@@ -167,6 +187,11 @@ msgid ""
 "is close, a regiment’s training and natural instincts pretty much determine "
 "what happens next, regardless of what the General might prefer."
 msgstr ""
+"La règle d'Initiative représente la capacité du commandant d'une unité à "
+"mener ses troupes à l'attaque ou à les éloigner du danger. Une fois l'ennemi "
+"proche, l'entraînement et l'instinct du régiment déterminent en grande "
+"partie la suite des événements, quelles que soient les préférences du "
+"général."
 
 #
 #
