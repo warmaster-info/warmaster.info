@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2025-07-09 23:41+0000\n"
-"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
+"PO-Revision-Date: 2025-10-15 11:10+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_images_game-values/fr/>\n"
 "Language: fr\n"
@@ -28,88 +28,88 @@ msgstr "Certaines troupes peuvent"
 #: en/revolution/modules/rules/images/game-values/line-of-sight-360.svg:969
 #, no-wrap
 msgid "all around, like these"
-msgstr "void tout autour, comme ces"
+msgstr "voir tout autour, comme ces"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-360.svg:972
 #, no-wrap
 msgid "Desert Riders."
-msgstr "Cavaliers Noirs."
+msgstr "Cavaliers du Désert."
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-blocked.svg:719
 #, no-wrap
 msgid "Line of sight to target"
-msgstr ""
+msgstr "La ligne de vue vers la cible"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-blocked.svg:722
 #, no-wrap
 msgid "blocked by friends"
-msgstr ""
+msgstr "est bloquée par les unités alliées"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-target.svg:774
 #, no-wrap
 msgid "Target in sight"
-msgstr ""
+msgstr "Cible en vue"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-target.svg:782
 #, no-wrap
 msgid "Target out of "
-msgstr ""
+msgstr "Cible hors de "
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-target.svg:785
 #, no-wrap
 msgid "sight (behind"
-msgstr ""
+msgstr "vue (derrière"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-target.svg:788
 #, no-wrap
 msgid "observer’s front)"
-msgstr ""
+msgstr "le bord avant de l'observateur)"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1506
 #, no-wrap
 msgid "The hedge on the"
-msgstr ""
+msgstr "La haie sur la"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1509
 #, no-wrap
 msgid "left does not block"
-msgstr ""
+msgstr "gauche ne bloque pas"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1512
 #, no-wrap
 msgid "line of sight."
-msgstr ""
+msgstr "la ligne de vue."
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1515
 #, no-wrap
 msgid "However, the other"
-msgstr ""
+msgstr "Cependant, l'autre"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1518
 #, no-wrap
 msgid "unit is hidden due"
-msgstr ""
+msgstr "unité est cachée car"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1521
 #, no-wrap
 msgid "to being behind"
-msgstr ""
+msgstr "elle est derrière"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/game-values/line-of-sight-terrain.svg:1524
 #, no-wrap
 msgid "the hill in the centre."
-msgstr ""
+msgstr "la colline au centre."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-30 22:16+0200\n"
-"PO-Revision-Date: 2025-10-01 16:04+0000\n"
+"PO-Revision-Date: 2025-10-15 11:10+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-values/fr/>\n"
@@ -543,7 +543,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:238
-#, fuzzy
 msgid ""
 "[.edit]#The types are Infantry, Cavalry, Chariot, Monster, Artillery, "
 "Machine, General, Hero, Wizard.#"

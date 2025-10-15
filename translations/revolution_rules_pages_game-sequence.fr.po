@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-08-30 22:16+0200\n"
-"PO-Revision-Date: 2025-10-01 16:04+0000\n"
+"PO-Revision-Date: 2025-10-15 11:10+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-sequence/fr/>\n"
@@ -120,6 +120,10 @@ msgid ""
 "on their initiative or in response to orders as they receive them.  |See "
 "xref::command.adoc[].  | a|"
 msgstr ""
+"[.bo5a]#Les troupes sont déplacées# |Le joueur dont c'est le tour [.bo5a]#"
+"peut déplacer ses forces lors de la# Phase de Commandement. Les [.bo5a]"
+"#Unités# peuvent se déplacer soit de leur propre initiative, soit en réponse "
+"aux ordres qu'elles reçoivent. |Voir xref::command.adoc[]. | a|"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:63
@@ -139,12 +143,16 @@ msgid ""
 "will be out of range of the enemy, so there will be no shooting that turn.  |"
 "See xref::shooting.adoc[].  | a|"
 msgstr ""
+"Les troupes utilisent leurs armes de tir. |Le joueur dont c’est le tour peut "
+"effectuer des tirs avec des armes telles que les arcs ou les canons, mais "
+"aussi avec des sortilèges. Souvent, l’ennemi est hors de portée : dans ce "
+"cas, aucun tir n’a lieu durant ce tour-ci. |Voir xref::shooting.adoc[]. | a|"
 
 #.  Deleted "After shooting is complete, the players work out any hand-to-hand combat."
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:80
 msgid "Both sides fight hand-to-hand combat."
-msgstr ""
+msgstr "Les deux camps se battent au corps à corps."
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:89
@@ -154,18 +162,22 @@ msgid ""
 "part. In the Combat phase both players fight with all their troops that are "
 "engaged.  |See xref::combat.adoc[].  a|"
 msgstr ""
+"|Dans la phase de combat, les deux camps agissent. Cette phase est un peu "
+"différente des autres car le joueur dont c’est le tour n’est pas le seul à "
+"jouer. Les deux joueurs combattent avec toutes leurs troupes engagées au "
+"corps à corps.  |Voir xref::combat.adoc[].  a|"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:90
 #, no-wrap
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:94
 #, no-wrap
 msgid "The Battle Ends"
-msgstr ""
+msgstr "Fin de la Bataille"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:111
@@ -179,18 +191,27 @@ msgid ""
 "predetermined number of turns or until one side concedes defeat or is forced "
 "to leave the battlefield.  |See xref::end-of-the-battle.adoc[].  a|"
 msgstr ""
+"La partie se termine si l’un des joueurs admet sa défaite, si une armée doit "
+"battre en retraite, ou encore, si les joueurs le préfèrent, après un nombre "
+"de tours déterminé à l’avance.  |Lorsqu’un joueur a fini sa phase de combat, "
+"son tour est terminé et celui de son adversaire commence. Il se déroule de "
+"la même manière, de la phase d’Ordres à la phase de Combat. C’est ensuite à "
+"nouveau le tour du joueur précédent et ainsi de suite jusqu’à ce que le "
+"nombre de tours déterminé soit joué, que l’un des joueurs accepte sa défaite "
+"ou qu’il soit obligé d’abandonner le champ de bataille..  |Voir xref::end-of-"
+"the-battle.adoc[].  a|"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:112
 #, no-wrap
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:116
 #, no-wrap
 msgid "Hail the victor!"
-msgstr ""
+msgstr "Victoire !"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:126
@@ -201,3 +222,8 @@ msgid ""
 "the more victory points they will accrue.  |See xref::end-of-the-"
 "battle.adoc[]."
 msgstr ""
+"Une fois la bataille terminée, il est temps de déterminer qui a remporté la "
+"victoire.  |Une fois la bataille terminée, les deux joueurs additionnent les "
+"points de victoires qu’ils ont gagnés. Plus ils ont détruit d’unités "
+"ennemies, plus ils gagnent de points de victoire.  |Voir xref::end-of-the-"
+"battle.adoc[]."
