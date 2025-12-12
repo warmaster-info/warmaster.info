@@ -2,6 +2,7 @@
     <meta property="og:url" content="{{ page.canonicalUrl }}">
     <meta property="og:site_name" content="{{#with site.title}}{{this}}{{/with}}">
     <meta property="og:title" content="{{#with site.title}}{{this}} –{{/with}} {{{detag (or page.title defaultPageTitle)}}}">
+    {{!-- Translate this. --}}
     <meta property="og:description" content="Warmaster Revolution is a fan-based 2nd edition of rules for the Warmaster game.">
 
     {{!-- https://docs.antora.org/antora-ui-default/templates/ Currently can't use resolvePage --}}
@@ -12,3 +13,12 @@
     <meta property="og:image" content="https://warmaster.info/en/revolution/{{ or page.module 'rules' }}/_images/warmaster-revolution-{{ or page.module 'rules' }}-cover.webp">
     <meta property="og:image:alt" content="Cover of Warmaster Revolution {{ or page.module 'rules' }} book">
     {{/if}}
+
+{{#if site.keys.language}}
+    <!-- Current language: {{site.keys.language}} and module {{page.module}} -->
+    <link rel="alternate" hreflang="x-default" href="/en{{page.url}}">
+    <link rel="alternate" hreflang="en" href="/en{{page.url}}">
+    {{#if (or (or (eq page.module 'ROOT') (eq page.module 'rules')) (eq page.module 'armies')) }}
+    <link rel="alternate" hreflang="fr" href="/fr{{page.url}}">
+    {{/if}}
+{{/if}}

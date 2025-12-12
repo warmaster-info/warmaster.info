@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{#if site.keys.language}}{{site.keys.language}}{{else}}en{{/if}}" dir="{{#if (eq site.keys.language 'ar')}}rtl{{else}}ltr{{/if}}">
   <head>
 {{> head defaultPageTitle='Untitled'}}
     <style type="text/css">
