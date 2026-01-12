@@ -407,7 +407,7 @@ change his mind for any reason.
 
 [.bo5a]
 During a charge, each stand can move up to its full pace distance
-regardless of the unit’s formation at the stand of the move.
+regardless of the unit’s formation at the start of the move.
 
 image::movement/orc-boss.webp[width=428,height=621,role=decorative]
 
@@ -438,7 +438,7 @@ or rear of an enemy — this is an important distinction because
 stands suffer a penalty if enemy are fighting to their side or rear
 as described in the xref:combat.adoc[Combat] section.
 
-For purposes of working out where to position units
+For the purpose of working out where to position units
 during a charge, the area around each stand is divided
 into four zones as shown on the accompanying diagrams.
 The division between each zone bisect the corners of the
