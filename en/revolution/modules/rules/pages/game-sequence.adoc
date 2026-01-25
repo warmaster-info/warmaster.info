@@ -48,11 +48,12 @@ until one side is forced to withdraw.
 a|
 [discrete]
 [#command]
-==== Command
+[.edit]
+==== Command & Initiative
 
 [.bo5a]#Troops are moved#
-|The player whose turn it is [.bo5a]#can move his forces in the# Command phase
-Command phase. [.bo5a]#Units# can either move on their initiative or in
+|The player whose turn it is [.bo5a]#can move his forces in the# Command [.edit]#& Initiative# phase.
+[.bo5a]#Units# can either move on their initiative or in
 response to orders as they receive them.
 |See xref::command.adoc[].
 
@@ -100,12 +101,12 @@ prefer, when an agreed number of turns
 have passed.
 |Once a player has completed his Combat phase his turn
 is over and it’s his opponent’s turn. His opponent then
-takes a turn in the same way, starting with Command
+takes a turn in the same way, starting with Command [.edit]#& Initative#
 and ending with Combat. It is then the first player’s
 turn again and so on until both players have completed
 the predetermined number of turns or until one side
 concedes defeat or is forced to leave the battlefield.
-|See xref::end-of-the-battle.adoc[].
+|See xref::end-of-the-battle.adoc#victory-points[Victory Points].
 
 a|
 [discrete]

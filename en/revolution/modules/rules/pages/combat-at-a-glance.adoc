@@ -2,28 +2,28 @@
 :page-role: -toc at-a-glance
 
 [#combat-engagement]
-== Combat engagement
+== xref:combat.adoc#combat-engagement[Combat engagement]
 
 . Interlinked units form a single combat engagement. Work out results for each
   engagement separately.
 
 [#attacks]
-== Attacks
+== xref:combat.adoc#attacks[Attacks]
 
-. Total the Attack value for each unit.
+. [.edit]#Applying the xref:combat.adoc#attack-modifiers[modifiers],# total the Attack value for each unit.
 . Roll the number of dice indicated.
 ** Rolls of 4+ score hits.
 ** Rolls of 5+ are needed to score hits on a defended target.
 ** Rolls of 6+ are needed to score hits on a fortified target.
-. Make Armour rolls and discount saved hits.
+. Make xref:combat.adoc#armour[Armour] rolls and discount saved hits.
 . Record hits scored.
 . Remove stands where sufficient hits are scored.
 
 [#results]
-== Results
+== xref:combat.adoc#combat-results[Results]
 
 . Compare the hits scored by each side.
-. Add +1 per supporting stand.
+. Add +1 per xref:combat.adoc#supporting-combat[supporting stand].
 
 [cols="<,<3",frame=none,grid=rows]
 |===
@@ -32,7 +32,7 @@
 [#draw]
 === Draw!
 |Both sides score the same hits.
-|Both sides fall back from zero cm (but at least 1cm from the enemy) to
+|Both sides xref:combat.adoc#fall-backs[fall back] from zero cm (but at least 1cm from the enemy) to
 3D6cm except for defended or fortified units.
 |Combat ends.
 
@@ -41,9 +41,9 @@
 [#win]
 === Win!
 |One side scores more hits.
-|Losers retreat by the difference (divided by number of units in
+|Losers xref:combat.adoc#retreats[retreat] by the difference (divided by number of units in
 multiple combats rounded up).
-|Winners fall back, stand or pursue/advance.
+|Winners xref:combat.adoc#fall-backs[fall back], xref:combat.adoc#stand[stand] or xref:combat.adoc#pursuit[pursue]/xref:combat.adoc#advance[advance].
 |If winners fall back or stand, the combat ends.
 
 .2+^a|
@@ -56,7 +56,7 @@ unresolved.
 |===
 
 [#pursuit-advance]
-== Pursuit / Advance
+== xref:combat.adoc#pursuit[Pursuit] / xref:combat.adoc#advance[Advance]
 
 . Infantry [.bo5a]#cannot# pursue retreating cavalry or chariots unless infantry charged their
   flank or rear or the charged unit is in irregular formation.
@@ -67,12 +67,12 @@ unresolved.
 . [.bo5a]#All pursuing, advancing or retreating units lose defended or fortified status.#
 
 [#attack-modifiers]
-== Attack modifiers
+== xref:combat.adoc#attack-modifiers[Attack modifiers]
 
 include::partial$combat-attack-modifiers.adoc[]
 
 [#end-of-combat]
-== End of combat
+== xref:combat.adoc#unresolved-combats[End of combat]
 
 . At the end of the Combat phase, any odd hits are discounted from units that are
   no longer engaged.

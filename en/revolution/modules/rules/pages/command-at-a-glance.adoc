@@ -6,14 +6,14 @@
 == Sequence
 
 [.bo5a]
-. Initiative
-. Home back
-. Orders
-. Characters
+. xref:command.adoc#initative-movement[Initiative]
+. xref:flying-units.adoc#home-back[Home Back]
+. xref:command.adoc#orders[Orders]
+. xref:command.adoc#character-movement[Characters]
 
 [.bo5a]
 [#initiative]
-== Initiative
+== xref:command.adoc#initative-movement[Initiative]
 
 [.bo5a]
 . A unit can charge or evade the closest visible enemy unit within 20cm.
@@ -28,13 +28,13 @@
 
 [.h-edit]
 [#home-back]
-== Home back
+== xref::flying-units.adoc#home-back[Home back]
 
 // Copied from WMR later
 . Flying units more than 20cm from [.edit]#all friendly# characters can xref::flying-units.adoc#home-back[home back] up to 1D6 × 10cm towards any character before orders are issued.
 
 [#orders]
-== Orders
+== xref:command.adoc#orders[Orders]
 
 . [.bo5a]#A unit can move once each time it is given an order.#
 . A unit can be given up to three orders by the same [.edit]#character#.
@@ -51,20 +51,20 @@
   any other characters.
 
 [#command-penalties]
-== Command penalties
+== xref:command.adoc#command-penalties[Command penalties]
 
 [cols="<,^",frame=none,grid=rows]
 |===
-|Per full 20cm distance             | −1
-|Each successive order to the unit  | −1
-|Enemy within 20cm of unit          | −1
-|[.bo5a]#Unit# within dense terrain | −1
-|Per casualty                       | −1
+|Per full 20cm xref:command.adoc#distance[distance]                    | −1
+|Each xref:command.adoc#multiple-orders[successive order] to the unit  | −1
+|xref:command.adoc#enemy-close[Enemy within 20cm] of unit              | −1
+|[.bo5a]#Unit# within xref:command.adoc#dense-terrain[dense terrain]   | −1
+|Per xref:command.adoc#casualties[casualty]                            | −1
 |===
 
 [.h-bo5a]
 [#brigade-orders]
-== Brigade orders
+== xref:command.adoc#brigade-orders[Brigade orders]
 
 // Bo5A words this slightly differently.
 . Up to four touching units may be brigaded together and issued a single order.
@@ -72,7 +72,7 @@
   or more units are charging.
 
 [#charge]
-== Charge
+== xref:command.adoc#charge[Charge]
 
 . A unit that moves into [.bo5a]#contact with# an enemy is said to have charged.
 . Once units are touching an enemy unit or supporting friendly units they are
@@ -82,7 +82,7 @@
 // Moved (by me) from the Movement-at-a-glance page, as the rules are in this section.
 [.h-edit]
 [#generals-wizards-heroes]
-== Generals, Wizards & Heroes
+== xref:command.adoc#character-movement[Generals, Wizards & Heroes]
 
 . Characters move once [.edit]#in the Characters sub-phase# and can move up to 60cm.
 . Characters do not need an order to move.

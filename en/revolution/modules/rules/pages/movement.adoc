@@ -14,13 +14,13 @@ units in an irregular formation.
 ////
 
 [.bo5a]
-Units move when given an order or by using initiative in the
-Command phase as explained in the Command section.
-Units can also move in the Shooting or Combat phases as
+Units move when given an xref:command.adoc#orders[order] or by using xref:command.adoc#initative-movement[initiative] in the
+Command [.edit]#& Initative# phase as explained in the xref:command.adoc[Command [.edit]#& Initiative# section].
+Units can also move in the xref:shooting.adoc[Shooting] or xref:combat.adoc[Combat] phases as
 explained in the corresponding rules sections. This section
 covers all the general movement rules for units including rules
 for various types of terrain. Rules for moving characters can be
-found under the xref:characters.adoc[Generals, Heroes and Wizards] section.
+found under the xref:characters.adoc#character-movement[Generals, Heroes and Wizards] section.
 
 [.page=19]
 [#movement-distances]
@@ -30,15 +30,15 @@ found under the xref:characters.adoc[Generals, Heroes and Wizards] section.
 type and formation. Some troops are naturally faster than others –
 cavalry are faster than infantry, for example.#
 Troops arranged in a
-regular formation are able to move more quickly than
+regular <<formation>> are able to move more quickly than
 units in an irregular formation.
 
 Broadly speaking, infantry units and monsters move
 up to 20cm at a time, cavalry and chariots move 30cm
 and artillery, such as stone throwers and cannons, move
 10cm. Flying troops can move up to 100cm but their
-movement is governed by special rules, as described
-later. The chart below gives the full pace move distances
+movement is governed by special rules, as xref:flying-units.adoc[described later].
+The chart below gives the full pace move distances
 for each troop type plus the half pace movement. In each
 case, distances are maximums and the player can move
 the unit a shorter distance if he wishes.
@@ -54,7 +54,7 @@ the unit a shorter distance if he wishes.
 |Chariots     |30cm  |15cm
 |Artillery    |10cm  |5cm
 |Monsters     |20cm  |10cm
-|Machines   2+|Varies – See the Artillery & Machines section
+|Machines   2+|Varies – See the [.edit]#xref:revolution:armies:index.adoc[Army Lists]#
 |Flying Units |100cm |10cm
 |Characters   |60cm  |60cm
 |===
@@ -94,22 +94,21 @@ all the stands in the unit are placed in touch so they form a *line*,
 
 [.bo5a]
 Units *charging* or *evading* can move up to full pace regardless
-of their formation. Charge and evade moves are described later
+of their formation. <<the-charge,Charge>> and <<the-evade,evade>> moves are described later
 in this section.
 
 All units wholly or partially in a fortified position at
 the start of their movement can only move at half pace
 regardless of their formation unless they are charging or
 evading, in which case they move at full pace as noted
-above. [.bo5a]#See xref:shooting.adoc#defended-fortified-targets[Shooting] and xref:combat.adoc[Combat] for
+above. [.bo5a]#See xref:shooting.adoc#defended-fortified-targets[Shooting] and xref:combat.adoc#defended-fortified-troops[Combat] for
 more about defended and fortified units.#
-// TODO link
 
 Units arranged in a *column* with stands placed one
 behind the other (as shown in picture below), either
 edge-to-edge or corner-to-corner, can move at full pace
 unless in a fortified position as noted above.
-// Units in a column are said to be in a *regular* formation.
+Units in a column are said to be in a *regular* formation.
 
 .In a column stands are placed behind each other either edge to edge (as on the left) or so that they touch at a point forming a curved column (as on the unit following the road). This formation is primarily suited to movement.
 image::movement/column-formation.webp[width=1126,height=680]
@@ -117,6 +116,7 @@ image::movement/column-formation.webp[width=1126,height=680]
 Units arranged in a straight *line* with all their stands
 facing in the same direction and butted edge-to-edge move
 at full pace unless in a fortified position, as noted earlier.
+Units in a line are said to be in a *regular* formation.
 
 .Infantry and cavalry arranged into a straight line. This is the most effective fighting formation.
 image::movement/cavalry-line-formation.webp[width=497,height=393]
@@ -139,7 +139,7 @@ image::movement/irregular-formation-2.webp[width=1247,height=505]
 
 In some circumstances, units move a distance
 determined by rolling dice or by the results of combat
-(such as drive backs, retreat moves and advances). These
+(such as xref:shooting.adoc#driving-back-enemies[drive backs], xref:combat.adoc#retreats[retreat moves] and xref:combat.adoc#advance[advances]). These
 distances are not affected by the unit’s formation.
 
 include::partial$divider-axe.adoc[]
@@ -185,19 +185,22 @@ the part of the stand that moves the greatest distance
 
 // TODO: add diagrem (Ancients) and "See"
 
+// "Even where they belong" moved after.
 A stand cannot
 move through the base area of a stand from *another* unit
 whether friend or foe either wholly or in part. A stand
 can move through other stands of the *same* unit if they
 have not yet moved and are not engaged in combat. This
 allows stands to move out of their own unit’s formation
-without jamming each other. Even where they belong to
-the same unit. A stand cannot move through other stands
-who have already moved or are engaged in combat.
+without jamming each other.
+A stand cannot move through other stands
+who have already moved or are engaged in combat,
+even where they belong to
+the same unit.
 
 [.bo5a]
 Stands can move through terrain appropriate to their type as
-note below. Stands cannot move through terrain if it is
+noted below. Stands cannot move through terrain if it is
 impenetrable to their type.  See the section on <<terrain>>.
 
 There is an exception to the rule that prevents stands
@@ -255,7 +258,7 @@ effective manoeuvring. Note that although stands are not
 permitted to pass between enemy stands as described,
 this does not prevent them moving between such stands
 to charge them, assuming there is room to do so (See
-xref::combat.adoc#moving-chargers[Moving Chargers]).
+<<the-charge,The Charge>>).
 
 // TODO: Low-priority diagram text
 .Infantry move through a gap – this is allowed so long as the gap is at least 20mm wide. The unit has been moved into a column – but stands could equally well be placed into a line or in irregular formation within the defile.
@@ -390,12 +393,12 @@ across where care may be needed.
 === Sequence of charges
 
 The term ‘charge’ describes a unit’s movement into
-contact with an enemy unit during the Command
+contact with an enemy unit during the Command [.edit]#& Initiative#
 phase whether by initiative or by means of an order.
 Units which move by initiative are moved before units
 which move by orders but, apart from this, there is no
 obligation to move charging units in any particular order.
-Charges occur throughout the Command phase as units
+Charges occur throughout the Command [.edit]#& Initiative# phase as units
 move against enemy units.
 
 Where a charge is intended,
@@ -436,16 +439,15 @@ in what sequence.
 The charging unit can potentially contact against the front, side
 or rear of an enemy — this is an important distinction because
 stands suffer a penalty if enemy are fighting to their side or rear
-as described in the xref:combat.adoc[Combat] section.
+as described in the xref:combat.adoc#enemy-facing-own-side-or-rear[Combat] section.
 
 For the purpose of working out where to position units
 during a charge, the area around each stand is divided
-into four zones as shown on the accompanying diagrams.
-The division between each zone bisect the corners of the
+into four zones as shown on [.edit]#<<zone-infantry>> and <<zone-cavalry>>#.
+The division between each zone bisects the corners of the
 stand at the angle of 135 degrees relative to the edge.
 Zones are self evident in most situations and can be
-checked using a simple guide if necessary. See <<zone-infantry>>
-and <<zone-cavalry>>.
+checked using a simple guide if necessary.
 
 .{empty}
 image::movement/zone-infantry.svg[width=1312,height=964,id=zone-infantry]
@@ -663,7 +665,7 @@ there must be at least 1 full centimetre of exposed stand edge to
 contact against.
 
 If there is less than 1 cm of exposed edge then the stand
-is not an eligible target because it is ‘blocked’. See below
+is not an eligible target because it is ‘blocked’. <<blocked-edges,See below>>
 for how to deal with blocked stands.
 
 image::movement/charge-blocked.svg[width=1311,height=1016,id=charge-blocked]
@@ -693,7 +695,7 @@ and are drawn into the combat engagement – even if
 chargers are only touching at their side or rear edge.
 If armed with appropriate shooting weapons they are
 entitled to shoot at the charging unit as described in the
-Shooting section.
+xref:shooting.adoc#shooting-at-charging-enemy[Shooting section].
 
 .{empty}
 image::movement/unable-to-form-a-battle-line.svg[width=1312,height=1124,id=f-unable-to-form-a-battle-line]
@@ -800,7 +802,7 @@ and contacts only against the side of an enemy stand
 or stands, then any charging stands that would not
 otherwise touch the enemy when forming a battle line
 are allowed to make a further move into contact with
-the charged enemy unit as described for a pursuit. Stands
+the charged enemy unit xref:combat.adoc#basic-pursuit[as described for a pursuit]. Stands
 must have sufficient move distance remaining from their
 charge move to make the envelopment move.
 
@@ -814,7 +816,7 @@ stands can contact other enemy units and therefore
 bring them into the combat, but they must also contact
 the charged unit either to their front edge or front corner
 as described. Note that this is comparable to a normal
-pursuit move in most respects – the enveloping charge
+xref:combat.adoc#basic-pursuit[pursuit move] in most respects – the enveloping charge
 effectively combines a charge and pursuit into a single
 move.
 
@@ -839,8 +841,8 @@ image::movement/battle-view.webp[width=1500,height=834,id=battle-view,role=decor
 
 Sometimes units or characters are obliged to move
 off the table. This can happen when a unit receives a
-‘blundered’ order but can also happen to units that are
-defeated in combat or troops driven back by missile fire
+‘xref:characters.adoc#blunders[blundered]’ order but can also happen to units that are
+xref:combat.adoc#retreat[defeated in combat] or troops xref:shooting.adoc#driving-back-enemies[driven back] by missile fire
 or magic.
 
 If one or more stands in a unit leaves the table edge,

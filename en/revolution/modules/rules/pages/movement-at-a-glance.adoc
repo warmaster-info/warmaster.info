@@ -2,9 +2,9 @@
 :page-role: -toc at-a-glance
 
 [#distance]
-== Distance
+== xref:movement.adoc#movement-distance[Distance]
 
-. Units move in the Command phase either by initiative or if they receive orders.
+. Units move in the Command [.edit]#& Initiative# phase either by xref:command.adoc#initative-movement[initiative] or if they receive xref:command.adoc#orders[orders].
 . Units receiving one order after another are able to move [.ancients]#up to three# times during the
   Command phase.
 +
@@ -22,7 +22,7 @@
 |Characters |60cm |60cm
 |===
 
-. Charging units and evading units move at up to full pace. [.bo5a]#Units in# regular formations
+. xref:movement.adoc#the-charge[Charging] units and xref:movement.adoc#the-evade[evading] units move at up to full pace. [.bo5a]#Units in# regular xref:movement.adoc#formation[formations]
   of columns or straight lines move at up to full pace unless fortified.
   Fortified units and units in an irregular formation move at up to half pace.
 

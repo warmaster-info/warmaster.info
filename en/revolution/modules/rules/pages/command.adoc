@@ -1,14 +1,14 @@
 [.page=14]
 = [.edit]#Command & Initiative#
 
-Units [.bo5a]#and characters are# usually moved in the Command phase. A unit
+Units [.bo5a]#and characters are# usually moved in the Command [.edit]#& Initiative# phase. A unit
 usually requires orders before it will move but if
 the enemy is very close, a unit is able to react directly
 to its presence. Otherwise, if a unit receives no orders it
 remains where it is and awaits further instructions.
-[.bo5a]#Characters do move automatically and do so after all unit movement is complete.#
+[.bo5a]#Characters move automatically and do so after all unit movement is complete.#
 
-The Command phase proceeds in the following sequence
+The Command [.edit]#& Initiative# phase proceeds in the following sequence
 [.bo5a]#of sub-phases. Of these, the Home Back sub-phase only applies to
 flying units and so is not considered further in this section, see
 xref:flying-units.adoc[]#.
@@ -48,7 +48,7 @@ initiative.
 
 [.bo5a]
 The distances moved by each type of unit vary, and are given in
-the Movement section.
+the xref:movement.adoc#movement-distances[Movement section].
 
 [.page=23]
 [.h-bo5a]
@@ -96,8 +96,8 @@ may choose which to charge or evade.
 ////
 
 [.ancients]#During the Initiative sub-phase,#
-a unit can use its own initiative to either charge or
-evade from the *closest visible enemy unit* within 20cm (see xref:game-values.adoc#visibility-on-the-battlefield[Visibility on the battlefield]).
+a unit can use its own initiative to either xref:movement.adoc#moving-chargers[charge] or
+xref:movement.adoc#the-path-of-evaders[evade] from the *closest xref:visible enemy unit* within 20cm (see xref:game-values.adoc#visibility-on-the-battlefield[Visibility on the battlefield]).
 [.edit]#A unit does not have to use its initiative, it# can instead wait until the
 [.edit]#Orders sub-phase#
 and attempt to move by means of an order.
@@ -121,8 +121,8 @@ that it can see within 20cm.
 
 [.ancients]
 A unit moving by initiative can move in one of two ways. It can
-either *charge* the enemy unit it is reacting to, assuming it
-is able to do so, or it can *evade* from the enemy unit it is
+either *xref:movement.adoc#moving-chargers[charge]* the enemy unit it is reacting to, assuming it
+is able to do so, or it can *xref:movement.adoc#the-path-of-evaders[evade]* from the enemy unit it is
 reacting to. Charging will bring the opposing units into
 close combat whilst evading is a deliberate move to avoid
 the enemy.
@@ -131,7 +131,7 @@ the enemy.
 If you want a unit to do
 something else, such as move around a flank or attack an
 enemy other than the closest, then you will have to issue
-an order instead.
+an <<orders,order>> instead.
 
 // Warmaster Original text from Movement chapter:
 // Removed: This simply means a line of sight can be drawn from any
@@ -210,6 +210,7 @@ use its own initiative or changing which enemy unit is
 closest. See <<initiative-charge-1>> and <<initiative-charge-2>>.
 ////
 
+// Todo: merge with the above paragraph.
 [.ancients]
 During the Initiative sub-phase, units move one at a time
 in any sequence the player wishes.  Initiative is determined
@@ -302,7 +303,7 @@ works in the following way:
 Roll 2D6 (i.e., roll two dice and add the results to get a
 score of between 2 and 12). If the score is equal to or less
 than the character’s Command value then the unit has
-received its order and can move full pace (see xref::movement.adoc[Movement] [.edit]#for distances#). If the score
+received its order and can move full pace (see xref::movement.adoc#movement-distances[Movement [.edit]#distances#]). If the score
 is more than the character’s Command value then the
 unit has not received its order.  [.edit]#If this is the unit’s first order then# it can move only half
 pace. This represents unit’s
@@ -377,7 +378,7 @@ you want to move a unit several times, the character must
 finish ordering it to move completely before he can try to
 issue an order to a different unit. Note that a unit can be
 given up to a maximum of *three* orders in succession. A
-unit failing to receive a *further* order *cannot* move at all.
+unit failing to receive a *further* order *cannot* move [.edit]#any further in this phase#.
 
 The player continues issuing orders and moving his units
 until he no longer wishes to move or until he can issue no
@@ -584,7 +585,7 @@ unless mounted on a monstrous mount or riding a
 chariot, always treat terrain as if they were infantry. No
 Command test is required for a character to move. Any
 failed Order rolls made in the Command phase do not
-affect his ability to move.
+affect [.edit]#a character’s# ability to move.
 
 Due to their unique role in Warmaster, characters are
 treated differently to other types of units. Character

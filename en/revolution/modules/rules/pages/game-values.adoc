@@ -198,13 +198,13 @@ include::partial$attack-values.adoc[]
 Command is another game value and a very important
 one too! Only
 characters have a Command value and they use it when
-issuing orders. Values vary from as low as 7 to as high as
+xref:command.adoc#orders[issuing orders]. Values vary from as low as 7 to as high as
 10 but only the very best Generals have a value as high as
 10.
 [.bo5a]#The higher the
 value, the more likely you are to be able to order your troops to
 do what you want them to.#
-More about command in due course.
+More about command in xref:command.adoc[due course].
 
 [.page=B9]
 [.bo5a]
@@ -214,8 +214,8 @@ More about command in due course.
 [.bo5a]
 Each unit and character in the game is assigned a points value
 which reflects its worth in the game – the more effective units
-and characters having an appropriately higher value. Once the
-battle is finished, the total points value of each side’s casualties
+and characters having an appropriately higher value. xref:end-of-the-battle.adoc#victory-points[Once the
+battle is finished], the total points value of each side’s casualties
 determines who wins.
 [.edit]#Otherwise,# points values don’t really affect the rules
 of play.
@@ -380,7 +380,7 @@ image::game-values/line-of-sight-360.svg[width=1239,height=851,id=line-of-sight-
 
 [.ancients]
 Some terrain (such as areas of ruins, hills and woods)
-blocks line of sight as described in the Movement rules.
+blocks line of sight as described in the xref:movement.adoc#terrain[Movement rules].
 In principle, line of sight is blocked where it
 passes through any kind of terrain feature, but there are
 appropriate and mostly obvious exceptions. For example,

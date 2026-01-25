@@ -2,17 +2,17 @@
 :page-role: -toc at-a-glance
 
 [#targets]
-== Targets
+== xref:shooting.adoc#targets[Targets]
 
 . Units shoot once per turn at the closest visible enemy unit.
 
 [#range]
-== Range
+== xref:shooting.adoc#range[Range]
 
 . Most missile armed troops can shoot at the enemy up to 30cm away.
 
 [#attacks]
-== Attacks
+== xref:shooting.adoc#calculating-casualties[Attacks]
 
 . Total the Attack value for the shooting unit.
 . Roll the number of dice indicated.
@@ -26,12 +26,12 @@ Rolls of 6+ are needed to score hits on a fortified target.
 . Remove stands where sufficient hits are scored.
 
 [#drive-back]
-== Drive back
+== xref:shooting.adoc#driving-back-enemies[Drive back]
 
 . Roll a dice for each hit taken, rolling 1 less dice for defended units and 2 less
   dice for fortified units.
 . Add the dice scores together and drive back the target unit by this distance.
-. If any drive back dice roll 6s, the unit becomes confused.
+. If any drive back dice roll 6s, the unit becomes xref:shooting.adoc#units-confused-during-drive-backs[confused].
 . Units driven into enemy units, engaged units or friends who do *not* make way
   become confused.
 . Units driven into impassable terrain or into friends who *do* make way are
@@ -40,12 +40,12 @@ Rolls of 6+ are needed to score hits on a fortified target.
 . A unit driven back further than its full pace move is destroyed.
 
 [#shooting-at-chargers]
-== Shooting at chargers
+== xref:shooting.adoc#shooting-at-charging-enemy[Shooting at chargers]
 
 . Hits inflicted on chargers carry over into the first combat round.
 . Chargers cannot be driven back.
 
 [#disregard-odd-hits]
-== Disregard odd hits
+== xref:shooting.adoc#disregard-odd-hits[Disregard odd hits]
 
 . At the end of the Shooting phase any odd hits are disregarded.
