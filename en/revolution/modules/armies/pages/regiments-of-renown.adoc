@@ -169,6 +169,16 @@ image::regiments-of-renown/birdmen.webp[width=900,height=445]
 include::partial$regiments-of-renown.tsv[]
 |===
 
+[.edit]
+._The same list, but in troop type and alphabetical order_ (Click to expand)
+[%collapsible]
+====
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$regiments-of-renown-alphabetical.tsv[]
+|===
+====
+
 [#special-rules]
 == Special rules
 
