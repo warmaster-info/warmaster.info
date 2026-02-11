@@ -46,7 +46,7 @@
   an order.
 . If a roll is failed, the order is not given and no further orders can be issued by
   that character.
-. [.bo5a]#If a roll is failed, the order is not given and no further orders can be issued to that unit.#
+. [.bo5a]#If a roll is failed, the order is not given and no further orders can be issued to that unit.# [.edit]#If this is the unit’s first order it can move only at half pace.#
 . If the General fails to give an order, no further orders can be given by
   any other characters.
 
