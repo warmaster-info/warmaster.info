@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-02-15 16:10+0100\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
+"PO-Revision-Date: 2026-02-15 16:24+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -506,11 +506,6 @@ msgstr "[[jezzails,†1]]1. Jezzails"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:139
-#, fuzzy
-#| msgid ""
-#| "Count enemy armour values as one worse than normal when shot by a "
-#| "jezzail. So, for example, an armour value of 3+ counts as 4+, 5+ counts "
-#| "as 6+, and 6+ can’t save against a jezzail."
 msgid ""
 "Count enemy armour values as one worse than normal when shot by a jezzail. "
 "So, for example, an armour value of 3+ counts as 4+, 5+ counts as 6+, and 6+ "
@@ -562,32 +557,25 @@ msgstr "[[rat-swarms,†3]]3. Nuées de Rats"
 msgid ""
 "Rat Swarms cannot be driven back by shooting and do not roll for drive backs."
 msgstr ""
+"Les Nuées de Rats ne peuvent pas être repoussées par les tirs et ne font pas "
+"de jets de repoussement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:157
-#, fuzzy
-#| msgid ""
-#| "Rat Swarms cannot be driven back by shooting and do not roll for drive "
-#| "backs. A Rat Swarm stand cannot be supported by other kinds of infantry – "
-#| "only by other Ratswarm stands. Note, however, that Rat Swarms can support "
-#| "other kinds of infantry as normal. A Rat Swarm cannot be given magic "
-#| "items."
 msgid ""
 "A Rat Swarm stand cannot be supported by other kinds of infantry – only by "
 "other Rat Swarm stands. Note, however, that Rat Swarms can support other "
 "kinds of infantry as normal."
 msgstr ""
-"Les Nuées de Rats ne peuvent pas être repoussées par les tirs et ne font pas "
-"de jets de repoussement. Un socle de Nuée de Rats ne peut pas être soutenu "
-"par un autre type d'infanterie : seul un socle de Nuée de Rats peut en "
-"soutenir un autre. Notez toutefois que les socles de Nuées de Rats peuvent "
-"soutenir normalement les autres types d’infanterie. Une Nuée de Rats ne peut "
-"pas recevoir d'objets magiques."
+"Un socle de Nuée de Rats ne peut pas être soutenu par un autre type "
+"d'infanterie : seul un socle de Nuée de Rats peut en soutenir un autre. "
+"Notez toutefois que les socles de Nuées de Rats peuvent soutenir normalement "
+"les autres types d’infanterie."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:160
 msgid "A Rat Swarm cannot be given magic items."
-msgstr ""
+msgstr "Une Nuée de Rats ne peut pas recevoir d'objets magiques."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:161
@@ -670,8 +658,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:199
-#, fuzzy
-#| msgid "Gutter Runners don’t suffer −1 Command penalty for Dense Terrain."
 msgid "Gutter Runners don’t suffer the −1 Command penalty for Dense Terrain."
 msgstr ""
 "Les Coureurs d'Égouts ne subissent pas de pénalité de -1 au Commandement à "
@@ -723,10 +709,9 @@ msgstr "La Roue Infernale dispose d’un mouvement de 20cm et cause la terreur."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:215
-#, fuzzy, no-wrap
-#| msgid "[[screaming-bell,†8]]8. Screaming Bell"
+#, no-wrap
 msgid "[[screaming-bell,†7]]7. Screaming Bell"
-msgstr "[[screaming-bell,†8]]8. Cloche Hurlante"
+msgstr "[[screaming-bell,†7]]7. Cloche Hurlante"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:223
@@ -739,6 +724,13 @@ msgid ""
 "cannot move using initiative and cannot be driven back by shooting and does "
 "not roll for drive backs."
 msgstr ""
+"La Cloche Hurlante est un engin gigantesque et utilise un socle de 40 x "
+"60mm, le bord le plus petit vers l’avant. Elle ne peut pas se déplacer seule "
+"mais est poussée par une masse de Skavens. De ce fait, la Cloche Hurlante ne "
+"peut se déplacer durant la phase d’Ordres que si elle forme une brigade avec "
+"au moins une unité d’infanterie. Elle peut alors se déplacer de 20 cm, à la "
+"vitesse de l’infanterie. Elle ne peut pas se déplacer par initiative, ni "
+"être repoussée par des tirs. Elle n’effectue pas de jets de repoussement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:230
@@ -748,6 +740,11 @@ msgid ""
 "unit at the start and end of its move: otherwise it cannot pursue, advance "
 "or fall back as it is unable to move of its own accord."
 msgstr ""
+"Au combat, elle est automatiquement détruite si elle est forcée de se "
+"replier, mais poursuivra, reculera et avancera normalement du moment qu’elle "
+"est en contact avec une unité d’infanterie Skaven au début et à la fin de "
+"son mouvement. Autrement, elle ne peut pas poursuivre, avancer ou reculer, "
+"car elle ne peut pas se déplacer toute seule."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:235
@@ -756,6 +753,10 @@ msgid ""
 "penalty for Terror whilst they remain so. In addition, any Skaven Hero or "
 "Warlock within 30cm of the Screaming Bell adds +1 to their Command value."
 msgstr ""
+"Toute unité Skaven en contact avec la Cloche est immunisée aux effets de la "
+"Terreur et ne subit pas la pénalité habituelle tant qu’elle reste à son "
+"contact. De plus, tout Technomage ou Héros Skaven dans un rayon de 30cm "
+"autour de la Cloche Hurlante ajoute +1 à sa valeur de Commandement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:239
@@ -763,6 +764,8 @@ msgid ""
 "Any enemy character within 30cm of the Screaming Bell deducts −1 from their "
 "Command value."
 msgstr ""
+"Tout personnage ennemi se trouvant dans un rayon de 30cm autour de la Cloche "
+"subit une pénalité de -1 à sa valeur de Commandement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:242
@@ -770,13 +773,14 @@ msgid ""
 "A Skaven army can only ever include a maximum of 1 Screaming Bell no matter "
 "how large."
 msgstr ""
+"Une armée Skaven ne peut jamais inclure qu’une seule Cloche Hurlante "
+"maximum, quelle que soit sa taille."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:243
-#, fuzzy, no-wrap
-#| msgid "[[grey-seer,†7]]7. Grey Seer"
+#, no-wrap
 msgid "[[grey-seer,†8]]8. Grey Seer"
-msgstr "[[grey-seer,†7]]7. Prophète Gris"
+msgstr "[[grey-seer,†8]]8. Prophète Gris"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:246
@@ -797,10 +801,6 @@ msgstr "[[rat-ogre-bodyguard,†9]]9. Garde du Corps Rat Ogre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:250
-#, fuzzy
-#| msgid ""
-#| "The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard.A "
-#| "character with a bodyguard adds +1 to his Attacks."
 msgid ""
 "The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard. A "
 "character with a bodyguard adds +1 to his Attacks."
