@@ -135,7 +135,7 @@ remain close at hand. We call it ‘under the lash’.
 [[jezzails,†1]]1. Jezzails:: Count enemy armour values as one worse than
 normal when shot by a jezzail. So, for example, an armour
 value of 3+ counts as 4+, 5+ counts as 6+, and 6+ can’t save
-against a jezzail.
+against a Jezzail.
 
 [[plague-monks,†2]]2. Plague Monks:: A unit of Plague Monks will always use its
 initiative to charge an enemy if possible and can’t be given
@@ -148,10 +148,14 @@ Plague Monks are unaffected by enemies that cause terror in
 combat, they do not suffer the usual −1 Attack modifier.
 
 [[rat-swarms,†3]]3. Rat Swarms:: Rat Swarms cannot be driven back by shooting
-and do not roll for drive backs. A Rat Swarm stand cannot be
-supported by other kinds of infantry – only by other Ratswarm
+and do not roll for drive backs.
++
+A Rat Swarm stand cannot be
+supported by other kinds of infantry – only by other Rat Swarm
 stands. Note, however, that Rat Swarms can support other
-kinds of infantry as normal. A Rat Swarm cannot be given
+kinds of infantry as normal.
++
+A Rat Swarm cannot be given
 magic items.
 
 [[gutter-runners,†4]]4. Gutter Runners:: Gutter Runners are armed with throwing
@@ -191,7 +195,7 @@ infiltrate that turn, it can attempt to infiltrate in a subsequent
 turn at the same or a different place.
 +
 Gutter Runners don’t
-suffer −1 Command penalty for Dense Terrain.
+suffer the −1 Command penalty for Dense Terrain.
 
 [[warp-lightning-cannon,†5]]5. Warp Lightning Cannon:: The Warp Lightning Cannon has
 a range of 40cm and follows all the normal rules for artillery,
@@ -208,29 +212,37 @@ when the Doom Wheel is charged itself.
 +
 The Doom Wheel has a move of 20cm and causes terror.
 
-[[grey-seer,†7]]7. Grey Seer:: The Grey Seer is the army’s General and can use
-Skaven magic in the same manner as a Warlock and can be
-given a magic item restricted to either a General or a Wizard.
-
-[[screaming-bell,†8]]8. Screaming Bell:: A Screaming Bell is a gargantuan device and
+[[screaming-bell,†7]]7. Screaming Bell:: A Screaming Bell is a gargantuan device and
 therefore it uses a 40 × 60mm base, with the short edge being
 the front. It cannot move of its own accord – but relies upon the
 great mass of Skaven to push it forward. The Screaming Bell
 can therefore only move in the Command phase if it forms a
 brigade with one or more infantry units. It can then move 20cm
 at infantry pace. It cannot move using initiative and cannot be
-driven back by shooting and does not roll for drive backs. In
+driven back by shooting and does not roll for drive backs.
++
+In
 combat it is automatically destroyed if forced to retreat but will
 pursue, advance and fall back so long as it is touching a Skaven
 infantry unit at the start and end of its move: otherwise it
 cannot pursue, advance or fall back as it is unable to move of its
-own accord. All Skaven units touching the Screaming Bell are
+own accord.
++
+All Skaven units touching the Screaming Bell are
 unaffected by the usual penalty for Terror whilst they remain
 so. In addition, any Skaven Hero or Warlock within 30cm of the
-Screaming Bell adds +1 to their Command value. Any enemy
+Screaming Bell adds +1 to their Command value.
++
+Any enemy
 character within 30cm of the Screaming Bell deducts −1 from
-their Command value. A Skaven army can only ever include a
+their Command value.
++
+A Skaven army can only ever include a
 maximum of 1 Screaming Bell no matter how large.
+
+[[grey-seer,†8]]8. Grey Seer:: The Grey Seer is the army’s General and can use
+Skaven magic in the same manner as a Warlock and can be
+given a magic item restricted to either a General or a Wizard.
 
 [[rat-ogre-bodyguard,†9]]9. Rat Ogre Bodyguard:: The Grey Seer, Heroes and Warlocks
 can have a Rat Ogre Bodyguard. A character with a bodyguard
