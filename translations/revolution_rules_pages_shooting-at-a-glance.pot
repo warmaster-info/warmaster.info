@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,15 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#. type: Title ==
-#: en/revolution/modules/armies/partials/table-attributes.adoc:14
-#: en/revolution/modules/rules/pages/combat.adoc:228
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
-#, no-wrap
-msgid "Attacks"
-msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:15
@@ -55,24 +46,16 @@ msgstr ""
 msgid "Remove stands where sufficient hits are scored."
 msgstr ""
 
-#. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:32
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:10
-#, no-wrap
-msgid "Range"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/shooting.adoc:54
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:5
-#, no-wrap
-msgid "Targets"
-msgstr ""
-
 #. type: Title =
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:1
 #, no-wrap
 msgid "Shooting at a Glance"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:5
+#, no-wrap
+msgid "xref:shooting.adoc#targets[Targets]"
 msgstr ""
 
 #. type: Plain text
@@ -80,9 +63,21 @@ msgstr ""
 msgid "Units shoot once per turn at the closest visible enemy unit."
 msgstr ""
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:10
+#, no-wrap
+msgid "xref:shooting.adoc#range[Range]"
+msgstr ""
+
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:13
 msgid "Most missile armed troops can shoot at the enemy up to 30cm away."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
+#, no-wrap
+msgid "xref:shooting.adoc#calculating-casualties[Attacks]"
 msgstr ""
 
 #. type: Plain text
@@ -103,7 +98,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:29
 #, no-wrap
-msgid "Drive back"
+msgid "xref:shooting.adoc#driving-back-enemies[Drive back]"
 msgstr ""
 
 #. type: Plain text
@@ -121,7 +116,9 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:35
-msgid "If any drive back dice roll 6s, the unit becomes confused."
+msgid ""
+"If any drive back dice roll 6s, the unit becomes xref:shooting.adoc#units-"
+"confused-during-drive-backs[confused]."
 msgstr ""
 
 #. type: Plain text
@@ -153,7 +150,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:43
 #, no-wrap
-msgid "Shooting at chargers"
+msgid "xref:shooting.adoc#shooting-at-charging-enemy[Shooting at chargers]"
 msgstr ""
 
 #. type: Plain text
@@ -169,7 +166,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:49
 #, no-wrap
-msgid "Disregard odd hits"
+msgid "xref:shooting.adoc#disregard-odd-hits[Disregard odd hits]"
 msgstr ""
 
 #. type: Plain text

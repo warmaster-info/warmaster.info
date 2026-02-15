@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,50 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:2
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
-#, no-wrap
-msgid "Generals, Wizards & Heroes"
-msgstr ""
-
-#. type: Content of: <svg><g><text><tspan>
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
-#: en/revolution/modules/rules/pages/flying-units.adoc:187
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/game-values.adoc:84
-#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
-#, no-wrap
-msgid "Characters"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
-#: en/revolution/modules/rules/pages/command.adoc:259
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
-#: en/revolution/modules/rules/pages/flying-units.adoc:22
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
-#, no-wrap
-msgid "Orders"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:396
-#: en/revolution/modules/rules/pages/command.adoc:515
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:54
-#, no-wrap
-msgid "Command penalties"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:605
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:67
-#, no-wrap
-msgid "Brigade orders"
-msgstr ""
 
 #. type: Title =
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:1
@@ -75,18 +31,25 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:10
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:16
-#: en/revolution/modules/rules/pages/flying-units.adoc:11
 #, no-wrap
-msgid "Initiative"
+msgid "xref:command.adoc#initative-movement[Initiative]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
+msgid "xref:flying-units.adoc#home-back[Home Back]"
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/flying-units.adoc:30
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:11
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
 #, no-wrap
-msgid "Home back"
+msgid "xref:command.adoc#orders[Orders]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
+msgid "xref:command.adoc#character-movement[Characters]"
 msgstr ""
 
 #. type: Plain text
@@ -97,6 +60,12 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:21
 msgid "A unit cannot move on initiative and orders in the same turn."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
+#, no-wrap
+msgid "xref::flying-units.adoc#home-back[Home back]"
 msgstr ""
 
 #.  Copied from WMR later
@@ -155,7 +124,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:50
 msgid ""
 "[.bo5a]#If a roll is failed, the order is not given and no further orders "
-"can be issued to that unit.#"
+"can be issued to that unit.# [.edit]#If this is the unit’s first order it "
+"can move only at half pace.#"
 msgstr ""
 
 #. type: Plain text
@@ -165,15 +135,27 @@ msgid ""
 "other characters."
 msgstr ""
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:54
+#, no-wrap
+msgid "xref:command.adoc#command-penalties[Command penalties]"
+msgstr ""
+
 #. type: Table
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:63
 #, no-wrap
 msgid ""
-"|Per full 20cm distance             | −1\n"
-"|Each successive order to the unit  | −1\n"
-"|Enemy within 20cm of unit          | −1\n"
-"|[.bo5a]#Unit# within dense terrain | −1\n"
-"|Per casualty                       | −1\n"
+"|Per full 20cm xref:command.adoc#distance[distance]                    | −1\n"
+"|Each xref:command.adoc#multiple-orders[successive order] to the unit  | −1\n"
+"|xref:command.adoc#enemy-close[Enemy within 20cm] of unit              | −1\n"
+"|[.bo5a]#Unit# within xref:command.adoc#dense-terrain[dense terrain]   | −1\n"
+"|Per xref:command.adoc#casualties[casualty]                            | −1\n"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:67
+#, no-wrap
+msgid "xref:command.adoc#brigade-orders[Brigade orders]"
 msgstr ""
 
 #.  Bo5A words this slightly differently.
@@ -193,7 +175,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:75
 #, no-wrap
-msgid "Charge"
+msgid "xref:command.adoc#charge[Charge]"
 msgstr ""
 
 #. type: Plain text
@@ -213,6 +195,12 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:81
 msgid "Units in combat cannot be issued further orders."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
+#, no-wrap
+msgid "xref:command.adoc#character-movement[Generals, Wizards & Heroes]"
 msgstr ""
 
 #. type: Plain text

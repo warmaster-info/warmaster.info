@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-30 22:16+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,8 +29,6 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/armies/partials/table-attributes.adoc:14
 #: en/revolution/modules/rules/pages/combat.adoc:228
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
 #, no-wrap
 msgid "Attacks"
 msgstr ""
@@ -38,7 +36,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:23
 #: en/revolution/modules/rules/pages/combat.adoc:2
-#: en/revolution/modules/rules/pages/game-sequence.adoc:77
+#: en/revolution/modules/rules/pages/game-sequence.adoc:78
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:89
 #, no-wrap
 msgid "Combat"
@@ -144,7 +142,6 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat.adoc:88
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:5
 #, no-wrap
 msgid "Combat engagement"
 msgstr ""
@@ -181,13 +178,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:450
-#: en/revolution/modules/rules/pages/movement.adoc:453
-#: en/revolution/modules/rules/pages/movement.adoc:504
-#: en/revolution/modules/rules/pages/movement.adoc:507
-#: en/revolution/modules/rules/pages/movement.adoc:530
-#: en/revolution/modules/rules/pages/movement.adoc:698
-#: en/revolution/modules/rules/pages/movement.adoc:759
+#: en/revolution/modules/rules/pages/movement.adoc:452
+#: en/revolution/modules/rules/pages/movement.adoc:455
+#: en/revolution/modules/rules/pages/movement.adoc:506
+#: en/revolution/modules/rules/pages/movement.adoc:509
+#: en/revolution/modules/rules/pages/movement.adoc:532
+#: en/revolution/modules/rules/pages/movement.adoc:700
+#: en/revolution/modules/rules/pages/movement.adoc:761
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -228,7 +225,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:133
-#: en/revolution/modules/rules/pages/movement.adoc:390
+#: en/revolution/modules/rules/pages/movement.adoc:393
 #, no-wrap
 msgid "Sequence of charges"
 msgstr ""
@@ -240,7 +237,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:140
-#: en/revolution/modules/rules/pages/movement.adoc:416
+#: en/revolution/modules/rules/pages/movement.adoc:419
 #, no-wrap
 msgid "Enemy in sight"
 msgstr ""
@@ -264,7 +261,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:154
-#: en/revolution/modules/rules/pages/movement.adoc:478
+#: en/revolution/modules/rules/pages/movement.adoc:480
 #, no-wrap
 msgid "The charge move"
 msgstr ""
@@ -276,7 +273,7 @@ msgstr ""
 
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:161
-#: en/revolution/modules/rules/pages/movement.adoc:537
+#: en/revolution/modules/rules/pages/movement.adoc:539
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:263
 #, no-wrap
 msgid "Forming a battle line"
@@ -290,7 +287,7 @@ msgstr ""
 
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:168
-#: en/revolution/modules/rules/pages/movement.adoc:573
+#: en/revolution/modules/rules/pages/movement.adoc:575
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:295
 #, no-wrap
 msgid "Contact with other enemy"
@@ -305,7 +302,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat.adoc:175
-#: en/revolution/modules/rules/pages/movement.adoc:645
+#: en/revolution/modules/rules/pages/movement.adoc:647
 #, no-wrap
 msgid "Exceptions & anomalies"
 msgstr ""
@@ -318,7 +315,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:182
-#: en/revolution/modules/rules/pages/movement.adoc:656
+#: en/revolution/modules/rules/pages/movement.adoc:658
 #, no-wrap
 msgid "Unable to contact centre-to-centre"
 msgstr ""
@@ -332,7 +329,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:189
-#: en/revolution/modules/rules/pages/movement.adoc:675
+#: en/revolution/modules/rules/pages/movement.adoc:677
 #, no-wrap
 msgid "Unable to form a battle line"
 msgstr ""
@@ -346,7 +343,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:196
-#: en/revolution/modules/rules/pages/movement.adoc:703
+#: en/revolution/modules/rules/pages/movement.adoc:705
 #, no-wrap
 msgid "Blocked edges"
 msgstr ""
@@ -358,7 +355,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:203
-#: en/revolution/modules/rules/pages/movement.adoc:733
+#: en/revolution/modules/rules/pages/movement.adoc:735
 #, no-wrap
 msgid "Pinned targets"
 msgstr ""
@@ -370,7 +367,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:210
-#: en/revolution/modules/rules/pages/movement.adoc:764
+#: en/revolution/modules/rules/pages/movement.adoc:766
 #, no-wrap
 msgid "Irregular formations"
 msgstr ""
@@ -383,7 +380,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:217
-#: en/revolution/modules/rules/pages/movement.adoc:787
+#: en/revolution/modules/rules/pages/movement.adoc:789
 #, no-wrap
 msgid "Enveloping charge"
 msgstr ""
@@ -493,9 +490,8 @@ msgid ""
 "corner attacks are not allowed where there is edge contact."
 msgstr ""
 
-#. type: Title ==
+#. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:305
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:70
 #, no-wrap
 msgid "Attack modifiers"
 msgstr ""
@@ -672,7 +668,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:427
-#: en/revolution/modules/rules/pages/command.adoc:495
+#: en/revolution/modules/rules/pages/command.adoc:498
 #, no-wrap
 msgid "Casualties"
 msgstr ""
@@ -927,7 +923,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:604
-#: en/revolution/modules/rules/pages/movement.adoc:596
+#: en/revolution/modules/rules/pages/movement.adoc:598
 #, no-wrap
 msgid "Supporting charges"
 msgstr ""
@@ -1716,9 +1712,9 @@ msgstr ""
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:1191
-#: en/revolution/modules/rules/pages/command.adoc:536
+#: en/revolution/modules/rules/pages/command.adoc:539
 #: en/revolution/modules/rules/pages/flying-units.adoc:213
-#: en/revolution/modules/rules/pages/movement.adoc:334
+#: en/revolution/modules/rules/pages/movement.adoc:337
 #, no-wrap
 msgid "Optional rule"
 msgstr ""

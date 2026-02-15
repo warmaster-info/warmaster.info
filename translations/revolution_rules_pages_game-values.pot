@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-30 22:16+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,7 +71,6 @@ msgstr ""
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:125
 #: en/revolution/modules/armies/partials/table-attributes.adoc:17
-#: en/revolution/modules/rules/pages/game-sequence.adoc:51
 #: en/revolution/modules/rules/pages/game-values.adoc:245
 #, no-wrap
 msgid "Command"
@@ -112,7 +111,6 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
 #: en/revolution/modules/rules/pages/flying-units.adoc:187
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
@@ -132,13 +130,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:450
-#: en/revolution/modules/rules/pages/movement.adoc:453
-#: en/revolution/modules/rules/pages/movement.adoc:504
-#: en/revolution/modules/rules/pages/movement.adoc:507
-#: en/revolution/modules/rules/pages/movement.adoc:530
-#: en/revolution/modules/rules/pages/movement.adoc:698
-#: en/revolution/modules/rules/pages/movement.adoc:759
+#: en/revolution/modules/rules/pages/movement.adoc:452
+#: en/revolution/modules/rules/pages/movement.adoc:455
+#: en/revolution/modules/rules/pages/movement.adoc:506
+#: en/revolution/modules/rules/pages/movement.adoc:509
+#: en/revolution/modules/rules/pages/movement.adoc:532
+#: en/revolution/modules/rules/pages/movement.adoc:700
+#: en/revolution/modules/rules/pages/movement.adoc:761
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -377,11 +375,11 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:208
 msgid ""
 "Command is another game value and a very important one too! Only characters "
-"have a Command value and they use it when issuing orders. Values vary from "
-"as low as 7 to as high as 10 but only the very best Generals have a value as "
-"high as 10.  [.bo5a]#The higher the value, the more likely you are to be "
-"able to order your troops to do what you want them to.# More about command "
-"in due course."
+"have a Command value and they use it when xref:command.adoc#orders[issuing "
+"orders]. Values vary from as low as 7 to as high as 10 but only the very "
+"best Generals have a value as high as 10.  [.bo5a]#The higher the value, the "
+"more likely you are to be able to order your troops to do what you want them "
+"to.# More about command in xref:command.adoc[due course]."
 msgstr ""
 
 #. type: Title ==
@@ -395,9 +393,10 @@ msgstr ""
 msgid ""
 "Each unit and character in the game is assigned a points value which "
 "reflects its worth in the game – the more effective units and characters "
-"having an appropriately higher value. Once the battle is finished, the total "
-"points value of each side’s casualties determines who wins.  [."
-"edit]#Otherwise,# points values don’t really affect the rules of play."
+"having an appropriately higher value. xref:end-of-the-battle.adoc#victory-"
+"points[Once the battle is finished], the total points value of each side’s "
+"casualties determines who wins.  [.edit]#Otherwise,# points values don’t "
+"really affect the rules of play."
 msgstr ""
 
 #. type: Block title
@@ -569,12 +568,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:390
 msgid ""
 "Some terrain (such as areas of ruins, hills and woods)  blocks line of sight "
-"as described in the Movement rules.  In principle, line of sight is blocked "
-"where it passes through any kind of terrain feature, but there are "
-"appropriate and mostly obvious exceptions. For example, it is always "
-"considered possible to see over low linear features such as hedges and low "
-"walls (see <<line-of-sight-terrain>>).  The section on xref:movement."
-"adoc#terrain[Terrain] explains the rules governing this."
+"as described in the xref:movement.adoc#terrain[Movement rules].  In "
+"principle, line of sight is blocked where it passes through any kind of "
+"terrain feature, but there are appropriate and mostly obvious exceptions. "
+"For example, it is always considered possible to see over low linear "
+"features such as hedges and low walls (see <<line-of-sight-terrain>>).  The "
+"section on xref:movement.adoc#terrain[Terrain] explains the rules governing "
+"this."
 msgstr ""
 
 #. type: delimited block = 4

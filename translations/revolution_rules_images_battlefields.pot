@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-30 22:16+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,6 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2207
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2216
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2254
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2409
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2418
@@ -83,18 +82,19 @@ msgid "40 cm"
 msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2216
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2245
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1969
+#, no-wrap
+msgid "60 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2236
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2427
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2454
 #, no-wrap
 msgid "10 cm"
-msgstr ""
-
-#. type: Content of: <svg><g><text><tspan>
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2245
-#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1969
-#, no-wrap
-msgid "60 cm"
 msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>

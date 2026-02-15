@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-30 22:16+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,7 +24,6 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
 #: en/revolution/modules/rules/pages/flying-units.adoc:187
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
@@ -58,9 +57,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
-#: en/revolution/modules/rules/pages/command.adoc:259
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
+#: en/revolution/modules/rules/pages/command.adoc:260
 #: en/revolution/modules/rules/pages/flying-units.adoc:22
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
 #, no-wrap
@@ -89,7 +86,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:23
 #: en/revolution/modules/rules/pages/combat.adoc:2
-#: en/revolution/modules/rules/pages/game-sequence.adoc:77
+#: en/revolution/modules/rules/pages/game-sequence.adoc:78
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:89
 #, no-wrap
 msgid "Combat"

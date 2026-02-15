@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-30 22:16+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,13 +27,13 @@ msgstr ""
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:450
-#: en/revolution/modules/rules/pages/movement.adoc:453
-#: en/revolution/modules/rules/pages/movement.adoc:504
-#: en/revolution/modules/rules/pages/movement.adoc:507
-#: en/revolution/modules/rules/pages/movement.adoc:530
-#: en/revolution/modules/rules/pages/movement.adoc:698
-#: en/revolution/modules/rules/pages/movement.adoc:759
+#: en/revolution/modules/rules/pages/movement.adoc:452
+#: en/revolution/modules/rules/pages/movement.adoc:455
+#: en/revolution/modules/rules/pages/movement.adoc:506
+#: en/revolution/modules/rules/pages/movement.adoc:509
+#: en/revolution/modules/rules/pages/movement.adoc:532
+#: en/revolution/modules/rules/pages/movement.adoc:700
+#: en/revolution/modules/rules/pages/movement.adoc:761
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -85,8 +85,8 @@ msgid ""
 "Unengaged friendly units burst through by evaders are automatically "
 "confused. Such units won’t be able to move further during that Command phase "
 "but recover at the end of the Command phase and so suffer no further "
-"penalties that turn. See the xref:movement.adoc#the-path-of-evaders[Movement "
-"section] for more details."
+"penalties that turn. See the xref:movement.adoc#the-evade[Movement section] "
+"for more details."
 msgstr ""
 
 #. type: Plain text

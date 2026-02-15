@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,8 +20,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
 #: en/revolution/modules/rules/pages/flying-units.adoc:119
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
-#: en/revolution/modules/rules/pages/movement.adoc:271
-#: en/revolution/modules/rules/pages/movement.adoc:907
+#: en/revolution/modules/rules/pages/movement.adoc:274
+#: en/revolution/modules/rules/pages/movement.adoc:909
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
@@ -29,7 +29,6 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
 #: en/revolution/modules/rules/pages/flying-units.adoc:187
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
@@ -40,9 +39,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
-#: en/revolution/modules/rules/pages/command.adoc:259
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
+#: en/revolution/modules/rules/pages/command.adoc:260
 #: en/revolution/modules/rules/pages/flying-units.adoc:22
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
 #, no-wrap
@@ -51,28 +48,11 @@ msgstr ""
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:1191
-#: en/revolution/modules/rules/pages/command.adoc:536
+#: en/revolution/modules/rules/pages/command.adoc:539
 #: en/revolution/modules/rules/pages/flying-units.adoc:213
-#: en/revolution/modules/rules/pages/movement.adoc:334
+#: en/revolution/modules/rules/pages/movement.adoc:337
 #, no-wrap
 msgid "Optional rule"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:10
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:16
-#: en/revolution/modules/rules/pages/flying-units.adoc:11
-#, no-wrap
-msgid "Initiative"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/flying-units.adoc:30
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:11
-#, no-wrap
-msgid "Home back"
 msgstr ""
 
 #. type: Title =
@@ -87,6 +67,12 @@ msgid ""
 "Troops and monsters who are able to fly can move long distances very "
 "quickly. However, once airborne they are almost impossible to direct, so "
 "such troops must be deployed and committed to battle with care."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/flying-units.adoc:11
+#, no-wrap
+msgid "Initiative"
 msgstr ""
 
 #. type: Plain text
@@ -109,6 +95,13 @@ msgid ""
 "A flying unit can only be issued orders by a character within 20cm. This "
 "restricted range reflects the difficulty of issuing orders to troops that "
 "are airborne."
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/flying-units.adoc:30
+#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:11
+#, no-wrap
+msgid "Home back"
 msgstr ""
 
 #.  Removed "up to"

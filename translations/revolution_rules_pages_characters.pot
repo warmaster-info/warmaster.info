@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,9 +16,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: Title ==
+#. type: Title =
 #: en/revolution/modules/rules/pages/characters.adoc:2
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
 #, no-wrap
 msgid "Generals, Wizards & Heroes"
 msgstr ""
@@ -400,8 +399,8 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters.adoc:308
-#: en/revolution/modules/rules/pages/command.adoc:569
-#: en/revolution/modules/rules/pages/movement.adoc:369
+#: en/revolution/modules/rules/pages/command.adoc:572
+#: en/revolution/modules/rules/pages/movement.adoc:372
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:867
 #, no-wrap
 msgid "Character movement"
