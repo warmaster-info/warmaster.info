@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -20,7 +20,6 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
 #: en/revolution/modules/rules/pages/flying-units.adoc:187
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
@@ -65,7 +64,6 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2207
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2216
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2254
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2409
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2418
@@ -75,6 +73,7 @@ msgid "40 cm"
 msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2216
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2245
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1969
 #, no-wrap

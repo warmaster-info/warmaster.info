@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -65,7 +65,7 @@ msgstr "Général"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -114,8 +114,8 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -136,7 +136,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/daemons.adoc:99
 #: en/revolution/modules/armies/pages/lizardmen.adoc:120
 #: en/revolution/modules/armies/pages/nippon.adoc:122
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:176
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
 #: en/revolution/modules/armies/pages/skaven.adoc:109
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
@@ -495,8 +495,8 @@ msgid ""
 "infiltrate that turn, it can attempt to infiltrate in a subsequent turn at "
 "the same of a different place."
 msgstr ""
-"Les Forestiers peuvent être déployés en embuscade. Chaque unité peut s’"
-"infiltrer sur le champ de bataille une fois la partie commencée. Pour "
+"Les Forestiers peuvent être déployés en embuscade. Chaque unité peut "
+"s’infiltrer sur le champ de bataille une fois la partie commencée. Pour "
 "infiltrer une unité, le joueur Elfe Sylvain désigne le point où il veut la "
 "faire apparaître et doit lui donner un ordre d’infiltration avec l’un de ses "
 "personnages. Le personnage ne tient pas compte des portées d’ordre pour "
@@ -805,8 +805,8 @@ msgid ""
 "The target unit causes terror until the next Wood Elf [.edit]#Shooting# "
 "phase."
 msgstr ""
-"L'unité ciblée provoque la terreur jusqu'à la prochaine phase de [.edit]#Tir#"
-" des Elfes Sylvains."
+"L'unité ciblée provoque la terreur jusqu'à la prochaine phase de "
+"[.edit]#Tir# des Elfes Sylvains."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/wood-elves.adoc:275

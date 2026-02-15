@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -75,7 +75,7 @@ msgstr "Char"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -108,9 +108,9 @@ msgid ""
 "encompasses all ‘men’ including Chaos Warriors and Marauders, but not "
 "Dwarfs, Elves etc."
 msgstr ""
-"Si une unité d’ogres peut utiliser son initiative pour charger une unité d’"
-"humains (littéralement humains… ce qui inclut les Guerriers et Maraudeurs du "
-"Chaos, mais pas les Nains, les Elfes et autres humanoïdes) au début de la "
+"Si une unité d’ogres peut utiliser son initiative pour charger une unité "
+"d’humains (littéralement humains… ce qui inclut les Guerriers et Maraudeurs "
+"du Chaos, mais pas les Nains, les Elfes et autres humanoïdes) au début de la "
 "phase d’Ordres, elle doit le faire, quels que soient les désirs de leur "
 "commandant."
 
@@ -128,7 +128,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
 #: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/skaven.adoc:261
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
@@ -161,8 +161,8 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -453,10 +453,10 @@ msgid ""
 msgstr ""
 "image:orcs/logo.webp[width=90,height=102,float=\"right\"] Jadis, les orques "
 "régnaient sur la totalité du Vieux Monde, ainsi que sur les lointaines "
-"terres du sud et de l’est. Leurs tribus s’affrontaient, conquéraient et s’"
-"absorbaient en une longue bataille continue qui dura d’innombrables siècles. "
-"“Innombrable” est le mot, car les orques étaient alors et demeurent des "
-"êtres primitifs et sauvages, qui n’ont jamais maîtrisé l’écriture et ne "
+"terres du sud et de l’est. Leurs tribus s’affrontaient, conquéraient et "
+"s’absorbaient en une longue bataille continue qui dura d’innombrables "
+"siècles. “Innombrable” est le mot, car les orques étaient alors et demeurent "
+"des êtres primitifs et sauvages, qui n’ont jamais maîtrisé l’écriture et ne "
 "savent pas compter au-delà de trois. Cette bataille perpétuelle dura jusqu’à "
 "ce que les tribus humaines s’unissent et s’allient aux nains pour repousser "
 "les orques des régions situées à l’ouest des Montagnes du Bord du Monde. Par "
@@ -556,18 +556,18 @@ msgid ""
 msgstr ""
 "Il existe d’innombrables tribus d’Orques dans le monde ; la plupart sont "
 "nomades, et survivent grâce aux raids et aux pillages.   Si un chef se "
-"montre particulièrement doué pour satisfaire les besoins de sa tribu, d’"
-"autres clans ne tarderont pas à le rejoindre. Ainsi, une tribu prospère va "
+"montre particulièrement doué pour satisfaire les besoins de sa tribu, "
+"d’autres clans ne tarderont pas à le rejoindre. Ainsi, une tribu prospère va "
 "croître et croître, jusqu’à ce qu’elle s’autodétruise dans une grande "
-"bataille fratricide ou se lance sur le sentier de la guerre et tente d’"
-"envahir les royaumes humains de l’ouest. Une invasion massive de ce type est "
-"appelée une “Waaagh !”.  Le nombre d’Orques qui composent la Waaagh ! est "
-"tel qu’il génère une espèce d’enthousiasme collectif qui lance les Orques "
-"dans une orgie de meurtre et de pillage, laquelle ne prendra fin qu’à la "
-"mort du chef. Les Orques n’entendant rien à des concepts tels que “retraite”"
-", “consolidation” ou “gestion des conquêtes”, il est inévitable qu’une "
-"Waaagh ! finisse toujours par s’étioler. Le seul problème pour ses ennemis "
-"est de contenir la quantité de dommages qu’elle va causer avant cela…"
+"bataille fratricide ou se lance sur le sentier de la guerre et tente "
+"d’envahir les royaumes humains de l’ouest. Une invasion massive de ce type "
+"est appelée une “Waaagh !”.  Le nombre d’Orques qui composent la Waaagh ! "
+"est tel qu’il génère une espèce d’enthousiasme collectif qui lance les "
+"Orques dans une orgie de meurtre et de pillage, laquelle ne prendra fin qu’à "
+"la mort du chef. Les Orques n’entendant rien à des concepts tels que "
+"“retraite”, “consolidation” ou “gestion des conquêtes”, il est inévitable "
+"qu’une Waaagh ! finisse toujours par s’étioler. Le seul problème pour ses "
+"ennemis est de contenir la quantité de dommages qu’elle va causer avant cela…"
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/orcs.adoc:112
@@ -613,8 +613,8 @@ msgid ""
 "Rock Lobber is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone "
 "Thrower] as described in the Rulebook."
 msgstr ""
-"Le Lance-rocs est une xref:rules:artillery-and-machines.adoc#stone-thrower"
-"[Catapulte] comme décrit dans le Livre de Règles."
+"Le Lance-rocs est une xref:rules:artillery-and-machines.adoc#stone-"
+"thrower[Catapulte] comme décrit dans le Livre de Règles."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/orcs.adoc:154
@@ -728,7 +728,7 @@ msgid ""
 "spell can be cast regardless of whether the Shaman can see the target or not."
 msgstr ""
 "Ce sort peut être lancé sur toute unité amie peau-verte (Orques, Gobelins, "
-"Orques Noirs, Gobelins sur Loup, Orques sur Sanglier, et tout autre type d’"
-"Orque ou de Gobelin, mais pas les Trolls, les Géants, les Ogres et les "
+"Orques Noirs, Gobelins sur Loup, Orques sur Sanglier, et tout autre type "
+"d’Orque ou de Gobelin, mais pas les Trolls, les Géants, les Ogres et les "
 "troupes n’étant pas des peaux-vertes) engagée au combat et à portée du "
 "chaman, qu’il puisse la voir ou non."

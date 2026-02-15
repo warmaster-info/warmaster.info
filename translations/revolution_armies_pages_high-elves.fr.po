@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -120,7 +120,7 @@ msgstr "Char"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -162,7 +162,7 @@ msgstr "Les Aigles Géants peuvent voler."
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
 #: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/skaven.adoc:261
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
@@ -195,8 +195,8 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -217,7 +217,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:250
 #: en/revolution/modules/armies/pages/daemons.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:179
-#: en/revolution/modules/armies/pages/skaven.adoc:314
+#: en/revolution/modules/armies/pages/skaven.adoc:326
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
@@ -268,8 +268,8 @@ msgid ""
 "Rulebook."
 msgstr ""
 "Les règles pour la Balistes à Répétition sont décrites dans la section "
-"xref:rules:artillery-and-machines.adoc#elven-bolt-thrower"
-"[Artillerie et Machines] du Livre de Règles."
+"xref:rules:artillery-and-machines.adoc#elven-bolt-thrower[Artillerie et "
+"Machines] du Livre de Règles."
 
 #. type: Attribute :high-elves:
 #: en/revolution/modules/armies/pages/high-elves.adoc:1
@@ -323,8 +323,8 @@ msgid ""
 "natural and otherwise."
 msgstr ""
 "image:high-elves/logo.webp[width=91,height=90,float=\"right\"] Les Elfes "
-"sont la plus ancienne et la plus développée des races du monde, à l’"
-"exception des Hommes-Lézards à sang-froid. Bien avant que les maisons "
+"sont la plus ancienne et la plus développée des races du monde, à "
+"l’exception des Hommes-Lézards à sang-froid. Bien avant que les maisons "
 "grossières des humains ne sortent de terre, les Elfes avaient déjà construit "
 "de magnifiques cités dans leur lointaine île-continent d’Ulthuan. Après "
 "plusieurs milliers d’années, presque toutes ces cités existent toujours. "
@@ -412,13 +412,13 @@ msgstr ""
 "de puissance au centre du continent d’Ulthuan, au cœur des royaumes "
 "elfiques, dont le but était d’aspirer les énergies magiques qui parcouraient "
 "le monde et y faisaient grouiller démons et autres créatures "
-"surnaturelles.   Par le biais d’un agencement de monolithes répartis dans l’"
-"île comme une toile d’araignée, le pouvoir du Chaos fut graduellement "
+"surnaturelles.   Par le biais d’un agencement de monolithes répartis dans "
+"l’île comme une toile d’araignée, le pouvoir du Chaos fut graduellement "
 "affaibli et l’équilibre revint. Les armées des démons furent détruites ou "
-"renvoyées dans le Royaume du Chaos d’où elles s’étaient échappées. Aujourd’"
-"hui encore, les Elfes se chargent de ce fardeau. Si Ulthuan venait à tomber, "
-"le monde serait rapidement consumé par la magie, et toute vie disparaîtrait -"
-" ou tout du moins sous sa forme actuelle."
+"renvoyées dans le Royaume du Chaos d’où elles s’étaient échappées. "
+"Aujourd’hui encore, les Elfes se chargent de ce fardeau. Si Ulthuan venait à "
+"tomber, le monde serait rapidement consumé par la magie, et toute vie "
+"disparaîtrait - ou tout du moins sous sa forme actuelle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:103
@@ -690,8 +690,8 @@ msgid ""
 msgstr ""
 "Le Mage peut lancer ce sort sur n’importe quelle unité amie d’infanterie ou "
 "de cavalerie disposant d’armes de tir, non engagée, à portée. Il ne peut pas "
-"le lancer sur de l’artillerie. Il n’est pas nécessaire qu’il puisse voir l’"
-"unité en question ou sa cible."
+"le lancer sur de l’artillerie. Il n’est pas nécessaire qu’il puisse voir "
+"l’unité en question ou sa cible."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:226

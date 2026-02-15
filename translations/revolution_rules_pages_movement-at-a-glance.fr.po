@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -22,22 +22,15 @@ msgstr ""
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
 #: en/revolution/modules/rules/pages/flying-units.adoc:119
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
-#: en/revolution/modules/rules/pages/movement.adoc:271
-#: en/revolution/modules/rules/pages/movement.adoc:907
+#: en/revolution/modules/rules/pages/movement.adoc:274
+#: en/revolution/modules/rules/pages/movement.adoc:909
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:411
-#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:5
-#, no-wrap
-msgid "Distance"
-msgstr ""
-
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1182
+#: en/revolution/modules/rules/pages/movement.adoc:1184
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:46
 #, no-wrap
 msgid "include::partial$terrain-restrictions.tsv[]\n"
@@ -49,11 +42,18 @@ msgstr ""
 msgid "Movement at a Glance"
 msgstr ""
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:5
+#, no-wrap
+msgid "xref:movement.adoc#movement-distance[Distance]"
+msgstr ""
+
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:8
 msgid ""
-"Units move in the Command phase either by initiative or if they receive "
-"orders."
+"Units move in the Command [.edit]#& Initiative# phase either by "
+"xref:command.adoc#initative-movement[initiative] or if they receive "
+"xref:command.adoc#orders[orders]."
 msgstr ""
 
 #. type: Plain text
@@ -82,8 +82,9 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:28
 msgid ""
-"Charging units and evading units move at up to full pace. [.bo5a]#Units in# "
-"regular formations of columns or straight lines move at up to full pace "
-"unless fortified.  Fortified units and units in an irregular formation move "
-"at up to half pace."
+"xref:movement.adoc#the-charge[Charging] units and xref:movement.adoc#the-"
+"evade[evading] units move at up to full pace. [.bo5a]#Units in# regular "
+"xref:movement.adoc#formation[formations] of columns or straight lines move "
+"at up to full pace unless fortified.  Fortified units and units in an "
+"irregular formation move at up to half pace."
 msgstr ""

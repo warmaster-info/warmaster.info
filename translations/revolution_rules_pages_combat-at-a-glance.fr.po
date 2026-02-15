@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-09 13:17+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,33 +18,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
-#. type: Title ==
-#: en/revolution/modules/armies/partials/table-attributes.adoc:14
-#: en/revolution/modules/rules/pages/combat.adoc:228
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
-#, no-wrap
-msgid "Attacks"
-msgstr "Attaques"
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:88
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:5
-#, no-wrap
-msgid "Combat engagement"
-msgstr ""
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/combat.adoc:305
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:70
-#, no-wrap
-msgid "Attack modifiers"
-msgstr ""
-
 #. type: Title =
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:1
 #, no-wrap
 msgid "Combat at a Glance"
+msgstr ""
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:5
+#, no-wrap
+msgid "xref:combat.adoc#combat-engagement[Combat engagement]"
 msgstr ""
 
 #. type: Plain text
@@ -54,9 +37,17 @@ msgid ""
 "engagement separately."
 msgstr ""
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:11
+#, no-wrap
+msgid "xref:combat.adoc#attacks[Attacks]"
+msgstr ""
+
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:14
-msgid "Total the Attack value for each unit."
+msgid ""
+"[.edit]#Applying the xref:combat.adoc#attack-modifiers[modifiers],# total "
+"the Attack value for each unit."
 msgstr ""
 
 #. type: Plain text
@@ -85,7 +76,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:19
-msgid "Make Armour rolls and discount saved hits."
+msgid "Make xref:combat.adoc#armour[Armour] rolls and discount saved hits."
 msgstr ""
 
 #. type: Plain text
@@ -102,7 +93,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:23
 #, no-wrap
-msgid "Results"
+msgid "xref:combat.adoc#combat-results[Results]"
 msgstr ""
 
 #. type: Plain text
@@ -112,7 +103,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:27
-msgid "Add +1 per supporting stand."
+msgid "Add +1 per xref:combat.adoc#supporting-combat[supporting stand]."
 msgstr ""
 
 #. type: Block title
@@ -130,9 +121,9 @@ msgstr ""
 #. type: Table
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:39
 msgid ""
-"|Both sides score the same hits.  |Both sides fall back from zero cm (but at "
-"least 1cm from the enemy) to 3D6cm except for defended or fortified units.  |"
-"Combat ends."
+"|Both sides score the same hits.  |Both sides xref:combat.adoc#fall-"
+"backs[fall back] from zero cm (but at least 1cm from the enemy) to 3D6cm "
+"except for defended or fortified units.  |Combat ends."
 msgstr ""
 
 #. type: Block title
@@ -150,9 +141,12 @@ msgstr ""
 #. type: Table
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:49
 msgid ""
-"|One side scores more hits.  |Losers retreat by the difference (divided by "
-"number of units in multiple combats rounded up).  |Winners fall back, stand "
-"or pursue/advance.  |If winners fall back or stand, the combat ends."
+"|One side scores more hits.  |Losers xref:combat.adoc#retreats[retreat] by "
+"the difference (divided by number of units in multiple combats rounded up).  "
+"|Winners xref:combat.adoc#fall-backs[fall back], "
+"xref:combat.adoc#stand[stand] or xref:combat.adoc#pursuit[pursue]/"
+"xref:combat.adoc#advance[advance].  |If winners fall back or stand, the "
+"combat ends."
 msgstr ""
 
 #. type: Block title
@@ -177,7 +171,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:59
 #, no-wrap
-msgid "Pursuit / Advance"
+msgid "xref:combat.adoc#pursuit[Pursuit] / xref:combat.adoc#advance[Advance]"
 msgstr ""
 
 #. type: Plain text
@@ -216,9 +210,15 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
+#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:70
+#, no-wrap
+msgid "xref:combat.adoc#attack-modifiers[Attack modifiers]"
+msgstr ""
+
+#. type: Title ==
 #: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:75
 #, no-wrap
-msgid "End of combat"
+msgid "xref:combat.adoc#unresolved-combats[End of combat]"
 msgstr ""
 
 #. type: Plain text
@@ -227,3 +227,7 @@ msgid ""
 "At the end of the Combat phase, any odd hits are discounted from units that "
 "are no longer engaged."
 msgstr ""
+
+#, no-wrap
+#~ msgid "Attacks"
+#~ msgstr "Attaques"

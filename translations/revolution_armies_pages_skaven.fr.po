@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -66,7 +66,7 @@ msgstr "Héros"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -102,7 +102,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
 #: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/skaven.adoc:261
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
@@ -135,8 +135,8 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -157,7 +157,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:250
 #: en/revolution/modules/armies/pages/daemons.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:179
-#: en/revolution/modules/armies/pages/skaven.adoc:314
+#: en/revolution/modules/armies/pages/skaven.adoc:326
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
@@ -168,7 +168,7 @@ msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/daemons.adoc:99
 #: en/revolution/modules/armies/pages/lizardmen.adoc:120
 #: en/revolution/modules/armies/pages/nippon.adoc:122
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:176
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
 #: en/revolution/modules/armies/pages/skaven.adoc:109
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
@@ -180,7 +180,7 @@ msgstr "Règles de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos.adoc:216
-#: en/revolution/modules/armies/pages/skaven.adoc:293
+#: en/revolution/modules/armies/pages/skaven.adoc:305
 msgid ""
 "The effect lasts for the duration of the following combat phase and the "
 "indicated bonus attacks are added to the unit’s total attacks each round."
@@ -192,7 +192,7 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:241
 #: en/revolution/modules/armies/pages/lizardmen.adoc:252
-#: en/revolution/modules/armies/pages/skaven.adoc:271
+#: en/revolution/modules/armies/pages/skaven.adoc:283
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:262
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
@@ -204,7 +204,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:259
+#: en/revolution/modules/armies/pages/skaven.adoc:271
 msgid ""
 "This spell can be cast upon an enemy unit that is engaged in combat and "
 "which is within range. The Wizard does not have to be able to see the target "
@@ -214,12 +214,12 @@ msgid ""
 msgstr ""
 "Ce sort peut être lancé sur une unité ennemie à portée et engagée en combat, "
 "que le Sorcier puisse la voir ou non. Il dure jusqu'à la fin de la prochaine "
-"phase de Combat. Chaque socle de l’unité, y compris les personnages qui l’"
-"ont rejointe, voit son nombre d’Attaques réduit de -1."
+"phase de Combat. Chaque socle de l’unité, y compris les personnages qui "
+"l’ont rejointe, voit son nombre d’Attaques réduit de -1."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:307
-#: en/revolution/modules/armies/pages/skaven.adoc:289
+#: en/revolution/modules/armies/pages/skaven.adoc:301
 msgid ""
 "This spell can be cast upon a friendly unit that is engaged in combat and "
 "which is within range. The Wizard does not have to be able to see the target "
@@ -336,9 +336,9 @@ msgid ""
 msgstr ""
 "image:skaven/logo.webp[width=120,height=108,float=\"right\"] Les Skavens ne "
 "sont ni des hommes ni des rats, mais un mélange impie des deux espèces, dont "
-"les origines restent voilées de mystère. Il est probable qu’ils mutèrent à l’"
-"aube de l’Âge du Chaos, lorsque les vents de magie soufflèrent sur le monde ;"
-" des millions de tonnes de matière chargée d’énergie magique furent "
+"les origines restent voilées de mystère. Il est probable qu’ils mutèrent à "
+"l’aube de l’Âge du Chaos, lorsque les vents de magie soufflèrent sur le "
+"monde ; des millions de tonnes de matière chargée d’énergie magique furent "
 "précipitées au-dessus de la planète sous la forme d’une averse de "
 "météorites. Certaines étaient d’immenses rochers aussi gros que des maisons, "
 "d’autres un simple amas de poussière qui imprégna le sol même. Les créatures "
@@ -471,8 +471,8 @@ msgid ""
 "constrained by terrain and fortified status the same as other armies – e.g. "
 "they cannot pursue if fortified."
 msgstr ""
-"Les unités Skavens qui remportent un round de combat peuvent poursuivre n’"
-"importe quel ennemi, quel que soit son type. Toute unité Skaven (y compris "
+"Les unités Skavens qui remportent un round de combat peuvent poursuivre "
+"n’importe quel ennemi, quel que soit son type. Toute unité Skaven (y compris "
 "l’artillerie) peut poursuivre n’importe quelle unité ennemie (y compris les "
 "volants, la cavalerie et les chars). Bien qu’ils aient le droit de "
 "poursuivre quelle que soit la nature de l’ennemi, les Skavens restent soumis "
@@ -506,10 +506,15 @@ msgstr "[[jezzails,†1]]1. Jezzails"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:139
+#, fuzzy
+#| msgid ""
+#| "Count enemy armour values as one worse than normal when shot by a "
+#| "jezzail. So, for example, an armour value of 3+ counts as 4+, 5+ counts "
+#| "as 6+, and 6+ can’t save against a jezzail."
 msgid ""
 "Count enemy armour values as one worse than normal when shot by a jezzail. "
 "So, for example, an armour value of 3+ counts as 4+, 5+ counts as 6+, and 6+ "
-"can’t save against a jezzail."
+"can’t save against a Jezzail."
 msgstr ""
 "Les Jezzails comptent l’armure de leur cible comme étant inférieure d’1 "
 "point à sa valeur ordinaire. Ainsi, une valeur d’armure de 3+ passe à 4+, 5+ "
@@ -553,12 +558,24 @@ msgid "[[rat-swarms,†3]]3. Rat Swarms"
 msgstr "[[rat-swarms,†3]]3. Nuées de Rats"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:156
+#: en/revolution/modules/armies/pages/skaven.adoc:152
 msgid ""
-"Rat Swarms cannot be driven back by shooting and do not roll for drive "
-"backs. A Rat Swarm stand cannot be supported by other kinds of infantry – "
-"only by other Ratswarm stands. Note, however, that Rat Swarms can support "
-"other kinds of infantry as normal. A Rat Swarm cannot be given magic items."
+"Rat Swarms cannot be driven back by shooting and do not roll for drive backs."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:157
+#, fuzzy
+#| msgid ""
+#| "Rat Swarms cannot be driven back by shooting and do not roll for drive "
+#| "backs. A Rat Swarm stand cannot be supported by other kinds of infantry – "
+#| "only by other Ratswarm stands. Note, however, that Rat Swarms can support "
+#| "other kinds of infantry as normal. A Rat Swarm cannot be given magic "
+#| "items."
+msgid ""
+"A Rat Swarm stand cannot be supported by other kinds of infantry – only by "
+"other Rat Swarm stands. Note, however, that Rat Swarms can support other "
+"kinds of infantry as normal."
 msgstr ""
 "Les Nuées de Rats ne peuvent pas être repoussées par les tirs et ne font pas "
 "de jets de repoussement. Un socle de Nuée de Rats ne peut pas être soutenu "
@@ -567,14 +584,19 @@ msgstr ""
 "soutenir normalement les autres types d’infanterie. Une Nuée de Rats ne peut "
 "pas recevoir d'objets magiques."
 
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:160
+msgid "A Rat Swarm cannot be given magic items."
+msgstr ""
+
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:157
+#: en/revolution/modules/armies/pages/skaven.adoc:161
 #, no-wrap
 msgid "[[gutter-runners,†4]]4. Gutter Runners"
 msgstr "[[gutter-runners,†4]]4. Coureurs d'Égouts"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:164
+#: en/revolution/modules/armies/pages/skaven.adoc:168
 msgid ""
 "Gutter Runners are armed with throwing stars and darts, and are therefore "
 "allowed to shoot as if they had bows, but their range is reduced to 15cm and "
@@ -591,7 +613,7 @@ msgstr ""
 "de Vue depuis son bord avant pour charger un ennemi."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:184
+#: en/revolution/modules/armies/pages/skaven.adoc:188
 msgid ""
 "In addition, Gutter Runners do not have to be deployed before the game if "
 "the player does not wish to do so. Instead individual units can be "
@@ -629,7 +651,7 @@ msgstr ""
 "qui a donné l’ordre d’infiltration."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:192
+#: en/revolution/modules/armies/pages/skaven.adoc:196
 msgid ""
 "Skaven characters may ignore the Under the Lash rule when issuing orders to "
 "Gutter Runners. Treat the character as having the normal command range for "
@@ -647,20 +669,22 @@ msgstr ""
 "ou en un autre lieu."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:195
-msgid "Gutter Runners don’t suffer −1 Command penalty for Dense Terrain."
+#: en/revolution/modules/armies/pages/skaven.adoc:199
+#, fuzzy
+#| msgid "Gutter Runners don’t suffer −1 Command penalty for Dense Terrain."
+msgid "Gutter Runners don’t suffer the −1 Command penalty for Dense Terrain."
 msgstr ""
 "Les Coureurs d'Égouts ne subissent pas de pénalité de -1 au Commandement à "
 "cause du Terrain Difficile."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:196
+#: en/revolution/modules/armies/pages/skaven.adoc:200
 #, no-wrap
 msgid "[[warp-lightning-cannon,†5]]5. Warp Lightning Cannon"
 msgstr "[[warp-lightning-cannon,†5]]5. Canon à Malefoudre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:202
+#: en/revolution/modules/armies/pages/skaven.adoc:206
 msgid ""
 "The Warp Lightning Cannon has a range of 40cm and follows all the normal "
 "rules for artillery, but they can move up to 20cm. Half pace move is 10cm. "
@@ -674,13 +698,13 @@ msgstr ""
 "Canon à Malefoudre. Ceci inclut les tirs de contre-charge."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:203
+#: en/revolution/modules/armies/pages/skaven.adoc:207
 #, no-wrap
 msgid "[[doom-wheel,†6]]6. Doom Wheel"
 msgstr "[[doom-wheel,†6]]6. Roue Infernale"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:208
+#: en/revolution/modules/armies/pages/skaven.adoc:212
 msgid ""
 "When the Doom Wheel charges against targets in the open it receives D6 bonus "
 "Attacks in addition to the normal +1 Attack for charging. Note that this "
@@ -693,18 +717,69 @@ msgstr ""
 "poursuite, avance, ou si la Roue est chargée."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:210
+#: en/revolution/modules/armies/pages/skaven.adoc:214
 msgid "The Doom Wheel has a move of 20cm and causes terror."
 msgstr "La Roue Infernale dispose d’un mouvement de 20cm et cause la terreur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:211
-#, no-wrap
-msgid "[[grey-seer,†7]]7. Grey Seer"
+#: en/revolution/modules/armies/pages/skaven.adoc:215
+#, fuzzy, no-wrap
+#| msgid "[[screaming-bell,†8]]8. Screaming Bell"
+msgid "[[screaming-bell,†7]]7. Screaming Bell"
+msgstr "[[screaming-bell,†8]]8. Cloche Hurlante"
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:223
+msgid ""
+"A Screaming Bell is a gargantuan device and therefore it uses a 40 × 60mm "
+"base, with the short edge being the front. It cannot move of its own accord "
+"– but relies upon the great mass of Skaven to push it forward. The Screaming "
+"Bell can therefore only move in the Command phase if it forms a brigade with "
+"one or more infantry units. It can then move 20cm at infantry pace. It "
+"cannot move using initiative and cannot be driven back by shooting and does "
+"not roll for drive backs."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:230
+msgid ""
+"In combat it is automatically destroyed if forced to retreat but will "
+"pursue, advance and fall back so long as it is touching a Skaven infantry "
+"unit at the start and end of its move: otherwise it cannot pursue, advance "
+"or fall back as it is unable to move of its own accord."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:235
+msgid ""
+"All Skaven units touching the Screaming Bell are unaffected by the usual "
+"penalty for Terror whilst they remain so. In addition, any Skaven Hero or "
+"Warlock within 30cm of the Screaming Bell adds +1 to their Command value."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:239
+msgid ""
+"Any enemy character within 30cm of the Screaming Bell deducts −1 from their "
+"Command value."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:242
+msgid ""
+"A Skaven army can only ever include a maximum of 1 Screaming Bell no matter "
+"how large."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/skaven.adoc:243
+#, fuzzy, no-wrap
+#| msgid "[[grey-seer,†7]]7. Grey Seer"
+msgid "[[grey-seer,†8]]8. Grey Seer"
 msgstr "[[grey-seer,†7]]7. Prophète Gris"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:214
+#: en/revolution/modules/armies/pages/skaven.adoc:246
 msgid ""
 "The Grey Seer is the army’s General and can use Skaven magic in the same "
 "manner as a Warlock and can be given a magic item restricted to either a "
@@ -715,80 +790,38 @@ msgstr ""
 "limités aux Généraux ou aux Sorciers."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:215
-#, no-wrap
-msgid "[[screaming-bell,†8]]8. Screaming Bell"
-msgstr "[[screaming-bell,†8]]8. Cloche Hurlante"
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:234
-msgid ""
-"A Screaming Bell is a gargantuan device and therefore it uses a 40 × 60mm "
-"base, with the short edge being the front. It cannot move of its own accord "
-"– but relies upon the great mass of Skaven to push it forward. The Screaming "
-"Bell can therefore only move in the Command phase if it forms a brigade with "
-"one or more infantry units. It can then move 20cm at infantry pace. It "
-"cannot move using initiative and cannot be driven back by shooting and does "
-"not roll for drive backs. In combat it is automatically destroyed if forced "
-"to retreat but will pursue, advance and fall back so long as it is touching "
-"a Skaven infantry unit at the start and end of its move: otherwise it cannot "
-"pursue, advance or fall back as it is unable to move of its own accord. All "
-"Skaven units touching the Screaming Bell are unaffected by the usual penalty "
-"for Terror whilst they remain so. In addition, any Skaven Hero or Warlock "
-"within 30cm of the Screaming Bell adds +1 to their Command value. Any enemy "
-"character within 30cm of the Screaming Bell deducts −1 from their Command "
-"value. A Skaven army can only ever include a maximum of 1 Screaming Bell no "
-"matter how large."
-msgstr ""
-"La Cloche Hurlante est un engin gigantesque et utilise un socle de 40 x "
-"60mm, le bord le plus petit vers l'avant. Elle ne peut pas se déplacer seule "
-"mais est poussée par une masse de Skavens. De ce fait, la Cloche Hurlante ne "
-"peut se déplacer durant la phase d’Ordres que si elle forme une brigade avec "
-"au moins une unité d’infanterie. Elle peut alors se déplacer de 20 cm, à la "
-"vitesse de l’infanterie. Elle ne peut pas se déplacer par initiative, ni "
-"être repoussée par des tirs. Elle n’effectue pas de jets de repoussement. Au "
-"combat, elle est automatiquement détruite si elle est forcée de se replier, "
-"mais poursuivra, reculera et avancera normalement du moment qu’elle est en "
-"contact avec une unité d’infanterie Skaven au début et à la fin de son "
-"mouvement. Autrement, elle ne peut pas poursuivre, avancer ou reculer, car "
-"elle ne peut pas se déplacer toute seule. Toute unité Skaven en contact avec "
-"la Cloche est immunisée aux effets de la Terreur et ne subit pas la pénalité "
-"habituelle tant qu’elle reste à son contact. De plus, tout Technomage ou "
-"Héros Skaven dans un rayon de 30cm autour de la Cloche Hurlante ajoute +1 à "
-"sa valeur de Commandement. Tout personnage ennemi se trouvant dans un rayon "
-"de 30cm autour de la Cloche subit une pénalité de -1 à sa valeur de "
-"Commandement. Une armée Skaven ne peut jamais inclure qu’une seule Cloche "
-"Hurlante maximum, quelle que soit sa taille."
-
-#. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:235
+#: en/revolution/modules/armies/pages/skaven.adoc:247
 #, no-wrap
 msgid "[[rat-ogre-bodyguard,†9]]9. Rat Ogre Bodyguard"
 msgstr "[[rat-ogre-bodyguard,†9]]9. Garde du Corps Rat Ogre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:238
+#: en/revolution/modules/armies/pages/skaven.adoc:250
+#, fuzzy
+#| msgid ""
+#| "The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard.A "
+#| "character with a bodyguard adds +1 to his Attacks."
 msgid ""
-"The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard.A character "
-"with a bodyguard adds +1 to his Attacks."
+"The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard. A "
+"character with a bodyguard adds +1 to his Attacks."
 msgstr ""
 "Les Prophètes Gris, Héros, et Technomages peuvent avoir un Garde du Corps "
 "Rat Ogre. Ce personnage ajoute +1 à sa valeur d'Attaques."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/skaven.adoc:243
+#: en/revolution/modules/armies/pages/skaven.adoc:255
 #, no-wrap
 msgid "Skaven spells"
 msgstr "Sorts Skavens"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:246
+#: en/revolution/modules/armies/pages/skaven.adoc:258
 #, no-wrap
 msgid "Wither"
 msgstr "Flétrissement"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:252
+#: en/revolution/modules/armies/pages/skaven.adoc:264
 msgid ""
 "_Chanting a vile curse, the caster inflicts a wasting, shrinking sickness on "
 "the enemy._"
@@ -797,13 +830,13 @@ msgstr ""
 "débilitante à l'ennemi._"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:261
+#: en/revolution/modules/armies/pages/skaven.adoc:273
 #, no-wrap
 msgid "Warp Lightning"
 msgstr "Malefoudre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:267
+#: en/revolution/modules/armies/pages/skaven.adoc:279
 msgid ""
 "_An arc of pure warp energy strikes the foe wreaking strange changes, "
 "melting flesh and twisting bone into monstrous forms._"
@@ -813,7 +846,7 @@ msgstr ""
 "de monstrueuses formes ._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:288
 msgid ""
 "Warp Lightning is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "
@@ -825,13 +858,13 @@ msgstr ""
 "repoussée comme par des tirs ordinaires."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:278
+#: en/revolution/modules/armies/pages/skaven.adoc:290
 #, no-wrap
 msgid "Death Frenzy"
 msgstr "Frénésie Mortelle"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:285
+#: en/revolution/modules/armies/pages/skaven.adoc:297
 msgid ""
 "_The Skaven screams a blasphemous litany to the Horned Rat driving the "
 "Skaven masses into a frenzy of warpdust fuelled destruction._"
@@ -840,7 +873,7 @@ msgstr ""
 "masses Skavens de fureur sanguinaire et d'appétit de destruction._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:305
+#: en/revolution/modules/armies/pages/skaven.adoc:317
 msgid ""
 "The unit gains bonus Death Frenzy attacks for the following combat phase. To "
 "determine the number of bonus attacks roll one D6 at a time and add the "
@@ -857,15 +890,15 @@ msgstr ""
 "toute la phase de Combat suivante. Pour déterminer le nombre d’Attaques "
 "supplémentaires, jetez 1D6 à la fois et ajoutez les résultats. Le joueur "
 "peut jeter autant de dés qu’il le souhaite, jusqu’à un maximum d’un dé par "
-"socle de l’unité. Le joueur jette ses dés un par un, et peut décider d’"
-"arrêter à tout moment. Cependant, s’il obtient sur le dé qu’il vient de "
+"socle de l’unité. Le joueur jette ses dés un par un, et peut décider "
+"d’arrêter à tout moment. Cependant, s’il obtient sur le dé qu’il vient de "
 "lancer un résultat similaire à celui d’un dé qu’il a précédemment jeté, le "
 "nombre total d’Attaques supplémentaires est dirigé contre l’unité "
 "bénéficiant du sort plutôt que contre l’ennemi. Dans ce cas, ces Attaques ne "
 "sont résolues que lors du premier round de combat, pas lors des suivants."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:309
+#: en/revolution/modules/armies/pages/skaven.adoc:321
 msgid ""
 "Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. 1+4+1 "
 "= 6 Attacks upon the Skaven unit in the first round."
@@ -875,13 +908,13 @@ msgstr ""
 "premier round de combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:311
+#: en/revolution/modules/armies/pages/skaven.adoc:323
 #, no-wrap
 msgid "Plague"
 msgstr "Peste"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:319
+#: en/revolution/modules/armies/pages/skaven.adoc:331
 msgid ""
 "_A swirling could of virulence envelopes the enemy troops causing their "
 "bodies to erupt in pustules, their skins to split apart with running sores, "
@@ -893,7 +926,7 @@ msgstr ""
 "gonflent tandis que leurs cheveux s’emplissent de vermine._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:323
+#: en/revolution/modules/armies/pages/skaven.adoc:335
 msgid ""
 "This spell can be cast on any unengaged enemy unit within range regardless "
 "of whether the Wizard can see it or not. The spell cannot be cast on a unit "
@@ -904,10 +937,50 @@ msgstr ""
 "combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:327
+#: en/revolution/modules/armies/pages/skaven.adoc:339
 msgid ""
 "The unit suffers six attacks worked out in the usual way. A unit cannot be "
 "driven back by Plague (the vile Plague erupts from within!)."
 msgstr ""
 "L’unité subit six Attaques résolues de la manière habituelle. Une unité ne "
 "peut pas être repoussée par la Peste (l’épidémie frappe en son sein même !)."
+
+#~ msgid ""
+#~ "A Screaming Bell is a gargantuan device and therefore it uses a 40 × 60mm "
+#~ "base, with the short edge being the front. It cannot move of its own "
+#~ "accord – but relies upon the great mass of Skaven to push it forward. The "
+#~ "Screaming Bell can therefore only move in the Command phase if it forms a "
+#~ "brigade with one or more infantry units. It can then move 20cm at "
+#~ "infantry pace. It cannot move using initiative and cannot be driven back "
+#~ "by shooting and does not roll for drive backs. In combat it is "
+#~ "automatically destroyed if forced to retreat but will pursue, advance and "
+#~ "fall back so long as it is touching a Skaven infantry unit at the start "
+#~ "and end of its move: otherwise it cannot pursue, advance or fall back as "
+#~ "it is unable to move of its own accord. All Skaven units touching the "
+#~ "Screaming Bell are unaffected by the usual penalty for Terror whilst they "
+#~ "remain so. In addition, any Skaven Hero or Warlock within 30cm of the "
+#~ "Screaming Bell adds +1 to their Command value. Any enemy character within "
+#~ "30cm of the Screaming Bell deducts −1 from their Command value. A Skaven "
+#~ "army can only ever include a maximum of 1 Screaming Bell no matter how "
+#~ "large."
+#~ msgstr ""
+#~ "La Cloche Hurlante est un engin gigantesque et utilise un socle de 40 x "
+#~ "60mm, le bord le plus petit vers l'avant. Elle ne peut pas se déplacer "
+#~ "seule mais est poussée par une masse de Skavens. De ce fait, la Cloche "
+#~ "Hurlante ne peut se déplacer durant la phase d’Ordres que si elle forme "
+#~ "une brigade avec au moins une unité d’infanterie. Elle peut alors se "
+#~ "déplacer de 20 cm, à la vitesse de l’infanterie. Elle ne peut pas se "
+#~ "déplacer par initiative, ni être repoussée par des tirs. Elle n’effectue "
+#~ "pas de jets de repoussement. Au combat, elle est automatiquement détruite "
+#~ "si elle est forcée de se replier, mais poursuivra, reculera et avancera "
+#~ "normalement du moment qu’elle est en contact avec une unité d’infanterie "
+#~ "Skaven au début et à la fin de son mouvement. Autrement, elle ne peut pas "
+#~ "poursuivre, avancer ou reculer, car elle ne peut pas se déplacer toute "
+#~ "seule. Toute unité Skaven en contact avec la Cloche est immunisée aux "
+#~ "effets de la Terreur et ne subit pas la pénalité habituelle tant qu’elle "
+#~ "reste à son contact. De plus, tout Technomage ou Héros Skaven dans un "
+#~ "rayon de 30cm autour de la Cloche Hurlante ajoute +1 à sa valeur de "
+#~ "Commandement. Tout personnage ennemi se trouvant dans un rayon de 30cm "
+#~ "autour de la Cloche subit une pénalité de -1 à sa valeur de Commandement. "
+#~ "Une armée Skaven ne peut jamais inclure qu’une seule Cloche Hurlante "
+#~ "maximum, quelle que soit sa taille."

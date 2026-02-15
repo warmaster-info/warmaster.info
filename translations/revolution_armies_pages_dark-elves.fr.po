@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-16 10:30+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -98,7 +98,7 @@ msgstr "Char"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -147,8 +147,8 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -341,8 +341,8 @@ msgid ""
 "by pain and resentment, Malekith gave up all pretence of rightful lordship "
 "and chose instead to impose his will by force of arms alone."
 msgstr ""
-"C’est grâce à ce rite que les dieux elfiques accordaient le pouvoir et l’"
-"autorité aux véritables souverains d’Ulthuan. Mais Morathi s’était attirée "
+"C’est grâce à ce rite que les dieux elfiques accordaient le pouvoir et "
+"l’autorité aux véritables souverains d’Ulthuan. Mais Morathi s’était attirée "
 "leur inimitié, et la flamme rejeta son fils. Son corps fut grièvement brûlé, "
 "et il dut se faire forger une armure enchantée qu’il porte encore à ce jour. "
 "Gravement affaibli, blessé dans sa chair comme dans son orgueil et son âme, "
@@ -368,13 +368,13 @@ msgstr ""
 "Déchirure, car elle eut pour conséquence la division de la race elfe.  À "
 "partir de là, les cultures des Elfes Sylvains des colonies du Vieux Monde, "
 "des Hauts Elfes d’Ulthuan et des Elfes Noirs de Malékith allaient se "
-"développer séparément les unes des autres. Les Elfes Noirs finirent d’"
-"ailleurs par être chassés d’Ulthuan. Le pays de Nagarythe et une grande "
+"développer séparément les unes des autres. Les Elfes Noirs finirent "
+"d’ailleurs par être chassés d’Ulthuan. Le pays de Nagarythe et une grande "
 "partie des côtes occidentales d’Ulthuan furent ravagées par la sorcellerie "
 "pendant les combats. Nagarythe finit par être engloutie par les eaux, et "
 "Malékith et ses fidèles durent s’exiler vers le Nouveau Monde, où ils "
-"fondèrent leur propre royaume, près des désolations du Chaos. Ils l’"
-"appelèrent Naggaroth, ce qui signifie en elfique “Terre du Grand Froid”, "
+"fondèrent leur propre royaume, près des désolations du Chaos. Ils "
+"l’appelèrent Naggaroth, ce qui signifie en elfique “Terre du Grand Froid”, "
 "alors que leur capitale aux noires flèches était baptisée Naggarond, la Tour "
 "Froide."
 
@@ -536,8 +536,8 @@ msgid ""
 "round. A hit that is inflicted and subsequently regenerated still counts "
 "towards the results for that round."
 msgstr ""
-"Lors d’un corps à corps, une fois que toutes les attaques ont été résolues ("
-"et si l’Hydre a survécu) elle régénère automatiquement 1 touche subie lors "
+"Lors d’un corps à corps, une fois que toutes les attaques ont été résolues "
+"(et si l’Hydre a survécu) elle régénère automatiquement 1 touche subie lors "
 "de ce round. Une touche infligée et régénérée compte quand même pour ce qui "
 "est de la résolution du round de combat."
 
@@ -556,8 +556,8 @@ msgid ""
 "Rulebook."
 msgstr ""
 "Les règles pour la Balistes à Répétition sont décrites dans la section "
-"xref:rules:artillery-and-machines.adoc#elven-bolt-thrower"
-"[Artillerie et Machines] du Livre de Règles."
+"xref:rules:artillery-and-machines.adoc#elven-bolt-thrower[Artillerie et "
+"Machines] du Livre de Règles."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:170
@@ -582,16 +582,16 @@ msgid ""
 msgstr ""
 "Les Généraux Elfes Noirs sont les maîtres de la manipulation et du chantage, "
 "et ils ne s’embarrassent pas de morale lorsqu’ils traitent avec leurs "
-"officiers ! Si un Héros ou une Sorcière elfe noir obtient un double 6 lorsqu’"
-"iel donne un ordre, le Général Elfe Noir a le choix entre perdre 1 point de "
-"Commandement (il passe de 10 à 9) ou exécuter le fautif - auquel cas, le "
-"personnage est immédiatement retiré du jeu, mais il n’accorde aucun point de "
-"victoire à l’ennemi.   En outre, si le Général lui-même commet une gaffe, il "
-"perd 1 point de Commandement. Un Général peut perdre un maximum de 2 point "
-"de Commandement (jusqu’à un minimum de 8)  une fois ces 2 points perdus, "
-"tous les subordonnés qui commettent des gaffes seront automatiquement "
-"exécutés, et les gaffes du Général mettront simplement fin à la phase d’"
-"ordres sans autre effet néfaste."
+"officiers ! Si un Héros ou une Sorcière elfe noir obtient un double 6 "
+"lorsqu’iel donne un ordre, le Général Elfe Noir a le choix entre perdre 1 "
+"point de Commandement (il passe de 10 à 9) ou exécuter le fautif - auquel "
+"cas, le personnage est immédiatement retiré du jeu, mais il n’accorde aucun "
+"point de victoire à l’ennemi.   En outre, si le Général lui-même commet une "
+"gaffe, il perd 1 point de Commandement. Un Général peut perdre un maximum de "
+"2 point de Commandement (jusqu’à un minimum de 8)  une fois ces 2 points "
+"perdus, tous les subordonnés qui commettent des gaffes seront "
+"automatiquement exécutés, et les gaffes du Général mettront simplement fin à "
+"la phase d’ordres sans autre effet néfaste."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:184
@@ -687,9 +687,9 @@ msgid ""
 "hill, more than 2cm of woodland, and so forth."
 msgstr ""
 "Tracez une ligne imaginaire de 30 cm de long, à partir du socle de la "
-"Sorcière et dans n’importe quelle direction. La ligne peut traverser n’"
-"importe quelle unité, mais pas les terrains qui arrêteraient normalement un "
-"tir ordinaire, comme une colline, plus de 2 cm de forêt, etc."
+"Sorcière et dans n’importe quelle direction. La ligne peut traverser "
+"n’importe quelle unité, mais pas les terrains qui arrêteraient normalement "
+"un tir ordinaire, comme une colline, plus de 2 cm de forêt, etc."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:238
@@ -741,11 +741,11 @@ msgid ""
 "– the whirling vortex sucks its victims down affording them no chance to "
 "avoid it."
 msgstr ""
-"Ce sort peut être lancé sur une unité ennemie en vue de la Sorcière et n’"
-"étant pas engagée au corps à corps. L’unité subit 4 attaques sans sauvegarde "
-"d’armure. Une unité subissant des pertes à cause de l’Horreur Noire ne peut "
-"pas être repoussée en conséquence : le vortex aspire ses victimes sans qu’"
-"elles aient la moindre chance d’en réchapper."
+"Ce sort peut être lancé sur une unité ennemie en vue de la Sorcière et "
+"n’étant pas engagée au corps à corps. L’unité subit 4 attaques sans "
+"sauvegarde d’armure. Une unité subissant des pertes à cause de l’Horreur "
+"Noire ne peut pas être repoussée en conséquence : le vortex aspire ses "
+"victimes sans qu’elles aient la moindre chance d’en réchapper."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/dark-elves.adoc:254

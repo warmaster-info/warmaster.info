@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:19+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -26,7 +26,7 @@ msgid "Warmaster Revolution"
 msgstr ""
 
 #. type: Plain text
-#: en/home/modules/ROOT/pages/index.adoc:9
+#: en/home/modules/ROOT/pages/index.adoc:12
 msgid ""
 "_Warmaster Revolution_ is a fan-based second edition of rules for the "
 "Warmaster game. Official rules are published in PDF format on the community "
@@ -37,7 +37,7 @@ msgstr ""
 "sur le site communautaire, https://www.wm-revolution.com/[wm-revolution.com]."
 
 #. type: Plain text
-#: en/home/modules/ROOT/pages/index.adoc:11
+#: en/home/modules/ROOT/pages/index.adoc:14
 msgid ""
 "This website contains the _Warmaster Revolution_ "
 "xref:revolution:rules:index.adoc[rules] (version {compendium-version}) and "
@@ -50,20 +50,20 @@ msgid ""
 "explanation] for details.  Many minor spelling and grammar improvements are "
 "not marked."
 msgstr ""
-"Ce site internet contient les xref:revolution:rules:index.adoc[règles] ("
-"version {compendium-version}) et les xref:revolution:armies:index.adoc"
-"[listes d'armées] (version {armies-version}) de _Warmaster Revolution_ pour "
-"plus de facilité d'utilisation et de recherche.  Certains textes ont été "
-"réorganisés ou partiellement ré-écrits, en se basant sur des changements "
-"similaires dans les dernières éditions de _Warmaster_, mais _aucun "
-"changement n'a été fait sur les règles du jeu_.  Ces changements ont été "
-"soulignées en pointillé ou entouré de bordures colorées, voir "
-"xref:revolution:rules:editors-note.adoc#website-editors-note"
-"[cette explication] pour plus de détails.  De nombreuses corrections de "
-"syntaxe et améliorations de grammaire ne sont pas marquées."
+"Ce site internet contient les xref:revolution:rules:index.adoc[règles] "
+"(version {compendium-version}) et les "
+"xref:revolution:armies:index.adoc[listes d'armées] (version {armies-"
+"version}) de _Warmaster Revolution_ pour plus de facilité d'utilisation et "
+"de recherche.  Certains textes ont été réorganisés ou partiellement ré-"
+"écrits, en se basant sur des changements similaires dans les dernières "
+"éditions de _Warmaster_, mais _aucun changement n'a été fait sur les règles "
+"du jeu_.  Ces changements ont été soulignées en pointillé ou entouré de "
+"bordures colorées, voir xref:revolution:rules:editors-note.adoc#website-"
+"editors-note[cette explication] pour plus de détails.  De nombreuses "
+"corrections de syntaxe et améliorations de grammaire ne sont pas marquées."
 
 #. type: Plain text
-#: en/home/modules/ROOT/pages/index.adoc:13
+#: en/home/modules/ROOT/pages/index.adoc:16
 msgid ""
 "Note the search box at the top of the page returns pages with _any one_ of "
 "the search words.  To force the results to contain a specific word, prefix "
@@ -75,22 +75,96 @@ msgstr ""
 "par exemple, `+Elfes +Noirs`."
 
 #. type: Plain text
-#: en/home/modules/ROOT/pages/index.adoc:16
+#: en/home/modules/ROOT/pages/index.adoc:19
+#, fuzzy
+#| msgid ""
+#| "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-"
+#| "revolution-rules-cover.webp[Warmaster Revolution "
+#| "Rulebook,width=2480,height=3508]]"
 msgid ""
 "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
-"rules-cover.webp[Warmaster Revolution Rulebook,width=2480,height=3508]]"
+"compendium-cover.webp[Warmaster Revolution Rulebook,width=2480,height=3508]]"
 msgstr ""
 "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
-"rules-cover.webp"
-"[Livre de Règles de Warmaster Revolution,width=2480,height=3508]]"
+"rules-cover.webp[Livre de Règles de Warmaster "
+"Revolution,width=2480,height=3508]]"
 
 #. type: Plain text
-#: en/home/modules/ROOT/pages/index.adoc:16
+#: en/home/modules/ROOT/pages/index.adoc:20
+#, fuzzy
+#| msgid ""
+#| "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
+#| "revolution-armies-cover.webp[Warmaster Revolution "
+#| "Armies,width=2486,height=3509]]"
 msgid ""
 "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
-"revolution-armies-cover.webp[Warmaster Revolution "
-"Armies,width=2486,height=3509]]"
+"revolution-armies-cover-2.webp[Warmaster Revolution "
+"Armies,width=2480,height=3508]]"
 msgstr ""
 "xref:revolution:armies:index.adoc[image:revolution:armies:warmaster-"
-"revolution-armies-cover.webp"
-"[Armées de Warmaster Revolution,width=2486,height=3509]]"
+"revolution-armies-cover.webp[Armées de Warmaster "
+"Revolution,width=2486,height=3509]]"
+
+#. type: Plain text
+#: en/home/modules/ROOT/pages/index.adoc:24
+#, fuzzy
+#| msgid ""
+#| "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-"
+#| "revolution-rules-cover.webp[Warmaster Revolution "
+#| "Rulebook,width=2480,height=3508]]"
+msgid ""
+"xref:revolution:experimental-"
+"rules:terrain.adoc[image:revolution:rules:warmaster-revolution-experimental-"
+"rules-cover.webp[Warmaster Experimental Rules,width=2480,height=3508]]"
+msgstr ""
+"xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
+"rules-cover.webp[Livre de Règles de Warmaster "
+"Revolution,width=2480,height=3508]]"
+
+#. type: Plain text
+#: en/home/modules/ROOT/pages/index.adoc:25
+#, fuzzy
+#| msgid ""
+#| "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-"
+#| "revolution-rules-cover.webp[Warmaster Revolution "
+#| "Rulebook,width=2480,height=3508]]"
+msgid ""
+"xref:revolution:experimental-"
+"units:index.adoc[image:revolution:rules:warmaster-revolution-experimental-"
+"units-cover.webp[Warmaster Experimental Units,width=2480,height=3508]]"
+msgstr ""
+"xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
+"rules-cover.webp[Livre de Règles de Warmaster "
+"Revolution,width=2480,height=3508]]"
+
+#. type: Plain text
+#: en/home/modules/ROOT/pages/index.adoc:26
+#, fuzzy
+#| msgid ""
+#| "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-"
+#| "revolution-rules-cover.webp[Warmaster Revolution "
+#| "Rulebook,width=2480,height=3508]]"
+msgid ""
+"xref:revolution:additional-"
+"scenarios:index.adoc[image:revolution:rules:warmaster-revolution-additional-"
+"scenarios-cover.webp[Warmaster Additional Scenarios,width=2480,height=3508]]"
+msgstr ""
+"xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
+"rules-cover.webp[Livre de Règles de Warmaster "
+"Revolution,width=2480,height=3508]]"
+
+#. type: Plain text
+#: en/home/modules/ROOT/pages/index.adoc:27
+#, fuzzy
+#| msgid ""
+#| "xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-"
+#| "revolution-rules-cover.webp[Warmaster Revolution "
+#| "Rulebook,width=2480,height=3508]]"
+msgid ""
+"xref:revolution:resources:1000pt-"
+"armies.adoc[image:revolution:rules:warmaster-revolution-resources-"
+"cover.webp[Warmaster Resources,width=2480,height=3508]]"
+msgstr ""
+"xref:revolution:rules:index.adoc[image:revolution:rules:warmaster-revolution-"
+"rules-cover.webp[Livre de Règles de Warmaster "
+"Revolution,width=2480,height=3508]]"

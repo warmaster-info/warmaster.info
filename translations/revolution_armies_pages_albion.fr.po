@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Augustin Bodin <augustin.bodin@laposte.net>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -351,7 +351,7 @@ msgstr "include::partial$albion.tsv[]\n"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -391,9 +391,9 @@ msgid ""
 "encompasses all ‘men’ including Chaos Warriors and Marauders, but not "
 "Dwarfs, Elves etc."
 msgstr ""
-"Si une unité d’ogres peut utiliser son initiative pour charger une unité d’"
-"humains (littéralement humains… ce qui inclut les Guerriers et Maraudeurs du "
-"Chaos, mais pas les Nains, les Elfes et autres humanoïdes) au début de la "
+"Si une unité d’ogres peut utiliser son initiative pour charger une unité "
+"d’humains (littéralement humains… ce qui inclut les Guerriers et Maraudeurs "
+"du Chaos, mais pas les Nains, les Elfes et autres humanoïdes) au début de la "
 "phase d’Ordres, elle doit le faire, quels que soient les désirs de leur "
 "commandant."
 
@@ -480,12 +480,12 @@ msgid ""
 "summoned them, that Druid counts as having a Command value of +1 when "
 "commanding the Fenbeast – that is 8 rather than 7."
 msgstr ""
-"Une Bête des marais ne peut former une brigade avec d’autres unités, même d’"
-"autres Bêtes des marais. Les Bêtes des marais n’utilisent jamais l’"
-"initiative pour bouger lors de la Phase d’Ordre. Les Druides ont une valeur "
-"de Commandement augmentée de +1 quand ils donnent des ordres aux Bêtes des "
-"marais, c’est-à-dire 8 au lieu de 7, car elles sont entièrement dominées par "
-"la volonté de ceux qui les ont invoquées."
+"Une Bête des marais ne peut former une brigade avec d’autres unités, même "
+"d’autres Bêtes des marais. Les Bêtes des marais n’utilisent jamais "
+"l’initiative pour bouger lors de la Phase d’Ordre. Les Druides ont une "
+"valeur de Commandement augmentée de +1 quand ils donnent des ordres aux "
+"Bêtes des marais, c’est-à-dire 8 au lieu de 7, car elles sont entièrement "
+"dominées par la volonté de ceux qui les ont invoquées."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:169
@@ -529,7 +529,7 @@ msgstr "Averse"
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
 #: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/skaven.adoc:261
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
@@ -586,8 +586,8 @@ msgstr "Tempête de Grêle"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -668,7 +668,7 @@ msgstr "Invocation de Bêtes des marais"
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:250
 #: en/revolution/modules/armies/pages/daemons.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:179
-#: en/revolution/modules/armies/pages/skaven.adoc:314
+#: en/revolution/modules/armies/pages/skaven.adoc:326
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 

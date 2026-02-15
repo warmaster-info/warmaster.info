@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -86,7 +86,7 @@ msgstr "Héros"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -122,7 +122,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
 #: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/skaven.adoc:261
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
@@ -155,8 +155,8 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -361,8 +361,8 @@ msgid ""
 "is both abhorred and feared by her people, especially by the nomadic tribes "
 "who believe her to be favoured by the ancient gods of the Gospodars."
 msgstr ""
-"Depuis de nombreuses années, les kislévites jouissent de l’amitié de l’"
-"Empire et entretiennent de bonnes relations avec les nains. Leur souverain "
+"Depuis de nombreuses années, les kislévites jouissent de l’amitié de "
+"l’Empire et entretiennent de bonnes relations avec les nains. Leur souverain "
 "actuel est la Tzarine Katarina, une sorcière connue dans son pays comme "
 "ailleurs sous le nom de Reine des Glaces de Kislev. En elle, les antiques "
 "pouvoirs des Reines-khans ressurgissent, et elle est à la fois vénérée et "
@@ -447,9 +447,9 @@ msgid ""
 "whilst an armour value of 6+ can’t save against a handgun."
 msgstr ""
 "En plus de la traditionnelle grande hache kislévite, les Gardes Rouges sont "
-"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à l’"
-"Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, une "
-"de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
+"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à "
+"l’Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, "
+"une de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:123
@@ -465,8 +465,8 @@ msgid ""
 "charge an enemy in the open in the same way as monsters and chariots."
 msgstr ""
 "Les Ours sont considérés comme de l’infanterie pour ce qui est des règles, "
-"car cela reflète leur mobilité, mais ils bénéficient de +1 Attaque lorsqu’"
-"ils chargent un ennemi à découvert, comme les chars et les monstres."
+"car cela reflète leur mobilité, mais ils bénéficient de +1 Attaque "
+"lorsqu’ils chargent un ennemi à découvert, comme les chars et les monstres."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:132
@@ -507,15 +507,15 @@ msgid ""
 "restrictions are the same as Artillery. Either stand can be removed as "
 "causality. The War Wagon can move only when the team stand remains."
 msgstr ""
-"image:kislev/wagon-laagered.webp[width=250,height=253,float=\"right\"]{empty}"
-" Le Chariot de Guerre est composé de deux socles, le chariot et son attelage "
-"de chevaux. Le Chariot ne peut charger, et bouge à 20cm à pleine vitesse. Si "
-"l’unité se déplace de plus de 5cm, après un ordre réussi, elle doit finir "
-"son mouvement en colonne. Si elle se déplace de 5cm ou moins, elle peut "
-"terminer son mouvement en formation défensive. L’unité se comporte comme l’"
-"Artillerie concernant les restrictions de type de terrains. N’importe quel "
-"socle peut être retiré en cas de perte mais le Chariot de Guerre ne peut "
-"bouger que si le socle de l’attelage est toujours présent."
+"image:kislev/wagon-laagered.webp[width=250,height=253,float=\"right\"]"
+"{empty} Le Chariot de Guerre est composé de deux socles, le chariot et son "
+"attelage de chevaux. Le Chariot ne peut charger, et bouge à 20cm à pleine "
+"vitesse. Si l’unité se déplace de plus de 5cm, après un ordre réussi, elle "
+"doit finir son mouvement en colonne. Si elle se déplace de 5cm ou moins, "
+"elle peut terminer son mouvement en formation défensive. L’unité se comporte "
+"comme l’Artillerie concernant les restrictions de type de terrains. "
+"N’importe quel socle peut être retiré en cas de perte mais le Chariot de "
+"Guerre ne peut bouger que si le socle de l’attelage est toujours présent."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:155
@@ -569,8 +569,8 @@ msgstr ""
 "que ce soit une unité d’artillerie, un chariot en formation défensive ou en "
 "colonne ne peut poursuivre et n’est pas détruit s’il est forcé de se "
 "replier. De plus, un chariot en formation défensive ne se repliera jamais. "
-"Il continuera de compter comme défendu dans les rounds de combat suivants. L’"
-"ennemi peut poursuivre le combat en ‘poursuivant’, mais n’aura aucun bonus "
+"Il continuera de compter comme défendu dans les rounds de combat suivants. "
+"L’ennemi peut poursuivre le combat en ‘poursuivant’, mais n’aura aucun bonus "
 "lié à la poursuite. Un chariot en formation défensive ne peut laisser passer."
 
 #. type: Plain text
@@ -654,8 +654,8 @@ msgid ""
 "herself. The Tzarina rides a horse-drawn sled – note this is not a chariot!"
 msgstr ""
 "Le général peut être une Tzarine de sang royal – voire même la Tzarine "
-"Katarina elle même, montée sur un traîneau tiré par des chevaux – notez qu’"
-"il n’est pas considéré comme un char !"
+"Katarina elle même, montée sur un traîneau tiré par des chevaux – notez "
+"qu’il n’est pas considéré comme un char !"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:206
@@ -673,9 +673,9 @@ msgid ""
 "cast a spell. The player must announce that the Tzarina’s special spell "
 "casting bonus is being used before rolling for the spell."
 msgstr ""
-"Une fois par partie, la Tzarine peut ajouter +1 au résultat du dé lorsqu’"
-"elle jette un sort. Le joueur doit déclarer qu’il utilise cette capacité "
-"avant de jeter le dé."
+"Une fois par partie, la Tzarine peut ajouter +1 au résultat du dé "
+"lorsqu’elle jette un sort. Le joueur doit déclarer qu’il utilise cette "
+"capacité avant de jeter le dé."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/kislev.adoc:216
@@ -749,8 +749,8 @@ msgstr ""
 "Ce sort peut être lancé sur une unité ennemie. Le sorcier doit pouvoir voir "
 "sa cible pour utiliser ce sort, et ne peut pas viser une unité engagée au "
 "combat. La Salve Glaciale compte comme trois attaques de tir ordinaires, "
-"mais les armures n’apportent aucune protection (la cible compte comme n’"
-"ayant aucune Armure). L’unité visée peut être repoussée de la même manière "
+"mais les armures n’apportent aucune protection (la cible compte comme "
+"n’ayant aucune Armure). L’unité visée peut être repoussée de la même manière "
 "que par des tirs ordinaires."
 
 #. type: Title ===
@@ -770,7 +770,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:259
+#: en/revolution/modules/armies/pages/skaven.adoc:271
 msgid ""
 "This spell can be cast upon an enemy unit that is engaged in combat and "
 "which is within range. The Wizard does not have to be able to see the target "
@@ -780,8 +780,8 @@ msgid ""
 msgstr ""
 "Ce sort peut être lancé sur une unité ennemie à portée et engagée en combat, "
 "que le Sorcier puisse la voir ou non. Il dure jusqu'à la fin de la prochaine "
-"phase de Combat. Chaque socle de l’unité, y compris les personnages qui l’"
-"ont rejointe, voit son nombre d’Attaques réduit de -1."
+"phase de Combat. Chaque socle de l’unité, y compris les personnages qui "
+"l’ont rejointe, voit son nombre d’Attaques réduit de -1."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/kislev.adoc:266

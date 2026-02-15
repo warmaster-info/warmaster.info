@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -45,7 +45,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -94,8 +94,8 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -116,7 +116,7 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/daemons.adoc:99
 #: en/revolution/modules/armies/pages/lizardmen.adoc:120
 #: en/revolution/modules/armies/pages/nippon.adoc:122
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:176
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
 #: en/revolution/modules/armies/pages/skaven.adoc:109
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
@@ -421,8 +421,8 @@ msgid ""
 "Empire."
 msgstr ""
 "La véritable nature des von Carstein fut révélée après la venue de la comète "
-"et la destruction de la ville de Mordheim. Ce fut une époque terrible, où l’"
-"emprise des ténèbres grandit dans tout l’Empire. Rassemblant une grande "
+"et la destruction de la ville de Mordheim. Ce fut une époque terrible, où "
+"l’emprise des ténèbres grandit dans tout l’Empire. Rassemblant une grande "
 "partie de cette sombre énergie, Vlad von Carstein leva une puissante armée "
 "de morts du sol corrompu de Sylvanie et déclara ses ambitions sur le trône "
 "impérial."
@@ -436,12 +436,12 @@ msgid ""
 "the living would exist only as cattle to feed a Vampiric nobility. Vlad "
 "almost did succeed but was slain as his undead hordes besieged Altdorf."
 msgstr ""
-"Ainsi commencèrent les Guerres Vampiriques, lors desquelles les morts s’"
-"opposèrent aux vivants pour étendre le règne des Carstein à l’Empire. Si les "
-"vampires avaient gagné, l’Empire aurait été réduit à une étendue de ruines "
-"où les vivants n’auraient servi que de bétail pour étancher la soif de leurs "
-"maîtres immortels. Vlad faillit réussir, mais il fut tué lorsque sa horde "
-"assiégea Altdorf."
+"Ainsi commencèrent les Guerres Vampiriques, lors desquelles les morts "
+"s’opposèrent aux vivants pour étendre le règne des Carstein à l’Empire. Si "
+"les vampires avaient gagné, l’Empire aurait été réduit à une étendue de "
+"ruines où les vivants n’auraient servi que de bétail pour étancher la soif "
+"de leurs maîtres immortels. Vlad faillit réussir, mais il fut tué lorsque sa "
+"horde assiégea Altdorf."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:87
@@ -507,8 +507,8 @@ msgid ""
 "support an unit of Ghouls charging on initiative."
 msgstr ""
 "Les morts-vivants n’agissent jamais par initiative. Une unité de morts-"
-"vivants ne peut se déplacer durant la phase d’ordre qu’après en avoir reçu l’"
-"ordre (sauf les Chauves-souris Vampires qui peuvent revenir comme "
+"vivants ne peut se déplacer durant la phase d’ordre qu’après en avoir reçu "
+"l’ordre (sauf les Chauves-souris Vampires qui peuvent revenir comme "
 "d’ordinaire). De plus les unités mort-vivantes ne peuvent faire une charge "
 "de soutien pour supporter une unité de Goules qui chargerait par initiative."
 
@@ -537,8 +537,8 @@ msgid ""
 "Ethereal hosts cannot be driven back by shooting and do not roll for drive "
 "backs."
 msgstr ""
-"Les Nuées Éthérées ne peuvent pas être repoussées par des tirs et n’"
-"effectuent pas de jets de repoussement."
+"Les Nuées Éthérées ne peuvent pas être repoussées par des tirs et "
+"n’effectuent pas de jets de repoussement."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:142
@@ -690,8 +690,8 @@ msgid ""
 "_The bodies of the dead move under the powerful influence of necromantic "
 "magic renewing their vigour once more._"
 msgstr ""
-"_Sous l’influence de la nécromancie, les corps des trépassés sont animés d’"
-"une vigueur infernale._"
+"_Sous l’influence de la nécromancie, les corps des trépassés sont animés "
+"d’une vigueur infernale._"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:238
@@ -701,10 +701,10 @@ msgid ""
 "it or not. The spell affects only a single unit, never a brigade and there "
 "is no supporting charge possible."
 msgstr ""
-"Ce sort peut être lancé sur n’importe quelle unité amie à portée, à l’"
-"exception des Goules, que le sorcier puisse la voir ou non. Le sort n’"
-"affecte qu’une seule unité, jamais une brigade, et aucune charge de soutien "
-"n’est possible."
+"Ce sort peut être lancé sur n’importe quelle unité amie à portée, à "
+"l’exception des Goules, que le sorcier puisse la voir ou non. Le sort "
+"n’affecte qu’une seule unité, jamais une brigade, et aucune charge de "
+"soutien n’est possible."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:257
@@ -717,10 +717,10 @@ msgid ""
 msgstr ""
 "Le Sorcier peut lancer ce sort sur une unité ennemie en vue qui n’est pas "
 "engagée en combat. L’unité victime de l’Éclair de Mort subit trois attaques "
-"résolues comme des attaques de tir ordinaires mais son Armure est ignorée ("
-"quelle que soit la cible de ce sort, elle compte comme n’ayant aucune armure)"
-". Une unité peut être repoussée par un Éclair de Mort de la même manière que "
-"par des tirs ordinaires."
+"résolues comme des attaques de tir ordinaires mais son Armure est ignorée "
+"(quelle que soit la cible de ce sort, elle compte comme n’ayant aucune "
+"armure). Une unité peut être repoussée par un Éclair de Mort de la même "
+"manière que par des tirs ordinaires."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:259

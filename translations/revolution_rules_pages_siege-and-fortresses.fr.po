@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-09-13 11:35+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -45,7 +45,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -83,15 +83,15 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters.adoc:308
-#: en/revolution/modules/rules/pages/command.adoc:569
-#: en/revolution/modules/rules/pages/movement.adoc:369
+#: en/revolution/modules/rules/pages/command.adoc:572
+#: en/revolution/modules/rules/pages/movement.adoc:372
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:867
 #, no-wrap
 msgid "Character movement"
 msgstr "Mouvement des personnages"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:63
+#: en/revolution/modules/rules/pages/game-sequence.adoc:64
 #: en/revolution/modules/rules/pages/shooting.adoc:2
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:154
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:77
@@ -115,7 +115,7 @@ msgid "Movement"
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/shooting.adoc:538
+#: en/revolution/modules/rules/pages/shooting.adoc:541
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1704
 #, no-wrap
 msgid "Special situations"

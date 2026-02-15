@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -17,50 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/characters.adoc:2
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
-#, no-wrap
-msgid "Generals, Wizards & Heroes"
-msgstr "Généraux, Sorciers & Héros"
-
-#. type: Content of: <svg><g><text><tspan>
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
-#: en/revolution/modules/rules/pages/flying-units.adoc:187
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/game-values.adoc:84
-#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
-#, no-wrap
-msgid "Characters"
-msgstr "Personnages"
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:14
-#: en/revolution/modules/rules/pages/command.adoc:259
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
-#: en/revolution/modules/rules/pages/flying-units.adoc:22
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
-#, no-wrap
-msgid "Orders"
-msgstr "Ordres"
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:396
-#: en/revolution/modules/rules/pages/command.adoc:515
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:54
-#, no-wrap
-msgid "Command penalties"
-msgstr "Malus de Commandement"
-
-#. type: Title ==
-#: en/revolution/modules/rules/pages/command.adoc:605
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:67
-#, no-wrap
-msgid "Brigade orders"
-msgstr "Ordres des Brigades"
 
 #. type: Title =
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:1
@@ -77,19 +33,26 @@ msgstr "Séquence"
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:10
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:16
-#: en/revolution/modules/rules/pages/flying-units.adoc:11
 #, no-wrap
-msgid "Initiative"
-msgstr "Initiative"
+msgid "xref:command.adoc#initative-movement[Initiative]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
+msgid "xref:flying-units.adoc#home-back[Home Back]"
+msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
-#: en/revolution/modules/rules/pages/flying-units.adoc:30
-#: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:11
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:12
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:37
 #, no-wrap
-msgid "Home back"
-msgstr "Revenir"
+msgid "xref:command.adoc#orders[Orders]"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:13
+msgid "xref:command.adoc#character-movement[Characters]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:20
@@ -104,6 +67,12 @@ msgid "A unit cannot move on initiative and orders in the same turn."
 msgstr ""
 "Une unité ne peut se déplacer par initiative et par ordres dans le même tour."
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:31
+#, no-wrap
+msgid "xref::flying-units.adoc#home-back[Home back]"
+msgstr ""
+
 #.  Copied from WMR later
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:35
@@ -113,8 +82,8 @@ msgid ""
 "character before orders are issued."
 msgstr ""
 "Les unités volantes se trouvant à plus de 20 cm de [.edit]#tout personnages "
-"alliés# peuvent xref::flying-units.adoc#home-back[Revenir] de jusqu'à 1D6 × "
-"10 cm vers n'importe lequel d'entre eux avant que les ordres ne soient "
+"alliés# peuvent xref::flying-units.adoc#home-back[Revenir] de jusqu'à "
+"1D6 × 10 cm vers n'importe lequel d'entre eux avant que les ordres ne soient "
 "donnés."
 
 #. type: Plain text
@@ -172,9 +141,14 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:50
+#, fuzzy
+#| msgid ""
+#| "[.bo5a]#If a roll is failed, the order is not given and no further orders "
+#| "can be issued to that unit.#"
 msgid ""
 "[.bo5a]#If a roll is failed, the order is not given and no further orders "
-"can be issued to that unit.#"
+"can be issued to that unit.# [.edit]#If this is the unit’s first order it "
+"can move only at half pace.#"
 msgstr ""
 "[.bo5a]#Si le jet échoue, l'ordre n'est pas donné et aucun autre ordre ne "
 "peut être donné à cette unité.#"
@@ -188,21 +162,39 @@ msgstr ""
 "Si le Général échoue à donner un ordre, plus aucun personnage ne peut donner "
 "d’ordres."
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:54
+#, no-wrap
+msgid "xref:command.adoc#command-penalties[Command penalties]"
+msgstr ""
+
 #. type: Table
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:63
-#, no-wrap
+#, fuzzy, no-wrap
+#| msgid ""
+#| "|Per full 20cm distance             | −1\n"
+#| "|Each successive order to the unit  | −1\n"
+#| "|Enemy within 20cm of unit          | −1\n"
+#| "|[.bo5a]#Unit# within dense terrain | −1\n"
+#| "|Per casualty                       | −1\n"
 msgid ""
-"|Per full 20cm distance             | −1\n"
-"|Each successive order to the unit  | −1\n"
-"|Enemy within 20cm of unit          | −1\n"
-"|[.bo5a]#Unit# within dense terrain | −1\n"
-"|Per casualty                       | −1\n"
+"|Per full 20cm xref:command.adoc#distance[distance]                    | −1\n"
+"|Each xref:command.adoc#multiple-orders[successive order] to the unit  | −1\n"
+"|xref:command.adoc#enemy-close[Enemy within 20cm] of unit              | −1\n"
+"|[.bo5a]#Unit# within xref:command.adoc#dense-terrain[dense terrain]   | −1\n"
+"|Per xref:command.adoc#casualties[casualty]                            | −1\n"
 msgstr ""
 "|Par tranche complète de 20 cm de distance   | −1\n"
 "|Pour chaque ordre successif donné à l'unité | −1\n"
 "|Ennemi à moins de 20 cm de l'unité                  | −1\n"
 "|[.bo5a]#Unité# se trouvant en terrain dense | −1\n"
 "|Par perte (socle) subie                                             | −1\n"
+
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:67
+#, no-wrap
+msgid "xref:command.adoc#brigade-orders[Brigade orders]"
+msgstr ""
 
 #.  Bo5A words this slightly differently.
 #. type: Plain text
@@ -225,8 +217,8 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:75
 #, no-wrap
-msgid "Charge"
-msgstr "Charge"
+msgid "xref:command.adoc#charge[Charge]"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:78
@@ -234,8 +226,8 @@ msgid ""
 "A unit that moves into [.bo5a]#contact with# an enemy is said to have "
 "charged."
 msgstr ""
-"Une unité qui, lors de son mouvement, entre [.bo5a]#en contact avec# l’"
-"ennemi est considéré comme ayant chargé."
+"Une unité qui, lors de son mouvement, entre [.bo5a]#en contact avec# "
+"l’ennemi est considéré comme ayant chargé."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:80
@@ -253,14 +245,20 @@ msgstr ""
 "Les unités engagée en combat ne peuvent pas recevoir d’ordres "
 "supplémentaires."
 
+#. type: Title ==
+#: en/revolution/modules/rules/pages/command-at-a-glance.adoc:85
+#, no-wrap
+msgid "xref:command.adoc#character-movement[Generals, Wizards & Heroes]"
+msgstr ""
+
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:88
 msgid ""
 "Characters move once [.edit]#in the Characters sub-phase# and can move up to "
 "60cm."
 msgstr ""
-"Les personnages se déplacent une fois [.edit]#dans la sous-phase Personnages#"
-" et peuvent se déplacer jusqu'à 60 cm."
+"Les personnages se déplacent une fois [.edit]#dans la sous-phase "
+"Personnages# et peuvent se déplacer jusqu'à 60 cm."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command-at-a-glance.adoc:89
@@ -275,3 +273,35 @@ msgid ""
 msgstr ""
 "[.edit]#À moins d'être montés,# les personnages traitent le terrain de la "
 "même manière que l'infanterie."
+
+#, no-wrap
+#~ msgid "Generals, Wizards & Heroes"
+#~ msgstr "Généraux, Sorciers & Héros"
+
+#, no-wrap
+#~ msgid "Characters"
+#~ msgstr "Personnages"
+
+#, no-wrap
+#~ msgid "Orders"
+#~ msgstr "Ordres"
+
+#, no-wrap
+#~ msgid "Command penalties"
+#~ msgstr "Malus de Commandement"
+
+#, no-wrap
+#~ msgid "Brigade orders"
+#~ msgstr "Ordres des Brigades"
+
+#, no-wrap
+#~ msgid "Initiative"
+#~ msgstr "Initiative"
+
+#, no-wrap
+#~ msgid "Home back"
+#~ msgstr "Revenir"
+
+#, no-wrap
+#~ msgid "Charge"
+#~ msgstr "Charge"

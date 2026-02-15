@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -86,7 +86,7 @@ msgstr "Héros"
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -122,7 +122,7 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/kislev.adoc:254
 #: en/revolution/modules/armies/pages/norse.adoc:189
 #: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:249
+#: en/revolution/modules/armies/pages/skaven.adoc:261
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:210
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
@@ -155,8 +155,8 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -187,7 +187,7 @@ msgstr "Chevaliers"
 #: en/revolution/modules/armies/pages/daemons.adoc:99
 #: en/revolution/modules/armies/pages/lizardmen.adoc:120
 #: en/revolution/modules/armies/pages/nippon.adoc:122
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:176
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
 #: en/revolution/modules/armies/pages/skaven.adoc:109
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
@@ -611,8 +611,8 @@ msgstr ""
 "L’unité se déplace à demi-vitesse, en toutes circonstances, même pour "
 "charger. Elle considère que tous ses ennemis causent la terreur (malus de -1 "
 "en Attaques) même si elle est normalement immunisée. Si l’unité cause elle-"
-"même la terreur, elle cesse de le faire pour toute la durée de l’"
-"enchantement et considère tous ses ennemis comme terrifiants exactement "
+"même la terreur, elle cesse de le faire pour toute la durée de "
+"l’enchantement et considère tous ses ennemis comme terrifiants exactement "
 "comme n’importe quelle autre unité. Cependant, les Morts-vivants et les "
 "démons ne comptent pas leurs ennemis comme étant terrifiants, mais les "
 "autres effets du sort s’appliquent à eux."

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 18:47+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -45,7 +45,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/norse.adoc:83
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
 #: en/revolution/modules/armies/pages/orcs.adoc:120
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:173
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
 #: en/revolution/modules/armies/pages/skaven.adoc:106
 #: en/revolution/modules/armies/pages/skaven.adoc:129
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
@@ -94,8 +94,8 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
 #: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
 #: en/revolution/modules/armies/pages/orcs.adoc:189
-#: en/revolution/modules/armies/pages/skaven.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:281
+#: en/revolution/modules/armies/pages/skaven.adoc:276
+#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
@@ -125,7 +125,7 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 #: en/revolution/modules/armies/pages/daemons.adoc:99
 #: en/revolution/modules/armies/pages/lizardmen.adoc:120
 #: en/revolution/modules/armies/pages/nippon.adoc:122
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:176
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
 #: en/revolution/modules/armies/pages/skaven.adoc:109
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
@@ -148,7 +148,7 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:241
 #: en/revolution/modules/armies/pages/lizardmen.adoc:252
-#: en/revolution/modules/armies/pages/skaven.adoc:271
+#: en/revolution/modules/armies/pages/skaven.adoc:283
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:262
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
@@ -328,20 +328,20 @@ msgid ""
 "had been betrayed."
 msgstr ""
 "La vengeance qu’exerça Nagash sur ses ennemis fut sans pareille. Depuis les "
-"tréfonds de la Pyramide Noire, il invoqua un terrible sortilège de mort qu’"
-"il libéra sur le pays. Une épidémie s’abattit sur les terres de Khemri, si "
-"bien que tous les vivants périrent, et il ne demeura personne pour enterrer "
-"les morts, et les cités se résumèrent bientôt à de vastes charniers. Ce qui "
-"avait respiré était à présent mort, et ce qui était mort se releva dans une "
-"odieuse parodie de vie. En ce jour funeste, les souverains d’antan se "
-"réveillèrent et découvrirent avec effroi ce qu’il était advenu de leurs "
-"terres. L’immortalité dorée qu’on leur avait promise s’avéra être un "
-"mensonge. Les rois des tombes étaient furieux de leur sort, et ils étaient "
-"très nombreux. Des dynasties entières sortirent du tombeau, d’anciens rivaux "
-"et des ennemis jurés marchaient désormais côte à côte. Mais leur colère "
-"était avant tout dirigée contre Nagash. Ils virent la Pyramide Noire, "
-"sentirent les vents de magie souffler autour de ses parois luisantes. Et ils "
-"comprirent qu’ils avaient été trahis."
+"tréfonds de la Pyramide Noire, il invoqua un terrible sortilège de mort "
+"qu’il libéra sur le pays. Une épidémie s’abattit sur les terres de Khemri, "
+"si bien que tous les vivants périrent, et il ne demeura personne pour "
+"enterrer les morts, et les cités se résumèrent bientôt à de vastes "
+"charniers. Ce qui avait respiré était à présent mort, et ce qui était mort "
+"se releva dans une odieuse parodie de vie. En ce jour funeste, les "
+"souverains d’antan se réveillèrent et découvrirent avec effroi ce qu’il "
+"était advenu de leurs terres. L’immortalité dorée qu’on leur avait promise "
+"s’avéra être un mensonge. Les rois des tombes étaient furieux de leur sort, "
+"et ils étaient très nombreux. Des dynasties entières sortirent du tombeau, "
+"d’anciens rivaux et des ennemis jurés marchaient désormais côte à côte. Mais "
+"leur colère était avant tout dirigée contre Nagash. Ils virent la Pyramide "
+"Noire, sentirent les vents de magie souffler autour de ses parois luisantes. "
+"Et ils comprirent qu’ils avaient été trahis."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:91
@@ -547,10 +547,10 @@ msgid ""
 "can only be used once per battle."
 msgstr ""
 "Le Roi des Tombes est doté de pouvoirs magiques par le sort qui lui a été "
-"jeté lors de son inhumation. Il peut utiliser ce pouvoir pour augmenter de +"
-"1 les Attaques de tous les socles d’une unité située à moins de 20 cm de lui "
-"pendant toute la durée d'une phase de Combat. Ce pouvoir n’est utilisable qu’"
-"une seule fois par partie."
+"jeté lors de son inhumation. Il peut utiliser ce pouvoir pour augmenter de "
+"+1 les Attaques de tous les socles d’une unité située à moins de 20 cm de "
+"lui pendant toute la durée d'une phase de Combat. Ce pouvoir n’est "
+"utilisable qu’une seule fois par partie."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:167

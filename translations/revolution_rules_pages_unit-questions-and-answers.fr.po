@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-30 22:16+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -21,7 +21,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:23
 #: en/revolution/modules/rules/pages/combat.adoc:2
-#: en/revolution/modules/rules/pages/game-sequence.adoc:77
+#: en/revolution/modules/rules/pages/game-sequence.adoc:78
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:89
 #, no-wrap
 msgid "Combat"
@@ -38,13 +38,13 @@ msgstr "Combat"
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:450
-#: en/revolution/modules/rules/pages/movement.adoc:453
-#: en/revolution/modules/rules/pages/movement.adoc:504
-#: en/revolution/modules/rules/pages/movement.adoc:507
-#: en/revolution/modules/rules/pages/movement.adoc:530
-#: en/revolution/modules/rules/pages/movement.adoc:698
-#: en/revolution/modules/rules/pages/movement.adoc:759
+#: en/revolution/modules/rules/pages/movement.adoc:452
+#: en/revolution/modules/rules/pages/movement.adoc:455
+#: en/revolution/modules/rules/pages/movement.adoc:506
+#: en/revolution/modules/rules/pages/movement.adoc:509
+#: en/revolution/modules/rules/pages/movement.adoc:532
+#: en/revolution/modules/rules/pages/movement.adoc:700
+#: en/revolution/modules/rules/pages/movement.adoc:761
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -53,7 +53,7 @@ msgid "{empty}"
 msgstr "{empty}"
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/game-sequence.adoc:63
+#: en/revolution/modules/rules/pages/game-sequence.adoc:64
 #: en/revolution/modules/rules/pages/shooting.adoc:2
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:154
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:77
@@ -94,9 +94,9 @@ msgstr ""
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:4
 msgid ""
 "This Questions and Answers section is a compilations of unit-specific "
-"questions from https://www.wm-revolution.com/articles/wm-journal."
-"html[_Warmaster Journal_] issues https://drive.google.com/file/"
-"d/1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_2024_], https://drive.google.com/"
+"questions from https://www.wm-revolution.com/articles/wm-"
+"journal.html[_Warmaster Journal_] issues https://drive.google.com/file/d/"
+"1qqcirXOqV8xs74O8Z2m6De4Mohed450I/view[_2024_], https://drive.google.com/"
 "file/d/1xiKY7KI2OqyHFE8evy-OEqz3LMUgQkt6/view[_2025_] and other sources as "
 "noted."
 msgstr ""
@@ -251,10 +251,10 @@ msgstr ""
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:59
 msgid ""
 "→ Armies book: xref:armies:albion.adoc#ogres[Albion – Special rules for "
-"Ogres], xref:armies:chaos.adoc#ogres[Chaos – Special rules for Ogres], xref:"
-"armies:dogs-of-war.adoc#ogres[Dogs of War – Special rules for Ogres], xref:"
-"armies:ogre-kingdoms.adoc#bull-ogres[Ogre Kingdoms – Special rules for Bull "
-"Ogres], xref:armies:orcs.adoc#ogres[Orcs – Special rules for Ogres]."
+"Ogres], xref:armies:chaos.adoc#ogres[Chaos – Special rules for Ogres], "
+"xref:armies:dogs-of-war.adoc#ogres[Dogs of War – Special rules for Ogres], "
+"xref:armies:ogre-kingdoms.adoc#bull-ogres[Ogre Kingdoms – Special rules for "
+"Bull Ogres], xref:armies:orcs.adoc#ogres[Orcs – Special rules for Ogres]."
 msgstr ""
 
 #. type: Title ===
@@ -398,8 +398,8 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:131
 msgid ""
-"→ Rulebook: xref:movement.adoc#the-evade[Movement – The evade], xref:magic."
-"adoc#banner-of-shielding[Magic – The Banner of Shielding]."
+"→ Rulebook: xref:movement.adoc#the-evade[Movement – The evade], "
+"xref:magic.adoc#banner-of-shielding[Magic – The Banner of Shielding]."
 msgstr ""
 
 #. type: Title ==
@@ -490,8 +490,8 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:171
 msgid ""
-"→ Armies book: xref:armies:goblins.adoc#gerroff[Goblins – Gerroff!!!], xref:"
-"armies:orcs.adoc#gerroff[Orcs – Gerroff!!!]."
+"→ Armies book: xref:armies:goblins.adoc#gerroff[Goblins – Gerroff!!!], "
+"xref:armies:orcs.adoc#gerroff[Orcs – Gerroff!!!]."
 msgstr ""
 
 #. type: Title ===

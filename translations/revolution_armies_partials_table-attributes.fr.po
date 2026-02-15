@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-19 20:10+0200\n"
+"POT-Creation-Date: 2026-02-15 16:10+0100\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -118,7 +118,6 @@ msgstr "Armure"
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:125
 #: en/revolution/modules/armies/partials/table-attributes.adoc:17
-#: en/revolution/modules/rules/pages/game-sequence.adoc:51
 #: en/revolution/modules/rules/pages/game-values.adoc:245
 #, no-wrap
 msgid "Command"
@@ -157,8 +156,6 @@ msgstr "Troupe"
 #. type: Title ==
 #: en/revolution/modules/armies/partials/table-attributes.adoc:14
 #: en/revolution/modules/rules/pages/combat.adoc:228
-#: en/revolution/modules/rules/pages/combat-at-a-glance.adoc:11
-#: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:15
 #, no-wrap
 msgid "Attacks"
 msgstr "Attaques"
