@@ -23,6 +23,29 @@ h4 {
   font-style: normal;
 }
 
+.breadcrumbs li::after {
+  content: "🙛";
+}
+
+.doc h1 .anchor,
+.doc h2 .anchor,
+.doc h3 .anchor,
+.doc h4 .anchor,
+.doc h5 .anchor,
+.doc h6 .anchor {
+  width: 2.75ex;
+  margin-left:-2.2ex;
+}
+
+.doc h1 .anchor::before,
+.doc h2 .anchor::before,
+.doc h3 .anchor::before,
+.doc h4 .anchor::before,
+.doc h5 .anchor::before,
+.doc h6 .anchor::before {
+  content: "⚔";
+}
+
 .doc a {
   color: maroon;
 }
