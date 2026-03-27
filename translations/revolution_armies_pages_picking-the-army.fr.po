@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-02-15 16:10+0100\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-03-27 14:24+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_picking-the-army/fr/>\n"
 "Language: fr\n"
@@ -26,17 +26,12 @@ msgstr "Choisir une Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:6
-#, fuzzy
-#| msgid ""
-#| "This section of the Warmaster Armies book explains how to choose equally "
-#| "matched armies to take part in a battle and updates the original section "
-#| "in the main rulebook."
 msgid ""
 "This section of the Warmaster Armies book explains how to choose equally "
 "matched armies to take part in a battle."
 msgstr ""
 "Cette section explique comment choisir des armées équilibrées pour prendre "
-"part à la bataille et remplace donc la section originelle du livre de règle."
+"part à la bataille."
 
 #.  Removed:
 #.  and updates the original section in the main rulebook.
@@ -98,12 +93,6 @@ msgstr "Taille de l'Armée"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:42
-#, fuzzy
-#| msgid ""
-#| "Both sides select troops and characters up to the same maximum points "
-#| "value. Three ’standard’ sized battles are considered here. Smaller and "
-#| "larger battles, or battles with intermediate points values, can also be "
-#| "arranged as discussed later."
 msgid ""
 "Both sides select troops and characters up to the same maximum points value. "
 "Three ‘standard’ sized battles are considered here. Smaller and larger "
@@ -187,14 +176,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:87
-#, fuzzy
-#| msgid ""
-#| "The army lists are designed to work with armies of round thousands of "
-#| "points (1000, 2000, 3000, etc). However, it is also possible to choose "
-#| "armies of other sizes – say 1500 or 750.  This is slightly less "
-#| "convenient but useful if players are still building their armies and want "
-#| "to use units as they are purchased. This is explained under Selecting the "
-#| "Army."
 msgid ""
 "The army lists are designed to work with armies of round thousands of points "
 "(1000, 2000, 3000, etc). However, it is also possible to choose armies of "
@@ -207,7 +188,7 @@ msgstr ""
 "entendre avec votre adversaire pour jouer à des valeurs intermédiaires, "
 "comme 1 500 ou 750 points.  Ces valeurs sont un peu moins pratiques mais "
 "sont souvent nécessaires selon la collection de figurines des joueurs. Voir "
-"la section Choisir son Armée."
+"<<selecting-the-army>>."
 
 #. type: Title ==
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:90
@@ -326,7 +307,7 @@ msgstr "Commandement (Cdt)"
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:126
 msgid "The Command value of a character."
-msgstr ""
+msgstr "La valeur de Commandement d'un personnage."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:127
@@ -339,7 +320,7 @@ msgstr "Taille d’unité"
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:128
 msgid "The number of stands in a unit."
-msgstr ""
+msgstr "Le nombre de socles dans une unité."
 
 #. type: Attribute :points-per-unit:
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:129
@@ -351,7 +332,7 @@ msgstr "Points par unités"
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:131
 msgid "The points value of a unit or character of that type."
-msgstr ""
+msgstr "La valeur en points d'une unité ou d'un personnage de ce type."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:132
@@ -445,15 +426,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:181
-#, fuzzy
-#| msgid ""
-#| "All armies must include a single General. An army can never include more "
-#| "than one General no matter what its size. The Min/Max column is given as "
-#| "1 to show this.  You may have decided your armies will be chosen to 1500 "
-#| "points or some other odd number. In this case determine min/max values by "
-#| "rounding your actual army size down to the next full 1000’s. So, a 1500 "
-#| "point army is selected using the minimums and maximums for a 1000 point "
-#| "army, a 2250 point army is the same as a 2000 and so on."
 msgid ""
 "All armies must include a single General. An army can never include more "
 "than one General no matter what its size. The min/max column is given as 1 "
@@ -490,14 +462,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/picking-the-army.adoc:196
-#, fuzzy
-#| msgid ""
-#| "The value of any permitted magic items is added to that of the unit or "
-#| "character that carries them. Magic items must be allocated to specific "
-#| "characters and a separate note made. This will increase the points value "
-#| "of the unit or character appropriately, and the total cost must be taken "
-#| "into account when working out victory points. See Magic in the rulebook "
-#| "p.76 or a Magic Items Overview on p.88 in this book."
 msgid ""
 "The value of any permitted magic items is added to that of the unit or "
 "character that carries them. Magic items must be allocated to specific "
@@ -509,6 +473,6 @@ msgstr ""
 "La valeur d’un objet magique est ajoutée à celle de l’unité ou du personnage "
 "qui le porte. Les objets magiques doivent être alloués précisément, et "
 "clairement notés. Ils ajoutent leur valeur en points à celle de l’unité ou "
-"du personnage qui les portent, et le total est pris en compte lorsqu’il "
-"s’agit de déterminer les points de victoire. Voir Magie, page 76 du livre de "
-"règles."
+"du personnage qui les portent, et le total est pris en compte lorsqu’il s’"
+"agit de déterminer les points de victoire. Voir xref:rules:magic.adoc#magic-"
+"items[Objets Magiques]."

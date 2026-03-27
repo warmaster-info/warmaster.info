@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-02-15 16:10+0100\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-03-27 14:24+0000\n"
+"Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_command/fr/>\n"
 "Language: fr\n"
@@ -60,14 +60,6 @@ msgstr "[.edit]#Phase d'Ordres & Initiative#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:10
-#, fuzzy
-#| msgid ""
-#| "Units [.bo5a]#and characters are# usually moved in the Command phase. A "
-#| "unit usually requires orders before it will move but if the enemy is very "
-#| "close, a unit is able to react directly to its presence. Otherwise, if a "
-#| "unit receives no orders it remains where it is and awaits further "
-#| "instructions.  [.bo5a]#Characters do move automatically and do so after "
-#| "all unit movement is complete.#"
 msgid ""
 "Units [.bo5a]#and characters are# usually moved in the Command [.edit]#& "
 "Initiative# phase. A unit usually requires orders before it will move but if "
@@ -77,30 +69,25 @@ msgid ""
 "all unit movement is complete.#"
 msgstr ""
 "Les unités [.bo5a]#et les personnages# sont majoritairement déplacées lors "
-"de la phase d’Ordres. Une unité a généralement besoin d'ordres avant de se "
-"déplacer, mais si l'ennemi est très proche, elle peut réagir directement à "
-"sa présence. Sinon, tant qu’une unité ne reçoit pas d’ordre, elle reste là "
-"où elle est et attend des instructions. [.bo5a]#Les personnages peuvent se "
-"déplacer une fois tous les mouvements des unités terminés.#"
+"de la phase d’Ordres et d'Initiative. Une unité a généralement besoin "
+"d'ordres avant de se déplacer, mais si l'ennemi est très proche, elle peut "
+"réagir directement à sa présence. Sinon, tant qu’une unité ne reçoit pas d’"
+"ordre, elle reste là où elle est et attend des instructions. [.bo5a]#Les "
+"personnages peuvent se déplacer une fois tous les mouvements des unités "
+"terminés.#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:15
-#, fuzzy
-#| msgid ""
-#| "The Command phase proceeds in the following sequence [.bo5a]#of sub-"
-#| "phases. Of these, the Home Back sub-phase only applies to flying units "
-#| "and so is not considered further in this section, see xref:flying-"
-#| "units.adoc[]#."
 msgid ""
 "The Command [.edit]#& Initiative# phase proceeds in the following sequence "
 "[.bo5a]#of sub-phases. Of these, the Home Back sub-phase only applies to "
 "flying units and so is not considered further in this section, see "
 "xref:flying-units.adoc[]#."
 msgstr ""
-"La phase d'Ordres se déroule suivant la liste [.bo5a]#de sous-phases "
-"suivante. Parmi celles-ci, la sous-phase Revenir s'applique uniquement aux "
-"unités volantes et n'est donc pas abordée en détail dans cette section. Voir "
-"xref:flying-units.adoc[]#."
+"La phase d'Ordres et d'Initiative se déroule suivant la liste [.bo5a]#de "
+"sous-phases suivante. Parmi celles-ci, la sous-phase Revenir s'applique "
+"uniquement aux unités volantes et n'est donc pas abordée en détail dans "
+"cette section. Voir xref:flying-units.adoc[]#."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:17
@@ -172,16 +159,12 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:52
-#, fuzzy
-#| msgid ""
-#| "The distances moved by each type of unit vary, and are given in the "
-#| "Movement section."
 msgid ""
 "The distances moved by each type of unit vary, and are given in the "
 "xref:movement.adoc#movement-distances[Movement section]."
 msgstr ""
 "Les distances parcourues par chaque type d'unité varient et sont indiquées "
-"dans la section Mouvement."
+"dans la xref:movement.adoc#movement-distances[section Mouvement]."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/command.adoc:56
@@ -242,6 +225,15 @@ msgid ""
 "phase# and attempt to move by means of an order.  The choice is the player’s "
 "in most cases; exceptions are covered in the army lists."
 msgstr ""
+"[.ancients]#Durant la sous-phase Initiative,# une unité peut utiliser sa "
+"propre initiative pour soit  xref :movement.adoc#moving-chargers[charger], "
+"soit xref :movement.adoc#the-path-of-evaders[éviter] *l’unité ennemie "
+"visible la plus proche* à 20cm ou moins (see xref :game-values.adoc"
+"#visibility-on-the-battlefield[Visibilité sur le champ de bataille]). Elle n’"
+"est pas obligée de le faire, et peut à la place attendre [.edit]#la sous-"
+"phase d'Ordres# et tenter d'effectuer un mouvement par le biais d'un ordre. "
+"Généralement, le choix revient au joueur ; les exceptions sont détaillées "
+"dans les listes d’armées."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:113
@@ -251,6 +243,10 @@ msgid ""
 "equally close and both are visible, the player can choose which unit to "
 "react to."
 msgstr ""
+"Une unité ne peut réagir qu'à l'unité ennemie visible la plus proche et non "
+"à d'autres unité même si elles sont visibles et à 20cm ou moins. Si deux "
+"unités ennemies ou plus sont à égale distance, le joueur peut choisir à "
+"laquelle elle veut réagir."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:129
@@ -262,6 +258,11 @@ msgid ""
 "the opposing units into close combat whilst evading is a deliberate move to "
 "avoid the enemy."
 msgstr ""
+"Deux choix se présentent à une unité se déplaçant par initiative. Elle peut "
+"*xref:movement.adoc#moving-chargers[charger], en supposant qu'elle est "
+"capable de le faire, ou *xref:movement.adoc#the-path-of-evaders[éviter], l’"
+"unité ennemie à laquelle elle réagit. Charger l’amènera au combat de l'autre "
+"unité, éviter est un mouvement délibéré pour s'éloigner de l'ennemi."
 
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
@@ -271,6 +272,9 @@ msgid ""
 "attack an enemy other than the closest, then you will have to issue an "
 "<<orders,order>> instead."
 msgstr ""
+"Si vous voulez qu’une unité fasse autre chose, comme se déplacer sur un "
+"flanc ou attaquer un autre ennemi que le plus proche, vous devrez donner un "
+"<<orders,ordre>> à la place."
 
 #.  Warmaster Original text from Movement chapter:
 #.  Removed: This simply means a line of sight can be drawn from any
@@ -287,6 +291,12 @@ msgid ""
 "that can see all round cannot charge an enemy unless a line of sight can be "
 "drawn from a stand’s front edge."
 msgstr ""
+"Certaines unités bénéficient d'une vision à 360 degrés, ce qui est indiqué "
+"dans leur description (par exemple, les Chevaucheurs de Loup de l'armée "
+"Orque). Cela leur permet d'utiliser leur initiative pour éviter un ennemi "
+"positionné sur les flancs ou à l'arrière. Toutefois, même une unité dotée "
+"d'une telle vision ne peut charger un ennemi que si une ligne de vue peut "
+"être tracée depuis le bord avant de son socle."
 
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
@@ -296,6 +306,9 @@ msgid ""
 "evade. The crews of artillery, such as cannons or stone throwers have no "
 "natural inclination and little ability to fight in close combat."
 msgstr ""
+"L’artillerie peut prendre l’initiative d’éviter, mais pas de charger. Les "
+"artilleurs, tels que les servants de canons ou de lance-rocs, n’ont ni "
+"penchant ni talent pour le corps à corps."
 
 #.  Warmaster Original text from Movement chapter:
 #. type: Plain text
@@ -307,6 +320,12 @@ msgid ""
 "wishes, in which case his own unit can use initiative to charge or evade the "
 "closest non-fortified enemy within 20cm."
 msgstr ""
+"L’infanterie ou l’artillerie ennemie dans une position fortifiée peut être "
+"ignorée pour ce qui est de l’initiative ; après tout, de telles unités ne "
+"peuvent pas bouger ou sont peu susceptibles de le faire. Un joueur peut donc "
+"décider d’ignorer ces unités s’il le désire, auquel cas ses propres troupes "
+"peuvent utiliser leur initiative pour éviter ou charger l’unité ennemie "
+"visible non fortifiée la plus proche à 20cm ou moins."
 
 #.  Warmaster Original text from Movement chapter:
 #.  (NB Ancients is the opposite to this!)
@@ -322,6 +341,16 @@ msgid ""
 "to charge or evade the closest visible enemy unit within 20cm that is not "
 "divided by the impassable barrier."
 msgstr ""
+"Une unité peut aussi ignorer la présence d’un ennemi si elle en est séparée "
+"par une barrière infranchissable pour l’un comme pour l’autre, du moment que "
+"ni l’unité, ni l’ennemi ne peut contourner cet obstacle avec un mouvement à "
+"pleine vitesse. Par exemple, la cavalerie ne peut pas traverser les "
+"rivières, deux unités de cavalerie séparées par un cours d’eau peuvent donc "
+"s’ignorer mutuellement pour ce qui est de l’initiative. Un joueur peut donc "
+"décider d’ignorer ces unités s’il le désire, auquel cas ses propres troupes "
+"peuvent utiliser leur initiative pour éviter ou charger l’unité ennemie "
+"visible la plus proche à moins de 20cm, sans compter celles dont elles sont "
+"séparées par un décor infranchissable."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:184
@@ -331,6 +360,10 @@ msgid ""
 "effectively move by initiative even though it is neither charging nor "
 "evading.  See xref:movement.adoc#supporting-charges[Supporting charges]."
 msgstr ""
+"Dans certaines circonstances, une unité en charge peut emmener une unité de "
+"soutien avec elle. Il s'agit d'une exception, car elle permet à l'unité de "
+"soutien de se déplacer par initiative, même si elle ne charge ni n'évite. "
+"Voir xref:movement.adoc#supporting-charges[Charges de Soutien]."
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:194
