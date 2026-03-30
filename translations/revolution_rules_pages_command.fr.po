@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-02-15 16:10+0100\n"
-"PO-Revision-Date: 2026-03-30 15:24+0000\n"
+"PO-Revision-Date: 2026-03-30 17:24+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_command/fr/>\n"
@@ -608,12 +608,17 @@ msgid ""
 "to identify what is going on and less likely that an effective order will be "
 "formulated or received. To represent this, we apply the following penalties:"
 msgstr ""
+"Les circonstances peuvent gêner la transmission d’un ordre. Par exemple, une "
+"unité peut n’être qu’un point à l’horizon, ou être cachée par un terrain "
+"dense.  Un personnage aura donc parfois du mal à savoir ce qui se passe et à "
+"transmettre ses ordres efficacement. Pour représenter ces problèmes, les "
+"pénalités suivantes sont appliquées :"
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:414
 #, no-wrap
 msgid "Distance"
-msgstr ""
+msgstr "Distance"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:421
@@ -623,6 +628,10 @@ msgid ""
 "distance. When measuring distances between characters and units in this way, "
 "measure the shortest distance between them."
 msgstr ""
+"Si la distance entre le personnage et l’unité que vous désirez déplacer est "
+"supérieure à 20cm, un malus de Commandement de -1 par tranche complète de "
+"20cm est infligé. Lorsque vous mesurez l’éloignement entre les personnages "
+"et les unités, prenez la distance la plus courte possible."
 
 #. type: Table
 #: en/revolution/modules/rules/pages/command.adoc:431
@@ -636,12 +645,19 @@ msgid ""
 "|Up to 80cm  |−3\n"
 "|per +20cm   |minus a further 1\n"
 msgstr ""
+"| Distance de l’unité|Malus de Cdt\n"
+"\n"
+"|Jusqu’à 20cm  |none\n"
+"|Jusqu’à 40cm  |−1\n"
+"|Jusqu’à 60cm  |−2\n"
+"|Jusqu’à 80cm  |−3\n"
+"|Par tranche de +20cm   |soustrayez encore 1\n"
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:436
 #, no-wrap
 msgid "Multiple orders"
-msgstr ""
+msgstr "Ordres multiples"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:445
@@ -652,6 +668,12 @@ msgid ""
 "already moved several times is harder to move again. This penalty is "
 "cumulative, so a unit’s second order is at −1, its third order is at −2."
 msgstr ""
+"Si l’unité a déjà reçu un ordre lors de la même phase de Commandement, un "
+"malus de -1 s’applique à chaque fois que le personnage lui donne un nouvel "
+"ordre. Cela représente la fatigue et les délais, si bien qu’une unité qui a "
+"déjà bougé plusieurs fois est plus difficile à déplacer à nouveau. Ce malus "
+"est cumulatif, le deuxième ordre d’une unité se donne donc à -1, le "
+"troisième à -2 et ainsi de suite."
 
 #. type: Table
 #: en/revolution/modules/rules/pages/command.adoc:453
@@ -663,12 +685,17 @@ msgid ""
 "|Second |−1\n"
 "|Third  |−2\n"
 msgstr ""
+"|Ordre  |Malus de Cdt\n"
+"\n"
+"|Premier  |aucun\n"
+"|Deuxième |−1\n"
+"|Troisième  |−2\n"
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:458
 #, no-wrap
 msgid "Enemy close"
-msgstr ""
+msgstr "Ennemi proche"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:467
@@ -680,6 +707,12 @@ msgid ""
 "is not visible (after all if you can’t see it, how do you know it isn’t "
 "there?).#"
 msgstr ""
+"Si l’ennemi se trouve à 20cm ou moins de l’unité que vous désirez déplacer, "
+"un malus de -1 s’applique. Les unités proches de l’ennemi sont naturellement "
+"enclines à réagir en prenant une initiative, et il est donc moins aisé de "
+"leur donner un ordre spécifique..  [.bo5a]#Ce malus s'applique même si "
+"l'unité n'est pas visible (après tout si vous ne la voyez pas, comment "
+"pouvez-vous être sûr qu'elle n'est pas là ?).#"
 
 #. type: Table
 #: en/revolution/modules/rules/pages/command.adoc:474
@@ -690,13 +723,17 @@ msgid ""
 "|Up to 20cm     |−1\n"
 "|More than 20cm |none\n"
 msgstr ""
+"|Distance de l'ennemi  |Malus de Cdt\n"
+"\n"
+"|Jusqu'à 20cm     |−1\n"
+"|Plus de 20cm |aucun\n"
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/command.adoc:479
 #: en/revolution/modules/rules/pages/movement.adoc:997
 #, no-wrap
 msgid "Dense terrain"
-msgstr ""
+msgstr "Terrain difficile"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:487
