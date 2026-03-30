@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-02-15 16:10+0100\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
+"PO-Revision-Date: 2026-03-30 15:24+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-values/fr/>\n"
@@ -473,14 +473,6 @@ msgstr "Commandement"
 #.  Removed: your General and other important
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:208
-#, fuzzy
-#| msgid ""
-#| "Command is another game value and a very important one too! Only "
-#| "characters have a Command value and they use it when issuing orders. "
-#| "Values vary from as low as 7 to as high as 10 but only the very best "
-#| "Generals have a value as high as 10.  [.bo5a]#The higher the value, the "
-#| "more likely you are to be able to order your troops to do what you want "
-#| "them to.# More about command in due course."
 msgid ""
 "Command is another game value and a very important one too! Only characters "
 "have a Command value and they use it when xref:command.adoc#orders[issuing "
@@ -490,11 +482,12 @@ msgid ""
 "to.# More about command in xref:command.adoc[due course]."
 msgstr ""
 "Le Commandement est une autre caractéristique essentielle ! Seuls certains "
-"personnages importants et votre Général en sont dotés pour pouvoir donner "
-"des ordres. Il varie de 7 à 10, mais seuls les meilleurs atteignent le "
-"niveau le plus élevé.   [.bo5a]#Plus la valeur est élevée, plus vous avez de "
-"chances de pouvoir ordonner à vos troupes d'agir comme vous le souhaitez.# "
-"Nous reparlerons du Commandement plus tard."
+"personnages importants et votre Général en sont dotés pour pouvoir  "
+"xref:command.adoc#orders[donner des ordres]. Il varie de 7 à 10, mais seuls "
+"les meilleurs atteignent le niveau le plus élevé.   [.bo5a]#Plus la valeur "
+"est élevée, plus vous avez de chances de pouvoir ordonner à vos troupes "
+"d'agir comme vous le souhaitez.# Nous reparlerons du Commandement "
+"xref:command.adoc[plus tard]."
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-values.adoc:212
@@ -504,13 +497,6 @@ msgstr "Valeur en points"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:222
-#, fuzzy
-#| msgid ""
-#| "Each unit and character in the game is assigned a points value which "
-#| "reflects its worth in the game – the more effective units and characters "
-#| "having an appropriately higher value. Once the battle is finished, the "
-#| "total points value of each side’s casualties determines who wins.  "
-#| "[.edit]#Otherwise,# points values don’t really affect the rules of play."
 msgid ""
 "Each unit and character in the game is assigned a points value which "
 "reflects its worth in the game – the more effective units and characters "
@@ -521,10 +507,10 @@ msgid ""
 msgstr ""
 "Chaque unité et personnage du jeu se voit attribuer une valeur en points qui "
 "reflète sa valeur dans le jeu ; les unités et personnages les plus efficaces "
-"ont une valeur proportionnellement plus élevée. Une fois la bataille "
-"terminée, le total en points des pertes de chaque camp détermine la "
-"victoire. [.edit]#Autrement,# la valeur des points n'a pas vraiment d'impact "
-"sur les règles du jeu."
+"ont une valeur proportionnellement plus élevée. xref:end-of-the-battle.adoc"
+"#victory-points[Une fois la bataille terminée], le total en points des "
+"pertes de chaque camp détermine la victoire. [.edit]#Autrement,# la valeur "
+"des points n'a pas vraiment d'impact sur les règles du jeu."
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/game-values.adoc:224
@@ -749,15 +735,6 @@ msgstr "Effet du terrain"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/game-values.adoc:390
-#, fuzzy
-#| msgid ""
-#| "Some terrain (such as areas of ruins, hills and woods)  blocks line of "
-#| "sight as described in the Movement rules.  In principle, line of sight is "
-#| "blocked where it passes through any kind of terrain feature, but there "
-#| "are appropriate and mostly obvious exceptions. For example, it is always "
-#| "considered possible to see over low linear features such as hedges and "
-#| "low walls (see <<line-of-sight-terrain>>).  The section on "
-#| "xref:movement.adoc#terrain[Terrain] explains the rules governing this."
 msgid ""
 "Some terrain (such as areas of ruins, hills and woods)  blocks line of sight "
 "as described in the xref:movement.adoc#terrain[Movement rules].  In "
@@ -769,13 +746,13 @@ msgid ""
 "this."
 msgstr ""
 "Certains terrains (comme les ruines, les collines et les bois) bloquent la "
-"ligne de vue, comme décrit dans les règles de Mouvement. En principe, la "
-"ligne de vue est bloquée lorsqu'elle traverse un élément de terrain, quel "
-"qu'il soit, mais il existe des exceptions appropriées et généralement "
-"évidentes. Par exemple, il est toujours considéré comme possible de voir par-"
-"dessus des éléments linéaires bas comme les haies et les murets (voir « line-"
-"of-sight-terrain »). La section sur les xref:movement.adoc#terrain[Terrains] "
-"en explique les règles."
+"ligne de vue, comme décrit dans xref:movement.adoc#terrain"
+"[les règles de Mouvement]. En principe, la ligne de vue est bloquée "
+"lorsqu'elle traverse un élément de terrain, quel qu'il soit, mais il existe "
+"des exceptions appropriées et généralement évidentes. Par exemple, il est "
+"toujours considéré comme possible de voir par-dessus des éléments linéaires "
+"bas comme les haies et les murets (voir <<line-of-sight-terrain>>). La "
+"section sur les xref:movement.adoc#terrain[Terrains] en explique les règles."
 
 #. type: delimited block = 4
 #: en/revolution/modules/rules/pages/game-values.adoc:398

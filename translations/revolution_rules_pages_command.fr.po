@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-02-15 16:10+0100\n"
-"PO-Revision-Date: 2026-03-27 14:24+0000\n"
+"PO-Revision-Date: 2026-03-30 15:24+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_command/fr/>\n"
@@ -56,7 +56,7 @@ msgstr "Règles optionnelles"
 #: en/revolution/modules/rules/pages/command.adoc:2
 #, no-wrap
 msgid "[.edit]#Command & Initiative#"
-msgstr "[.edit]#Phase d'Ordres & Initiative#"
+msgstr "[.edit]#Phase d'Ordres & d'Initiative#"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:10
@@ -226,14 +226,14 @@ msgid ""
 "in most cases; exceptions are covered in the army lists."
 msgstr ""
 "[.ancients]#Durant la sous-phase Initiative,# une unité peut utiliser sa "
-"propre initiative pour soit  xref :movement.adoc#moving-chargers[charger], "
-"soit xref :movement.adoc#the-path-of-evaders[éviter] *l’unité ennemie "
-"visible la plus proche* à 20cm ou moins (see xref :game-values.adoc"
-"#visibility-on-the-battlefield[Visibilité sur le champ de bataille]). Elle n’"
-"est pas obligée de le faire, et peut à la place attendre [.edit]#la sous-"
-"phase d'Ordres# et tenter d'effectuer un mouvement par le biais d'un ordre. "
-"Généralement, le choix revient au joueur ; les exceptions sont détaillées "
-"dans les listes d’armées."
+"propre initiative pour soit xref:movement.adoc#moving-chargers[charger], "
+"soit xref:movement.adoc#the-path-of-evaders[éviter] *l’unité ennemie visible "
+"la plus proche* à 20cm ou moins (see xref:game-values.adoc#visibility-on-the-"
+"battlefield[Visibilité sur le champ de bataille]). Elle n’est pas obligée de "
+"le faire, et peut à la place attendre [.edit]#la sous-phase d'Ordres# et "
+"tenter d'effectuer un mouvement par le biais d'un ordre. Généralement, le "
+"choix revient au joueur ; les exceptions sont détaillées dans les listes "
+"d’armées."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:113
@@ -369,7 +369,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/command.adoc:194
 #, no-wrap
 msgid "Sequence of movement"
-msgstr ""
+msgstr "Séquence de mouvement"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:219
@@ -378,6 +378,9 @@ msgid ""
 "the player wishes.  Initiative is determined as each unit begins its move "
 "and *not* at the beginning of the sub-phase."
 msgstr ""
+"Durant la sous-phase d'Initiative, les unités sont déplacées une par une "
+"dans l'ordre désiré par le joueur.  L'initiative est déterminée au moment où "
+"chaque unité commence son mouvement et *non* au début de la sous-phase."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:232
@@ -392,6 +395,14 @@ msgid ""
 "These are all things for inexperienced players to be wary of. See "
 "<<initiative-charge-1>> and <<initiative-charge-2>>."
 msgstr ""
+"Notez que le mouvement de chacune se fait une par une, il est possible que l’"
+"une d’elles bloque les lignes de vue des autres, rendant dès lors impossible "
+"une prise d’initiative des autres unités, ou encore changeant l’unité "
+"ennemie visible la plus proche. [.bo5a]#À l’inverse,# le mouvement d’une "
+"unité peut dégager des lignes de vue et permettre ainsi à d’autres unités "
+"qui ne le pouvaient précédemment pas, de se déplacer par initiative, ou "
+"faire en sorte que l’ennemi visible le plus proche change. Voir <<initiative-"
+"charge-1>> et <<initiative-charge-2>>."
 
 #.  Warmaster Original diagram from Movement chapter:
 #.  TODO: Low-priority diagram text
@@ -400,6 +411,9 @@ msgstr ""
 #, no-wrap
 msgid "Unit A is within 20cm of Enemy 1 and can see – it uses Initiative to charge. Note unit B cannot see any enemy in this position."
 msgstr ""
+"L’unité A se trouve 20cm ou moins de l’ennemi 1 et peut le voir. Elle "
+"utilise son initiative pour le charger. Notez que dans sa position actuelle, "
+"l’unité B ne voit aucun ennemi."
 
 #.  Warmaster Original diagram from Movement chapter:
 #.  TODO: Low-priority diagram text
@@ -408,12 +422,15 @@ msgstr ""
 #, no-wrap
 msgid "Now unit A has moved unit B can see enemy 2, and can use its Initiative to charge – unit A’s move has opened a line of sight for unit B to charge."
 msgstr ""
+"À présent que l’unité A s’est déplacée, l’unité B peut voir l’ennemi 2, et "
+"peut donc utiliser son initiative pour le charger – le mouvement de l’unité "
+"A a dégagé sa ligne de vue."
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:246
 #, no-wrap
 msgid "Charge or evade"
-msgstr ""
+msgstr "Charger ou éviter"
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:253
@@ -423,6 +440,11 @@ msgid ""
 "for xref:movement.adoc#moving-chargers[charges] and xref:movement.adoc#the-"
 "path-of-evaders[evades] are described in the Movement section."
 msgstr ""
+"Comme expliqué précédemment, il y a deux types de mouvement par initiative : "
+"la charge et l'évitement.  Une unité *ne peut pas* utiliser l'initiative "
+"pour bouger d'une autre façon. Les règles pour xref:movement.adoc#moving-"
+"chargers[charger] et xref:movement.adoc#the-path-of-evaders[éviter] sont "
+"décrites dans la section Mouvement."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:270
@@ -433,6 +455,12 @@ msgid ""
 "messenger, or a local commander’s interpretation of orders either given by "
 "signal or arranged before the battle."
 msgstr ""
+"La transmission des ordres est l’un des aspects fondamentaux de Warmaster. "
+"[.bo5a]#Seuls les personnages peuvent donner des ordres - c'est leur "
+"principale fonction lors de la partie.# Cela représente le processus de "
+"transmission des instructions par messager, ou l’interprétation par un "
+"commandant local des ordres envoyés par signaux ou convenus avant la "
+"bataille."
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/command.adoc:290
@@ -442,6 +470,10 @@ msgid ""
 "given a further order and moved again, up to a maximum of *three* times in "
 "total.  This process is described in detail in the rules that follow."
 msgstr ""
+"[.bo5a]#Un ordre doit être donné à une unité pour que celle-ci se déplace "
+"dans la sous-phase d'Ordres.# Ceci fait, elle est déplacée, et peut recevoir "
+"un autre ordre et être déplacée à nouveau, jusqu'à un maximum de *trois* "
+"fois au total.  Ce processus est décrit en détail dans les règles suivantes."
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/command.adoc:293
