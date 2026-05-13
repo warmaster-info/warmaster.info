@@ -28,7 +28,7 @@ Rolls of 6+ are needed to score hits on a fortified target.
 [#drive-back]
 == xref:shooting.adoc#driving-back-enemies[Drive back]
 
-. Roll a dice for each hit taken, rolling 1 less dice for defended units and 2 less
+. The shooter rolls a dice for each hit taken, rolling 1 less dice for defended units and 2 less
   dice for fortified units.
 . Add the dice scores together and drive back the target unit by this distance.
 . If any drive back dice roll 6s, the unit becomes xref:shooting.adoc#units-confused-during-drive-backs[confused].
@@ -45,7 +45,7 @@ Rolls of 6+ are needed to score hits on a fortified target.
 . Hits inflicted on chargers carry over into the first combat round.
 . Chargers cannot be driven back.
 
-[#disregard-odd-hits]
-== xref:shooting.adoc#disregard-odd-hits[Disregard odd hits]
+[#disregard-remaining-hits]
+== xref:shooting.adoc#disregard-remaining-hits[Disregard remaining hits]
 
-. At the end of the Shooting phase any odd hits are disregarded.
+. At the end of the Shooting phase any remaining hits are disregarded.

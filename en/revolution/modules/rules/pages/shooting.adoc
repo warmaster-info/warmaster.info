@@ -312,10 +312,10 @@ hits left over as appropriate.
 // Newline added
 
 [.edit]
-=== Disregard odd hits
+=== Disregard remaining hits
 
 Once the Shooting phase is
-over, any odd hits are discounted. Hits are not recorded
+over, any remaining hits are discounted. Hits are not recorded
 from one phase to another or from one turn to the next.
 We assume that the regiment regroups while lightly
 wounded or disaffected warriors are brought back into
@@ -339,12 +339,12 @@ a unit suffers, the further it is likely to be driven back.
 // Newline added
 
 Work out how far units are driven back once all shooting
-is complete but *before* disregarding odd hits at the end
+is complete but *before* disregarding remaining hits at the end
 of the Shooting phase. The player whose units are being
 driven back can decide the order in which drive backs
 are resolved.
 
-To determine how far units are driven back, the opposing
+To determine how far units are driven back, the shooting
 player rolls one dice for each hit suffered. Don’t forget
 to include hits from any stands that have been removed
 during the phase. Add up the total of all the dice to find
@@ -375,13 +375,13 @@ When a unit is driven back, it is moved directly away
 from the enemy without changing its formation or
 orientation. The direction of the drive back is
 established by placing a ruler or other straight edge
-between the closest enemy stand and the closest part of
-the unit as shown in the diagram above. This is similar
-to an evade move as described in the xref::movement.adoc#the-evade[Movement section],
-but note that in the case of an evade, the unit
-can change its formation and stands can change their
-orientation as they move, in the case of a drive back, a
-unit can do neither of these things but must move back
+between the closest shooting enemy stand and the closest
+part of the unit as shown in <<drive-back>>. This is
+similar to an evade move as described in the xref::movement.adoc#the-evade[Movement section],
+but note that in the case of an evade,
+the unit can change its formation and stands can change
+their orientation as they move, in the case of a drive back,
+a unit can do neither of these things but must move back
 as a block. See <<drive-back>>.
 
 // Difference: Bo5A allows changing formation.
@@ -399,8 +399,8 @@ amidst the turmoil of a disorderly recoil. This is a marked
 disadvantage because it means that units will be unable
 to move in their following [.edit]#Command & Initiative phase#.
 
-When rolling for drive back distances, any dice roll of a
-6 means that the unit becomes *confused*.
+When the shooter rolls for drive back distances, any dice
+roll of a 6 means that the unit becomes *confused*.
 
 Units may also become confused if they are driven back
 into terrain which they can’t enter or if they are driven
@@ -521,12 +521,12 @@ for the first round of fighting (see xref::combat.adoc#combat-results[Combat res
 .The Archers shoot as the Knights charge.
 image::shooting/shooting-at-chargers.webp[width=984,height=693,id=shooting-at-chargers]
 
-If a missile-armed unit is charged by two or more
-enemy units, one after the other, then it can potentially
-shoot more than once. When shooting at a second
-or subsequent charger only those stands that are not
-already engaged can fire. Remember that stands touching
-corner-to-corner are engaged and so are not free to shoot
+If a missile-armed unit is charged by two or more enemy
+units, one after the other, then it can potentially shoot
+more than once. When shooting at a second or subsequent
+charger only those stands that are not already touching
+the enemy can fire. Remember that stands touching
+corner-to-corner are not free to shoot
 at charging enemy.
 
 // TODO: Low-priority diagram.
@@ -558,7 +558,7 @@ include::partial$divider-sword.adoc[]
 You may have realised by now that missile fire isn’t a
 terribly effective way of destroying enemy units. The
 number of hits inflicted will probably be insufficient to
-remove a stand and any odd hits are always discounted at
+remove a stand and any remaining hits are always discounted at
 the end of the phase. The most effective way to employ
 missile fire is to coordinate attacks from several units at
 once.

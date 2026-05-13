@@ -16,7 +16,7 @@
 //po4a: entry noble
 //po4a: entry treeman-ancient
 //po4a: entry branchwraith
-//po4a: entry spell-weaver
+//po4a: entry spellweaver
 //po4a: entry giant-stag
 //po4a: entry unicorn
 //po4a: entry warhawk
@@ -35,7 +35,7 @@
 :noble: Noble
 :treeman-ancient: Treeman Ancient
 :branchwraith: Branchwraith
-:spell-weaver: Spell Weaver
+:spellweaver: Spellweaver
 :giant-stag: Giant Stag
 :unicorn: Unicorn
 :warhawk: Warhawk
@@ -112,19 +112,9 @@ penalty when within woodland.
 [#special-special-rules]
 === Special rules
 
-////
-2: "2" missing
-
-3: Spelling Armour, Spelling Waywatchers, infiltration
-
-6: Spelling its
-
-7: Spelling penalty
-////
-
 [[glade-guard,†1]]1. Glade Guard:: Wood Elves are just as famed for their bow as
 their High Elf cousins, and as such Glade Guard units add +1 to
-their dice roll when making shooting attacks. Therefore these
+their dice rolls when making shooting attacks. Therefore these
 units score a hit against targets in the open on a 3+, against
 defended targets on a 4+, and against fortified targets on a 5+.
 
@@ -141,34 +131,35 @@ Wardancers casualties never count for Command penalties.
 Wardancers stands never cause the parent unit to be in Irregular
 Formation no matter how they are placed.
 
-[[waywatchers,†3]]3. Waywatchers:: Famous for their bow skills even by a Wood
+[[waywatchers,†3]]3. Waywatchers:: Famous for their bow skills even by Wood
 Elf standards, Waywatchers shoot the enemy with terrifying
-accuracy. They add +1 to their dice roll when making shooting
+accuracy. They add +1 to their dice rolls when making shooting
 attacks and these attacks are resolved at −1 Armour value of the
 enemy.
 +
-Waywatchers can also ambush. Individual units can be
-infiltrated onto the battlefield once the game has begun. To
-infiltrate a unit, the Wood Elf player nominates the point
-where he wants the Waywatchers to appear and issues an
-‘infiltration’ order from any character. The character does
-not have to be within his normal command range to issue an
-infiltration order – the character’s command range is considered
-to extend over the entire tabletop when issuing an infiltration
-order. Treat the order as issued to the nominated point, and
-apply any modifiers for distance and proximity of enemy, but
-ignore penalties of dense terrain. The nominated point must lie
-either on the table within dense terrain or on any base edge
-other than the enemy player’s own table edge. If successful,
-place one stand on the nominated spot and arrange the rest
-of the unit around it. The infiltrated unit cannot be placed so
-that it touches an enemy unit. Once deployed, orders can be
-given to the unit by the same character that gave the infiltration
-order if he is within his normal command range, the infiltrating
-unit is considered to have used its first order to deploy. If the
-infiltration order is failed the unit is not deployed and cannot
-infiltrate that turn, it can attempt to infiltrate in a subsequent
-turn at the same of a different place.
+Individual units can be infiltrated onto the battlefield once
+the game has begun. To infiltrate a unit, the Wood Elf player
+nominates the point where he wants the Waywatchers to
+appear and issues an ‘infiltration’ order from any character. The
+character does not have to be within his normal command range
+to issue an infiltration order – the character’s command range is
+considered to extend over the entire tabletop when issuing an
+infiltration order. Treat the order as issued to the nominated
+point, and apply any modifiers for distance and proximity of
+enemy, but ignore penalties of dense terrain. The nominated
+point must lie either on the table within dense terrain or on
+any base edge other than the enemy player’s own table edge. If
+successful, place one stand on the nominated spot and arrange
+the rest of the unit around it. The infiltrated unit cannot be
+placed so that it touches an enemy unit. Once deployed, orders
+can be given to the unit by the same character that gave the
+infiltration order if he is within his normal command range,
+the infiltrating unit is considered to have used its first order to
+deploy. If the infiltration order is failed the unit is not deployed
+and cannot infiltrate that turn, it can attempt to infiltrate in a
+subsequent turn at the same or a different place.
++
+Waywatchers do not suffer the −1 Command penalty for Dense terrain.
 
 [[forest-spirits,†4]]4. Forest Spirits:: Forest Spirits are woodland creatures. They
 are immune to terror and suffer a −1 Command penalty when
@@ -211,12 +202,12 @@ Forest Spirit units and is able to cast the <<tree-singing>> spell.
 A Branchwraith cannot
 be given any magic items.
 
-[[giant-stag,†10]]10. Giant Stag:: Generals, Nobles and Spell Weavers may ride a
+[[giant-stag,†10]]10. Giant Stag:: Generals, Nobles and Spellweavers may ride a
 Giant Stag.
 +
 The Stag adds +1 Attack to those of its rider.
 
-[[unicorn,†11]]11. Unicorn:: This mount can be ridden only by a Spell Weaver.
+[[unicorn,†11]]11. Unicorn:: This mount can be ridden only by a Spellweaver.
 +
 The Unicorn adds +1 Attack to those of its rider.
 +
@@ -228,13 +219,13 @@ magic [.edit]#is being used# before rolling to see if the spell works.
 There can be only
 one Unicorn in the army.
 
-[[warhawk,†12]]12. Warhawk:: General, Nobles and Spell Weavers may ride a
+[[warhawk,†12]]12. Warhawk:: General, Nobles and Spellweavers may ride a
 Warhawk.
 +
 The Warhawk can fly, increasing its rider’s move
 from 60cm to 100cm, and it adds +1 Attack to those of its rider.
 
-[[forest-dragon,†13]]13. Forest Dragon:: Generals, Nobles and Spell Weavers may
+[[forest-dragon,†13]]13. Forest Dragon:: Generals, Nobles and Spellweavers may
 ride Forest Dragons.
 +
 include::partial$dragon.adoc[]
@@ -250,8 +241,7 @@ image::wood-elves/infantry.webp[width=2069,height=729,role=column-span]
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-// Spelling their, force → forth, form → from
-_The Spell Weaver calls forth a mass of tangling branches to
+_The Spellweaver calls forth a mass of tangling branches to
 surround their troops, protecting them from harm._
 
 This spell may be cast upon a single unengaged friendly
@@ -263,41 +253,55 @@ Infantry unit counts as Defended, even if it is in open terrain.
 [#twilight-host]
 === Twilight Host
 
-[.cost]#5+ to cast# [.points]#Range 30cm#
+[.cost]#4+ to cast# [.points]#Range 30cm#
 
-// weird → eldritch, target unit → silent elves.
-_An [.edit]#eldritch# enchantment forms around the [.edit]#silent elves#._
+_The Spellweaver shrouds a friendly unit in nightmarish
+shadows, filling the enemy with fear._
 
-// next rearranged, magic → shooting
-The target unit causes terror until the next Wood Elf [.edit]#Shooting# phase.
+This spell can only be cast on any friendly unit within range
+regardless of whether the Spellweaver can see it or not.
+
+The
+unit counts as causing terror for the duration of the Combat
+phase.
 
 [#call-of-the-hunt]
 === Call of the Hunt
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-_The Spell Weaver’s voice sings out across the battlefield
-directing troops above the tumult of combat with the magical
-Call of the Hunt._
+_The Spellweaver’s voice sings out across the battlefield directing
+troops above the tumult of combat with the magical Call of the
+Hunt._
 
-// Add "The [enemy] unit"
-[.edit]#The target# unit may make a charge move into contact with the nearest
-visible enemy unit in the same way as when charging. The enemy unit
-may not shoot at the chargers.
+The spell can be cast on any unengaged friendly unit within
+range regardless of whether the Spellweaver can see it or not.
+The spell affects only a single unit, never a brigade and there
+is no supporting charge possible.
++
+The target unit must make a
+charge move into base contact with the nearest visible enemy
+unit in the same way as when charging, so all normal charge
+rules apply.
++
+A unit moved by means of the spell cannot be affected by stand
+and shoot attacks until the end of the shooting phase. Character
+stands that have joined the affected unit will not move with it:
+they remain where they are.
 
 [#fury-of-the-forest]
 === Fury of the Forest
 
 [.cost]#6+ to cast# [.points]#Range 60cm#
 
-[.edit]
-_Trees shake, branches lash out and vines entangle the foe as
-they approach the forest._
+_The Spellweaver awakens the fury of the forest to purge the
+enemy from their soil._
 
-// Add "the", "the"
-The spell makes three shooting attacks on all enemy units
-within 10cm of the chosen wooded terrain piece. Units get no
-armour save if within wooded terrain.
+The spell can be cast upon any terrain piece in range that is
+designated as woods. All enemy units within 10cm of chosen
+wooded terrain piece take 3 shooting attacks worked out in the
+normal way. Affected units get no armour save if at least one
+of their stands is completely within the chosen terrain.
 
 Unengaged units are not driven back by this spell (the assault
 comes form the ground beneath their feet). Engaged units carry

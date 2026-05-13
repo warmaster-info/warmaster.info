@@ -25,15 +25,15 @@ Magic items are devices such as banners, swords or
 armour that confer special attacks, protection, etc. Each
 magic item has its own rules and points value. When
 you choose an army you can include magic items in it.
-Any unit of infantry, cavalry or chariots can be given
+Any unit of *infantry, cavalry or chariots* can be given
 one magic item. Each character can also be given one
 magic item. If you decide to give a magic item to a unit
 or character then you must pay the extra points. This
 means that you will have fewer points for other troops.
 
-Magic items cannot be given to monsters or war
-machines. Some items can only be given to characters or
-to a Wizard as described later.
+Magic items cannot be given to monsters, [.edit]#artillery,# machines
+or flying units. Some items can only be given to characters
+or to a Wizard as described later.
 
 [.page=76]
 [#casting-spells]
@@ -154,68 +154,61 @@ example.
 [#battle-banner]
 ==== The Battle Banner
 
-[.cost]#Cost# [.points]#30 pts#
+[.cost]#Cost – superior (units with 5 or more Attacks when charging)# [.points]#30 pts#
 
-A unit with this banner increases the Attacks value of each of
-its stands by +1 during its first Combat engagement of fighting.
-The effect only lasts for the first combat engagement of the
-battle, including rounds of pursuit combat during the same
-engagement and any further engagements which result from
-an advance.
+[.cost]#Cost – major (units with 3 Attacks only)# [.points]#20 pts#
+
+[.cost]#Cost – minor (units with 2 Attacks only)# [.points]#15 pts#
+
+A unit with this banner increases the close combat Attacks
+value of each of its stands by +1. Every time a stand of the unit is
+removed roll a dice. On a roll of 1, 2 or 3 the banner is lost.
 
 [#banner-of-shielding]
 ==== The Banner of Shielding
 
-[.cost]#Cost – superior (units with Armour 4+ only)# [.points]#50 pts#
+[.cost]#Cost – major (units with 5+ Armour only)# [.points]#30 pts#
 
-[.cost]#Cost – major (units with Armour 5+ only)# [.points]#30 pts#
+[.cost]#Cost – minor (units with 6+ or 0 Armour only)# [.points]#20 pts#
 
-[.cost]#Cost – minor (units with Armour 6+ or 0 only)# [.points]#15 pts#
-
-A unit with this banner has its Armour value increased in
-effectiveness by \+1. If the unit’s Armour value is 5+ then this
-banner increases it to 4+ and so on. A unit’s Armour value
-cannot be better than 3+. If a unit already has an Armour value
-of 3+ then this banner has no effect. This bonus lasts until the
-unit loses a stand. After the unit has lost a stand, the banner
-has no further effect.
+A unit with this banner has its Armour increased in
+effectiveness by \+1. If the unit’s Armour is 5+ then this banner
+increases it to 4+ and so on. Every time a stand of the unit is
+removed roll a dice. On the roll of 1, 2 or 3 the banner is lost.
 
 [#banner-of-fortitude]
 ==== The Banner of Fortitude
 
-[.cost]#Cost – major (units with 4 Hits only)# [.points]#50 pts#
+[.cost]#Cost – (units with 3 Hits only)# [.points]#30 pts#
 
-[.cost]#Cost – minor (units with 3 or 2 Hits only)# [.points]#30 pts#
-
-A unit with this banner increases the Hits value of each of its
-stands by +1 during its first Combat engagement of fighting.
-The effect only lasts for the first combat engagement of the
-battle, including rounds of pursuit combat during the same
-engagement and any further engagements which result
-from an advance. Discard odd hits at the end of the Combat
-engagement before discounting the effect of the Banner of
-Fortitude.
+A unit with this banner increases the Hit of each of its stands
+by +1. Every time a stand of the unit is removed roll a dice. On
+the roll of 1, 2 or 3 the banner is lost.
 
 [#banner-of-steadfastness]
 ==== The Banner of Steadfastness
 
-[.cost]#Cost – superior (units with 4+ Armour only)# [.points]#20 pts#
+[.cost]#Cost – superior (units with 4+ Armour only)# [.points]#15 pts#
 
-[.cost]#Cost – major (units with 5+ Armour only)# [.points]#15 pts#
+[.cost]#Cost – major (units with 5+ Armour only)# [.points]#10 pts#
 
-[.cost]#Cost – minor (units with 6+ Armour only)# [.points]#10 pts#
+[.cost]#Cost – minor (units with 6+ or 0 Armour only)# [.points]#5 pts#
 
 One shooting hit inflicted on the unit after saves have been
 taken in each turn is ignored because the missiles are cast aside
 by the Banner of Steadfastness. This includes hits from magic
-spells inflicted in the Shooting phase. This effect lasts until the
-unit loses a stand. After the unit has lost a stand the banner has
-no further effect.
+spells inflicted in the Shooting phase. Every time a stand of the
+unit is removed roll a dice. On the roll of 1, 2 or 3 the banner
+is lost.
 
 [#banner-of-fortune]
 ==== The Banner of Fortune
 
-[.cost]#Cost# [.points]#15 pts#
+[.cost]#Cost – superior (units with 5 or more Attacks when charging)# [.points]#15 pts#
+
+[.cost]#Cost – major (units with 3 Attacks only)# [.points]#10 pts#
+
+[.cost]#Cost – minor (units with 2 Attacks only)# [.points]#5 pts#
 
 The player can choose to immediately re-roll all the unit’s
 Attack dice once in either the Shooting phase or Combat
@@ -324,13 +317,16 @@ issuing orders in the usual way with his normal Command value.
 The Orb of Majesty will only work once in the entire game and only
 affects an order that has been issued by the General.
 
+The Orb of Majesty cannot be used by Dark Elf or High Elf generals.
+
 [#ring-of-magic]
 ==== Ring of Magic
 
 [.cost]#Wizard only# [.points]#30 pts#
 
-A Wizard with this ring is able to cast a spell without making the usual
-dice roll to do so. This item will only work once in the entire game.
+A Wizard with this ring is able to cast a spell on the roll of 2+. This item
+will only work once in the entire game and when used it cannot be
+combined with any other item granting a spell-casting bonus.
 
 [#staff-of-spellbinding]
 ==== Staff of Spellbinding
@@ -346,7 +342,7 @@ spellbound as a result.
 [#sceptre-of-sovreignty]
 ==== Sceptre of Sovreignty
 
-[.cost]#General only# [.points]#30 pts#
+[.cost]#General only# [.points]#20 pts#
 
 If the General carries the Sceptre of Sovereignty, he may ignore one
 blundered ‘double 6’ roll for an order made by either himself or any
@@ -357,16 +353,18 @@ Command test is passed and the character may continue issuing orders
 as normal. The steely will of the Sceptre of Sovereignty reaches out and
 stays the incompetent wretch before the deed is done.
 
+The Sceptre of Sovreignty cannot be used by Dark Elf or High Elf generals.
+
 [#scroll-of-dispelling]
 ==== Scroll of Dispelling
 
 [.cost]#Wizard or Dwarf runesmith only# [.points]#20 pts#
 
 If a Wizard or a Dwarf Runesmith has the Scroll of Dispelling he can
-automatically cause an enemy’s spell to fail. The Scroll can only be used
-once to nullify the effect of a spell an enemy Wizard has successfully
-cast. In the case of a Runesmith, the Scroll can be used after a normal
-Dwarf anti-magic roll has failed.
+automatically cause an enemy’s spell to fail a the roll of 2+. The Scroll can only
+be used once to nullify the effect of a spell an enemy Wizard has
+successfully cast. In the case of a Runesmith, the Scroll can be used
+after a normal Dwarf anti-magic roll has failed.
 
 [#wand-of-power]
 ==== Wand of Power

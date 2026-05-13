@@ -134,19 +134,19 @@ total number of committed scouting points.
 
 |Flyers
 |3
-|Flying units, flying characters or characters on flying mounts; Rangers; Gutter
-Runners; Gorgers; Waywatchers
+|Flying units, flying characters or characters on flying mounts; Dwarf Rangers; Nippon Ninja;
+Skaven Gutter Runners; Ogre Gorgers; Wood Elf Waywatchers
 
 |Scouts
 |2
-|Cavalry units with 6+ Armour; Ethereal Hosts; Centigors; Warhounds;
-Huntsmen; Beastherd/Herdkin deployed as ambushers; Skirmishers; non-flying
+|Cavalry units with 6+ Armour; Ethereal Hosts; Warhounds;
+Huntsmen; Beastherd Gor/Ungor deployed as ambushers; Skirmishers; non-flying
 General
 
 |Patrols
 |1
-|Cavalry units with zero or 5+ Armour; Rat Swarms; Skinks;
-non-flying command 8 characters.
+|Cavalry units with zero or 5+ Armour; Skaven Rat Swarms; Lizardmen
+Skinks; non-flying command 8 characters.
 |===
 
 // do need, add "the"
@@ -214,7 +214,7 @@ out of time first is the loser.
 [#scenarios]
 == Scenarios
 
-The simplest way to start a game is by lining the
+The simplest way to play a game is by lining the
 armies up across the battlefield 80cm apart using one
 of the methods described. Although easy, this seems
 unnecessarily dull when you could embellish each battle
@@ -226,38 +226,33 @@ are no rules when it comes to creating a battle. It’s up to
 you to invent an entertaining plot or spin a fantastic yarn
 to underpin the game.
 
-[.page=82]
-[#victory-points]
-== Victory points
+There are 5 scenarios on the following pages. Together
+with an ordinary pitched battle it makes 6 ways to play.
+You can pick whichever scenario you agree on with your
+opponent or alternatively you can use the following table
+to choose by chance.
 
-Victory Points in following scenarios are designed so
-they fit into the campaign system presented further in
-this Rulebook. In these scenarios the Victory Points are
-not related to the point costs of the units destroyed but
-purely to the scenario objectives.
-
-As usual, the player with the most Victory Points is the
-winner. To see how decisive the victory was, consult the
-Victory Points difference with the following table:
-
-[cols="^,^",frame=ends,grid=rows]
+[cols="^1,4",frame=none,grid=rows]
 |===
-|1–2 Victory Points |Minor victory
-|3–5 Victory Points |Major victory
-|6+ Victory Points  |Massacre
-|===
+|D6 roll |Scenario
 
-If both sides have an equal number of Victory Points,
-then the game is a draw.
+|1 |Pitched battle
+|2 |<<take-and-hold>>
+|3 |<<battle-for-the-tower>>
+|4 |<<spoils-of-war>>
+|5 |<<at-all-costs>>
+|6 |<<blood-and-glory>>
+|===
 
 [.page=83]
 [#take-and-hold]
 == Take and hold
 
 The aim of this scenario is to fight over certain objectives
-rather than just breaking your opponent. The battle
-can be played at any number of points; however, we
-recommend 2000 or more.
+rather than just breaking your opponent. The scenario is
+designed for 2000 point armies. When playing a smaller
+game, divide the Victory Points in the
+scenario by 2.
 
 [#take-and-hold-special-rules]
 === Special rules
@@ -271,37 +266,40 @@ within 15cm of the central table line (objective zone B).
 Place the remaining two objectives outside this zone as
 well as outside the deployment zones (objective zone A).
 In each objective zone A there should be one objective.
-Place the objectives at least 5cm from any dense terrain
+Place the objectives at least 5cm from any terrain feature
 and at least 30cm from each other.
 
 After the objectives are placed, roll for sides and deploy
-your armies within the deployment zones.
+your armies within the deployment zones (see <<setting-up-armies>>).
 
 [#take-and-hold-victory-points]
 === Victory points
 
 // is → are
-Victory Points are awarded not only for breaking the
-opponent but for holding the objectives during the game.
-Victory Points for holding an objective are scored if a
-non-confused unit is within 5cm of the objective while
-there are no enemy units within 5cm of the same objective
-at the end of player’s turn from 3rd turn on. Flyers cannot
-hold objectives however, they can contest them. The number
+Victory Points are awarded not only for destroying
+enemy units but also for holding the objectives during the
+game. Victory Points for holding an objective are scored
+by a player if a non-confused unit is at least partially
+within 5cm of the objective while there are no enemy
+units within 5cm of the same objective at the end of
+each player’s turn from 3rd turn on. Flyers cannot
+hold objectives, however, they can contest them. The number
 of awarded points depends on where the objective lies
 
-*1 point* for holding the objective on your side of the table.
+*100 Victory Points* for holding the objective on your side
+of the table.
 
-*2 points* for holding an objective on the enemy side of
-the table.
+*200 Victory Points* for holding an objective on the enemy
+side of the table.
 
-*2 points* for forcing the enemy to withdraw.
+The game ends when one side withdraws – that happens
+when one side reaches its break point or when the
+opponent collects 1000 Victory Points by holding
+objectives. The game also ends when the turn/time limit
+set in a pre-agreed way runs out (see <<how-long-does-the-battle-last>>).
 
-The game ends when one player collects 10 Victory Points,
-one side withdraws or in a pre-agreed way (see <<how-long-does-the-battle-last>>).
-
-An army that withdrew cannot win but can draw at best,
-even when it has more Victory Points than the enemy.
+The player with more Victory Points is the victor unless
+he withdrew, in which case the game is a draw (see xref:end-of-the-battle.adoc[]).
 
 image::battlefields/take-and-hold.svg[width=2599,height=1732,id=f-take-and-hold]
 
@@ -312,9 +310,10 @@ image::battlefields/swordsmen.webp[width=2079,height=509,role=column-span]
 == Battle for the tower
 
 This scenario features a bloody struggle for a tower
-positioned in the middle of the battlefield. The battle
-can be played at any number of points; however, we
-recommend 2000 or more.
+positioned in the middle of the battlefield. The scenario
+is designed for 2000 point armies. When playing a
+smaller game, divide all the Victory Points in
+the scenario by 2.
 
 [#battle-for-the-tower-special-rules]
 === Special rules
@@ -322,48 +321,199 @@ recommend 2000 or more.
 Along with other terrain, place a tower (or any similar
 significant terrain feature such as farm house, monolith,
 shrine etc.) right in the middle of the table. This terrain
-feature counts as impassable terrain.
+feature counts as impassable terrain. There should be no
+[.edit]#other# terrain feature within 20cm of the tower.
 
-Deploy your armies as usual.
+Deploy your armies as usual (see <<setting-up-armies>>).
 
-A player controls the tower if at least two of their non-confused
-units of infantry, cavalry or chariots (in any
-combination) are touching the tower and are not in
-combat, and no enemy unit is touching the tower.
+A player controls the tower if at least one of his non-confused
+and non-flying units is touching the tower
+while no enemy unit is touching the tower.
 
 [#battle-for-the-tower-victory-points]
 === Victory points
 
-// Spelling important, controls
-It is important who controls the tower no matter
-which side withdrew. From the 3rd turn on, a player will
-be awarded Victory Points at the end of his turn if he
-controls the tower.
-[.edit]#Points are awarded as follows:#
+From the 3rd turn on, a player will be awarded Victory
+Points at the end of each player’s turn if he controls the
+tower. The points awarded are as follows:
 
-*3 points* for controlling the tower.
+**100 points** for controlling the tower.
 
-*1 additional point* if there are no enemy units within 10cm of
-the tower.
+**100 points extra** if there is no enemy unit within 10cm
+of the tower.
 
-*1 additional point* if there are no enemy units within 20cm of
-the tower [.edit]#(in addition to the previous point)#.
+**100 point extra** if there is no enemy unit within 20cm of
+the tower. This bonus stacks with the previous one.
 
-*2 points* for forcing the enemy to withdraw.
+// agreed
+The game ends when one side withdraws – that happens
+when one side reaches its break point or when the
+opponent collects 1000 Victory Points by holding the
+tower. The game also ends when the agreed turn/time limit
+runs out (see <<how-long-does-the-battle-last>>).
 
-The game ends when one player collects 10 Victory Points,
-one side withdraws or in a pre-agreed way (see <<how-long-does-the-battle-last>>).
-
-An army that withdrew cannot win but can draw at best,
-even when it has more Victory Points than the enemy.
+The player with more Victory Points is the victor unless
+he withdrew, in which case the game is a draw (see xref:end-of-the-battle.adoc[]).
 
 image::battlefields/battle-for-the-tower.svg[width=2599,height=1732,id=f-battle-for-the-tower]
 
 image::battlefields/dwarf-gunners.webp[width=1756,height=497,role=column-span]
 
 [.page=85]
+[#spoils-of-war]
+== Spoils of war
+
+In this scenario two opposing armies are battling over
+valuable loot located between their camps. The loot
+could be well-stocked farm houses, stranded wagons,
+shards of a rare meteorite, accompanying civilians who
+got lost during the night or something similar. The
+scenario is designed for 2000 point armies. When playing
+a smaller game, divide all the Victory Points
+in the scenario by 2.
+
+[#spoils-of-war-special-rules]
+=== Special rules
+
+After the terrain is set but before deployment, players
+take turn in placing four loot markers. The markers
+must be placed within 10cm of the centre line. A loot
+marker cannot be placed within 10cm of another loot
+marker or within 20cm or the table edge. After the four
+loot markers have been placed, deploy your armies (see
+<<setting-up-armies>>). After deploying the armies, the player who takes
+the second turn removes one of the four markers.
+
+[#spoils-of-war-victory-points]
+=== Victory points
+
+Apart from destroying enemy units, Victory Points
+are awarded by claiming the loot markers. If during
+the game, a non-flying unit finds itself in contact with a
+loot marker it can attempt to claim it. To claim the loot
+the unit must receive a successful order. If the order is
+failed the unit cannot move any further. If the order is
+successful the active player picks up the loot marker and
+removes it. The unit doesn’t move and cannot receive any
+further orders. A unit can only claim one loot marker
+per turn. Units cannot claim loot by initiative. Units
+cannot receive an order to claim a loot token if they have
+already received three orders this turn. Units can only
+receive orders to claim loot markers individually i.e. no
+brigade orders.
+
+Claiming a loot marker gives the player a
+number of Victory Points depending on which turn the
+loot is claimed:
+
+[cols="<1,<3",frame=none,grid=none]
+|===
+|Turn 1:   |*0 Victory Points*
+|Turn 2:   |*100 Victory Points*
+|Turn 3-4: |*200 Victory Points*
+|Turn 5+:  |*300 Victory Points*
+|===
+
+// agreed
+The game ends when one side withdraws – that happens
+when one side reaches its break point or when the
+opponent collects 500 Victory Points by claiming the
+loot. The game also ends when the agreed turn/time limit
+runs out (see <<how-long-does-the-battle-last>>).
+
+The player with more Victory Points is the victor unless
+he withdrew, in which case the game is a draw (see xref:end-of-the-battle.adoc[]).
+
+image::battlefields/spoils-of-war.svg[width=2599,height=1732,id=f-spoils-of-war]
+
+[.page=86]
+[#at-all-costs]
+== At all costs
+
+The scenario is designed for 2000 point armies. When
+playing a smaller game, divide all the Victory
+Points in the scenario by 2.
+
+[#at-all-costs-special-rules]
+=== Special rules
+
+Before setting terrain, players take turns in placing two
+objective markers on the centre line running parallel to
+the long table edge. The markers must be at least 40cm
+from the table edge and at least 50cm from each other.
+Don’t place any terrain feature within 10cm of the
+objectives.
+
+[#at-all-costs-victory-points]
+=== Victory points
+
+From the 3rd turn onward check at the end of the each
+player’s turn whether any player can claim one or both
+objectives. An objective can be claimed by having a
+friendly non-flying unit at least partially within 5cm of
+the objective while there are no opposing units of any
+kind within 5cm of the objective. A player receives Victory
+Points depending on whether he is able to claim one or
+both objectives.
+
+Claiming one objective: *50 Victory Points* +
+Claiming both objectives: *200 Victory Points*
+
+The game ends when one side withdraws – that happens
+when one side reaches its break point or when the
+opponent collects 500 Victory Points by claiming the the
+objectives. The game also ends when the agreed turn/time limit
+runs out (see <<how-long-does-the-battle-last>>).
+
+The player with more Victory Points is the victor unless
+he withdrew, in which case the game is a draw (see xref:end-of-the-battle.adoc[]).
+
+image::battlefields/at-all-costs.svg[width=2599,height=1732,id=f-at-all-costs]
+
+[.page=86]
+[#blood-and-glory]
+== Blood and glory
+
+[#blood-and-glory-special-rules]
+=== Special rules
+
+If the army’s general is killed in this scenario, the army
+doesn’t withdraw. Instead a character with the highest
+Command value becomes a new general. If there are
+multiple characters with this value the owning player can
+choose. The new general extends his command range over
+the whole battlefield.
+
+[#blood-and-glory-victory-points]
+=== Victory points
+
+An enemy unit destroyed in combat by a unit joined by
+the general is considered to be worth double its point
+cost. When this happens don’t forget to write it down to
+keep a record.
+
+The game ends when one side withdraws by reaching
+its break point or when the agreed turn/time limit
+runs out (see <<how-long-does-the-battle-last>>).
+
+The player with more Victory Points is the victor unless
+he withdrew, in which case the game is a draw (see xref:end-of-the-battle.adoc[]).
+
+.Optional rule
+****
+Alternatively, this scenario rule can be used as a
+modification for any game, including the scenarios
+described above.
+****
+
+[.page=85]
 [#defending-the-village]
 == Defending the village
+
+[NOTE]
+====
+This scenario was removed from the 2.1.0 edition of the rulebook.
+====
 
 In this scenario one player is defending
 a village and farmsteads against the attacker’s army
@@ -435,6 +585,11 @@ image::battlefields/chaos-axe.webp[width=454,height=561,role=decorative]
 [.page=86]
 [#wagon-train]
 == Wagon train
+
+[NOTE]
+====
+This scenario was removed from the 2.1.0 edition of the rulebook.
+====
 
 // sp defender's. Bring
 A supply wagon train escorted by a patrol force is

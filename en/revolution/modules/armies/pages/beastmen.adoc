@@ -89,7 +89,7 @@ include::partial$beastmen.tsv[]
 [#army-rules]
 === Army rules
 
-The things in the woods:: Beastmen infantry do not suffer the
+The Thing in the Woods:: Beastmen infantry do not suffer the
 usual −1 Command penalty when within woodland.
 
 // Heading is missing in book
@@ -97,8 +97,7 @@ usual −1 Command penalty when within woodland.
 === Special rules
 
 ////
-3: its
-5: if not → unless, roll, its
+5: if not → unless
 ////
 [[gor-ungor,†1]]1. Gor/Ungor:: Up to half the Gor units (rounded down) and
 half the Ungor units (rounded down) may be designated as
@@ -131,9 +130,9 @@ Once deployed, Ambushers operate like normal units.
 +
 Ungor have a shooting range of 15 cm.
 
-[[minotaurs,†2]]2. Minotaurs:: Minotaurs are subject for Bloodlust – they always
+[[minotaurs,†2]]2. Minotaurs:: Minotaurs are subject to Bloodlust – they always
 use initiative to charge if possible and cannot be given orders
-instead. A unit with Bloodlust never use initiative to evade and
+instead. A unit with Bloodlust never uses initiative to evade and
 must pursue or advance where possible.
 +
 Also, it is immune to
@@ -215,7 +214,7 @@ its Initiative. Any order given to the unit, or to any brigade of
 which the unit is a part, suffers a −1 Command penalty.
 
 [#hunting-for-gore]
-=== Hunting for Gore!
+=== Hunting for Gore
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
@@ -224,7 +223,7 @@ uncontrollable desire to tear asunder any enemy and feast on
 their bloody remains. Rows of wild warriors charge headlong
 into their foes._
 
-The spell can be cast on unengaged friendly unit within range
+The spell can be cast on an unengaged friendly unit within range
 regardless of whether the Shaman can see it or not. The spell
 affects only a single unit, never a brigade. The unit can be
 moved just as if it had received an order in the Command phase.

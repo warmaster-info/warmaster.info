@@ -5,8 +5,8 @@ This section covers cannons, stone and bolt throwing
 war engines. Both artillery and machines share
 some rules in common, so we’ve included them together
 to avoid taking up more space than necessary. Special
-artillery units and machines will be described in
-particular armylists.
+artillery units and machines will be described in their
+particular army list.
 
 *Artillery* describes crewed weapons such as cannons,
 Stone Throwers, Flame Cannons, etc. In most cases,
@@ -44,9 +44,9 @@ Artillery is vulnerable in combat. An artillery unit that
 wins a round of combat never pursues and if it retreats it
 is automatically destroyed.
 
-Machines are more complex then artillery and some
+Machines are more complex than artillery and some
 have their own rules for fighting in combat, as described
-in particular army lists.
+in their particular army list.
 
 [.page=73]
 [#terrain]
@@ -59,7 +59,7 @@ to artillery.
 
 Except where noted, machines treat terrain in the same
 way as chariots. Some machines have special rules of
-their own, as described in individual army lists.
+their own, as described in their individual army list.
 
 [.page=73]
 [#shooting-overhead]
@@ -186,7 +186,7 @@ Because cannons can cause additional damage by
 bouncing shots, it is possible to inflict hits upon friends or
 upon units from either side that are engaged in combat.
 Both of these are normally ineligible targets, but in the
-case of bouncing cannon shots they can suffer hits as a
+case of bouncing cannon shots, they can suffer hits as a
 result of fire directed nearby. Any friendly unengaged
 units that take hits from cannons are driven back as if
 taking enemy fire. Where friendly units are driven back
@@ -314,8 +314,8 @@ These can be stands from the same or a different unit
 up to two stands so long as they are touching and along the
 missile’s path.
 
-The target unit suffers two attacks plus +1 for [.edit]#an# additional
-stand from the same unit within the missile’s path. A
+The target unit suffers two attacks plus +1 if an additional
+stand from the same unit is within the missile’s path. A
 shot that skewers into a different unit inflicts one attack
 on that unit. All attacks against the same unit are rolled
 at once – for example, an infantry unit in column takes
@@ -324,7 +324,7 @@ three attacks so roll three dice.
 Because a bolt thrower can cause hits on different units by
 skewering shots, it is possible to inflict hits upon enemy
 units that are engaged in combat. These are normally
-ineligible targets, but in the case of skewering shots
+ineligible targets, but in the case of skewering shots,
 they can suffer hits as a result of fire directed at a unit
 touching another enemy unit. Any hits on engaged units from
 either side will carry

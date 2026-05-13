@@ -12,7 +12,7 @@
 //po4a: entry elven-bolt-thrower
 //po4a: entry general
 //po4a: entry hero
-//po4a: entry wizard
+//po4a: entry mage
 //po4a: entry giant-eagle
 //po4a: entry dragon
 //po4a: entry chariot
@@ -26,7 +26,7 @@
 :elven-bolt-thrower: Elven Bolt Thrower
 :general: General
 :hero: Hero
-:wizard: Wizard
+:mage: Mage
 :giant-eagle: Giant Eagle
 :dragon: Dragon
 :chariot: Chariot
@@ -123,8 +123,8 @@ are defended on a 4 or more, and against fortified targets on a
 
 [[giant-eagles,†2]]2. Giant Eagles:: Giant Eagles can fly.
 
-[[dragons,†3]]3. Dragons:: Dragons can fly. Dragon rider units and any other
-units that include a Dragon riding character cause terror in
+[[dragons,†3]]3. Dragons:: Dragons can fly. Dragon Rider units and any other
+units that include a Dragon-riding character cause terror in
 their enemies.
 +
 Because Dragon Riders have a great many hits (6) which are
@@ -138,7 +138,7 @@ has been badly hurt all accumulated hits are discounted and its
 maximum hits value and Attacks are halved for the rest of the
 battle (to 3 Hits and 3/2 Attacks).
 +
-Generals, Wizards and Heroes can ride Dragons. A Dragon can
+Generals, Mages and Heroes can ride Dragons. A Dragon can
 fly increasing its rider’s move to 100cm. An extra [.edit]#+3/3#
 Attacks are added to those of its rider. A Dragon can breathe
 fire if the character has joined a unit that isn’t engaged in
@@ -154,16 +154,16 @@ out in the usual way at 4+ to hit.
 [[elven-bolt-thrower,†4]]4. Elven Bolt Thrower:: Rules for the Elven Bolt Thrower are
 described in the xref:rules:artillery-and-machines.adoc#elven-bolt-thrower[Artillery and Machines] section in the Rulebook.
 
-[[wizard,†5]]5. Wizard:: High Elf Mages are especially powerful wizards
+[[mage,†5]]5. Mage:: High Elf Mages are especially powerful wizards
 and to represent this can re-roll a failed spell on any dice result
 except a 1. If a spell is failed because a 1 is rolled then no re-roll
 is permitted.
 
-[[giant-eagle-mount,†6]]6. Giant Eagle Mount:: Generals, Wizards and Heroes can ride
+[[giant-eagle-mount,†6]]6. Giant Eagle Mount:: Generals, Mages and Heroes can ride
 a Giant Eagle. An Eagle can fly increasing its rider’s move from
 60 to 100cm. An extra +2 Attacks are added to those of its rider.
 
-[[chariot-mount,†7]]7. Chariot Mount:: Generals, Wizards and Heroes can ride
+[[chariot-mount,†7]]7. Chariot Mount:: Generals, Mages and Heroes can ride
 Chariots. An extra +1 Attack is added to those of its rider.
 
 image::high-elves/giant-eagles.webp[width=1227,height=671,role=decorative]
@@ -210,7 +210,7 @@ round.
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
-_The mage imbues the Elven archers with an unearthly swiftness
+_The Mage imbues the Elven archers with an unearthly swiftness
 enabling them to rain death upon the enemy._
 
 This spell can be cast upon a friendly unit of unengaged missile
@@ -229,8 +229,8 @@ the second shot is always at a −1 penalty to hit.
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-_A hail of fiery arrows flies from the Mage’s outstretched finger
-tips and strikes an enemy unit._
+_A hail of fiery arrows flies from the Mage’s outstretched
+fingertips and strikes an enemy unit._
 
 This spell can be cast on an enemy unit. The Mage must be able
 to see his target to use this spell. The spell cannot be directed at

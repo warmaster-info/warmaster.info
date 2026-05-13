@@ -115,7 +115,7 @@ replace a unit of Axemen while still counting for Axemen min/max
 value.
 
 [[red-guard,†4]]4. Red Guard:: In addition to traditional Kislevite long axes Red
-Guard is armed with handguns. Count enemy armour values as
+Guard are armed with handguns. Count enemy armour values as
 one worse than normal when shot by a handgun. So an armour
 value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an armour
 value of 6+ can’t save against a handgun.
@@ -131,47 +131,58 @@ and must advance if they are able to do so. Also, Bears never
 count as defended outside a dense terrain.
 +
 Note that these rules apply only to Bear units – not to characters
-riding a Bear or Shaman that have transformed in Monster
+riding a Bear or Shamans that have transformed in Monster
 Bear.
 
 [[war-wagon,†6]]6. War Wagon:: image:kislev/wagon-laagered.webp[width=250,height=253,float="right"]{empty}
-The War Wagon consists of a wagon stand and
-a horse team stand. The wagon cannot charge and moves 20cm
-at full pace. The unit moving up to 5 cm after a successful order
-can end its move in a laager formation. A unit moving more
-than 5 cm must end its move in a column formation. Terrain
-restrictions are the same as Artillery. Either stand can be
-removed as causality. The War Wagon can move only when the
-team stand remains.
+War Wagon. The War Wagon consists of a wagon stand
+and a horse team stand. The unit must always be in one of
+two formations: a column with the horse team in front of the
+wagon, or a laager with the horse team placed beside the wagon
+edge to edge.
 +
-The War Wagon has 4+ Armour and total of 4 shooting and 4
-close combat Attacks as long as the wagon stand remains. If the
-wagon stand is removed the team stand has no Armour and no
-Attacks. The War wagon can shoot all round and can draw a
-line of sight from any exposed edge. The wagon has a range of
-30cm. The target’s armour value counts one worse than usual.
-The wagon is permitted to shoot over the heads of friendly
-troops on lower ground in the same way as other Artillery.
+The War Wagon cannot charge and moves 20cm at full pace. A
+War Wagon unit moving more than 5cm must end its move in a
+column formation. After a successful order, if at least one stand
+moves no more than 5cm, the unit may end its move in laager
+formation. The War Wagon may enter laager formation as part
+of an evade, following the 5cm movement restriction.
 +
-A laagered wagon counts as a defended
-unit. A wagon column counts as in the
-open. A laagered wagon has no sides or
-rear. A laagered wagon cannot be driven
-back or routed by shooting. But roll for
+Uniquely, the War Wagon attacks are shared between the
+stands: a total of 4 melee attacks that can be directed from
+either the horse team or wagon stand and a total of 4 shooting
+attacks with 360° vison. Count enemy armour values as one
+worse than normal when shot by a War Wagon.
++
+A War Wagon in column formation cannot
+pursue. Unlike other artillery it can retreat
+from combat and is not destroyed if forced
+to do so.
++
+A War Wagon in laager formation counts
+as a defended unit, with no sides or rear.
+It cannot make way. It cannot be driven
+back or routed by shooting, but roll for
 (defended) drive backs to see if it becomes
-confused. For Gerroff, roll the dice as normal
-and if it would normally have left the
-table then roll 1 D6 and it is confused on
-a 6.
+confused.
 +
 image:kislev/wagon-column.webp[width=132,height=499,float="right"]
-Although it is an artillery unit, a wagon column cannot pursue
-but it is not destroyed if forced to retreat. Also, a wagon laager
-will neither pursue nor retreat but is not destroyed if forced to
-retreat. It also continues to count as defended in subsequent
-rounds. The enemy can continue to fight by ‘pursuing’, but
-there are no pursuit bonuses. A laagered wagon cannot make
-way.
+A War Wagon in laager formation will neither pursue nor
+retreat. If obliged to retreat, it instead remains in place, is not
+destroyed, continues to count as defended, and enemy stands do
+not receive any pursuit bonuses against it in subsequent rounds
+of combat.
++
+Either stand can be removed as causality. If the horse team stand
+is removed, the wagon stand will count as in laager formation
+for the remainder of the game. If the wagon stand is removed,
+the remaining horse team stand has no armour, no attacks, and
+counts as in column formation.
++
+Any Kislev infantry unit with a side edge of one stand touching
+wholly the short edge of a laagered wagon stand counts as
+defended for shooting and combat. This advantage applies only
+in the first round of combat.
 +
 Any Kislev infantry unit with a side edge of one stand touching
 wholly the short edge of a laagered wagon stand counts as
@@ -220,14 +231,14 @@ image::kislev/general.webp[width=751,height=789,role=decorative]
 
 [.cost]#5+ to cast# [.points]#Range N/A#
 
-_The wizard transforms himself into a gigantic ferocious
+_The Wizard transforms himself into a gigantic ferocious
 supernatural bear and hurls himself into the enemy’s ranks._
 
-The wizard can cast this spell on himself if he has joined a unit
+The Wizard can cast this spell on himself if he has joined a unit
 that is engaged in combat. The spell lasts for the duration of the
 following Combat phase.
 
-The unit causes terror and the wizard gains a further +2 Attack
+The unit causes terror and the Wizard gains a further +2 Attack
 bonus that he adds to the unit in the regular way. Note that if
 the Tzarina uses this spell she adds +4 Attacks: +2 as General
 and +2 from Monster Bear.
@@ -237,7 +248,7 @@ and +2 from Monster Bear.
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-_An icy blast shoots from the wizard’s outstretched arm and
+_An icy blast shoots from the Wizard’s outstretched arm and
 strikes his foes._
 
 This spell can be cast on an enemy unit. The Wizard must
@@ -271,7 +282,7 @@ _An ill wind turns the enemy so brittle that wood, flesh and even
 iron shatters and falls to the ground in splinters._
 
 This spell can be cast at an enemy unit within range regardless
-of whether the wizard can see it or not. The spell cannot be
+of whether the Wizard can see it or not. The spell cannot be
 directed at a unit engaged in combat.
 
 Roll a D6. If the score exceeds the number of hits that the target

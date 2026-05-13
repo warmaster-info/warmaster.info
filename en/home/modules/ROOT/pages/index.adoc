@@ -2,8 +2,8 @@
 :page-no-next: true
 :page-layout: home
 :page-omitnavigation: true
-:compendium-version: 2.0.1
-:armies-version: 2.25
+:compendium-version: 2.1.0
+:armies-version: 2.26
 ifeval::["{language}" == "fr"]
 :lang-fr:
 endif::[]

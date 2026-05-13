@@ -13,5 +13,5 @@
 {enchantress}	{wizard}	+0	–	–	7	1	45	–/1	–
 {unicorn}	{special-mount}	+1	–	–	–	–	+15	–/1	<<unicorn>>
 {pegasus}	{monstrous-mount}	+1	–	–	–	–	+15	–/1	<<pegasus>>
-{hippogriff}	{monstrous-mount}	+2	–	–	–	–	+80	–/1	<<hippogriff>>
+{hippogriff}	{monstrous-mount}	+2	–	–	–	–	+80	0–1	<<hippogriff>>
 {grail-reliquae}	{special-bonus}	–	–	–	–	–	+60	0–1	<<grail-reliquae>>

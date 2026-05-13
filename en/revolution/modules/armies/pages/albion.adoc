@@ -6,7 +6,7 @@
 //po4a: entry slingers
 //po4a: entry ogres
 //po4a: entry wolfhounds
-//po4a: entry cavalry
+//po4a: entry riders
 //po4a: entry chariots
 //po4a: entry giant
 //po4a: entry giant-eagles
@@ -20,7 +20,7 @@
 :slingers: Slingers
 :ogres: Ogres
 :wolfhounds: Wolfhounds
-:cavalry: Cavalry
+:riders: Riders
 :chariots: Chariots
 :giant: Giant
 :giant-eagles: Giant Eagles
@@ -32,12 +32,11 @@
 :chariot: Chariot
 include::partial$table-attributes.adoc[]
 
-// Aeon is the British spelling
 image:albion/logo.webp[width=118,height=117,float="right"]
 Aeons ago, the Isle of Albion was the site of a sprawling
 techo-arcane complex created by an unspeakably ancient
 spacefaring race called the Slann. Their carefully aligned stone
-circles and thousands of miles of impressively taut laylines once
+circles and thousands of miles of impressively taut leylines once
 served to harness the mysterious psychomagical power of the
 warp. This power was used to control the gigantic interspatial
 portals through which Slann craft traversed the galaxy. At some
@@ -62,21 +61,20 @@ inhabitants degenerated physically and culturally, coming
 to live an ape-like existence alongside the other malformed
 monsters of their devastated land.
 
-// Moved "centre of the"
+// Add "of"
 Despite this, they still retain some vestigial memory of a time
-of greatness when their ancestors helped build the
-stone circles and other wonders that once formed the nerve
-centre of the
+of greatness when their ancestors helped build the stone circles
+and other wonders that once formed the nerve centre of the
 Slanns’ techo-arcane warp mechanism.
 
-// mist-wreathed, remove "of Albion", extra .
+// remove "of Albion", extra .
 The mist-wreathed isle has seen as much bloodshed
 and warfare as the rest of the known world. Albion is seen as
 a damp, bog-ridden backwater and reports of recent incursions
 have concentrated on the clashes between the supposedly
 more advanced invaders. However, a closer examination of the
 campaigns in Albion show that its native armies are every bit
-as lethal as those of any of the more so called ‘civilised’ nations.
+as lethal as those of any of the more so-called ‘civilised’ nations.
 
 The core of any Albion army comprises nobles in chariots and
 warbands of warriors on foot, screened by youths armed with
@@ -123,7 +121,6 @@ include::partial$albion.tsv[]
 == Special rules
 
 ////
-4: Minor rewording.
 6: cannot.  Reworded to favour singular as it's an individual monster
 6: Unclear, that specific druid or all druids?  Changed to "that Druid" as I think that's the intention
 ////
@@ -138,7 +135,7 @@ include::partial$giant.adoc[]
 
 [[giant-eagles,†3]]3. Giant Eagles:: Giant Eagles can fly.
 
-[[giant-eagle-mount,†4]]4. Giant Eagle Mount:: Giant Eagles can be ridden only by Druids.
+[[giant-eagle-mount,†4]]4. Giant Eagle Mount:: Giant Eagles can be ridden by Druids only.
 +
 An Eagle can fly, increasing its rider’s move from 60 to
 100cm.
@@ -151,14 +148,14 @@ Chariots.
 An extra +1 Attack is added to those of its rider.
 
 [[fenbeast,†6]]6. Fenbeast:: A Fenbeast is an individual troop unit, but it is not
-fielded in the standard way. Fenbeasts
+fielded in the standard way. Fenbeast can
 appear on the battlefield only after a Druid casts the Summon
 Fenbeast spell.
 +
 A Fenbeast cannot be brigaded with other troop units, not even
 other Fenbeasts. Fenbeasts never use their initiative to move in
 the Command phase. Because they are completely dominated
-by the will of the Druid who summoned them, that Druid
+by the will of the Druid who summoned them, [.edit]#that# Druid
 counts as having a Command value of +1 when commanding
 the Fenbeast – that is 8 rather than 7.
 +
@@ -183,9 +180,15 @@ image::albion/general.webp[width=797,height=921,role=decorative]
 _The Druid brings down a localised shower of fine, freezing rain
 upon his foes._
 
-// cms → cm
-Until the start of the Druid player’s next turn all enemy units
-within 30cm of the casting Druid suffer −1 to their command.
+The spell is cast upon the Druid himself and affects all enemy
+units within 30cm of the stand. The spell lasts until the end
+of the opposing player’s following turn. The spell affects the
+opposing army’s ability to issue commands.
+
+All enemy units within 30cm of the Druid suffer a −1 Command
+penalty. This penalty is applied when each order is issued: a
+unit might therefore be within 30cm of the Druid for one order
+but not for a second, for example.
 
 [#storm-of-hail]
 === Storm of Hail
@@ -213,7 +216,7 @@ This spell may be cast upon a single unengaged friendly
 Infantry unit within range, regardless of whether the caster
 can see them or not. The spell lasts until the start of the caster’s
 next turn, or until the target unit moves in any way. The target
-Infantry unit counts as Defended, even if in the open terrain.
+Infantry unit counts as Defended, even if in open terrain.
 
 [#summon-fenbeast]
 === Summon Fenbeast

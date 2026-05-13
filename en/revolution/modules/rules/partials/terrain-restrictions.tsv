@@ -1,17 +1,15 @@
 	Access	Protection	Penalty
 Open ground	Open to all		
 Hills and slopes	Open to all	Infantry and artillery defended if higher	
-Broken or marshy ground	Infantry only	Infantry defended	−1 Command
-Loose terrain	Infantry, cavalry, monsters only	No charge bonus	
+Loose terrain, soft sand, fields	Infantry, cavalry, monsters only	No charge bonus	
+Marshes and dunes	Infantry, cavalry, monsters only	No charge bonus	−1 Command
 Woods and tall scrub	Infantry only	Infantry defended	−1 Command, 2cm visibility
-Villages, towns, built up areas	Open to all	Infantry and artillery defended	−1 Command, 2cm visibility
-Individual buildings, boulders, terrain features	Impenetrable		
+Dense forest	Infantry only	Infantry defended	Irregular formation, −1 Command, 2cm visibility
+Villages, towns, built up areas	Open to all, all can pursue	Infantry and artillery defended	Irregular formation, −1 Command, 2cm visibility
+Individual buildings, terrain features, cliffs	Impenetrable		
 Rivers, lakes, deep water, ravines, deep pits	Impenetrable		
-Sheer cliffs, mountains	Impenetrable		
 Roads and tracks	Enables crossing restricted terrain	Infantry defended if crossing dense terrain	
-Shallow rivers or streams	Infantry, cavalry, monsters only	Infantry defended along edge	
-Bridges	Open to all		
-Fords	Infantry, cavalry, monsters only		
+Shallow rivers or streams	Infantry, cavalry, monsters only	No change bonus	−1 Command to subsequent orders after crossing
+Bridges and fords	Open to all		
 Low linear obstacles	Infantry, cavalry, monsters only	Infantry and artillery defended	
-High linear obstacles	Infantry only	Infantry fortified	
 City and fortress walls	See xref:siege-and-fortresses.adoc[Siege]		

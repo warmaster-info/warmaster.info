@@ -457,7 +457,7 @@ a notepad and paper to keep a record of casualties.
 Alternatively, you can devise suitable markers or simply
 remember, whatever you find the most convenient.
 
-At the end of the Combat phase, odd hits are discounted
+At the end of the Combat phase, remaining hits are discounted
 from units that are no longer engaged. Hits are only
 recorded from one turn to the next for units that remain
 engaged in an unresolved combat at the end of the Combat
@@ -1028,7 +1028,7 @@ the engagement was already fought and was therefore
 left unresolved, the retreating and pursuing units
 become part of that unresolved combat and no other
 rounds are fought. If the engagement hasn’t been fought
-yet, it becomes part of the actual combat. However,
+yet, it becomes part of the current combat. However,
 the newly engaged units can fight at most one round
 of combat alongside the pursuing and retreating units.
 If the incidental contact occurs as a result of a second
@@ -1125,11 +1125,11 @@ can *stand its ground*, *fall back*, or *advance*.
 
 Note that in a combat engagement with multiple units
 on both sides, all enemy units have to be destroyed for
-an advance to be able to happen. When friendly units
-fighting together in single combat get separated by the
-removal of stands, they still count as being in the same
-combat engagement until the end of the current Combat
-Phase.
+an advance to be able to happen. This also applies to
+situations when the original engagement is split into
+two or more independent combats (either by removal of
+stands or different directions of pursuit) until the end of
+the current Combat phase.
 
 A unit is only allowed to advance once in a Combat phase
 even if its enemies are destroyed a second time.
@@ -1190,9 +1190,9 @@ combat engagement.
 
 .Optional rule
 ****
-If the enemy is destroyed in the first round of
-combat, the advancing unit gets a charge bonus as
-per normal charge.
+*Forceful Advance:* If the enemy is destroyed in the
+first round of combat, the advancing unit gets a
+charge bonus as per normal charge.
 ****
 
 image::combat/dwarf-slayers.webp[width=2200,height=384,role=column-span]
@@ -1209,9 +1209,8 @@ gives players a chance to pull units out of combat and
 move them to better tactical positions.
 
 If both players have units falling back from a drawn
-combat each side takes it in turn to select and move one
-unit – roll a dice to determine which side goes first. 1, 2,
-3 one side, 4, 5, 6 the other.
+combat each side takes it in turn to select and move its
+units starting with the player who has the next turn.
 
 A fall back is basically a free move that represents the
 unit rallying back on its standards and officers. This
@@ -1288,7 +1287,8 @@ then the combat is *unresolved*. All units remain in
 position and fighting resumes in the Combat phase of
 the following turn. This is quite common and happens
 where a second round results in one unit retreating and
-the victors elect to pursue.
+the victors elect to pursue. Units locked in an unresolved
+combat cannot receive orders.
 
 It is important to remember where pursuit bonuses
 apply from the final round of the previous Combat
@@ -1302,13 +1302,13 @@ players which bonuses apply to which combatants.
 // Reason: https://www.specialist-arms.com/forum/index.php?topic=8716.0
 
 [.page=52]
-[#remove-odd-hits]
-== Remove odd hits
+[#remove-remaining-hits]
+== Remove remaining hits
 
 Once all combat engagements have been fought, remove
-any odd hits remaining on units that are no longer
+any hits remaining on units that are no longer
 engaged in combat. Note that units that are part of an
-unresolved combat do not remove odd hits but carry
+unresolved combat do not remove remaining hits but carry
 them over into the following turn. This includes any
 units that are only supporting.
 

@@ -536,13 +536,17 @@ is unlucky and rolls a 10. The unit does not move – the
 General has failed an order so the Orders sub-phase comes to an end.
 ====
 
-.Optional rule
+.Optional rules
 ****
-All Characters have +1 bonus to their Command
-value for their first command of the first turn.
-This represents a better state of organisation and
-communication before the battle commences. Note
-that the Command value can never exceed 10.
+*Battle Plans:* All Characters have +1 bonus to their
+Command value for their first command of the first
+turn. This represents a better state of organisation
+and communication before the battle commences.
+Note that the Command value can never exceed 10.
+
+*Heavy Cavalry:* a Cavalry unit with 4+ Armour
+has an additional −1 penalty for the second and any
+subsequent order.
 ****
 
 image::command/triskelion.webp[width=438,height=457,role=circle]

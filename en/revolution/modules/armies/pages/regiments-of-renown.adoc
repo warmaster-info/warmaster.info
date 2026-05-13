@@ -103,11 +103,11 @@
 
 include::partial$table-attributes.adoc[]
 
-// The, list, little, possibilities
 The Regiments of Renown is an army list expansion designed to add a little extra flavour and expand the possibilities of
 standard army lists. It presents mercenary units that can be added to (hired by) your existing armies. Their rules are described
 on this page. Both players have to agree on using Regiments of Renown before the battle.
 
+// comma after human
 Mercenaries are a common sight on the battlefields of the
 Warhammer world. Not all of them are human, although most
 are. Amongst the Dogs of War, freebooters from the frozen
@@ -127,7 +127,7 @@ on a long-term basis. The most successful mercenary captains
 become rich and influential in their own right, and their services
 are soon in demand throughout the Old World and beyond.
 
-// Remove from, add for, for, especially,
+// Remove from, add for, for,
 There are many mercenaries around the Old World. They
 mostly recruit outlaws, pirates and renegades as well as
 simple adventurers looking for a fight, for wealth and for fame. They
@@ -136,18 +136,17 @@ around a charismatic and usually infamous leader and look
 for an opportunity to fight… especially to fight for a proper
 payment. They call themselves The Dogs of War.
 
-// Amongst → between, remove 'that specific...', accomplished,
-// for → only by, of course if → assuming
-// usually have full hands of work to do → have no shortage of work.
-Between them some are more recognisable than others, mostly
-by the name of their leader. In the land of Tilea – the traditional
-home of mercenaries – the greatest formations
-are named Regiments of Renown. They are the most skilled,
-accomplished and noble mercenaries affordable only by the
-wealthiest leaders such as kings, princes and mighty warlords.
-Sometimes they may be hired even by a Dogs of War leader,
-assuming he can pay enough. In the restless Old World they
-have no shortage of work.
+// Around → amongst,
+// fonly → only, of course if → assuming
+Amongst them some are more recognisable than others, mostly
+by the name of their leader. In the land of Tilea – traditional
+home of mercenaries – the greatest formations have become
+Regiments of Renown. They are the most skilled, accomplished
+and noble mercenaries affordable only by the wealthiest leaders
+such as kings, princes and mighty warlords. Sometimes they
+may be hired even by a Dogs of War leader, assuming he can
+pay enough. In the restless Old World they usually have much
+work on their hands.
 
 // Add Mercenary
 // TODO: only one of the named leaders exists below.
@@ -185,9 +184,7 @@ include::partial$regiments-of-renown-alphabetical.tsv[]
 [#army-rules]
 === Army rules
 
-// Everywhere: RoR → Regiments of Renown
-
-// a maximum of, each full, 1000 points of, Remove Additionally
+// maximum of
 For hire:: Mercenary units are very popular in the Old World.
 Each army list may add (hire) a maximum of 1 Regiments of
 Renown unit for each full 1000 points of army value following the <<allies-table>>.
@@ -195,33 +192,25 @@ Hired units count towards the maximum
 allowance per 1000 points of the unit type indicated in the
 <<hiring-regiments-of-renown>> section.
 
-// brackets/type
-// other → standard
-// the extra point value is included in the
-// They also
-// remove therefore
-// melee → combat
+// remove type
+// the extra
 // or heroes
 // magic items.
 Led by the Hero:: To represent the presence of a strong leader,
 Regiments of Renown units (including artillery and heroes) cost 10 points more
 than their equivalents in the standard armies (the extra point value is
-included in Regiments of Renown unit profile). They also receive a +1 bonus
+included in the Regiments of Renown unit profile). They also receive a +1 bonus
 to the combat Attack value of one stand. Note that this gives +1
 Attack in total, not +1 to each stand! This extra attack is not
 included in the Army Selector profile.
 +
-No magic items may be given to hired Regiments of Renown units or heroes
+No magic items may be given to hired Regiments of Renown units or heroes.
 
 // humanised
 // a lot → greatly
 // stay independent → are unaffected by
 // a separate Blunder
-// friendly spells
-// and → or, add comma
-// unique listed unit
 // remove just
-// This, impact in the game
 Independent and Exclusive:: Mercenaries recruit from many
 races and lands of the Old World. Living in the Empire
 greatly ‘humanised’ them, but they still stay individual. Therefore,
@@ -231,16 +220,16 @@ neither bonuses nor drawbacks.
 Hired units can be ordered and brigaded without penalties, just
 like the other units in your army. In case of a blunder make
 a separate Blunder roll for Regiments of Renown units if they are brigaded with
-other troops. That means one roll for your armylist troops and
+other troops. That means one roll for your army list troops and
 one roll for Regiments of Renown troops.
 +
-They cannot be targeted by friendly spellcaster’s spells and do
+They may not be targeted by friendly Wizard’s spells and do
 not receive any benefit from friendly spells or effects, including
 area spells and effects.
 +
 Additionally, your army may contain only one of each unique
 listed unit. If your opponent hired the same regiment,
-roll a dice and decide who got the ‘authentic’ one and who
+roll a dice and decide who got the ‘authentic’ one and who the
 ‘impersonated’ one. This roll is just for fun, without any impact in the
 game.
 
@@ -249,39 +238,32 @@ game.
 === Unit rules
 
 ////
-1: Minor rewording of description, reworded diagram description
-   Same as Dogs of War
-3: its
-4: the unit
-6: its
+1: Line breaks in description
 7: This happens automatically removed
 8: have, its
-11: breath fire, duplicate sentence removed, its → his
 ////
 
 [[pikemen,†1]]1. Pikemen:: The pike is the traditional weapon of the
 mercenaries of Tilea. Twice as long as a spear and even longer
 than a cavalryman’s lance this is a truly fearsome although
-rather unwieldy weapon. Due to this Pikemen never benefit
-from defended or fortified status when in dense terrain (even
-partially) or on fortress walls etc. They still count as defended
-on higher ground or behind low obstacles as usual.
-Pikemen count as defended against cavalry or chariots charging
-to their front, except when the Pikemen are in dense terrain.
-This bonus only applies in the first combat round
-of an engagement.
+rather unwieldy weapon.
 +
-Pikemen stands may only give or
-receive support by other infantry or Pikemen stands that are
-facing the same direction and touching their flank with the whole
-of their own flank. Any support behind or in front of Pikemen
-stand is not allowed. In all other respects they count as infantry
-(movement/pursuit etc.).
+Pikemen are based facing the short
+edge of the base in the same way as Cavalry, rather than the
+long edge like other Infantry.
 +
-Pikemen are based as cavalry – i.e. the models are orientated towards the
-narrow edge of the base.
+Pikemen can not enter dense
+terrain (even partially). They still may be in a defended position
+on higher ground or behind a low obstacle as usual, but can only
+claim defended status when fighting to the front. An enemy
+does not receive charge bonuses when charging Pikemen in the
+front, nor do Pikemen receive any charge bonus themselves.
 +
-image::dogs-of-war/pikemen-support.svg[width=1332,height=796]
+A Pikemen stand cannot support or be supported by other
+infantry - only by other Pikemen stands. In all other respects
+they count as infantry (movement/pursuit etc.).
++
+image::regiments-of-renown/asarnil-dragonlord.webp[width=927,height=833]
 
 [[dense-terrain,†2]]2. Dense Terrain:: Lumpin Croop’s Fighting Cocks are well used
 to sneaking about in woods and bushes. No command penalty
@@ -384,7 +366,6 @@ image::regiments-of-renown/manflyers.webp[width=672,height=281,role=decorative]
 include::partial$regiments-of-renown-allies-table.tsv[]
 |===
 
-// Available
 [horizontal]
 Ⓐ:: Available for this army – see the <<hiring-regiments-of-renown>> section for details.
 ·:: Not available for this army.
@@ -396,7 +377,7 @@ include::partial$regiments-of-renown-allies-table.tsv[]
 
 // In the whole section, p → points
 
-// Additionally, colon, dwarfs, "a bad idea"
+// colon, "a bad idea"
 Each Regiments of Renown unit counts towards the maximum
 allowance per 1000 points of the unit type indicated in this
 section. Additionally there are some restrictions in hiring
@@ -406,7 +387,7 @@ with _The Witch Hunters_ is a bad idea.
 
 .Hiring examples
 ====
-// chosen, the, move 1000 point value
+// the, move 1000 point value
 * The player hiring the _Alcatani Fellowship_ in a 1000 point value Dwarf army
   may field up to one Ranger unit instead of up to two.
   Rangers are the highest point value limited infantry

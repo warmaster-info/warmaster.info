@@ -7,7 +7,7 @@
 //po4a: entry huntsmen
 //po4a: entry berserkers
 //po4a: entry ulfwerener
-//po4a: entry cavalry
+//po4a: entry hird-horsemen
 //po4a: entry storm-giant
 //po4a: entry war-mammoth
 //po4a: entry valkyries
@@ -21,7 +21,7 @@
 :huntsmen: Huntsmen
 :berserkers: Berserkers
 :ulfwerener: Ulfwerener
-:cavalry: Cavalry
+:hird-horsemen: Hird Horsemen
 :storm-giant: Storm Giant
 :war-mammoth: War Mammoth
 :valkyries: Valkyries
@@ -44,7 +44,7 @@ landscape itself.
 Because little grows upon the rocky soil of the North the
 Norsemen have traditionally turned to the sea for their
 livelihood. Their Kingships and Longships set out for the shores
-of Albion the coasts of the Old World and even further afield
+of Albion, the coasts of the Old World and even further afield
 bringing warriors to pillage and extort what they require.
 Occasionally they will trade with other races or hire themselves
 out as mercenaries in return for goods but most of the time
@@ -52,7 +52,7 @@ they will simply fight to get what they want. It is said that the
 Norsemen love war-song and ale but most of all they love war.
 Old Worlders tell horrifying tales of these berserk warriors
 from over the Sea of Claws looting and burning from their
-dragon headed vessels and ravaging the northern coasts of The
+dragon-headed vessels and ravaging the northern coasts of The
 Empire and Kislev.
 
 The Norsemen are known as excellent sailors and fearless
@@ -83,7 +83,7 @@ include::partial$norse.tsv[]
 == Special rules
 
 ////
-2: or be, remove at all
+2: remove at all
 4: some rewording of the siege attack
 ////
 
@@ -112,7 +112,7 @@ Because of their rather bestial nature, only
 characters with the Were Kin Character upgrade may join units
 of Ulfwerener.
 +
-Ulfwerener units can not take any magic items.
+Ulfwerener units cannot take any magic items.
 
 [[storm-giant,†3]]3. Storm Giant::
 include::partial$giant.adoc[]
@@ -168,15 +168,15 @@ No
 terrain restriction apply for Were Kin – just treat the character
 as having +1 extra Attack and causing terror.
 
-[[horn-of-resounding,†7]]7. Horn of Resounding:: A single shaman in the army may be
+[[horn-of-resounding,†7]]7. Horn of Resounding:: A single Shaman in the army may be
 given this chariot upgrade.
 +
 It gives the shaman +1 Attack.
 +
-[.edit]#Once per battle, the Shaman may blow the horn, inspiring
-the units around him to
-fight harder. He adds +1 to all his Command for
-a single turn only, bringing it to 9.#
+Once per battle, the Horn can be used by the Shaman
+to inspire the units around him to fight harder. If the horn
+is used the Shaman adds +1 to all of his Command checks for
+that single turn only.
 
 [.page=75]
 [#spells]
@@ -188,7 +188,7 @@ a single turn only, bringing it to 9.#
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
 _The Shaman turns the friendly unit into an illusive pack of
-monstrous creatures entailing the fear in a hearts of enemies._
+monstrous creatures instilling fear in a hearts of enemies._
 
 This spell can only be cast on any friendly unit within range
 regardless of whether the Shaman can see it or not. The unit
@@ -199,8 +199,8 @@ counts as causing terror for the duration of the Combat phase.
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-// bolt, comma
-_A lightning bolt shoots from the Shaman’s outstretched arm, burning
+// comma
+_Lightning shoots from the Shaman’s outstretched arm, burning
 all in its path._
 
 Draw an imaginary line 30cm long from the Shaman’s stand
@@ -214,7 +214,7 @@ out in the usual way. Note that this spell can easily affect
 several units and will affect all units that fall beneath the line
 (including your own). Unengaged units can be driven back by a
 Thunder of Fo’Wor as with ordinary shooting (even including
-friends). Engaged units cannot be driven back by the Thunder
+friendly units). Engaged units cannot be driven back by the Thunder
 of Fo’Wor but carry over any hits scored into the first round
 of combat; any hits scored count as having been struck in the
 combat itself.
@@ -236,7 +236,7 @@ result of the re-roll cannot be changed in any way or re-rolled
 again, for example with an Orb of Majesty, Banner of Fortune
 or through other means. Likewise the re-roll from this spell
 cannot be used to re-roll any dice that another re-roll has
-already been used on. Nor can the reroll be used in the case of
+already been used on. Nor can the re-roll be used in the case of
 a blunder of a command roll, not even mystical foresight can
 help avert such mishaps, but it can mitigate the effects, so can
 be used to re-roll the dice roll on the blunder chart. For example

@@ -1,7 +1,7 @@
 {troop}	{type}	{attacks}	{hits}	{armour}	{command}	{unit-size}	{points-per-unit}	{min-max}	{special-rules}
 {gor}	{infantry}	4	3	6+	–	3	60	2/–	<<gor-ungor>>
 {ungor}	{infantry}	3/1	3	–	–	3	45	2/–	<<gor-ungor>>
-{bestigors}	{infantry}	4	3	5+	–	3	75	–/2	–
+{bestigors}	{infantry}	4	3	5+	–	3	80	–/2	–
 {minotaurs}	{infantry}	5	4	–	–	3	80	–/2	<<minotaurs>>
 {centigors}	{cavalry}	3/1	3	6+	–	3	75	–/2	<<centigors>>
 {chaos-hounds}	{cavalry}	3	3	–	–	3	40	–/6	–
@@ -14,4 +14,4 @@
 {doombull}	{hero}	+2	–	–	6	1	80	0–1	<<doombull>>
 {wargor}	{hero}	+1	–	–	8	1	80	–/1	–
 {bray-shaman}	{wizard}	+0	–	–	8	1	80	–/1	–
-{tuskgor-chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	<<tuskgor-chariot>>
+{tuskgor-chariot}	{chariot-mount}	+1	–	–	–	–	+5	–/1	<<tuskgor-chariot>>

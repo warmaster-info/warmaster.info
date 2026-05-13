@@ -10,7 +10,7 @@
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
 {general}	{general}	+2	–	–	10	1	180	1	–
 {hero}	{hero}	+1	–	–	8	1	80	–/1	–
-{wizard}	{wizard}	+0	–	–	8	1	90	–/1	<<wizard>>
+{mage}	{wizard}	+0	–	–	8	1	90	–/1	<<mage>>
 {giant-eagle}	{monstrous-mount}	+2	–	–	–	–	+20	–/1	<<giant-eagle-mount>>
 {dragon}	{monstrous-mount}	+3/+3	–	–	–	–	+100	–/1	<<dragons>>
-{chariot}	{chariot-mount}	+1	–	–	–	–	+10	–/1	<<chariot-mount>>
+{chariot}	{chariot-mount}	+1	–	–	–	–	+5	–/1	<<chariot-mount>>

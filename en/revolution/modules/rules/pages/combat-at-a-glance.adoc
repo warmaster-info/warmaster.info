@@ -74,5 +74,5 @@ include::partial$combat-attack-modifiers.adoc[]
 [#end-of-combat]
 == xref:combat.adoc#unresolved-combats[End of combat]
 
-. At the end of the Combat phase, any odd hits are discounted from units that are
+. At the end of the Combat phase, any remaining hits are discounted from units that are
   no longer engaged.

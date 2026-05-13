@@ -26,7 +26,7 @@ to stumble and die out rather quickly. The philosophy of
 this system is to keep it as simple as possible yet still
 motivating to fight and contest over new territory.
 In the current digital age it is possible, and even more
-convenient to control the whole campaign on-line rather
+convenient, to control the whole campaign on-line rather
 than have to arrange for all the players to meet together
 for the campaign to progress.
 
@@ -40,16 +40,15 @@ You will need at least two (preferably three or more)
 rival players who will compete for territory until one player
 conquers the others or establishes an empire of such size
 and power that he is declared the victor. During each round
-of the campaign the participating players play a game of
+of the campaign, the participating players play a game of
 Warmaster and, depending upon their degree of success,
 they can expand their territories into their neighbours’.
 
-// Spelling territory
 The map is used to show the territory controlled by each player.
 Players begin with one tile marked with a
 banner in their chosen colour. When games of Warmaster
 are fought, players are awarded ‘Empire Points’ that are
-used to claim adjoining tiles as explained below. As a
+used to claim adjoining tiles as explained later. As a
 player’s empire expands they place banners on the tiles to
 mark their territory.
 
@@ -86,7 +85,7 @@ selected their capital you are ready to play. Note that no
 others tiles are claimed at this stage – players will get to
 do that as the game progresses.
 
-It is good idea to place some objectives on the map to motivate
+It is a good idea to place some objectives on the map to motivate
 players to fight over them (see <<objectives>>). These should
 be spread over a neutral area so all players have a
 similar chance to reach them.
@@ -95,7 +94,7 @@ similar chance to reach them.
 [#the-largest-empire]
 == The largest empire
 
-During the campaign players will often need to do things
+During the campaign, players will often need to do things
 in a certain order depending on the size of their empires.
 This is determined by counting the number of tiles each
 player controls [.edit]#at the start of each turn#.
@@ -125,7 +124,7 @@ work through one round every week, but it all depends
 on how often you can get together. It is even possible
 to play a whole campaign over a single weekend. At
 the end of each round, players must organise and play
-any Warmaster games that are required the before next
+any Warmaster games that are required the before the next
 round can proceed. In each round all players work their
 way through the following sequence of play. All the
 players carry out the event phase, then all carry out the
@@ -141,7 +140,7 @@ revenue phase, and so on.
 [events-phase]
 === 1. Events phase
 
-Each player picks one event from the event chart,
+Each player picks one event from the following event chart,
 starting with the player with the smallest empire. A player
 cannot pick an event that has already been chosen by
 another player, unless all the events have already been
@@ -160,9 +159,9 @@ chosen at least once.
   is destroyed.
 
 . *All or Nothing* – You receive an extra 2 empire
-  points this round as long as you don’t lose or draw
-  any battles. If you lose or draw then you receive no
-  empire points at all this round.
+  points this round as long as you win a battle this round.
+  If you lose or draw a battle then you receive no
+  empire points for that battle.
 
 . *Scouts* – In any battles you fight in this round, your
   opponent must deploy their whole army before you
@@ -238,7 +237,6 @@ team – this will break up the team. For example, if Andy
 and Phil have formed a team against Bob, then Max could
 challenge one of them in order to break up the team.
 
-// Spelling leaving
 If you do this then the player you have
 challenged fights a battle with you,
 leaving the remaining team
@@ -332,8 +330,8 @@ their army.
 Sometimes a player will have to fight more than one
 battle in a round (see <<challenge-phase,Challenge phase>>). A player can use all
 bonuses they are entitled to in each and every battle they
-fight that round. However, gold spent in one battle is
-used up, and may not be used again in a later battle.
+fight that round. The amount of gold spent in one battle
+may be used again in a later battle.
 
 [.page=108]
 [#team-battles]
@@ -342,11 +340,11 @@ used up, and may not be used again in a later battle.
 Sometimes players will fight together as a team (see
 <<challenge-phase,Challenge phase>>). When this happens the team must split the
 total points value of their force between all the players in
-the team in a mutually agreeable manner. For example in a
-2000 point game a two-player team might take 1000 points
+the team in a mutually agreeable manner. For example, in a
+2000 point game, a two-player team might take 1000 points
 each, or one might take 1500 and the other 500 and so
 on. Each player is then allowed to add bonuses to their
-individual total as described above.
+individual total as described earlier.
 
 * Each player in a team controls his own army.
   Both players move their units in the movement
@@ -387,7 +385,7 @@ image::campaigns-of-conquest/dwarf-helmet.webp[width=2000,height=1404,role=decor
 === 5. Conquest and building phase
 
 When you play a game of Warmaster you earn empire
-points as shown on the chart below. Empire points are
+points as shown on the following chart. Empire points are
 used to take territory, to build cities, castles, ports or
 mines or to remove territory from a rival player. Players
 take it in turns to spend their empire points,
@@ -398,7 +396,7 @@ working up.
 [#earning-empire-points]
 ==== Earning Empire Points
 
-The number of empire points a player has to spend
+The number of empire points (EP) a player has to spend
 depends on how well they did in the battle phase. Players
 who lose earn 1 point, drawing players earn 2 points, and
 winners earn 3, 4 or 5 depending upon the level of victory.
@@ -411,7 +409,7 @@ winners earn 3, 4 or 5 depending upon the level of victory.
 
 * *Draw – 2 Empire Points.* In case one army
   is forced to withdraw but gains more victory
-  points than its opponent the battle is a draw
+  points than their opponent the battle is a draw
   and both armies get 2 points. A player also gets
   2 points when no side withdraws but they have
   more victory points than the opponent.
@@ -422,23 +420,18 @@ winners earn 3, 4 or 5 depending upon the level of victory.
   same time.
 
 * *Major Victory – 4 Empire Points.* The army
-  breaks the enemy while not losing more units
-  than half of its
-  break points.
+  breaks the enemy while not losing more
+  than half of the earned victory points.
 
 * *Massacre – 5 Empire Points.* The army massacres
   an enemy by forcing him to withdraw
-  while not losing more than 25% of its break
-  points.
-
-In a team game all players in a team earn one less empire
-point (so if their side wins a victory each player earns 2
-empire points).
+  while not losing more than a third of earned
+  victory points.
 
 // 2,5 changed to 2½ to avoid decimal symbol
 If a player fights more than one battle in a turn then they
 must average out the empire points for the battles they
-fought, rounding any fractions down. For example if a
+fought, rounding any fractions up. For example if a
 player fights two battles, loses one and scores a major
 victory in the other, then they would score (1+4)/2 = 2½,
 rounded down to 2 empire points.
@@ -460,7 +453,7 @@ round.
   player’s banner from a tile that is adjacent to
   one of your own tiles with your
   own. You must have fought and won a battle
-  against the player in the preceding battle
+  against that player in the preceding battle
   phase.
 
 * *Build (1 EP)* – Add a castle, city, mine or port
@@ -580,9 +573,9 @@ image::campaigns-of-conquest/ogre-gunners.webp[width=2079,height=456,role=column
 == Siege
 
 Warmaster has a well-written
-siege system. Because there are fortified places
+xref:siege-and-fortresses.adoc[siege system]. Because there are fortified places
 such as castles and cities in the campaign system it would
-be shame not to include a the possibility of siege battles.
+be a shame not to include a the possibility of siege battles.
 A siege battle requires special terrain and models
 (fortress walls, siege towers,
 ladders etc.). It may also slightly break the flow of the
@@ -597,7 +590,7 @@ players agree to do so.
 === Into the breach!
 
 When a player wins a battle and decides to conquer a
-loser’s tile with a castle or city, he can do it either in the
+loser’s tile containing a castle or city, he can do it either in the
 standard way or, if both players agree, they can start
 a siege. When players decide to start a siege, the tile is
 conquered for 2 empire points as usual, however the
@@ -606,7 +599,6 @@ remains in the defender’s hands. This tile counts as a half
 of a tile for both players for the purpose of determining
 the largest empire.
 
-// Spelling conquer
 The situation remains until the castle or city is
 conquered or the whole map tile is conquered back. To
 conquer the castle or city both players must play the
@@ -617,7 +609,6 @@ they conquer the whole tile. If they fail, the siege goes on.
 One such attempt to conquer the castle or city can be made
 per campaign round.
 
-// Spelling conquer
 Until the castle or city is conquered the defender has
 a chance to conquer the map tile back in the usual
 manner. No extra 1 empire point is needed to pay for conquering
@@ -631,13 +622,13 @@ image::campaigns-of-conquest/fortress-gate.webp[width=1455,height=1111,role=colu
 == Naval operations
 
 Another option to spice a campaign up is to add ship
-battles on sea. The main task of fleets in a campaign is to
+battles at sea. The main task of fleets in a campaign is to
 support ground operations on shore. Of course this
 is only possible when your map includes a sea. The
 main problem is that ship battles are not included in the
 Warmaster rules and so you would need to play them
 using some stand-alone rule system with its own models, such as
-the old Man O’ War game or Armada. For this reason
+Warmaster Naval Battles. For this reason
 the naval operation rules are optional and can be used
 only when at least two players agree on that.
 

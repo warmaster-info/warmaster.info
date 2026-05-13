@@ -3,6 +3,7 @@
 :page-role: armylist page=21
 :page-toclevels: 1
 //po4a: entry warriors
+//po4a: entry miners
 //po4a: entry handgunners
 //po4a: entry rangers
 //po4a: entry troll-slayers
@@ -14,6 +15,7 @@
 //po4a: entry runesmith
 //po4a: entry anvil
 :warriors: Warriors
+:miners: Miners
 :handgunners: Handgunners
 :rangers: Rangers
 :troll-slayers: Troll Slayers
@@ -67,7 +69,7 @@ build to last. Indeed, the phrase ‘Dwarf-built’ is a byword for
 indestructible, whilst the Dwarfish word for ’shoddy’ translates
 quite literally as ‘manmade’. Even the Elves consider Dwarf
 metalcraft the finest in the world. Elves are less appreciative of
-Dwarf taste, which they consider to be extra-ordinarily gaudy
+Dwarf taste, which they consider to be extraordinarily gaudy
 and vulgar.
 
 Before the coming of men the Elves established colonies in
@@ -81,7 +83,6 @@ Dwarfs less prickly things might have turned out differently.
 But it was not to be. Once war began both sides were too proud
 to concede defeat.
 
-// was reduced
 After hundreds of years of continuous warfare both races were
 exhausted. The Elves returned to Ulthuan and abandoned the
 Old World. The Dwarfs considered themselves the victors but
@@ -152,6 +153,8 @@ its first order to deploy. If the infiltration order is failed the unit
 is not deployed and cannot infiltrate that turn, it can attempt to
 infiltrate in a subsequent turn at the same or a different place.
 +
+Rangers don’t suffer the −1 Command penalty for Dense Terrain.
++
 Although they are infantry, Rangers can pursue any type of
 retreating enemy.
 
@@ -180,8 +183,8 @@ as follows:
   by either side.
 --
 +
-Slayer units that have been destroyed still count towards the
-Dwarf army’s losses for purposes of calculating withdrawal.
+Troll Slayer units that have been destroyed still count towards
+the Dwarf army’s losses for purposes of calculating withdrawal.
 
 [[cannon,†4]]4. Cannon:: Full rules for xref:rules:artillery-and-machines.adoc#cannons[Cannons] are in the main Rulebook.
 
@@ -251,16 +254,16 @@ an enemy.
 [[hero,†7]]7. Hero:: One Hero in the army may be upgraded to carry
 an Oathstone for +15 pts. Once per game, the Hero may use
 the Oathstone to inspire one unit that he has joined (except
-Trollslayers). Both the Hero, and the unit he has joined, gain
+Troll Slayers). Both the Hero, and the unit he has joined, gain
 +1 attack per stand, and are immune to Terror, until the end of
 the combat phase.
 
-[[runesmith,†8]]8. Runesmith:: Although they are not wizards and cannot
+[[runesmith,†8]]8. Runesmith:: Although they are not Wizards and cannot
 therefore cast spells, Dwarf Runesmiths can combat the magic
 of their enemies. If an enemy Wizard who is within 50cm of
-the Runesmith casts a spell the Runesmith can attempt to ‘anti-magic’
+the Runesmith casts a spell the Runesmith can attempt to anti-magic
 it. Note that it does not matter what the spell is or where
-it is cast, the Runesmith can ‘anti-magic’ it so long as the caster
+it is cast, the Runesmith can anti-magic it so long as the caster
 is with 50cm. To determine if this works roll a D6 – on the score
 of 4, 5 or 6 the Runesmith has succeeded and the spell doesn’t
 work, it is dispelled by the Runesmith’s defiant efforts. If he

@@ -15,6 +15,7 @@
 //po4a: entry daemon-sorcerer
 //po4a: entry daemonic-wings
 //po4a: entry favour-of-the-gods
+//po4a: entry chariot
 //po4a: entry wizard-powers
 :daemon-hordes: Daemon Hordes
 :daemon-swarm: Daemon Swarm
@@ -29,6 +30,7 @@
 :daemon-sorcerer: Daemon Sorcerer
 :daemonic-wings: Daemonic Wings
 :favour-of-the-gods: Favour of the Gods
+:chariot: Chariot
 :wizard-powers: Wizard Powers
 include::partial$table-attributes.adoc[]
 
@@ -147,7 +149,7 @@ given a magic item.
 
 [[daemon-flyers,†2]]2. Daemon Flyers:: These can fly.
 +
-Daemon flyers are an exception
+Daemon Flyers are an exception
 to the normal conventions for basing monsters in that they face
 the long edge of the stand in the same way as infantry rather
 than the short edge as most other monsters.
@@ -179,10 +181,13 @@ some even have the ability of disappearing and reappearing
 wherever they want on the battlefield. Daemon characters may
 be given the ability of flying.
 
-[[favour-of-the-gods,†6]]6. Favour of the Gods:: Demon Overlord, Lords or Sorcerers can
+[[favour-of-the-gods,†6]]6. Favour of the Gods:: Demon Overlord, Lord Heroes or Sorcerers can
 be given the Favour of the Gods. The character then gains +1
 extra Attack and causes terror in its enemies as described in the
 Warmaster rulebook.
+
+[[chariot-mount,†7]]7. Chariot Mount:: Demon Overlords, Lord Heroes and Sorcerers can ride
+Chariots. An extra +1 Attack is added to those of its rider.
 
 image::daemons/infantry.webp[width=1336,height=744,role=decorative]
 
@@ -198,7 +203,7 @@ image::daemons/infantry.webp[width=1336,height=744,role=decorative]
 _With a sulphurous blast of elemental power fresh Daemons
 emerge from the warp to reinforce their beleaguered kindred._
 
-This spell can be cast on any friendly Daemon unit of three
+This spell can be cast on any friendly Daemon unit originally of three
 stands that has lost one or two stands as casualties. It does not
 matter whether the Wizard can see the unit or not.
 

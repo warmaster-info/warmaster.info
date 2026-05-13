@@ -12,5 +12,5 @@
 {hero}	{hero}	+1	– 	– 	8	1	80	–/1 	– 
 {sorceress}	{wizard}	+0	– 	– 	8	1	80	–/1 	– 
 {manticore}	{monstrous-mount}	+2	– 	– 	– 	– 	+80	–/1 	<<manticore>>
-{chariot}	{chariot-mount}	+1	– 	– 	– 	– 	+10	–/1 	– 
+{chariot}	{chariot-mount}	+1	– 	– 	– 	– 	+5	–/1 	<<chariot-mount>>
 {cauldron-of-blood}	{chariot-mount}	+2	– 	– 	– 	– 	+15	–/1 	<<cauldron-of-blood>>
