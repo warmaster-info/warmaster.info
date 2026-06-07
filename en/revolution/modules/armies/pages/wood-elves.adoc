@@ -41,6 +41,7 @@
 :warhawk: Warhawk
 :forest-dragon: Forest Dragon
 :dragon: {forest-dragon}
+:shoot-360-15cm: {warhawk-riders}
 include::partial$table-attributes.adoc[]
 
 image:wood-elves/logo.webp[width=105,height=99,float="right"]
@@ -168,12 +169,9 @@ being ordered by General or Noble.
 [[wild-riders,†5]]5. Wild Riders:: Wild Riders receive +1 Attack in the first round
 of every combat when fighting to the front.
 
-[[warhawk-riders,†6]]6. Warhawk Riders:: Warhawk Riders can fly. They have a
-shooting range of only 15cm and 360° vision – stands in this unit
-can draw line of sight from all edges for the purpose of evading
-and shooting, including shooting at charging enemies. Note that
-this unit still needs Line of Sight from its front edge to charge
-an enemy.
+[[warhawk-riders,†6]]6. Warhawk Riders:: Warhawk Riders can fly.
++
+include::partial$shoot-360-15cm.adoc[]
 
 [[treeman,†7]]7. Treeman:: A Treeman can enter woods and suffers no command
 penalty for being within the woods but cannot get defended

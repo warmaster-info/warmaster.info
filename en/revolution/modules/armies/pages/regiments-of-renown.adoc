@@ -75,6 +75,7 @@
 //po4a: entry norse
 //po4a: entry cathay
 //po4a: entry nippon
+//po4a: entry shoot-360-15cm
 :the-empire: The Empire
 :tomb-kings: Tomb Kings
 :chaos: Chaos
@@ -100,7 +101,7 @@
 :norse: Norse
 :cathay: Cathay
 :nippon: Nippon
-
+:shoot-360-15cm: Units with Throwing Weapons
 include::partial$table-attributes.adoc[]
 
 The Regiments of Renown is an army list expansion designed to add a little extra flavour and expand the possibilities of
@@ -269,11 +270,8 @@ image::regiments-of-renown/asarnil-dragonlord.webp[width=927,height=833]
 to sneaking about in woods and bushes. No command penalty
 is applied to this unit on account of dense terrain.
 
-[[throwing-weapons,†3]]3. Throwing weapons:: The unit has a shooting range of only
-15cm and 360° vision – stands in this unit can draw line of
-sight from all edges for the purpose of evading and shooting,
-including shooting at charging enemies. Note that this unit still
-needs Line of Sight from its front edge to charge an enemy.
+[[throwing-weapons,†3]]3. Throwing weapons::
+include::partial$shoot-360-15cm.adoc[]
 
 [[undead,†4]]4. Undead:: The Cursed Company is undead, and as such the
 following rules apply to them:

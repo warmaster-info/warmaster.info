@@ -16,6 +16,7 @@
 //po4a: entry bear
 //po4a: entry yozhin
 //po4a: entry tzarina
+//po4a: entry shoot-360-15cm
 :winged-lancers: Winged Lancers
 :horse-archers: Horse Archers
 :cossacks: Cossacks
@@ -30,6 +31,7 @@
 :bear: Bear
 :yozhin: Yozhin
 :tzarina: Tzarina
+:shoot-360-15cm: Kislevite Horsemen
 include::partial$table-attributes.adoc[]
 
 image:kislev/logo.webp[width=100,height=113,float="right"]
@@ -104,11 +106,8 @@ include::partial$kislev.tsv[]
 first round of every combat when fighting to the front and are
 Immune to Terror.
 
-[[horse-archers-cossacks,†2]]2. Horse Archers, Cossacks:: Kislevite Horsemen have a shooting
-range of 15 cm and 360° vision – stands in this unit can draw line
-of sight from all edges for the purpose of evading and shooting,
-including shooting at charging enemies. Note that this unit still
-needs Line of Sight from its front edge to charge an enemy.
+[[horse-archers-cossacks,†2]]2. Horse Archers, Cossacks::
+include::partial$shoot-360-15cm.adoc[]
 
 [[bowmen,†3]]3. Bowmen:: One unit of Bowmen per full 1000 points can
 replace a unit of Axemen while still counting for Axemen min/max

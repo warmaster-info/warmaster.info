@@ -36,6 +36,7 @@
 :celestial-dragon: Celestial Dragon
 :tiger: Tiger
 :qilin: Qilin
+:shoot-360-15cm: {hu-cavalry}
 include::partial$table-attributes.adoc[]
 
 image:cathay/logo.webp[width=170,height=172,float="right"]
@@ -144,11 +145,8 @@ other.
 They can only be ordered by Sorcerers, who gain +1 command
 when doing so.
 
-[[hu-cavalry,†3]]3. Hu Cavalry:: They have a shooting range of 15cm and 360°
-vision – stands in this unit can draw line of sight from all edges
-for the purpose of evading and shooting, including shooting at
-charging enemies. Note that this unit still needs Line of Sight
-from its front edge to charge an enemy.
+[[hu-cavalry,†3]]3. Hu Cavalry::
+include::partial$shoot-360-15cm.adoc[]
 
 [[rocket-launcher,†4]]4. Rocket Launcher:: The Rocket Launcher is treated as a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone
 Thrower] as described in the Rulebook, except it shoots

@@ -32,6 +32,7 @@
 :wizard: Wizard
 :griffon: Griffon
 :war-altar: War Altar
+:shoot-360-15cm: {pistoliers}
 include::partial$table-attributes.adoc[]
 
 image:empire/logo.webp[width=83,height=82,float="right"]
@@ -134,12 +135,8 @@ Skirmisher casualties never count for Command penalties.
 Skirmisher stands never cause the parent unit to be in Irregular
 Formation no matter how they are placed.
 
-[[pistoliers,†4]]4. Pistoliers:: Pistoliers have a shooting range of only 15cm
-however they have 360° vision – i.e. stands in this unit can
-draw line of sight from all edges for the purpose of evading
-and shooting, including shooting at charging enemies. Note that
-this unit still needs Line of Sight from its front edge to charge
-an enemy.
+[[pistoliers,†4]]4. Pistoliers::
+include::partial$shoot-360-15cm.adoc[]
 
 [[helblaster,†5]]5. Helblaster:: The Helblaster is a primitive type of crank-driven
 and unreliable machine gun. It has maximum range of 30cm. Its

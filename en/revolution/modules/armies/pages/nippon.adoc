@@ -32,6 +32,7 @@
 :shugenja: Shugenja
 :tatsu: Tatsu
 :shrine: Shrine
+:shoot-360-15cm: {ninja}
 include::partial$table-attributes.adoc[]
 
 // Initial large letter is missing
@@ -157,11 +158,8 @@ Mikata
 are unaffected by enemies that cause terror in combat, so they
 do not suffer the usual −1 Attack modifier.
 
-[[ninja,†4]]4. Ninja:: Ninja have a shooting range of 15cm and 360° vision –
-stands in this unit can draw line of sight from all edges for
-the purpose of evading and shooting, including shooting at
-charging enemies. Note that this unit still needs Line of Sight
-from its front edge to charge an enemy.
+[[ninja,†4]]4. Ninja::
+include::partial$shoot-360-15cm.adoc[]
 +
 Ninja do not have to be deployed before the game if the player
 does not wish to do so. Instead, individual units can be infiltrated

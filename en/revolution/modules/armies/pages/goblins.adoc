@@ -30,6 +30,7 @@
 :goblin-shaman: Goblin Shaman
 :wolf-chariot: Wolf Chariot
 :wyvern: Wyvern
+:shoot-360-15cm: {wolf-riders}
 include::partial$table-attributes.adoc[]
 
 image:goblins/logo.webp[width=108,height=108,float="right"]
@@ -135,11 +136,8 @@ over after removing whole stands then regeneration has no
 effect. Regenerated hits still count towards the combat result
 for the round.
 
-[[wolf-riders,†3]]3. Wolf Riders:: The Wolf Riders have a shooting range of 15cm
-and 360° vision – stands in this unit can draw line of sight from
-all edges for the purpose of evading and shooting, including
-shooting at charging enemies. Note that this unit still needs
-Line of Sight from its front edge to charge an enemy.
+[[wolf-riders,†3]]3. Wolf Riders::
+include::partial$shoot-360-15cm.adoc[]
 
 [[pump-wagon,†4]]4. Pump Wagon:: The Pump Wagon doesn’t move in the Command
 phase by initiative or by successful orders. Instead it

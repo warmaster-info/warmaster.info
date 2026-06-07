@@ -38,6 +38,7 @@
 :wizard: Wizard
 :griffon: Griffon
 :pay-wagon: Pay Wagon
+:shoot-360-15cm: {light-cavalry}
 include::partial$table-attributes.adoc[]
 
 image:dogs-of-war/logo.webp[width=84,height=102,float="right"]
@@ -170,11 +171,8 @@ reach it.
 light cavalry from all around the world. Empire Pistoliers,
 Arabian Desert Riders, Hobgoblin Wolf Riders and Kislev
 Horse Archers are particularly adept at outmanoeuvring an
-enemy and harrying his flanks. Light cavalry have a shooting
-range of 15cm and 360° vision – stands in this unit can draw line
-of sight from all edges for the purpose of evading and shooting,
-including shooting at charging enemies. Note that this unit still
-needs Line of Sight from its front edge to charge an enemy.
+enemy and harrying his flanks.
+include::partial$shoot-360-15cm.adoc[]
 
 [[galloper-guns,†5]]5. Galloper Guns:: These are lighter artillery than Dwarf or
 Empire cannons; due to this they are shorter ranged, but can

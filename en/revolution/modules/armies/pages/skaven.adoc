@@ -30,6 +30,7 @@
 :hero: Hero
 :warlock: Warlock
 :rat-ogre-bodyguard: Rat Ogre-Bodyguard
+:shoot-360-15cm: {gutter-runners}
 include::partial$table-attributes.adoc[]
 
 image:skaven/logo.webp[width=120,height=108,float="right"]
@@ -158,13 +159,8 @@ kinds of infantry as normal.
 A Rat Swarm cannot be given
 magic items.
 
-[[gutter-runners,†4]]4. Gutter Runners:: Gutter Runners are armed with throwing
-stars and darts, and are therefore allowed to shoot as if they had
-bows, but their range is reduced to 15cm and have 360° vision –
-stands in this unit can draw line of sight from all edges for the
-purpose of evading and shooting, including shooting at charging
-enemies. Note that this unit still needs Line of Sight from its
-front edge to charge an enemy.
+[[gutter-runners,†4]]4. Gutter Runners::
+include::partial$shoot-360-15cm.adoc[]
 +
 In addition, Gutter Runners
 do not have to be deployed before the game if the player does

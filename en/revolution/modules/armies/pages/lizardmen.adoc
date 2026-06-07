@@ -30,6 +30,9 @@
 :skink-shaman: Skink Shaman
 :stegadon-mount: Stegadon Mount
 :carnosaur: Carnosaur
+:shoot-360-15cm: {skinks}
+:shoot-360-15cm_b: Terradon riders
+:shoot-360-15cm_c: The Stegadon’s crew
 include::partial$table-attributes.adoc[]
 
 image:lizardmen/logo.webp[width=99,height=92,float="right"]
@@ -129,11 +132,8 @@ noises inaudible to other races.
 [#special-special-rules]
 === Special rules
 
-[[skinks,†1]]1. Skinks:: Skinks have a shooting range of 15cm and 360° vision –
-stands in this unit can draw line of sight from all edges for
-the purpose of evading and shooting, including shooting at
-charging enemies. Note that this unit still needs Line of Sight
-from its front edge to charge an enemy.
+[[skinks,†1]]1. Skinks::
+include::partial$shoot-360-15cm.adoc[]
 
 [[reptilian,†2]]2. Reptilian:: Reptilian troops can only be issued an order by a
 character within 20cm. If reptilian units form part of a brigade
@@ -165,11 +165,9 @@ and 360° vision in the same way as Skinks. If their unit is
 charged then Salamanders can shoot in the same way as any
 other shooting stand.
 
-[[terradon,†4]]4. Terradon:: Terradons can fly. Terradon riders have a shooting
-range of 15cm and 360° vision – stands in this unit can draw line
-of sight from all edges for the purpose of evading and shooting,
-including shooting at charging enemies. Note that this unit still
-needs Line of Sight from its front edge to charge an enemy.
+[[terradon,†4]]4. Terradon:: Terradons can fly.
++
+include::partial$shoot-360-15cm_b.adoc[]
 
 [[stegadon,†5]]5. Stegadon:: As the Stegadon is so gargantuan, it uses a 40 x
 60mm base, with the short edge being the front.
@@ -181,11 +179,7 @@ be brigaded with Skink units that have attached Salamanders.
 It cannot be brigaded with any other units including with other
 Stegadons.
 +
-The Stegadon’s crew has a shooting range of 15cm and 360°
-vision – the unit can draw line of sight from all edges of its stand
-for the purpose of evading and shooting, including shooting at
-charging enemies. Note that this unit still needs Line of Sight
-from its front edge to charge an enemy.
+include::partial$shoot-360-15cm_c.adoc[]
 +
 Because the Stegadon has so many hits we must consider the
 possibility of hurting the beast and reducing its effectiveness.

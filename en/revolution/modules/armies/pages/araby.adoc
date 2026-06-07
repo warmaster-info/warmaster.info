@@ -30,6 +30,8 @@
 :flying-carpet: Flying Carpet
 :elephant: Elephant
 :djinn: Djinn
+:shoot-360-15cm: {desert-riders}
+:shoot-360-15cm_b: {magic-carpets}
 include::partial$table-attributes.adoc[]
 
 image:araby/logo.webp[width=94,height=84,float="right"]
@@ -126,11 +128,8 @@ Further orders are given using the General’s normal command
 value and penalties. This applies only to Guards and not to
 brigades that include Guards and other units.
 
-[[desert-riders,†2]]2. Desert Riders:: Desert Riders have a shooting range of 15cm
-and 360° vision – stands in this unit can draw line of sight from
-all edges for the purpose of evading and shooting, including
-shooting at charging enemies. Note that this unit still needs
-Line of Sight from its front edge to charge an enemy.
+[[desert-riders,†2]]2. Desert Riders::
+include::partial$shoot-360-15cm.adoc[]
 
 [[camel-riders,†3]]3. Camel Riders:: Camel Riders ignore distance modifiers when
 commands are issued to them. This applies only to Camel
@@ -150,11 +149,9 @@ of Camel Riders.
 [[magic-carpets,†4]]4. Magic Carpets:: Magic carpets can fly – they have been rated
 as aerial ‘cavalry’ as this is the closest categorisation to their
 type. Because they are awkward flyers, they can be pursued by
-any type of enemy troops. They have a shooting range of 15cm
-and 360° vision – stands in this unit can draw line of sight from
-all edges for the purpose of evading and shooting, including
-shooting at charging enemies. Note that this unit still needs
-Line of Sight from its front edge to charge an enemy.
+any type of enemy troops.
++
+include::partial$shoot-360-15cm_b.adoc[]
 
 [[elephants,†5]]5. Elephants:: Elephants cause terror and cannot be brigaded
 with cavalry.

@@ -28,6 +28,7 @@
 :hero: Hero
 :warrior-priest: Warrior Priest
 :war-altar: War Altar
+:shoot-360-15cm: {pistoliers}
 include::partial$table-attributes.adoc[]
 
 image:witch-hunters/logo.webp[width=109,height=108,float="right"]
@@ -145,11 +146,8 @@ Formation no matter how they are placed. An Infantry unit
 containing a Warhound stand gains the ability to pursue
 Cavalry and Chariots.
 
-[[pistoliers,†5]]5. Pistoliers:: Pistoliers have a shooting range of only 15cm and
-360° vision – stands in this unit can draw line of sight from
-all edges for the purpose of evading and shooting, including
-shooting at charging enemies. Note that this unit still needs
-Line of Sight from its front edge to charge an enemy.
+[[pistoliers,†5]]5. Pistoliers::
+include::partial$shoot-360-15cm.adoc[]
 
 [[cannons,†6]]6. Cannons:: See the rules for
 xref:rules:artillery-and-machines.adoc#cannons[Cannons] in the Warmaster Rulebook.

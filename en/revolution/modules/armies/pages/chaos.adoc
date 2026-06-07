@@ -35,6 +35,7 @@
 :chaos-dragon: Chaos Dragon
 :chariot: Chariot
 :dragon: {chaos-dragon}
+:shoot-360-15cm: {chaos-spawn}
 include::partial$table-attributes.adoc[]
 
 image:chaos/logo.webp[width=83,height=77,float="right"]
@@ -138,11 +139,7 @@ cannot be driven back by shooting and never roll for drive
 backs. Spawn units must pursue or advance if victorious in
 combat where it is permitted to do so.
 +
-Spawn units have a shooting range of 15cm and 360° vision –
-the unit can draw line of sight from all edges of its stand for
-the purpose of evading and shooting, including shooting at
-charging enemies. Note that this unit still needs Line of Sight
-from its front edge to charge an enemy.
+include::partial$shoot-360-15cm.adoc[]
 
 [[chaos-dragon,†6]]6. Chaos Dragon:: Generals, Wizards and Heroes can ride a
 Chaos Dragon.

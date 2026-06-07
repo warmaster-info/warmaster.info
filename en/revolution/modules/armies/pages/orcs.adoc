@@ -36,6 +36,7 @@
 :goblin-shaman: Goblin Shaman
 :wyvern: Wyvern
 :chariot: Chariot
+:shoot-360-15cm: {wolf-riders}
 include::partial$table-attributes.adoc[]
 
 image:orcs/logo.webp[width=90,height=102,float="right"]
@@ -139,11 +140,8 @@ do so. This happens automatically and their commander can
 do nothing about it. ‘Humans’ encompasses all ‘men’ including
 Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
 
-[[wolf-riders,†4]]4. Wolf Riders:: The Wolf Rider’s range is restricted to 15cm.
-Wolf Riders have 360° vision – stands in this unit can draw line
-of sight from all edges for the purpose of evading and shooting,
-including shooting at charging enemies. Note that this unit still
-needs Line of Sight from its front edge to charge an enemy.
+[[wolf-riders,†4]]4. Wolf Riders::
+include::partial$shoot-360-15cm.adoc[]
 
 [[giant,†5]]5. Giant::
 include::partial$giant.adoc[]
