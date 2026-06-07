@@ -30,6 +30,7 @@
 :bruiser: Bruiser
 :butcher: Butcher
 :bull-rhinox: Bull Rhinox
+:infiltration-unit: {gorgers}
 include::partial$table-attributes.adoc[]
 
 image:ogre-kingdoms/logo.webp[width=141,height=116,float="right"]
@@ -147,28 +148,16 @@ Command penalty due their beastly and unruly nature. Gorgers
 always ignore distance modifiers when receiving orders and can
 pursue any type of retreating enemy.
 +
-Gorgers do not have to be
-deployed before the game if the player does not wish to do so.
-Instead individual units can be infiltrated onto the battlefield
-once the game has begun. To infiltrate a unit, the Ogre player
-nominates the point where he wants the Gorgers to appear and
-issues an ‘infiltration’ order from any character. The character
-does not have to be within his normal command range to
-issue an infiltration order – the character’s command range is
-considered to extend over the entire tabletop when issuing an
-infiltration order. Treat the order as issued to the nominated
+include::partial$infiltration_a.adoc[]
+include::partial$infiltration_b.adoc[]
+Treat the order as issued to the nominated
 point, and apply the Gorgers’ standard −1 command penalty and any modifiers for
-proximity of enemy. The nominated point must lie either on the
-table within dense terrain or on any base edge other than the
-enemy player’s own table edge. If successful, place one stand
-on the nominated spot and arrange the rest of the unit into
-formation around it. The infiltrated unit cannot be placed so
-that it touches an enemy unit. Once deployed, orders can be
+proximity of enemy.
+include::partial$infiltration_d.adoc[]
+Once deployed, orders can be
 given to the unit by the same character that gave the infiltration
-order. The infiltrating unit is considered to have used its first
-order to deploy. If the infiltration order is failed the unit is
-not deployed and cannot infiltrate that turn, it can attempt to
-infiltrate in a subsequent turn at the same or a different place.
+order.
+include::partial$infiltration_f.adoc[]
 +
 Gorgers don’t suffer the usual −1 Command penalty for Dense Terrain.
 
