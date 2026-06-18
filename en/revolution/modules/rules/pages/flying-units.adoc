@@ -80,9 +80,11 @@ they end their move on top of other friendly stands –
 stands must have room to be positioned in the same way
 as units on the ground.
 
+// Half-pace being 10cm is otherwise only in the Movement section.
 Flying units move up to 100cm when moving under
 orders. However when charging, flyers can move only
 up to 60cm.
+[.edit]#A flying unit’s half pace move is 10cm.#
 
 Once a flying unit has moved, it is treated
 exactly like a ground based unit and can therefore be
