@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-03-30 17:24+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -20,20 +20,29 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
-#: en/revolution/modules/rules/pages/flying-units.adoc:119
+#: en/revolution/modules/rules/pages/flying-units.adoc:121
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
 #: en/revolution/modules/rules/pages/movement.adoc:274
-#: en/revolution/modules/rules/pages/movement.adoc:909
+#: en/revolution/modules/rules/pages/movement.adoc:916
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
+#. type: Block title
+#: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:676
+#: en/revolution/modules/rules/pages/command.adoc:539
+#: en/revolution/modules/rules/pages/movement.adoc:337
+#, fuzzy, no-wrap
+#| msgid "Optional rule"
+msgid "Optional rules"
+msgstr "Règles optionnelles"
+
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters.adoc:308
-#: en/revolution/modules/rules/pages/command.adoc:572
-#: en/revolution/modules/rules/pages/movement.adoc:372
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:867
+#: en/revolution/modules/rules/pages/command.adoc:576
+#: en/revolution/modules/rules/pages/movement.adoc:378
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:872
 #, no-wrap
 msgid "Character movement"
 msgstr "Mouvement des personnages"
@@ -41,21 +50,21 @@ msgstr "Mouvement des personnages"
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:108
 #: en/revolution/modules/rules/pages/combat.adoc:568
-#: en/revolution/modules/rules/pages/combat.adoc:1273
-#: en/revolution/modules/rules/pages/combat.adoc:1276
+#: en/revolution/modules/rules/pages/combat.adoc:1272
+#: en/revolution/modules/rules/pages/combat.adoc:1275
 #: en/revolution/modules/rules/pages/confusion.adoc:187
 #: en/revolution/modules/rules/pages/confusion.adoc:210
 #: en/revolution/modules/rules/pages/game-values.adoc:348
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:452
-#: en/revolution/modules/rules/pages/movement.adoc:455
-#: en/revolution/modules/rules/pages/movement.adoc:506
-#: en/revolution/modules/rules/pages/movement.adoc:509
-#: en/revolution/modules/rules/pages/movement.adoc:532
-#: en/revolution/modules/rules/pages/movement.adoc:700
-#: en/revolution/modules/rules/pages/movement.adoc:761
+#: en/revolution/modules/rules/pages/movement.adoc:458
+#: en/revolution/modules/rules/pages/movement.adoc:461
+#: en/revolution/modules/rules/pages/movement.adoc:512
+#: en/revolution/modules/rules/pages/movement.adoc:515
+#: en/revolution/modules/rules/pages/movement.adoc:538
+#: en/revolution/modules/rules/pages/movement.adoc:706
+#: en/revolution/modules/rules/pages/movement.adoc:767
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -65,28 +74,28 @@ msgstr "{empty}"
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:133
-#: en/revolution/modules/rules/pages/movement.adoc:393
+#: en/revolution/modules/rules/pages/movement.adoc:399
 #, no-wrap
 msgid "Sequence of charges"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:140
-#: en/revolution/modules/rules/pages/movement.adoc:419
+#: en/revolution/modules/rules/pages/movement.adoc:425
 #, no-wrap
 msgid "Enemy in sight"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:154
-#: en/revolution/modules/rules/pages/movement.adoc:480
+#: en/revolution/modules/rules/pages/movement.adoc:486
 #, no-wrap
 msgid "The charge move"
 msgstr ""
 
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:161
-#: en/revolution/modules/rules/pages/movement.adoc:539
+#: en/revolution/modules/rules/pages/movement.adoc:545
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:263
 #, no-wrap
 msgid "Forming a battle line"
@@ -94,7 +103,7 @@ msgstr ""
 
 #. type: Title ====
 #: en/revolution/modules/rules/pages/combat.adoc:168
-#: en/revolution/modules/rules/pages/movement.adoc:575
+#: en/revolution/modules/rules/pages/movement.adoc:581
 #: en/revolution/modules/rules/pages/questions-and-answers.adoc:295
 #, no-wrap
 msgid "Contact with other enemy"
@@ -102,79 +111,78 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/combat.adoc:175
-#: en/revolution/modules/rules/pages/movement.adoc:647
+#: en/revolution/modules/rules/pages/movement.adoc:653
 #, no-wrap
 msgid "Exceptions & anomalies"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:182
-#: en/revolution/modules/rules/pages/movement.adoc:658
+#: en/revolution/modules/rules/pages/movement.adoc:664
 #, no-wrap
 msgid "Unable to contact centre-to-centre"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:189
-#: en/revolution/modules/rules/pages/movement.adoc:677
+#: en/revolution/modules/rules/pages/movement.adoc:683
 #, no-wrap
 msgid "Unable to form a battle line"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:196
-#: en/revolution/modules/rules/pages/movement.adoc:705
+#: en/revolution/modules/rules/pages/movement.adoc:711
 #, no-wrap
 msgid "Blocked edges"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:203
-#: en/revolution/modules/rules/pages/movement.adoc:735
+#: en/revolution/modules/rules/pages/movement.adoc:741
 #, no-wrap
 msgid "Pinned targets"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:210
-#: en/revolution/modules/rules/pages/movement.adoc:766
+#: en/revolution/modules/rules/pages/movement.adoc:772
 #, no-wrap
 msgid "Irregular formations"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:217
-#: en/revolution/modules/rules/pages/movement.adoc:789
+#: en/revolution/modules/rules/pages/movement.adoc:795
 #, no-wrap
 msgid "Enveloping charge"
 msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/rules/pages/combat.adoc:604
-#: en/revolution/modules/rules/pages/movement.adoc:598
+#: en/revolution/modules/rules/pages/movement.adoc:604
 #, no-wrap
 msgid "Supporting charges"
 msgstr ""
 
-#. type: Block title
-#: en/revolution/modules/rules/pages/combat.adoc:1191
-#: en/revolution/modules/rules/pages/command.adoc:539
-#: en/revolution/modules/rules/pages/flying-units.adoc:213
-#: en/revolution/modules/rules/pages/movement.adoc:337
-#, no-wrap
-msgid "Optional rule"
-msgstr "Règles optionnelles"
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/combat.adoc:699
+#: en/revolution/modules/rules/pages/movement.adoc:984
+#, fuzzy, no-wrap
+#| msgid "Dense terrain"
+msgid "Impassable terrain"
+msgstr "Terrain difficile"
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/command.adoc:479
-#: en/revolution/modules/rules/pages/movement.adoc:997
+#: en/revolution/modules/rules/pages/movement.adoc:977
 #, no-wrap
 msgid "Dense terrain"
 msgstr "Terrain difficile"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/movement.adoc:2
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:98
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:103
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:61
 #, no-wrap
 msgid "Movement"
@@ -564,9 +572,20 @@ msgid ""
 "straight line when evading.\n"
 msgstr ""
 
+#. type: delimited block * 4
+#: en/revolution/modules/rules/pages/movement.adoc:349
+#, no-wrap
+msgid ""
+"*Light Infantry:* when a unit is burst through\n"
+"by an infantry unit with 0 or 6+ Armour and a\n"
+"ranged attack, it is only confused on the roll of 6.\n"
+"However, the evading infantry unit cannot perform\n"
+"a supporting charge in the same turn.\n"
+msgstr ""
+
 #.  Bo5A says 1cm, not 5.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:351
+#: en/revolution/modules/rules/pages/movement.adoc:357
 msgid ""
 "Evading units cannot move through terrain they could not normally enter, nor "
 "through enemy units or combat engagements. An evading unit must end its move "
@@ -575,7 +594,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:362
+#: en/revolution/modules/rules/pages/movement.adoc:368
 msgid ""
 "An evading unit can move through a friendly unengaged unit if the player "
 "wishes assuming the evaders have sufficient move to pass completely through. "
@@ -589,26 +608,26 @@ msgstr ""
 
 #.  New caption added, diagram text altered slightly for grammar.
 #. type: Block title
-#: en/revolution/modules/rules/pages/movement.adoc:364
+#: en/revolution/modules/rules/pages/movement.adoc:370
 #, no-wrap
 msgid "Evaders bursting through a friendly unit"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:376
+#: en/revolution/modules/rules/pages/movement.adoc:382
 msgid ""
 "→ Moved to xref:command.adoc#character-movement[Command, Character movement]."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/movement.adoc:382
+#: en/revolution/modules/rules/pages/movement.adoc:388
 #, no-wrap
 msgid "The charge"
 msgstr ""
 
 #.  Moved from Combat chapter (was Moving Chargers)
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:390
+#: en/revolution/modules/rules/pages/movement.adoc:396
 msgid ""
 "The rules for moving chargers may look a bit intimidating at first but do "
 "not worry! Almost all moves happen in an obvious way. Many of the following "
@@ -617,7 +636,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:403
+#: en/revolution/modules/rules/pages/movement.adoc:409
 msgid ""
 "The term ‘charge’ describes a unit’s movement into contact with an enemy "
 "unit during the Command [.edit]#& Initiative# phase whether by initiative or "
@@ -628,7 +647,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:410
+#: en/revolution/modules/rules/pages/movement.adoc:416
 msgid ""
 "Where a charge is intended, the player must say so before any stands are "
 "moved as this alerts both players to the need for care. A unit is not "
@@ -637,14 +656,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:414
+#: en/revolution/modules/rules/pages/movement.adoc:420
 msgid ""
 "During a charge, each stand can move up to its full pace distance regardless "
 "of the unit’s formation at the start of the move."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:432
+#: en/revolution/modules/rules/pages/movement.adoc:438
 msgid ""
 "At least one stand from the charging unit must be able to see the target "
 "enemy unit at the start of the unit’s charge move. If none of a unit’s "
@@ -657,13 +676,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/movement.adoc:436
+#: en/revolution/modules/rules/pages/movement.adoc:442
 #, no-wrap
 msgid "Front, flank and rear"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:443
+#: en/revolution/modules/rules/pages/movement.adoc:449
 msgid ""
 "The charging unit can potentially contact against the front, side or rear of "
 "an enemy — this is an important distinction because stands suffer a penalty "
@@ -672,7 +691,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:451
+#: en/revolution/modules/rules/pages/movement.adoc:457
 msgid ""
 "For the purpose of working out where to position units during a charge, the "
 "area around each stand is divided into four zones as shown on [.edit]#<<zone-"
@@ -683,7 +702,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:465
+#: en/revolution/modules/rules/pages/movement.adoc:471
 msgid ""
 "Once a unit’s intention to charge has been declared, begin by considering "
 "the position of the entire charging unit relative to the *closest visible "
@@ -693,9 +712,9 @@ msgid ""
 "rear. See <<charge-move-1>>."
 msgstr ""
 
-#.  Spelling front, e.g.
+#.  Spelling e.g.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:475
+#: en/revolution/modules/rules/pages/movement.adoc:481
 msgid ""
 "If the charging unit is not entirely within a single zone then it counts as "
 "being in the zone that it mostly occupies. So, if a unit is between the "
@@ -706,7 +725,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:489
+#: en/revolution/modules/rules/pages/movement.adoc:495
 msgid ""
 "In most situations it is a simple matter to position the charging unit "
 "against the indicated front, side, or rear edge of the enemy unit. In some "
@@ -716,7 +735,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:494
+#: en/revolution/modules/rules/pages/movement.adoc:500
 msgid ""
 "To begin, the charging player selects one stand from the charging unit. Any "
 "stand may be chosen – it does not have to be the closest. This stand must be "
@@ -724,7 +743,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:498
+#: en/revolution/modules/rules/pages/movement.adoc:504
 msgid ""
 "The selected charging stand is moved into place against the enemy stand that "
 "has already been identified as the closest visible stand to the charging "
@@ -732,7 +751,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:505
+#: en/revolution/modules/rules/pages/movement.adoc:511
 msgid ""
 "Move the charging stand so that its front edge contacts the appropriate edge "
 "of the enemy stand. If the unit is charging from the front zone, place the "
@@ -742,7 +761,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:528
+#: en/revolution/modules/rules/pages/movement.adoc:534
 msgid ""
 "If possible, place the charging stand exactly centre-to-centre against the "
 "edge of the target stand – see <<maximise-frontage-1>>. If this is "
@@ -750,7 +769,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:549
+#: en/revolution/modules/rules/pages/movement.adoc:555
 msgid ""
 "Once the first charging stand has been positioned, the remaining stands are "
 "placed one at a time to make a line formation or ‘battle line’. Each stand "
@@ -762,7 +781,7 @@ msgstr ""
 
 #. Stands are placed into a coherent formation as they move.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:558
+#: en/revolution/modules/rules/pages/movement.adoc:564
 msgid ""
 "[.bo5a]#To form the battle line,# place the second stand beside the first, "
 "and place the third stand beside either the first or second. You cannot "
@@ -772,7 +791,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:570
+#: en/revolution/modules/rules/pages/movement.adoc:576
 msgid ""
 "Each stand must be placed in the battle line in such a way that as much of "
 "its front edge as possible makes contact with the enemy. This is called "
@@ -783,7 +802,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:585
+#: en/revolution/modules/rules/pages/movement.adoc:591
 msgid ""
 "If there are other enemy units adjacent to the target unit then the "
 "obligation to ‘maximise frontage’ extends to these other units too. So, "
@@ -794,7 +813,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:591
+#: en/revolution/modules/rules/pages/movement.adoc:597
 msgid ""
 "Any additional units contacted by charging stands count as being charged and "
 "are drawn into the combat engagement – even if they are only touching corner-"
@@ -807,7 +826,7 @@ msgstr ""
 #.  support mentioned here, but it's already in this general
 #.  section under Enveloping Charge.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:608
+#: en/revolution/modules/rules/pages/movement.adoc:614
 msgid ""
 "During the Command phase, an [.edit]#infantry# unit is allowed to make a "
 "supporting charge if it is positioned behind another [.edit]#infantry unit# "
@@ -817,7 +836,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:614
+#: en/revolution/modules/rules/pages/movement.adoc:620
 msgid ""
 "If the front unit charges, whether on initiative or by means of an order, "
 "then the second unit can automatically make a supporting charge. It can do "
@@ -826,7 +845,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:623
+#: en/revolution/modules/rules/pages/movement.adoc:629
 msgid ""
 "Note that the second unit might have more or fewer stands than the charging "
 "unit, or it could have some stands positioned to give rear support and some "
@@ -837,7 +856,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:630
+#: en/revolution/modules/rules/pages/movement.adoc:636
 msgid ""
 "The supporting charge is a normal move, except the unit making the "
 "supporting charge must be placed so that it touches the first unit and at "
@@ -847,7 +866,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:642
+#: en/revolution/modules/rules/pages/movement.adoc:648
 msgid ""
 "The supporting charge is a special kind of combined move – the supporting "
 "unit’s move is rolled into that of the charging unit and is considered part "
@@ -861,7 +880,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:655
+#: en/revolution/modules/rules/pages/movement.adoc:661
 msgid ""
 "In some situations the proximity of scenery or other stands makes it "
 "impossible to position all the chargers exactly as described. In some cases "
@@ -871,7 +890,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:666
+#: en/revolution/modules/rules/pages/movement.adoc:672
 msgid ""
 "The first charging stand is always positioned centre-to-centre with the "
 "closest enemy stand where possible.  If this is not possible then the first "
@@ -881,7 +900,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:670
+#: en/revolution/modules/rules/pages/movement.adoc:676
 msgid ""
 "If there is less than 1 cm of exposed edge then the stand is not an eligible "
 "target because it is ‘blocked’. <<blocked-edges,See below>> for how to deal "
@@ -889,7 +908,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:691
+#: en/revolution/modules/rules/pages/movement.adoc:697
 msgid ""
 "If a stand has insufficient room or insufficient move distance to form a "
 "straight battle line, it must be placed either directly behind, or beside "
@@ -904,7 +923,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:699
+#: en/revolution/modules/rules/pages/movement.adoc:705
 msgid ""
 "Any additional enemy units contacted as a result of the placement of these "
 "stands also count as being charged and are drawn into the combat engagement "
@@ -916,7 +935,7 @@ msgstr ""
 
 #.  Spelling available
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:717
+#: en/revolution/modules/rules/pages/movement.adoc:723
 msgid ""
 "In some situations a charging unit will be unable to charge because, "
 "although it can see the enemy unit, the indicated edge of the closest stand "
@@ -928,7 +947,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:723
+#: en/revolution/modules/rules/pages/movement.adoc:729
 msgid ""
 "In all these situations the charger moves the charging stand against the "
 "next closest stand in the target unit, assuming this stand is an accessible "
@@ -937,7 +956,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:732
+#: en/revolution/modules/rules/pages/movement.adoc:738
 msgid ""
 "If no accessible edge is presented by any stand in the target unit then the "
 "charge is not normally allowed – for example, if there is impassable terrain "
@@ -947,7 +966,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:740
+#: en/revolution/modules/rules/pages/movement.adoc:746
 msgid ""
 "If the indicated edge of the entire enemy target unit has already been "
 "covered by stands from other friendly units then the unit is described as "
@@ -959,7 +978,7 @@ msgstr ""
 #. edges have to be covered by opposing stands – not by a mix of
 #. opposing stands and terrain for example.#
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:754
+#: en/revolution/modules/rules/pages/movement.adoc:760
 msgid ""
 "In the case of a pinned target, the first charging unit can move into corner-"
 "to-corner contact with the closest enemy stand assuming the charger can see "
@@ -968,7 +987,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:774
+#: en/revolution/modules/rules/pages/movement.adoc:780
 msgid ""
 "If the target unit is in irregular formation then it might not be possible "
 "for all the charging stands to engage by forming a conventional battle line. "
@@ -978,14 +997,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:778
+#: en/revolution/modules/rules/pages/movement.adoc:784
 msgid ""
 "Remaining charging stands are placed in a line but staggered to the front or "
 "rear so that they follow the shape of the stands presented by the enemy unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:784
+#: en/revolution/modules/rules/pages/movement.adoc:790
 msgid ""
 "Although these charging stands might touch the enemy only at a corner or "
 "along part of their front edge, they are considered to be maximising "
@@ -994,9 +1013,9 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:797
+#: en/revolution/modules/rules/pages/movement.adoc:804
 msgid ""
-"The ‘envelop’ rule applies when a unit is charged in the side – it "
+"The ‘envelop’ rule applies when a unit is charged in the side or rear – it "
 "represents a unit’s inability to turn enough troops quickly enough to avoid "
 "being enveloped by an enemy charge. The reason for this rule is to avoid "
 "situations where it is otherwise disadvantageous to charge a unit in the "
@@ -1004,23 +1023,23 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:808
+#: en/revolution/modules/rules/pages/movement.adoc:815
 msgid ""
-"When a unit charges an enemy unit from the flank and contacts only against "
-"the side of an enemy stand or stands, then any charging stands that would "
-"not otherwise touch the enemy when forming a battle line are allowed to make "
-"a further move into contact with the charged enemy unit "
+"When a unit charges an enemy unit from the flank or rear and contacts only "
+"against the side or rear of an enemy stand or stands, then any charging "
+"stands that would not otherwise touch the enemy when forming a battle line "
+"are allowed to make a further move into contact with the charged enemy unit "
 "xref:combat.adoc#basic-pursuit[as described for a pursuit]. Stands must have "
 "sufficient move distance remaining from their charge move to make the "
 "envelopment move."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:822
+#: en/revolution/modules/rules/pages/movement.adoc:829
 msgid ""
 "This is called an ‘enveloping charge’ and it is entirely up to the charger "
 "whether to envelop or form a conventional battle line. Each stand enveloping "
-"in this way must move so that its front corner contacts the charged enemy "
+"in this way must move so that its front edge contacts the charged enemy "
 "unit, otherwise these stands can be positioned as the player wishes so long "
 "as they remain in formation. Enveloping stands can contact other enemy units "
 "and therefore bring them into the combat, but they must also contact the "
@@ -1031,7 +1050,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:827
+#: en/revolution/modules/rules/pages/movement.adoc:834
 msgid ""
 "If chargers are infantry with supporting chargers then move both the "
 "charging and supporting units and work out any shooting first. Supporting "
@@ -1039,13 +1058,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/movement.adoc:840
+#: en/revolution/modules/rules/pages/movement.adoc:847
 #, no-wrap
 msgid "Units which move off the table"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:847
+#: en/revolution/modules/rules/pages/movement.adoc:854
 msgid ""
 "Sometimes units or characters are obliged to move off the table. This can "
 "happen when a unit receives a ‘xref:characters.adoc#blunders[blundered]’ "
@@ -1056,7 +1075,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/movement.adoc:856
+#: en/revolution/modules/rules/pages/movement.adoc:863
 msgid ""
 "If one or more stands in a unit leaves the table edge, whether wholly or "
 "partially the whole unit leaves the table. Units that leave the table as a "
@@ -1068,7 +1087,7 @@ msgstr ""
 
 #.  Difference: Ancients says no initiative moves for 5-6, orders only.
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:882
+#: en/revolution/modules/rules/pages/movement.adoc:889
 #, no-wrap
 msgid ""
 "|D6 |Result\n"
@@ -1098,7 +1117,7 @@ msgstr ""
 
 #. //
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:889
+#: en/revolution/modules/rules/pages/movement.adoc:896
 #, no-wrap
 msgid ""
 "When a unit reappears on the table it must retain the\n"
@@ -1110,12 +1129,12 @@ msgstr ""
 #.  Difference: Ancients says rear edge against the table edge, facing forward.
 #. //
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:892
+#: en/revolution/modules/rules/pages/movement.adoc:899
 msgid "Infantry in line or column, cavalry in a line."
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:905
+#: en/revolution/modules/rules/pages/movement.adoc:912
 msgid ""
 "Characters who move off the table with units they have joined suffer the "
 "same fate as the unit. Characters who are on their own must roll in the "
@@ -1127,13 +1146,13 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:913
+#: en/revolution/modules/rules/pages/movement.adoc:920
 #, no-wrap
 msgid "====\n"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:919
+#: en/revolution/modules/rules/pages/movement.adoc:926
 #, no-wrap
 msgid ""
 "The _Advanced Terrain_ rules in the rulebook extend the basic _Terrain_\n"
@@ -1144,8 +1163,9 @@ msgid ""
 "====\n"
 msgstr ""
 
+#.  Removed "In the Advanced Terrain Rules the"
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:931
+#: en/revolution/modules/rules/pages/movement.adoc:938
 msgid ""
 "By terrain we mean woods, hills, rivers and other features that might "
 "conceivably be found on the battlefields.  Many of these features hinder "
@@ -1155,437 +1175,394 @@ msgid ""
 "movement."
 msgstr ""
 
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:933
-#, no-wrap
-msgid "Open ground"
-msgstr ""
-
-#. //
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:941
+#: en/revolution/modules/rules/pages/movement.adoc:944
 msgid ""
-"This is the term used for the predominantly open area of the battlefield "
-"represented by the flat table surface. Of course, in reality even supposedly "
-"open and level ground is likely to be slightly undulating and might include "
-"any number of individual trees, the odd house, a few boulders, and so on. "
-"For our purposes, the flat table surface will provide perfectly serviceable."
+"Terrain features are classified by characteristics such as accessibility and "
+"other effects they provide for the troops. The characteristics are described "
+"as follows:"
 msgstr ""
 
-#.  Comment: I understand "grown fields" to mean "cultivated fields",
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:945
+#, fuzzy, no-wrap
+#| msgid "Dense terrain"
+msgid "Passable terrain"
+msgstr "Terrain difficile"
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:947
+#, no-wrap
+msgid ""
+"*Standard terrain that does not impede\n"
+"movement or provide any advantage to units crossing it.*\n"
+msgstr ""
+
 #. type: Table
 #: en/revolution/modules/rules/pages/movement.adoc:950
-#, no-wrap
-msgid ""
-"*Infantry* can move into or over terrain features with no\n"
-"reduction to their movement distance.\n"
-"\n"
-"*Cavalry* and monsters can’t move into or over terrain\n"
-"features on the battlefield except for hills, bridges,\n"
-"shallow fordable rivers, grown fields and low obstacles\n"
-"(hedges, walls, fences or ditches, for example).\n"
-"\n"
+msgid "Accessible to all troop types."
 msgstr ""
 
-#.  i.e. "Loose terrain". This is then consistent with cavalry
-#.  being unable to enter dense terrain.
-#.  Comment: conflicts with description of Villages
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:951
+#, fuzzy, no-wrap
+#| msgid "Dense terrain"
+msgid "Rough terrain"
+msgstr "Terrain difficile"
+
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:957
+#: en/revolution/modules/rules/pages/movement.adoc:955
 #, no-wrap
 msgid ""
-"*Chariots and artillery* cannot move into or over terrain\n"
-"features on the battlefield except for hills and bridges.\n"
-"\n"
+"*Challenging terrain that complicates\n"
+"movement and prevents the use of charge bonuses.\n"
+"While it hinders attackers, it does not provide a defensive\n"
+"advantage.*\n"
 msgstr ""
 
-#. //
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:993
+#: en/revolution/modules/rules/pages/movement.adoc:961
+msgid ""
+"Accessible to Infantry, Monsters, and Cavalry. Charging units do not receive "
+"charge bonuses against enemy stands at least partially in Rough Terrain. "
+"Defenders are not considered defended."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:962
+#, fuzzy, no-wrap
+#| msgid "Dense terrain"
+msgid "Difficult terrain"
+msgstr "Terrain difficile"
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:965
 #, no-wrap
 msgid ""
-"*Machines* have special rules but in general treat terrain\n"
-"in the same way as chariots.\n"
-"\n"
-"There are rules in the rulebook and army lists referring\n"
-"to some terrain features as a *dense terrain*. A *dense\n"
-"terrain* imposes −1 Command penalty as described in\n"
-"xref::movement.adoc#terrain[Command phase – Terrain]. Typical dense terrain\n"
-"features are woods, built-up areas and broken or marshy\n"
-"ground (for more detail see xref::advanced-terrain-rules.adoc[Advanced Terrain Rules]).\n"
-"\n"
-"Any other feature large enough to warrant representation\n"
-"on the tabletop is considered to form a barrier to cavalry,\n"
-"chariot, monster, machine and artillery movement\n"
-"(unless players choose to agree otherwise before the\n"
-"game).\n"
-"\n"
-"Hills can be moved over by all troops if they are\n"
-"essentially open and quite shallow but steep, rock strewn\n"
-"or wooded hills are considered impenetrable to all units\n"
-"except infantry.\n"
-"\n"
-"In some exceptional cases, terrain might be considered\n"
-"a barrier to all troops, including infantry as well as\n"
-"cavalry, etc. Obvious examples include a huge canyon,\n"
-"a lake of molten lava, the ocean or an especially large\n"
-"river. These are unusual and entertaining features but\n"
-"don’t really enter into the majority of games, so we won’t\n"
-"concern ourselves with them any further. If you refer to\n"
-"the Advanced Terrain Rules section you’ll find further\n"
-"examples of rules for unusual terrain.\n"
-"\n"
-"Comment: It's thoroughly confusing having the terrain\n"
-"rules split between two chapters, especially when some\n"
-"of the differences are fairly minor (muddy vs cultivated fields).\n"
+"*Treacherous terrain that is unsafe for\n"
+"large creatures or mounted units but provides infantry\n"
+"with defensive benefits.*\n"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:969
+msgid ""
+"Accessible only to Infantry. Infantry stands at least partially within "
+"Difficult terrain are considered defended."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:970
+#, fuzzy, no-wrap
+#| msgid "Dense terrain"
+msgid "Broken terrain"
+msgstr "Terrain difficile"
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:972
+#, no-wrap
+msgid ""
+"*Highly obstructed terrain that prevents\n"
+"units from forming proper ranks or moving at speed.*\n"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:976
+msgid ""
+"All units at least partially within Broken terrain are in Irregular "
+"Formation."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:979
+#, no-wrap
+msgid ""
+"*non-open terrain hindering orientation\n"
+"and complicating commanding.*\n"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:983
+msgid ""
+"Units at least partially in the Dense Terrain subtract −1 to the Command "
+"value when being ordered."
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:987
+#, no-wrap
+msgid ""
+"*While individuals may traverse\n"
+"this terrain, it is impossible for organised units to move\n"
+"through.*\n"
 msgstr ""
 
 #.  (Breaking description list)
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1003
+#: en/revolution/modules/rules/pages/movement.adoc:992
 msgid ""
-"Several terrain features listed here, and some rules in the army lists, "
-"refer to *dense terrain*.  Units suffer a −1 Command penalty if any stand "
-"lies within dense terrain when an order is given as described in "
-"xref::command.adoc#dense-terrain[Command penalties]."
+"No units may enter Impassable terrain. Mountless or flying characters and "
+"flying units may pass through (or over) as long as they do not end their "
+"movement inside it."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1007
+#: en/revolution/modules/rules/pages/movement.adoc:996
 #, no-wrap
 msgid "2cm visibility terrain"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1011
+#: en/revolution/modules/rules/pages/movement.adoc:1000
 msgid ""
-"When within woods and villages, troops cannot draw a line of sight except "
-"that stands placed within 2cm of the edge can see out, and can be seen by "
-"troops outside."
+"When within woods, forest or villages, troops cannot draw a line of sight "
+"except that stands placed within 2cm of the edge can see out, and can be "
+"seen by troops outside."
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1015
+#: en/revolution/modules/rules/pages/movement.adoc:1004
 msgid ""
-"By the same token, troops further inside the woods or village can see and be "
-"seen by other troops up to 2cm away."
+"By the same token, troops further inside the woods, forest or village can "
+"see and be seen by other troops up to 2cm away."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/movement.adoc:1018
+#: en/revolution/modules/rules/pages/movement.adoc:1007
 #, no-wrap
 msgid "Types of terrain"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1022
+#: en/revolution/modules/rules/pages/movement.adoc:1010
 #, no-wrap
 msgid "Hills and slopes"
 msgstr ""
 
-#. //
+#.  Comment/question/TODO: Is this undefended from shooting?
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1032
-msgid ""
-"These impose no penalties on the movement of troops. All units can move over "
-"hills and slopes so long as they are not especially steep, rugged, or "
-"otherwise difficult – such features must be stated before the game. The "
-"overall footprint of hill models, including slopes, blocks line of sight. "
-"Infantry and artillery stands positioned on a hill are "
-"xref:combat.adoc#defended[*defended*] against any units charging or shooting "
-"from a lower positions."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1035
+#: en/revolution/modules/rules/pages/movement.adoc:1017
 #, no-wrap
-msgid "Steep hills and slopes"
-msgstr ""
-
-#. //
-#. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1041
 msgid ""
-"Slopes that are extremely steep, rugged or otherwise hard going are "
-"considered to be *dense terrain*. Dense terrain is impenetrable to all "
-"troops apart from infantry. Only infantry stands can enter dense terrain, "
-"and units suffer the -1 Command penalty if any stands lie within dense "
-"terrain when an order is given."
+"*Passable* terrain. Blocks line of sight.\n"
+"Infantry and artillery stands positioned on a hill are\n"
+"xref:combat.adoc#defended[defended] against any units charging or shooting from\n"
+"lower positions. Artillery units on hills can shoot over\n"
+"friendly units at lower elevation.\n"
+"\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1045
+#: en/revolution/modules/rules/pages/movement.adoc:1019
 #, no-wrap
 msgid "Shallow rivers or streams"
 msgstr ""
 
-#. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1051
-msgid ""
-"This terrain [.edit]#is impenetrable to# chariots, artillery and machines. "
-"Infantry can be xref:combat.adoc#defended[*defended*] along the river’s edge "
-"against enemy charging from within or across a stream. Streams and shallow "
-"rivers don’t block line of sight."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1052
-#, no-wrap
-msgid "Broken or marshy ground"
-msgstr ""
-
 #.  Comment: Sand dunes are *very* difficult to climb or cross,
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1060
+#: en/revolution/modules/rules/pages/movement.adoc:1025
+#, no-wrap
 msgid ""
-"This includes areas that are hard going for whatever reason; for example "
-"treacherous ruins, entangling scrub, irrigated or excessively muddy fields "
-"or soft marshy ground. This is *<<dense-terrain,dense terrain>>* but doesn’t "
-"block line of sight. [.qa]#Only infantry stands may enter# broken or marshy "
-"ground, and they are xref:combat.adoc#defended[*defended*] within it."
+"*Rough*, *Dense* and *Broken*\n"
+"terrain. Units charging from within or across a stream\n"
+"do not receive a charge bonus. Units that have crossed\n"
+"a stream suffer a −1 penalty to subsequent orders in the\n"
+"same Command phase.\n"
+"\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1063
+#: en/revolution/modules/rules/pages/movement.adoc:1028
 #, no-wrap
-msgid "Loose terrain"
+msgid "Loose terrain, soft sand and fields"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1072
+#: en/revolution/modules/rules/pages/movement.adoc:1030
+#, no-wrap
 msgid ""
-"Cultivated fields to sand dunes, rocky ground to fully grown corn fields. "
-"This terrain doesn’t necessarily give a defender any advantages, but it "
-"isn’t going to do anything to help the chargers advance.  Charging units "
-"earn *no charging bonus* when charging a unit within loose terrain. It is "
-"also impenetrable to chariots, artillery and machines. Loose terrain doesn’t "
-"block line of sight."
+"*Rough* terrain.\n"
+"\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1073
+#: en/revolution/modules/rules/pages/movement.adoc:1031
+#, no-wrap
+msgid "Marsh or dunes"
+msgstr ""
+
+#. type: Table
+#: en/revolution/modules/rules/pages/movement.adoc:1033
+#, fuzzy, no-wrap
+#| msgid "Dense terrain"
+msgid ""
+"*Rough* and *Dense* terrain.\n"
+"\n"
+msgstr "Terrain difficile"
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/movement.adoc:1034
 #, no-wrap
 msgid "Woods and tall scrub"
 msgstr ""
 
-#.  Difference: Ancients/Bo5A: only infantry can enter, 2cm dense terrain, just another forest.
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1078
+#: en/revolution/modules/rules/pages/movement.adoc:1037
+#, no-wrap
 msgid ""
-"These consist of substantial areas of growing trees or tall vegetation. Only "
-"infantry [.edit]#may# enter and stands count as "
-"xref:combat.adoc#defended[*defended*] when within.  Woods and tall scrub are "
-"*<<dense-terrain,dense terrain>>* with [.edit]#*<<low-visibility,2cm "
-"visibility>>*#."
+"*Difficult* and *Dense* terrain. There is\n"
+"only 2cm visibility in this type of terrain.\n"
+"\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1080
+#: en/revolution/modules/rules/pages/movement.adoc:1038
 #, no-wrap
-msgid "Villages, [.edit]#towns,# and other built-up areas"
+msgid "Villages, towns, and other built-up areas"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1092
+#: en/revolution/modules/rules/pages/movement.adoc:1043
+#, no-wrap
 msgid ""
-"A distinguishable bordered area consisting of [.edit]#multiple# buildings, "
-"paths, dividing walls, gardens, pasture, orchards and so forth. The entire "
-"built-up area is considered to be a broad terrain type: no account is taken "
-"of individual buildings, [.edit]#etc#. All units may enter, infantry and "
-"artillery count as xref:combat.adoc#defended[*defended*] when within. All "
-"units can be *pursued* when starting their retreat in this terrain type. "
-"Villages and towns are *<<dense-terrain,dense terrain>>* with *<<low-"
-"visibility,2cm visibility>>*."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1093
-#, no-wrap
-msgid "Individual buildings, [.edit]#boulders# or terrain features"
+"*Passable*,\n"
+"*Dense* and *Broken* terrain. Infantry and artillery units\n"
+"count as xref:combat.adoc#defended[*defended*] when within. All unit types\n"
+"can be pursued when starting their retreat in this terrain\n"
+"type. Villages and towns have visibility of 2cm.\n"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1098
+#: en/revolution/modules/rules/pages/movement.adoc:1049
 msgid ""
-"These are significant structures, interconnected buildings or terrain "
-"features such as boulders. These are impenetrable to all units and block "
-"line of sight."
+"Model-wise they are a bordered area consisting of a number of buildings. The "
+"entire built-up area is considered to be a broad terrain type: no account is "
+"taken of individual buildings, gardens, and so forth."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1099
+#: en/revolution/modules/rules/pages/movement.adoc:1050
 #, no-wrap
-msgid "Rivers, lakes and other deep water"
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1100
-#, no-wrap
-msgid "Ravines and deep pits"
+msgid "Individual buildings, terrain features, sheer cliffs or mountains"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1104
-msgid "These are impenetrable to all units and don’t block line of sight."
+#: en/revolution/modules/rules/pages/movement.adoc:1053
+msgid "These are *Impassable* terrain that blocks line of sight."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1105
+#: en/revolution/modules/rules/pages/movement.adoc:1054
 #, no-wrap
-msgid "Sheer cliffs and mountains"
+msgid "Rivers, lakes, lava, ravines, deep water or deep pits"
 msgstr ""
 
 #.  Bo5A difference: dense terrain penalty still applies
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1108
-msgid "These are impenetrable to all units and block line of sight."
+#: en/revolution/modules/rules/pages/movement.adoc:1057
+msgid "These are *Impassable* terrain that does not block line of sight."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1110
+#: en/revolution/modules/rules/pages/movement.adoc:1059
 #, no-wrap
 msgid "Roads and tracks"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1120
-msgid ""
-"These permit movement to units in column formation as for open ground "
-"regardless of the type of terrain traversed. A [.edit]#stand# placed "
-"centrally across or along a road is conveniently assumed to be travelling "
-"along it despite the road’s width. Infantry placed on a road through dense "
-"terrain still counts as xref:combat.adoc#defended[*defended*], other troop "
-"types count as ‘in the open’ as usual.  If a unit moves its entire distance "
-"along a road then the *next order* will be issued with a +1 to command. "
-"Roads obviously don’t block line of sight."
-msgstr ""
-
-#.  Spelling i.e.
-#.  Spelling bridges. Separate as they are slightly different (chariots).
-#. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1129
-msgid ""
-"Some players may prefer to move their infantry in *marching column* along "
-"the roads in the same way as cavalry, with the short edge to the front. This "
-"is perfectly possible and the 20mm side can be treated as the ‘front’ for "
-"the purpose of moving and [.edit]#determining line of# sight, however it "
-"still counts as the side when in combat with all the [.edit]#resulting# "
-"consequences."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1131
+#: en/revolution/modules/rules/pages/movement.adoc:1065
 #, no-wrap
-msgid "Bridges"
+msgid ""
+"*Passable* terrain. A non-flying unit\n"
+"that moves its maximum movement distance in a column\n"
+"formation along the road can make an extra half-pace\n"
+"move and gains a +1 Command bones for a following\n"
+"order in this Command phase. However, this movement\n"
+"must not result in contact with the enemy.\n"
 msgstr ""
 
-#.  Bo5A: obviously doesn't consider artillery/machines, so bridges are the same as fords.
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1135
+#: en/revolution/modules/rules/pages/movement.adoc:1070
 msgid ""
-"If a river or ravine has a bridge then all troops may cross at that point "
-"without penalty.  Bridges don’t block line of sight."
+"For a brigade to benefit from this rule, it must be at most 4cm wide (e.g. a "
+"one-stand-wide infantry column or two side-by-side cavalry columns)."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1137
+#: en/revolution/modules/rules/pages/movement.adoc:1071
 #, no-wrap
-msgid "Fords"
+msgid "Bridges and fords"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1141
+#: en/revolution/modules/rules/pages/movement.adoc:1075
+#, no-wrap
 msgid ""
-"If a river has a ford, all troops except chariots, artillery or machines may "
-"also cross at the ford without penalty. Fords don’t block line of sight."
+"*Passable* terrain. Bridges and fords\n"
+"don't block line of sight. Bridges and fords that connect\n"
+"to a road or track are part of it and all bonuses apply.\n"
+"\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1142
+#: en/revolution/modules/rules/pages/movement.adoc:1076
 #, no-wrap
 msgid "Low linear obstacles"
 msgstr ""
 
-#.  Spelling defence
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1153
+#: en/revolution/modules/rules/pages/movement.adoc:1083
+#, no-wrap
 msgid ""
-"These are features such as ditches, hedges, fences, and low walls primarily "
-"intended to form property boundaries, divide fields or confine animals.  Low "
-"linear obstacles impose no restriction or penalties on the movement of "
-"infantry, cavalry or monsters, but cannot be crossed by chariots, artillery "
-"or machines.  Infantry and artillery stands placed behind a low linear "
-"obstacle count as xref:combat.adoc#defended[*defended*]. Low linear "
-"obstacles don’t block line of sight."
+"*Impassable* for Chariots,\n"
+"Artillery and Machines. These are features such as ditches,\n"
+"hedges, fences, and low walls. Infantry and artillery\n"
+"stands placed behind a low linear obstacle count as\n"
+"xref:combat.adoc#defended[*defended*]. Low linear obstacles don’t\n"
+"block line of sight.\n"
+"\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1155
+#: en/revolution/modules/rules/pages/movement.adoc:1084
 #, no-wrap
-msgid "High linear obstacles"
+msgid "High linear obstacles, fortress walls"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1164
+#: en/revolution/modules/rules/pages/movement.adoc:1087
 msgid ""
-"These are tall features such as high walls and hedged, fenced or ditched "
-"embankments primarily intended for defence. These features are impenetrable "
-"to all troops except for infantry. Infantry can move over or through a high "
-"linear obstacle without penalty. Infantry and artillery stands placed behind "
-"a high linear obstacle count as xref:combat.adoc#fortified[*fortified*]. "
-"High linear obstacles block line of sight."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/movement.adoc:1165
-#, no-wrap
-msgid "City and fortress walls"
-msgstr ""
-
-#. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1169
-msgid ""
-"High walls, tall towers and large buildings block movement as you might "
-"reasonably expect. In these cases, troops must move through gateways or gaps."
-msgstr ""
-
-#. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1177
-msgid ""
-"The only time when ground troops can move across an intact curtain wall, "
-"tower or similar fortification is when infantry are making an assault as "
-"described in the chapter xref::siege-and-fortresses.adoc[Siege & "
-"Fortresses]. Assaulting troops come prepared with scaling ladders, grappling "
-"hooks, siege towers and a hefty dose of grim determination."
+"These are described in detail in the chapter xref:siege-and-"
+"fortresses.adoc[]."
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/movement.adoc:1179
+#: en/revolution/modules/rules/pages/movement.adoc:1089
 #, no-wrap
 msgid "Terrain summary"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1181
+#: en/revolution/modules/rules/pages/movement.adoc:1091
 #, no-wrap
 msgid "****\n"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1184
+#: en/revolution/modules/rules/pages/movement.adoc:1094
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:46
 #, no-wrap
 msgid "include::partial$terrain-restrictions.tsv[]\n"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/movement.adoc:1190
+#: en/revolution/modules/rules/pages/movement.adoc:1100
 #, no-wrap
 msgid "Units forced into impenetrable terrain"
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/movement.adoc:1197
+#: en/revolution/modules/rules/pages/movement.adoc:1107
 msgid ""
 "The rules occasionally oblige units to move into terrain they cannot "
 "[.bo5a]#enter. Stands are not permitted to move so that their bases "
@@ -1596,7 +1573,7 @@ msgstr ""
 
 #.  TODO: link, and be more definite.
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/movement.adoc:1206
+#: en/revolution/modules/rules/pages/movement.adoc:1116
 msgid ""
 "If they are *driven back* into impassable terrain as a result of shooting or "
 "magic, units may become *confused* (see the xref::shooting.adoc[Shooting "
@@ -1607,7 +1584,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/movement.adoc:1211
+#: en/revolution/modules/rules/pages/movement.adoc:1121
 msgid ""
 "The Q&A has a xref:questions-and-answers.adoc#movement-questions[section on "
 "Movement] with further examples."

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-03-30 15:24+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -115,7 +115,7 @@ msgstr "Socles"
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/flying-units.adoc:187
+#: en/revolution/modules/rules/pages/flying-units.adoc:189
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
@@ -126,21 +126,21 @@ msgstr "Personnages"
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:108
 #: en/revolution/modules/rules/pages/combat.adoc:568
-#: en/revolution/modules/rules/pages/combat.adoc:1273
-#: en/revolution/modules/rules/pages/combat.adoc:1276
+#: en/revolution/modules/rules/pages/combat.adoc:1272
+#: en/revolution/modules/rules/pages/combat.adoc:1275
 #: en/revolution/modules/rules/pages/confusion.adoc:187
 #: en/revolution/modules/rules/pages/confusion.adoc:210
 #: en/revolution/modules/rules/pages/game-values.adoc:348
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:452
-#: en/revolution/modules/rules/pages/movement.adoc:455
-#: en/revolution/modules/rules/pages/movement.adoc:506
-#: en/revolution/modules/rules/pages/movement.adoc:509
-#: en/revolution/modules/rules/pages/movement.adoc:532
-#: en/revolution/modules/rules/pages/movement.adoc:700
-#: en/revolution/modules/rules/pages/movement.adoc:761
+#: en/revolution/modules/rules/pages/movement.adoc:458
+#: en/revolution/modules/rules/pages/movement.adoc:461
+#: en/revolution/modules/rules/pages/movement.adoc:512
+#: en/revolution/modules/rules/pages/movement.adoc:515
+#: en/revolution/modules/rules/pages/movement.adoc:538
+#: en/revolution/modules/rules/pages/movement.adoc:706
+#: en/revolution/modules/rules/pages/movement.adoc:767
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -507,10 +507,10 @@ msgid ""
 msgstr ""
 "Chaque unité et personnage du jeu se voit attribuer une valeur en points qui "
 "reflète sa valeur dans le jeu ; les unités et personnages les plus efficaces "
-"ont une valeur proportionnellement plus élevée. xref:end-of-the-battle.adoc"
-"#victory-points[Une fois la bataille terminée], le total en points des "
-"pertes de chaque camp détermine la victoire. [.edit]#Autrement,# la valeur "
-"des points n'a pas vraiment d'impact sur les règles du jeu."
+"ont une valeur proportionnellement plus élevée. xref:end-of-the-"
+"battle.adoc#victory-points[Une fois la bataille terminée], le total en "
+"points des pertes de chaque camp détermine la victoire. [.edit]#Autrement,# "
+"la valeur des points n'a pas vraiment d'impact sur les règles du jeu."
 
 #. type: Block title
 #: en/revolution/modules/rules/pages/game-values.adoc:224
@@ -746,13 +746,13 @@ msgid ""
 "this."
 msgstr ""
 "Certains terrains (comme les ruines, les collines et les bois) bloquent la "
-"ligne de vue, comme décrit dans xref:movement.adoc#terrain"
-"[les règles de Mouvement]. En principe, la ligne de vue est bloquée "
-"lorsqu'elle traverse un élément de terrain, quel qu'il soit, mais il existe "
-"des exceptions appropriées et généralement évidentes. Par exemple, il est "
-"toujours considéré comme possible de voir par-dessus des éléments linéaires "
-"bas comme les haies et les murets (voir <<line-of-sight-terrain>>). La "
-"section sur les xref:movement.adoc#terrain[Terrains] en explique les règles."
+"ligne de vue, comme décrit dans xref:movement.adoc#terrain[les règles de "
+"Mouvement]. En principe, la ligne de vue est bloquée lorsqu'elle traverse un "
+"élément de terrain, quel qu'il soit, mais il existe des exceptions "
+"appropriées et généralement évidentes. Par exemple, il est toujours "
+"considéré comme possible de voir par-dessus des éléments linéaires bas comme "
+"les haies et les murets (voir <<line-of-sight-terrain>>). La section sur les "
+"xref:movement.adoc#terrain[Terrains] en explique les règles."
 
 #. type: delimited block = 4
 #: en/revolution/modules/rules/pages/game-values.adoc:398

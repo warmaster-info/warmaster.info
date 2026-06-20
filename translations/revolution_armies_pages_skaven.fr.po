@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-02-15 16:24+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -24,163 +24,166 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:29
 #: en/revolution/modules/armies/pages/cathay.adoc:33
 #: en/revolution/modules/armies/pages/chaos.adoc:33
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:28
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
-#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/dwarfs.adoc:26
 #: en/revolution/modules/armies/pages/empire.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:28
-#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:29
 #: en/revolution/modules/armies/pages/norse.adoc:29
 #: en/revolution/modules/armies/pages/skaven.adoc:30
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:28
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
 msgstr "Héros"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:123
-#: en/revolution/modules/armies/pages/araby.adoc:114
-#: en/revolution/modules/armies/pages/beastmen.adoc:87
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/albion.adoc:121
+#: en/revolution/modules/armies/pages/araby.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:88
+#: en/revolution/modules/armies/pages/beastmen.adoc:98
 #: en/revolution/modules/armies/pages/bretonnia.adoc:117
 #: en/revolution/modules/armies/pages/bretonnia.adoc:133
-#: en/revolution/modules/armies/pages/cathay.adoc:117
-#: en/revolution/modules/armies/pages/cathay.adoc:130
-#: en/revolution/modules/armies/pages/chaos.adoc:104
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
-#: en/revolution/modules/armies/pages/daemons.adoc:96
-#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:131
+#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:113
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/daemons.adoc:142
 #: en/revolution/modules/armies/pages/dark-elves.adoc:117
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
-#: en/revolution/modules/armies/pages/dwarfs.adoc:121
-#: en/revolution/modules/armies/pages/empire.adoc:99
-#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:123
+#: en/revolution/modules/armies/pages/dwarfs.adoc:123
+#: en/revolution/modules/armies/pages/empire.adoc:100
+#: en/revolution/modules/armies/pages/goblins.adoc:111
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
-#: en/revolution/modules/armies/pages/kislev.adoc:101
-#: en/revolution/modules/armies/pages/lizardmen.adoc:117
-#: en/revolution/modules/armies/pages/lizardmen.adoc:130
-#: en/revolution/modules/armies/pages/nippon.adoc:119
-#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/kislev.adoc:103
+#: en/revolution/modules/armies/pages/lizardmen.adoc:120
+#: en/revolution/modules/armies/pages/lizardmen.adoc:133
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/nippon.adoc:139
 #: en/revolution/modules/armies/pages/norse.adoc:83
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
-#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:104
+#: en/revolution/modules/armies/pages/orcs.adoc:121
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
-#: en/revolution/modules/armies/pages/skaven.adoc:106
-#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/skaven.adoc:131
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:123
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:104
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:129
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:113
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
-#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:115
+#: en/revolution/modules/rules/pages/battlefields.adoc:258
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
-#: en/revolution/modules/rules/pages/battlefields.adoc:448
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
+#: en/revolution/modules/rules/pages/battlefields.adoc:438
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
+#: en/revolution/modules/rules/pages/battlefields.adoc:526
+#: en/revolution/modules/rules/pages/battlefields.adoc:603
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:182
-#: en/revolution/modules/armies/pages/araby.adoc:257
-#: en/revolution/modules/armies/pages/beastmen.adoc:206
-#: en/revolution/modules/armies/pages/bretonnia.adoc:244
-#: en/revolution/modules/armies/pages/cathay.adoc:217
-#: en/revolution/modules/armies/pages/cathay.adoc:236
-#: en/revolution/modules/armies/pages/chaos.adoc:183
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:265
-#: en/revolution/modules/armies/pages/goblins.adoc:255
+#: en/revolution/modules/armies/pages/albion.adoc:179
+#: en/revolution/modules/armies/pages/araby.adoc:230
+#: en/revolution/modules/armies/pages/beastmen.adoc:203
+#: en/revolution/modules/armies/pages/bretonnia.adoc:248
+#: en/revolution/modules/armies/pages/cathay.adoc:212
+#: en/revolution/modules/armies/pages/cathay.adoc:231
+#: en/revolution/modules/armies/pages/chaos.adoc:180
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:264
+#: en/revolution/modules/armies/pages/goblins.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:212
-#: en/revolution/modules/armies/pages/kislev.adoc:254
+#: en/revolution/modules/armies/pages/kislev.adoc:264
 #: en/revolution/modules/armies/pages/norse.adoc:189
-#: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:261
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:210
+#: en/revolution/modules/armies/pages/orcs.adoc:235
+#: en/revolution/modules/armies/pages/skaven.adoc:244
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:225
+#: en/revolution/modules/armies/pages/wood-elves.adoc:241
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:194
-#: en/revolution/modules/armies/pages/albion.adoc:207
-#: en/revolution/modules/armies/pages/araby.adoc:304
-#: en/revolution/modules/armies/pages/beastmen.adoc:221
-#: en/revolution/modules/armies/pages/beastmen.adoc:238
-#: en/revolution/modules/armies/pages/bretonnia.adoc:260
-#: en/revolution/modules/armies/pages/bretonnia.adoc:279
-#: en/revolution/modules/armies/pages/cathay.adoc:253
-#: en/revolution/modules/armies/pages/chaos.adoc:203
-#: en/revolution/modules/armies/pages/chaos.adoc:238
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:278
-#: en/revolution/modules/armies/pages/daemons.adoc:217
-#: en/revolution/modules/armies/pages/daemons.adoc:233
-#: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:207
-#: en/revolution/modules/armies/pages/goblins.adoc:240
+#: en/revolution/modules/armies/pages/albion.adoc:197
+#: en/revolution/modules/armies/pages/albion.adoc:210
+#: en/revolution/modules/armies/pages/araby.adoc:277
+#: en/revolution/modules/armies/pages/beastmen.adoc:218
+#: en/revolution/modules/armies/pages/beastmen.adoc:235
+#: en/revolution/modules/armies/pages/bretonnia.adoc:264
+#: en/revolution/modules/armies/pages/bretonnia.adoc:283
+#: en/revolution/modules/armies/pages/cathay.adoc:248
+#: en/revolution/modules/armies/pages/chaos.adoc:200
+#: en/revolution/modules/armies/pages/chaos.adoc:235
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:277
+#: en/revolution/modules/armies/pages/daemons.adoc:222
+#: en/revolution/modules/armies/pages/daemons.adoc:238
+#: en/revolution/modules/armies/pages/dark-elves.adoc:223
+#: en/revolution/modules/armies/pages/goblins.adoc:203
+#: en/revolution/modules/armies/pages/goblins.adoc:236
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
-#: en/revolution/modules/armies/pages/kislev.adoc:239
-#: en/revolution/modules/armies/pages/lizardmen.adoc:244
-#: en/revolution/modules/armies/pages/lizardmen.adoc:300
+#: en/revolution/modules/armies/pages/kislev.adoc:249
+#: en/revolution/modules/armies/pages/lizardmen.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:294
 #: en/revolution/modules/armies/pages/norse.adoc:201
 #: en/revolution/modules/armies/pages/norse.adoc:255
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
-#: en/revolution/modules/armies/pages/orcs.adoc:189
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:249
+#: en/revolution/modules/armies/pages/orcs.adoc:193
+#: en/revolution/modules/armies/pages/skaven.adoc:259
 #: en/revolution/modules/armies/pages/skaven.adoc:276
-#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:252
-#: en/revolution/modules/armies/pages/wood-elves.adoc:267
-#: en/revolution/modules/armies/pages/wood-elves.adoc:278
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
+#: en/revolution/modules/armies/pages/wood-elves.adoc:256
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:222
-#: en/revolution/modules/armies/pages/araby.adoc:323
-#: en/revolution/modules/armies/pages/beastmen.adoc:254
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:250
-#: en/revolution/modules/armies/pages/daemons.adoc:251
+#: en/revolution/modules/armies/pages/albion.adoc:225
+#: en/revolution/modules/armies/pages/araby.adoc:301
+#: en/revolution/modules/armies/pages/beastmen.adoc:251
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:249
+#: en/revolution/modules/armies/pages/daemons.adoc:256
 #: en/revolution/modules/armies/pages/high-elves.adoc:179
-#: en/revolution/modules/armies/pages/skaven.adoc:326
+#: en/revolution/modules/armies/pages/skaven.adoc:309
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:90
+#: en/revolution/modules/armies/pages/beastmen.adoc:91
 #: en/revolution/modules/armies/pages/bretonnia.adoc:120
-#: en/revolution/modules/armies/pages/cathay.adoc:120
-#: en/revolution/modules/armies/pages/daemons.adoc:99
-#: en/revolution/modules/armies/pages/lizardmen.adoc:120
-#: en/revolution/modules/armies/pages/nippon.adoc:122
+#: en/revolution/modules/armies/pages/cathay.adoc:121
+#: en/revolution/modules/armies/pages/daemons.adoc:101
+#: en/revolution/modules/armies/pages/lizardmen.adoc:123
+#: en/revolution/modules/armies/pages/nippon.adoc:124
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
-#: en/revolution/modules/armies/pages/skaven.adoc:109
+#: en/revolution/modules/armies/pages/skaven.adoc:111
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
-#: en/revolution/modules/armies/pages/wood-elves.adoc:105
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:95
+#: en/revolution/modules/armies/pages/wood-elves.adoc:107
 #, no-wrap
 msgid "Army rules"
 msgstr "Règles de l'Armée"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:216
-#: en/revolution/modules/armies/pages/skaven.adoc:305
+#: en/revolution/modules/armies/pages/chaos.adoc:213
+#: en/revolution/modules/armies/pages/skaven.adoc:288
 msgid ""
 "The effect lasts for the duration of the following combat phase and the "
 "indicated bonus attacks are added to the unit’s total attacks each round."
@@ -190,9 +193,8 @@ msgstr ""
 "à chaque round."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/daemons.adoc:241
-#: en/revolution/modules/armies/pages/lizardmen.adoc:252
-#: en/revolution/modules/armies/pages/skaven.adoc:283
+#: en/revolution/modules/armies/pages/daemons.adoc:246
+#: en/revolution/modules/armies/pages/skaven.adoc:266
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:262
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
@@ -203,8 +205,8 @@ msgstr ""
 "être lancé sur une unité engagée en combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/kislev.adoc:264
-#: en/revolution/modules/armies/pages/skaven.adoc:271
+#: en/revolution/modules/armies/pages/kislev.adoc:274
+#: en/revolution/modules/armies/pages/skaven.adoc:254
 msgid ""
 "This spell can be cast upon an enemy unit that is engaged in combat and "
 "which is within range. The Wizard does not have to be able to see the target "
@@ -217,19 +219,8 @@ msgstr ""
 "phase de Combat. Chaque socle de l’unité, y compris les personnages qui "
 "l’ont rejointe, voit son nombre d’Attaques réduit de -1."
 
-#. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:307
-#: en/revolution/modules/armies/pages/skaven.adoc:301
-msgid ""
-"This spell can be cast upon a friendly unit that is engaged in combat and "
-"which is within range. The Wizard does not have to be able to see the target "
-"to cast the spell."
-msgstr ""
-"Ce sort peut être lancé sur une unité amie à portée et engagée au combat. Le "
-"Sorcier n’est pas obligé de voir sa cible pour lancer le sort."
-
 #. type: Title =
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:84
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:85
 #: en/revolution/modules/armies/pages/skaven.adoc:1
 #, no-wrap
 msgid "Skaven"
@@ -314,7 +305,7 @@ msgid "Rat Ogre-Bodyguard"
 msgstr "Garde du corps Rat Ogre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:55
+#: en/revolution/modules/armies/pages/skaven.adoc:57
 msgid ""
 "image:skaven/logo.webp[width=120,height=108,float=\"right\"] Skaven are "
 "neither rats nor human but a vile combination of the two races. The origins "
@@ -354,7 +345,7 @@ msgstr ""
 "creuser la terre à sa recherche où qu’elle se trouve."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:67
+#: en/revolution/modules/armies/pages/skaven.adoc:69
 msgid ""
 "Like ordinary rats Skaven abhor the daylight and avoid open places. They dig "
 "tunnels beneath the earth, often taking over old Dwarf mines and Goblin "
@@ -380,7 +371,7 @@ msgstr ""
 "bataille sous la terre."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:81
+#: en/revolution/modules/armies/pages/skaven.adoc:83
 msgid ""
 "The Skaven thrive upon decay and corruption but their society is highly "
 "stratified from the highest Lords of Decay to the most lowly Skaven slaves. "
@@ -406,7 +397,7 @@ msgstr ""
 "et ils répandent épidémie et corruption par le biais de gaz et de poisons."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:93
+#: en/revolution/modules/armies/pages/skaven.adoc:95
 msgid ""
 "Clan Eshin is the master of subterfuge whose agents scuttle over the "
 "rooftops of human cities on their secret missions of sabotage and "
@@ -429,25 +420,25 @@ msgstr ""
 "race."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/skaven.adoc:98
+#: en/revolution/modules/armies/pages/skaven.adoc:100
 #, no-wrap
 msgid "Skaven army selector"
 msgstr "Sélecteur d'Armée des Skavens"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/skaven.adoc:103
+#: en/revolution/modules/armies/pages/skaven.adoc:105
 #, no-wrap
 msgid "include::partial$skaven.tsv[]\n"
 msgstr "include::partial$skaven.tsv[]\n"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:111
+#: en/revolution/modules/armies/pages/skaven.adoc:113
 #, no-wrap
 msgid "Strength in Numbers"
 msgstr "L'Union fait la Force"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:113
+#: en/revolution/modules/armies/pages/skaven.adoc:115
 msgid ""
 "Brigades may be of any size and are not restricted to the normal four unit "
 "maximum."
@@ -456,13 +447,13 @@ msgstr ""
 "limitées au maximum habituel de quatre unités."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:114
+#: en/revolution/modules/armies/pages/skaven.adoc:116
 #, no-wrap
 msgid "Vermintide"
 msgstr "Marée de Vermine"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:121
+#: en/revolution/modules/armies/pages/skaven.adoc:123
 msgid ""
 "Skaven units that win a round of combat can choose to pursue retreating "
 "enemy units regardless of troop type. Any Skaven units (including artillery) "
@@ -480,13 +471,13 @@ msgstr ""
 "armée. Par exemple, ils ne peuvent pas poursuivre lorsqu’ils sont fortifiés."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:122
+#: en/revolution/modules/armies/pages/skaven.adoc:124
 #, no-wrap
 msgid "Under the Lash"
 msgstr "La Loi du Fouet"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:127
+#: en/revolution/modules/armies/pages/skaven.adoc:129
 msgid ""
 "All Skaven characters have a Command range of 20cm whether General, Heroes "
 "or Wizards. Even Skaven Generals have a Command range of 20cm. Skaven are "
@@ -499,13 +490,13 @@ msgstr ""
 
 #. 4: Paragraph breaks added
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:135
+#: en/revolution/modules/armies/pages/skaven.adoc:137
 #, no-wrap
 msgid "[[jezzails,†1]]1. Jezzails"
 msgstr "[[jezzails,†1]]1. Jezzails"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:139
+#: en/revolution/modules/armies/pages/skaven.adoc:141
 msgid ""
 "Count enemy armour values as one worse than normal when shot by a jezzail. "
 "So, for example, an armour value of 3+ counts as 4+, 5+ counts as 6+, and 6+ "
@@ -516,13 +507,13 @@ msgstr ""
 "passe à 6+ et les Armures de 6+ sont inutiles contre un Jezzail."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:140
+#: en/revolution/modules/armies/pages/skaven.adoc:142
 #, no-wrap
 msgid "[[plague-monks,†2]]2. Plague Monks"
 msgstr "[[plague-monks,†2]]2. Moines de la Peste"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:146
+#: en/revolution/modules/armies/pages/skaven.adoc:148
 msgid ""
 "A unit of Plague Monks will always use its initiative to charge an enemy if "
 "possible and can’t be given orders instead. They will never use their "
@@ -538,7 +529,7 @@ msgstr ""
 "avancer s’ils sont en mesure de le faire."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:149
+#: en/revolution/modules/armies/pages/skaven.adoc:151
 msgid ""
 "Plague Monks are unaffected by enemies that cause terror in combat, they do "
 "not suffer the usual −1 Attack modifier."
@@ -547,13 +538,13 @@ msgstr ""
 "terreur et ne subissent pas le malus habituel de -1 Attaque."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:150
+#: en/revolution/modules/armies/pages/skaven.adoc:152
 #, no-wrap
 msgid "[[rat-swarms,†3]]3. Rat Swarms"
 msgstr "[[rat-swarms,†3]]3. Nuées de Rats"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:152
+#: en/revolution/modules/armies/pages/skaven.adoc:154
 msgid ""
 "Rat Swarms cannot be driven back by shooting and do not roll for drive backs."
 msgstr ""
@@ -561,7 +552,7 @@ msgstr ""
 "de jets de repoussement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:157
+#: en/revolution/modules/armies/pages/skaven.adoc:159
 msgid ""
 "A Rat Swarm stand cannot be supported by other kinds of infantry – only by "
 "other Rat Swarm stands. Note, however, that Rat Swarms can support other "
@@ -573,107 +564,63 @@ msgstr ""
 "les autres types d’infanterie."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:160
+#: en/revolution/modules/armies/pages/skaven.adoc:162
 msgid "A Rat Swarm cannot be given magic items."
 msgstr "Une Nuée de Rats ne peut pas recevoir d'objets magiques."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:161
+#: en/revolution/modules/armies/pages/skaven.adoc:163
 #, no-wrap
 msgid "[[gutter-runners,†4]]4. Gutter Runners"
 msgstr "[[gutter-runners,†4]]4. Coureurs d'Égouts"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:168
-msgid ""
-"Gutter Runners are armed with throwing stars and darts, and are therefore "
-"allowed to shoot as if they had bows, but their range is reduced to 15cm and "
-"have 360° vision – stands in this unit can draw line of sight from all edges "
-"for the purpose of evading and shooting, including shooting at charging "
-"enemies. Note that this unit still needs Line of Sight from its front edge "
-"to charge an enemy."
-msgstr ""
-"Les Coureurs d'Égouts sont armés d'étoiles de lancer et de dards, et peuvent "
-"tirer avec une portée de 15cm et une vision à 360° - c'est-à-dire que les "
-"socles de l'unité peuvent tracer une ligne de vue depuis n'importe quel bord "
-"de leur socle, ceci afin d'éviter ou de tirer, incluant le tir sur les "
-"ennemis en charge. Notez que l'unité a tout de même besoin d'avoir une Ligne "
-"de Vue depuis son bord avant pour charger un ennemi."
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:188
-msgid ""
-"In addition, Gutter Runners do not have to be deployed before the game if "
-"the player does not wish to do so. Instead individual units can be "
-"infiltrated onto the battlefield once the game has begun. To infiltrate a "
-"unit, the Skaven player nominates the point where he wants the Gutter "
-"Runners to appear and issues an ‘infiltration’ order from any character. The "
-"character does not have to be within his normal command range to issue an "
-"infiltration order – the character’s command range is considered to extend "
-"over the entire tabletop when issuing an infiltration order. Treat the order "
-"as issued to the nominated point, and apply any modifiers for distance and "
-"proximity of enemy, but ignore penalties for dense terrain. The nominated "
-"point must lie either on the table within dense terrain or on any base edge "
-"other than the enemy player’s own table edge. If successful, place one stand "
-"on the nominated spot and arrange the rest of the unit into formation around "
-"it. The infiltrated unit cannot be placed so that it touches an enemy unit. "
-"Once deployed, orders can be given to the unit by the same character that "
-"gave the infiltration order."
-msgstr ""
-"De plus, une unité de Coureurs d'Égouts n'a pas à être déployée au début de "
-"la bataille si le joueur le désire. À la place, l’unité peut s’infiltrer sur "
-"le champ de bataille une fois la partie commencée. Pour infiltrer une unité, "
-"le joueur Skaven désigne le point où il veut la faire apparaître et doit lui "
-"donner un ordre d’infiltration avec l’un de ses personnages. Le personnage "
-"ne tient pas compte des portées d’ordre pour donner l’ordre d’infiltration : "
-"on considère que sa portée d’ordre s’étend à l’ensemble du champ de bataille "
-"pour ce qui est de donner un tel ordre. Considérez que l’ordre est donné au "
-"point où l’unité doit apparaître, et appliquez tous les modificateurs de "
-"portée, de proximité de l’ennemi, etc. mais ignorez les pénalités dues au "
-"terrain difficile. Le point d’apparition de l'unité doit être situé en "
-"terrain dense ou sur un bord de table n’étant pas celui du joueur adverse. "
-"Si l’ordre d’infiltration est donné avec succès, placez un socle de l’unité "
-"sur le point indiqué et positionnez les autres en formation autour de celui-"
-"ci. L’unité infiltrée ne peut pas être placée de façon à toucher l’ennemi. "
-"Une fois qu’elle est déployée, elle peut recevoir des ordres du personnage "
-"qui a donné l’ordre d’infiltration."
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:196
+#: en/revolution/modules/armies/pages/skaven.adoc:167
 msgid ""
 "Skaven characters may ignore the Under the Lash rule when issuing orders to "
 "Gutter Runners. Treat the character as having the normal command range for "
-"their type. The infiltrating unit is considered to have used its first order "
-"to deploy. If the infiltration order is failed the unit is not deployed and "
-"cannot infiltrate that turn, it can attempt to infiltrate in a subsequent "
-"turn at the same or a different place."
+"their type."
 msgstr ""
-"Les personnages Skavens peuvent ignorer la règle La Loi du Fouet quand ils "
-"donnent des ordres aux Coureurs d'Égouts. Utilisez la portée normale de "
-"commandement pour le type du personnage. On considère que l'unité infiltrée "
-"a utilisé son premier ordre pour se déployer. Si l’ordre d’infiltration est "
-"un échec, l’unité n’est pas déployée et ne peut pas s’infiltrer lors de ce "
-"tour. Elle pourra essayer de nouveau lors d’un tour suivant, au même endroit "
-"ou en un autre lieu."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:199
+#: en/revolution/modules/armies/pages/skaven.adoc:177
+msgid ""
+"Once deployed, orders can be given to the unit by the same character that "
+"gave the infiltration order, [.edit]#ignoring the Under the Lash rule as "
+"usual for Gutter Runners#."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:180
 msgid "Gutter Runners don’t suffer the −1 Command penalty for Dense Terrain."
 msgstr ""
 "Les Coureurs d'Égouts ne subissent pas de pénalité de -1 au Commandement à "
 "cause du Terrain Difficile."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:200
+#: en/revolution/modules/armies/pages/skaven.adoc:181
 #, no-wrap
 msgid "[[warp-lightning-cannon,†5]]5. Warp Lightning Cannon"
 msgstr "[[warp-lightning-cannon,†5]]5. Canon à Malefoudre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:206
+#: en/revolution/modules/armies/pages/skaven.adoc:184
 msgid ""
-"The Warp Lightning Cannon has a range of 40cm and follows all the normal "
-"rules for artillery, but they can move up to 20cm. Half pace move is 10cm. "
+"The Warp Lightning Cannon follows the rules for xref:rules:artillery-and-"
+"machines.adoc#elven-bolt-thrower[Elven Bolt Throwers] in the Rulebook, but "
+"they can move up to 20cm. A half pace move is 10cm."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:189
+#, fuzzy
+#| msgid ""
+#| "The Warp Lightning Cannon has a range of 40cm and follows all the normal "
+#| "rules for artillery, but they can move up to 20cm. Half pace move is "
+#| "10cm. When making a shooting attack, any roll of double 1s to hit will "
+#| "cause the Warp Lightning Cannon unit to become confused. This includes "
+#| "stand and shoot attacks."
+msgid ""
 "When making a shooting attack, any roll of double 1s to hit will cause the "
 "Warp Lightning Cannon unit to become confused. This includes stand and shoot "
 "attacks."
@@ -684,18 +631,24 @@ msgstr ""
 "Canon à Malefoudre. Ceci inclut les tirs de contre-charge."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:207
+#: en/revolution/modules/armies/pages/skaven.adoc:190
 #, no-wrap
 msgid "[[doom-wheel,†6]]6. Doom Wheel"
 msgstr "[[doom-wheel,†6]]6. Roue Infernale"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:212
+#: en/revolution/modules/armies/pages/skaven.adoc:195
+#, fuzzy
+#| msgid ""
+#| "When the Doom Wheel charges against targets in the open it receives D6 "
+#| "bonus Attacks in addition to the normal +1 Attack for charging. Note that "
+#| "this bonus applies only when charging – not during pursuits, advances and "
+#| "not when the Doom Wheel is charged itself."
 msgid ""
 "When the Doom Wheel charges against targets in the open it receives D6 bonus "
 "Attacks in addition to the normal +1 Attack for charging. Note that this "
-"bonus applies only when charging – not during pursuits, advances and not "
-"when the Doom Wheel is charged itself."
+"bonus applies only when charging – not during pursuits, advances or when the "
+"Doom Wheel is charged itself."
 msgstr ""
 "Lorsqu’une Roue Infernale charge un ennemi à découvert, elle reçoit un bonus "
 "de +1D6 Attaques en plus du bonus habituel de +1 Attaque pour une charge. "
@@ -703,18 +656,18 @@ msgstr ""
 "poursuite, avance, ou si la Roue est chargée."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:214
+#: en/revolution/modules/armies/pages/skaven.adoc:197
 msgid "The Doom Wheel has a move of 20cm and causes terror."
 msgstr "La Roue Infernale dispose d’un mouvement de 20cm et cause la terreur."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:215
+#: en/revolution/modules/armies/pages/skaven.adoc:198
 #, no-wrap
 msgid "[[screaming-bell,†7]]7. Screaming Bell"
 msgstr "[[screaming-bell,†7]]7. Cloche Hurlante"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:223
+#: en/revolution/modules/armies/pages/skaven.adoc:206
 msgid ""
 "A Screaming Bell is a gargantuan device and therefore it uses a 40 × 60mm "
 "base, with the short edge being the front. It cannot move of its own accord "
@@ -733,7 +686,7 @@ msgstr ""
 "être repoussée par des tirs. Elle n’effectue pas de jets de repoussement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:230
+#: en/revolution/modules/armies/pages/skaven.adoc:213
 msgid ""
 "In combat it is automatically destroyed if forced to retreat but will "
 "pursue, advance and fall back so long as it is touching a Skaven infantry "
@@ -747,7 +700,7 @@ msgstr ""
 "car elle ne peut pas se déplacer toute seule."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:235
+#: en/revolution/modules/armies/pages/skaven.adoc:218
 msgid ""
 "All Skaven units touching the Screaming Bell are unaffected by the usual "
 "penalty for Terror whilst they remain so. In addition, any Skaven Hero or "
@@ -759,7 +712,7 @@ msgstr ""
 "autour de la Cloche Hurlante ajoute +1 à sa valeur de Commandement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:239
+#: en/revolution/modules/armies/pages/skaven.adoc:222
 msgid ""
 "Any enemy character within 30cm of the Screaming Bell deducts −1 from their "
 "Command value."
@@ -768,7 +721,7 @@ msgstr ""
 "subit une pénalité de -1 à sa valeur de Commandement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:242
+#: en/revolution/modules/armies/pages/skaven.adoc:225
 msgid ""
 "A Skaven army can only ever include a maximum of 1 Screaming Bell no matter "
 "how large."
@@ -777,13 +730,13 @@ msgstr ""
 "maximum, quelle que soit sa taille."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:243
+#: en/revolution/modules/armies/pages/skaven.adoc:226
 #, no-wrap
 msgid "[[grey-seer,†8]]8. Grey Seer"
 msgstr "[[grey-seer,†8]]8. Prophète Gris"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:246
+#: en/revolution/modules/armies/pages/skaven.adoc:229
 msgid ""
 "The Grey Seer is the army’s General and can use Skaven magic in the same "
 "manner as a Warlock and can be given a magic item restricted to either a "
@@ -794,13 +747,13 @@ msgstr ""
 "limités aux Généraux ou aux Sorciers."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/skaven.adoc:247
+#: en/revolution/modules/armies/pages/skaven.adoc:230
 #, no-wrap
 msgid "[[rat-ogre-bodyguard,†9]]9. Rat Ogre Bodyguard"
 msgstr "[[rat-ogre-bodyguard,†9]]9. Garde du Corps Rat Ogre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:250
+#: en/revolution/modules/armies/pages/skaven.adoc:233
 msgid ""
 "The Grey Seer, Heroes and Warlocks can have a Rat Ogre Bodyguard. A "
 "character with a bodyguard adds +1 to his Attacks."
@@ -809,19 +762,19 @@ msgstr ""
 "Rat Ogre. Ce personnage ajoute +1 à sa valeur d'Attaques."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/skaven.adoc:255
+#: en/revolution/modules/armies/pages/skaven.adoc:238
 #, no-wrap
 msgid "Skaven spells"
 msgstr "Sorts Skavens"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:258
+#: en/revolution/modules/armies/pages/skaven.adoc:241
 #, no-wrap
 msgid "Wither"
 msgstr "Flétrissement"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:264
+#: en/revolution/modules/armies/pages/skaven.adoc:247
 msgid ""
 "_Chanting a vile curse, the caster inflicts a wasting, shrinking sickness on "
 "the enemy._"
@@ -830,13 +783,13 @@ msgstr ""
 "débilitante à l'ennemi._"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:273
+#: en/revolution/modules/armies/pages/skaven.adoc:256
 #, no-wrap
 msgid "Warp Lightning"
 msgstr "Malefoudre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:279
+#: en/revolution/modules/armies/pages/skaven.adoc:262
 msgid ""
 "_An arc of pure warp energy strikes the foe wreaking strange changes, "
 "melting flesh and twisting bone into monstrous forms._"
@@ -846,7 +799,7 @@ msgstr ""
 "de monstrueuses formes ._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:288
+#: en/revolution/modules/armies/pages/skaven.adoc:271
 msgid ""
 "Warp Lightning is treated like three ordinary shooting attacks except that "
 "armour has no effect (all targets count as having no armour). A unit can be "
@@ -858,13 +811,13 @@ msgstr ""
 "repoussée comme par des tirs ordinaires."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:290
+#: en/revolution/modules/armies/pages/skaven.adoc:273
 #, no-wrap
 msgid "Death Frenzy"
 msgstr "Frénésie Mortelle"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:297
+#: en/revolution/modules/armies/pages/skaven.adoc:280
 msgid ""
 "_The Skaven screams a blasphemous litany to the Horned Rat driving the "
 "Skaven masses into a frenzy of warpdust fuelled destruction._"
@@ -873,7 +826,17 @@ msgstr ""
 "masses Skavens de fureur sanguinaire et d'appétit de destruction._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:317
+#: en/revolution/modules/armies/pages/skaven.adoc:284
+msgid ""
+"This spell can be cast upon a friendly unit that is engaged in combat and "
+"which is within range. The Wizard does not have to be able to see the target "
+"to cast the spell."
+msgstr ""
+"Ce sort peut être lancé sur une unité amie à portée et engagée au combat. Le "
+"Sorcier n’est pas obligé de voir sa cible pour lancer le sort."
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/skaven.adoc:300
 msgid ""
 "The unit gains bonus Death Frenzy attacks for the following combat phase. To "
 "determine the number of bonus attacks roll one D6 at a time and add the "
@@ -898,23 +861,27 @@ msgstr ""
 "sont résolues que lors du premier round de combat, pas lors des suivants."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:321
+#: en/revolution/modules/armies/pages/skaven.adoc:304
+#, fuzzy
+#| msgid ""
+#| "Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. "
+#| "1+4+1 = 6 Attacks upon the Skaven unit in the first round."
 msgid ""
-"Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. 1+4+1 "
-"= 6 Attacks upon the Skaven unit in the first round."
+"Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. "
+"1 + 4 + 1 = 6 Attacks upon the Skaven unit in the first round."
 msgstr ""
 "Par exemple : 1 + 4 + 6 = 11 Attaques supplémentaires pour l’unité Skaven à "
 "chaque round. 1 + 4 + 1 = 6 Attaques infligées à l’unité Skaven durant le "
 "premier round de combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/skaven.adoc:323
+#: en/revolution/modules/armies/pages/skaven.adoc:306
 #, no-wrap
 msgid "Plague"
 msgstr "Peste"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:331
+#: en/revolution/modules/armies/pages/skaven.adoc:314
 msgid ""
 "_A swirling could of virulence envelopes the enemy troops causing their "
 "bodies to erupt in pustules, their skins to split apart with running sores, "
@@ -926,7 +893,7 @@ msgstr ""
 "gonflent tandis que leurs cheveux s’emplissent de vermine._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:335
+#: en/revolution/modules/armies/pages/skaven.adoc:318
 msgid ""
 "This spell can be cast on any unengaged enemy unit within range regardless "
 "of whether the Wizard can see it or not. The spell cannot be cast on a unit "
@@ -937,13 +904,82 @@ msgstr ""
 "combat."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/skaven.adoc:339
+#: en/revolution/modules/armies/pages/skaven.adoc:322
 msgid ""
 "The unit suffers six attacks worked out in the usual way. A unit cannot be "
 "driven back by Plague (the vile Plague erupts from within!)."
 msgstr ""
 "L’unité subit six Attaques résolues de la manière habituelle. Une unité ne "
 "peut pas être repoussée par la Peste (l’épidémie frappe en son sein même !)."
+
+#~ msgid ""
+#~ "Gutter Runners are armed with throwing stars and darts, and are therefore "
+#~ "allowed to shoot as if they had bows, but their range is reduced to 15cm "
+#~ "and have 360° vision – stands in this unit can draw line of sight from "
+#~ "all edges for the purpose of evading and shooting, including shooting at "
+#~ "charging enemies. Note that this unit still needs Line of Sight from its "
+#~ "front edge to charge an enemy."
+#~ msgstr ""
+#~ "Les Coureurs d'Égouts sont armés d'étoiles de lancer et de dards, et "
+#~ "peuvent tirer avec une portée de 15cm et une vision à 360° - c'est-à-dire "
+#~ "que les socles de l'unité peuvent tracer une ligne de vue depuis "
+#~ "n'importe quel bord de leur socle, ceci afin d'éviter ou de tirer, "
+#~ "incluant le tir sur les ennemis en charge. Notez que l'unité a tout de "
+#~ "même besoin d'avoir une Ligne de Vue depuis son bord avant pour charger "
+#~ "un ennemi."
+
+#~ msgid ""
+#~ "In addition, Gutter Runners do not have to be deployed before the game if "
+#~ "the player does not wish to do so. Instead individual units can be "
+#~ "infiltrated onto the battlefield once the game has begun. To infiltrate a "
+#~ "unit, the Skaven player nominates the point where he wants the Gutter "
+#~ "Runners to appear and issues an ‘infiltration’ order from any character. "
+#~ "The character does not have to be within his normal command range to "
+#~ "issue an infiltration order – the character’s command range is considered "
+#~ "to extend over the entire tabletop when issuing an infiltration order. "
+#~ "Treat the order as issued to the nominated point, and apply any modifiers "
+#~ "for distance and proximity of enemy, but ignore penalties for dense "
+#~ "terrain. The nominated point must lie either on the table within dense "
+#~ "terrain or on any base edge other than the enemy player’s own table edge. "
+#~ "If successful, place one stand on the nominated spot and arrange the rest "
+#~ "of the unit into formation around it. The infiltrated unit cannot be "
+#~ "placed so that it touches an enemy unit. Once deployed, orders can be "
+#~ "given to the unit by the same character that gave the infiltration order."
+#~ msgstr ""
+#~ "De plus, une unité de Coureurs d'Égouts n'a pas à être déployée au début "
+#~ "de la bataille si le joueur le désire. À la place, l’unité peut "
+#~ "s’infiltrer sur le champ de bataille une fois la partie commencée. Pour "
+#~ "infiltrer une unité, le joueur Skaven désigne le point où il veut la "
+#~ "faire apparaître et doit lui donner un ordre d’infiltration avec l’un de "
+#~ "ses personnages. Le personnage ne tient pas compte des portées d’ordre "
+#~ "pour donner l’ordre d’infiltration : on considère que sa portée d’ordre "
+#~ "s’étend à l’ensemble du champ de bataille pour ce qui est de donner un "
+#~ "tel ordre. Considérez que l’ordre est donné au point où l’unité doit "
+#~ "apparaître, et appliquez tous les modificateurs de portée, de proximité "
+#~ "de l’ennemi, etc. mais ignorez les pénalités dues au terrain difficile. "
+#~ "Le point d’apparition de l'unité doit être situé en terrain dense ou sur "
+#~ "un bord de table n’étant pas celui du joueur adverse. Si l’ordre "
+#~ "d’infiltration est donné avec succès, placez un socle de l’unité sur le "
+#~ "point indiqué et positionnez les autres en formation autour de celui-ci. "
+#~ "L’unité infiltrée ne peut pas être placée de façon à toucher l’ennemi. "
+#~ "Une fois qu’elle est déployée, elle peut recevoir des ordres du "
+#~ "personnage qui a donné l’ordre d’infiltration."
+
+#~ msgid ""
+#~ "Skaven characters may ignore the Under the Lash rule when issuing orders "
+#~ "to Gutter Runners. Treat the character as having the normal command range "
+#~ "for their type. The infiltrating unit is considered to have used its "
+#~ "first order to deploy. If the infiltration order is failed the unit is "
+#~ "not deployed and cannot infiltrate that turn, it can attempt to "
+#~ "infiltrate in a subsequent turn at the same or a different place."
+#~ msgstr ""
+#~ "Les personnages Skavens peuvent ignorer la règle La Loi du Fouet quand "
+#~ "ils donnent des ordres aux Coureurs d'Égouts. Utilisez la portée normale "
+#~ "de commandement pour le type du personnage. On considère que l'unité "
+#~ "infiltrée a utilisé son premier ordre pour se déployer. Si l’ordre "
+#~ "d’infiltration est un échec, l’unité n’est pas déployée et ne peut pas "
+#~ "s’infiltrer lors de ce tour. Elle pourra essayer de nouveau lors d’un "
+#~ "tour suivant, au même endroit ou en un autre lieu."
 
 #~ msgid ""
 #~ "A Screaming Bell is a gargantuan device and therefore it uses a 40 × 60mm "

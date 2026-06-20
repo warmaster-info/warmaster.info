@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -19,73 +19,76 @@ msgstr ""
 "X-Generator: Weblate 5.12.2\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:123
-#: en/revolution/modules/armies/pages/araby.adoc:114
-#: en/revolution/modules/armies/pages/beastmen.adoc:87
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/albion.adoc:121
+#: en/revolution/modules/armies/pages/araby.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:88
+#: en/revolution/modules/armies/pages/beastmen.adoc:98
 #: en/revolution/modules/armies/pages/bretonnia.adoc:117
 #: en/revolution/modules/armies/pages/bretonnia.adoc:133
-#: en/revolution/modules/armies/pages/cathay.adoc:117
-#: en/revolution/modules/armies/pages/cathay.adoc:130
-#: en/revolution/modules/armies/pages/chaos.adoc:104
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
-#: en/revolution/modules/armies/pages/daemons.adoc:96
-#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:131
+#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:113
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/daemons.adoc:142
 #: en/revolution/modules/armies/pages/dark-elves.adoc:117
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
-#: en/revolution/modules/armies/pages/dwarfs.adoc:121
-#: en/revolution/modules/armies/pages/empire.adoc:99
-#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:123
+#: en/revolution/modules/armies/pages/dwarfs.adoc:123
+#: en/revolution/modules/armies/pages/empire.adoc:100
+#: en/revolution/modules/armies/pages/goblins.adoc:111
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
-#: en/revolution/modules/armies/pages/kislev.adoc:101
-#: en/revolution/modules/armies/pages/lizardmen.adoc:117
-#: en/revolution/modules/armies/pages/lizardmen.adoc:130
-#: en/revolution/modules/armies/pages/nippon.adoc:119
-#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/kislev.adoc:103
+#: en/revolution/modules/armies/pages/lizardmen.adoc:120
+#: en/revolution/modules/armies/pages/lizardmen.adoc:133
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/nippon.adoc:139
 #: en/revolution/modules/armies/pages/norse.adoc:83
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
-#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:104
+#: en/revolution/modules/armies/pages/orcs.adoc:121
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
-#: en/revolution/modules/armies/pages/skaven.adoc:106
-#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/skaven.adoc:131
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:123
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:104
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:129
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:113
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
-#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:115
+#: en/revolution/modules/rules/pages/battlefields.adoc:258
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
-#: en/revolution/modules/rules/pages/battlefields.adoc:448
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
+#: en/revolution/modules/rules/pages/battlefields.adoc:438
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
+#: en/revolution/modules/rules/pages/battlefields.adoc:526
+#: en/revolution/modules/rules/pages/battlefields.adoc:603
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/battlefields.adoc:215
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1588
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1593
 #, no-wrap
 msgid "Scenarios"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:12
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:6
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:11
 #, no-wrap
 msgid "Introduction"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/characters.adoc:308
-#: en/revolution/modules/rules/pages/command.adoc:572
-#: en/revolution/modules/rules/pages/movement.adoc:372
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:867
+#: en/revolution/modules/rules/pages/command.adoc:576
+#: en/revolution/modules/rules/pages/movement.adoc:378
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:872
 #, no-wrap
 msgid "Character movement"
 msgstr "Mouvement des personnages"
@@ -93,7 +96,7 @@ msgstr "Mouvement des personnages"
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:64
 #: en/revolution/modules/rules/pages/shooting.adoc:2
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:154
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:159
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:77
 #, no-wrap
 msgid "Shooting"
@@ -101,14 +104,14 @@ msgstr "Tir"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/magic.adoc:2
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:883
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:888
 #, no-wrap
 msgid "Magic"
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/movement.adoc:2
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:98
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:103
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:61
 #, no-wrap
 msgid "Movement"
@@ -116,7 +119,7 @@ msgstr ""
 
 #. type: Title ====
 #: en/revolution/modules/rules/pages/shooting.adoc:541
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1704
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1709
 #, no-wrap
 msgid "Special situations"
 msgstr ""
@@ -127,8 +130,13 @@ msgstr ""
 msgid "Siege & Fortresses"
 msgstr ""
 
+#. type: delimited block = 4
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:7
+msgid "This section has not yet been updated to the 2.1.0 (2026) rules."
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:15
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:20
 msgid ""
 "In the game of Warmaster it is possible to represent fortresses, walls, "
 "towers, castles and even entire cities on the tabletop by means of "
@@ -138,7 +146,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:25
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:30
 msgid ""
 "In our Siege game system defenders and attackers will have to pay points for "
 "each part of fortification and Siege equipment and of course for their "
@@ -150,7 +158,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:31
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:36
 msgid ""
 "Big Sieges usually lasted weeks or even years, [.edit]#but these rules allow "
 "for actions like bombardments to take place within a single playing "
@@ -158,20 +166,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:34
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:39
 msgid ""
 "That does not mean that [.edit]#longer# Siege Campaigns cannot be supported "
 "by these rules. Special scenarios or campaigns might still follow."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:37
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:42
 #, no-wrap
 msgid "Model fortresses"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:47
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:52
 msgid ""
 "Walls, castles and towers can be handmade from card, plastic, balsa or "
 "similar materials. The small scale of Warmaster models means that it is "
@@ -183,7 +191,7 @@ msgstr ""
 
 #.  added when
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:60
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:65
 msgid ""
 "When making walls or towers for a castle or fortress where troop stands will "
 "be deployed it is necessary to make sure that the walkways are sufficiently "
@@ -197,13 +205,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:63
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:68
 #, no-wrap
 msgid "General siege rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:71
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:76
 msgid ""
 "Generally in siege scenarios the Breakpoint for both armies is ignored. The "
 "game will only end when either one of the generals dies or when the turn "
@@ -212,7 +220,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:77
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:82
 msgid ""
 "When deciding to play a siege game the defender [.edit]#selects# their "
 "units, fortifications and siege equipment first. The attacker may then spend "
@@ -222,7 +230,7 @@ msgstr ""
 
 #.  Edit you tend to find → tend to be found
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:86
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:91
 msgid ""
 "Additionally, [.edit]#the defender’s maximum unit limits are determined by "
 "rounding up to the nearest 1000 points#.  For example, a 1500 points army "
@@ -234,7 +242,7 @@ msgstr ""
 #.  TODO Where are towers defined in the rulebook?
 #.  Removed as I can't find it in any other section of the rulebook:
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:91
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:96
 msgid ""
 "When the rules refer to a wall, this means a wall section between 40 and "
 "50mm wide. When they refer to a tower, this includes the entirety of the "
@@ -242,7 +250,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:104
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:109
 msgid ""
 "High walls, tall towers and substantial tall buildings are considered to "
 "block the movement of all but flying units.  Troops are therefore obliged to "
@@ -250,7 +258,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:109
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:114
 msgid ""
 "Only [.edit]#standard# infantry and artillery can man the ramparts of a "
 "fortress. Cavalry, chariots, monsters, machines and infantry based in the "
@@ -258,7 +266,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:116
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:121
 msgid ""
 "Infantry and artillery stands can move up, onto, or [.edit]#down from# the "
 "defender’s side of ramparts as normal. It is assumed there are sufficient "
@@ -269,7 +277,7 @@ msgstr ""
 
 #.  base → stand
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:125
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:130
 msgid ""
 "Wall sections or towers work like extensions of stands upon them. If more "
 "than half of a stand is on a wall section its control area extends to the "
@@ -280,7 +288,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:137
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:142
 msgid ""
 "Up to four units placed on adjacent wall sections or towers may be moved as "
 "a brigade, even if the units themselves do not touch each other. This "
@@ -293,7 +301,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:144
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:149
 msgid ""
 "Infantry stands from an attacking force can move over a wall and onto "
 "unoccupied ramparts as long as they are equipped with ladders or similar to "
@@ -302,7 +310,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:148
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:153
 msgid ""
 "In most cases attackers will be forced to fight defending troops before they "
 "are able to move onto the ramparts.  This is explained further under "
@@ -311,7 +319,7 @@ msgstr ""
 
 #.  Hardly necessary
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:163
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:168
 msgid ""
 "Fortress walls, towers and gateways are sturdy constructions, "
 "[.edit]#impervious to arrows and light shot#.  They can only be damaged by "
@@ -327,7 +335,7 @@ msgstr ""
 #. Chukkas are assumed to be able to throw stones in the
 #. same way as an Orc Rock Lobber.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:175
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:180
 msgid ""
 "To breach a wall or gateway or to collapse a tower you must shoot at it with "
 "a unit of suitable artillery or machines.  Each 40 to 50mm long section of "
@@ -337,7 +345,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:184
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:189
 msgid ""
 "When shooting at a wall, gate or tower it is not necessary to shoot at the "
 "closest target, as is normally the case with missile fire, as the besiegers "
@@ -348,7 +356,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:190
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:195
 msgid ""
 "If you wish to shoot at troops on ramparts of walls or towers then the "
 "normal shooting rules apply and no account is made of damage on the wall or "
@@ -357,28 +365,28 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:193
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:198
 msgid ""
 "As fortresses are difficult to damage, a wall, gateway or tower counts as "
 "fortified (6 to hit) but has no armour."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:196
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:201
 msgid ""
 "Units on ramparts and towers can shoot over friendly troops on lower "
 "ramparts or the ground."
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:201
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:222
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:206
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:227
 #, no-wrap
 msgid "Structure tests"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:207
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:212
 msgid ""
 "To resolve the effect of hits on a wall, gate or tower first roll to hit as "
 "normal. At the end of the Shooting phase make a Structure Test by rolling a "
@@ -387,7 +395,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:212
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:217
 msgid ""
 "If the result is higher than the Structure Resistance of the building it is "
 "destroyed.  (This is similar to a Drive Rack roll, but without the movement "
@@ -395,14 +403,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:216
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:221
 msgid ""
 "Otherwise, add a Destruction Token to the building.  A maximum of one "
 "Destruction Token may be added for each round of successful shooting."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:221
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:226
 msgid ""
 "If there are Destruction Tokens on a building it must make a Structure Test "
 "at the end of the attacker’s Shooting phase, even if it took no hits in the "
@@ -410,7 +418,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:233
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:238
 msgid ""
 "Brognak, the orcish leader lets his two Rock Lobbers shoot at the gateway of "
 "the city of Hundstadt he is besieging. The results are 1–3–4–6–6–6. As any "
@@ -422,14 +430,14 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:237
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:242
 msgid ""
 "Next round Brognak only rolls one 6; even with the Destruction Token from "
 "the last round 2D6 is insufficient to break the gate."
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:247
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:252
 msgid ""
 "After 5 rounds of shooting the gate still stands but there are 4 Destruction "
 "Tokens on it. This round all the shots miss and Brognak is thinking of "
@@ -440,7 +448,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:254
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:259
 msgid ""
 "Once a wall is breached the entire 40 to 50mm long section is destroyed and "
 "collapses. Any stand on the rampart is destroyed. Where practical, the wall "
@@ -449,7 +457,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:259
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:264
 msgid ""
 "Once a gateway is breached, the gate is assumed to have been blown apart. A "
 "stand on a rampart above the gate is not affected as it is the gate that is "
@@ -457,7 +465,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:264
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:269
 msgid ""
 "As with walls, any stand on the rampart or inside a tower is destroyed when "
 "it collapses. Where practical, the tower should be replaced with model "
@@ -465,14 +473,14 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:267
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:308
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:272
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:313
 #, no-wrap
 msgid "Battering"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:285
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:290
 msgid ""
 "Walls, towers and gates can also be breached by means of <<battering-rams>> "
 "or similar. First the battering unit ‘charges’ the targeted part of the "
@@ -491,7 +499,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:294
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:299
 msgid ""
 "If the wall or gate fails the test it collapses. In the following combat "
 "phase the battering unit may proceed as if it had destroyed its first unit "
@@ -502,7 +510,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:300
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:305
 msgid ""
 "In the case of destroyed gateways, units defending from above may not use "
 "boiling oil or similar attacks against the battering unit anymore as they "
@@ -511,21 +519,21 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:304
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:309
 msgid ""
 "If the structure is not destroyed by the battering attack add another "
 "Destruction Token and fall back 10cm with the battering unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:307
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:312
 msgid ""
 "Giants can also batter a wall with their clubs but no other monster is "
 "sufficiently large to do so."
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:322
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:327
 msgid ""
 "One tower seems to be especially resistant.  Although the orcish rock "
 "lobbers [.edit]#hurled# load after load at the solid stone building it still "
@@ -540,14 +548,14 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:328
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:364
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:333
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:369
 #, no-wrap
 msgid "Breaches"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:335
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:340
 msgid ""
 "When a breach is caused, either by the destruction of a wall section or a "
 "tower, remove the [.edit]#destroyed part# of the fortification (if possible) "
@@ -555,7 +563,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:341
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:346
 msgid ""
 "In certain cases you will find that a breach caused in a wall or tower will "
 "destroy stands from a unit, possibly even destroying a stand in the middle "
@@ -565,7 +573,7 @@ msgstr ""
 
 #.  TODO This is really unclear!
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:353
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:358
 msgid ""
 "In that case count the number of wounds the lost stand had and proceed as if "
 "the unit [.edit]#had# taken that many wounds by shooting. For example, a "
@@ -578,7 +586,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:363
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:368
 msgid ""
 "Units attacking units in a breach are not drawn into combat with any units "
 "on adjacent standing wall sections.  The reverse is also the case, in that "
@@ -590,7 +598,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:372
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:377
 msgid ""
 "The last wall section of three has been breached by Brognak’s rock lobbers. "
 "The orc warriors charge the stand of halberdiers that is defending the "
@@ -610,7 +618,7 @@ msgstr ""
 #. movement.
 #.  Moved here from next section
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:396
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:401
 msgid ""
 "A breach in a wall or collapsed tower can be moved through by infantry, "
 "cavalry or monsters. Any unit [.edit]#wishing# to cross the breach must stop "
@@ -624,7 +632,7 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:402
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:407
 #, no-wrap
 msgid "Gateways"
 msgstr ""
@@ -633,7 +641,7 @@ msgstr ""
 #.  the doorway or gateway is the space into which it is fitted.
 #.  door → doorway etc.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:415
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:420
 msgid ""
 "Walls can have entrances of two broadly different sizes: large gateways and "
 "smaller doorways or gateways, such as postern gates and sally ports. The "
@@ -647,7 +655,7 @@ msgstr ""
 #.  Here gateway → gate :)
 #.  Peeping holes → peepholes
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:427
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:432
 msgid ""
 "Intact gates and doors are assumed to block [.edit]#line of# sight for the "
 "attackers. This means that an attacking unit will not be able to move "
@@ -661,7 +669,7 @@ msgstr ""
 #.  Second describe MOVEMENT
 #.  Brought forward
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:433
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:438
 msgid ""
 "Characters and units move through gateways without any reduction to their "
 "movement. Giants are assumed to stoop if necessary!"
@@ -669,7 +677,7 @@ msgstr ""
 
 #.  horses → mounts
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:440
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:445
 msgid ""
 "Small doorways can be moved through by friendly infantry or cavalry and "
 "appropriate characters. Monsters, artillery, machines and chariots cannot "
@@ -681,7 +689,7 @@ msgstr ""
 #. Units moving through a small door or gate suffer no
 #. reduction in their movement but
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:450
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:455
 msgid ""
 "A maximum of three troop stands [.edit]#(typically a single unit)# and any "
 "number of character stands can pass through [.edit]#each small doorway or "
@@ -693,7 +701,7 @@ msgstr ""
 #.  counts as → remains
 #.  own → friendly
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:468
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:473
 msgid ""
 "Friendly units and characters can move through closed gateways without "
 "penalty. It is assumed that they have the wits to open them beforehand and "
@@ -712,7 +720,7 @@ msgstr ""
 #.  Removed  (for providing better playability).
 #.  being → positioned
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:478
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:483
 msgid ""
 "[.edit]#If# a gateway in a wall is destroyed remove the appropriate wall "
 "section.  Any units positioned on that sector are not destroyed but placed "
@@ -722,7 +730,7 @@ msgstr ""
 
 #.  Remove /shoots
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:487
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:492
 msgid ""
 "Gateways in towers are treated differently. The attacker has to choose if he "
 "attacks at the gateway or the tower. If the gateway is destroyed, attackers "
@@ -732,13 +740,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:492
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:497
 #, no-wrap
 msgid "Assaults"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:501
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:506
 msgid ""
 "It is possible for infantry to attack an enemy on the ramparts of a "
 "fortress’ walls but not enemy on towers, as these are too high to reach. "
@@ -748,7 +756,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:509
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:514
 msgid ""
 "Infantry can also attack a rampart from <<siege-towers>> as discussed later. "
 "In both cases this is called an assault.  Only infantry can assault. Except "
@@ -758,7 +766,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:515
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:520
 msgid ""
 "Infantry units can make an assault by charging up to the base of the "
 "defended fortress walls. The assaulting units do not have to form a battle "
@@ -767,7 +775,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:521
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:526
 msgid ""
 "As fortress models will never exactly match the size of a base it is "
 "necessary to adjust the normal rules concerning base to base contact in "
@@ -777,7 +785,7 @@ msgstr ""
 
 #.  "cross" assumed to be "corner-to-corner"
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:528
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:533
 msgid ""
 "If a wall section is assaulted, the nearest units on adjacent wall sections "
 "may make stand and shoot attacks (even if the units on that section do not "
@@ -787,7 +795,7 @@ msgstr ""
 
 #.  Avoid word "support"
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:540
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:545
 msgid ""
 "Units in towers are a bit different. As towers are built to provide extra "
 "defences, all units in a tower may [.edit]#stand and shoot at enemy# "
@@ -800,13 +808,13 @@ msgstr ""
 
 #.  Wording tweaked.
 #. type: Block title
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:542
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:547
 #, no-wrap
 msgid "When unit 1 attacks B, the Cannons A on the tower, and units B and C, may Stand and Shoot. Cannons D may not Stand and Shoot as they are not adjacent to the attacked wall section (and will not be in combat contact of course). Units B and C will be in combat contact with 1. pass:[<br>] Cannons A cannot Stand and Shoot unit 2 as that is the second attacking unit."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:552
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:557
 msgid ""
 "Towers may also use their special “Stand and Shoot” ability against "
 "attackers with Sows, Siege Towers or Battering Rams. Those attackers "
@@ -816,7 +824,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:560
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:565
 msgid ""
 "During an assault, no account is made for the effect of supporting stands "
 "for either side. In the dangerous, cramped and confused melee of an assault "
@@ -827,7 +835,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:565
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:570
 msgid ""
 "Missile armed defenders can shoot at troops making an assault in the same "
 "way as at troops making a charge.  Any hits inflicted are carried over and "
@@ -835,7 +843,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:573
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:578
 msgid ""
 "If the attackers win the combat round, their assault has succeeded. Beaten "
 "defenders must retreat down from the ramparts and away from their enemy. "
@@ -845,7 +853,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:579
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:584
 msgid ""
 "Victorious units automatically move stands onto the empty ramparts. If the "
 "unit won’t fit on the ramparts, some stands must be left at the base of the "
@@ -854,7 +862,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:584
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:589
 msgid ""
 "In the event of a draw, the combat is deemed unresolved and carries on in "
 "the next combat phase. The assaulting units invested too much effort to "
@@ -862,7 +870,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:589
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:594
 msgid ""
 "If the defenders win the combat then the attackers are thrown back and must "
 "retreat in the usual manner.  The defenders remain in place. Defenders will "
@@ -870,13 +878,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:592
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:597
 #, no-wrap
 msgid "Counter attacks on ramparts"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:599
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:604
 msgid ""
 "Once attackers have taken a fortress’ walls it is likely that their enemies "
 "will counter charge. Stands holding the ramparts of walls against attacks "
@@ -886,7 +894,7 @@ msgstr ""
 
 #.  Remove 'it may occur, in the odd situation, that'
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:612
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:617
 msgid ""
 "Sometimes two opposing units end their movement side-by-side on adjacent "
 "ramparts with no line of sight to each other.  It seems quite impossible in "
@@ -899,7 +907,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:621
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:626
 msgid ""
 "If a unit upon a rampart is charged from an adjacent tower or rampart "
 "section it is assumed that the attackers attack in the open and get a +1 "
@@ -911,7 +919,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:631
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:636
 msgid ""
 "In this situation, a unit defending ramparts will be destroyed if it is "
 "defeated and obliged to retreat because it has nowhere to go (except over "
@@ -923,13 +931,13 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:632
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:637
 #, no-wrap
 msgid "Attacks on ramparts"
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:638
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:643
 msgid ""
 "A unit of Chaos Ogres manages to take three rampart sections. At one end of "
 "the rampart is a tower manned by Bowmen. At the other end are further "
@@ -937,7 +945,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:643
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:648
 msgid ""
 "In their next [.edit]#turn# the Bowmen in the tower may charge the Ogres "
 "using initiative, since units in towers have 360 degree [.edit]#vision#. The "
@@ -945,7 +953,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:648
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:653
 msgid ""
 "[.edit]#When these units do so,# they are placed flank-to-flank with the "
 "Ogres as there is no room to place them [.edit]#face-to-face, but neither "
@@ -953,7 +961,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:656
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:661
 msgid ""
 "The result of the Bowmen’s four attacks is 6–6–3–2, the Men-at-arms’ is 6–4–"
 "3–2, and the ogres save none. The Ogres hit the Bowmen with 6–5–1–1 and the "
@@ -963,14 +971,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:662
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:667
 #, no-wrap
 msgid "Giants"
 msgstr ""
 
 #.  "Warhammer" changed to "Warmaster"
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:677
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:682
 msgid ""
 "Because they are so tall, Giants can attack troops on ramparts. However, "
 "they are too heavy and clumsy to scale the walls of a fortress and the "
@@ -984,7 +992,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:682
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:687
 msgid ""
 "A Giant can fight against an [.edit]#enemy# unit on the rampart of a "
 "fortress wall but can’t pursue should the enemy retreat. Although he can "
@@ -992,7 +1000,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:689
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:694
 msgid ""
 "Giants can use their clubs to batter in the same way as a Battering Ram. A "
 "Giant can only do this if there are no troops on the ramparts that he can "
@@ -1002,14 +1010,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:692
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:697
 #, no-wrap
 msgid "Towers"
 msgstr ""
 
 #.  Mistaken paragraph break removed
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:705
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:710
 msgid ""
 "Towers are usually the most important element of any defensive structure. "
 "They are very tough to knock down and incredibly difficult to assault, "
@@ -1021,7 +1029,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:716
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:721
 msgid ""
 "The number of stands that a tower can hold is determined by its base area. "
 "The standard tower as defined in the defender’s fortification list has "
@@ -1034,7 +1042,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:723
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:728
 msgid ""
 "Free-standing lone towers only have one facing that can be attacked in this "
 "way. Whichever facing this is must be declared by the defender before the "
@@ -1043,7 +1051,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:730
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:735
 msgid ""
 "Towers that are part of [.edit]#larger# fortifications are assumed to have "
 "an entrance at every facing and level linked to another fortress section. So "
@@ -1052,7 +1060,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:742
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:747
 msgid ""
 "Missile units in towers count as having a 360° fire arc.  This means that "
 "they [.edit]#must# target the closest eligible enemy unit to the tower if "
@@ -1066,7 +1074,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:751
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:756
 msgid ""
 "When assaulting a tower in this way only one stand may attack each facing of "
 "the tower (usually only one or two are eligible in this way). These must be "
@@ -1077,7 +1085,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:762
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:767
 msgid ""
 "[.edit]#When charged#, the defending stands in a tower count as fortified. "
 "If the attacker wins the first round of combat it is assumed that troops "
@@ -1090,7 +1098,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:770
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:775
 msgid ""
 "In the case of a tower that holds more than one unit, the defender chooses "
 "which unit takes the attack. This unit [.edit]#handles# all attacks until it "
@@ -1101,7 +1109,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:775
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:780
 msgid ""
 "If the attacker manages to wipe out the first defending unit he may advance "
 "once into the next defending unit and the whole assault begins anew with the "
@@ -1109,7 +1117,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:780
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:785
 msgid ""
 "If the attackers lose a round of combat they are placed outside the tower’s "
 "wall as if it would have been the front edge of the attacked unit. So a unit "
@@ -1117,7 +1125,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:787
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:792
 msgid ""
 "Other than this, all the normal rules regarding attacking fortifications "
 "stand. For example, if by some miracle the attacking troops do manage to "
@@ -1127,14 +1135,14 @@ msgid ""
 msgstr ""
 
 #. type: Block title
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:788
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:793
 #, no-wrap
 msgid "Defending a tower"
 msgstr ""
 
 #.  Capital letter Sylvanian
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:795
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:800
 msgid ""
 "Manfred von Hornberg, commander of a lonely watchtower at the Sylvanian "
 "border is attacked by a Vampire horde. The tower is defended by a unit of "
@@ -1142,7 +1150,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:807
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:812
 msgid ""
 "First a unit of grave guards attacks the entrance of the tower. They are "
 "welcomed by 8 shooting attacks from the helblaster and another 4 shots by "
@@ -1155,7 +1163,7 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:818
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:823
 msgid ""
 "The grave guards attack 3 times and roll a total of three 6s, the bats roll "
 "another 6. The cannon wounds the guards and the bats once. The grave guards "
@@ -1167,13 +1175,13 @@ msgid ""
 msgstr ""
 
 #. type: delimited block = 4
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:821
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:826
 msgid ""
 "Manfred von Hornberg sighs in relief, but knows the worst is yet to come."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:831
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:836
 msgid ""
 "Gateway towers are exactly like all other towers with the one exception that "
 "a gate leads through it. The gate may be attacked on its own and the "
@@ -1182,13 +1190,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:836
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:841
 #, no-wrap
 msgid "Flyers attacking fortifications"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:845
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:850
 msgid ""
 "Flyers may attack fortified targets in the same way as infantry, hitting on "
 "6s with no charge bonus. They may never occupy fortifications and thus if "
@@ -1198,7 +1206,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:852
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:857
 msgid ""
 "Flyers are unique in that they are the only units that can actually attack "
 "units stationed in a tower without having to do so from the courtyard or "
@@ -1211,7 +1219,7 @@ msgstr ""
 #.  can't occupy one?
 #.  Edit to only the if they lose a round of combat.?
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:859
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:864
 msgid ""
 "Walls, ramparts and towers are difficult terrain for flying creatures so if "
 "they are attacked and lose a round of combat or if they are pushed back they "
@@ -1219,14 +1227,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:862
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:867
 msgid ""
 "Of course if flyers try to assault fortifications, boiling oil attacks "
 "cannot be used against them."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:874
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:879
 msgid ""
 "As commanders are too valuable to risk their lives uselessly it is not "
 "allowed for them to enter fortress sections unless they are part of a unit. "
@@ -1235,7 +1243,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:880
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:885
 msgid ""
 "If a character [.edit]#is on# a fortress section [.edit]#when it# is touched "
 "by an enemy unit it [.edit]#must# join a friendly unit within 30cm.  The "
@@ -1244,7 +1252,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:890
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:895
 msgid ""
 "[.edit]#Fortress builders are wise to the ways of wizards and sorcerers, and "
 "use powerful magic-sapping incantations and carve protective runes into the "
@@ -1253,7 +1261,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:900
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:905
 msgid ""
 "However, it is allowed to use magic spells on units that are assaulting a "
 "wall as well as in a combat that takes place there. So for example an "
@@ -1265,13 +1273,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:903
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:908
 #, no-wrap
 msgid "Siege machines"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:910
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:915
 msgid ""
 "No besieging army would be complete without siege towers and rams with which "
 "to pound the enemy’s fortress to pieces. Some races have developed their own "
@@ -1280,7 +1288,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:915
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:920
 msgid ""
 "Concerning Victory Points, destroyed or lost Siege Machines immediately give "
 "the opponent their victory points no matter if the unit carrying them is "
@@ -1288,20 +1296,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:919
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:924
 msgid ""
 "Siege Machines like Siege Towers, Battering Rams or Sows may use initiative "
 "to attack the nearest wall section (towers may be ignored)."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:924
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:929
 #, no-wrap
 msgid "Siege towers"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:931
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:936
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max\n"
@@ -1311,7 +1319,7 @@ msgstr ""
 
 #.  Spelling enemy's
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:939
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:944
 msgid ""
 "A Siege Tower is a massive wooden tower that rolls forward on huge wheels. "
 "It is pushed to the enemy’s fortress by troops who are protected by its "
@@ -1321,7 +1329,7 @@ msgstr ""
 
 #.  Spelling enemy's
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:946
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:951
 msgid ""
 "A Siege Tower is a unique kind of machine. Its sole purpose is to deliver "
 "troops onto the enemy’s walls. A Siege Tower must be assigned to a unit of "
@@ -1330,7 +1338,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:955
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:960
 msgid ""
 "As Siege Towers are such huge constructions the same shooting rules apply to "
 "them as to wall sections. All shooting enemy units within reach of Siege "
@@ -1340,7 +1348,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:960
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:965
 msgid ""
 "All enemy shots against the unit are assumed to hit the Siege Tower because "
 "the troops are actually inside it. A Siege Tower and the unit inside it "
@@ -1348,7 +1356,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:964
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:969
 msgid ""
 "Should a Siege Tower be destroyed by shooting, its accompanying infantry "
 "will abandon it and may continue to fight normally."
@@ -1356,7 +1364,7 @@ msgstr ""
 
 #.  TODO question — does the enemy get VPs for that, or is it
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:971
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:976
 msgid ""
 "The Siege Tower has no value in close combat. If the unit is attacked, the "
 "Tower is simply ignored. If the unit is forced to retreat, the Siege Tower "
@@ -1366,7 +1374,7 @@ msgstr ""
 
 #.  more like Dark Elf blunders, no VP?
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:979
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:984
 msgid ""
 "The Siege Tower can be pushed forward at a speed of 15cm. As it is an "
 "incredible effort to move a massive construction like a Siege Tower, command "
@@ -1376,7 +1384,7 @@ msgstr ""
 
 #.  Spelling immobilised
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:985
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:990
 msgid ""
 "A unit accompanying a Siege Tower cannot make way for other units. If all "
 "its accompanying infantry are killed in combat before it reaches the walls, "
@@ -1384,7 +1392,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:991
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:996
 msgid ""
 "Once the Siege Tower reaches the enemy’s walls it has effectively done its "
 "job. As soon as the walls are reached, the accompanying infantry can assault "
@@ -1393,7 +1401,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:996
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1001
 msgid ""
 "A Siege Tower is usually not tall enough to reach a tower.  However, if "
 "there is doubt because a tower is especially low, the players should agree "
@@ -1401,7 +1409,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1001
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1006
 msgid ""
 "Troops making an assault from a Siege Tower cancel out the advantage of "
 "fortifications. Both sides count as being in the open (4+ to hit) and the "
@@ -1409,7 +1417,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1007
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1012
 msgid ""
 "The assaulting unit fights with only one stand (the warriors at the top of "
 "the Siege Tower) whilst the defenders fight with all stands that would "
@@ -1418,7 +1426,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1012
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1017
 msgid ""
 "As stands touching corner-to-corner would normally fight, defending stands "
 "adjacent to the stand directly facing the Siege Tower will fight, assuming "
@@ -1426,7 +1434,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1020
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1025
 msgid ""
 "Once a Siege Tower has reached the walls and is not destroyed, up to three "
 "stands of infantry can move up it and onto the walls in subsequent turns, "
@@ -1436,7 +1444,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1030
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1035
 msgid ""
 "If a unit assaulting walls via Siege Tower loses the combat and retreats 4cm "
 "or less, it still counts as being in the tower and can assault again in the "
@@ -1447,7 +1455,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1038
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1043
 msgid ""
 "If the unit pushing the Siege Tower consists of missile armed troops, all "
 "stands can shoot as if they were positioned on top of the tower. This brings "
@@ -1457,13 +1465,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1043
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1048
 #, no-wrap
 msgid "Battering rams"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1050
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1055
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max\n"
@@ -1472,7 +1480,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1057
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1062
 msgid ""
 "Battering Rams are mounted on a wheeled chassis and protected by a wooden "
 "roof so that troops inside can push the ram forward under cover. A Battering "
@@ -1481,13 +1489,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1060
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1065
 msgid ""
 "A Battering Ram’s purpose is to affect a breach in the enemy’s gate or walls."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1068
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1073
 msgid ""
 "A Battering Ram must be assigned to a unit of infantry.  To represent the "
 "fact that they are inside the covered frame the unit is arranged directly "
@@ -1497,7 +1505,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1072
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1077
 msgid ""
 "Should a Battering Ram be destroyed by shooting, its accompanying infantry "
 "will abandon it and may continue to fight normally."
@@ -1505,7 +1513,7 @@ msgstr ""
 
 #.  TODO VPs? As with siege towers.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1079
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1084
 msgid ""
 "The Battering Ram has no value in close combat. If the unit is attacked, the "
 "Ram is simply ignored. If the unit is forced to retreat, the Ram is "
@@ -1515,7 +1523,7 @@ msgstr ""
 
 #.  Spelling immobilised
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1088
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1093
 msgid ""
 "The Battering Ram can be pushed forward at 15cm.  A unit accompanying a "
 "Battering Ram cannot make way for other units. If all its accompanying "
@@ -1524,7 +1532,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1095
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1100
 msgid ""
 "Once the Ram reaches the enemy’s walls it can begin to batter! The "
 "<<battering,rules for battering>> are described above. The Ram must be "
@@ -1534,13 +1542,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1102
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1107
 #, no-wrap
 msgid "Sows"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1109
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1114
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max\n"
@@ -1549,7 +1557,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1117
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1122
 msgid ""
 "These are roofed and wheeled structures that offer protection to troops as "
 "they advance towards a castle. A Sow is very much like a big shed on wheels "
@@ -1559,7 +1567,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1123
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1128
 msgid ""
 "Sows have no value in close combat. If the unit is attacked it is simply "
 "ignored. If the unit is forced to retreat, the Sow is destroyed. Units with "
@@ -1568,13 +1576,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1126
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1131
 #, no-wrap
 msgid "Mantlets"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1134
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1139
 msgid ""
 "These are large mobile shields made from stout wood.  They offer protection "
 "to troops behind them and can gradually be shuffled forward without exposing "
@@ -1583,7 +1591,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1143
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1148
 msgid ""
 "In a siege game, units of infantry can have Mantlets for +10 points per "
 "unit. This is enough to cover the unit’s frontage and the unit is considered "
@@ -1594,7 +1602,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1151
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1156
 msgid ""
 "If a unit equipped with Mantlets is driven back by shooting it will carry "
 "its Mantlets with it. However, if driven back more than its half pace move "
@@ -1604,7 +1612,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1156
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1161
 msgid ""
 "A unit can abandon its Mantlets at any time during the Command phase, in "
 "which case it is not restricted to one move that Command phase. In this "
@@ -1612,13 +1620,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1162
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1167
 #, no-wrap
 msgid "Boiling oil or rock droppers"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1176
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1181
 msgid ""
 "Defenders are liable to throw anything they can get their hands on at "
 "enemies trying to scale the castle walls.  Well prepared defenders will have "
@@ -1632,14 +1640,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1180
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1185
 msgid ""
 "A 40 to 50mm wide section of wall may be provisioned with Boiling Oil or "
 "Rock Droppers. This may be used by any unit of troops manning that section."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1189
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1194
 msgid ""
 "If an assault is launched against a fortress section which is provisioned "
 "with Boiling Oil or Rock Dropper units [.edit]#then# this and any adjacent "
@@ -1650,7 +1658,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1194
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1199
 msgid ""
 "Note that a unit may only use one Stand and Shoot attack. Units equipped "
 "with bows or similar have to choose if they use Boiling Oil or their bows "
@@ -1660,7 +1668,7 @@ msgstr ""
 #.  Remove "A unit can pour oil or shoot with its
 #.  own weapons at the same time." as it contradicts above.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1203
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1208
 msgid ""
 "Boiling Oil or Rock Dropper attacks are worked out immediately before normal "
 "combat at the same time as shots at chargers. Any hits inflicted are carried "
@@ -1669,7 +1677,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1224
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1229
 #, no-wrap
 msgid ""
 "|D6 |Result\n"
@@ -1693,13 +1701,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1230
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1235
 #, no-wrap
 msgid "Tribock"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1237
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1242
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max\n"
@@ -1709,20 +1717,20 @@ msgstr ""
 
 #.  Redundant table removed.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1241
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1246
 msgid "Shooting: Range 20–120cm, 6 Attacks"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1245
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1250
 msgid ""
 "As the Tribock is such a giant machine it has to be placed on a special "
 "stand with a front edge of 40mm and flank edges of 60mm."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1248
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1290
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1253
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1295
 msgid ""
 "For siege use only! May not move once it is deployed.  Must be deployed "
 "before any other unit."
@@ -1730,7 +1738,7 @@ msgstr ""
 
 #.  Accidental paragraph removed
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1258
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1263
 msgid ""
 "Shooting straight ahead: [.edit]#Unlike# normal shooting units the Tribock "
 "has a very restricted view. It can only draw line of sight to targets that "
@@ -1741,13 +1749,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1261
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1266
 msgid "Any Hits caused by the Tribock allow no save."
 msgstr ""
 
 #.  but → and
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1271
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1276
 msgid ""
 "Because of its immense size the Tribock has a range of 120cm and a minimum "
 "range of 20cm as the slingshot like nature of the weapon makes it impossible "
@@ -1758,13 +1766,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1276
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1281
 #, no-wrap
 msgid "Bombard"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1283
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1288
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max\n"
@@ -1774,12 +1782,12 @@ msgstr ""
 
 #.  Redundant table removed.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1287
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1292
 msgid "Shooting: Range 90cm, 4 Attacks + bounce"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1298
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1303
 msgid ""
 "Shooting straight ahead: Other than normal shooting units the bombard has a "
 "very restricted view. It can only draw line of sight to targets that lie in "
@@ -1790,7 +1798,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1303
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1308
 msgid ""
 "Any Hits caused by the Bombard allow no save. In addition, fortified targets "
 "only count as being defended (5+ to hit) and defended targets count as being "
@@ -1798,7 +1806,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1309
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1314
 msgid ""
 "A Bombard’s shots bounce like a normal cannons.  This does not apply when "
 "shooting at walls/towers as the stonework will obviously stop the cannon "
@@ -1806,18 +1814,18 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1311
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1316
 msgid "Bombards may not be used by Elves or Bretonnians."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1316
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1321
 #, no-wrap
 msgid "Mangonel"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1323
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1328
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max\n"
@@ -1827,19 +1835,19 @@ msgstr ""
 
 #.  Redundant table removed.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1327
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1332
 msgid "Shooting: Range 20–90cm, 4 Attacks"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1330
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1335
 msgid ""
 "For siege use only! Mangonels must be deployed before any other unit and "
 "cannot move once deployed."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1337
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1342
 msgid ""
 "If firing it fires “straight ahead”. This means it can only draw a line of "
 "sight to targets that lie in the [.edit]#strip> that extends straight ahead "
@@ -1849,12 +1857,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1339
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1344
 msgid "Any Hits caused by the Mangonel allow no save."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1343
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1348
 msgid ""
 "The Mangonel has a minimum range of 20cm as it is impossible to adjust its "
 "mechanism to shoot at closer target. Mangonels can’t shoot at charging enemy "
@@ -1862,13 +1870,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1348
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1353
 #, no-wrap
 msgid "Earthworks"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1355
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1360
 msgid ""
 "These are defensive works built by both defending and attacking forces in a "
 "siege and sometimes in other situations as well. These are usually hastily "
@@ -1877,14 +1885,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1358
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1363
 msgid ""
 "Each section of earthworks purchased is 40mm long and 10mm wide, half the "
 "size of a standard Warmaster base."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1366
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1371
 msgid ""
 "Unless otherwise specified in a particular scenario, earthworks are always "
 "deployed before the armies set up in the relevant deployment zones, starting "
@@ -1895,14 +1903,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1370
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1375
 msgid ""
 "Earthworks count as a linear feature that confers fortified status against "
 "missile fire and defended status against any close combat attacks."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1383
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1388
 msgid ""
 "To remove earthworks to make way for your siege towers and battering rams, a "
 "unit of infantry (and only infantry) must be adjacent to the earthworks. If "
@@ -1916,13 +1924,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1388
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1393
 #, no-wrap
 msgid "Log rams"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1398
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1403
 msgid ""
 "Log rams are effectively battering rams but without the added protection of "
 "an armoured covering to shield the battering unit. Log rams can be brought "
@@ -1934,7 +1942,7 @@ msgstr ""
 
 #.  Rearrange sentences.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1406
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1411
 msgid ""
 "Attacking infantry units may be equipped with Log rams.  When equipped with "
 "Log rams a unit may not cross or move through any terrain which is classed "
@@ -1944,7 +1952,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1410
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1415
 msgid ""
 "If a unit equipped with Log rams is driven back by enemy shooting or magic "
 "and is forced to enter difficult terrain it [.edit]#abandons# its log rams "
@@ -1952,7 +1960,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1418
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1423
 msgid ""
 "When a unit with a Log ram makes contact with a fortress wall it will "
 "commence battering in much the same way as a Battering ram. However, if as a "
@@ -1962,13 +1970,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1423
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1428
 #, no-wrap
 msgid "Ladders"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1429
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1434
 msgid ""
 "Infantry units may only assault the walls of a fortress with a siege tower "
 "or by using ladders. It costs +5 points to equip all stands of a unit with "
@@ -1976,13 +1984,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1434
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1439
 #, no-wrap
 msgid "Siege equipment lists"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1443
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1448
 msgid ""
 "There are three distinct siege equipment lists; the fortification list, the "
 "siege equipment list and the siege artillery equipment list. These lists "
@@ -1992,14 +2000,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1446
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1451
 msgid ""
 "Earthworks are available to both the attacker and the defender, as are siege "
 "artillery."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1452
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1457
 msgid ""
 "All equipment is available to all armies of all races in Warmaster for siege "
 "battles unless stated otherwise.  No army may ever have more than two "
@@ -2008,14 +2016,14 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1455
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1460
 #, no-wrap
 msgid "Fortification"
 msgstr ""
 
 #.  + changed to ×
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1466
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1471
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Structure points |Armour |Command |Unit size |Points |Min/max |Special\n"
@@ -2027,7 +2035,7 @@ msgid ""
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1471
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1476
 #, no-wrap
 msgid ""
 "|Tower          |Building |– |30    |Special |– |40×40mm |200 |–/– |<<sr-fortification>>\n"
@@ -2037,53 +2045,53 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1477
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1482
 #, no-wrap
 msgid "[[sr-fortification,†1]]1. Fortification"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
 msgid ""
 "With the exception of earthworks, only defenders are allowed to invest "
 "points into fortification."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1481
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1486
 #, no-wrap
 msgid "[[sr-tower,†2]]2. Tower"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1484
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1489
 msgid ""
 "The gateway may be destroyed independently with a Structure Point value of "
 "12. If the tower is destroyed the gateway is destroyed with it."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1485
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1490
 #, no-wrap
 msgid "[[sr-sally-gate,†3]]3. Sally Gates"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1487
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1492
 msgid ""
 "Sally Gates may secretly be placed in any piece of wall and are not revealed "
 "to the attacker until used."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1491
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1496
 msgid ""
 "They may not be targeted separately by the attacker and do not weaken the "
 "structure of the wall (unless they are open)."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1496
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1501
 msgid ""
 "One defending unit may cross the Sally Gate per round either on order or "
 "initiative. For that reason a defending unit directly touching the Sally "
@@ -2091,7 +2099,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1503
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1508
 msgid ""
 "Whenever a unit leaves or returns by the Sally Gate the defenders need to "
 "open and close the gates. Roll 3D6. If the result is equal to or more than "
@@ -2100,34 +2108,34 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1505
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1510
 msgid "An open Sally Gate counts as defended."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1506
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1511
 #, no-wrap
 msgid "[[sr-earthwork,†4]]4. Earthwork"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1508
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1513
 msgid "Gives fortified status when shot at, defended status if in combat."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1511
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1516
 msgid "May be removed by troops in contact by rolling a 6 with their attacks."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1516
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1521
 #, no-wrap
 msgid "Siege equipment"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1530
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1535
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Structure points |Armour |Command |Unit size |Points |Min/max |Special\n"
@@ -2143,70 +2151,70 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1536
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1541
 #, no-wrap
 msgid "[[sr-defenders,†1]]1. Defenders only"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1538
-msgid "Only defenders in a siege scenario may use these."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
-#, no-wrap
-msgid "[[sr-attackers,†2]]2. Attackers only"
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1541
-msgid "Only attackers in a siege scenario may use these."
-msgstr ""
-
-#. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1542
-#, no-wrap
-msgid "[[sr-mobile,†3]]3. [.edit]#Mobile#"
-msgstr ""
-
-#. type: Plain text
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1543
-msgid "Have a move of 15cm. Not driven back by shooting."
+msgid "Only defenders in a siege scenario may use these."
 msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1544
 #, no-wrap
-msgid "[[sr-mantlets,†4]]4. Mantlets"
+msgid "[[sr-attackers,†2]]2. Attackers only"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1546
+msgid "Only attackers in a siege scenario may use these."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1547
+#, no-wrap
+msgid "[[sr-mobile,†3]]3. [.edit]#Mobile#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1548
+msgid "Have a move of 15cm. Not driven back by shooting."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1549
+#, no-wrap
+msgid "[[sr-mantlets,†4]]4. Mantlets"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1551
 msgid ""
 "Give defended status. Are lost if carrying units are charging or are driven "
 "back more than half their move."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1547
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1552
 #, no-wrap
 msgid "[[sr-ram,†5]]5. Ram"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1548
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1553
 msgid "Rams always make one automatic hit when battering."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1551
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1556
 #, no-wrap
 msgid "Siege artillery list"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1560
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1565
 #, no-wrap
 msgid ""
 "|Troop |Type |Attack |Hits |Armour |Command |Unit size |Points |Min/max |Special\n"
@@ -2217,38 +2225,38 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1566
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1571
 #, no-wrap
 msgid "[[sr-bombard,†1]]1. Bombard"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1574
 msgid ""
 "Shots from a Bombard bounce like cannons and get +1 when shooting at "
 "defended or fortified targets."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1572
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1577
 msgid "May not be used by Elves of any kindred, or Bretonnians."
 msgstr ""
 
 #.  Spelling Earthshaker
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1574
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1579
 #, no-wrap
 msgid "[[sr-wall-breaching,†2]]2. Wall-breaching artillery"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1576
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1581
 msgid ""
 "No army may ever have more than two wall-breaching artillery per 1000 points."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1581
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1586
 msgid ""
 "All of the following count as wall-breaching artillery: Mangonels, Bombards, "
 "Tribocks, Cannons, Skull-Chukkas, Rock-Lobbers, Trebuchets and Earthshaker "
@@ -2256,31 +2264,31 @@ msgid ""
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1582
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1587
 #, no-wrap
 msgid "[[sr-straight-ahead,†3]]3. Shooting straight ahead"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1585
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1590
 msgid ""
 "May only draw line of sight in the [.edit]#strip# that extends straight "
 "forward and is the width of the front edge."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1592
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1597
 #, no-wrap
 msgid "Into the breach"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1595
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1600
 msgid "‘Into the breach’ can be played on a 1.2 × 1.2m (4′ × 4′) table."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1600
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1605
 msgid ""
 "In this scenario the defender should invest about half of his points in "
 "fortifications, but only has to pay for the front side of the fortress i.e. "
@@ -2288,15 +2296,15 @@ msgid ""
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1602
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1672
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1607
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1677
 #, no-wrap
 msgid "Set-up"
 msgstr ""
 
 #.  Spelling centre
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1610
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1615
 msgid ""
 "Note that the defender’s side of the table should be essentially bare; for "
 "variety one could put up some ruins outside the castle gate, or the remains "
@@ -2305,25 +2313,25 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1614
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1619
 msgid ""
 "The defender sets up first inside the defender’s zone on the castle’s walls, "
 "on and inside the towers and gatehouse or even outside the castle."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1617
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1622
 msgid ""
 "Attackers may set up outside 40cm of the wall, ready to storm the castle."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1622
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1627
 msgid "There is no breakpoint for the defender, as he has nothing to lose."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1627
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1632
 msgid ""
 "The game lasts for 7–10 rounds. At the end of the 7th turn the game ends on "
 "roll of 4+. If it doesn’t end repeat the same in the next turn. The game "
@@ -2331,20 +2339,20 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1629
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1634
 msgid "The attacker has the first move."
 msgstr ""
 
 #. type: Title ====
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1631
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1725
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1636
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1730
 #, no-wrap
 msgid "Victory conditions"
 msgstr ""
 
 #.  Spelling/bold: neither/nor.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1639
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1644
 msgid ""
 "The attacker immediately wins if he orders one of his units (not flyers) to "
 "move off the defender’s edge between the two shorter castle walls. Note that "
@@ -2353,37 +2361,37 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1642
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1647
 msgid ""
 "The defender wins if he breaks the attacker’s army or kills the attacker’s "
 "general."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1645
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1650
 msgid "In all other cases the player with the most victory points wins."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1650
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1655
 #, no-wrap
 msgid "The watchtower"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1654
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1659
 msgid ""
 "The Watch Tower can be played on a 1.8 × 1.2m (6′ × 4′) table with the "
 "Attackers and Relief coming on to the table."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1657
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1662
 msgid "This scenario is played with 2000 points or less on both sides."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1668
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1673
 msgid ""
 "The defender may use up to one quarter of his points to defend the "
 "watchtower. At least one character has to be part of this contingent. Up to "
@@ -2396,12 +2404,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1670
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1675
 msgid "The attacker may only buy sows or mantlets."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1678
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1683
 msgid ""
 "The watchtower is placed in the middle of the table with the gate "
 "[.edit]#facing# a narrow [.edit]#table side#.  The troops defending the "
@@ -2410,14 +2418,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1681
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1686
 msgid ""
 "The attacker places his troops at a line at least 60cm away of the "
 "watchtower’s gate. The attacker has the first turn."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1690
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1695
 msgid ""
 "In his first round the defender may declare any unit he can spare as "
 "dispatch units. Those units may not be brigaded but can be sent towards his "
@@ -2428,7 +2436,7 @@ msgstr ""
 
 #.  of → from, turn → turns
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1701
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1706
 msgid ""
 "At the start of the second and subsequent turns the defender may roll a D6. "
 "On a result of 5+ the relief force arrives. All characters of the relief "
@@ -2440,7 +2448,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1711
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1716
 msgid ""
 "Characters may not join units defending the tower.  Nevertheless they may "
 "enter the tower if they are forced to join a unit within 30cm and count as "
@@ -2449,7 +2457,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1723
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1728
 msgid ""
 "Be aware that cannons shooting at troops manning the tower have no bounce-"
 "through effect. Also remember that troops within the tower do not roll for "
@@ -2462,12 +2470,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1728
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1733
 msgid "The game ends after 8 turns."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1732
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1737
 msgid ""
 "At the very moment the Watchtower is conquered the attacker wins. If the "
 "attacker destroys enough units to break the defending troops the game is a "
@@ -2475,7 +2483,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1735
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1740
 msgid ""
 "If the defender breaks the attacking force he wins. If there is still one "
 "stand defending the watchtower at the end of the game the defender wins."

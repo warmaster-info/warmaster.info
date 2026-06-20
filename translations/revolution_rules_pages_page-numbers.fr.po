@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-09-13 11:35+0200\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -1147,387 +1147,400 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/page-numbers.adoc:227
 msgid ""
-"[.cost]#xref:battlefields.adoc#victory-points[Victory Points]# "
-"[.points]#Page 82#"
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:228
-msgid ""
 "[.cost]#xref:battlefields.adoc#take-and-hold[Take and hold]# [.points]#Page "
 "83#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:229
+#: en/revolution/modules/rules/pages/page-numbers.adoc:228
 msgid ""
 "[.cost]#xref:battlefields.adoc#battle-for-the-tower[Battle for the tower]# "
 "[.points]#Page 84#"
 msgstr ""
 
 #. type: Plain text
+#: en/revolution/modules/rules/pages/page-numbers.adoc:229
+msgid ""
+"[.cost]#xref:battlefields.adoc#spoils-of-war[Spoils of war]# [.points]#Page "
+"85#"
+msgstr ""
+
+#. type: Plain text
 #: en/revolution/modules/rules/pages/page-numbers.adoc:230
 msgid ""
-"[.cost]#xref:battlefields.adoc#defending-the-village[Defending the village]# "
-"[.points]#Page 85#"
+"[.cost]#xref:battlefields.adoc#at-all-costs[At all costs]# [.points]#Page 86#"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/page-numbers.adoc:231
 msgid ""
-"[.cost]#xref:battlefields.adoc#wagon-train[Wagon train]# [.points]#Page 86#"
+"[.cost]#xref:battlefields.adoc#blood-and-glory[Blood and glory]# "
+"[.points]#Page 86#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/page-numbers.adoc:232
+msgid ""
+"[.cost]#xref:battlefields.adoc#defending-the-village[Defending the village]# "
+"[.points]#Page N/A#"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/page-numbers.adoc:233
+msgid ""
+"[.cost]#xref:battlefields.adoc#wagon-train[Wagon train]# [.points]#Page N/A#"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/page-numbers.adoc:235
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc[Siege & Fortresses]# [.points]#Page "
 "87#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:234
+#: en/revolution/modules/rules/pages/page-numbers.adoc:236
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#introduction[Introduction]# "
 "[.points]#Page 87#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:235
+#: en/revolution/modules/rules/pages/page-numbers.adoc:237
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#model-fortresses[Model fortresses]# "
 "[.points]#Page 87#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:236
+#: en/revolution/modules/rules/pages/page-numbers.adoc:238
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#general-siege-rules[General siege "
 "rules]# [.points]#Page 87#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:237
+#: en/revolution/modules/rules/pages/page-numbers.adoc:239
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#movement[Movement]# [.points]#Page 88#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:238
+#: en/revolution/modules/rules/pages/page-numbers.adoc:240
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#shooting[Shooting]# [.points]#Page 88#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:239
+#: en/revolution/modules/rules/pages/page-numbers.adoc:241
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#structure-tests[Structure tests]# "
 "[.points]#Page 88#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:240
+#: en/revolution/modules/rules/pages/page-numbers.adoc:242
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#battering[Battering]# [.points]#Page "
 "89#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:241
+#: en/revolution/modules/rules/pages/page-numbers.adoc:243
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#breaches[Breaches]# [.points]#Page 90#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:242
+#: en/revolution/modules/rules/pages/page-numbers.adoc:244
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#gateways-and-breaches[Gateways and "
 "Breaches]# [.points]#Page 90#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:243
+#: en/revolution/modules/rules/pages/page-numbers.adoc:245
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#assaults[Assaults]# [.points]#Page 91#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:244
+#: en/revolution/modules/rules/pages/page-numbers.adoc:246
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#counter-attacks-on-ramparts[Counter "
 "attacks on ramparts]# [.points]#Page 91#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:245
+#: en/revolution/modules/rules/pages/page-numbers.adoc:247
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#giants[Giants]# [.points]#Page 93#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:246
+#: en/revolution/modules/rules/pages/page-numbers.adoc:248
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#towers[Towers]# [.points]#Page 93#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:247
+#: en/revolution/modules/rules/pages/page-numbers.adoc:249
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#flyers-attacking-"
 "fortifications[Flyers attacking fortifications]# [.points]#Page 95#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:248
+#: en/revolution/modules/rules/pages/page-numbers.adoc:250
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#character-movement[Character "
 "movement]# [.points]#Page 95#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:249
+#: en/revolution/modules/rules/pages/page-numbers.adoc:251
 msgid "[.cost]#xref:siege-and-fortresses.adoc#magic[Magic]# [.points]#Page 95#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:250
+#: en/revolution/modules/rules/pages/page-numbers.adoc:252
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#siege-machines[Siege machines]# "
 "[.points]#Page 95#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:251
+#: en/revolution/modules/rules/pages/page-numbers.adoc:253
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#siege-towers[Siege towers]# "
 "[.points]#Page 96#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:252
+#: en/revolution/modules/rules/pages/page-numbers.adoc:254
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#battering-rams[Battering rams]# "
 "[.points]#Page 97#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:253
+#: en/revolution/modules/rules/pages/page-numbers.adoc:255
 msgid "[.cost]#xref:siege-and-fortresses.adoc#sows[Sows]# [.points]#Page 97#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:254
+#: en/revolution/modules/rules/pages/page-numbers.adoc:256
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#mantlets[Mantlets]# [.points]#Page 97#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:255
+#: en/revolution/modules/rules/pages/page-numbers.adoc:257
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#boiling-oil-or-rock-droppers[Boiling "
 "Oil or Rock Droppers]# [.points]#Page 98#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:256
+#: en/revolution/modules/rules/pages/page-numbers.adoc:258
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#tribock[Tribock]# [.points]#Page 98#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:257
+#: en/revolution/modules/rules/pages/page-numbers.adoc:259
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#bombard[Bombard]# [.points]#Page 99#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:258
+#: en/revolution/modules/rules/pages/page-numbers.adoc:260
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#mangonel[Mangonel]# [.points]#Page 99#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:259
+#: en/revolution/modules/rules/pages/page-numbers.adoc:261
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#earthworks[Earthworks]# "
 "[.points]#Page 100#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:260
+#: en/revolution/modules/rules/pages/page-numbers.adoc:262
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#log-rams[Log rams]# [.points]#Page "
 "100#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:261
+#: en/revolution/modules/rules/pages/page-numbers.adoc:263
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#ladders[Ladders]# [.points]#Page 100#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:262
+#: en/revolution/modules/rules/pages/page-numbers.adoc:264
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#siege-equipment-lists[Siege equipment "
 "lists]# [.points]#Page 101#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:263
+#: en/revolution/modules/rules/pages/page-numbers.adoc:265
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#fortification[Fortification]# "
 "[.points]#Page 101#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:264
+#: en/revolution/modules/rules/pages/page-numbers.adoc:266
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#siege-equipment-list[Siege equipment "
 "list]# [.points]#Page 102#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:265
+#: en/revolution/modules/rules/pages/page-numbers.adoc:267
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#siege-artillery-list[Siege artillery "
 "list]# [.points]#Page 102#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:266
+#: en/revolution/modules/rules/pages/page-numbers.adoc:268
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#scenarios[Scenarios]# [.points]#Page "
 "103#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:267
+#: en/revolution/modules/rules/pages/page-numbers.adoc:269
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#into-the-breach[Into the breach]# "
 "[.points]#Page 103#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:268
+#: en/revolution/modules/rules/pages/page-numbers.adoc:270
 msgid ""
 "[.cost]#xref:siege-and-fortresses.adoc#the-watchtower[The watchtower]# "
 "[.points]#Page 104#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:270
+#: en/revolution/modules/rules/pages/page-numbers.adoc:272
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc[Campaigns of Conquest]# "
 "[.points]#Page 105#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:271
+#: en/revolution/modules/rules/pages/page-numbers.adoc:273
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#introduction[Introduction]# "
 "[.points]#Page 105#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:272
+#: en/revolution/modules/rules/pages/page-numbers.adoc:274
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#warmaster-campaign[Warmaster "
 "campaign]# [.points]#Page 105#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:273
+#: en/revolution/modules/rules/pages/page-numbers.adoc:275
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#starting-a-campaign[Starting a "
 "campaign]# [.points]#Page 105#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:274
+#: en/revolution/modules/rules/pages/page-numbers.adoc:276
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#the-largest-empire[The largest "
 "empire]# [.points]#Page 106#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:275
+#: en/revolution/modules/rules/pages/page-numbers.adoc:277
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#sequence-of-play[Sequence of play]# "
 "[.points]#Page 106#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:276
+#: en/revolution/modules/rules/pages/page-numbers.adoc:278
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#events-phase[Events phase]# "
 "[.points]#Page 106#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:277
+#: en/revolution/modules/rules/pages/page-numbers.adoc:279
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#revenue-phase[Revenue phase]# "
 "[.points]#Page 106#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:278
+#: en/revolution/modules/rules/pages/page-numbers.adoc:280
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#challenge-phase[Challenge phase]# "
 "[.points]#Page 107#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:279
+#: en/revolution/modules/rules/pages/page-numbers.adoc:281
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#battle-phase[Battle phase]# "
 "[.points]#Page 107#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:280
+#: en/revolution/modules/rules/pages/page-numbers.adoc:282
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#team-battles[Team battles]# "
 "[.points]#Page 108#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:281
+#: en/revolution/modules/rules/pages/page-numbers.adoc:283
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#conquest-and-building-phase[Conquest "
 "and building phase]# [.points]#Page 108#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:282
+#: en/revolution/modules/rules/pages/page-numbers.adoc:284
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#how-to-win[How to win]# "
 "[.points]#Page 109#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:283
+#: en/revolution/modules/rules/pages/page-numbers.adoc:285
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#siege[Siege]# [.points]#Page 110#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:284
+#: en/revolution/modules/rules/pages/page-numbers.adoc:286
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#naval-operations[Naval operations]# "
 "[.points]#Page 111#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:285
+#: en/revolution/modules/rules/pages/page-numbers.adoc:287
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#optional-rules[Optional rules]# "
 "[.points]#Page 112#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/page-numbers.adoc:285
+#: en/revolution/modules/rules/pages/page-numbers.adoc:287
 msgid ""
 "[.cost]#xref:campaigns-of-conquest.adoc#abstract-battle-resolution[Abstract "
 "battle resolution]# [.points]#Page 112#"

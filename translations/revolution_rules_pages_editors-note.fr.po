@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -91,9 +91,11 @@ msgstr ""
 #: en/revolution/modules/rules/pages/editors-note.adoc:43
 msgid ""
 "Most of the text on this website is copied verbatim from the https://"
-"drive.google.com/file/d/10DNg5O4glnBE2T7p-tZBH2oClyj2Ib71/view?"
-"usp=sharing[WMR Compendium version 2.0.1], available from the https://www.wm-"
-"revolution.com/articles/download.html[Warmaster Revolution website]."
+"drive.google.com/file/d/1E2YTPKjGeF871Bj7aGaSF1uIlV2domk6/view?"
+"usp=sharing[WMR Compendium version 2.1.0] and https://drive.google.com/file/"
+"d/1jS81OufTxnx-W850E66LboTVSGQEokoN/view?usp=sharing[WMR Armies version "
+"2.26], available from the https://www.wm-revolution.com/articles/"
+"download.html[Warmaster Revolution website]."
 msgstr ""
 
 #. type: Plain text
@@ -169,11 +171,29 @@ msgstr ""
 #. type: Title ===
 #: en/revolution/modules/rules/pages/editors-note.adoc:64
 #, no-wrap
-msgid "Corrections and suggestions"
+msgid "2026 updates in progress"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/editors-note.adoc:67
+msgid ""
+"Updating the Rulebook to the 2026 release, 2.1.0, is in progress.  The Siege "
+"& Fortresses section is not yet updated."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:69
+msgid "The Armies book is updated to the 2026 release (2.26)."
+msgstr ""
+
+#. type: Title ===
+#: en/revolution/modules/rules/pages/editors-note.adoc:71
+#, no-wrap
+msgid "Corrections and suggestions"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/rules/pages/editors-note.adoc:74
 msgid ""
 "Feedback about this website is welcome on GitHub (https://github.com/"
 "warmaster-info/warmaster.info/issues[Rulebook, Armies and Battle of Five "
@@ -184,7 +204,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:69
+#: en/revolution/modules/rules/pages/editors-note.adoc:76
 msgid ""
 "_Comments or questions on the rules should be posted to Discord, the https://"
 "wmrexperimental.freeforums.net/[WMR Experimental forum] or to the https://"
@@ -192,13 +212,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/editors-note.adoc:71
+#: en/revolution/modules/rules/pages/editors-note.adoc:78
 #, no-wrap
 msgid "Translations"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/editors-note.adoc:73
+#: en/revolution/modules/rules/pages/editors-note.adoc:80
 msgid ""
 "If you are interested in translating the website to your language, or would "
 "like to suggest improvements to the existing translations, please join the "

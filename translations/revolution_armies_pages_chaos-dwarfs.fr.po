@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Calcipox <calcipox@proton.me>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -24,14 +24,14 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:28
 #: en/revolution/modules/armies/pages/cathay.adoc:32
 #: en/revolution/modules/armies/pages/chaos.adoc:32
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
 #: en/revolution/modules/armies/pages/dark-elves.adoc:27
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
-#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/dwarfs.adoc:25
 #: en/revolution/modules/armies/pages/empire.adoc:30
 #: en/revolution/modules/armies/pages/high-elves.adoc:27
-#: en/revolution/modules/armies/pages/kislev.adoc:27
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
 #: en/revolution/modules/armies/pages/wood-elves.adoc:34
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
@@ -44,244 +44,254 @@ msgstr "Général"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:29
 #: en/revolution/modules/armies/pages/cathay.adoc:33
 #: en/revolution/modules/armies/pages/chaos.adoc:33
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:28
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
-#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/dwarfs.adoc:26
 #: en/revolution/modules/armies/pages/empire.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:28
-#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:29
 #: en/revolution/modules/armies/pages/norse.adoc:29
 #: en/revolution/modules/armies/pages/skaven.adoc:30
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:28
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
 msgstr "Héros"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:123
-#: en/revolution/modules/armies/pages/araby.adoc:114
-#: en/revolution/modules/armies/pages/beastmen.adoc:87
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/albion.adoc:121
+#: en/revolution/modules/armies/pages/araby.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:88
+#: en/revolution/modules/armies/pages/beastmen.adoc:98
 #: en/revolution/modules/armies/pages/bretonnia.adoc:117
 #: en/revolution/modules/armies/pages/bretonnia.adoc:133
-#: en/revolution/modules/armies/pages/cathay.adoc:117
-#: en/revolution/modules/armies/pages/cathay.adoc:130
-#: en/revolution/modules/armies/pages/chaos.adoc:104
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
-#: en/revolution/modules/armies/pages/daemons.adoc:96
-#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:131
+#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:113
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/daemons.adoc:142
 #: en/revolution/modules/armies/pages/dark-elves.adoc:117
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
-#: en/revolution/modules/armies/pages/dwarfs.adoc:121
-#: en/revolution/modules/armies/pages/empire.adoc:99
-#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:123
+#: en/revolution/modules/armies/pages/dwarfs.adoc:123
+#: en/revolution/modules/armies/pages/empire.adoc:100
+#: en/revolution/modules/armies/pages/goblins.adoc:111
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
-#: en/revolution/modules/armies/pages/kislev.adoc:101
-#: en/revolution/modules/armies/pages/lizardmen.adoc:117
-#: en/revolution/modules/armies/pages/lizardmen.adoc:130
-#: en/revolution/modules/armies/pages/nippon.adoc:119
-#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/kislev.adoc:103
+#: en/revolution/modules/armies/pages/lizardmen.adoc:120
+#: en/revolution/modules/armies/pages/lizardmen.adoc:133
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/nippon.adoc:139
 #: en/revolution/modules/armies/pages/norse.adoc:83
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
-#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:104
+#: en/revolution/modules/armies/pages/orcs.adoc:121
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
-#: en/revolution/modules/armies/pages/skaven.adoc:106
-#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/skaven.adoc:131
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:123
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:104
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:129
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:113
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
-#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:115
+#: en/revolution/modules/rules/pages/battlefields.adoc:258
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
-#: en/revolution/modules/rules/pages/battlefields.adoc:448
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
+#: en/revolution/modules/rules/pages/battlefields.adoc:438
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
+#: en/revolution/modules/rules/pages/battlefields.adoc:526
+#: en/revolution/modules/rules/pages/battlefields.adoc:603
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
 #, no-wrap
 msgid "Special rules"
 msgstr "Règles Spéciales"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:182
-#: en/revolution/modules/armies/pages/araby.adoc:257
-#: en/revolution/modules/armies/pages/beastmen.adoc:206
-#: en/revolution/modules/armies/pages/bretonnia.adoc:244
-#: en/revolution/modules/armies/pages/cathay.adoc:217
-#: en/revolution/modules/armies/pages/cathay.adoc:236
-#: en/revolution/modules/armies/pages/chaos.adoc:183
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:265
-#: en/revolution/modules/armies/pages/goblins.adoc:255
+#: en/revolution/modules/armies/pages/albion.adoc:179
+#: en/revolution/modules/armies/pages/araby.adoc:230
+#: en/revolution/modules/armies/pages/beastmen.adoc:203
+#: en/revolution/modules/armies/pages/bretonnia.adoc:248
+#: en/revolution/modules/armies/pages/cathay.adoc:212
+#: en/revolution/modules/armies/pages/cathay.adoc:231
+#: en/revolution/modules/armies/pages/chaos.adoc:180
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:264
+#: en/revolution/modules/armies/pages/goblins.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:212
-#: en/revolution/modules/armies/pages/kislev.adoc:254
+#: en/revolution/modules/armies/pages/kislev.adoc:264
 #: en/revolution/modules/armies/pages/norse.adoc:189
-#: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:261
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:210
+#: en/revolution/modules/armies/pages/orcs.adoc:235
+#: en/revolution/modules/armies/pages/skaven.adoc:244
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:225
+#: en/revolution/modules/armies/pages/wood-elves.adoc:241
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:194
-#: en/revolution/modules/armies/pages/albion.adoc:207
-#: en/revolution/modules/armies/pages/araby.adoc:304
-#: en/revolution/modules/armies/pages/beastmen.adoc:221
-#: en/revolution/modules/armies/pages/beastmen.adoc:238
-#: en/revolution/modules/armies/pages/bretonnia.adoc:260
-#: en/revolution/modules/armies/pages/bretonnia.adoc:279
-#: en/revolution/modules/armies/pages/cathay.adoc:253
-#: en/revolution/modules/armies/pages/chaos.adoc:203
-#: en/revolution/modules/armies/pages/chaos.adoc:238
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:278
-#: en/revolution/modules/armies/pages/daemons.adoc:217
-#: en/revolution/modules/armies/pages/daemons.adoc:233
-#: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:207
-#: en/revolution/modules/armies/pages/goblins.adoc:240
+#: en/revolution/modules/armies/pages/albion.adoc:197
+#: en/revolution/modules/armies/pages/albion.adoc:210
+#: en/revolution/modules/armies/pages/araby.adoc:277
+#: en/revolution/modules/armies/pages/beastmen.adoc:218
+#: en/revolution/modules/armies/pages/beastmen.adoc:235
+#: en/revolution/modules/armies/pages/bretonnia.adoc:264
+#: en/revolution/modules/armies/pages/bretonnia.adoc:283
+#: en/revolution/modules/armies/pages/cathay.adoc:248
+#: en/revolution/modules/armies/pages/chaos.adoc:200
+#: en/revolution/modules/armies/pages/chaos.adoc:235
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:277
+#: en/revolution/modules/armies/pages/daemons.adoc:222
+#: en/revolution/modules/armies/pages/daemons.adoc:238
+#: en/revolution/modules/armies/pages/dark-elves.adoc:223
+#: en/revolution/modules/armies/pages/goblins.adoc:203
+#: en/revolution/modules/armies/pages/goblins.adoc:236
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
-#: en/revolution/modules/armies/pages/kislev.adoc:239
-#: en/revolution/modules/armies/pages/lizardmen.adoc:244
-#: en/revolution/modules/armies/pages/lizardmen.adoc:300
+#: en/revolution/modules/armies/pages/kislev.adoc:249
+#: en/revolution/modules/armies/pages/lizardmen.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:294
 #: en/revolution/modules/armies/pages/norse.adoc:201
 #: en/revolution/modules/armies/pages/norse.adoc:255
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
-#: en/revolution/modules/armies/pages/orcs.adoc:189
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:249
+#: en/revolution/modules/armies/pages/orcs.adoc:193
+#: en/revolution/modules/armies/pages/skaven.adoc:259
 #: en/revolution/modules/armies/pages/skaven.adoc:276
-#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:252
-#: en/revolution/modules/armies/pages/wood-elves.adoc:267
-#: en/revolution/modules/armies/pages/wood-elves.adoc:278
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
+#: en/revolution/modules/armies/pages/wood-elves.adoc:256
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:222
-#: en/revolution/modules/armies/pages/araby.adoc:323
-#: en/revolution/modules/armies/pages/beastmen.adoc:254
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:250
-#: en/revolution/modules/armies/pages/daemons.adoc:251
+#: en/revolution/modules/armies/pages/albion.adoc:225
+#: en/revolution/modules/armies/pages/araby.adoc:301
+#: en/revolution/modules/armies/pages/beastmen.adoc:251
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:249
+#: en/revolution/modules/armies/pages/daemons.adoc:256
 #: en/revolution/modules/armies/pages/high-elves.adoc:179
-#: en/revolution/modules/armies/pages/skaven.adoc:326
+#: en/revolution/modules/armies/pages/skaven.adoc:309
 msgid "[.cost]#6+ to cast# [.points]#Range 30cm#"
 msgstr "[.cost]#6+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:223
-#: en/revolution/modules/armies/pages/chaos.adoc:165
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:235
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/bretonnia.adoc:227
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:234
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:229
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:218
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:198
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:213
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr "[.cost]#4+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Attribute :sorcerer:
 #: en/revolution/modules/armies/pages/cathay.adoc:34
 #: en/revolution/modules/armies/pages/chaos.adoc:34
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:34
 #, no-wrap
 msgid "Sorcerer"
 msgstr "Sorcier"
 
 #. type: Attribute :chaos-dwarfs:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:1
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:21
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:97
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:22
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:98
 #, no-wrap
 msgid "Chaos Dwarfs"
 msgstr "Nains du Chaos"
 
 #. type: Attribute :blunderbusses:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:22
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:23
 #, no-wrap
 msgid "Blunderbusses"
 msgstr "Tromblons"
 
 #. type: Attribute :hobgoblins:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:24
 #, no-wrap
 msgid "Hobgoblins"
 msgstr "Hobgobelins"
 
 #. type: Attribute :black-orcs:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:25
 #: en/revolution/modules/armies/pages/orcs.adoc:23
 #, no-wrap
 msgid "Black Orcs"
 msgstr "Orques Noirs"
 
 #. type: Attribute :orc-slaves:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:25
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:26
 #, no-wrap
 msgid "Orc Slaves"
 msgstr "Orques Asservis"
 
 #. type: Attribute :hobgoblin-wolf-riders:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:26
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:27
 #, no-wrap
 msgid "Hobgoblin Wolf Riders"
 msgstr "Chevaucheurs de Loups Hobgobelins"
 
 #. type: Attribute :bull-centaurs:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:27
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:28
 #, no-wrap
 msgid "Bull Centaurs"
 msgstr "Centaures-Taureaux"
 
 #. type: Attribute :earthshaker-cannon:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:28
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:29
 #, no-wrap
 msgid "Earthshaker Cannon"
 msgstr "Canon Trembleterre"
 
 #. type: Attribute :death-rocket:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:29
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:30
 #, no-wrap
 msgid "Death Rocket"
 msgstr "Lance-Fusées Hurlemort"
 
 #. type: Attribute :bolt-thrower:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:30
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
 #, no-wrap
 msgid "Bolt Thrower"
 msgstr "Balistes"
 
 #. type: Attribute :great-taurus:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:34
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:35
 #, no-wrap
 msgid "Great Taurus"
 msgstr "Grand Taurus"
 
 #. type: Attribute :lammasu:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:35
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:36
 #, no-wrap
 msgid "Lammasu"
 msgstr "Lammasu"
 
 #. type: Attribute :sorcerer-lord:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:36
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:37
 #, no-wrap
 msgid "Sorcerer Lord"
 msgstr "Seigneur Sorcier"
 
+#. type: Attribute :shoot-360-15cm:
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:38
+#, fuzzy, no-wrap
+#| msgid "Hobgoblin Wolf Riders"
+msgid "Hobgoblins and Hobgoblin Wolf Riders"
+msgstr "Chevaucheurs de Loups Hobgobelins"
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:45
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:47
 msgid ""
 "image:chaos-dwarfs/logo.webp[width=108,height=103,float=\"right\"] Many "
 "thousands of years ago the Dwarf race moved northwards from its ancestral "
@@ -296,7 +306,7 @@ msgstr ""
 "Monde, suivant la piste des minerais et des pierres précieuses."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:52
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:54
 msgid ""
 "The Dwarfs spread amongst the mountains, driven onwards by their lust for "
 "the secrets of rock and metal. Over a period of many hundreds of years they "
@@ -311,7 +321,7 @@ msgstr ""
 "les transportèrent plus au nord."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:62
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:64
 msgid ""
 "Eventually, sometime in the dim and distant past, the Dwarfs reached the "
 "upland region at the far north of the Worlds Edge Mountains which they "
@@ -333,10 +343,18 @@ msgstr ""
 "mornes Montagnes du Deuil."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:70
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:72
+#, fuzzy
+#| msgid ""
+#| "At first these widespread Dwarf kindreds maintained contact with each "
+#| "other, but the eastern Dwarfs strayed far and when the Time of Chaos came "
+#| "the northern regions were cut off forever. The Dwarfs of the west "
+#| "believed their eastern kin dead, destroyed by the tides of Chaos that "
+#| "came from the north, but they were mistaken. Chaos did not kill the hardy "
+#| "Dwarfs, instead it worked a dreadful change upon them."
 msgid ""
 "At first these widespread Dwarf kindreds maintained contact with each other, "
-"but the eastern Dwarfs strayed far and when the Time of Chaos came the "
+"but the eastern Dwarfs strayed far and when the Time of Chaos came, the "
 "northern regions were cut off forever. The Dwarfs of the west believed their "
 "eastern kin dead, destroyed by the tides of Chaos that came from the north, "
 "but they were mistaken. Chaos did not kill the hardy Dwarfs, instead it "
@@ -350,7 +368,7 @@ msgstr ""
 "courageux, mais il les transforma terriblement."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:76
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:78
 msgid ""
 "The Chaos Dwarf Empire is sited amidst the Mountains of Mourn and the "
 "adjoining eastern part of the Dark Lands. It is a stark and cheerless place, "
@@ -363,7 +381,7 @@ msgstr ""
 "terre riche en matériaux particulièrement convoités par les Nains."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:82
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:84
 msgid ""
 "It is impossible to say for certain how or when the Dwarf kindred of the "
 "east became the Chaos Dwarfs. Probably it was a slow process of warping and "
@@ -377,7 +395,7 @@ msgstr ""
 "ils furent transformés."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:91
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:93
 msgid ""
 "Their Dwarf instincts became perverted into a mockery of traditional values. "
 "The huge and monstrous Tower of Zharr-Naggrund, the City of Fire and "
@@ -395,7 +413,7 @@ msgstr ""
 "arcaniques et d'engins terrifiants."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:98
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:100
 msgid ""
 "The refuse of thousands of years of labour fills the Plain of Zharrduk where "
 "industry tears at the earth, pock-marking the surface with ugly scars of "
@@ -410,13 +428,13 @@ msgstr ""
 "l'ouest, travaillent dans les entreprises des Nains du Chaos."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:103
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:105
 #, no-wrap
 msgid "Chaos Dwarf army selector"
 msgstr "Sélecteur d'armée des Nains du Chaos"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:108
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:110
 #, no-wrap
 msgid "include::partial$chaos-dwarfs.tsv[]\n"
 msgstr "include::partial$chaos-dwarfs.tsv[]\n"
@@ -426,13 +444,13 @@ msgstr "include::partial$chaos-dwarfs.tsv[]\n"
 #. 4: this → either
 #. 5: is treated as, this → either, past → beyond
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:119
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:121
 #, no-wrap
 msgid "[[blunderbusses,†1]]1. Blunderbusses"
 msgstr "[[blunderbusses,†1]]1. Tromblons"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:126
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:128
 msgid ""
 "Units with Blunderbusses have a shooting range of 15cm. The unit has 2 "
 "shooting attacks. Units hit by Blunderbusses get a −1 penalty for their "
@@ -448,43 +466,27 @@ msgstr ""
 "pour la valeur maximum des Tromblons."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:127
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:129
 #, no-wrap
 msgid "[[hobgoblins,†2]]2. Hobgoblins"
 msgstr "[[hobgoblins,†2]]2. Hobgobelins"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:137
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:136
 msgid ""
-"Hobgoblins and Hobgoblin Wolf Riders carry an assortment of smaller ranged "
-"arms, so may only shoot up to 15cm and have 360° vision – stands in this "
-"unit can draw line of sight from all edges for the purpose of evading and "
-"shooting, including shooting at charging enemies. Note that this unit still "
-"needs Line of Sight from its front edge to charge an enemy. Hobgoblins and "
-"Orcs have a strong hatred so units of Hobgoblins or Hobgoblin Wolf Riders "
-"may not brigade with units of Black Orcs or Orc Slaves unless Chaos Dwarfs "
-"or Blunderbusses are part of the brigade."
+"Hobgoblins and Orcs have a strong hatred so units of Hobgoblins or Hobgoblin "
+"Wolf Riders may not brigade with units of Black Orcs or Orc Slaves unless "
+"Chaos Dwarfs or Blunderbusses are part of the brigade."
 msgstr ""
-"Les Hobgobelins et Chevaucheurs de Loups Hobgobelins sont équipés de tout un "
-"assortiment d'armes à courte portée, ce qui leur confère une portée de tir "
-"de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
-"peuvent tracer une ligne de vue depuis n'importe quel bord de leur socle, "
-"ceci afin d'éviter ou de tirer, incluant le tir sur les ennemis en charge. "
-"Notez que l'unité a tout de même besoin d'avoir une Ligne de Vue depuis son "
-"bord avant pour charger un ennemi. Les Hobgobelins et les Orques se haïssent "
-"fortement, de ce fait les unités d'Hobgobelins ou de Chevaucheurs de Loups "
-"Hobgobelins ne peuvent pas se mettre en brigade avec des unités d'Orques "
-"Noirs ou d'Esclaves Orques à moins que des Guerriers Nains du Chaos ou des "
-"Tromblons en fassent également partie."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:138
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:137
 #, no-wrap
 msgid "[[orc-slaves,†3]]3. Orc Slaves"
 msgstr "[[orc-slaves,†3]]3. Orques Asservis"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:143
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:142
 msgid ""
 "Slaves are just that, captives forced to work and fight for their cruel "
 "masters’ enjoyment. A unit of Slaves suffer an additional −1 Command penalty "
@@ -498,17 +500,25 @@ msgstr ""
 "Orques Noirs, des Nains du Chaos ou des Tromblons."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:144
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:143
 #, no-wrap
 msgid "[[earthshaker-cannon,†4]]4. Earthshaker Cannon"
 msgstr "[[earthshaker-cannon,†4]]4. Canon Trembleterre"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:150
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:149
+#, fuzzy
+#| msgid ""
+#| "The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-"
+#| "thrower[Stone Thrower] as described in the Rulebook. The exception is "
+#| "that the drive back from the Eartshaker shot causes confusion on rolls of "
+#| "4+ rather than the usual 6+. In addition the Earthshaker shot causes "
+#| "confusion in units in base contact with the victim unit on rolls of 6 on "
+#| "a D6 (roll for each unit)."
 msgid ""
 "The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-"
 "thrower[Stone Thrower] as described in the Rulebook. The exception is that "
-"the drive back from the Eartshaker shot causes confusion on rolls of 4+ "
+"the drive back from the Earthshaker shot causes confusion on rolls of 4+ "
 "rather than the usual 6+. In addition the Earthshaker shot causes confusion "
 "in units in base contact with the victim unit on rolls of 6 on a D6 (roll "
 "for each unit)."
@@ -521,8 +531,8 @@ msgstr ""
 "cible sur un jet de 6 sur un D6 (Effectuez un jet de dé pour chaque unité)."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:154
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:165
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:153
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:164
 msgid ""
 "The total number of Earthshakers and Death Rockets in the army is limited in "
 "the way that only 1 piece of either kind is allowed per 1000 points."
@@ -532,13 +542,13 @@ msgstr ""
 "1000 points."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:155
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:154
 #, no-wrap
 msgid "[[death-rocket,†5]]5. Death Rocket"
 msgstr "[[death-rocket,†5]]5. Lance-fusées Hurlemort"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:161
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:160
 msgid ""
 "The Death Rocket acts is treated as a xref:rules:artillery-and-"
 "machines.adoc#stone-thrower[Stone Thrower] as described in the Rulebook, "
@@ -555,13 +565,13 @@ msgstr ""
 "dé doit être effectué sur la table des incidents de tir du Lance-fusées."
 
 #. type: Block title
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:166
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:165
 #, no-wrap
 msgid "Death Rocket Misfire Chart"
 msgstr "Table d'Incidents de Tir du Lance-fusées Hurlemort"
 
 #. type: Table
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:192
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:191
 #, no-wrap
 msgid ""
 "|D6 |Result\n"
@@ -611,13 +621,13 @@ msgstr ""
 "au lieu de 1D6.\n"
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:194
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:193
 #, no-wrap
 msgid "[[bolt-thrower,†6]]6. Bolt Thrower"
 msgstr "[[bolt-thrower,†6]]6. Baliste"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:197
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:196
 msgid ""
 "The Hobgoblin Bolt Thrower is a xref:rules:artillery-and-machines.adoc#bolt-"
 "thrower[Bolt Thrower] as described in main Rulebook."
@@ -626,13 +636,13 @@ msgstr ""
 "thrower[Baliste] telle que décrite dans le Livre de Règles."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:198
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:197
 #, no-wrap
 msgid "[[great-taurus,†7]]7. Great Taurus"
 msgstr "[[great-taurus,†7]]7. Grand Taurus"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:200
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:199
 msgid ""
 "Any character may be mounted on a Great Taurus. This mighty beast is "
 "fearsome to face on the battlefield."
@@ -641,18 +651,18 @@ msgstr ""
 "est redoutable à affronter sur le champ de bataille."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:202
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:201
 msgid "The Great Taurus causes terror and is able to fly."
 msgstr "Le Grand Taurus provoque la terreur et peut voler."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:203
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:202
 #, no-wrap
 msgid "[[lammasu,†8]]8. Lammasu"
 msgstr "[[lammasu,†8]]8. Lammasu"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:206
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:205
 msgid ""
 "The Lammasu is a magical creature trained to serve the Chaos Dwarfs. A Chaos "
 "Dwarf Sorcerer may be mounted on a Lammasu."
@@ -661,12 +671,12 @@ msgstr ""
 "Un Sorcier Nain du Chaos peut le monter."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:208
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:207
 msgid "A Lammasu is able to fly."
 msgstr "Un Lammasu peut voler."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:213
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:212
 msgid ""
 "In addition once per turn you can attempt to dispel one hostile spell cast "
 "on one friendly unit within 30cm of the Lammasu on a roll of 4+ on a D6. "
@@ -677,15 +687,20 @@ msgstr ""
 "D6. Il ne peut y avoir qu'un seul Lammasu dans l'armée."
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:214
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:213
 #, no-wrap
 msgid "[[sorcerer-lord,†9]]9. Sorcerer Lord"
 msgstr "[[sorcerer-lord,†9]]9. Seigneur sorcier"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:218
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:217
+#, fuzzy
+#| msgid ""
+#| "The General may be true Sorcerer Lord, maybe even one of the living "
+#| "ancestors from Zharr-Naggrund.  A Sorcerer Lord can cast spells like a "
+#| "Wizard and can carry a magic item restricted to a Wizard if desired."
 msgid ""
-"The General may be true Sorcerer Lord, maybe even one of the living "
+"The General may be a true Sorcerer Lord, maybe even one of the living "
 "ancestors from Zharr-Naggrund.  A Sorcerer Lord can cast spells like a "
 "Wizard and can carry a magic item restricted to a Wizard if desired."
 msgstr ""
@@ -695,30 +710,36 @@ msgstr ""
 "Sorciers."
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:224
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:223
+#, fuzzy
+#| msgid ""
+#| "Once during the battle Sorcerer Lord can add +1 to the dice when "
+#| "attempting to cast a spell. The player must announce that the Sorcerer’s "
+#| "special spell casting bonus is being used before rolling for the spell."
 msgid ""
-"Once during the battle Sorcerer Lord can add +1 to the dice when attempting "
-"to cast a spell. The player must announce that the Sorcerer’s special spell "
-"casting bonus is being used before rolling for the spell."
+"Once during the battle a Sorcerer Lord can add +1 to the dice when "
+"attempting to cast a spell. The player must announce that the Sorcerer "
+"Lord’s special spell casting bonus is being used before rolling for the "
+"spell."
 msgstr ""
 "Une fois par partie, le Seigneur Sorcier peut ajouter +1 aux dé lorsqu'il "
 "tente de lancer un sort. Le joueur doit annoncer qu'il utilise le bonus du "
 "Sorcier avant de lancer le jet de lancement du sort."
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:229
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:228
 #, no-wrap
 msgid "Chaos Dwarf spells"
 msgstr "Sorts Nains du Chaos"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:232
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:231
 #, no-wrap
 msgid "Flaming Hand"
 msgstr "Main Enflammée"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:238
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:237
 msgid ""
 "_The Sorcerer’s hand glows like molten steel as he calls forth the strength "
 "of the forges of the earth._"
@@ -727,7 +748,7 @@ msgstr ""
 "la force des forges de la terre._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:245
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:244
 msgid ""
 "This can only be cast if the Sorcerer has joined a unit in combat.  The "
 "spell automatically makes three attacks on one enemy unit which is touching "
@@ -742,20 +763,20 @@ msgstr ""
 "et comptabilisées comme ayant été infligées au combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:247
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:246
 #, no-wrap
 msgid "Volcanic Eruption"
 msgstr "Éruption Volcanique"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:253
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:252
 msgid "_The Sorcerer’s calls forth a storm of magma from beneath the earth._"
 msgstr ""
 "_Le sorcier invoque une tempête de magma provenant des profondeurs de la "
 "terre._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:260
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:259
 msgid ""
 "Each enemy unit within 30cm of the Sorcerer’s stand takes 3 Attacks worked "
 "out in the normal way. A unit is not driven back by the Volcanic Eruption. "
@@ -771,14 +792,14 @@ msgstr ""
 "combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:262
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:261
 #, no-wrap
 msgid "Word of Fear"
 msgstr "Mot de Peur"
 
 #.  instils
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:269
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:268
 msgid ""
 "_The Sorcerer speaks a blasphemous litany that instils fear in the hearts of "
 "his enemies._"
@@ -787,7 +808,7 @@ msgstr ""
 "cœur de ses ennemis._"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:273
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:272
 msgid ""
 "This spell can only be cast on any friendly unit within range regardless of "
 "whether the Sorcerer can see it or not. The unit counts as causing terror "
@@ -798,13 +819,13 @@ msgstr ""
 "phase de Combat."
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:275
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:274
 #, no-wrap
 msgid "Meteor Storm"
 msgstr "Tempête de Météores"
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:281
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:280
 msgid ""
 "_The Sorcerer hurls flaming stones from his fingertips toward the enemy, "
 "battering everything in its path._"
@@ -812,9 +833,17 @@ msgstr ""
 "_Le Sorcier lance des roches enflammées du bout des doigts vers l'ennemi, "
 "écrasant tout sur leur passage._"
 
-#.  scored
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:293
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:286
+msgid ""
+"Draw an imaginary line 30cm long extending from the Sorcerer’s stand in any "
+"direction you wish. The line will pass through any intervening units but not "
+"beyond terrain that would normally stop a missile shot, e.g. over the crest "
+"of a hill, more than 2cm of woodland, and so forth."
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:297
 msgid ""
 "Draw an imaginary line 30cm long extending from the Sorcerer’s stand in any "
 "direction you wish. Each unit under the line takes three shooting attacks "
@@ -835,3 +864,25 @@ msgstr ""
 "reportent les touches infligées au premier round de combat. Les touches de "
 "la Tempête de Météores sont comptabilisées comme si elles avaient été "
 "infligées pendant le combat."
+
+#~ msgid ""
+#~ "Hobgoblins and Hobgoblin Wolf Riders carry an assortment of smaller "
+#~ "ranged arms, so may only shoot up to 15cm and have 360° vision – stands "
+#~ "in this unit can draw line of sight from all edges for the purpose of "
+#~ "evading and shooting, including shooting at charging enemies. Note that "
+#~ "this unit still needs Line of Sight from its front edge to charge an "
+#~ "enemy. Hobgoblins and Orcs have a strong hatred so units of Hobgoblins or "
+#~ "Hobgoblin Wolf Riders may not brigade with units of Black Orcs or Orc "
+#~ "Slaves unless Chaos Dwarfs or Blunderbusses are part of the brigade."
+#~ msgstr ""
+#~ "Les Hobgobelins et Chevaucheurs de Loups Hobgobelins sont équipés de tout "
+#~ "un assortiment d'armes à courte portée, ce qui leur confère une portée de "
+#~ "tir de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
+#~ "peuvent tracer une ligne de vue depuis n'importe quel bord de leur socle, "
+#~ "ceci afin d'éviter ou de tirer, incluant le tir sur les ennemis en "
+#~ "charge. Notez que l'unité a tout de même besoin d'avoir une Ligne de Vue "
+#~ "depuis son bord avant pour charger un ennemi. Les Hobgobelins et les "
+#~ "Orques se haïssent fortement, de ce fait les unités d'Hobgobelins ou de "
+#~ "Chevaucheurs de Loups Hobgobelins ne peuvent pas se mettre en brigade "
+#~ "avec des unités d'Orques Noirs ou d'Esclaves Orques à moins que des "
+#~ "Guerriers Nains du Chaos ou des Tromblons en fassent également partie."

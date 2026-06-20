@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: 2026-02-15 15:01+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
@@ -18,28 +18,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.12.2\n"
 
-#. type: Attribute :cavalry:
-#: en/revolution/modules/armies/pages/albion.adoc:23
-#: en/revolution/modules/armies/pages/norse.adoc:24
-#: en/revolution/modules/armies/partials/table-attributes.adoc:39
-#, no-wrap
-msgid "Cavalry"
-msgstr "Cavalerie"
-
 #. type: Attribute :general:
 #: en/revolution/modules/armies/pages/albion.adoc:28
 #: en/revolution/modules/armies/pages/araby.adoc:27
 #: en/revolution/modules/armies/pages/bretonnia.adoc:28
 #: en/revolution/modules/armies/pages/cathay.adoc:32
 #: en/revolution/modules/armies/pages/chaos.adoc:32
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
 #: en/revolution/modules/armies/pages/dark-elves.adoc:27
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
-#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/dwarfs.adoc:25
 #: en/revolution/modules/armies/pages/empire.adoc:30
 #: en/revolution/modules/armies/pages/high-elves.adoc:27
-#: en/revolution/modules/armies/pages/kislev.adoc:27
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
 #: en/revolution/modules/armies/pages/wood-elves.adoc:34
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
@@ -52,16 +44,16 @@ msgstr "Général"
 #: en/revolution/modules/armies/pages/bretonnia.adoc:29
 #: en/revolution/modules/armies/pages/cathay.adoc:33
 #: en/revolution/modules/armies/pages/chaos.adoc:33
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:28
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
-#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/dwarfs.adoc:26
 #: en/revolution/modules/armies/pages/empire.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:28
-#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:29
 #: en/revolution/modules/armies/pages/norse.adoc:29
 #: en/revolution/modules/armies/pages/skaven.adoc:30
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:28
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
@@ -71,6 +63,7 @@ msgstr "Héros"
 #: en/revolution/modules/armies/pages/albion.adoc:32
 #: en/revolution/modules/armies/pages/cathay.adoc:35
 #: en/revolution/modules/armies/pages/chaos.adoc:36
+#: en/revolution/modules/armies/pages/daemons.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:32
 #: en/revolution/modules/armies/pages/orcs.adoc:38
@@ -83,7 +76,6 @@ msgstr "Char"
 #: en/revolution/modules/armies/pages/araby.adoc:29
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:38
 #: en/revolution/modules/armies/pages/empire.adoc:32
-#: en/revolution/modules/armies/pages/high-elves.adoc:29
 #: en/revolution/modules/armies/partials/table-attributes.adoc:46
 #, no-wrap
 msgid "Wizard"
@@ -174,6 +166,12 @@ msgstr "Spécial"
 #, no-wrap
 msgid "Infantry"
 msgstr "Infanterie"
+
+#. type: Attribute :cavalry:
+#: en/revolution/modules/armies/partials/table-attributes.adoc:39
+#, no-wrap
+msgid "Cavalry"
+msgstr "Cavalerie"
 
 #. type: Attribute :monster:
 #: en/revolution/modules/armies/partials/table-attributes.adoc:41
