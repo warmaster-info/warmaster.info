@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"PO-Revision-Date: 2026-06-20 15:43+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos-dwarfs/fr/>\n"
@@ -285,10 +285,9 @@ msgstr "Seigneur Sorcier"
 
 #. type: Attribute :shoot-360-15cm:
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:38
-#, fuzzy, no-wrap
-#| msgid "Hobgoblin Wolf Riders"
+#, no-wrap
 msgid "Hobgoblins and Hobgoblin Wolf Riders"
-msgstr "Chevaucheurs de Loups Hobgobelins"
+msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:47

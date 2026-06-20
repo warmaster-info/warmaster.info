@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"PO-Revision-Date: 2026-06-20 15:43+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
@@ -504,10 +504,8 @@ msgstr "[[terradon,†4]]4. Téradon"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:169
-#, fuzzy
-#| msgid "Terradons"
 msgid "Terradons can fly."
-msgstr "Téradons"
+msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/lizardmen.adoc:172
