@@ -1,0 +1,29 @@
+# French translations for PACKAGE package
+# Copyright (C) 2026 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-06-20 15:47+0200\n"
+"PO-Revision-Date: 2026-06-20 15:47+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: Plain text
+#: en/revolution/modules/armies/partials/infiltration_b.adoc:3
+msgid ""
+"Instead individual units can be infiltrated onto the battlefield once the "
+"game has begun.  To infiltrate a unit, the player nominates the point where "
+"he wants the {infiltration-unit} to appear and issues an ‘infiltration’ "
+"order from any character.  The character does not have to be within his "
+"normal command range to issue an infiltration order – the character’s "
+"command range is considered to extend over the entire tabletop when issuing "
+"an infiltration order."
+msgstr ""
