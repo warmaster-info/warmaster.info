@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_chaos-dwarfs/fr/>\n"
 "Language: fr\n"
@@ -344,14 +344,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:72
-#, fuzzy
-#| msgid ""
-#| "At first these widespread Dwarf kindreds maintained contact with each "
-#| "other, but the eastern Dwarfs strayed far and when the Time of Chaos came "
-#| "the northern regions were cut off forever. The Dwarfs of the west "
-#| "believed their eastern kin dead, destroyed by the tides of Chaos that "
-#| "came from the north, but they were mistaken. Chaos did not kill the hardy "
-#| "Dwarfs, instead it worked a dreadful change upon them."
 msgid ""
 "At first these widespread Dwarf kindreds maintained contact with each other, "
 "but the eastern Dwarfs strayed far and when the Time of Chaos came, the "
@@ -507,14 +499,6 @@ msgstr "[[earthshaker-cannon,†4]]4. Canon Trembleterre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:149
-#, fuzzy
-#| msgid ""
-#| "The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-"
-#| "thrower[Stone Thrower] as described in the Rulebook. The exception is "
-#| "that the drive back from the Eartshaker shot causes confusion on rolls of "
-#| "4+ rather than the usual 6+. In addition the Earthshaker shot causes "
-#| "confusion in units in base contact with the victim unit on rolls of 6 on "
-#| "a D6 (roll for each unit)."
 msgid ""
 "The Earthshaker acts as a xref:rules:artillery-and-machines.adoc#stone-"
 "thrower[Stone Thrower] as described in the Rulebook. The exception is that "
@@ -694,11 +678,6 @@ msgstr "[[sorcerer-lord,†9]]9. Seigneur sorcier"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:217
-#, fuzzy
-#| msgid ""
-#| "The General may be true Sorcerer Lord, maybe even one of the living "
-#| "ancestors from Zharr-Naggrund.  A Sorcerer Lord can cast spells like a "
-#| "Wizard and can carry a magic item restricted to a Wizard if desired."
 msgid ""
 "The General may be a true Sorcerer Lord, maybe even one of the living "
 "ancestors from Zharr-Naggrund.  A Sorcerer Lord can cast spells like a "
@@ -711,11 +690,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:223
-#, fuzzy
-#| msgid ""
-#| "Once during the battle Sorcerer Lord can add +1 to the dice when "
-#| "attempting to cast a spell. The player must announce that the Sorcerer’s "
-#| "special spell casting bonus is being used before rolling for the spell."
 msgid ""
 "Once during the battle a Sorcerer Lord can add +1 to the dice when "
 "attempting to cast a spell. The player must announce that the Sorcerer "

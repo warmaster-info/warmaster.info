@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_images_confusion/fr/>\n"
 "Language: fr\n"
@@ -50,8 +50,7 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/confusion/move-back.svg:1753
-#, fuzzy, no-wrap
-#| msgid "Retreats"
+#, no-wrap
 msgid "Unit A retreats"
 msgstr "Replis"
 

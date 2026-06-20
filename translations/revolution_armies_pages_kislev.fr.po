@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_kislev/fr/>\n"
 "Language: fr\n"
@@ -434,12 +434,6 @@ msgstr "[[red-guard,†4]]4. Gardes Rouges"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:121
-#, fuzzy
-#| msgid ""
-#| "In addition to traditional Kislevite long axes Red Guard is armed with "
-#| "handguns. Count enemy armour values as one worse than normal when shot by "
-#| "a handgun. So an armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, "
-#| "whilst an armour value of 6+ can’t save against a handgun."
 msgid ""
 "In addition to traditional Kislevite long axes Red Guard are armed with "
 "handguns. Count enemy armour values as one worse than normal when shot by a "
@@ -447,9 +441,9 @@ msgid ""
 "whilst an armour value of 6+ can’t save against a handgun."
 msgstr ""
 "En plus de la traditionnelle grande hache kislévite, les Gardes Rouges sont "
-"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à "
-"l’Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, "
-"une de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
+"équipés d'arquebuses. Lorsque vous tirez avec une arquebuse, retirez 1 à l’"
+"Armure de la cible : une Armure de 3+ passe à 4+, une armure de 4+ à 5+, une "
+"de 5+ à 6+. Une Armure de 6+ n’arrête pas les tirs d’arquebuse."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/kislev.adoc:122
@@ -482,10 +476,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:135
-#, fuzzy
-#| msgid ""
-#| "Note that these rules apply only to Bear units – not to characters riding "
-#| "a Bear or Shaman that have transformed in Monster Bear."
 msgid ""
 "Note that these rules apply only to Bear units – not to characters riding a "
 "Bear or Shamans that have transformed in Monster Bear."
@@ -732,10 +722,6 @@ msgstr "Forme d’Ours"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:235
-#, fuzzy
-#| msgid ""
-#| "_The wizard transforms himself into a gigantic ferocious supernatural "
-#| "bear and hurls himself into the enemy’s ranks._"
 msgid ""
 "_The Wizard transforms himself into a gigantic ferocious supernatural bear "
 "and hurls himself into the enemy’s ranks._"
@@ -745,11 +731,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:239
-#, fuzzy
-#| msgid ""
-#| "The wizard can cast this spell on himself if he has joined a unit that is "
-#| "engaged in combat. The spell lasts for the duration of the following "
-#| "Combat phase."
 msgid ""
 "The Wizard can cast this spell on himself if he has joined a unit that is "
 "engaged in combat. The spell lasts for the duration of the following Combat "
@@ -761,12 +742,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:244
-#, fuzzy
-#| msgid ""
-#| "The unit causes terror and the wizard gains a further +2 Attack bonus "
-#| "that he adds to the unit in the regular way. Note that if the Tzarina "
-#| "uses this spell she adds +4 Attacks: +2 as General and +2 from Monster "
-#| "Bear."
 msgid ""
 "The unit causes terror and the Wizard gains a further +2 Attack bonus that "
 "he adds to the unit in the regular way. Note that if the Tzarina uses this "
@@ -786,10 +761,6 @@ msgstr "Salve Glaciale"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:252
-#, fuzzy
-#| msgid ""
-#| "_An icy blast shoots from the wizard’s outstretched arm and strikes his "
-#| "foes._"
 msgid ""
 "_An icy blast shoots from the Wizard’s outstretched arm and strikes his "
 "foes._"
@@ -866,11 +837,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/kislev.adoc:286
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast at an enemy unit within range regardless of "
-#| "whether the wizard can see it or not. The spell cannot be directed at a "
-#| "unit engaged in combat."
 msgid ""
 "This spell can be cast at an enemy unit within range regardless of whether "
 "the Wizard can see it or not. The spell cannot be directed at a unit engaged "

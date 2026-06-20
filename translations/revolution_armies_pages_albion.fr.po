@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Augustin Bodin <augustin.bodin@laposte.net>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_albion/fr/>\n"
 "Language: fr\n"
@@ -158,22 +158,6 @@ msgstr "Char"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:51
-#, fuzzy
-#| msgid ""
-#| "image:albion/logo.webp[width=118,height=117,float=\"right\"] Aeons ago, "
-#| "the Isle of Albion was the site of a sprawling techo-arcane complex "
-#| "created by an unspeakably ancient spacefaring race called the Slann. "
-#| "Their carefully aligned stone circles and thousands of miles of "
-#| "impressively taut laylines once served to harness the mysterious "
-#| "psychomagical power of the warp. This power was used to control the "
-#| "gigantic interspatial portals through which Slann craft traversed the "
-#| "galaxy. At some time there was an unfortunate accident; the portals "
-#| "became unstable, opening a rift into the void and creating the zone of "
-#| "contamination and temporal instability that is now known as the Chaos "
-#| "Wastes. In order to stop their damaged portals running out of control and "
-#| "engulfing the entire world, the Slann destroyed or disabled their control "
-#| "complex on Albion.  A vast quantity of dangerous psycho-active energy was "
-#| "released as a result."
 msgid ""
 "image:albion/logo.webp[width=118,height=117,float=\"right\"] Aeons ago, the "
 "Isle of Albion was the site of a sprawling techo-arcane complex created by "
@@ -243,14 +227,6 @@ msgstr ""
 #.  remove "of Albion", extra .
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:78
-#, fuzzy
-#| msgid ""
-#| "The mist-wreathed isle has seen as much bloodshed and warfare as the rest "
-#| "of the known world. Albion is seen as a damp, bog-ridden backwater and "
-#| "reports of recent incursions have concentrated on the clashes between the "
-#| "supposedly more advanced invaders. However, a closer examination of the "
-#| "campaigns in Albion show that its native armies are every bit as lethal "
-#| "as those of any of the more so called ‘civilised’ nations."
 msgid ""
 "The mist-wreathed isle has seen as much bloodshed and warfare as the rest of "
 "the known world. Albion is seen as a damp, bog-ridden backwater and reports "
@@ -448,8 +424,6 @@ msgstr "[[giant-eagle-mount,†4]]4. Monture Aigle Géant"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:139
-#, fuzzy
-#| msgid "Giant Eagles can be ridden only by Druids."
 msgid "Giant Eagles can be ridden by Druids only."
 msgstr "Seuls les Druides peuvent voler sur des Aigles Géants."
 
@@ -489,11 +463,6 @@ msgstr "[[fenbeast,†6]]6. Bêtes des marais"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:154
-#, fuzzy
-#| msgid ""
-#| "A Fenbeast is an individual troop unit, but it is not fielded in the "
-#| "standard way. Fenbeasts appear on the battlefield only after a Druid "
-#| "casts the Summon Fenbeast spell."
 msgid ""
 "A Fenbeast is an individual troop unit, but it is not fielded in the "
 "standard way. Fenbeast can appear on the battlefield only after a Druid "
@@ -505,13 +474,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:161
-#, fuzzy
-#| msgid ""
-#| "A Fenbeast cannot be brigaded with other troop units, not even other "
-#| "Fenbeasts. Fenbeasts never use their initiative to move in the Command "
-#| "phase. Because they are completely dominated by the will of the Druid who "
-#| "summoned them, that Druid counts as having a Command value of +1 when "
-#| "commanding the Fenbeast – that is 8 rather than 7."
 msgid ""
 "A Fenbeast cannot be brigaded with other troop units, not even other "
 "Fenbeasts. Fenbeasts never use their initiative to move in the Command "
@@ -519,12 +481,12 @@ msgid ""
 "summoned them, [.edit]#that# Druid counts as having a Command value of +1 "
 "when commanding the Fenbeast – that is 8 rather than 7."
 msgstr ""
-"Une Bête des marais ne peut former une brigade avec d’autres unités, même "
-"d’autres Bêtes des marais. Les Bêtes des marais n’utilisent jamais "
-"l’initiative pour bouger lors de la Phase d’Ordre. Les Druides ont une "
-"valeur de Commandement augmentée de +1 quand ils donnent des ordres aux "
-"Bêtes des marais, c’est-à-dire 8 au lieu de 7, car elles sont entièrement "
-"dominées par la volonté de ceux qui les ont invoquées."
+"Une Bête des marais ne peut former une brigade avec d’autres unités, même d’"
+"autres Bêtes des marais. Les Bêtes des marais n’utilisent jamais l’"
+"initiative pour bouger lors de la Phase d’Ordre. Les Druides ont une valeur "
+"de Commandement augmentée de +1 quand ils donnent des ordres aux Bêtes des "
+"marais, c’est-à-dire 8 au lieu de 7, car elles sont entièrement dominées par "
+"la volonté de ceux qui les ont invoquées."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:166
@@ -687,13 +649,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:220
-#, fuzzy
-#| msgid ""
-#| "This spell may be cast upon a single unengaged friendly Infantry unit "
-#| "within range, regardless of whether the caster can see them or not. The "
-#| "spell lasts until the start of the caster’s next turn, or until the "
-#| "target unit moves in any way. The target Infantry unit counts as "
-#| "Defended, even if in the open terrain."
 msgid ""
 "This spell may be cast upon a single unengaged friendly Infantry unit within "
 "range, regardless of whether the caster can see them or not. The spell lasts "

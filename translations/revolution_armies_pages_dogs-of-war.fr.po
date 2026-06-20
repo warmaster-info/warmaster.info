@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dogs-of-war/fr/>\n"
 "Language: fr\n"
@@ -380,14 +380,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:160
-#, fuzzy
-#| msgid ""
-#| "A handgun shot can pierce armour far more easily than an arrow or a "
-#| "crossbow bolt. Therefore, count enemy Armour values as one worse (−1) "
-#| "than normal. One unit of Crossbowmen per full 1000 points can be replaced "
-#| "by Handgunners (including the 10 points extra in price) while still "
-#| "counting for the Crossbowmen min/max value. Note that this unit still "
-#| "counts for min/max value of Handgunners."
 msgid ""
 "A handgun shot can pierce armour far more easily than an arrow or a crossbow "
 "bolt. Therefore, count enemy Armour values as one worse (−1) than normal. "
@@ -430,16 +422,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:176
-#, fuzzy
-#| msgid ""
-#| "Dogs of War armies make great use of expert light cavalry from all around "
-#| "the world. Empire Pistoliers, Arabian Desert Riders, Hobgoblin Wolf "
-#| "Riders and Kislev Horse Archers are particularly adept at outmanoeuvring "
-#| "an enemy and harrying his flanks. Light cavalry have a shooting range of "
-#| "15cm and 360° vision – stands in this unit can draw line of sight from "
-#| "all edges for the purpose of evading and shooting, including shooting at "
-#| "charging enemies. Note that this unit still needs Line of Sight from its "
-#| "front edge to charge an enemy."
 msgid ""
 "Dogs of War armies make great use of expert light cavalry from all around "
 "the world. Empire Pistoliers, Arabian Desert Riders, Hobgoblin Wolf Riders "
@@ -450,12 +432,7 @@ msgstr ""
 "venant du monde entier. Les Pistoliers impériaux, les Cavaliers du Déserts "
 "arabéens, les Chevaucheurs de Loups Hobgobelins, et les Archers à Cheval "
 "kislévites sont particulièrement habiles quand il s'agit de déborder "
-"l'ennemi et d'harasser ses flancs. La Cavalerie légère a une portée de tir "
-"de 15cm et une vision à 360° - c'est-à-dire que les socles de l'unité "
-"peuvent tracer une ligne de vue depuis n'importe quel bord de leur socle, "
-"ceci afin d'éviter ou de tirer, incluant le tir sur les ennemis en charge. "
-"Notez que l'unité a tout de même besoin d'avoir une Ligne de Vue depuis son "
-"bord avant pour charger un ennemi."
+"l'ennemi et d'harasser ses flancs."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:177

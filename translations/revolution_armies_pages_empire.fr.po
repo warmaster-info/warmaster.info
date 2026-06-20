@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_empire/fr/>\n"
@@ -294,19 +294,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:87
-#, fuzzy
-#| msgid ""
-#| "The armies of the Empire are committed to defending its borders and "
-#| "rarely mount lengthy campaigns beyond them.  A long standing alliance "
-#| "between the Emperor and the Tzars of Kislev has occasionally taken armies "
-#| "far to the north to fight against intrusions of Chaos. Such armies do not "
-#| "always return. The chief enemies of the Empire lay within its own borders "
-#| "– for the land is sparsely settled and much of the forest and mountain is "
-#| "little more than wilderness infested with greenskins and beastmen. The "
-#| "mountains to the south and east are also home to subterranean living "
-#| "goblins as well as to skaven. Those states that adjoin these borderlands "
-#| "maintain large mobile armies to see off the inevitable raiding parties "
-#| "that issue from the mountain passes every spring."
 msgid ""
 "The armies of the Empire are committed to defending its borders and rarely "
 "mount lengthy campaigns beyond them.  A long-standing alliance between the "
@@ -321,8 +308,8 @@ msgid ""
 "mountain passes every spring."
 msgstr ""
 "Les armées de l’Empire sont vouées à défendre les frontières du pays et "
-"combattent rarement à l’étranger, encore que l’ancienne alliance entre "
-"l’Empereur et les Tzars de Kislev les amène parfois dans le grand nord pour "
+"combattent rarement à l’étranger, encore que l’ancienne alliance entre l’"
+"Empereur et les Tzars de Kislev les amène parfois dans le grand nord pour "
 "repousser les incursions du Chaos ; ces armées-là ne reviennent pas "
 "toujours. De fait, les pires ennemis de l’Empire sont tapis en son sein, car "
 "la population du pays est éparse, et les villes sont séparées par des lieues "
@@ -346,15 +333,6 @@ msgstr "include::partial$empire.tsv[]\n"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:114
-#, fuzzy
-#| msgid ""
-#| "Count enemy Armour values as one worse than normal when shot by a "
-#| "handgun. So an Armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, "
-#| "whilst an Armour value of 6+ can’t save against a handgun. One unit of "
-#| "Crossbowmen per full 1000 points can be replaced by Handgunners "
-#| "(including the 10pts extra in price) while still counting for the "
-#| "Crossbowmen min/max value. Note that this unit also counts for min/max "
-#| "value of Handgunners."
 msgid ""
 "Count enemy Armour values as one worse than normal when shot by a handgun. "
 "So an Armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an "
@@ -452,11 +430,6 @@ msgstr "[[helblaster,†5]]5. Canon Feu d’Enfer"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:145
-#, fuzzy
-#| msgid ""
-#| "The Helblaster is a primitive type of crankdriven and unreliable machine "
-#| "gun. It has maximum range of 30cm. Its attacks value varies according to "
-#| "range: the closer the range the more deadly it becomes."
 msgid ""
 "The Helblaster is a primitive type of crank-driven and unreliable machine "
 "gun. It has maximum range of 30cm. Its attacks value varies according to "
@@ -590,13 +563,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/empire.adoc:209
-#, fuzzy
-#| msgid ""
-#| "If the player attempts to issue an order to a Steam Tank and rolls double "
-#| "six then the order is failed as usual and the machine does not move. "
-#| "Ignore the usual Blunder chart for heroes and wizards. Roll on the "
-#| "following Malfunction chart. Note that although a General cannot blunder "
-#| "he must still roll for malfunctions."
 msgid ""
 "If the player attempts to issue an order to a Steam Tank and rolls double "
 "six then the order is failed as usual and the machine does not move. Ignore "

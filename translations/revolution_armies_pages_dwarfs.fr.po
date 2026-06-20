@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dwarfs/fr/>\n"
 "Language: fr\n"
@@ -240,21 +240,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:75
-#, fuzzy
-#| msgid ""
-#| "Dwarfs are shorter and far stouter than men or elves. They are also much "
-#| "stronger and more resilient. They consider humans and elves to be "
-#| "gangling weaklings liable to be blown over in a decent breeze. Dwarfs are "
-#| "expert craftsmen, especially when it comes to metal work, smithying, "
-#| "gemcutting and jewellery making. Despite their cumbersome appearance they "
-#| "are astonishingly skilful at making fine, intricate mechanisms such as "
-#| "locks, concealed drawers, and hidden doorways. They are adept stonemasons "
-#| "and take great pride in their ability to build to last. Indeed, the "
-#| "phrase ‘Dwarf-built’ is a byword for indestructible, whilst the Dwarfish "
-#| "word for ’shoddy’ translates quite literally as ‘manmade’. Even the Elves "
-#| "consider Dwarf metalcraft the finest in the world. Elves are less "
-#| "appreciative of Dwarf taste, which they consider to be extra-ordinarily "
-#| "gaudy and vulgar."
 msgid ""
 "Dwarfs are shorter and far stouter than men or elves. They are also much "
 "stronger and more resilient. They consider humans and elves to be gangling "
@@ -477,16 +462,12 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:174
-#, fuzzy
-#| msgid ""
-#| "Slayer units that have been destroyed still count towards the Dwarf "
-#| "army’s losses for purposes of calculating withdrawal."
 msgid ""
 "Troll Slayer units that have been destroyed still count towards the Dwarf "
 "army’s losses for purposes of calculating withdrawal."
 msgstr ""
-"Les unités de Tueurs détruites comptent quand même parmi les pertes de "
-"l’armée pour ce qui est de déterminer son seuil de déroute."
+"Les unités de Tueurs détruites comptent quand même parmi les pertes de l’"
+"armée pour ce qui est de déterminer son seuil de déroute."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dwarfs.adoc:175
@@ -645,13 +626,6 @@ msgstr "[[hero,†7]]7. Héros"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:246
-#, fuzzy
-#| msgid ""
-#| "One Hero in the army may be upgraded to carry an Oathstone for +15 pts. "
-#| "Once per game, the Hero may use the Oathstone to inspire one unit that he "
-#| "has joined (except Trollslayers). Both the Hero, and the unit he has "
-#| "joined, gain +1 attack per stand, and are immune to Terror, until the end "
-#| "of the combat phase."
 msgid ""
 "One Hero in the army may be upgraded to carry an Oathstone for +15 pts. Once "
 "per game, the Hero may use the Oathstone to inspire one unit that he has "
@@ -673,21 +647,6 @@ msgstr "[[runesmith,†8]]8. Maître des Runes"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dwarfs.adoc:262
-#, fuzzy
-#| msgid ""
-#| "Although they are not wizards and cannot therefore cast spells, Dwarf "
-#| "Runesmiths can combat the magic of their enemies. If an enemy Wizard who "
-#| "is within 50cm of the Runesmith casts a spell the Runesmith can attempt "
-#| "to ‘anti-magic’ it. Note that it does not matter what the spell is or "
-#| "where it is cast, the Runesmith can ‘anti-magic’ it so long as the caster "
-#| "is with 50cm. To determine if this works roll a D6 – on the score of 4, 5 "
-#| "or 6 the Runesmith has succeeded and the spell doesn’t work, it is "
-#| "dispelled by the Runesmith’s defiant efforts. If he fails then the "
-#| "Runesmith’s efforts come to nothing and the spell works as normal. A "
-#| "Runesmith can attempt to anti-magic any number of spells in a turn, but "
-#| "only one attempt can be made to anti-magic any individual spell – even if "
-#| "the army includes more than one Runesmith and several are in range of the "
-#| "enemy Wizard."
 msgid ""
 "Although they are not Wizards and cannot therefore cast spells, Dwarf "
 "Runesmiths can combat the magic of their enemies. If an enemy Wizard who is "

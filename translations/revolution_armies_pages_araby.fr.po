@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Augustin Bodin <augustin.bodin@laposte.net>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_araby/fr/>\n"
 "Language: fr\n"
@@ -276,14 +276,6 @@ msgstr "Djinn"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:45
-#, fuzzy
-#| msgid ""
-#| "image:araby/logo.webp[width=94,height=84,float=\"right\"] The land of "
-#| "Araby lies along the north west coast of the Southlands between the "
-#| "Atalan mountains and the Great Ocean. To the east is the Great Desert "
-#| "that separates Araby from the Lands of the Dead. Although the climate is "
-#| "dry and hot the western winds carry moisture laden clouds that give up "
-#| "their water as they are suddenly forced upwards by tall Atalan peaks."
 msgid ""
 "image:araby/logo.webp[width=94,height=84,float=\"right\"] The land of Araby "
 "lies along the north west coast of the Southlands between the Atalan "
@@ -347,18 +339,6 @@ msgstr ""
 #.  sorcerers → Wizards
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:81
-#, fuzzy
-#| msgid ""
-#| "Araby lies far from the world’s poles and therefore from the ultimate "
-#| "source of the magical winds that blow from the north.  As a result magic "
-#| "that is common in the Old World is far more diffuse in Araby so it is "
-#| "much more difficult for sorcerers to work their spellcraft. Arabian magic "
-#| "has therefore developed quite differently than that of other men. Arabian "
-#| "sorcerers use their powers to control elemental spirits of the desert, "
-#| "djinn, efreets, genies and such-like spirits. These spirits are "
-#| "worshipped by the superstitious people of Araby. It is commonly believed "
-#| "that the spirits must be appeased with prayers and small tokens of "
-#| "respect such as gifts of food and drink."
 msgid ""
 "Araby lies far from the world’s poles and therefore from the ultimate source "
 "of the magical winds that blow from the north.  As a result magic that is "
@@ -383,15 +363,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:90
-#, fuzzy
-#| msgid ""
-#| "The rulers of Araby maintain their own armies based upon the great cities "
-#| "and tributary tribes that live in the surrounding lands. The leaders of "
-#| "these tribes are called Emirs or, amongst the desert tribes of the south "
-#| "and east, Sheiks. The rules of cities and their surrounding lands are "
-#| "called Sultans and the Sultan of Alhaka is the acknowledged overlord of "
-#| "all the other cities of Araby. In consequence he is also known as the "
-#| "Great Sultan – the ruler of all Araby."
 msgid ""
 "The rulers of Araby maintain their own armies based upon the great cities "
 "and tributary tribes that live in the surrounding lands. The leaders of "
@@ -403,27 +374,13 @@ msgid ""
 msgstr ""
 "Les dirigeants arabiens lèvent leurs propres armées dans les grandes villes "
 "et au sein des tribus vivant dans les terres alentour. Les chefs de ces "
-"tribus sont appelés émirs, ou cheiks dans le cas des nomades du sud et de "
-"l’est. Ceux qui gouvernent les cités portent le titre de sultan, et celui "
-"d’Alhaka est reconnu comme le Grand Sultan, commandeur suprême de toute "
+"tribus sont appelés émirs, ou cheiks dans le cas des nomades du sud et de l’"
+"est. Ceux qui gouvernent les cités portent le titre de sultan, et celui d’"
+"Alhaka est reconnu comme le Grand Sultan, commandeur suprême de toute "
 "l’Arabie."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:104
-#, fuzzy
-#| msgid ""
-#| "The Sultans are proud of their troops and especially of their cavalry. It "
-#| "is popularly supposed that the horses of Araby are descended from Elven "
-#| "horses brought over from the west many centuries ago. They are graceful "
-#| "and swift creatures and very highly valued. The very best of the Arabian "
-#| "foot-solders are also well equipped, with steel armour, keen tulwars, "
-#| "gleaming helmets, and fine silk clothing. These household troops or "
-#| "guards accompany the Sultans when they travel beyond the grounds of their "
-#| "magnificent palaces. The loyalty of these troops is famous. They are "
-#| "amply rewarded with riches, luxuries, and prestige as a result. As well "
-#| "as these regular and garrison troops there are the irregular fighters "
-#| "from the desert tribes, including camel mounted warriors from the lands "
-#| "to the south and east."
 msgid ""
 "The Sultans are proud of their troops and especially of their cavalry. It is "
 "popularly supposed that the horses of Araby are descended from Elven horses "
@@ -439,13 +396,13 @@ msgid ""
 msgstr ""
 "Les sultans sont fiers de leurs troupes et en particulier de leur cavalerie. "
 "La croyance veut que les chevaux arabiens descendent des coursiers elfiques "
-"qui furent amenés dans la région il y a des siècles. Ce sont des créatures "
-"d’une grande valeur, rapides et pleines de grâce. L’élite de l’infanterie "
+"qui furent amenés dans la région il y a des siècles. Ce sont des créatures d’"
+"une grande valeur, rapides et pleines de grâce. L’élite de l’infanterie "
 "arabienne est également très bien équipée, avec des armures d’acier poli, "
 "des tulwars tranchants et des vêtements de soie fine. Ces gardes prétoriens "
 "accompagnent les sultans lorsqu’ils quittent leurs palais féeriques et leur "
-"loyauté sans faille est amplement récompensée, les richesses et le luxe "
-"s’ajoutant au prestige. En plus de ces soldats réguliers et des troupes de "
+"loyauté sans faille est amplement récompensée, les richesses et le luxe s’"
+"ajoutant au prestige. En plus de ces soldats réguliers et des troupes de "
 "garnison, un sultan peut compter sur les forces irrégulières tirées des "
 "tribus du désert, à l’instar des méharistes des terres du sud et de l’est."
 
@@ -543,6 +500,9 @@ msgid ""
 "the closest categorisation to their type. Because they are awkward flyers, "
 "they can be pursued by any type of enemy troops."
 msgstr ""
+"Les Tapis Volants peuvent voler - ils sont considérés comme de la cavalerie "
+"volante, ce qui correspond le mieux à leur type. En raison de leur nature "
+"étrange, ils peuvent être poursuivis par n’importe quel type de troupe."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/araby.adoc:156
@@ -698,12 +658,6 @@ msgstr "[[djinn,†8]]8. Djinn"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:208
-#, fuzzy
-#| msgid ""
-#| "The Djinn accompanies its master and can transform both of them into a "
-#| "whirlwind enabling the stand to fly as for a normal flying mount. If the "
-#| "sorcerer has a Djinn he can also cast the <<curse-of-the-djinn>>) spell "
-#| "with a +1 casting bonus."
 msgid ""
 "The Djinn accompanies its master and can transform both of them into a "
 "whirlwind enabling the stand to fly as for a normal flying mount. If the "
@@ -750,10 +704,6 @@ msgstr "Tempête de Sable"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:233
-#, fuzzy
-#| msgid ""
-#| "_The sorcerer commands the desert spirits to engulf his foes in a "
-#| "swirling cloud of choking sand and dust._"
 msgid ""
 "_The Wizard commands the desert spirits to engulf his foes in a swirling "
 "cloud of choking sand and dust._"
@@ -763,11 +713,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:237
-#, fuzzy
-#| msgid ""
-#| "The spell is cast upon the Sorcerer himself and affects all enemy units "
-#| "within 30cm of the stand. The spell lasts until the end of the opposing "
-#| "player’s following turn."
 msgid ""
 "The spell is cast upon the Wizard himself and affects all enemy units within "
 "30cm of the stand. The spell lasts until the end of the opposing player’s "
@@ -779,13 +724,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:243
-#, fuzzy
-#| msgid ""
-#| "The spell affects the opposing army’s ability to issue commands.  All "
-#| "enemy units within 30cm of the Arabian Sorcerer suffer a −1 Command "
-#| "penalty. This penalty is applied when each order is issued. For example, "
-#| "a unit might therefore be within 30cm of the Sorcerer for one order but "
-#| "not for a second, for example."
 msgid ""
 "The spell affects the opposing army’s ability to issue commands.  All enemy "
 "units within 30cm of the Arabian Wizard suffer a −1 Command penalty. This "
@@ -816,10 +754,6 @@ msgstr "[.cost]#4+ pour lancer# [.points]#Portée 60cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:251
-#, fuzzy
-#| msgid ""
-#| "_The sorcerer creates the illusion of a huge host of fearsome warriors, "
-#| "bearing down inexorably upon his startled foes._"
 msgid ""
 "_The Wizard creates the illusion of a huge host of fearsome warriors, "
 "bearing down inexorably upon his startled foes._"
@@ -829,21 +763,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:267
-#, fuzzy
-#| msgid ""
-#| "To use this spell the player will need an additional unit chosen from the "
-#| "Araby list – this can be infantry, cavalry or monsters it does not matter "
-#| "which. This unit becomes the ‘illusion’ and is immediately placed within "
-#| "60cm of the sorcerer and more than 20cm from any enemy units. The "
-#| "illusionary unit cannot move or fight – for it isn’t really there! "
-#| "However, the illusionary unit is treated as if it were real by the enemy "
-#| "up until such time as an enemy unit charges into contact with it, touches "
-#| "it as an incidental contact during combat, advances upon it, or brings it "
-#| "into combat in any other fashion. This means, for example, Command "
-#| "penalties are suffered for proximity, and enemy shooters are obliged to "
-#| "target the illusion if it is the closest target – it cannot be harmed of "
-#| "course! The illusionary unit is also dispelled immediately if the Araby "
-#| "player moves any of his units or characters through it."
 msgid ""
 "To use this spell the player will need an additional unit chosen from the "
 "Araby list – this can be infantry, cavalry or monsters it does not matter "
@@ -860,19 +779,19 @@ msgid ""
 "of his units or characters through it."
 msgstr ""
 "Pour pouvoir utiliser ce sort, le joueur aura besoin d’une unité "
-"supplémentaire choisie dans la liste d’armée arabienne : il peut s’agir "
-"d’infanterie, de cavalerie ou de monstres, peu importe. Cette unité "
-"représente l’illusion et est immédiatement placée à 60 cm ou moins du "
-"Sorcier, mais à plus de 20 cm de tout ennemi. L’illusion ne peut pas se "
-"déplacer ou combattre, puisqu’elle n’existe pas ! Cependant, elle affectera "
-"l’ennemi jusqu’à ce qu’il la charge, arrive à son contact par le biais des "
-"mouvements entraînés par un combat, effectue une avance sur elle ou se "
-"retrouve à son contact par n’importe quel autre moyen. Tant que l’ennemi est "
-"affecté, celle-ci inflige les pénalités de Commandement habituelles en "
-"raison de sa proximité, et les tireurs adverses doivent tirer sur elle si "
-"elle est la cible la plus proche. L’illusion ne peut bien entendu pas être "
-"blessée par les tirs ! Elle est immédiatement dissipée si le joueur arabien "
-"fait avancer une unité ou un personnage à travers elle."
+"supplémentaire choisie dans la liste d’armée arabienne : il peut s’agir d’"
+"infanterie, de cavalerie ou de monstres, peu importe. Cette unité représente "
+"l’illusion et est immédiatement placée à 60 cm ou moins du Sorcier, mais à "
+"plus de 20 cm de tout ennemi. L’illusion ne peut pas se déplacer ou "
+"combattre, puisqu’elle n’existe pas ! Cependant, elle affectera l’ennemi "
+"jusqu’à ce qu’il la charge, arrive à son contact par le biais des mouvements "
+"entraînés par un combat, effectue une avance sur elle ou se retrouve à son "
+"contact par n’importe quel autre moyen. Tant que l’ennemi est affecté, celle-"
+"ci inflige les pénalités de Commandement habituelles en raison de sa "
+"proximité, et les tireurs adverses doivent tirer sur elle si elle est la "
+"cible la plus proche. L’illusion ne peut bien entendu pas être blessée par "
+"les tirs ! Elle est immédiatement dissipée si le joueur arabien fait avancer "
+"une unité ou un personnage à travers elle."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:272
@@ -893,10 +812,6 @@ msgstr "Rayon Solaire"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:280
-#, fuzzy
-#| msgid ""
-#| "_Bright beams of burning energy leap from the sorcerer’s eyes and scythe "
-#| "through all before him._"
 msgid ""
 "_Bright beams of burning energy leap from the Wizard’s eyes and scythe "
 "through all before him._"
@@ -916,17 +831,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:296
-#, fuzzy
-#| msgid ""
-#| "Draw an imaginary line 30cm long from the Wizard’s stand in any direction "
-#| "you wish. Each unit under the line takes three shooting attacks worked "
-#| "out in the usual way all relevant modifiers are applied. Note that this "
-#| "spell can easily affect several units and will affect all units that fall "
-#| "beneath its path (including you own). Unengaged units can be driven back "
-#| "by Sunstrike as with ordinary shooting whether friend or foe.  Engaged "
-#| "units cannot be driven back but carry over any hits that are scored into "
-#| "the first round of combat. Hits caused by the Sunstrike count as having "
-#| "been struck in the combat itself."
 msgid ""
 "Each unit under the line takes three shooting attacks worked out in the "
 "usual way – all relevant modifiers are applied. Note that this spell can "
@@ -937,16 +841,15 @@ msgid ""
 "combat. Hits caused by the Sunstrike count as having been struck in the "
 "combat itself."
 msgstr ""
-"Tracez une ligne imaginaire de 30 cm de long, à partir du socle du Sorcier "
-"et dans n’importe quelle direction. Toute unité traversée par la ligne subit "
-"3 attaques de tir résolues de la façon habituelle. Notez que ce sort peut "
-"affecter plusieurs unités, et affectera automatiquement toutes celles qui se "
-"trouvent sous la ligne, même les vôtres. Les unités non engagées au corps à "
-"corps peuvent être repoussées par un Rayon Solaire comme par des tirs "
-"ordinaires, y compris vos propres troupes. Les unités engagées au corps à "
-"corps ne peuvent pas être repoussées par la brûlure, mais les touches "
-"qu’elle inflige sont reportées au premier round de combat et comptent comme "
-"ayant été infligées durant le corps à corps."
+"Toute unité traversée par la ligne subit 3 attaques de tir résolues de la "
+"façon habituelle. Notez que ce sort peut affecter plusieurs unités, et "
+"affectera automatiquement toutes celles qui se trouvent sous la ligne, même "
+"les vôtres. Les unités non engagées au corps à corps peuvent être repoussées "
+"par un Rayon Solaire comme par des tirs ordinaires, y compris vos propres "
+"troupes. Les unités engagées au corps à corps ne peuvent pas être repoussées "
+"par la brûlure, mais les touches qu’elle inflige sont reportées au premier "
+"round de combat et comptent comme ayant été infligées durant le corps à "
+"corps."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/araby.adoc:298
@@ -956,10 +859,6 @@ msgstr "Malédiction du Djinn"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:304
-#, fuzzy
-#| msgid ""
-#| "_The Sorcerer channels the immense power of the Djinn through his own "
-#| "body and lays a terrible curse upon his foes._"
 msgid ""
 "_The Wizard channels the immense power of the Djinn through his own body and "
 "lays a terrible curse upon his foes._"
@@ -969,11 +868,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:308
-#, fuzzy
-#| msgid ""
-#| "The Sorcerer may cast this spell on an enemy unit within range.  The "
-#| "target unit must re-roll all successful armour saves for the duration of "
-#| "the following close combat phase."
 msgid ""
 "The Wizard may cast this spell on an enemy unit within range.  The target "
 "unit must re-roll all successful armour saves for the duration of the "
@@ -985,10 +879,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/araby.adoc:311
-#, fuzzy
-#| msgid ""
-#| "If the Sorcerer has a Djinn then he adds +1 to his dice roll when casting "
-#| "this spell, and therefore casts successfully on a 5+."
 msgid ""
 "If the Wizard has a Djinn then he adds +1 to his dice roll when casting this "
 "spell, and therefore casts successfully on a 5+."

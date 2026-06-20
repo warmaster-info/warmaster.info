@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_orcs/fr/>\n"
@@ -230,10 +230,9 @@ msgstr "Orques Noirs"
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:195
 #: en/revolution/modules/armies/pages/orcs.adoc:163
-#, fuzzy, no-wrap
-#| msgid "[[chariots,†8]]8. Chariots"
+#, no-wrap
 msgid "[[chariot-mount,†9]]9. Chariot Mount"
-msgstr "[[chariots,†8]]8. Chars"
+msgstr "[[chariot-mount,†9]]9. Char monté"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:246
@@ -362,10 +361,6 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/armies/pages/goblins.adoc:254
 #: en/revolution/modules/armies/pages/orcs.adoc:238
-#, fuzzy
-#| msgid ""
-#| "_The shaman summons the power of the mighty Waaagh! to invigorate the "
-#| "greenskins._"
 msgid ""
 "_The Shaman summons the power of the mighty Waaagh! to invigorate the "
 "greenskins._"
@@ -444,19 +439,6 @@ msgstr "Chaman Orque"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/orcs.adoc:56
-#, fuzzy
-#| msgid ""
-#| "image:orcs/logo.webp[width=90,height=102,float=\"right\"] Once Orcs ruled "
-#| "the whole of the Old World as well as the lands far to the east and "
-#| "south. The various tribes fought, conquered and absorbed each other in "
-#| "one huge glorious battle that lasted for countless centuries. ‘Countless’ "
-#| "because Orcs were and remain in a state of uncompromising savagery having "
-#| "mastered neither writing nor counting beyond three. This happily blood-"
-#| "thirsty state of affairs lasted until the human tribes united together "
-#| "with the Dwarfs to drive the Orcs from the lands west of the Worlds Edge "
-#| "Mountains. Subsequently, Orc tribes are mostly to be found in the Bad "
-#| "Lands to the south of the Old World and the Dark Lands to the east. There "
-#| "the great business of fighting amongst themselves continues to this day."
 msgid ""
 "image:orcs/logo.webp[width=90,height=102,float=\"right\"] Once Orcs ruled "
 "the whole of the Old World as well as the lands far to the east and south. "
@@ -472,10 +454,10 @@ msgid ""
 msgstr ""
 "image:orcs/logo.webp[width=90,height=102,float=\"right\"] Jadis, les orques "
 "régnaient sur la totalité du Vieux Monde, ainsi que sur les lointaines "
-"terres du sud et de l’est. Leurs tribus s’affrontaient, conquéraient et "
-"s’absorbaient en une longue bataille continue qui dura d’innombrables "
-"siècles. “Innombrable” est le mot, car les orques étaient alors et demeurent "
-"des êtres primitifs et sauvages, qui n’ont jamais maîtrisé l’écriture et ne "
+"terres du sud et de l’est. Leurs tribus s’affrontaient, conquéraient et s’"
+"absorbaient en une longue bataille continue qui dura d’innombrables siècles. "
+"“Innombrable” est le mot, car les orques étaient alors et demeurent des "
+"êtres primitifs et sauvages, qui n’ont jamais maîtrisé l’écriture et ne "
 "savent pas compter au-delà de trois. Cette bataille perpétuelle dura jusqu’à "
 "ce que les tribus humaines s’unissent et s’allient aux nains pour repousser "
 "les orques des régions situées à l’ouest des Montagnes du Bord du Monde. Par "
@@ -638,10 +620,9 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/orcs.adoc:158
-#, fuzzy, no-wrap
-#| msgid "[[wyverns,†7]]7. Wyverns"
+#, no-wrap
 msgid "[[wyverns,†8]]8. Wyverns"
-msgstr "[[wyverns,†7]]7. Vouivres"
+msgstr "[[wyverns,†8]]8. Vouivres"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/orcs.adoc:162
@@ -657,10 +638,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/orcs.adoc:165
-#, fuzzy
-#| msgid ""
-#| "A General, Wizard or Hero can ride a Chariot. A character in a chariot "
-#| "adds +1 to his Attacks."
 msgid ""
 "Generals, Heroes and Shamans can ride a Chariot. A character in a chariot "
 "adds +1 to his Attacks."
@@ -734,10 +711,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/orcs.adoc:219
-#, fuzzy
-#| msgid ""
-#| "_The voice of Gork booms out across the battlefield driving back his foes "
-#| "with a rancid gale force yell._"
 msgid ""
 "_The voice of Gork booms out across the battlefield driving back his foes "
 "with a rancid gale-force yell._"
@@ -753,13 +726,6 @@ msgstr "Waaagh !"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/orcs.adoc:244
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast on a friendly unit of Orc or Goblins engaged in "
-#| "combat; including Black Orcs, Wolf Riders, Boar Boyz and any type of Orc "
-#| "or Goblin troops but not Trolls, Ogres, Giants or other non-greenskins. "
-#| "The spell can be cast regardless of whether the Shaman can see the target "
-#| "or not."
 msgid ""
 "This spell can be cast on a friendly unit of Orcs or Goblins engaged in "
 "combat; including Black Orcs, Wolf Riders, Boar Boyz and any type of Orc or "
@@ -767,8 +733,8 @@ msgid ""
 "spell can be cast regardless of whether the Shaman can see the target or not."
 msgstr ""
 "Ce sort peut être lancé sur toute unité amie peau-verte (Orques, Gobelins, "
-"Orques Noirs, Gobelins sur Loup, Orques sur Sanglier, et tout autre type "
-"d’Orque ou de Gobelin, mais pas les Trolls, les Géants, les Ogres et les "
+"Orques Noirs, Gobelins sur Loup, Orques sur Sanglier, et tout autre type d’"
+"Orque ou de Gobelin, mais pas les Trolls, les Géants, les Ogres et les "
 "troupes n’étant pas des peaux-vertes) engagée au combat et à portée du "
 "chaman, qu’il puisse la voir ou non."
 

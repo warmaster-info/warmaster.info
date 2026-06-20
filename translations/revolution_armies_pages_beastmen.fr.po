@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_beastmen/fr/>\n"
 "Language: fr\n"
@@ -354,10 +354,9 @@ msgstr "Règles de l'Armée"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/beastmen.adoc:93
-#, fuzzy, no-wrap
-#| msgid "The things in the woods"
+#, no-wrap
 msgid "The Thing in the Woods"
-msgstr "Les êtres des bois"
+msgstr "Les Êtres des Bois"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:95
@@ -457,12 +456,6 @@ msgstr "[[minotaurs,†2]]2. Minotaures"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:138
-#, fuzzy
-#| msgid ""
-#| "Minotaurs are subject for Bloodlust – they always use initiative to "
-#| "charge if possible and cannot be given orders instead. A unit with "
-#| "Bloodlust never use initiative to evade and must pursue or advance where "
-#| "possible."
 msgid ""
 "Minotaurs are subject to Bloodlust – they always use initiative to charge if "
 "possible and cannot be given orders instead. A unit with Bloodlust never "
@@ -664,8 +657,7 @@ msgstr ""
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/beastmen.adoc:215
-#, fuzzy, no-wrap
-#| msgid "Hunting for Gore!"
+#, no-wrap
 msgid "Hunting for Gore"
 msgstr "Frénésie Sanglante"
 
@@ -682,13 +674,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/beastmen.adoc:230
-#, fuzzy
-#| msgid ""
-#| "The spell can be cast on unengaged friendly unit within range regardless "
-#| "of whether the Shaman can see it or not. The spell affects only a single "
-#| "unit, never a brigade. The unit can be moved just as if it had received "
-#| "an order in the Command phase.  Character stands that have joined the "
-#| "unit will not move with it – they remain where they are."
 msgid ""
 "The spell can be cast on an unengaged friendly unit within range regardless "
 "of whether the Shaman can see it or not. The spell affects only a single "

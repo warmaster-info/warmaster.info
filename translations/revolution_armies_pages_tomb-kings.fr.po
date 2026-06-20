@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_tomb-kings/fr/>\n"
@@ -255,17 +255,6 @@ msgstr "Char Liche"
 #.  TODO: Logo is half the resolution of all the others.
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:47
-#, fuzzy
-#| msgid ""
-#| "image:tomb-kings/logo.webp[width=93,height=117,float=\"right\"] In ages "
-#| "past the land of Khemri was fertile, populous and prosperous thanks to "
-#| "the waters of the Great River of Life whose annual floods irrigated the "
-#| "fields and guaranteed a bountiful harvest. Each city was ruled by a "
-#| "Priest King and for many centuries these omnipotent monarchs lived and "
-#| "died and were buried in tombs constructed by their faithful Liche "
-#| "Priests. The bodies of the Priest Kings, and those of their most faithful "
-#| "troops and retainers, were carefully embalmed and interred with holy "
-#| "spells of immortality to prepare them for the far off day of re-awakening."
 msgid ""
 "image:tomb-kings/logo.webp[width=93,height=117,float=\"right\"] In ages past "
 "the land of Khemri was fertile, populous and prosperous thanks to the waters "
@@ -458,11 +447,6 @@ msgstr "[[bone-giant,†2]]2. Géants d’Os"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:137
-#, fuzzy
-#| msgid ""
-#| "Bone Giants cause terror. When a Tomb King gives an order to a Bone Giant "
-#| "or a brigade that contains a Bone Giant there is a −1 Command penalty. "
-#| "There is no penalty when a Liche-Priest gives an order."
 msgid ""
 "Bone Giants cause terror. When a Tomb King gives an order to a Bone Giant or "
 "a brigade that contains a Bone Giant there is a −1 Command penalty. There is "
@@ -610,17 +594,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:199
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast upon a combat engagement taking place within 30cm "
-#| "of the Wizard. The spell can be cast regardless of whether the Wizard can "
-#| "see any units in the combat engagement or not. A single combat engagement "
-#| "can only be affected once by this spell in any turn regardless of how "
-#| "many units are involved in the combat. For purposes of deciding whether a "
-#| "combat is eligible as a target, combat engagements are as they appear "
-#| "when the die to cast the spell is rolled: so it is possible for pursuit "
-#| "or advances to bring two units of raised dead into the same engagement "
-#| "later on."
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
 "the Wizard. The spell can be cast regardless of whether the Wizard can see "
@@ -753,10 +726,6 @@ msgstr "Éclair de Mort"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:258
-#, fuzzy
-#| msgid ""
-#| "_A fearsome bolt of sorcerous lightning flies from the Wizard’s "
-#| "outstretched finger tips and strikes an enemy unit._"
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
 "fingertips and strikes an enemy unit._"

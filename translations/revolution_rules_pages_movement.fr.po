@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-03-30 17:24+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_movement/fr/>\n"
 "Language: fr\n"
@@ -33,8 +33,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:676
 #: en/revolution/modules/rules/pages/command.adoc:539
 #: en/revolution/modules/rules/pages/movement.adoc:337
-#, fuzzy, no-wrap
-#| msgid "Optional rule"
+#, no-wrap
 msgid "Optional rules"
 msgstr "Règles optionnelles"
 
@@ -168,10 +167,9 @@ msgstr ""
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/combat.adoc:699
 #: en/revolution/modules/rules/pages/movement.adoc:984
-#, fuzzy, no-wrap
-#| msgid "Dense terrain"
+#, no-wrap
 msgid "Impassable terrain"
-msgstr "Terrain difficile"
+msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/command.adoc:479
@@ -1185,10 +1183,9 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/movement.adoc:945
-#, fuzzy, no-wrap
-#| msgid "Dense terrain"
+#, no-wrap
 msgid "Passable terrain"
-msgstr "Terrain difficile"
+msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/movement.adoc:947
@@ -1205,10 +1202,9 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/movement.adoc:951
-#, fuzzy, no-wrap
-#| msgid "Dense terrain"
+#, no-wrap
 msgid "Rough terrain"
-msgstr "Terrain difficile"
+msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/movement.adoc:955
@@ -1230,10 +1226,9 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/movement.adoc:962
-#, fuzzy, no-wrap
-#| msgid "Dense terrain"
+#, no-wrap
 msgid "Difficult terrain"
-msgstr "Terrain difficile"
+msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/movement.adoc:965
@@ -1253,10 +1248,9 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/movement.adoc:970
-#, fuzzy, no-wrap
-#| msgid "Dense terrain"
+#, no-wrap
 msgid "Broken terrain"
-msgstr "Terrain difficile"
+msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/movement.adoc:972
@@ -1393,12 +1387,11 @@ msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/movement.adoc:1033
-#, fuzzy, no-wrap
-#| msgid "Dense terrain"
+#, no-wrap
 msgid ""
 "*Rough* and *Dense* terrain.\n"
 "\n"
-msgstr "Terrain difficile"
+msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/rules/pages/movement.adoc:1034

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 16:24+0000\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_skaven/fr/>\n"
@@ -613,22 +613,13 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:189
-#, fuzzy
-#| msgid ""
-#| "The Warp Lightning Cannon has a range of 40cm and follows all the normal "
-#| "rules for artillery, but they can move up to 20cm. Half pace move is "
-#| "10cm. When making a shooting attack, any roll of double 1s to hit will "
-#| "cause the Warp Lightning Cannon unit to become confused. This includes "
-#| "stand and shoot attacks."
 msgid ""
 "When making a shooting attack, any roll of double 1s to hit will cause the "
 "Warp Lightning Cannon unit to become confused. This includes stand and shoot "
 "attacks."
 msgstr ""
-"Le Canon à Malefoudre bénéficie d’une portée de 40cm et suit les règles "
-"normales de l'Artillerie, mais peuvent se déplacer jusqu'à 20cm. Leur Demi-"
-"vitesse est de 10cm. Lors d'un tir, tout double 1 obtenu rend le confus le "
-"Canon à Malefoudre. Ceci inclut les tirs de contre-charge."
+"Lors d'un tir, tout double 1 obtenu rend le confus le Canon à Malefoudre. "
+"Ceci inclut les tirs de contre-charge."
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/skaven.adoc:190
@@ -638,12 +629,6 @@ msgstr "[[doom-wheel,†6]]6. Roue Infernale"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:195
-#, fuzzy
-#| msgid ""
-#| "When the Doom Wheel charges against targets in the open it receives D6 "
-#| "bonus Attacks in addition to the normal +1 Attack for charging. Note that "
-#| "this bonus applies only when charging – not during pursuits, advances and "
-#| "not when the Doom Wheel is charged itself."
 msgid ""
 "When the Doom Wheel charges against targets in the open it receives D6 bonus "
 "Attacks in addition to the normal +1 Attack for charging. Note that this "
@@ -862,10 +847,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/skaven.adoc:304
-#, fuzzy
-#| msgid ""
-#| "Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. "
-#| "1+4+1 = 6 Attacks upon the Skaven unit in the first round."
 msgid ""
 "Example, 1 + 4 + 6 = 11 extra attacks for the Skaven unit each round. "
 "1 + 4 + 1 = 6 Attacks upon the Skaven unit in the first round."

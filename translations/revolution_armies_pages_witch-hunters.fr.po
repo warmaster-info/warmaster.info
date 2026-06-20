@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_witch-hunters/fr/>\n"
 "Language: fr\n"
@@ -416,11 +416,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:124
-#, fuzzy
-#| msgid ""
-#| "Count enemy Armour values as one worse than normal when shot by a "
-#| "handgun. So an armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, "
-#| "whilst an Armour value of 6+ can’t save against a handgun."
 msgid ""
 "Count enemy Armour values as one worse than normal when shot by a handgun. "
 "So an Armour value of 3+ counts as 4+, 4+ as 5+, and 5+ as 6+, whilst an "

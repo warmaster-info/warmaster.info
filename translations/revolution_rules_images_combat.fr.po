@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-07-10 01:28+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_images_combat/fr/>\n"
 "Language: fr\n"
@@ -287,10 +287,9 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/combat/retreat-2.svg:1110
-#, fuzzy, no-wrap
-#| msgid "Retreats"
+#, no-wrap
 msgid "unit retreats"
-msgstr "Replis"
+msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/combat/retreat-2.svg:1113
@@ -475,10 +474,9 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/combat/supporting-troops.svg:1729
-#, fuzzy, no-wrap
-#| msgid "Attack"
+#, no-wrap
 msgid "can attack"
-msgstr "Attaque"
+msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/combat/supporting-troops.svg:1738

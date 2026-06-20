@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_vampire-counts/fr/>\n"
 "Language: fr\n"
@@ -358,19 +358,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:60
-#, fuzzy
-#| msgid ""
-#| "Although part of the Empire from its inception, Sylvania developed quite "
-#| "separately during the long period of anarchy known as the Age of Three "
-#| "Emperor’s when all centralised government broke down. In these years a "
-#| "new power arose in Sylvania taking the form of the Counts Carstein. The "
-#| "Carsteins quickly gained a reputation for cruelty that surpassed anything "
-#| "that had ever happened before in the Empire. Throughout the adjoining "
-#| "lands, stories were whispered of ghastly tortures and wanton cruelty, of "
-#| "necromancy and dark magic, and of the haunting of the land by restless "
-#| "spirits. People feared to walk abroad after nightfall for strange "
-#| "creatures stalked the night – creatures that feasted on the blood and "
-#| "flesh of men."
 msgid ""
 "Although part of the Empire from its inception, Sylvania developed quite "
 "separately during the long period of anarchy known as the Age of Three "
@@ -484,12 +471,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:118
-#, fuzzy
-#| msgid ""
-#| "Undead units never act on initiative. An Undead unit only moves in the "
-#| "Command phase if given orders (aside from Fell Bats which can ‘homeback’ "
-#| "as noted below). Including an Undead unit cannot make a supporting charge "
-#| "to support an unit of Ghouls charging on initiative."
 msgid ""
 "Undead units never act on initiative. An Undead unit only moves in the "
 "Command phase if given orders (aside from Fell Bats which can ‘home back’ as "
@@ -497,8 +478,8 @@ msgid ""
 "to support an unit of Ghouls charging on initiative."
 msgstr ""
 "Les morts-vivants n’agissent jamais par initiative. Une unité de morts-"
-"vivants ne peut se déplacer durant la phase d’ordre qu’après en avoir reçu "
-"l’ordre (sauf les Chauves-souris Vampires qui peuvent revenir comme "
+"vivants ne peut se déplacer durant la phase d’ordre qu’après en avoir reçu l’"
+"ordre (sauf les Chauves-souris Vampires qui peuvent revenir comme "
 "d’ordinaire). De plus les unités mort-vivantes ne peuvent faire une charge "
 "de soutien pour supporter une unité de Goules qui chargerait par initiative."
 
@@ -594,13 +575,6 @@ msgstr "[[vampire-lord,†4]]4. Seigneur Vampire"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:169
-#, fuzzy
-#| msgid ""
-#| "A Vampire Lord is a powerful sorcerers as well as the army’s general. He "
-#| "can cast spells in the same way as a wizard and can be given a magic item "
-#| "restricted to either a General or a Wizard. Note that the Vampire Lord is "
-#| "still a General and his command range extends over the whole battlefield "
-#| "as for other Generals."
 msgid ""
 "A Vampire Lord is a powerful sorcerers as well as the army’s general. He can "
 "cast spells in the same way as a Wizard and can be given a magic item "
@@ -626,10 +600,6 @@ msgstr "N’importe quel personnage peut être monté sur un Cauchemar Ailé."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:175
-#, fuzzy
-#| msgid ""
-#| "A winged Nightmare can fly increasing its rider’s move to 100cm and "
-#| "adding +2 to its rider’s attacks."
 msgid ""
 "A Winged Nightmare can fly increasing its rider’s move to 100cm and adding "
 "+2 to its rider’s attacks."
@@ -639,10 +609,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:178
-#, fuzzy
-#| msgid ""
-#| "A unit joined by a character riding a Nightmare causes terror in its "
-#| "enemies."
 msgid ""
 "A unit joined by a character riding a Winged Nightmare causes terror in its "
 "enemies."
@@ -681,17 +647,6 @@ msgstr "Sorts des Comtes Vampires"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:210
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast upon a combat engagement taking place within 30cm "
-#| "of the Wizard. The spell can be cast regardless of whether the Wizard can "
-#| "see any units in the combat engagement or not. A single combat engagement "
-#| "can only be affected once by this spell in any turn regardless of how "
-#| "many units are involved in the combat. For purposes of deciding whether a "
-#| "combat is eligible as a target, combat engagements are as they appear "
-#| "when the die to cast the spell is rolled: so it is possible for pursuit "
-#| "or advances to bring two units of raised dead into the same engagement "
-#| "later on."
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
 "the Wizard. The spell can be cast regardless of whether the Wizard can see "

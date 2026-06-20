@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_high-elves/fr/>\n"
 "Language: fr\n"
@@ -356,13 +356,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:64
-#, fuzzy
-#| msgid ""
-#| "Elves are not warlike by nature as are, for example, Orcs and even Dwarfs "
-#| "and men to some extent. However they are proud -some say arrogant – and "
-#| "ultimately confident in their purpose.  Thousands of years ago the Elves "
-#| "and Dwarfs fought a long and bitter war over possession of the Old World "
-#| "– a war fuelled by pride and suspicion on both sides."
 msgid ""
 "Elves are not warlike by nature as are, for example, Orcs and even Dwarfs "
 "and men to some extent. However they are proud – some say arrogant – and "
@@ -495,10 +488,6 @@ msgstr "[[dragons,†3]]3. Dragons"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:129
-#, fuzzy
-#| msgid ""
-#| "Dragons can fly. Dragon rider units and any other units that include a "
-#| "Dragon riding character cause terror in their enemies."
 msgid ""
 "Dragons can fly. Dragon Rider units and any other units that include a "
 "Dragon-riding character cause terror in their enemies."
@@ -530,12 +519,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:146
-#, fuzzy
-#| msgid ""
-#| "Generals, Wizards and Heroes can ride Dragons. A Dragon can fly "
-#| "increasing its rider’s move to 100cm. An extra [.edit]#+3/3# Attacks are "
-#| "added to those of its rider. A Dragon can breathe fire if the character "
-#| "has joined a unit that isn’t engaged in combat."
 msgid ""
 "Generals, Mages and Heroes can ride Dragons. A Dragon can fly increasing its "
 "rider’s move to 100cm. An extra [.edit]#+3/3# Attacks are added to those of "
@@ -572,10 +555,9 @@ msgstr "[[elven-bolt-thrower,†4]]4. Baliste à Répétition"
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/high-elves.adoc:157
-#, fuzzy, no-wrap
-#| msgid "[[wizard,†5]]5. Wizard"
+#, no-wrap
 msgid "[[mage,†5]]5. Mage"
-msgstr "[[wizard,†5]]5. Sorcier"
+msgstr "[[mage,†5]]5. Sorcier"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:161
@@ -596,11 +578,6 @@ msgstr "[[giant-eagle-mount,†6]]6. Aigle Géant Monté"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:165
-#, fuzzy
-#| msgid ""
-#| "Generals, Wizards and Heroes can ride a Giant Eagle. An Eagle can fly "
-#| "increasing its rider’s move from 60 to 100cm. An extra +2 Attacks are "
-#| "added to those of its rider."
 msgid ""
 "Generals, Mages and Heroes can ride a Giant Eagle. An Eagle can fly "
 "increasing its rider’s move from 60 to 100cm. An extra +2 Attacks are added "
@@ -612,10 +589,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:168
-#, fuzzy
-#| msgid ""
-#| "Generals, Wizards and Heroes can ride Chariots. An extra +1 Attack is "
-#| "added to those of its rider."
 msgid ""
 "Generals, Mages and Heroes can ride Chariots. An extra +1 Attack is added to "
 "those of its rider."
@@ -702,10 +675,6 @@ msgstr "Feu Céleste"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:215
-#, fuzzy
-#| msgid ""
-#| "_The mage imbues the Elven archers with an unearthly swiftness enabling "
-#| "them to rain death upon the enemy._"
 msgid ""
 "_The Mage imbues the Elven archers with an unearthly swiftness enabling them "
 "to rain death upon the enemy._"
@@ -748,10 +717,6 @@ msgstr "Pluie de Destruction"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/high-elves.adoc:234
-#, fuzzy
-#| msgid ""
-#| "_A hail of fiery arrows flies from the Mage’s outstretched finger tips "
-#| "and strikes an enemy unit._"
 msgid ""
 "_A hail of fiery arrows flies from the Mage’s outstretched fingertips and "
 "strikes an enemy unit._"

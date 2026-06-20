@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-03-25 09:24+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_dark-elves/fr/>\n"
 "Language: fr\n"
@@ -383,19 +383,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:104
-#, fuzzy
-#| msgid ""
-#| "From his icy realm Malekith broods over his lost kingdom and weaves dark "
-#| "spells against his enemies. His ships harass those of the High Elves, his "
-#| "raiders harry the coasts of Ulthuan and the Old World, whilst his "
-#| "generals plan to return to their homeland and win the Elven Kingdoms for "
-#| "their dark master. In the land of Naggaroth the Dark Elves raised temples "
-#| "to all manner of blood-thirsty Daemons. Witch Elves roam the night "
-#| "searching for sacrifices, breaking into home to steal away children, and "
-#| "murdering those foolish enough to walk abroad beneath the stars. Under "
-#| "the evil gaze of Morathi thousands are sacrificed upon the altars of "
-#| "Khaine while to this day she preserves her unholy youth by bathing in the "
-#| "blood of innocents."
 msgid ""
 "From his icy realm Malekith broods over his lost kingdom and weaves dark "
 "spells against his enemies. His ships harass those of the High Elves, his "
@@ -487,13 +474,6 @@ msgstr "[[cold-one-knights,†3]]3. Chevaliers sur Sang-froid"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:142
-#, fuzzy
-#| msgid ""
-#| "Such is their unthinking instinct to take a bite out of anything that "
-#| "passes, Cold One Knights has an Attack value bonus of +1 in the first "
-#| "round of each combat when fighting to the front, i.e. the Cold One "
-#| "Knights’ stand has to touch the enemy in arc of sight with its frontal "
-#| "edge and/or frontal corners (including contact by frontal corner only)."
 msgid ""
 "Such is their unthinking instinct to take a bite out of anything that "
 "passes, Cold One Knights have an Attack value bonus of +1 in the first round "
@@ -648,7 +628,7 @@ msgstr "Une unité rejointe par le personnage provoque la Terreur."
 #: en/revolution/modules/armies/pages/orcs.adoc:163
 #, no-wrap
 msgid "[[chariot-mount,†9]]9. Chariot Mount"
-msgstr ""
+msgstr "[[chariot-mount,†9]]9. Char monté"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:197
@@ -662,10 +642,9 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:198
-#, fuzzy, no-wrap
-#| msgid "[[cauldron-of-blood,†9]]9. Cauldron of Blood"
+#, no-wrap
 msgid "[[cauldron-of-blood,†10]]10. Cauldron of Blood"
-msgstr "[[cauldron-of-blood,†9]]9. Chaudron de Sang"
+msgstr "[[cauldron-of-blood,†10]]10. Chaudron de Sang"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:202
@@ -687,12 +666,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:212
-#, fuzzy
-#| msgid ""
-#| "The Cauldron of Blood adds +2 Attacks to the Sorceress and can be used to "
-#| "add +1 to the Sorceress’ dice roll to cast a spell once per battle. The "
-#| "player must announce that the Cauldron of Blood’s spell bonus is being "
-#| "used before rolling the dice to determine if the spell is cast."
 msgid ""
 "The Cauldron of Blood adds +2 Attacks to the Sorceress and can be used to "
 "add +1 to the Sorceress’s dice roll to cast a spell once per battle. The "
@@ -718,10 +691,6 @@ msgstr "Éclair Noir"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:226
-#, fuzzy
-#| msgid ""
-#| "_A bolt of pure malicious darkness arcs from the Sorcerer’s fingertip and "
-#| "stabs towards the foes of the Dark Elves._"
 msgid ""
 "_A bolt of pure malicious darkness arcs from the Sorceress’s fingertip and "
 "stabs towards the foes of the Dark Elves._"
@@ -857,10 +826,6 @@ msgstr "[.cost]#5+ pour lancer# [.points]#Portée N/A#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/dark-elves.adoc:282
-#, fuzzy
-#| msgid ""
-#| "_Invoking the daemons of the abyss the Sorcerer tears the very souls from "
-#| "his enemies._"
 msgid ""
 "_Invoking the daemons of the abyss the Sorceress tears the very souls from "
 "her enemies._"

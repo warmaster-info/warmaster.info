@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
 "Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_lizardmen/fr/>\n"
@@ -389,13 +389,6 @@ msgstr "Natifs de la Jungle"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:131
-#, fuzzy
-#| msgid ""
-#| "No command penalty is applied to any units in the Lizardmen army on "
-#| "account of dense terrain. The Lizardmen’s ruin infested jungle homeland "
-#| "is mostly dense terrain and they are used to communicating through thick "
-#| "jungle and narrow tunnels by a mix of instinct and bizarre sub-sonic "
-#| "noises inaudible to other races."
 msgid ""
 "No command penalty is applied to any units in the Lizardmen army on account "
 "of dense terrain. The Lizardmen’s ruin-infested jungle homeland is mostly "
@@ -444,19 +437,14 @@ msgstr "[[salamander,†3]]3. Salamandres"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:148
-#, fuzzy
-#| msgid ""
-#| "Salamander stands are not deployed as independent units. Instead, any "
-#| "Skink infantry unit may add one stand of Salamanders. This brings the "
-#| "size of the unit to 4 stands – 3 regular stands plus the Salamander."
 msgid ""
 "Salamander stands are not deployed as independent units. Instead, any Skink "
 "infantry unit may add one stand of Salamanders. This brings the size of the "
 "unit to 4 stands – 3 regular stands plus the Salamander stand."
 msgstr ""
 "Les socles de Salamandres ne combattent pas comme des unités indépendantes. "
-"À la place, vous pouvez inclure un socle de Salamandre à chaque unité "
-"d’infanterie Skink. La taille de l’unité passe ainsi à 4 socles (3 socles de "
+"À la place, vous pouvez inclure un socle de Salamandre à chaque unité d’"
+"infanterie Skink. La taille de l’unité passe ainsi à 4 socles (3 socles de "
 "Skinks et 1 de Salamandres)."
 
 #. type: Plain text
@@ -483,12 +471,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:162
-#, fuzzy
-#| msgid ""
-#| "If a Salamander stand is attached to a Skink unit the entire unit, "
-#| "including the Salamander, is considered to employ ‘Salamander Venom’ "
-#| "shooting attacks. Enemy Armour saving throws suffer a – 1 penalty when "
-#| "hit by Salamander Venom (e.g. 5+ save requires a roll of 6)."
 msgid ""
 "If a Salamander stand is attached to a Skink unit the entire unit, including "
 "the Salamander, is considered to employ ‘Salamander Venom’ shooting attacks. "
@@ -614,17 +596,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:218
-#, fuzzy
-#| msgid ""
-#| "In addition the Slann is a great sorcerer. He can cast spells as a Wizard "
-#| "and can be given a magic item restricted to either a general or wizard "
-#| "should you so wish. Slann Mages are especially powerful wizards and to "
-#| "represent this can re-roll a failed spell on any dice result except a 1. "
-#| "If a spell is failed because a 1 is rolled then no re-roll is permitted. "
-#| "The Slann Mage can also cast his spell using a Skink Shaman as the focus "
-#| "if desired – work out range and line of sight as if the spell was cast by "
-#| "the Shaman. This does not affect the Shaman’s own ability to cast spells "
-#| "that turn."
 msgid ""
 "In addition the Slann is a great sorcerer. He can cast spells as a Wizard "
 "and can be given a magic item restricted to either a General or Wizard "
@@ -695,10 +666,6 @@ msgstr "Regard de Sotek"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:242
-#, fuzzy
-#| msgid ""
-#| "_Burning jade coloured rays leap from the wizard’s lidded eyes "
-#| "enshrouding and choking his enemies in writhing coils of magic._"
 msgid ""
 "_Burning jade-coloured rays leap from the Shaman’s lidded eyes enshrouding "
 "and choking his enemies in writhing coils of magic._"
@@ -708,11 +675,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:246
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast on an enemy unit. The Wizard must be able to see "
-#| "his target to use this spell. The spell cannot be directed at a unit "
-#| "engaged in combat."
 msgid ""
 "This spell can be cast on an enemy unit. The Shaman must be able to see his "
 "target to use this spell. The spell cannot be directed at a unit engaged in "
@@ -741,10 +703,6 @@ msgstr "Vengeance de Mazdamundi"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:259
-#, fuzzy
-#| msgid ""
-#| "_The wizard’s foes bowels melt with dread or possibly something much "
-#| "worse, hindering their movement as if hobbled._"
 msgid ""
 "_The Shaman’s foes’ bowels melt with dread or possibly something much worse, "
 "hindering their movement as if hobbled._"
@@ -755,10 +713,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:262
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast on any enemy unit within range regardless of "
-#| "whether the Wizard can see it or not."
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Shaman can see it or not."
@@ -793,10 +747,6 @@ msgstr "Ailes de la Jungle"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:279
-#, fuzzy
-#| msgid ""
-#| "_An eerie aura surrounds the Wizard and his companions lifting them into "
-#| "the air and transporting them effortlessly from one place to another._"
 msgid ""
 "_An eerie aura surrounds the Shaman and his companions lifting them into the "
 "air and transporting them effortlessly from one place to another._"
@@ -806,11 +756,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:283
-#, fuzzy
-#| msgid ""
-#| "The spell can be cast on any unengaged friendly unit that the Wizard has "
-#| "joined. The spell affects only a single unit, never a brigade and there "
-#| "is no supporting charge possible."
 msgid ""
 "The spell can be cast on any unengaged friendly unit that the Shaman has "
 "joined. The spell affects only a single unit, never a brigade and there is "
@@ -823,22 +768,16 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:289
-#, fuzzy
-#| msgid ""
-#| "The unit can be moved just as if it had received an order in the Command "
-#| "phase. The Wizard is moved together with the unit and remains joined with "
-#| "it. Other character stands that have joined the unit will not move with "
-#| "it: they remain where they are."
 msgid ""
 "The unit can be moved just as if it had received an order in the Command "
 "phase. The Shaman is moved together with the unit and remains joined with "
 "it. Other character stands that have joined the unit will not move with it: "
 "they remain where they are."
 msgstr ""
-"L’unité peut se déplacer comme si elle avait reçu un ordre durant la phase "
-"d’Ordres. Le Sorcier est déplacé en même temps que l’unité et reste avec "
-"elle. Si d’autres personnages ont rejoint l’unité, ils restent sur place et "
-"ne se déplacent pas avec elle."
+"L’unité peut se déplacer comme si elle avait reçu un ordre durant la phase d’"
+"Ordres. Le Sorcier est déplacé en même temps que l’unité et reste avec elle. "
+"Si d’autres personnages ont rejoint l’unité, ils restent sur place et ne se "
+"déplacent pas avec elle."
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/lizardmen.adoc:291
@@ -857,11 +796,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/lizardmen.adoc:301
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast upon a friendly unit that is engaged in combat and "
-#| "which is within range. The Wizard does not have to be able to see the "
-#| "target to cast the spell."
 msgid ""
 "This spell can be cast upon a friendly unit that is engaged in combat and "
 "which is within range. The Shaman does not have to be able to see the target "

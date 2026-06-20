@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-03-30 17:24+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_command/fr/>\n"
 "Language: fr\n"
@@ -22,8 +22,7 @@ msgstr ""
 #: en/revolution/modules/rules/pages/campaigns-of-conquest.adoc:676
 #: en/revolution/modules/rules/pages/command.adoc:539
 #: en/revolution/modules/rules/pages/movement.adoc:337
-#, fuzzy, no-wrap
-#| msgid "Optional rule"
+#, no-wrap
 msgid "Optional rules"
 msgstr "Règles optionnelles"
 

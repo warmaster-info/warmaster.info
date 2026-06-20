@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_wood-elves/fr/>\n"
 "Language: fr\n"
@@ -108,10 +108,8 @@ msgstr "Règles Spéciales"
 #: en/revolution/modules/armies/pages/witch-hunters.adoc:225
 #: en/revolution/modules/armies/pages/wood-elves.adoc:241
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
-#, fuzzy
-#| msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
-msgstr "[.cost]#5+ pour lancer# [.points]#Portée 30cm#"
+msgstr "[.cost]#4+ pour lancer# [.points]#Portée 30cm#"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/albion.adoc:197
@@ -271,8 +269,7 @@ msgstr "Branchimère"
 
 #. type: Attribute :spellweaver:
 #: en/revolution/modules/armies/pages/wood-elves.adoc:38
-#, fuzzy, no-wrap
-#| msgid "Spell Weaver"
+#, no-wrap
 msgid "Spellweaver"
 msgstr "Tisseur de Charmes"
 
@@ -421,13 +418,6 @@ msgstr "[[glade-guard,†1]]1. Garde Sylvain"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:122
-#, fuzzy
-#| msgid ""
-#| "Wood Elves are just as famed for their bow as their High Elf cousins, and "
-#| "as such Glade Guard units add +1 to their dice roll when making shooting "
-#| "attacks. Therefore these units score a hit against targets in the open on "
-#| "a 3+, against defended targets on a 4+, and against fortified targets on "
-#| "a 5+."
 msgid ""
 "Wood Elves are just as famed for their bow as their High Elf cousins, and as "
 "such Glade Guard units add +1 to their dice rolls when making shooting "
@@ -489,12 +479,6 @@ msgstr "[[waywatchers,†3]]3. Forestiers"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:141
-#, fuzzy
-#| msgid ""
-#| "Famous for their bow skills even by a Wood Elf standards, Waywatchers "
-#| "shoot the enemy with terrifying accuracy. They add +1 to their dice roll "
-#| "when making shooting attacks and these attacks are resolved at −1 Armour "
-#| "value of the enemy."
 msgid ""
 "Famous for their bow skills even by Wood Elf standards, Waywatchers shoot "
 "the enemy with terrifying accuracy. They add +1 to their dice rolls when "
@@ -551,10 +535,8 @@ msgstr "[[warhawk-riders,†6]]6. Guerriers Faucons"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:159
-#, fuzzy
-#| msgid "Warhawk Riders"
 msgid "Warhawk Riders can fly."
-msgstr "Guerriers Faucons"
+msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/wood-elves.adoc:162
@@ -656,8 +638,6 @@ msgstr "[[giant-stag,†10]]10. Grand Cerf"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:191
-#, fuzzy
-#| msgid "Generals, Nobles and Spell Weavers may ride a Giant Stag."
 msgid "Generals, Nobles and Spellweavers may ride a Giant Stag."
 msgstr ""
 "Le Général, les Nobles et les Tisseurs de Charmes peuvent chevaucher un "
@@ -676,8 +656,6 @@ msgstr "[[unicorn,†11]]11. Licorne"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:195
-#, fuzzy
-#| msgid "This mount can be ridden only by a Spell Weaver."
 msgid "This mount can be ridden only by a Spellweaver."
 msgstr "La Licorne ne peut être montée que par un Tisseur de Charmes."
 
@@ -710,8 +688,6 @@ msgstr "[[warhawk,†12]]12. Faucon de Guerre"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:208
-#, fuzzy
-#| msgid "General, Nobles and Spell Weavers may ride a Warhawk."
 msgid "General, Nobles and Spellweavers may ride a Warhawk."
 msgstr ""
 "Le Général, les Nobles et les Tisseurs de Charmes peuvent monter un Faucon "
@@ -735,8 +711,6 @@ msgstr "[[forest-dragon,†13]]13. Dragon des Forêts"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:214
-#, fuzzy
-#| msgid "Generals, Nobles and Spell Weavers may ride Forest Dragons."
 msgid "Generals, Nobles and Spellweavers may ride Forest Dragons."
 msgstr ""
 "Le Général, les Nobles et les Tisseurs de Charmes peuvent chevaucher des "
@@ -756,10 +730,6 @@ msgstr "Chant des Arbres"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:230
-#, fuzzy
-#| msgid ""
-#| "_The Spell Weaver calls forth a mass of tangling branches to surround "
-#| "their troops, protecting them from harm._"
 msgid ""
 "_The Spellweaver calls forth a mass of tangling branches to surround their "
 "troops, protecting them from harm._"
@@ -815,10 +785,6 @@ msgstr "Appel de la Chasse"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/wood-elves.adoc:260
-#, fuzzy
-#| msgid ""
-#| "_The Spell Weaver’s voice sings out across the battlefield directing "
-#| "troops above the tumult of combat with the magical Call of the Hunt._"
 msgid ""
 "_The Spellweaver’s voice sings out across the battlefield directing troops "
 "above the tumult of combat with the magical Call of the Hunt._"

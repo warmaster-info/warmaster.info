@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_armies_pages_daemons/fr/>\n"
 "Language: fr\n"
@@ -27,10 +27,9 @@ msgstr ""
 #: en/revolution/modules/armies/pages/high-elves.adoc:32
 #: en/revolution/modules/armies/pages/orcs.adoc:38
 #: en/revolution/modules/armies/partials/table-attributes.adoc:40
-#, fuzzy, no-wrap
-#| msgid "Daemon Chariots"
+#, no-wrap
 msgid "Chariot"
-msgstr "Chars Démoniaques"
+msgstr "Char"
 
 #. type: Title ===
 #: en/revolution/modules/armies/pages/albion.adoc:121
@@ -488,11 +487,6 @@ msgstr "Ils peuvent voler."
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:156
-#, fuzzy
-#| msgid ""
-#| "Daemon flyers are an exception to the normal conventions for basing "
-#| "monsters in that they face the long edge of the stand in the same way as "
-#| "infantry rather than the short edge as most other monsters."
 msgid ""
 "Daemon Flyers are an exception to the normal conventions for basing monsters "
 "in that they face the long edge of the stand in the same way as infantry "
@@ -585,11 +579,6 @@ msgstr "[[favour-of-the-gods,†6]]6. Faveur des Dieux"
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:188
-#, fuzzy
-#| msgid ""
-#| "Demon Overlord, Lords or Sorcerers can be given the Favour of the Gods. "
-#| "The character then gains +1 extra Attack and causes terror in its enemies "
-#| "as described in the Warmaster rulebook."
 msgid ""
 "Demon Overlord, Lord Heroes or Sorcerers can be given the Favour of the "
 "Gods. The character then gains +1 extra Attack and causes terror in its "
@@ -630,11 +619,6 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/daemons.adoc:209
-#, fuzzy
-#| msgid ""
-#| "This spell can be cast on any friendly Daemon unit of three stands that "
-#| "has lost one or two stands as casualties. It does not matter whether the "
-#| "Wizard can see the unit or not."
 msgid ""
 "This spell can be cast on any friendly Daemon unit originally of three "
 "stands that has lost one or two stands as casualties. It does not matter "

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2026-06-20 14:38+0200\n"
-"PO-Revision-Date: 2026-02-15 15:01+0000\n"
-"Last-Translator: Calcipox <calcipox@proton.me>\n"
+"PO-Revision-Date: 2026-06-20 13:39+0000\n"
+"Last-Translator: Weblate Admin <editor@warmaster.info>\n"
 "Language-Team: French <http://weblate.warmaster.info/projects/warmaster/"
 "revolution_rules_pages_game-sequence/fr/>\n"
 "Language: fr\n"
@@ -111,22 +111,16 @@ msgstr ""
 
 #. type: Table
 #: en/revolution/modules/rules/pages/game-sequence.adoc:62
-#, fuzzy
-#| msgid ""
-#| "[.bo5a]#Troops are moved# |The player whose turn it is [.bo5a]#can move "
-#| "his forces in the# Command phase Command phase. [.bo5a]#Units# can either "
-#| "move on their initiative or in response to orders as they receive them.  |"
-#| "See xref::command.adoc[].  | a|"
 msgid ""
 "[.bo5a]#Troops are moved# |The player whose turn it is [.bo5a]#can move his "
 "forces in the# Command [.edit]#& Initiative# phase.  [.bo5a]#Units# can "
 "either move on their initiative or in response to orders as they receive "
 "them.  |See xref::command.adoc[].  | a|"
 msgstr ""
-"[.bo5a]#Les troupes sont déplacées# |Le joueur dont c'est le tour "
-"[.bo5a]#peut déplacer ses forces lors de la# Phase de Commandement. Les "
-"[.bo5a]#Unités# peuvent se déplacer soit de leur propre initiative, soit en "
-"réponse aux ordres qu'elles reçoivent. |Voir xref::command.adoc[]. | a|"
+"[.bo5a]#Les troupes sont déplacées# |Le joueur dont c'est le tour [.bo5a]#"
+"peut déplacer ses forces lors de la# Phase de Commandement. Les [.bo5a]"
+"#Unités# peuvent se déplacer soit de leur propre initiative, soit en réponse "
+"aux ordres qu'elles reçoivent. |Voir xref::command.adoc[]. | a|"
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:64
