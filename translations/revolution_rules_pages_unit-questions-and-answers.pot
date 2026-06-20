@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,21 +28,21 @@ msgstr ""
 #. type: Block title
 #: en/revolution/modules/rules/pages/combat.adoc:108
 #: en/revolution/modules/rules/pages/combat.adoc:568
-#: en/revolution/modules/rules/pages/combat.adoc:1273
-#: en/revolution/modules/rules/pages/combat.adoc:1276
+#: en/revolution/modules/rules/pages/combat.adoc:1272
+#: en/revolution/modules/rules/pages/combat.adoc:1275
 #: en/revolution/modules/rules/pages/confusion.adoc:187
 #: en/revolution/modules/rules/pages/confusion.adoc:210
 #: en/revolution/modules/rules/pages/game-values.adoc:348
 #: en/revolution/modules/rules/pages/game-values.adoc:356
 #: en/revolution/modules/rules/pages/game-values.adoc:373
 #: en/revolution/modules/rules/pages/game-values.adoc:391
-#: en/revolution/modules/rules/pages/movement.adoc:452
-#: en/revolution/modules/rules/pages/movement.adoc:455
-#: en/revolution/modules/rules/pages/movement.adoc:506
-#: en/revolution/modules/rules/pages/movement.adoc:509
-#: en/revolution/modules/rules/pages/movement.adoc:532
-#: en/revolution/modules/rules/pages/movement.adoc:700
-#: en/revolution/modules/rules/pages/movement.adoc:761
+#: en/revolution/modules/rules/pages/movement.adoc:458
+#: en/revolution/modules/rules/pages/movement.adoc:461
+#: en/revolution/modules/rules/pages/movement.adoc:512
+#: en/revolution/modules/rules/pages/movement.adoc:515
+#: en/revolution/modules/rules/pages/movement.adoc:538
+#: en/revolution/modules/rules/pages/movement.adoc:706
+#: en/revolution/modules/rules/pages/movement.adoc:767
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:224
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:229
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:232
@@ -53,7 +53,7 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/game-sequence.adoc:64
 #: en/revolution/modules/rules/pages/shooting.adoc:2
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:154
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:159
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:77
 #, no-wrap
 msgid "Shooting"
@@ -61,7 +61,7 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/movement.adoc:2
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:98
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:103
 #: en/revolution/modules/rules/pages/unit-questions-and-answers.adoc:61
 #, no-wrap
 msgid "Movement"

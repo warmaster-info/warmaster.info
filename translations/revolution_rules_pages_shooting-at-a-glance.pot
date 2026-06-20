@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -104,8 +104,8 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:33
 msgid ""
-"Roll a dice for each hit taken, rolling 1 less dice for defended units and 2 "
-"less dice for fortified units."
+"The shooter rolls a dice for each hit taken, rolling 1 less dice for "
+"defended units and 2 less dice for fortified units."
 msgstr ""
 
 #. type: Plain text
@@ -166,10 +166,10 @@ msgstr ""
 #. type: Title ==
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:49
 #, no-wrap
-msgid "xref:shooting.adoc#disregard-odd-hits[Disregard odd hits]"
+msgid "xref:shooting.adoc#disregard-remaining-hits[Disregard remaining hits]"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/rules/pages/shooting-at-a-glance.adoc:51
-msgid "At the end of the Shooting phase any odd hits are disregarded."
+msgid "At the end of the Shooting phase any remaining hits are disregarded."
 msgstr ""

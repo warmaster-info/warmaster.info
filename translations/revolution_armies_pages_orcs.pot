@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,6 +38,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/albion.adoc:32
 #: en/revolution/modules/armies/pages/cathay.adoc:35
 #: en/revolution/modules/armies/pages/chaos.adoc:36
+#: en/revolution/modules/armies/pages/daemons.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:32
 #: en/revolution/modules/armies/pages/orcs.adoc:38
@@ -47,58 +48,61 @@ msgid "Chariot"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:123
-#: en/revolution/modules/armies/pages/araby.adoc:114
-#: en/revolution/modules/armies/pages/beastmen.adoc:87
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/albion.adoc:121
+#: en/revolution/modules/armies/pages/araby.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:88
+#: en/revolution/modules/armies/pages/beastmen.adoc:98
 #: en/revolution/modules/armies/pages/bretonnia.adoc:117
 #: en/revolution/modules/armies/pages/bretonnia.adoc:133
-#: en/revolution/modules/armies/pages/cathay.adoc:117
-#: en/revolution/modules/armies/pages/cathay.adoc:130
-#: en/revolution/modules/armies/pages/chaos.adoc:104
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
-#: en/revolution/modules/armies/pages/daemons.adoc:96
-#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:131
+#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:113
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/daemons.adoc:142
 #: en/revolution/modules/armies/pages/dark-elves.adoc:117
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
-#: en/revolution/modules/armies/pages/dwarfs.adoc:121
-#: en/revolution/modules/armies/pages/empire.adoc:99
-#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:123
+#: en/revolution/modules/armies/pages/dwarfs.adoc:123
+#: en/revolution/modules/armies/pages/empire.adoc:100
+#: en/revolution/modules/armies/pages/goblins.adoc:111
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
-#: en/revolution/modules/armies/pages/kislev.adoc:101
-#: en/revolution/modules/armies/pages/lizardmen.adoc:117
-#: en/revolution/modules/armies/pages/lizardmen.adoc:130
-#: en/revolution/modules/armies/pages/nippon.adoc:119
-#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/kislev.adoc:103
+#: en/revolution/modules/armies/pages/lizardmen.adoc:120
+#: en/revolution/modules/armies/pages/lizardmen.adoc:133
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/nippon.adoc:139
 #: en/revolution/modules/armies/pages/norse.adoc:83
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
-#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:104
+#: en/revolution/modules/armies/pages/orcs.adoc:121
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
-#: en/revolution/modules/armies/pages/skaven.adoc:106
-#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/skaven.adoc:131
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:123
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:104
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:129
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:113
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
-#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:115
+#: en/revolution/modules/rules/pages/battlefields.adoc:258
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
-#: en/revolution/modules/rules/pages/battlefields.adoc:448
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
+#: en/revolution/modules/rules/pages/battlefields.adoc:438
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
+#: en/revolution/modules/rules/pages/battlefields.adoc:526
+#: en/revolution/modules/rules/pages/battlefields.adoc:603
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
 #, no-wrap
 msgid "Special rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:135
-#: en/revolution/modules/armies/pages/chaos.adoc:111
-#: en/revolution/modules/armies/pages/orcs.adoc:141
+#: en/revolution/modules/armies/pages/albion.adoc:132
+#: en/revolution/modules/armies/pages/chaos.adoc:112
+#: en/revolution/modules/armies/pages/orcs.adoc:142
 msgid ""
 "If an Ogre unit can use its initiative to charge an enemy unit of humans at "
 "the start of the Command phase then it must do so. This happens "
@@ -108,62 +112,62 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:182
-#: en/revolution/modules/armies/pages/araby.adoc:257
-#: en/revolution/modules/armies/pages/beastmen.adoc:206
-#: en/revolution/modules/armies/pages/bretonnia.adoc:244
-#: en/revolution/modules/armies/pages/cathay.adoc:217
-#: en/revolution/modules/armies/pages/cathay.adoc:236
-#: en/revolution/modules/armies/pages/chaos.adoc:183
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:265
-#: en/revolution/modules/armies/pages/goblins.adoc:255
+#: en/revolution/modules/armies/pages/albion.adoc:179
+#: en/revolution/modules/armies/pages/araby.adoc:230
+#: en/revolution/modules/armies/pages/beastmen.adoc:203
+#: en/revolution/modules/armies/pages/bretonnia.adoc:248
+#: en/revolution/modules/armies/pages/cathay.adoc:212
+#: en/revolution/modules/armies/pages/cathay.adoc:231
+#: en/revolution/modules/armies/pages/chaos.adoc:180
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:264
+#: en/revolution/modules/armies/pages/goblins.adoc:251
 #: en/revolution/modules/armies/pages/high-elves.adoc:212
-#: en/revolution/modules/armies/pages/kislev.adoc:254
+#: en/revolution/modules/armies/pages/kislev.adoc:264
 #: en/revolution/modules/armies/pages/norse.adoc:189
-#: en/revolution/modules/armies/pages/orcs.adoc:231
-#: en/revolution/modules/armies/pages/skaven.adoc:261
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:210
+#: en/revolution/modules/armies/pages/orcs.adoc:235
+#: en/revolution/modules/armies/pages/skaven.adoc:244
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:225
+#: en/revolution/modules/armies/pages/wood-elves.adoc:241
 #: en/revolution/modules/armies/partials/empire-spells.adoc:47
 msgid "[.cost]#4+ to cast# [.points]#Range 30cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:194
-#: en/revolution/modules/armies/pages/albion.adoc:207
-#: en/revolution/modules/armies/pages/araby.adoc:304
-#: en/revolution/modules/armies/pages/beastmen.adoc:221
-#: en/revolution/modules/armies/pages/beastmen.adoc:238
-#: en/revolution/modules/armies/pages/bretonnia.adoc:260
-#: en/revolution/modules/armies/pages/bretonnia.adoc:279
-#: en/revolution/modules/armies/pages/cathay.adoc:253
-#: en/revolution/modules/armies/pages/chaos.adoc:203
-#: en/revolution/modules/armies/pages/chaos.adoc:238
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:278
-#: en/revolution/modules/armies/pages/daemons.adoc:217
-#: en/revolution/modules/armies/pages/daemons.adoc:233
-#: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:207
-#: en/revolution/modules/armies/pages/goblins.adoc:240
+#: en/revolution/modules/armies/pages/albion.adoc:197
+#: en/revolution/modules/armies/pages/albion.adoc:210
+#: en/revolution/modules/armies/pages/araby.adoc:277
+#: en/revolution/modules/armies/pages/beastmen.adoc:218
+#: en/revolution/modules/armies/pages/beastmen.adoc:235
+#: en/revolution/modules/armies/pages/bretonnia.adoc:264
+#: en/revolution/modules/armies/pages/bretonnia.adoc:283
+#: en/revolution/modules/armies/pages/cathay.adoc:248
+#: en/revolution/modules/armies/pages/chaos.adoc:200
+#: en/revolution/modules/armies/pages/chaos.adoc:235
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:277
+#: en/revolution/modules/armies/pages/daemons.adoc:222
+#: en/revolution/modules/armies/pages/daemons.adoc:238
+#: en/revolution/modules/armies/pages/dark-elves.adoc:223
+#: en/revolution/modules/armies/pages/goblins.adoc:203
+#: en/revolution/modules/armies/pages/goblins.adoc:236
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
-#: en/revolution/modules/armies/pages/kislev.adoc:239
-#: en/revolution/modules/armies/pages/lizardmen.adoc:244
-#: en/revolution/modules/armies/pages/lizardmen.adoc:300
+#: en/revolution/modules/armies/pages/kislev.adoc:249
+#: en/revolution/modules/armies/pages/lizardmen.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:294
 #: en/revolution/modules/armies/pages/norse.adoc:201
 #: en/revolution/modules/armies/pages/norse.adoc:255
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
-#: en/revolution/modules/armies/pages/orcs.adoc:189
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:249
+#: en/revolution/modules/armies/pages/orcs.adoc:193
+#: en/revolution/modules/armies/pages/skaven.adoc:259
 #: en/revolution/modules/armies/pages/skaven.adoc:276
-#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:252
-#: en/revolution/modules/armies/pages/wood-elves.adoc:267
-#: en/revolution/modules/armies/pages/wood-elves.adoc:278
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
+#: en/revolution/modules/armies/pages/wood-elves.adoc:256
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -178,16 +182,16 @@ msgid "Trolls"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/chaos.adoc:112
-#: en/revolution/modules/armies/pages/goblins.adoc:127
-#: en/revolution/modules/armies/pages/orcs.adoc:125
+#: en/revolution/modules/armies/pages/chaos.adoc:113
+#: en/revolution/modules/armies/pages/goblins.adoc:126
+#: en/revolution/modules/armies/pages/orcs.adoc:126
 #, no-wrap
 msgid "[[trolls,†2]]2. Trolls"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:122
-#: en/revolution/modules/armies/pages/orcs.adoc:135
+#: en/revolution/modules/armies/pages/chaos.adoc:123
+#: en/revolution/modules/armies/pages/orcs.adoc:136
 msgid ""
 "When trying to issue an order to a unit of Trolls or to a brigade that "
 "contains a unit of Trolls, any Command penalty applied for distance between "
@@ -200,21 +204,28 @@ msgid ""
 msgstr ""
 
 #. type: Attribute :black-orcs:
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:25
 #: en/revolution/modules/armies/pages/orcs.adoc:23
 #, no-wrap
 msgid "Black Orcs"
 msgstr ""
 
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dark-elves.adoc:195
+#: en/revolution/modules/armies/pages/orcs.adoc:163
+#, no-wrap
+msgid "[[chariot-mount,†9]]9. Chariot Mount"
+msgstr ""
+
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:243
-#: en/revolution/modules/armies/pages/orcs.adoc:172
+#: en/revolution/modules/armies/pages/dark-elves.adoc:246
+#: en/revolution/modules/armies/pages/orcs.adoc:176
 msgid "[.cost]#6+ to cast# [.points]#Range 50cm#"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:164
-#: en/revolution/modules/armies/pages/orcs.adoc:136
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:161
+#: en/revolution/modules/armies/pages/orcs.adoc:137
 #, no-wrap
 msgid "[[ogres,†3]]3. Ogres"
 msgstr ""
@@ -223,7 +234,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/goblins.adoc:1
 #: en/revolution/modules/armies/pages/goblins.adoc:19
 #: en/revolution/modules/armies/pages/orcs.adoc:24
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:95
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:96
 #, no-wrap
 msgid "Goblins"
 msgstr ""
@@ -264,52 +275,44 @@ msgid "Wyvern"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/goblins.adoc:120
-#: en/revolution/modules/armies/pages/orcs.adoc:122
+#: en/revolution/modules/armies/pages/goblins.adoc:119
+#: en/revolution/modules/armies/pages/orcs.adoc:123
 #, no-wrap
 msgid "[[goblins,†1]]1. Goblins"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:122
-#: en/revolution/modules/armies/pages/orcs.adoc:124
+#: en/revolution/modules/armies/pages/goblins.adoc:121
+#: en/revolution/modules/armies/pages/orcs.adoc:125
 msgid ""
 "A Goblin unit is allowed to shoot as if it had bows but its range is reduced "
 "to 15cm."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/goblins.adoc:172
-#: en/revolution/modules/armies/pages/orcs.adoc:148
+#: en/revolution/modules/armies/pages/goblins.adoc:168
+#: en/revolution/modules/armies/pages/orcs.adoc:146
 #, no-wrap
 msgid "[[giant,†5]]5. Giant"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/goblins.adoc:218
-#: en/revolution/modules/armies/pages/orcs.adoc:209
+#: en/revolution/modules/armies/pages/goblins.adoc:214
+#: en/revolution/modules/armies/pages/orcs.adoc:213
 #, no-wrap
 msgid "Gerroff!!!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:221
-#: en/revolution/modules/armies/pages/orcs.adoc:212
+#: en/revolution/modules/armies/pages/goblins.adoc:217
+#: en/revolution/modules/armies/pages/orcs.adoc:216
 msgid "[.cost]#5+ to cast# [.points]#Range 60cm#"
 msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/goblins.adoc:224
-#: en/revolution/modules/armies/pages/orcs.adoc:215
-msgid ""
-"_The voice of Gork booms out across the battlefield driving back his foes "
-"with a rancid gale force yell._"
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:228
-#: en/revolution/modules/armies/pages/orcs.adoc:180
-#: en/revolution/modules/armies/pages/orcs.adoc:219
+#: en/revolution/modules/armies/pages/orcs.adoc:184
+#: en/revolution/modules/armies/pages/orcs.adoc:223
 msgid ""
 "This spell can be cast on any unengaged enemy unit within range regardless "
 "of whether the Shaman can see it or not. The spell cannot be cast on a unit "
@@ -317,8 +320,8 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:235
-#: en/revolution/modules/armies/pages/orcs.adoc:226
+#: en/revolution/modules/armies/pages/goblins.adoc:231
+#: en/revolution/modules/armies/pages/orcs.adoc:230
 msgid ""
 "The enemy unit is driven back 1D6 × 5cm towards its own table edge. This is "
 "treated in the same way as a drive back from shooting, except that the "
@@ -329,16 +332,16 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:258
-#: en/revolution/modules/armies/pages/orcs.adoc:234
+#: en/revolution/modules/armies/pages/goblins.adoc:254
+#: en/revolution/modules/armies/pages/orcs.adoc:238
 msgid ""
-"_The shaman summons the power of the mighty Waaagh! to invigorate the "
+"_The Shaman summons the power of the mighty Waaagh! to invigorate the "
 "greenskins._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/goblins.adoc:268
-#: en/revolution/modules/armies/pages/orcs.adoc:244
+#: en/revolution/modules/armies/pages/goblins.adoc:264
+#: en/revolution/modules/armies/pages/orcs.adoc:248
 msgid ""
 "The spell lasts for the duration of the following Combat phase.  Every stand "
 "in the unit, including characters that have joined the unit, adds +1 to its "
@@ -347,7 +350,7 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/norse.adoc:211
-#: en/revolution/modules/armies/pages/orcs.adoc:198
+#: en/revolution/modules/armies/pages/orcs.adoc:202
 msgid ""
 "Draw an imaginary line 30cm long from the Shaman’s stand in any direction "
 "you wish. The line will pass through any intervening units but not beyond "
@@ -357,7 +360,7 @@ msgstr ""
 
 #. type: Attribute :orcs:
 #: en/revolution/modules/armies/pages/orcs.adoc:1
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:81
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:82
 #, no-wrap
 msgid "Orcs"
 msgstr ""
@@ -399,14 +402,14 @@ msgid "Orc Shaman"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:55
+#: en/revolution/modules/armies/pages/orcs.adoc:56
 msgid ""
 "image:orcs/logo.webp[width=90,height=102,float=\"right\"] Once Orcs ruled "
 "the whole of the Old World as well as the lands far to the east and south. "
 "The various tribes fought, conquered and absorbed each other in one huge "
 "glorious battle that lasted for countless centuries. ‘Countless’ because "
 "Orcs were and remain in a state of uncompromising savagery having mastered "
-"neither writing nor counting beyond three. This happily blood-thirsty state "
+"neither writing nor counting beyond three. This happily bloodthirsty state "
 "of affairs lasted until the human tribes united together with the Dwarfs to "
 "drive the Orcs from the lands west of the Worlds Edge Mountains. "
 "Subsequently, Orc tribes are mostly to be found in the Bad Lands to the "
@@ -415,7 +418,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:72
+#: en/revolution/modules/armies/pages/orcs.adoc:73
 msgid ""
 "Orcs are the largest and most ferocious of the greenskinned races and they "
 "dominate the smaller Goblins and Snotlings almost completely. Despite this "
@@ -434,7 +437,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:80
+#: en/revolution/modules/armies/pages/orcs.adoc:81
 msgid ""
 "The Orc way of life is war. Every Orc measures his worth by the number of "
 "enemies he has slain – and also the number of friends, for Orcs fight each "
@@ -445,7 +448,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:89
+#: en/revolution/modules/armies/pages/orcs.adoc:90
 msgid ""
 "All Orcs want to be biggest and best, and the surest way to achieve this is "
 "to follow the biggest Orc and share in his success.  Because the top "
@@ -457,7 +460,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:107
+#: en/revolution/modules/armies/pages/orcs.adoc:108
 msgid ""
 "There are an untold number of Orc tribes in the world and most are "
 "itinerant, surviving by a process of raiding and despoliation.  If one "
@@ -476,113 +479,113 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/orcs.adoc:112
+#: en/revolution/modules/armies/pages/orcs.adoc:113
 #, no-wrap
 msgid "Orcs army selector"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/armies/pages/orcs.adoc:117
+#: en/revolution/modules/armies/pages/orcs.adoc:118
 #, no-wrap
 msgid "include::partial$orcs.tsv[]\n"
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/orcs.adoc:142
+#: en/revolution/modules/armies/pages/orcs.adoc:143
 #, no-wrap
 msgid "[[wolf-riders,†4]]4. Wolf Riders"
 msgstr ""
 
-#. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:147
-msgid ""
-"The Wolf Rider’s range is restricted to 15cm.  Wolf Riders have 360° vision "
-"– stands in this unit can draw line of sight from all edges for the purpose "
-"of evading and shooting, including shooting at charging enemies. Note that "
-"this unit still needs Line of Sight from its front edge to charge an enemy."
-msgstr ""
-
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/orcs.adoc:151
+#: en/revolution/modules/armies/pages/orcs.adoc:149
 #, no-wrap
 msgid "[[rock-lobber,†6]]6. Rock Lobber"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:153
+#: en/revolution/modules/armies/pages/orcs.adoc:151
 msgid ""
 "Rock Lobber is a xref:rules:artillery-and-machines.adoc#stone-thrower[Stone "
 "Thrower] as described in the Rulebook."
 msgstr ""
 
 #. type: Labeled list
-#: en/revolution/modules/armies/pages/orcs.adoc:154
+#: en/revolution/modules/armies/pages/orcs.adoc:152
 #, no-wrap
-msgid "[[wyverns,†7]]7. Wyverns"
+msgid "[[orc-general,†7]]7. Orc General"
 msgstr ""
 
 #. type: Plain text
+#: en/revolution/modules/armies/pages/orcs.adoc:157
+msgid ""
+"Once per game, at any point in the Command Phase, the Orc General motivates "
+"his troops forwards. For the remainder of that Command phase, the Orc "
+"General ignores the Command Penalty for having an enemy within 20cm of a "
+"unit."
+msgstr ""
+
+#. type: Labeled list
 #: en/revolution/modules/armies/pages/orcs.adoc:158
+#, no-wrap
+msgid "[[wyverns,†8]]8. Wyverns"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/orcs.adoc:162
 msgid ""
 "Generals, Wizards and Heroes can ride Wyverns.  A Wyvern can fly, increasing "
 "its rider’s move from 60 to 100cm, and it adds +2 Attacks to those of its "
 "rider. A unit that includes a Wyvern rider causes terror in its enemies."
 msgstr ""
 
-#. type: Labeled list
-#: en/revolution/modules/armies/pages/orcs.adoc:159
-#, no-wrap
-msgid "[[chariots,†8]]8. Chariots"
-msgstr ""
-
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:161
+#: en/revolution/modules/armies/pages/orcs.adoc:165
 msgid ""
-"A General, Wizard or Hero can ride a Chariot. A character in a chariot adds "
-"+1 to his Attacks."
+"Generals, Heroes and Shamans can ride a Chariot. A character in a chariot "
+"adds +1 to his Attacks."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/orcs.adoc:166
+#: en/revolution/modules/armies/pages/orcs.adoc:170
 #, no-wrap
 msgid "Orc spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/orcs.adoc:169
+#: en/revolution/modules/armies/pages/orcs.adoc:173
 #, no-wrap
 msgid "Foot of Gork"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:176
+#: en/revolution/modules/armies/pages/orcs.adoc:180
 msgid ""
 "_A gigantic spectral green foot descends from the heavens with a mighty "
 "thunk, crushing the enemy to pulp and grinding their bones into the dirt._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:184
+#: en/revolution/modules/armies/pages/orcs.adoc:188
 msgid ""
 "The unit suffers six attacks worked out in the usual way. A unit cannot be "
 "driven back by the Foot of Gork because Gork’s foot descends from above!."
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/orcs.adoc:186
+#: en/revolution/modules/armies/pages/orcs.adoc:190
 #, no-wrap
 msgid "Gotcha"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:192
+#: en/revolution/modules/armies/pages/orcs.adoc:196
 msgid ""
 "_With a mighty heave a huge green fist erupts from the Shaman’s gaping mouth "
 "and strikes all within its path._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:207
+#: en/revolution/modules/armies/pages/orcs.adoc:211
 msgid ""
 "Each unit under the line takes three shooting attacks worked out in the "
 "usual way. Note that this spell can easily affect several units and will "
@@ -593,16 +596,23 @@ msgid ""
 "count as having been struck in the combat itself."
 msgstr ""
 
+#. type: Plain text
+#: en/revolution/modules/armies/pages/orcs.adoc:219
+msgid ""
+"_The voice of Gork booms out across the battlefield driving back his foes "
+"with a rancid gale-force yell._"
+msgstr ""
+
 #. type: Title ===
-#: en/revolution/modules/armies/pages/orcs.adoc:228
+#: en/revolution/modules/armies/pages/orcs.adoc:232
 #, no-wrap
 msgid "Waagh!"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/orcs.adoc:240
+#: en/revolution/modules/armies/pages/orcs.adoc:244
 msgid ""
-"This spell can be cast on a friendly unit of Orc or Goblins engaged in "
+"This spell can be cast on a friendly unit of Orcs or Goblins engaged in "
 "combat; including Black Orcs, Wolf Riders, Boar Boyz and any type of Orc or "
 "Goblin troops but not Trolls, Ogres, Giants or other non-greenskins. The "
 "spell can be cast regardless of whether the Shaman can see the target or not."

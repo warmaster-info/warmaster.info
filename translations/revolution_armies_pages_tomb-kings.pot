@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,136 +17,137 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:123
-#: en/revolution/modules/armies/pages/araby.adoc:114
-#: en/revolution/modules/armies/pages/beastmen.adoc:87
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/albion.adoc:121
+#: en/revolution/modules/armies/pages/araby.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:88
+#: en/revolution/modules/armies/pages/beastmen.adoc:98
 #: en/revolution/modules/armies/pages/bretonnia.adoc:117
 #: en/revolution/modules/armies/pages/bretonnia.adoc:133
-#: en/revolution/modules/armies/pages/cathay.adoc:117
-#: en/revolution/modules/armies/pages/cathay.adoc:130
-#: en/revolution/modules/armies/pages/chaos.adoc:104
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
-#: en/revolution/modules/armies/pages/daemons.adoc:96
-#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:131
+#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:113
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/daemons.adoc:142
 #: en/revolution/modules/armies/pages/dark-elves.adoc:117
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
-#: en/revolution/modules/armies/pages/dwarfs.adoc:121
-#: en/revolution/modules/armies/pages/empire.adoc:99
-#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:123
+#: en/revolution/modules/armies/pages/dwarfs.adoc:123
+#: en/revolution/modules/armies/pages/empire.adoc:100
+#: en/revolution/modules/armies/pages/goblins.adoc:111
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
-#: en/revolution/modules/armies/pages/kislev.adoc:101
-#: en/revolution/modules/armies/pages/lizardmen.adoc:117
-#: en/revolution/modules/armies/pages/lizardmen.adoc:130
-#: en/revolution/modules/armies/pages/nippon.adoc:119
-#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/kislev.adoc:103
+#: en/revolution/modules/armies/pages/lizardmen.adoc:120
+#: en/revolution/modules/armies/pages/lizardmen.adoc:133
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/nippon.adoc:139
 #: en/revolution/modules/armies/pages/norse.adoc:83
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
-#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:104
+#: en/revolution/modules/armies/pages/orcs.adoc:121
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
-#: en/revolution/modules/armies/pages/skaven.adoc:106
-#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/skaven.adoc:131
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:123
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:104
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:129
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:113
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
-#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:115
+#: en/revolution/modules/rules/pages/battlefields.adoc:258
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
-#: en/revolution/modules/rules/pages/battlefields.adoc:448
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
+#: en/revolution/modules/rules/pages/battlefields.adoc:438
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
+#: en/revolution/modules/rules/pages/battlefields.adoc:526
+#: en/revolution/modules/rules/pages/battlefields.adoc:603
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
 #, no-wrap
 msgid "Special rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:194
-#: en/revolution/modules/armies/pages/albion.adoc:207
-#: en/revolution/modules/armies/pages/araby.adoc:304
-#: en/revolution/modules/armies/pages/beastmen.adoc:221
-#: en/revolution/modules/armies/pages/beastmen.adoc:238
-#: en/revolution/modules/armies/pages/bretonnia.adoc:260
-#: en/revolution/modules/armies/pages/bretonnia.adoc:279
-#: en/revolution/modules/armies/pages/cathay.adoc:253
-#: en/revolution/modules/armies/pages/chaos.adoc:203
-#: en/revolution/modules/armies/pages/chaos.adoc:238
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:278
-#: en/revolution/modules/armies/pages/daemons.adoc:217
-#: en/revolution/modules/armies/pages/daemons.adoc:233
-#: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:207
-#: en/revolution/modules/armies/pages/goblins.adoc:240
+#: en/revolution/modules/armies/pages/albion.adoc:197
+#: en/revolution/modules/armies/pages/albion.adoc:210
+#: en/revolution/modules/armies/pages/araby.adoc:277
+#: en/revolution/modules/armies/pages/beastmen.adoc:218
+#: en/revolution/modules/armies/pages/beastmen.adoc:235
+#: en/revolution/modules/armies/pages/bretonnia.adoc:264
+#: en/revolution/modules/armies/pages/bretonnia.adoc:283
+#: en/revolution/modules/armies/pages/cathay.adoc:248
+#: en/revolution/modules/armies/pages/chaos.adoc:200
+#: en/revolution/modules/armies/pages/chaos.adoc:235
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:277
+#: en/revolution/modules/armies/pages/daemons.adoc:222
+#: en/revolution/modules/armies/pages/daemons.adoc:238
+#: en/revolution/modules/armies/pages/dark-elves.adoc:223
+#: en/revolution/modules/armies/pages/goblins.adoc:203
+#: en/revolution/modules/armies/pages/goblins.adoc:236
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
-#: en/revolution/modules/armies/pages/kislev.adoc:239
-#: en/revolution/modules/armies/pages/lizardmen.adoc:244
-#: en/revolution/modules/armies/pages/lizardmen.adoc:300
+#: en/revolution/modules/armies/pages/kislev.adoc:249
+#: en/revolution/modules/armies/pages/lizardmen.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:294
 #: en/revolution/modules/armies/pages/norse.adoc:201
 #: en/revolution/modules/armies/pages/norse.adoc:255
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
-#: en/revolution/modules/armies/pages/orcs.adoc:189
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:249
+#: en/revolution/modules/armies/pages/orcs.adoc:193
+#: en/revolution/modules/armies/pages/skaven.adoc:259
 #: en/revolution/modules/armies/pages/skaven.adoc:276
-#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:252
-#: en/revolution/modules/armies/pages/wood-elves.adoc:267
-#: en/revolution/modules/armies/pages/wood-elves.adoc:278
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
+#: en/revolution/modules/armies/pages/wood-elves.adoc:256
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:275
-#: en/revolution/modules/armies/pages/daemons.adoc:197
-#: en/revolution/modules/armies/pages/dark-elves.adoc:257
-#: en/revolution/modules/armies/pages/lizardmen.adoc:262
+#: en/revolution/modules/armies/pages/araby.adoc:248
+#: en/revolution/modules/armies/pages/daemons.adoc:202
+#: en/revolution/modules/armies/pages/dark-elves.adoc:260
+#: en/revolution/modules/armies/pages/lizardmen.adoc:256
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:235
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/beastmen.adoc:90
+#: en/revolution/modules/armies/pages/beastmen.adoc:91
 #: en/revolution/modules/armies/pages/bretonnia.adoc:120
-#: en/revolution/modules/armies/pages/cathay.adoc:120
-#: en/revolution/modules/armies/pages/daemons.adoc:99
-#: en/revolution/modules/armies/pages/lizardmen.adoc:120
-#: en/revolution/modules/armies/pages/nippon.adoc:122
+#: en/revolution/modules/armies/pages/cathay.adoc:121
+#: en/revolution/modules/armies/pages/daemons.adoc:101
+#: en/revolution/modules/armies/pages/lizardmen.adoc:123
+#: en/revolution/modules/armies/pages/nippon.adoc:124
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:186
-#: en/revolution/modules/armies/pages/skaven.adoc:109
+#: en/revolution/modules/armies/pages/skaven.adoc:111
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:107
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:107
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
-#: en/revolution/modules/armies/pages/wood-elves.adoc:105
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:95
+#: en/revolution/modules/armies/pages/wood-elves.adoc:107
 #, no-wrap
 msgid "Army rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/bretonnia.adoc:223
-#: en/revolution/modules/armies/pages/chaos.adoc:165
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:235
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:233
+#: en/revolution/modules/armies/pages/bretonnia.adoc:227
+#: en/revolution/modules/armies/pages/chaos.adoc:162
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:234
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:229
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:218
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:198
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:213
 msgid "[.cost]#4+ to cast# [.points]#Range N/A#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/daemons.adoc:241
-#: en/revolution/modules/armies/pages/lizardmen.adoc:252
-#: en/revolution/modules/armies/pages/skaven.adoc:283
+#: en/revolution/modules/armies/pages/daemons.adoc:246
+#: en/revolution/modules/armies/pages/skaven.adoc:266
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:262
 msgid ""
 "This spell can be cast on an enemy unit. The Wizard must be able to see his "
@@ -155,22 +156,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:268
-#: en/revolution/modules/armies/pages/tomb-kings.adoc:241
-msgid ""
-"This spell can be cast on any enemy unit within range regardless of whether "
-"the Wizard can see it or not."
-msgstr ""
-
-#. type: Plain text
-#: en/revolution/modules/armies/pages/lizardmen.adoc:271
+#: en/revolution/modules/armies/pages/lizardmen.adoc:265
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:244
 msgid ""
 "The spell takes effect until the end of the opposing player’s next turn."
 msgstr ""
 
 #. type: Title =
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:79
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:80
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:1
 #, no-wrap
 msgid "Tomb Kings"
@@ -267,7 +260,7 @@ msgid ""
 "tombs constructed by their faithful Liche Priests. The bodies of the Priest "
 "Kings, and those of their most faithful troops and retainers, were carefully "
 "embalmed and interred with holy spells of immortality to prepare them for "
-"the far off day of re-awakening."
+"the far-off day of re-awakening."
 msgstr ""
 
 #. type: Plain text
@@ -394,7 +387,7 @@ msgstr ""
 msgid ""
 "Bone Giants cause terror. When a Tomb King gives an order to a Bone Giant or "
 "a brigade that contains a Bone Giant there is a −1 Command penalty. There is "
-"no penalty when a Liche-Priest gives an order."
+"no penalty when a Liche Priest gives an order."
 msgstr ""
 
 #. type: Labeled list
@@ -508,14 +501,13 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:199
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:210
 msgid ""
 "This spell can be cast upon a combat engagement taking place within 30cm of "
 "the Wizard. The spell can be cast regardless of whether the Wizard can see "
 "any units in the combat engagement or not. A single combat engagement can "
 "only be affected once by this spell in any turn regardless of how many units "
 "are involved in the combat. For purposes of deciding whether a combat is "
-"eligible as a target, combat engagements are as they appear when the die to "
+"eligible as a target, combat engagements are as they appear when the dice to "
 "cast the spell is rolled: so it is possible for pursuit or advances to bring "
 "two units of raised dead into the same engagement later on."
 msgstr ""
@@ -580,6 +572,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
+#: en/revolution/modules/armies/pages/tomb-kings.adoc:241
+msgid ""
+"This spell can be cast on any enemy unit within range regardless of whether "
+"the Wizard can see it or not."
+msgstr ""
+
+#. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:250
 msgid ""
 "Whilst the spell lasts the unit cannot charge and if engaged in combat will "
@@ -598,10 +597,9 @@ msgstr ""
 
 #. type: Plain text
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:258
-#: en/revolution/modules/armies/pages/vampire-counts.adoc:250
 msgid ""
 "_A fearsome bolt of sorcerous lightning flies from the Wizard’s outstretched "
-"finger tips and strikes an enemy unit._"
+"fingertips and strikes an enemy unit._"
 msgstr ""
 
 #. type: Plain text

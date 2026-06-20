@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgid ""
 "This section covers cannons, stone and bolt throwing war engines. Both "
 "artillery and machines share some rules in common, so we’ve included them "
 "together to avoid taking up more space than necessary. Special artillery "
-"units and machines will be described in particular armylists."
+"units and machines will be described in their particular army list."
 msgstr ""
 
 #. type: Plain text
@@ -99,16 +99,16 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:50
 msgid ""
-"Machines are more complex then artillery and some have their own rules for "
-"fighting in combat, as described in particular army lists."
+"Machines are more complex than artillery and some have their own rules for "
+"fighting in combat, as described in their particular army list."
 msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
-#: en/revolution/modules/rules/pages/flying-units.adoc:119
+#: en/revolution/modules/rules/pages/flying-units.adoc:121
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
 #: en/revolution/modules/rules/pages/movement.adoc:274
-#: en/revolution/modules/rules/pages/movement.adoc:909
+#: en/revolution/modules/rules/pages/movement.adoc:916
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
@@ -126,8 +126,8 @@ msgstr ""
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:63
 msgid ""
 "Except where noted, machines treat terrain in the same way as chariots. Some "
-"machines have special rules of their own, as described in individual army "
-"lists."
+"machines have special rules of their own, as described in their individual "
+"army list."
 msgstr ""
 
 #. type: Title ==
@@ -286,7 +286,7 @@ msgid ""
 "Because cannons can cause additional damage by bouncing shots, it is "
 "possible to inflict hits upon friends or upon units from either side that "
 "are engaged in combat.  Both of these are normally ineligible targets, but "
-"in the case of bouncing cannon shots they can suffer hits as a result of "
+"in the case of bouncing cannon shots, they can suffer hits as a result of "
 "fire directed nearby. Any friendly unengaged units that take hits from "
 "cannons are driven back as if taking enemy fire. Where friendly units are "
 "driven back in this way wait until all drive backs for enemy units have been "
@@ -413,11 +413,11 @@ msgstr ""
 #. type: Plain text
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:323
 msgid ""
-"The target unit suffers two attacks plus +1 for [.edit]#an# additional stand "
-"from the same unit within the missile’s path. A shot that skewers into a "
-"different unit inflicts one attack on that unit. All attacks against the "
-"same unit are rolled at once – for example, an infantry unit in column takes "
-"three attacks so roll three dice."
+"The target unit suffers two attacks plus +1 if an additional stand from the "
+"same unit is within the missile’s path. A shot that skewers into a different "
+"unit inflicts one attack on that unit. All attacks against the same unit are "
+"rolled at once – for example, an infantry unit in column takes three attacks "
+"so roll three dice."
 msgstr ""
 
 #. type: Plain text
@@ -425,7 +425,7 @@ msgstr ""
 msgid ""
 "Because a bolt thrower can cause hits on different units by skewering shots, "
 "it is possible to inflict hits upon enemy units that are engaged in combat. "
-"These are normally ineligible targets, but in the case of skewering shots "
+"These are normally ineligible targets, but in the case of skewering shots, "
 "they can suffer hits as a result of fire directed at a unit touching another "
 "enemy unit. Any hits on engaged units from either side will carry forward "
 "into the combat round and count as having been struck during that round for "

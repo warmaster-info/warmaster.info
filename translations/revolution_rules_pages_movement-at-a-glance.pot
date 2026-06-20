@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,17 +18,17 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
-#: en/revolution/modules/rules/pages/flying-units.adoc:119
+#: en/revolution/modules/rules/pages/flying-units.adoc:121
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
 #: en/revolution/modules/rules/pages/movement.adoc:274
-#: en/revolution/modules/rules/pages/movement.adoc:909
+#: en/revolution/modules/rules/pages/movement.adoc:916
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
 #. type: Table
-#: en/revolution/modules/rules/pages/movement.adoc:1184
+#: en/revolution/modules/rules/pages/movement.adoc:1094
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:46
 #, no-wrap
 msgid "include::partial$terrain-restrictions.tsv[]\n"

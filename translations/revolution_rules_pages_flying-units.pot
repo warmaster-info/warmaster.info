@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,18 +18,26 @@ msgstr ""
 
 #. type: Title ==
 #: en/revolution/modules/rules/pages/artillery-and-machines.adoc:53
-#: en/revolution/modules/rules/pages/flying-units.adoc:119
+#: en/revolution/modules/rules/pages/flying-units.adoc:121
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:25
 #: en/revolution/modules/rules/pages/movement.adoc:274
-#: en/revolution/modules/rules/pages/movement.adoc:909
+#: en/revolution/modules/rules/pages/movement.adoc:916
 #: en/revolution/modules/rules/pages/movement-at-a-glance.adoc:30
 #, no-wrap
 msgid "Terrain"
 msgstr ""
 
+#. type: Block title
+#: en/revolution/modules/rules/pages/battlefields.adoc:502
+#: en/revolution/modules/rules/pages/combat.adoc:1191
+#: en/revolution/modules/rules/pages/flying-units.adoc:215
+#, no-wrap
+msgid "Optional rule"
+msgstr ""
+
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/flying-units.adoc:187
+#: en/revolution/modules/rules/pages/flying-units.adoc:189
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
@@ -44,15 +52,6 @@ msgstr ""
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:17
 #, no-wrap
 msgid "Orders"
-msgstr ""
-
-#. type: Block title
-#: en/revolution/modules/rules/pages/combat.adoc:1191
-#: en/revolution/modules/rules/pages/command.adoc:539
-#: en/revolution/modules/rules/pages/flying-units.adoc:213
-#: en/revolution/modules/rules/pages/movement.adoc:337
-#, no-wrap
-msgid "Optional rule"
 msgstr ""
 
 #. type: Title =
@@ -171,31 +170,34 @@ msgid ""
 "way as units on the ground."
 msgstr ""
 
+#.  Half-pace being 10cm is otherwise only in the Movement section.
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:86
+#: en/revolution/modules/rules/pages/flying-units.adoc:88
 msgid ""
 "Flying units move up to 100cm when moving under orders. However when "
-"charging, flyers can move only up to 60cm."
+"charging, flyers can move only up to 60cm.  [.edit]#A flying unit’s half "
+"pace move is 10cm.#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:95
+#: en/revolution/modules/rules/pages/flying-units.adoc:97
 msgid ""
 "Once a flying unit has moved, it is treated exactly like a ground based unit "
 "and can therefore be shot at, charged or attacked with magic in the normal "
 "way. However, certain special rules apply regarding terrain as noted below. "
-"Also note, that flying units can only move *half pace* (up to 10cm) when "
-"charging from irregular formation which is an exception to the normal rules."
+"Also note, that flying units can [.edit]#move only# *half pace* (up to 10cm) "
+"when charging from irregular formation which is an exception to the normal "
+"rules."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/flying-units.adoc:100
+#: en/revolution/modules/rules/pages/flying-units.adoc:102
 #, no-wrap
 msgid "What can flying units see?"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:112
+#: en/revolution/modules/rules/pages/flying-units.adoc:114
 msgid ""
 "When working out if a flying unit can see an enemy, for shooting or charging "
 "for example, treat the flying unit exactly as you would a unit on the "
@@ -208,7 +210,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:126
+#: en/revolution/modules/rules/pages/flying-units.adoc:128
 msgid ""
 "When flyers move in the Command phase they ignore terrain altogether because "
 "they fly right over it. This means they can move over terrain that is "
@@ -216,7 +218,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:139
+#: en/revolution/modules/rules/pages/flying-units.adoc:141
 msgid ""
 "Although flyers can move over all kinds of terrain they cannot end their "
 "move in any kind of terrain that would be impassable to infantry, or over "
@@ -230,13 +232,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/rules/pages/flying-units.adoc:142
+#: en/revolution/modules/rules/pages/flying-units.adoc:144
 #, no-wrap
 msgid "Moving in the shooting and combat phases"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:156
+#: en/revolution/modules/rules/pages/flying-units.adoc:158
 msgid ""
 "Flyers that are driven back by shooting will move over interposing stands "
 "and terrain in the same way as in the Command phase. Driven back flyers that "
@@ -251,7 +253,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:169
+#: en/revolution/modules/rules/pages/flying-units.adoc:171
 msgid ""
 "In the Combat phase flying units that are retreating or pursuing make all "
 "moves along the ground, and their moves will be blocked by other stands, "
@@ -265,7 +267,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:173
+#: en/revolution/modules/rules/pages/flying-units.adoc:175
 msgid ""
 "Flying units that are advancing or falling back in the Combat phase are "
 "treated [.bo5a]#as described under <<moving>># and can therefore fly over "
@@ -273,13 +275,13 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/rules/pages/flying-units.adoc:176
+#: en/revolution/modules/rules/pages/flying-units.adoc:178
 #, no-wrap
 msgid "Fortified troops"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:184
+#: en/revolution/modules/rules/pages/flying-units.adoc:186
 msgid ""
 "Flying units can attack fortified units as well as units within castle "
 "courtyards and similar places. Fortified units still count as fortified to "
@@ -289,7 +291,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:194
+#: en/revolution/modules/rules/pages/flying-units.adoc:196
 msgid ""
 "If a General, Wizard or Hero rides a flying Monstrous Mount, such as a "
 "Dragon or Griffon, his fighting ability is vastly improved. The stand’s "
@@ -298,7 +300,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:198
+#: en/revolution/modules/rules/pages/flying-units.adoc:200
 msgid ""
 "A character riding a flying monster is bound by the terrain movement "
 "restrictions that apply for flying monsters. See xref:characters."
@@ -306,7 +308,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:204
+#: en/revolution/modules/rules/pages/flying-units.adoc:206
 msgid ""
 "If a lone flying character has to move to a friendly unit as a result of "
 "enemy contact he can move 30cm to reach safety in time. In this case, his "
@@ -315,7 +317,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/rules/pages/flying-units.adoc:212
+#: en/revolution/modules/rules/pages/flying-units.adoc:214
 msgid ""
 "If a flying character joins a unit in combat, he must remain with it as it "
 "fights but if the unit retreats, falls back, pursues or advances into "
@@ -325,8 +327,10 @@ msgid ""
 msgstr ""
 
 #. type: delimited block * 4
-#: en/revolution/modules/rules/pages/flying-units.adoc:218
+#: en/revolution/modules/rules/pages/flying-units.adoc:220
+#, no-wrap
 msgid ""
-"In the Command phase, flying units must end their movement more than 1cm "
-"away from enemy units unless charging."
+"*Cautious Descent:* In the Command phase, flying\n"
+"units must end their movement more than 1cm\n"
+"away from enemy units unless charging.\n"
 msgstr ""

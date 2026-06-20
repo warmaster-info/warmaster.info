@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/pages/characters-at-a-glance.adoc:5
-#: en/revolution/modules/rules/pages/flying-units.adoc:187
+#: en/revolution/modules/rules/pages/flying-units.adoc:189
 #: en/revolution/modules/rules/pages/flying-units-at-a-glance.adoc:31
 #: en/revolution/modules/rules/pages/game-values.adoc:84
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:2018
@@ -27,40 +27,8 @@ msgid "Characters"
 msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
-#: en/revolution/modules/rules/images/battlefields/battlefield.svg:675
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2263
-#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2436
-#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2445
-#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2062
-#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1960
-#, no-wrap
-msgid "ATTACKER"
-msgstr ""
-
-#. type: Content of: <svg><g><text><tspan>
-#: en/revolution/modules/rules/images/battlefields/battlefield.svg:684
-#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2481
-#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2090
-#, no-wrap
-msgid "DEFENDER"
-msgstr ""
-
-#. type: Content of: <svg><g><text><tspan>
-#: en/revolution/modules/rules/images/battlefields/battle-for-the-tower.svg:1925
-#: en/revolution/modules/rules/images/battlefields/battle-for-the-tower.svg:1934
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2189
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2198
-#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2226
-#: en/revolution/modules/rules/images/battlefields/take-and-hold.svg:1903
-#: en/revolution/modules/rules/images/battlefields/take-and-hold.svg:1930
-#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2400
-#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2071
-#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1979
-#, no-wrap
-msgid "20 cm"
-msgstr ""
-
-#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/at-all-costs.svg:935
+#: en/revolution/modules/rules/images/battlefields/at-all-costs.svg:946
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2207
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2254
 #: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2409
@@ -71,11 +39,45 @@ msgid "40 cm"
 msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/battle-for-the-tower.svg:1925
+#: en/revolution/modules/rules/images/battlefields/battle-for-the-tower.svg:1934
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2189
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2198
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2226
+#: en/revolution/modules/rules/images/battlefields/spoils-of-war.svg:902
+#: en/revolution/modules/rules/images/battlefields/spoils-of-war.svg:914
+#: en/revolution/modules/rules/images/battlefields/take-and-hold.svg:1903
+#: en/revolution/modules/rules/images/battlefields/take-and-hold.svg:1930
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2400
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2071
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1979
+#, no-wrap
+msgid "20 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2216
 #: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2245
 #: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1969
 #, no-wrap
 msgid "60 cm"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/defending-the-village.svg:2263
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2436
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2445
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2062
+#: en/revolution/modules/rules/images/siege-and-fortresses/the-watchtower.svg:1960
+#, no-wrap
+msgid "ATTACKER"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: en/revolution/modules/rules/images/battlefields/wagon-train.svg:2481
+#: en/revolution/modules/rules/images/siege-and-fortresses/into-the-breach.svg:2090
+#, no-wrap
+msgid "DEFENDER"
 msgstr ""
 
 #. type: Content of: <svg><g><text><tspan>

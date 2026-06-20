@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-15 16:10+0100\n"
+"POT-Creation-Date: 2026-06-20 14:38+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,14 +22,14 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:28
 #: en/revolution/modules/armies/pages/cathay.adoc:32
 #: en/revolution/modules/armies/pages/chaos.adoc:32
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:31
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
 #: en/revolution/modules/armies/pages/dark-elves.adoc:27
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:35
-#: en/revolution/modules/armies/pages/dwarfs.adoc:23
+#: en/revolution/modules/armies/pages/dwarfs.adoc:25
 #: en/revolution/modules/armies/pages/empire.adoc:30
 #: en/revolution/modules/armies/pages/high-elves.adoc:27
-#: en/revolution/modules/armies/pages/kislev.adoc:27
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:26
+#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
 #: en/revolution/modules/armies/pages/wood-elves.adoc:34
 #: en/revolution/modules/armies/partials/table-attributes.adoc:44
 #, no-wrap
@@ -42,16 +42,16 @@ msgstr ""
 #: en/revolution/modules/armies/pages/bretonnia.adoc:29
 #: en/revolution/modules/armies/pages/cathay.adoc:33
 #: en/revolution/modules/armies/pages/chaos.adoc:33
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:32
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:28
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:36
-#: en/revolution/modules/armies/pages/dwarfs.adoc:24
+#: en/revolution/modules/armies/pages/dwarfs.adoc:26
 #: en/revolution/modules/armies/pages/empire.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:28
-#: en/revolution/modules/armies/pages/kislev.adoc:28
+#: en/revolution/modules/armies/pages/kislev.adoc:29
 #: en/revolution/modules/armies/pages/norse.adoc:29
 #: en/revolution/modules/armies/pages/skaven.adoc:30
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:27
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:28
 #: en/revolution/modules/armies/partials/table-attributes.adoc:45
 #, no-wrap
 msgid "Hero"
@@ -61,6 +61,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/albion.adoc:32
 #: en/revolution/modules/armies/pages/cathay.adoc:35
 #: en/revolution/modules/armies/pages/chaos.adoc:36
+#: en/revolution/modules/armies/pages/daemons.adoc:33
 #: en/revolution/modules/armies/pages/dark-elves.adoc:31
 #: en/revolution/modules/armies/pages/high-elves.adoc:32
 #: en/revolution/modules/armies/pages/orcs.adoc:38
@@ -70,91 +71,93 @@ msgid "Chariot"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/albion.adoc:123
-#: en/revolution/modules/armies/pages/araby.adoc:114
-#: en/revolution/modules/armies/pages/beastmen.adoc:87
-#: en/revolution/modules/armies/pages/beastmen.adoc:97
+#: en/revolution/modules/armies/pages/albion.adoc:121
+#: en/revolution/modules/armies/pages/araby.adoc:117
+#: en/revolution/modules/armies/pages/beastmen.adoc:88
+#: en/revolution/modules/armies/pages/beastmen.adoc:98
 #: en/revolution/modules/armies/pages/bretonnia.adoc:117
 #: en/revolution/modules/armies/pages/bretonnia.adoc:133
-#: en/revolution/modules/armies/pages/cathay.adoc:117
-#: en/revolution/modules/armies/pages/cathay.adoc:130
-#: en/revolution/modules/armies/pages/chaos.adoc:104
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:111
-#: en/revolution/modules/armies/pages/daemons.adoc:96
-#: en/revolution/modules/armies/pages/daemons.adoc:140
+#: en/revolution/modules/armies/pages/cathay.adoc:118
+#: en/revolution/modules/armies/pages/cathay.adoc:131
+#: en/revolution/modules/armies/pages/chaos.adoc:105
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:113
+#: en/revolution/modules/armies/pages/daemons.adoc:98
+#: en/revolution/modules/armies/pages/daemons.adoc:142
 #: en/revolution/modules/armies/pages/dark-elves.adoc:117
-#: en/revolution/modules/armies/pages/dogs-of-war.adoc:122
-#: en/revolution/modules/armies/pages/dwarfs.adoc:121
-#: en/revolution/modules/armies/pages/empire.adoc:99
-#: en/revolution/modules/armies/pages/goblins.adoc:110
+#: en/revolution/modules/armies/pages/dogs-of-war.adoc:123
+#: en/revolution/modules/armies/pages/dwarfs.adoc:123
+#: en/revolution/modules/armies/pages/empire.adoc:100
+#: en/revolution/modules/armies/pages/goblins.adoc:111
 #: en/revolution/modules/armies/pages/high-elves.adoc:116
-#: en/revolution/modules/armies/pages/kislev.adoc:101
-#: en/revolution/modules/armies/pages/lizardmen.adoc:117
-#: en/revolution/modules/armies/pages/lizardmen.adoc:130
-#: en/revolution/modules/armies/pages/nippon.adoc:119
-#: en/revolution/modules/armies/pages/nippon.adoc:137
+#: en/revolution/modules/armies/pages/kislev.adoc:103
+#: en/revolution/modules/armies/pages/lizardmen.adoc:120
+#: en/revolution/modules/armies/pages/lizardmen.adoc:133
+#: en/revolution/modules/armies/pages/nippon.adoc:121
+#: en/revolution/modules/armies/pages/nippon.adoc:139
 #: en/revolution/modules/armies/pages/norse.adoc:83
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:106
-#: en/revolution/modules/armies/pages/orcs.adoc:120
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:104
+#: en/revolution/modules/armies/pages/orcs.adoc:121
 #: en/revolution/modules/armies/pages/regiments-of-renown.adoc:183
-#: en/revolution/modules/armies/pages/skaven.adoc:106
-#: en/revolution/modules/armies/pages/skaven.adoc:129
+#: en/revolution/modules/armies/pages/skaven.adoc:108
+#: en/revolution/modules/armies/pages/skaven.adoc:131
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:104
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:123
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:104
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:129
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:89
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:102
-#: en/revolution/modules/armies/pages/wood-elves.adoc:113
-#: en/revolution/modules/rules/pages/battlefields.adoc:263
-#: en/revolution/modules/rules/pages/battlefields.adoc:320
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:92
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:104
+#: en/revolution/modules/armies/pages/wood-elves.adoc:115
+#: en/revolution/modules/rules/pages/battlefields.adoc:258
+#: en/revolution/modules/rules/pages/battlefields.adoc:319
 #: en/revolution/modules/rules/pages/battlefields.adoc:376
-#: en/revolution/modules/rules/pages/battlefields.adoc:448
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1475
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1534
-#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1564
+#: en/revolution/modules/rules/pages/battlefields.adoc:438
+#: en/revolution/modules/rules/pages/battlefields.adoc:478
+#: en/revolution/modules/rules/pages/battlefields.adoc:526
+#: en/revolution/modules/rules/pages/battlefields.adoc:603
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1480
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1539
+#: en/revolution/modules/rules/pages/siege-and-fortresses.adoc:1569
 #, no-wrap
 msgid "Special rules"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/albion.adoc:194
-#: en/revolution/modules/armies/pages/albion.adoc:207
-#: en/revolution/modules/armies/pages/araby.adoc:304
-#: en/revolution/modules/armies/pages/beastmen.adoc:221
-#: en/revolution/modules/armies/pages/beastmen.adoc:238
-#: en/revolution/modules/armies/pages/bretonnia.adoc:260
-#: en/revolution/modules/armies/pages/bretonnia.adoc:279
-#: en/revolution/modules/armies/pages/cathay.adoc:253
-#: en/revolution/modules/armies/pages/chaos.adoc:203
-#: en/revolution/modules/armies/pages/chaos.adoc:238
-#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:278
-#: en/revolution/modules/armies/pages/daemons.adoc:217
-#: en/revolution/modules/armies/pages/daemons.adoc:233
-#: en/revolution/modules/armies/pages/dark-elves.adoc:220
-#: en/revolution/modules/armies/pages/goblins.adoc:207
-#: en/revolution/modules/armies/pages/goblins.adoc:240
+#: en/revolution/modules/armies/pages/albion.adoc:197
+#: en/revolution/modules/armies/pages/albion.adoc:210
+#: en/revolution/modules/armies/pages/araby.adoc:277
+#: en/revolution/modules/armies/pages/beastmen.adoc:218
+#: en/revolution/modules/armies/pages/beastmen.adoc:235
+#: en/revolution/modules/armies/pages/bretonnia.adoc:264
+#: en/revolution/modules/armies/pages/bretonnia.adoc:283
+#: en/revolution/modules/armies/pages/cathay.adoc:248
+#: en/revolution/modules/armies/pages/chaos.adoc:200
+#: en/revolution/modules/armies/pages/chaos.adoc:235
+#: en/revolution/modules/armies/pages/chaos-dwarfs.adoc:277
+#: en/revolution/modules/armies/pages/daemons.adoc:222
+#: en/revolution/modules/armies/pages/daemons.adoc:238
+#: en/revolution/modules/armies/pages/dark-elves.adoc:223
+#: en/revolution/modules/armies/pages/goblins.adoc:203
+#: en/revolution/modules/armies/pages/goblins.adoc:236
 #: en/revolution/modules/armies/pages/high-elves.adoc:196
 #: en/revolution/modules/armies/pages/high-elves.adoc:231
-#: en/revolution/modules/armies/pages/kislev.adoc:239
-#: en/revolution/modules/armies/pages/lizardmen.adoc:244
-#: en/revolution/modules/armies/pages/lizardmen.adoc:300
+#: en/revolution/modules/armies/pages/kislev.adoc:249
+#: en/revolution/modules/armies/pages/lizardmen.adoc:238
+#: en/revolution/modules/armies/pages/lizardmen.adoc:294
 #: en/revolution/modules/armies/pages/norse.adoc:201
 #: en/revolution/modules/armies/pages/norse.adoc:255
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:219
-#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:247
-#: en/revolution/modules/armies/pages/orcs.adoc:189
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:210
+#: en/revolution/modules/armies/pages/ogre-kingdoms.adoc:249
+#: en/revolution/modules/armies/pages/orcs.adoc:193
+#: en/revolution/modules/armies/pages/skaven.adoc:259
 #: en/revolution/modules/armies/pages/skaven.adoc:276
-#: en/revolution/modules/armies/pages/skaven.adoc:293
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:185
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:255
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:196
 #: en/revolution/modules/armies/pages/vampire-counts.adoc:247
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
-#: en/revolution/modules/armies/pages/wood-elves.adoc:252
-#: en/revolution/modules/armies/pages/wood-elves.adoc:267
-#: en/revolution/modules/armies/pages/wood-elves.adoc:278
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:196
+#: en/revolution/modules/armies/pages/wood-elves.adoc:227
+#: en/revolution/modules/armies/pages/wood-elves.adoc:256
 #: en/revolution/modules/armies/partials/empire-spells.adoc:5
 #: en/revolution/modules/armies/partials/empire-spells.adoc:29
 msgid "[.cost]#5+ to cast# [.points]#Range 30cm#"
@@ -169,10 +172,10 @@ msgid "Spearmen"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/araby.adoc:275
-#: en/revolution/modules/armies/pages/daemons.adoc:197
-#: en/revolution/modules/armies/pages/dark-elves.adoc:257
-#: en/revolution/modules/armies/pages/lizardmen.adoc:262
+#: en/revolution/modules/armies/pages/araby.adoc:248
+#: en/revolution/modules/armies/pages/daemons.adoc:202
+#: en/revolution/modules/armies/pages/dark-elves.adoc:260
+#: en/revolution/modules/armies/pages/lizardmen.adoc:256
 #: en/revolution/modules/armies/pages/tomb-kings.adoc:235
 msgid "[.cost]#4+ to cast# [.points]#Range 60cm#"
 msgstr ""
@@ -185,7 +188,7 @@ msgid "Harpies"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/chaos.adoc:127
+#: en/revolution/modules/armies/pages/chaos.adoc:128
 #: en/revolution/modules/armies/pages/dark-elves.adoc:151
 msgid ""
 "Harpies are based facing the long edge of the base in the same way as "
@@ -195,7 +198,7 @@ msgstr ""
 
 #. type: Attribute :dark-elves:
 #: en/revolution/modules/armies/pages/dark-elves.adoc:1
-#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:88
+#: en/revolution/modules/armies/pages/regiments-of-renown.adoc:89
 #, no-wrap
 msgid "Dark Elves"
 msgstr ""
@@ -204,7 +207,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dark-elves.adoc:20
 #: en/revolution/modules/armies/pages/dogs-of-war.adoc:24
 #: en/revolution/modules/armies/pages/empire.adoc:22
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:19
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:20
 #, no-wrap
 msgid "Crossbowmen"
 msgstr ""
@@ -335,7 +338,7 @@ msgid ""
 "plan to return to their homeland and win the Elven Kingdoms for their dark "
 "master. In the land of Naggaroth the Dark Elves raised temples to all manner "
 "of blood-thirsty Daemons. Witch Elves roam the night searching for "
-"sacrifices, breaking into home to steal away children, and murdering those "
+"sacrifices, breaking into homes to steal away children, and murdering those "
 "foolish enough to walk abroad beneath the stars. Under the evil gaze of "
 "Morathi thousands are sacrificed upon the altars of Khaine while to this day "
 "she preserves her unholy youth by bathing in the blood of innocents."
@@ -396,7 +399,7 @@ msgstr ""
 #: en/revolution/modules/armies/pages/dark-elves.adoc:142
 msgid ""
 "Such is their unthinking instinct to take a bite out of anything that "
-"passes, Cold One Knights has an Attack value bonus of +1 in the first round "
+"passes, Cold One Knights have an Attack value bonus of +1 in the first round "
 "of each combat when fighting to the front, i.e. the Cold One Knights’ stand "
 "has to touch the enemy in arc of sight with its frontal edge and/or frontal "
 "corners (including contact by frontal corner only)."
@@ -514,12 +517,26 @@ msgstr ""
 
 #. type: Labeled list
 #: en/revolution/modules/armies/pages/dark-elves.adoc:195
+#: en/revolution/modules/armies/pages/orcs.adoc:163
 #, no-wrap
-msgid "[[cauldron-of-blood,†9]]9. Cauldron of Blood"
+msgid "[[chariot-mount,†9]]9. Chariot Mount"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:199
+#: en/revolution/modules/armies/pages/dark-elves.adoc:197
+msgid ""
+"Generals, Heroes and Sorceresses can ride Chariots. An extra +1 Attack is "
+"added to those of its rider."
+msgstr ""
+
+#. type: Labeled list
+#: en/revolution/modules/armies/pages/dark-elves.adoc:198
+#, no-wrap
+msgid "[[cauldron-of-blood,†10]]10. Cauldron of Blood"
+msgstr ""
+
+#. type: Plain text
+#: en/revolution/modules/armies/pages/dark-elves.adoc:202
 msgid ""
 "A Sorceress can have a Cauldron of Blood. The army can only ever include one "
 "Cauldron of Blood and it can only be included if there is at least 1 unit of "
@@ -527,41 +544,41 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:202
+#: en/revolution/modules/armies/pages/dark-elves.adoc:205
 msgid ""
 "A Sorceress with a Cauldron of Blood suffers a movement reduction to 30cm."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:209
+#: en/revolution/modules/armies/pages/dark-elves.adoc:212
 msgid ""
 "The Cauldron of Blood adds +2 Attacks to the Sorceress and can be used to "
-"add +1 to the Sorceress’ dice roll to cast a spell once per battle. The "
+"add +1 to the Sorceress’s dice roll to cast a spell once per battle. The "
 "player must announce that the Cauldron of Blood’s spell bonus is being used "
 "before rolling the dice to determine if the spell is cast."
 msgstr ""
 
 #. type: Title ==
-#: en/revolution/modules/armies/pages/dark-elves.adoc:214
+#: en/revolution/modules/armies/pages/dark-elves.adoc:217
 #, no-wrap
 msgid "Dark Elf spells"
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/dark-elves.adoc:217
+#: en/revolution/modules/armies/pages/dark-elves.adoc:220
 #, no-wrap
 msgid "Doom Bolt"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:223
+#: en/revolution/modules/armies/pages/dark-elves.adoc:226
 msgid ""
-"_A bolt of pure malicious darkness arcs from the Sorcerer’s fingertip and "
+"_A bolt of pure malicious darkness arcs from the Sorceress’s fingertip and "
 "stabs towards the foes of the Dark Elves._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:229
+#: en/revolution/modules/armies/pages/dark-elves.adoc:232
 msgid ""
 "Draw an imaginary line 30cm long from the Sorceress’s stand in any direction "
 "you wish. The line will pass through any intervening units but not beyond "
@@ -570,7 +587,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:238
+#: en/revolution/modules/armies/pages/dark-elves.adoc:241
 msgid ""
 "Each unit under the line takes three shooting attacks worked out in the "
 "usual way. Note that this spell can easily effect several units and will "
@@ -582,26 +599,26 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/dark-elves.adoc:240
+#: en/revolution/modules/armies/pages/dark-elves.adoc:243
 #, no-wrap
 msgid "Black Horror"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:243
-#: en/revolution/modules/armies/pages/orcs.adoc:172
+#: en/revolution/modules/armies/pages/dark-elves.adoc:246
+#: en/revolution/modules/armies/pages/orcs.adoc:176
 msgid "[.cost]#6+ to cast# [.points]#Range 50cm#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:246
+#: en/revolution/modules/armies/pages/dark-elves.adoc:249
 msgid ""
 "_A whirling vortex of dark enemy surrounds and drags its victims into the "
 "infernal realms of Khaine the Lord of Murder._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:252
+#: en/revolution/modules/armies/pages/dark-elves.adoc:255
 msgid ""
 "This spell can be cast upon an enemy unit the Sorceress can see and which is "
 "not engaged in combat. The units suffers 4 Attacks with no saves for Armour. "
@@ -611,33 +628,33 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/dark-elves.adoc:254
+#: en/revolution/modules/armies/pages/dark-elves.adoc:257
 #, no-wrap
 msgid "Dominion"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:260
+#: en/revolution/modules/armies/pages/dark-elves.adoc:263
 msgid ""
 "_Upon invoking the curse of the foul god Khaine an unnatural and unbearable "
 "agony suffuses the body of his foes._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:263
+#: en/revolution/modules/armies/pages/dark-elves.adoc:266
 msgid ""
 "This spell can be cast on any enemy unit within range regardless of whether "
 "the Sorceress can see it or not."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:266
+#: en/revolution/modules/armies/pages/dark-elves.adoc:269
 msgid ""
 "The spell takes affect until the end of the opposing player’s next turn."
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:271
+#: en/revolution/modules/armies/pages/dark-elves.adoc:274
 msgid ""
 "Whilst the spell lasts the unit cannot charge and if engaged in combat will "
 "not pursue or advance. Even units that are otherwise obliged to charge, "
@@ -645,29 +662,29 @@ msgid ""
 msgstr ""
 
 #. type: Title ===
-#: en/revolution/modules/armies/pages/dark-elves.adoc:273
+#: en/revolution/modules/armies/pages/dark-elves.adoc:276
 #, no-wrap
 msgid "Soul Stealer"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:276
-#: en/revolution/modules/armies/pages/kislev.adoc:222
-#: en/revolution/modules/armies/pages/lizardmen.adoc:281
+#: en/revolution/modules/armies/pages/dark-elves.adoc:279
+#: en/revolution/modules/armies/pages/kislev.adoc:232
+#: en/revolution/modules/armies/pages/lizardmen.adoc:275
 #: en/revolution/modules/armies/pages/norse.adoc:226
-#: en/revolution/modules/armies/pages/witch-hunters.adoc:166
+#: en/revolution/modules/armies/pages/witch-hunters.adoc:181
 msgid "[.cost]#5+ to cast# [.points]#Range N/A#"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:279
+#: en/revolution/modules/armies/pages/dark-elves.adoc:282
 msgid ""
-"_Invoking the daemons of the abyss the Sorcerer tears the very souls from "
-"his enemies._"
+"_Invoking the daemons of the abyss the Sorceress tears the very souls from "
+"her enemies._"
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:283
+#: en/revolution/modules/armies/pages/dark-elves.adoc:286
 msgid ""
 "The Sorceress can cast this spell if she has joined a unit in combat. The "
 "spell can be cast on any single enemy unit that is touching the unit the "
@@ -675,7 +692,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: en/revolution/modules/armies/pages/dark-elves.adoc:290
+#: en/revolution/modules/armies/pages/dark-elves.adoc:293
 msgid ""
 "The target unit takes three attacks worked out in the usual way. Targets get "
 "no armour saving throws when they suffer hits from the Soul Stealer – all "
