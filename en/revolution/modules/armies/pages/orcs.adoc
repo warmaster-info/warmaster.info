@@ -133,12 +133,12 @@ automatically regenerate one outstanding hit. If no hits are left
 over after removing whole stands then regeneration has no
 effect. Regenerated hits still count towards the combat result
 for the round.
++
+[.qa]
+The Q&A has xref:rules:unit-questions-and-answers.adoc#trolls-regenerate[further information on regeneration].
 
-[[ogres,†3]]3. Ogres:: If an Ogre unit can use its initiative to charge an enemy
-unit of humans at the start of the Command phase then it must
-do so. This happens automatically and their commander can
-do nothing about it. ‘Humans’ encompasses all ‘men’ including
-Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
+[[ogres,†3]]3. Ogres::
+include::partial$ogres.adoc[]
 
 [[wolf-riders,†4]]4. Wolf Riders::
 include::partial$shoot-360-15cm.adoc[]

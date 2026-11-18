@@ -109,6 +109,7 @@ units that have taken at least 1 casualty (i.e. lost at least 1 stand
 out of 3) must make a ‘Daemonic Instability’ test. Roll a D6. If
 the unit has lost 2 stands (i.e. has only 1 stand remaining from 3)
 and is further away than 20cm from a friendly Daemon Wizard
+[.qa]#(or Daemon Overlord with Wizard Powers, xref:rules:unit-questions-and-answers.adoc#daemonic-instability[Q&A])#
 deduct 1 from the roll.
 +
 [cols="^1,6",frame=none,grid=none]
@@ -146,6 +147,9 @@ and do not roll for drive backs.
 +
 A Daemon Swarm cannot be
 given a magic item.
++
+[.qa]
+The Q&A has xref:rules:unit-questions-and-answers.adoc#flagellants-confusion[further information on fanatic-style unit drive-backs].
 
 [[daemon-flyers,†2]]2. Daemon Flyers:: These can fly.
 +

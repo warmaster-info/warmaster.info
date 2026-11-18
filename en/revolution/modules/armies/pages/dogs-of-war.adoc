@@ -149,6 +149,9 @@ front, nor do Pikemen receive any charge bonus themselves.
 A Pikemen stand cannot support or be supported by other
 infantry - only by other Pikemen stands. In all other respects
 they count as infantry (movement/pursuit etc.).
++
+[.qa]
+The Q&A has xref:rules:unit-questions-and-answers.adoc#pikemen-support[further information on Pikemen].
 
 [[handgunners,†2]]2. Handgunners:: A handgun shot can pierce armour far
 more easily than an arrow or a crossbow bolt. Therefore, count
@@ -161,11 +164,9 @@ unit still counts for the min/max value of Handgunners.
 [[ogres,†3]]3. Ogres:: Ogres flock to Dogs of War armies for the chance of
 a good fight and as much as they can eat. These creatures are
 notoriously fond of fresh human meat, although they will eat
-practically anything that was once alive (or still is). To represent
-this an Ogre unit must use its initiative to charge an enemy unit
-of humans (humans: men, not dwarfs, elves etc.) if it is within
-20cm at the start of the Command phase and the Ogres can
-reach it.
+practically anything that was once alive (or still is).
++
+include::partial$ogres.adoc[]
 
 [[light-cavalry,†4]]4. Light Cavalry:: Dogs of War armies make great use of expert
 light cavalry from all around the world. Empire Pistoliers,

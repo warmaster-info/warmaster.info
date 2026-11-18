@@ -120,6 +120,9 @@ and do not roll for drive backs. If victorious in combat they must
 pursue or advance where possible. Flagellants are unaffected
 by enemies that cause terror in combat, so they do not suffer
 the usual −1 Attack modifier.
++
+[.qa]
+The Q&A has xref:rules:unit-questions-and-answers.adoc#flagellants-confusion[further information on fanatic-style unit drive-backs].
 
 [[skirmishers,†3]]3. Skirmishers:: Skirmisher stands are not deployed as
 independent units. Instead, any infantry unit apart from
@@ -134,6 +137,10 @@ as a unit casualty if the player wishes.
 Skirmisher casualties never count for Command penalties.
 Skirmisher stands never cause the parent unit to be in Irregular
 Formation no matter how they are placed.
++
+[.qa]
+Skirmishers do not add to the army break point, see the
+xref:rules:unit-questions-and-answers.adoc#skirmishers-spawn-break-point[Q&A on Skirmishers].
 
 [[pistoliers,†4]]4. Pistoliers::
 include::partial$shoot-360-15cm.adoc[]

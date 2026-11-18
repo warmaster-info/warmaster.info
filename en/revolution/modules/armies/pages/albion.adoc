@@ -124,11 +124,8 @@ include::partial$albion.tsv[]
 6: cannot.  Reworded to favour singular as it's an individual monster
 6: Unclear, that specific druid or all druids?  Changed to "that Druid" as I think that's the intention
 ////
-[[ogres,†1]]1. Ogres:: If an Ogre unit can use its initiative to charge an enemy
-unit of humans at the start of the Command phase then it must
-do so. This happens automatically and their commander can
-do nothing about it. ‘Humans’ encompasses all ‘men’ including
-Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
+[[ogres,†1]]1. Ogres::
+include::partial$ogres.adoc[]
 
 [[giant,†2]]2. Giant::
 include::partial$giant.adoc[]

@@ -109,16 +109,8 @@ include::partial$ogre-kingdoms.tsv[]
 5: standard −1 command penalty, the usual
 6: Paragraph break moved
 ////
-[[bull-ogres,†1]]1. Bull Ogres:: If an Ogre unit can use its initiative to charge an
-enemy unit of humans at the start of the Command phase then
-it must do so. This happens automatically and their commander
-can do nothing about it. ‘Humans’ encompasses all men
-including Chaos Warriors and Marauders, but not Dwarfs,
-Elves etc.
-+
-[.qa]
-The Q&A lists xref:rules:questions-and-answers.adoc#ogre-humans[exactly which units count as ‘Humans’]
-for this rule.
+[[bull-ogres,†1]]1. Bull Ogres::
+include::partial$ogres.adoc[]
 
 [[leadbelchers,†2]]2. Leadbelchers:: Leadbelchers’ cannons have a range of 15cm.
 Leadbelchers’ shooting attacks

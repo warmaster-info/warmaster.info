@@ -104,11 +104,8 @@ include::partial$chaos.tsv[]
 [#special-rules]
 == Special rules
 
-[[ogres,†1]]1. Ogres:: If an Ogre unit can use its initiative to charge an enemy
-unit of humans at the start of the Command phase then it must
-do so. This happens automatically and their commander can
-do nothing about it. ‘Humans’ encompasses all ‘men’ including
-Chaos Warriors and Marauders, but not Dwarfs, Elves etc.
+[[ogres,†1]]1. Ogres::
+include::partial$ogres.adoc[]
 
 [[trolls,†2]]2. Trolls:: When trying to issue an order to a unit of Trolls or to
 a brigade that contains a unit of Trolls, any Command penalty
@@ -120,6 +117,9 @@ automatically regenerate one outstanding hit. If no hits are left
 over after removing whole stands then regeneration has no
 effect. Regenerated hits still count towards the combat result
 for the round.
++
+[.qa]
+The Q&A has xref:rules:unit-questions-and-answers.adoc#trolls-regenerate[further information on regeneration].
 
 [[harpies,†3]]3. Harpies:: Harpies are based facing the long edge of the base in
 the same way as infantry, rather than the short edge like other
@@ -140,6 +140,13 @@ backs. Spawn units must pursue or advance if victorious in
 combat where it is permitted to do so.
 +
 include::partial$shoot-360-15cm.adoc[]
++
+[.qa]
+Spawn are a separate unit and count as such towards the army break point. See the
+xref:rules:unit-questions-and-answers.adoc#skirmishers-spawn-break-point[Q&A on Chaos Spawn].
++
+[.qa]
+The Q&A has xref:rules:unit-questions-and-answers.adoc#flagellants-confusion[further information on fanatic-style unit drive-backs].
 
 [[chaos-dragon,†6]]6. Chaos Dragon:: Generals, Wizards and Heroes can ride a
 Chaos Dragon.
